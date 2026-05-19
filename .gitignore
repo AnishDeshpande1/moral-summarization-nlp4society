@@ -6,6 +6,8 @@ __pycache__/
 # C extensions
 *.so
 
+EMMONA_dataset/*
+
 # Distribution / packaging
 .Python
 build/
