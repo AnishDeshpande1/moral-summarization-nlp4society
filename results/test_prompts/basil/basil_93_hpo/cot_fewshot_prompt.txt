@@ -1,0 +1,268 @@
+You have to summarize the following text preserving the moral framing that the author gave to it.
+
+Please study the following examples of news articles, their moral word extraction, and summaries preserving the moral framing:
+
+Example 1 (Political Ideology: Left):
+Here is the news article:
+
+The “compromise” immigration bill released Thursday night by Republicans in the House of Representatives is set to come to the House floor next week, alongside a more conservative alternative.
+It’s a sweeping plan that covers everything from border security (including a promise of $25 billion for Trump’s border wall); to a way for immigrants who are facing the loss of their protections under the Deferred Action for Childhood Arrivals (DACA) program to apply for legal status and ultimately (possibly) green cards and citizenship; to cuts to legal family-based immigration that are partially offset by expanding permanent employer-based immigration.
+
+But House Speaker Paul Ryan and others are emphasizing a different aspect of the bill.
+They claim it would prevent the Trump administration from separating children from their parents at the US-Mexico border — a practice the administration made widespread in early May and that has resulted in the separation of hundreds of families a week.
+
+They’re lying.
+
+The Republican bill doesn’t outlaw family separation.
+It doesn’t stop the Trump administration from choosing to prosecute asylum seekers who enter the US between ports of entry (official border crossings) for illegal entry, which results in parents being sent into criminal custody without their children.
+And it doesn’t even force the government not to separate parents who do present themselves legally for asylum from their children — something that has also been happening, though isn’t as widespread.
+
+What the House bill does is get rid of the extra legal protections that children and families have in immigration detention: a requirement that children be kept in the “least restrictive” conditions possible, and that they not be detained any longer than necessary.
+This means that if the family is kept together, their parents must be released with them.
+The Trump administration calls those protections “loopholes,” and blames them for “forcing” the administration to keep asylum-seekers in custody by separating families.
+
+If the House bill passed, the Trump administration probably would stop separating families.
+Instead, it would be able to keep children and parents in ICE detention until their cases were resolved — that is, they could be in held in detention indefinitely.
+
+The House bill allows kids and families to be detained by ICE indefinitely — which is what Trump has wanted all along
+
+The Republican summary of the new bill (as reported by Leigh Ann Caldwell of NBC) claims that it ends family separation: “Accompanied alien minors apprehended at the border must not be separated from their parent or legal guardian while in DHS custody.”
+
+There is no language like that in the bill.
+
+What exists, however, in a section called “Clarification of Standards for Family Detention,” is a provision allowing ICE to detain immigrant children who come to the US with their parents or guardians in the same way it would detain adults:
+
+There exists no presumption that an alien child who is not an unaccompanied alien child should not be detained, and all such determinations shall be in the discretion of the Secretary of Homeland Security.
+
+That sentence would overrule a court agreement that’s been in place for the past 20 years, called the Flores agreement, that puts strict limitations on when the government can keep children in immigration detention.
+The Flores agreement requires that kids be released “without unnecessary delay,” and that they are kept in the meantime in the “least restrictive” conditions possible.
+
+Courts have interpreted that agreement to mean that ICE can’t detain families for more than 20 days in most cases.
+
+The Flores agreement doesn’t require the government to separate families.
+It just requires the government not to indefinitely detain children.
+But the Trump administration has decided to maximize the detention of asylum seekers, including parents, to prevent people from disappearing into the US as unauthorized immigrants after they’re released.
+(This is the so-called “catch and release” policy Trump has railed against.)
+
+Rather than release parents with their children, therefore, the administration is separating families so the parents can be detained while the children (sent to the custody of HHS as “unaccompanied alien children”) are ultimately placed with sponsors.
+
+The House bill allows the administration to keep families in immigration detention indefinitely.
+It doesn’t even specify that there are any additional conditions on how children can be detained — there’s nothing preventing the Trump administration from simply putting children in existing ICE detention centers for adults, rather than expanding detention centers designed for families.
+
+Nothing in the bill requires ICE to keep parents and children together in detention.
+In fact, the mechanism that the Trump administration has generally been using to separate families — referring parents into the custody of the Department of Justice for prosecution — isn’t even addressed in the bill.
+
+The only reason the House bill could possibly end the separation of families would be if the Trump administration decided that because they now didn’t have to release children from detention, they would stop prosecuting parents, and they would make an effort to keep families together in ICE detention.
+
+But even then, that just means that children would be held in facilities that are essentially jails with their parents for months, or even years, until they ultimately received legal status — or, more likely, until they were finally deported.
+
+STEP 1:
+* lying
+* widespread
+* illegal
+* loopholes
+* forcing
+* indefinitely
+* catch
+* release
+* maximize
+* unauthorized
+* railed
+* separating
+* widespread
+
+SUMMARY:
+The House Republicans' new "compromise" immigration bill is a sweeping plan that covers border security, DACA, and legal family-based immigration. However, House Speaker Paul Ryan and others are misleadingly claiming that it would prevent the Trump administration from separating children from their parents at the US-Mexico border. In reality, the bill doesn't outlaw family separation, and instead, it allows the Trump administration to detain children and parents indefinitely in ICE detention centers. The bill gets rid of the extra legal protections that children and families have in immigration detention, which the Trump administration calls "loopholes". This means that if the family is kept together, their parents must be released with them, but the Trump administration would rather detain families indefinitely. The bill is a thinly veiled attempt to maximize the detention of asylum seekers, including parents, and to prevent people from disappearing into the US as unauthorized immigrants. END OF SUMMARY.
+
+Example 2 (Political Ideology: Center):
+Here is the news article:
+
+WASHINGTON — The Trump administration on Thursday published new visa rules aimed at restricting “birth tourism,” in which women travel to the United States to give birth so their children can have U.S. citizenship.
+
+Applicants will be denied tourist visas if they are determined by consular officers to be coming to the U.S. primarily to give birth, according to the rules in the Federal Register.
+It is a bigger hurdle to overcome, proving they are traveling to the U.S. because they have a medical need and not just because they want to give birth here.
+Those with medical needs will be treated like other foreigners coming to the U.S. for medical treatment and must prove they have the money to pay for it — including transportation and living expenses.
+
+“Closing this glaring immigration loophole will combat these endemic abuses and ultimately protect the United States from the national security risks created by this practice,” White House press secretary Stephanie Grisham said in a statement.
+“It will also defend American taxpayers from having their hard-earned dollars siphoned away to finance the direct and downstream costs associated with birth tourism.
+The integrity of American citizenship must be protected.”
+
+The practice of traveling to the U.S. to give birth is fundamentally legal, although there are scattered cases of authorities arresting operators of birth tourism agencies for visa fraud or tax evasion.
+And women are often honest about their intentions when applying for visas and even show signed contracts with doctors and hospitals.
+
+The State Department “does not believe that visiting the United States for the primary purpose of obtaining U.S. citizenship for a child, by giving birth in the United States — an activity commonly referred to as ‘birth tourism’ — is a legitimate activity for pleasure or of a recreational nature,” according to the new rules, which take effect Friday.
+
+While the new rules deal specifically with birth tourism, the Trump administration also has turned away pregnant women coming over the U.S.-Mexico border as part of a broader immigration crackdown.
+Those women were initially part of a “vulnerable” group that included others like small children who were allowed in, while tens of thousands of other asylum seekers have been returned to Mexico to wait out their cases.
+
+President Donald Trump’s administration has been restricting all forms of immigration, but Trump has been particularly plagued by the issue of birthright citizenship — anyone born in the U.S. is considered a citizen, under the Constitution.
+The Republican president has railed against the practice and threatened to end it, but scholars and members of his administration have said it’s not so easy to do.
+
+The U.S. has been cracking down on the practice since before Trump took office.
+
+Regulating tourist visas for pregnant women is one way to get at the issue, but it raises questions about how officers would determine whether a woman is pregnant to begin with and whether a woman could get turned away by border officers who suspect she may be just by looking at her.
+
+And critics of the new policy say it could put pregnant women at risk.
+
+Consular officers don’t have the right to ask during visa interviews whether a woman is pregnant or intends to become so.
+But they would still have to determine whether a visa applicant would be coming to the U.S. primarily to give birth.
+
+Birth tourism is a lucrative business in both the U.S. and abroad.
+Companies take out advertisements and charge up to $80,000 to facilitate the practice, offering hotel rooms and medical care.
+Many of the women travel from Russia and China to give birth in the U.S.
+
+The U.S. has been cracking down on the practice since before Trump took office.
+
+“An entire ‘birth tourism’ industry has evolved to assist pregnant women from other countries to come to the United States to obtain U.S. citizenship for their children by giving birth in the United States, and thereby entitle their children to the benefits of U.S. citizenship,” according to the State Department rules.
+
+There are no figures on how many foreign women travel to the U.S. specifically to give birth.
+The Center for Immigration Studies, a group that advocates for stricter immigration laws, estimated that in 2012 about 36,000 foreign-born women gave birth in the U.S. and then left the country.
+
+“This rule will help eliminate the criminal activity associated with the birth tourism industry,” according to the rules.
+“The recent federal indictments describe birth tourism schemes in which foreign nationals applied for visitor visas to come to the United States and lied to consular officers about the duration of their trips, where they would stay, and their purpose of travel.”
+
+STEP 1:
+* loophole
+* abuses
+* endemic
+* protect
+* integrity
+* legitimate
+* vulnerable
+* plagued
+* cracking
+* lucrative
+* criminal
+* lied
+
+SUMMARY:
+The Trump administration has introduced new visa rules to combat "birth tourism," a practice deemed "illegitimate" and "abusive" by the White House. The rules aim to restrict women from traveling to the US primarily to give birth and obtain US citizenship for their children. Applicants will be denied tourist visas if consular officers determine they are coming to the US for this purpose. The administration claims this "loophole" must be closed to "protect" American taxpayers and national security. Critics argue the policy could put pregnant women at risk and raise questions about how officers will determine a woman's intentions. The "birth tourism" industry, deemed "lucrative" and "criminal," has been operating in the US and abroad, with companies charging up to $80,000 to facilitate the practice. The new rules aim to "eliminate" this industry and its associated "abuses." END OF SUMMARY.
+
+Example 3 (Political Ideology: Right):
+Here is the news article:
+
+President Trump’s immigration compromise package to end the partial government shutdown drew sharp reactions from Democratic and Republican lawmakers alike.
+
+In a televised White House address on Saturday afternoon, Trump offered Democrats a three-year extension of protections for 700,000 Deferred Action for Childhood Arrivals (DACA) recipients, in exchange for the $5.7 billion he has been seeking for a barrier along the nation's southern border with Mexico.
+
+“Our immigration system should be a source of pride ... not a source of shame as it is all over the world,” Trump said in his plea.
+
+The president’s proposal was met with disdain from an array of top Democratic lawmakers.
+Many used the same language in their critiques, accusing Trump of holding the government and federal workers "hostage."
+
+House Speaker Nancy Pelosi, D-Calif., tweeted, “What we didn’t hear from the President was any sympathy for the federal workers who face so much uncertainty because of the chaos of the #TrumpShutdown.”
+
+Before Trump made his announcement, Pelosi had called his anticipated proposal “a non-starter.”
+
+“For one thing, this proposal does not include the permanent solution for the Dreamers and TPS recipients that our country needs and supports.”
+
+For his part, Chuck Schumer, the Senate minority leader, called Trump's proposal "one-sided and ineffective."
+
+"It's clear the President realizes that by closing the government and hurting so many American workers and their families, he has put himself and the country in an untenable position.
+Unfortunately, he keeps putting forward one-sided and ineffective remedies.
+There's only one way out: open the government, Mr. President, and then Democrats and Republicans can have a civil discussion and come up with bipartisan solutions."
+
+Schumer, D-N.Y., concluded, "It was the President who single-handedly took away DACA and TPS protections in the first place – offering some protections back in exchange for the wall is not a compromise but more hostage taking."
+
+House Majority Leader Steny Hoyer shared a similar sentiment, urging Trump and Sen. Mitch McConnell to "stop holding government hostage and end the shutdown" immediately.
+
+“The president must stop holding government hostage and end the shutdown so federal employees can get back to work serving the American people.
+There is no reason for Americans to be shut out of work and without a paycheck while negotiations take place on the best way to secure our borders,” he said.
+
+Hoyer said negotiation can progress after the government reopens.
+
+“With the government open, we can negotiate an agreement to strengthen border security that both sides can support and that is in the best interests of the American people.”
+
+Another leading Dem, Sen. Kristen Gillibrand of New York, who announced her White House bid on Jan. 15 in an episode of "The Late Show with Stephen Colbert," said Trump's offer was a "bad deal."
+
+Gillibrand tweeted: "Trump ordered the end of DACA and TPS.
+Then he shut down the government.
+Now he's holding federal workers hostage, saying he'll temporarily give back what he took away -- only if we give him a pointless, ineffective wall he falsely promised Mexico would pay for.
+This is a bad deal."
+
+Then there was New Jersey Sen. Bob Menendez's response. He bluntly accused Trump of forcing "a pointless shutdown" to pay for the border wall.
+
+"This is about more than 800,000 Americans who are being held hostage by a President who has forced a pointless shutdown to pay for an expensive, ineffective wall.
+This is not about immigration.
+Dreamers and TPS recipients are not bargaining chips.
+It's unacceptable that after taking away DACA protections, eliminating the TPS program for thousands of immigrants and creating a humanitarian crisis at the border, President Trump is offering temporary solutions in exchange for a permanent wall."
+
+The Democratic senator also said "a legitimate negotiation" can proceed after the government is reopened.
+
+Fellow Democratic Sen. Chris Coons of Delaware slammed McConnell for refusing "to meaningfully negotiate with Senate Democrats," but also called Trump's offer "a first step toward comprehensive immigration reform."
+
+"This senseless government shutdown is hurting millions of Americans, and its impacts are only getting worse. The President should re-open the government so that Republicans and Democrats in Congress can work with the White House to find a sensible solution on border security and immigration.
+I am confident that a reasonable compromise can be reached, but not while President Trump continues to keep significant parts of the government shut down and Leader McConnell refuses to meaningfully negotiate with Senate Democrats," he said.
+
+"Some relief for Dreamers and an extension of Temporary Protected Status represent a first step toward comprehensive immigration reform, but more ideas from members of both parties should be taken up and debated.
+Republicans and Democrats stand ready to work toward a solution, but the fact remains that there is no reason to have large parts of the federal government shut down while we debate appropriate border security and immigration policies."
+
+Republican lawmakers, at the opposite end of the reaction spectrum, praised the president for his willingness to negotiate.
+
+Senate Majority Leader McConnell, for instance, commended the president "for taking bipartisan steps toward addressing current immigration issues."
+
+In his statement, he said; “Compromise in divided government means that everyone can’t get everything they want every time.
+The president’s proposal reflects that.
+It strikes a fair compromise by incorporating priorities from both sides of the aisle."
+
+“This bill takes a bipartisan approach to re-opening the closed portions of the federal government.
+It pairs the border security investment that our nation needs with additional immigration measures that both Democrat and Republican members of Congress believe are necessary.
+Unlike the bills that have come from the House over the past few weeks, this proposal could actually resolve this impasse.
+It has the full support of the President and could be signed into law to quickly reopen the government."
+
+Republican Whip Steve Scalise called on Democrats to match Trump's willingness to negotiate.
+
+"The time for political games has long passed.
+Democrats must put their personal dislike of the president aside, end their obstruction, and finally come to the negotiating table.
+It's time Democrats do what is right for the functioning and security of our nation and agree to a deal that opens our government, and includes funding for a border wall and other measures to solve this serious immigration crisis at our southern border," he said in a statement.
+
+Also on the Republican side, Sen. Susan Collins of Maine said she was "hopeful" for a "constructive debate" with Democrats.
+
+“Compromise is not a sign of weakness — it’s a sign of strength, particularly when hundreds of thousands of families are being harmed.
+The Administration, Senate Republicans, and Democrats must now resolve this stalemate before 800,000 federal workers and their families miss yet another paycheck, and our economy is further damaged,” she said.
+
+Sen. Mitt Romney, R-Utah, whose views on the president and his policies have fluctuated, said Trump "put forth a reasonable, good faith proposal that will reopen the government and help secure the border."
+
+He tweeted, "I look forward to voting for it and will work to encourage my Republican and Democratic colleagues to do the same.
+
+Earlier, while speaking in Ogden, Utah, Romney said he did not understand Pelosi's position on border security.
+
+"You (Pelosi) and your fellow Democrats have voted for over 600 miles of border fence in the past, why won't you vote for another few miles now? I don't understand their position, I really don't," the Republican senator said.
+
+Florida Sen. Marco Rubio took a positive view of Trump's proposed deal, like his fellow Republicans.
+He said Trump made "a very reasonable offer" and urged Democrats to work with him.
+
+“The way to end this shutdown is for both sides to make mutual concessions in order to reach an agreement.
+The president has made a very reasonable offer to extend DACA and TPS protections in exchange for the border security measures he supports.
+I hope that instead of choosing the road of endless obstruction, Democrats will decide to work with him to reach an agreement and end the shutdown,” he said.
+
+Likewise, House Republican Leader Kevin McCarthy called the president's immigration offer "reasonable."
+
+McCarthy tweeted: "President Trump has put forward a serious and reasonable offer to reform parts of our broken immigration system and reopen government.
+The moment now turns to Nancy Pelosi and Chuck Schumer. The country is watching."
+
+
+STEP 1:
+* shame
+* hostage
+* chaos
+* ineffective
+* one-sided
+* untenable
+* bad
+* pointless
+* unacceptable
+* senseless
+* legitimate
+* reasonable
+
+SUMMARY:
+President Trump's immigration compromise package to end the partial government shutdown has drawn sharp reactions from Democratic and Republican lawmakers alike. Trump offered Democrats a three-year extension of protections for 700,000 Deferred Action for Childhood Arrivals (DACA) recipients in exchange for the $5.7 billion he has been seeking for a barrier along the nation's southern border with Mexico. However, top Democratic lawmakers accused Trump of holding the government and federal workers "hostage" and criticized his proposal as "one-sided" and "ineffective." They argued that Trump's offer was a "bad deal" and that he was using DACA recipients as "bargaining chips" in a "pointless shutdown." In contrast, Republican lawmakers praised the president for his willingness to negotiate, calling his proposal "reasonable" and a "good faith" effort to reopen the government. END OF SUMMARY.
+
+Now, here is the target news article to summarize:
+Here is the news article:
+
+WASHINGTON ― President Donald Trump’s offer to Democrats over the weekend seeking to trade temporary protections for some immigrants in exchange for funding for a wall on the U.S.-Mexico border received positive coverage from some outlets, including being called a “compromise” and a move by Trump “toward the center.” But the latest details in the proposal, which Senate Republicans unveiled Monday in a bill they plan to vote on this week, make the offer appear less of a compromise and more of a wish list for immigration hard-liners like White House adviser Stephen Miller. Trump is offering a three-year extension for the Obama-era Deferred Action for Childhood Arrivals program, which protects from deportation hundreds of thousands of immigrants brought to the U.S. as kids. The offer would also give a three-year extension to 300,000 people from El Salvador, Haiti, Nicaragua and Honduras who are living in the U.S. under the temporary protected status program. Democrats rejected the offer before Trump even announced it on Saturday, however, maintaining that it didn’t go nearly far enough and that the president ought to reopen the government before any negotiations over the border proceed. But the GOP bill incorporating his offer would also gut existing asylum laws for children and trafficking victims from Central America, ban asylum for minors who present themselves at ports of entry, gut the concept of temporary protected status for future cases and expand immigration detention ― all measures making it more likely to be dead on arrival in the Senate. “Given the poison pills stuffed into a proposal that was supposed to entice Democrats we can now say the Trump ‘offer’ isn’t about getting to a deal but about shifting blame. So obvious. So predictable. So pathetic,” Frank Sharry, the executive director of the immigration advocacy group America’s Voice, tweeted on Tuesday. The bill would ban asylum for Central American minors, including those who arrive at the border with their parents, unless the minors apply for asylum in their home country. It would also cap the number of Central American minors who are allowed to apply for asylum each year at 50,000 and limit the number of asylum applications that could be granted per year to 15,000. The administration has for months tried to reduce the number of people seeking asylum in the U.S. as part of a broader effort to stem the flow of Central American migrants crossing the border from Mexico. Trump’s administrative attempts to curtail the asylum process have faced legal challenges in two federal courts, however, prompting this week’s legislative fix. “This bill includes the most extreme changes on asylum that I’ve ever seen,” Kerri Talbot, the director of federal advocacy at the group Immigration Hub, said on a press call on Tuesday. Under the GOP bill, minors who apply for asylum would face much stiffer consequences for filing an application found to be frivolous ― including permanent ineligibility for future protections. The bill’s changes to asylum law alarmed immigration activists online, as well some on the right, including attorney and conservative writer Gabriel Malor. Trump’s efforts to win over Democratic support on the bill ― which will require at least 60 votes to pass in the Senate ― hit even more trouble on Tuesday after the Supreme Court once again did not act on the administration’s effort to end DACA. The move essentially left protections for Dreamers in place for at least the next several months ― giving Democrats less incentive to agree to Trump’s offer of protections to DACA recipients.
+
+(1) First, you identify all the single words that are morally framed. Identify this step as "STEP 1:" and report each word in a new line starting with *
+(2) Finally, you write a summary of the news article. Please preserve as many morally framed words as possible in your summary. The summary has to be returned after a "SUMMARY:" token and ending with a "END OF SUMMARY." token. The summary should be no longer than 200 words.

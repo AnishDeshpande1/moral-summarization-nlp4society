@@ -1,0 +1,152 @@
+You have to summarize the following text preserving the moral framing that the author gave to it.
+
+Please study the following examples of news articles and their summaries preserving the moral framing:
+
+Example 1 (Political Ideology: Left):
+Here is the news article:
+
+Planned Parenthood and the ACLU sued Alabama Friday over the state’s near-total abortion ban — which is exactly what Alabama Republicans wanted.
+It’s the first step in what promises to be a long legal battle over whether to let the ban go into effect.
+
+Under Alabama’s law, abortions would only be allowed if a pregnancy posed a “serious health risk” to the mother.
+There are no exceptions for rape or incest, and abortion providers could spend up to 99 years in prison for performing the procedure.
+
+If that sounds unconstitutionally severe, Republicans engineered the law that way: Its backers wanted to force abortion rights advocates to sue, so that the law could be used as a vehicle to overturn Roe v. Wade, the 1973 Supreme Court decision that legalized abortion nationwide.
+
+“The Alabama legislature has been pushing abortion care further and further out of reach for years with medically unnecessary and politically-motivated restrictions, and this extreme abortion ban shows us just how far they’ll go to push their anti-abortion agenda,” Alexa Kolbi-Molinas, senior staff attorney at the ACLU Reproductive Freedom Project, said in a statement.
+“This law is blatantly unconstitutional, and the ACLU will not stand by while politicians emboldened by President [Donald] Trump’s anti-abortion agenda exploit our health and our lives for political gain.”
+
+The lawsuit was filed in U.S. district court in Alabama, on behalf of Planned Parenthood Southeast, Alabama’s three abortion clinics, and Yashica Robinson, a doctor who performs abortions in the state.
+The ACLU and Planned Parenthood lay out the long history of Alabama’s attempts to restrict abortions and argues that the “serious health risk” exception is tailored so narrowly as to be impossible to comply with.
+
+The lawsuit also argues that banning abortion will disproportionately harm black and low-income people.
+While black people make up less than a third of Alabama’s population, they account for over 60% of people who get abortions in the state, according to the lawsuit.
+Most of the abortion clinics’ patients are also low-income.
+
+In a call with journalists last week, shortly after the Alabama legislature passed the ban, a reporter asked Leana Wen, president of the Planned Parenthood Action Fund, what she would say to people who believe that filing a lawsuit over the ban would play right into anti-abortion activists’ hands.
+
+“We have no choice,” Wen replied.
+“For us, this is about our patients’ lives.
+We have to file lawsuits.
+We have to fight through every channel, through the legislatures, through the courts, through the ballot boxes.”
+
+So far this year, state legislatures have introduced more than 350 abortion restrictions, according to a tally by the Guttmacher Institute.
+Last week, Missouri’s legislature passed a bill to ban abortion after about eight weeks, or before many people know they’re pregnant; another four states have also passed laws that would ban abortion as early as six weeks into a pregnancy.
+
+None of those laws are currently in effect, and abortion remains legal in every state.
+
+Cover image: Kay Metcalf chants alongside opponents of the abortion law passed last week by the Missouri legislature on Tuesday, May 21, 2019 outside of Columbia City Hall.
+The recent laws regulating abortion in Missouri, Alabama and Georgia spurred protests nationwide.
+
+SUMMARY:
+
+Alabama's near-total abortion ban, which allows abortions only if a pregnancy poses a "serious health risk" to the mother, has been sued by Planned Parenthood and the ACLU. The law, engineered by Republicans, has no exceptions for rape or incest and could lead to 99-year prison sentences for abortion providers. The ACLU argues that the law is "blatantly unconstitutional" and is a politically-motivated attempt to overturn Roe v. Wade. The lawsuit highlights Alabama's history of restricting abortions and argues that the ban will disproportionately harm black and low-income people, who make up a majority of those seeking abortions in the state. This lawsuit is part of a larger trend, with over 350 abortion restrictions introduced in state legislatures this year. The ACLU and Planned Parenthood vow to fight through every channel to protect their patients' lives and reproductive rights.
+
+END OF SUMMARY.
+
+Example 2 (Political Ideology: Center):
+Here is the news article:
+
+WASHINGTON — All same-sex couples who are legally married will be recognized as such for federal tax purposes, even if the state where they live does not recognize their union, the Treasury Department and the Internal Revenue Service said Thursday.
+
+It is the broadest federal rule change to come out of the landmark Supreme Court decision in June that struck down the 1996 Defense of Marriage Act, and a sign of how quickly the government is moving to treat gay couples in the same way that it does straight couples.
+
+The June decision found that same-sex couples were entitled to federal benefits, but left open the question of how Washington would actually administer them.
+The Treasury Department answered some of those questions on Thursday.
+As of the 2013 tax year, same-sex spouses who are legally married will not be able to file federal tax returns as if either were single.
+Instead, they must file together as “married filing jointly” or individually as “married filing separately.”
+
+Their address or the location of their wedding does not matter, as long as the marriage is legal: a same-sex couple who marry in Albany, N.Y., and move to Alabama are treated the same as a same-sex couple who marry and live in Massachusetts.
+
+“Today’s ruling provides certainty and clear, coherent tax-filing guidance for all legally married same-sex couples nationwide,” Treasury Secretary Jacob J. Lew said.
+“This ruling also assures legally married same-sex couples that they can move freely throughout the country knowing that their federal filing status will not change.”
+
+Gay and civil rights groups praised the ruling.
+“Committed and loving gay and lesbian married couples will now be treated equally under our nation’s federal tax laws, regardless of what state they call home,” said Chad Griffin, the president of the Human Rights Campaign.
+“These families finally have access to crucial tax benefits and protections previously denied to them under the discriminatory Defense of Marriage Act.”
+
+But the Treasury decision could have ramifications for many gay couples’ tax liabilities, said Roberton Williams of the nonpartisan Tax Policy Center in Washington.
+Couples with similar incomes often pay the “marriage penalty,” with their tax liability as a couple being much higher than it would be if they were single.
+
+At the same time, same-sex couples will also be able to file amended returns for certain prior tax years, meaning that many couples might be eligible for refunds.
+Couples do not have to file amended returns if they do not want to, a senior Treasury official said, meaning that couples who might pay the marriage penalty would not owe back taxes.
+
+But the ruling creates complications for same-sex couples who live in any of the 37 states that do not recognize their marriages.
+Previously, such couples filed federal and state tax returns as individuals.
+Now, they will have to file their federal returns as other married couples do, but may be required to file their state returns as individuals.
+
+“There’s going to be a cumbersome workaround,” said Nanette Lee Miller of Marcum L.L.P., a public accounting firm.
+She sees it as a paperwork bother more than a financial issue.
+
+States might also respond to the federal ruling with changes of their own.
+“Most state income tax regimes begin with federal taxable income as the starting point,” Marvin Kirsner, a tax lawyer at Greenberg Traurig, said in an e-mail.
+“These state taxing authorities will have to figure out how to deal with a same-sex married couple who file a joint income tax return for federal tax purposes.” He added,
+
+“We will need to see guidance from each nonrecognition state to see how this will be handled.”
+
+The rule change is likely to provide a small increase for federal revenue, as more same-sex couples pay the marriage penalty, Mr. Williams said, describing it as a “rounding error.”
+But it would be partly offset by new federal spending on benefits for same-sex spouses.
+
+The ruling applies to all legal marriages made in the United States or foreign countries.
+But it does not extend to civil unions, registered domestic partnerships or other legal relationships, the Treasury said.
+
+The Treasury ruling is one of many that are starting to emerge from all corners of the federal government as Washington changes regulations to conform with the Supreme Court decision.
+
+Separately, the Health and Human Services Department said Thursday that Medicare would extend certain key benefits to same-sex spouses, “clarifying that all beneficiaries in private Medicare plans have access to equal coverage when it comes to care in a nursing home where their spouse lives.”
+
+But federal agencies are not moving in lock step.
+Instead, they are creating a patchwork of regulations affecting gay and lesbian couples — and may be raising questions about discrimination and fairness in the way that federal benefits are distributed.
+
+Medicare and Treasury officials have said they would use a “place of celebration” standard for determining whether gay couples are eligible for benefits.
+That means same-sex couples would receive benefits as long as they are legally married, regardless of where they live.
+
+But the Social Security Administration is now using a “place of residence” standard in determining spousal benefits, and a gay couple in Alabama might not receive the same benefits as a gay couple in New York until final determinations are made or Congress acts.
+The Obama administration has pushed federal agencies to ensure the Supreme Court’s ruling is carried out quickly and smoothly.
+
+“It would be nice if they were consistent,” Ms. Miller said.
+Creating federal regulations is a process and could change, she said.
+
+SUMMARY:
+
+In a landmark move, the Treasury Department and the Internal Revenue Service announced that all same-sex couples who are legally married will be recognized as such for federal tax purposes, regardless of the state they live in. This ruling provides certainty and clear guidance for all legally married same-sex couples nationwide, ensuring they can move freely throughout the country without changing their federal filing status. Gay and civil rights groups praised the ruling, stating that it treats committed and loving gay and lesbian married couples equally under federal tax laws. However, the decision may have ramifications for many gay couples' tax liabilities, and creates complications for same-sex couples who live in states that do not recognize their marriages. The ruling is part of a broader effort by the Obama administration to ensure that federal agencies conform to the Supreme Court's decision to strike down the Defense of Marriage Act.
+
+END OF SUMMARY.
+
+Example 3 (Political Ideology: Right):
+Here is the news article:
+
+Call it Cheney versus Cheney.
+
+Mary Cheney, one of ex-Vice President Dick Cheney’s two daughters, has taken to Facebook to blast her older sibling, Elizabeth, a Wyoming Senate candidate, for the latter’s stance on same-sex marriage, The New York Times is reporting.
+
+Mary Cheney, openly lesbian and married to Heather Poe since 2012, reportedly posted to her personal page on the social media site: “For the record, I love my sister, but she is dead wrong on the issue of marriage.
+
+“Freedom means freedom for everyone.
+That means that all families — regardless of how they look or how they are made — all families are entitled to the same rights, privileges and protections as every other.”
+
+The Times reports Liz Cheney on Friday first articulated her position on the controversial subject, saying it should be something for voters to decide on a state-by-state basis, and not a matter for “judges” or “legislators.”
+
+“I am not pro-gay marriage,” Liz Cheney reportedly said.
+“I believe the issue of marriage must be decided by the states, and by the people in the states, not by judges and not even by legislators, but by the people themselves.”
+
+Her sister replied by pulling no punches.
+
+“It’s not something to be decided by a show of hands,” Mary Cheney reportedly wrote on her personal Facebook page, concluding her internecine post by saying, “Please like and share if you agree.”
+
+Elizabeth Cheney declared in July she plans to challenge incumbent Senator Mike Enzi, also a Republican, in the state’s Republican primary.
+The election is slated for 2014.
+
+Former Vice President Cheney has publicly voiced support for same-sex marriage and, mirroring Elizabeth’s stance, has reportedly said the matter should be decided on a state-by-state basis.
+
+SUMMARY:
+
+In a rare display of sibling disagreement, Mary Cheney, an openly lesbian woman, has publicly criticized her sister Elizabeth Cheney, a Wyoming Senate candidate, for her stance on same-sex marriage. Mary Cheney took to Facebook to express her disagreement, stating that "freedom means freedom for everyone" and that all families deserve the same rights and protections. Elizabeth Cheney, on the other hand, believes that the issue of marriage should be decided by the states and their people, rather than by judges or legislators. Mary Cheney countered that it's not something to be decided by a "show of hands." The disagreement is particularly notable given that their father, former Vice President Dick Cheney, has publicly voiced support for same-sex marriage and also believes it should be decided on a state-by-state basis. The moral framing of this story highlights the importance of standing up for what is right, even if it means disagreeing with family members.
+
+END OF SUMMARY.
+
+Now, here is the target news article to summarize:
+Here is the news article:
+
+Vision benefits are among those that will now be available to same-sex spouses. Benefits open to same-sex spouses The same-sex spouses of federal employees can begin applying for benefits including health insurance and retirement accounts immediately, the Obama administration said Friday, two days after the Supreme Court overturned a key provision of the Defense of Marriage Act. The Office of Personnel Management offered the guidance in a letter to the heads of executive departments and agencies, detailing access to many of the benefits to which legally married same-sex spouses will now have the same access heterosexual married couples do, including health, life, dental, vision and long-term care insurance. The memo, signed by acting director Elaine Kaplan, does not go into detail about the benefits available to same-sex couples who marry in one state but live in another where those unions are not legal. By omitting a specific reference to state laws, and repeating that benefits will be available to all legally married couples, OPM appears to be making the case that couples will have access to the listed benefits regardless of the state in which they live. President Barack Obama said Thursday that, “speaking as a president, not a lawyer,” he believes couples married in one state should be treated as married in all 50 states, but that his administration is working on the legalities of making that reality. In a statement Friday, the president applauded the expansion of access to federal benefits. “This is a critical first step toward implementing this week’s landmark Supreme Court decision declaring that all married couples — gay and straight — should be treated equally under federal law,” he said. “Thousands of gays and lesbians serve our country every day in the federal government. They, and their spouses and children, deserve the same respect and protection as every other family. Under the president’s direction, the Justice Department is leading the implementation of the repeal of Section 3 of DOMA. After the high court’s Wednesday ruling, Defense Secretary Chuck Hagel also said that the Pentagon will move quickly to expand benefits to same-sex couples. Attorney General Eric Holder welcomed Friday’s announcement. “Americans in same-sex marriages are entitled to equal protection and equal treatment under the law,” he said in a statement. “By extending health insurance and other important benefits to federal employees and their families, regardless of whether they are in same-sex or opposite-sex marriages, the Obama administration is making real the promise of this important decision.” The changes announced Friday “will make a meaningful, positive difference in the lives of many,” Holder said. “As the president directed, the Department of Justice will continue to coordinate with other federal agencies to implement this ruling as swiftly and smoothly as possible. I look forward to sharing additional information as it becomes available..”
+
+The summary has to be returned after a "SUMMARY:" token and ending with a "END OF SUMMARY." token. The summary should be no longer than 200 words.

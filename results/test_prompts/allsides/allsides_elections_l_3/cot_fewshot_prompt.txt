@@ -1,0 +1,205 @@
+You have to summarize the following text preserving the moral framing that the author gave to it.
+
+Please study the following examples of news articles, their moral word extraction, and summaries preserving the moral framing:
+
+Example 1 (Political Ideology: Left):
+Here is the news article:
+
+Kathy Griffin Apologizes For Controversial Images Of Bloodied Trump Head
+
+This feels like an “America’s Next Top Model” challenge gone so horribly wrong.
+
+Kathy Griffin has made a career out of shocking her public by telling stories of Lindsay Lohan’s fire crotch and simulating oral sex with Anderson Cooper on CNN, but she took things to a whole new level with a controversial photo shoot.
+
+Shot by celebrity photographer and director Tyler Shields, the comedian stares the camera down in one photo, as she holds what resembles the bloody head of President Donald Trump.
+
+“Kathy is all about pushing the limits and she went above and beyond on this one.
+Now lets just hope she stays out of jail,” a representative for Shields told HuffPost.
+
+In other (and considerably less gory) photos shot by Shields, Griffin poses by the pool in a revealing leather getup as a man holding a camera stands above her.
+
+According to New York Magazine writer Yashar Ali, Griffin claims that the image is an “expression of art” inspired by Trump’s comments about former Fox News correspondent Megyn Kelly having “blood coming out of her eyes” and “out of her — wherever.”
+
+After news of the photo shoot broke, Griffin took to Twitter to explain her motivations behind the image and reiterate that she does not condone violence in any way.
+She does, however, condone “mocking the Mocker in Chief.”
+
+UPDATE - May 30, 10 p.m.: Kathy Griffin issued a formal apology for the controversial images on Twitter.
+
+“I went way too far,” she said in a video on the social media site.
+
+UPDATE - May 30, 5:20 p.m.: Hours after Kathy Griffin’s photo shoot with a fake bloody Donald Trump head made the internet rounds, the official Twitter account for the U.S. Secret Service has issued a statement.
+
+A Secret Service representative confirmed to HuffPost that the following tweets were in direct response to the controversial image.
+
+“On it! @SecretService has a robust protective intelligence division that monitors open source reporting & social media to evaluate threats,” the tweets read.
+“Threats made against @SecretService protectees receive the highest priority of all of our investigations,” with the hashtag #ProtectionNeverRests.
+
+STEP 1:
+* controversial
+* shocking
+* horribly
+* wrong
+* pushing
+* limits
+* gory
+* violence
+* mocking
+* Mocker
+* went
+* too
+* far
+* threats
+* highest
+* priority
+
+SUMMARY:
+Comedian Kathy Griffin has sparked outrage with a controversial photo shoot featuring a bloody head resembling President Donald Trump. The images, taken by celebrity photographer Tyler Shields, have been deemed "horribly wrong" and "shocking." Griffin claims the photo is an "expression of art" inspired by Trump's past comments, but has since issued a formal apology, stating she "went way too far." The comedian maintains she does not condone violence, but rather aims to "mock the Mocker in Chief." The U.S. Secret Service has responded to the incident, confirming they take threats against the President "very seriously" and will investigate with the "highest priority." Griffin's apology has been met with a mix of criticism and understanding, with many calling her actions "wrong" and "inappropriate." END OF SUMMARY.
+
+Example 2 (Political Ideology: Center):
+Here is the news article:
+
+Donald J. Trump on Tuesday assailed Justice Ruth Bader Ginsburg of the Supreme Court for speaking out on the presidential race, calling her disdainful remarks about his candidacy “highly inappropriate” and suggesting that she owed other justices an apology.
+
+Mr. Trump’s remarks came in a telephone interview with The Times two days after Justice Ginsburg was quoted as saying she was frightened about what the nation would look like if he were elected.
+
+“I can’t imagine what this place would be — I can’t imagine what the country would be — with Donald Trump as our president,” Justice Ginsburg told The Times in an interview published Sunday.
+“For the country, it could be four years.
+For the court, it could be — I don’t even want to contemplate that.”
+She even joked ruefully about moving to New Zealand.
+
+Mr. Trump, the presumptive Republican nominee, said he found those remarks unbefitting a member of the high court.
+
+“I think it’s highly inappropriate that a United States Supreme Court judge gets involved in a political campaign, frankly,” Mr. Trump said.
+“I think it’s a disgrace to the court and I think she should apologize to the court.
+I couldn’t believe it when I saw it.”
+
+He continued: “That she should be saying that?
+It’s so beneath the court for her to be making statements like that.
+It only energizes my base even more.
+And I would hope that she would get off the court as soon as possible.”
+
+Mr. Trump also said he expected to announce his choice of a running mate by Friday, winding down a process that has been closely watched as in all likelihood the most significant decision he will make in his campaign.
+
+“I have five candidates, plus two, two that are unknown to anybody,” Mr. Trump said from Chicago, where he was raising money for his campaign.
+
+“I will be making a decision over the next three- to four-day period of time, and I think it will be a decision that will be a very good decision for a lot of people,” he added.
+
+Mr. Trump said that he was not basing his vice-presidential selection on fund-raising prowess or potential, and indicated that he had had enough experience with many of those he has been considering for the job that their tryouts on the campaign trail would not necessarily be determinative.
+
+“I’ve been with these people for a long time — I know them,” Mr. Trump said, specifically invoking Gov. Chris Christie of New Jersey and Newt Gingrich, the former House speaker.
+“Christie was excellent yesterday and Newt is excellent.” Mr. Trump will appear on Tuesday night in Indiana with Gov. Mike Pence, who has risen in the estimation of many of the nominee’s advisers.
+
+Mr. Trump said his decision was largely coming down to instinct.
+“A lot of is gut. A lot of it is,” he said.
+“My whole life has been about gut.”
+
+He also suggested that he would consider polling in states like heavily Democratic Connecticut, which he again said he believed he could put in play in November.
+
+Asked for quick thoughts about each of the candidates he is known to be considering, Mr. Trump played along.
+
+Governor Christie? “Strong,” he said.
+
+Retired Lt. Gen. Mike Flynn? “A patriot.”
+
+Senator Joni Ernst of Iowa? “A terrific, exciting person.”
+
+Governor Pence? “Solid as a rock.”
+
+And Mr. Gingrich? “Newt is Newt. He’s a good guy.”
+
+STEP 1:
+* inappropriate
+* highly
+* disdainful
+* frightened
+* unbefitting
+* disgrace
+* beneath
+* excellent
+* strong
+* patriot
+* terrific
+* exciting
+* solid
+* good
+
+SUMMARY:
+Donald Trump criticized Supreme Court Justice Ruth Bader Ginsburg for her "disdainful" remarks about his candidacy, calling them "highly inappropriate" and a "disgrace" to the court. Trump suggested that Justice Ginsburg owed the other justices an apology and even implied that she should step down from the court as soon as possible. In an interview, Justice Ginsburg had expressed her fears about what the country would be like with Trump as president, saying she couldn't imagine it. Trump, on the other hand, defended his candidacy, saying that Justice Ginsburg's comments only "energized" his base. Meanwhile, Trump also discussed his search for a running mate, saying that his decision would be based on instinct and that he had a few "strong" and "excellent" candidates in mind. END OF SUMMARY.
+
+Example 3 (Political Ideology: Right):
+Here is the news article:
+
+President Trump on Monday called the criminal case against former national security adviser Michael Flynn “very unfair,” claiming he and Hillary Clinton both “lied” to the FBI but only Flynn faced consequences.
+
+The president’s comments, made to reporters as he left Washington for a policy announcement in Utah, saw Trump wading deeper into the Flynn investigation even after a weekend tweet landed the White House in hot water.
+
+On Monday, Trump said he feels “badly” for Flynn, who pleaded guilty on Friday to giving false statements to the FBI about his Russia contacts.
+
+“Hillary Clinton lied many times to the FBI, nothing happened to her. Flynn lied and they destroyed his life,” Trump said. 
+
+The president, without offering specifics, said his 2016 Democratic rival “lied many times” during her FBI interview in early July.
+
+“Nothing happened to her. Flynn lied and it’s like they ruined his life. Very unfair,” Trump said, echoing a weekend tweet in which he asked whether a “double standard” was at play.
+
+Clinton was interviewed by FBI agents as part of the investigation into her exclusive use of a private email system while secretary of state. 
+
+After that interview, then-FBI Director James Comey called her actions extremely careless without recommending criminal charges.
+
+Trump also noted over the weekend that Clinton was not recorded or under oath during that interview.
+
+On Sunday, Sen. Lindsey Graham, R-S.C., suggested Trump might want to think twice before tweeting and commenting on the Russia case. 
+
+“You tweet and comment regarding ongoing criminal investigations at your own peril,” he said on CBS’ “Face the Nation.”
+
+This was after Trump’s account tweeted Saturday: “I had to fire General Flynn because he lied to the Vice President and the FBI. 
+
+He has pled guilty to those lies. 
+
+It is a shame because his actions during the transition were lawful. 
+
+There was nothing to hide!”
+
+That tweet immediately caused problems for the White House, as some legal experts said it potentially exposed the president to obstruction of justice allegations – since, according to the tweet, he would have known Flynn lied to agents when he allegedly asked Comey to lay off the Flynn investigation and later fired Comey. 
+
+Trump said earlier this year that he fired Flynn only for lying to Vice President Pence about the issue.
+
+Trump’s personal lawyer John Dowd later said he was the one who wrote that tweet, saying he “did not mean to break news.”
+
+Dowd attempted to explain Sunday that the tweet was referring to then-acting Attorney General Sally Yates telling White House Counsel Don McGahn in January that Flynn had “given the agents the same story he gave the vice president.”
+
+He also said the agents seemed to think Flynn was confused. 
+
+“All the president knew was that the department was not accusing him of lying,” Dowd said.
+
+Trump over the weekend denied that he asked Comey to stop investigating Flynn.
+
+Sen. Dianne Feinstein, D-Calif., the top Democrat on the Senate Judiciary Committee, said on NBC’s “Meet the Press” on Sunday that the panel has begun to see "the putting together of a case of obstruction of justice" against Trump.
+
+Flynn is now cooperating with Special Counsel Robert Mueller’s investigators in the Russia meddling case, though it’s unclear what exactly he might reveal about Trump and his associates.
+
+
+
+STEP 1:
+* unfair
+* lied
+* destroyed
+* ruined
+* extremely
+* careless
+* shame
+* lawful
+* nothing
+* peril
+* obstruction
+* justice
+
+SUMMARY:
+President Trump claimed the criminal case against Michael Flynn is "very unfair" and that Flynn's life was "ruined" because he lied to the FBI, whereas Hillary Clinton "lied many times" and faced no consequences. Trump's comments sparked controversy, with some legal experts suggesting his tweets could be seen as obstruction of justice. Trump's personal lawyer, John Dowd, attempted to clarify the situation, but Senator Dianne Feinstein stated that the Senate Judiciary Committee is building a case of obstruction of justice against Trump. Meanwhile, Flynn is cooperating with Special Counsel Robert Mueller's investigators in the Russia meddling case. Trump's comments have raised questions about a "double standard" and whether he is trying to influence the investigation. END OF SUMMARY.
+
+Now, here is the target news article to summarize:
+Here is the news article:
+
+A pumped-up Donald Trump strutted in front of a crowd of diehard supporters in Pennsylvania on Monday night, throwing aside a spiraling disaster of the groping tape, Republican defections and his plummeting poll ratings. The Republican presidential nominee made no reference at a rally in the old coalmining town of Wilkes-Barre to the catastrophic 72 hours his campaign had endured since an 11-year old recording was released in which he bragged about using his celebrity status to sexually assault women. Nor did he refer to the many members of his party who abandoned him publicly over the weekend in protest at his offensive comments, or to the dramatic headway made by his Democratic rival in the polls. Is grabbing women's genitals sexual assault? Trump backers suggest it's not Instead, he fired up his loyal army of followers by repeating the threat he made directly to Hillary Clinton’s face at the second presidential debate on Sunday night that once ensconced in the White House he would appoint a special prosecutor to investigate her alleged crimes. When the baying crowd at Mohegan Sun Arena shouted “Lock her up!”, Trump shot back at them: “Lock her up is right!” But in his effervescent post-debate mood he merely succeeded in generating further controversy. He praised the group that acted as conduit for one of the biggest leaks of US government secrets in history: “WikiLeaks, I love WikiLeaks,” he said. And he also managed to adopt an erroneous report by a Russian government-sponsored news agency relating to a recent WikiLeaks stash of documents hacked from the emails of Clinton’s campaign chairman, John Podesta. Trump, reading from an account of the document dump, told his supporters at the Wilkes-Barre rally that Clinton’s longtime adviser Sidney Blumenthal – “Sleazy Sidney” as he called him – had sent an email to Podesta in which Blumenthal said it was legitimate to question whether Clinton had failed to protect American personnel in Benghazi, Libya, in 2012, when she was US secretary of state. “In other words, Blumenthal’s now admitting they could have done something about Benghazi,” Trump said, prompting loud reproaches from the crowd. Donald Trump and Russia: a web that grows more tangled all the time In fact, the claim that Clinton had something to answer for over the death of the US ambassador in Benghazi was made by a Newsweek journalist in an article that Blumenthal had emailed to Podesta, as the author of the magazine piece promptly pointed out. The conflation of the Newsweek quotes and Blumenthal appears to have been extracted by Trump from an inaccurate account of the WikiLeaks documents reported by the Russian online news outlet Sputnik. The botched attack on Clinton and Blumenthal could backfire for Trump given that he has already been accused by his Democratic rival of being overly complimentary about the Russian leader Vladimir Putin. Last Friday the Obama administration claimed that the WikiLeaks documents had been hacked from Democrats’ email accounts by the Russian government in an attempt to sway the US presidential election. Though Trump avoided talking about the groping tape in Wilkes-Barre, at an earlier rally in Ambridge, Pennsylvania, he did renew his line of defence that his 2005 bragging about being able to kiss and grab the genitals of women was only “locker room talk”. One of his leading surrogates, the former New York mayor Rudy Giuliani, went further by turning the issue into a joke. During a warm-up speech at the Wilkes-Barre rally, Giuliani made a quip about it during an attack on Clinton. He said: “Boy, she is as phony as … I better not say, as I have to be nice. I might say it back in the locker room.” In his Wilkes-Barre speech, Trump pressed all the familiar buttons that have by now become a mainstay of his insurrectionary campaign. He promised to build a wall along the southern border and have the Mexicans pay for it, to bring jobs back to America from overseas, and to cut taxes and government regulation. The candidate’s braggadocio was clearly tailored to suit the tastes of his hardcore supporters, most of whom dismissed concern about the NBC tape as so much political correctness. The Republican candidate also appeared to believe that his openly hostile stance towards Clinton in the presidential debate – in which he threatened her with jail, interrupted her and jabbed his fingers at her multiple times, and stood ominously behind her when she was talking – had put the calamity of the groping scandal behind him. So ebullient did he appear on stage on Monday night that he even took a toddler from his parents’ arms and carried him on to the stage. The crowd erupted in riotous cheering when the billionaire asked the child: “Do you want to go back to your parents or stay with Donald Trump?” The toddler replied: “Trump.” But no matter how much he succeeded in firing up his base of dedicated Trumpistas, the reality TV star could not erase the fact that outside the hothouse atmosphere of the Mohegan Sun Arena, his campaign remains in considerable trouble. As a signal of the profound unease that his candidacy has generated among senior Republicans, the speaker of the House, Paul Ryan, effectively dumped Trump, telling congressional colleagues that he would neither defend his party’s nominee nor campaign with him. One of the first opinion polls to have been conducted since the groping bombshell gave Clinton an 11-point lead nationally over her rival. The NBC News / Wall Street Journal survey put Clinton on 46% to Trump’s 35%. Clinton slams Trump's 'weak excuse for mistreating people' after second debate There was also evidence that Clinton is solidifying her lead in key swing states such as Ohio, which has voted for the winning candidate in every presidential race since 1964. Clinton travelled to Ohio on Monday to press home that advantage, and later this week President Obama will wade in on her behalf in Cleveland and the state capital, Columbus. It came as John McCain, the 2008 Republican nominee for US president, was forced to publicly account for the decision to abandon Trump. “Why now?” the Arizona senator was asked during a debate with his Democratic challenger, with the moderator noting the litany of incendiary remarks Trump has made against Mexicans, Muslims, prisoners of war, a disabled journalist, a Gold Star military family and a Hispanic judge, alongside a decades-long record of offensive comments about women. Earlier in his campaign, Trump also taunted McCain for having been a prisoner of war, telling an audience he preferred “people that weren’t captured”. “If someone wants to say something disparaging of me, I understand that,” McCain said during Arizona’s Senate debate. “I spoke out strongly on several other issues where I thought Mr Trump was absolutely wrong. I’ve not been shy about it. “When Mr Trump attacks women and demeans the women in our nation and our society, that is a point where I just have to part company. It’s not pleasant for me to renounce the nominee of my party.” Over the weekend, McCain released a statement declaring it “impossible to continue to offer even conditional support” to Trump and said he and his wife, Cindy McCain, will instead write in the name of “some good conservative Republican who is qualified to be president”. On Monday night, McCain said this was likely to be the South Carolina senator Lindsey Graham, who dropped out of the presidential race in December last year: “He’s an old, good friend of mine and a lot of people like him.”
+
+(1) First, you identify all the single words that are morally framed. Identify this step as "STEP 1:" and report each word in a new line starting with *
+(2) Finally, you write a summary of the news article. Please preserve as many morally framed words as possible in your summary. The summary has to be returned after a "SUMMARY:" token and ending with a "END OF SUMMARY." token. The summary should be no longer than 200 words.

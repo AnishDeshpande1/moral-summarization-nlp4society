@@ -1,0 +1,206 @@
+You have to summarize the following text preserving the moral framing that the author gave to it.
+
+Please study the following examples of news articles and their summaries preserving the moral framing:
+
+Example 1 (Political Ideology: Left):
+Here is the news article:
+
+Obama Gun Control Proposals Unveiled, Marking Biggest Legislative Effort In A Generation
+
+WASHINGTON -- In a bold and potentially historic attempt to stem the increase in mass gun violence, President Barack Obama unveiled on Wednesday the most sweeping effort at gun control policy reform in a generation.
+
+"This is our first task as a society: keeping our children safe.
+This is how we will be judged," Obama said.
+“We can’t put this off any longer."
+
+The proposal, which comes at the end of a month-long review process spearheaded by Vice President Joe Biden, is broken down into four key subsections: law enforcement, the availability of dangerous firearms and ammunition, school safety and mental health.
+
+In an effort to touch on all four of those elements, the president recommended requiring criminal background checks for all gun sales; reinstating the assault weapons ban; restoring a 10-round limit on ammunition magazines; eliminating armor-piercing bullets; providing mental health services in schools; allocating funds to hire more police officers; and instituting a federal gun trafficking statute, among other policies.
+The cost of the package, senior officials estimated, would be roughly $500 million, some of which could come from already budgeted funds.
+
+Because these recommendations require congressional approval, the administration is supplementing its proposal with 23 executive actions that will be taken immediately.
+Those actions include requiring federal agencies to hand over relevant data for a background check system; providing law enforcement officials, first responders and school officials with better training for active shooting situations; directing the Centers for Disease Control to research the causes and prevention of gun violence; and many more.
+
+"I intend to use whatever weight this office holds to make them a reality," said the president, speaking about his full set of recommendations.
+"If there's even one life that can be saved, then we've got an obligation to try."
+
+The approach is so sweeping that what would have otherwise been a headline-grabbing announcement received second billing.
+The president on Wednesday will nominate Byron Todd Jones, the acting director of the Bureau of Alcohol, Tobacco, Firearms and Explosives, to take over the post permanently.
+
+In total, the proposal goes beyond what most gun control advocates were hoping for at the start of Biden's review process, during which he held 22 different meetings with 229 different organizations and 31 elected officials.
+
+"This is a monumental moment.
+It's a long time coming and we're thrilled the president's putting the full weight of his office behind this," said Josh Horowitz, executive director of the Coalition to Stop Gun Violence.
+"We're ready to push this thing through."
+
+But putting together ideas is the easy part.
+Selling them on the Hill will take a bit of legislative craft.
+
+Seasoned political observers have questioned whether it makes more sense to break the package into separate bills or push for one comprehensive proposal.
+A senior administration official said that the president's proposal shouldn't be considered finalized legislative language, but rather a series of recommendations for Congress to consider.
+The president would be working with lawmakers to move the process forward, the official added, and would be trying to build up public opinion as well.
+
+"I will put everything I've got into this and so will Joe [Biden].
+But I tell you, the only way we can change is if the American people demand it," said Obama.
+"We are going to need voices in those areas and congressional districts where the tradition of gun ownership is strong."
+
+"It can't just be the usual suspects," he continued.
+"This will not happen unless the American people demand it."
+
+The gun-rights lobby has already signaled that it will try to block the administration's effort.
+A spokesman for the National Rifle Association did not immediately respond to requests for comment on the president's proposal.
+But the organization has already harshly criticized the Obama administration for overreach.
+
+"It is unfortunate that this administration continues to insist on pushing failed solutions to our nation's most pressing problems," the NRA said after meeting with Biden last week.
+"We will not allow law-abiding gun owners to be blamed for the acts of criminals and madmen."
+
+The group continued its offensive this week, launching an advertising campaign attacking Obama as an "elitist hypocrite" for opposing the NRA's widely-criticized proposal, made after the Newtown, Conn. shooting, to place armed guards in all of the nation's schools.
+
+But that attack appeared a bit premature.
+As part of its policy recommendations, the White House called on Congress to act on an old administration proposal to spend $4 billion to keep 15,000 cops on the streets.
+In addition, the president is proposing a new initiative that would incentivize police departments to hire more school resource officers and encourage schools to hire more mental health professionals.
+The president's plan also calls on Congress to allocate resources to help schools, other educational institutions and houses of worship develop emergency management plans.
+
+The White House proposals, even officials there admit, are not a cure-all for mass shootings.
+Among the suggested recommendations on the gun-policy front, only the ban on high-capacity magazines could have had a tangible impact on the shooting in Newtown, and it's unclear what, exactly, the effect would have been.
+
+Moreover, the administration is pointedly not going after those weapons and ammunition magazines that are currently and lawfully owned.
+The proposal would instead affect the future production and sale of military-style weapons or high-capacity magazines.
+
+"We are not going to go after existing stock of weapons or magazines," said a senior administration official.
+"We are going to limit it to the manufacturing of assault weapons and clips going forward."
+
+The White House nevertheless insists that its package of proposals has teeth.
+It would provide law enforcement with the mechanisms needed to go after the illegal transfer of weapons and help prevent those weapons from falling into the wrong hands.
+It would also stem the use of military-style weapons -- the White House says its proposal would improve on the 1994 Assault Weapons Ban, which was riddled with loopholes -- and give schools and communities resources to address violence when it occurs.
+
+The question, in some respects, is not what's missing from the set of ideas, but what took the administration so long to get to this point.
+
+"It is not as though we had this whole policy paper sitting on the shelf somewhere," said a senior administration official.
+"[We worked] 24/7 for the past month.
+And we met with a lot of groups and we learned a lot of ideas that came as a result of this process.
+We tried to be as comprehensive as possible.
+We are hoping that as the process goes on and as the debate goes on, we might come up with some other ideas."
+
+SUMMARY:
+
+President Barack Obama unveiled a sweeping gun control proposal, marking the biggest legislative effort in a generation. The proposal aims to stem the increase in mass gun violence, with Obama emphasizing that "keeping our children safe" is the society's first task. The plan includes requiring criminal background checks for all gun sales, reinstating the assault weapons ban, and providing mental health services in schools. The administration is supplementing its proposal with 23 executive actions, including requiring federal agencies to hand over relevant data for a background check system. The approach is so sweeping that it goes beyond what most gun control advocates were hoping for. While the gun-rights lobby has signaled opposition, Obama vowed to use the full weight of his office to make the proposals a reality, urging the American people to demand change. The proposal is a monumental moment in the effort to reduce gun violence, and its success will depend on public opinion and legislative craft.
+
+END OF SUMMARY.
+
+Example 2 (Political Ideology: Center):
+Here is the news article:
+
+The White House unveiled an executive order Friday evening to create a “National Garden of American Heroes” that will feature statues of prominent Americans.
+
+The executive order, which President Trump Donald John TrumpCNN's Anderson Cooper: Trump's Bubba Wallace tweet was 'racist, just plain and simple' Beats by Dre announces deal with Bubba Wallace, defends him after Trump remarks Overnight Defense: DOD reportedly eyeing Confederate flag ban | House military spending bill blocks wall funding MORE announced during a Fourth of July celebration at Mount Rushmore, comes as the nation grapples with calls to tear down Confederate statues across the country and address other racist iconography.
+
+“These statues are silent teachers in solid form of stone and metal.
+They preserve the memory of our American story and stir in us a spirit of responsibility for the chapters yet unwritten.
+These works of art call forth gratitude for the accomplishments and sacrifices of our exceptional fellow citizens who, despite their flaws, placed their virtues, their talents, and their lives in the service of our Nation,” reads the executive order, which was disseminated by the White House.
+
+The executive order establishes the Task Force for Building and Rebuilding Monuments to American Heroes, which will be empowered to use funding from the Interior Department to establish the site.
+The task force has 60 days to submit a report to the White House detailing options for the creation of the National Garden, including potential locations.
+
+The executive order says the garden will include statues of John Adams, Susan B. Anthony, Clara Barton, Daniel Boone, Davy Crockett, Frederick Douglass, Amelia Earhart, Benjamin Franklin, Thomas Jefferson, Martin Luther King Jr., Abraham Lincoln, Ronald Reagan, Jackie Robinson and Harriet Tubman, among others.
+
+The garden will also “separately maintain a collection of statues for temporary display at appropriate sites around the United States that are accessible to the general public.”
+
+Under the order, the garden will be open prior to July 4, 2026, the 250th anniversary of the proclamation of the Declaration of Independence.
+
+The executive order also address current calls to topple Confederate statues, underscoring that other activists have called for the dismantling of monuments to figures who owned slaves but were not in the Confederacy, including former presidents George Washington and Thomas Jefferson.
+
+“To destroy a monument is to desecrate our common inheritance.
+In recent weeks, in the midst of protests across America, many monuments have been vandalized or destroyed.
+Some local governments have responded by taking their monuments down,” the order reads.
+“These statues are not ours alone, to be discarded at the whim of those inflamed by fashionable political passions; they belong to generations that have come before us and to generations yet unborn.”
+
+Trump also railed against people tearing down statues of Confederate leaders during an impassioned speech at Mount Rushmore, accusing them of wanting to “overthrow the American Revolution” and fundamentally change the country.
+
+“There is a new far-left fascism that demands absolute allegiance.
+If you do not speak its language, perform its rituals, recite its mantras and follow its commandments, then you will be censored, banished, blacklisted, persecuted and punished.
+Not going to happen to us,” he told a packed crowd.
+
+“Make no mistake, this left-wing cultural revolution is designed to overthrow the American Revolution.
+In so doing, they would destroy the very civilization that rescued billions from poverty, disease, violence and hunger and that lifted humanity to new heights of achievement, discovery and progress," he continued.
+"To make this possible, they are determined to tear down every statue, symbol and memory of our national heritage.”
+
+SUMMARY:
+
+The White House has unveiled an executive order to create a "National Garden of American Heroes" featuring statues of prominent Americans. The move comes as the nation grapples with calls to tear down Confederate statues and address racist iconography. The executive order establishes a task force to create the garden, which will include statues of notable figures such as John Adams, Martin Luther King Jr., and Harriet Tubman. The order also condemns the destruction of monuments, stating that they belong to future generations and should not be discarded based on "fashionable political passions." President Trump, in a speech at Mount Rushmore, railed against those tearing down statues, accusing them of seeking to "overthrow the American Revolution" and fundamentally change the country. He framed the debate as a struggle between preserving American heritage and a "left-wing cultural revolution" that seeks to destroy it.
+
+END OF SUMMARY.
+
+Example 3 (Political Ideology: Right):
+Here is the news article:
+
+Obama urges new restrictions on assault weapons, magazines as part of gun control plan
+
+President Obama called Wednesday for a new and tougher assault-weapons ban and a 10-round limit on magazines, as part of a comprehensive plan to curb gun violence that includes 23 steps he took without congressional action.
+
+Already facing stiff opposition from gun-rights advocates and Republican lawmakers, the president called on Congress to pass several major changes to the country's current gun laws -- some of which are already being considered like the restrictions on semi-automatic weapons and high-capacity magazines.
+
+Obama called as well for legislation to bar the possession and importation of armor-piercing bullets and to require criminal background checks for nearly all gun sales.
+The president, speaking at the White House, said he would use "whatever weight this office holds" to get the proposals passed.
+
+"If there's even one life that can be saved, then we've got an obligation to try," Obama said.
+"When it comes to protecting the most vulnerable among us, we must act now.
+... Let's do the right thing."
+
+The president was joined by four children who wrote to the White House about gun violence following the Connecticut mass shooting in which 20 children were killed.
+Though the administration faced some criticism for involving children in the program, they were positioned off to the side while Obama spoke.
+
+Despite discussions earlier about addressing the pervasive violence in the entertainment and video game industries, the president's plan did not address those issues in depth.
+The plan, though, does call for a range of measures to improve access to mental health services and improve safety at America's schools.
+
+The president, immediately after making his remarks, signed nearly two-dozen executive actions -- a step that has stirred objections from lawmakers who have warned Obama not to overstep his bounds.
+
+Unilaterally, Obama on Wednesday directed federal agencies to share information with the federal background check system; proposed new rules to let law enforcement run full background checks before returning a seized gun; ordered the Centers for Disease Control to research causes of gun violence; required law enforcement to trace guns from criminal investigations; and took other steps.
+Plus Obama is nominating ATF Acting Director Todd Jones to officially lead the agency
+
+The most controversial elements of the president's plan, though, continue to be the proposals he wants Congress to pass.
+
+The call for universal background checks would extend to gun shows and private sales, with "limited" exemptions for "certain transfers" among family members and other situations.
+The administration plans to give private sellers guidance on how to run background checks as soon as possible.
+
+Plus the president wants to commit $4 billion to hiring more police officers, and to pass new gun trafficking laws to explicitly prohibit straw purchasing.
+
+The plan was already earning a mixed response from lawmakers.
+
+Sen. Marco Rubio, R-Fla., accused Obama of trying to "undermine Americans' constitutional right to bear arms" without doing enough to focus on keeping guns out of the hands of criminals and the mentally ill.
+
+"Nothing the president is proposing would have stopped the massacre at Sandy Hook.
+President Obama is targeting the 2nd Amendment rights of law-abiding citizens instead of seriously addressing the real underlying causes of such violence," he said.
+
+Senate Democratic Leader Harry Reid said "all options should be on the table."
+
+Texas Gov. Rick Perry, in a written statement, said: "Guns require a finger to pull the trigger.
+The sad young man who did that in Newtown was clearly haunted by demons and no gun law could have saved the children in Sandy Hook Elementary from his terror."
+
+Gun-rights groups say the effort to impose more gun control measures is misguided, noting in particular that most killings in America are committed with handguns and not the assault weapons the administration intends to target.
+Some local officials have vowed to resist federal action.
+
+The National Rifle Association also plans to launch a major ad campaign.
+The group's first ad called Obama an "elitist hypocrite" for his daughters' security detail.
+Obama has been critical of the NRA's plan to install armed security in every school.
+
+The White House plan does address school security, urging Congress to help schools complete emergency plans; proposing an initiative to help schools hire up to 1,000 resource officers and mental health professionals; and proposing new training for teachers to recognize mental health issues among young people.
+Obama also plans to beef up mental health coverage via executive action.
+
+House Speaker John Boehner declined to weigh in on the merits of the president's proposals Wednesday.
+
+"House committees of jurisdiction will review these recommendations.
+And if the Senate passes a bill, we will also take a look at that," Boehner spokesman Michael Steel said.
+
+SUMMARY:
+
+President Obama unveiled a comprehensive plan to curb gun violence, calling for a new assault-weapons ban, a 10-round limit on magazines, and 23 executive actions to strengthen gun control laws. He urged Congress to pass legislation to bar armor-piercing bullets, require criminal background checks for nearly all gun sales, and commit $4 billion to hiring more police officers. Obama emphasized the moral obligation to act, saying "if there's even one life that can be saved, then we've got an obligation to try." He was joined by four children who wrote to the White House about gun violence following the Connecticut mass shooting. While some lawmakers and gun-rights advocates oppose the plan, Obama vowed to use his office's "whatever weight" to get it passed, arguing that it's a moral imperative to protect the most vulnerable among us. The plan also addresses mental health services, school safety, and research on gun violence causes.
+
+END OF SUMMARY.
+
+Now, here is the target news article to summarize:
+Here is the news article:
+
+Obama Willing to Use Executive Orders on Guns WASHINGTON — President Obama this week will embrace a comprehensive plan to reduce gun violence that will call for major legislation to expand background checks for gun purchases and lay out 19 separate actions the president could take by invoking the power of his office, lawmakers who were briefed on the plan said Monday. Lawmakers and other officials said that the president could use a public event as soon as Wednesday to signal his intention to engage in the biggest Congressional fight over guns in nearly two decades, focusing on the heightened background checks and including efforts to ban assault weapons and their high-capacity clips. But given the difficulty of pushing new rules through a bitterly divided Congress, Mr. Obama will also promise to act on his own to reduce gun violence wherever possible. Actions the president could take on his own are likely to include imposing new limits on guns imported from overseas, compelling federal agencies to improve sharing of mental health records and directing the Centers for Disease Control and Prevention to conduct research on gun violence, according to those briefed on the effort. White House aides believe Mr. Obama can also ratchet up enforcement of existing laws, including tougher prosecution of people who lie on their background checks. At a news conference on Monday, exactly one month after the school massacre in Newtown, Conn., Mr. Obama said a task force led by Vice President Joseph R. Biden Jr. had “presented me now with a list of sensible, common-sense steps that can be taken to make sure that the kinds of violence we saw at Newtown doesn’t happen again. He added: “My starting point is not to worry about the politics. My starting point is to focus on what makes sense, what works.” The administration’s strategy reflects the uncertainty of gun politics in America and the desire by White House officials to address the Connecticut shooting while also confronting the broader deficiencies in the country’s criminal justice and mental health systems. By proposing to use the independent power of his office, Mr. Obama is inviting political attacks by gun owners who have already expressed fear that he will abuse that authority to restrict their rights. Representative Steve Stockman, Republican of Texas, threatened Monday to file articles of impeachment if the president seeks to regulate guns with executive orders. “I will seek to thwart this action by any means necessary,” Mr. Stockman said in a statement. White House officials and Democratic lawmakers said that there are clear limits to what the president can and cannot do, and that Mr. Obama has no plans to push beyond what he would need Congressional authority to accomplish. On Capitol Hill, Mr. Obama’s legislative effort will face intense opposition from gun rights groups, including the National Rifle Association, and the lawmakers they support with millions of dollars at election time and who see gun rights as a defining issue in their districts. But Mr. Obama’s allies see a rare opening for tighter gun rules after Congress has shied away from the politically charged issue for years. “He’s putting together a pretty comprehensive list of what could be done to make a difference in this area,” said Representative Mike Thompson of California, who is heading a Democratic task force in the House. “There’s some huge, huge holes in the process that are set up to keep communities safe. We need to close those holes.” Representative Jackie Speier, Democrat of California, said Vice President Biden had informed lawmakers during a two-hour briefing on Monday that there are “19 independent steps that the president can take by executive order.” Ms. Speier said the executive action is part of the “most comprehensive gun safety effort in a generation.” Rahm Emanuel, the mayor of Chicago and Mr. Obama’s former chief of staff, joined the debate on Monday and said that the president should “clear the table” by doing whatever he can administratively so small issues do not get in the way of the bigger legislative fights over access to guns. “Don’t allow a side issue to derail these things,” Mr. Emanuel said during a discussion about gun policy. While many gun control advocates are eager to harness what they believe is a ripe moment in American life for new and robust restrictions on the kinds of guns that were used in Newtown, there is an emerging consensus on Capitol Hill and among gun education groups that improving the system of background check legislation that currently exempts private gun sales and gun shows is the most viable legislative route to pursue. “The assault-weapons ban is a low priority relative to the other measures the Biden task force is considering,” Matt Bennett, a spokesman for Third Way, a left-leaning research group, said after hearing from Mr. Biden last week. “Political capital in the gun debate only goes so far. We think it should be spent on things that would have the greatest impact on gun violence, like universal background checks and cracking down on gun trafficking.” Any efforts to get gun legislation through Congress will require an enormous and ceaseless pressure campaign by the administration. Mr. Obama and Mr. Biden are likely to keep up the pressure on lawmakers with public events in the weeks and months ahead, according to those familiar with the White House strategy. Scores of senators, including many Democrats, will be wary of voting on any effort to curb access to guns or ammunition. Senator Harry Reid of Nevada, the Democratic leader, is a longtime supporter of gun rights. Still, gun legislation is likely to begin in the Senate because the House is controlled by Republicans, many of whom oppose new restrictions on guns. With fiscal issues continuing to dominate the political calendar for the next several weeks, White House officials and lawmakers say the gun safety effort is likely to be debated in separate pieces of legislation that could be introduced over time. In coming weeks, Senator Charles E. Schumer, Democrat of New York, will reintroduce a measure that would require every gun buyer, with limited exceptions, to undergo a background check and would force states to feed all relevant data into the background check system so those with criminal convictions and the mentally ill could be flagged.
+
+The summary has to be returned after a "SUMMARY:" token and ending with a "END OF SUMMARY." token. The summary should be no longer than 200 words.

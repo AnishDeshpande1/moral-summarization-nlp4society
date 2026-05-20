@@ -1,0 +1,156 @@
+You have to summarize the following text preserving the moral framing that the author gave to it.
+
+Please study the following examples of news articles, their moral word extraction, and summaries preserving the moral framing:
+
+Example 1 (Political Ideology: Left):
+Here is the news article:
+
+Mary Cheney, the younger sister of Wyoming U.S Senate candidate Liz Cheney (R) and daughter of former Vice President Dick Cheney, criticized her sister's opposition to same-sex marriage in a Friday Facebook post, the New York Times reports.
+
+According to the Times, Mary Cheney, who is openly gay and married her partner, Heather Poe, in Washington, DC last year, took to Facebook to rebuke her sister's remarks.
+
+“For the record, I love my sister, but she is dead wrong on the issue of marriage," she wrote.
+
+"Freedom means freedom for everyone," she continued.
+"That means that all families — regardless of how they look or how they are made — all families are entitled to the same rights, privileges and protections as every other."
+
+On Friday, Liz Cheney issued a statement voicing her opposition to same-sex marriage.
+
+"I am strongly pro-life and I am not pro-gay marriage," she said.
+“I believe the issue of marriage must be decided by the states, and by the people in the states, not by judges and not even by legislators, but by the people themselves."
+
+The elder Cheney daughter is challenging Sen. Mike Enzi (R-Wyo.) in next year's Republican primary.
+Previously, she had spoken out against the military's former "don't ask, don't tell" policy.
+
+According to The Hill, Cheney sought to clarify her position after an alleged poll in Wyoming said she "supports abortion and aggressively promotes gay marriage."
+
+Her opposition also puts her at odds with her father, who offered support for gay marriage in 2009.
+
+"I think that freedom means freedom for everyone," the former vice president said.
+"As many of you know, one of my daughters is gay and it is something we have lived with for a long time in our family.
+I think people ought to be free to enter into any kind of union they wish."
+
+STEP 1:
+* Freedom
+* Wrong
+* Entitled
+* Rights
+* Privileges
+* Protections
+* Pro-life
+* Pro-gay
+
+SUMMARY:
+Mary Cheney, the openly gay sister of Wyoming U.S Senate candidate Liz Cheney, criticized her sister's opposition to same-sex marriage on Facebook. Mary Cheney emphasized that "freedom means freedom for everyone" and that all families, regardless of how they look or are made, are "entitled to the same rights, privileges, and protections" as every other. In contrast, Liz Cheney stated that she is "strongly pro-life and not pro-gay marriage," believing that the issue of marriage should be decided by the states and the people, not by judges or legislators. This stance puts her at odds with her father, former Vice President Dick Cheney, who has supported gay marriage since 2009, saying that "freedom means freedom for everyone" and that people should be "free to enter into any kind of union they wish." END OF SUMMARY.
+
+Example 2 (Political Ideology: Center):
+Here is the news article:
+
+PHOENIX — As the Arizona Legislature sent a bill to her desk Monday that would grant business owners the right to invoke religion to refuse service to gays and others, Gov. Jan Brewer, a Republican, faced pressure from many corners to veto the measure, which has cast unwanted national attention on Arizona.
+
+Elected officials, civic leaders and business groups spoke out publicly against the measure, which passed both houses of the Legislature on Thursday.
+
+On Twitter, Arizona’s United States senators, John McCain and Jeff Flake, also Republicans, had nearly identical posts, with both of them saying they hoped Ms. Brewer would veto the bill.
+An executive from Apple Inc., which plans to build a big manufacturing plant in Mesa, called Ms. Brewer to urge her to reject it, and W. Douglas Parker, chairman and chief executive of American Airlines, sent her a letter citing the state’s “economic comeback” and saying, “There is genuine concern throughout the business community that this bill, if signed into law, would jeopardize all that has been accomplished so far.”
+
+Their calls were echoed by three Republican state senators — Adam Driggs, Steve Pierce and Bob Worsley, all members of the party’s conservative camp — who had helped pass the legislation in the first place.
+“While our sincere intent in voting for this bill was to create a shield for all citizens’ religious liberties, the bill has instead been mischaracterized by its opponents as a sword of religious intolerance,” the senators said in a letter to Ms. Brewer, adding that the matter was “causing our state immeasurable harm.”
+
+The bill’s remaining supporters took to the airwaves and the Internet to defend it.
+Cathi Herrod, president of the Center for Arizona Policy, an architect of the bill, issued a news release calling attacks on the legislation “politics at its absolute worse,” and saying, “Instead of having an honest discussion about the true meaning of religious liberty, opponents of the bill have hijacked this discussion through lies, personal attacks, and irresponsible reporting.”
+
+Ms. Brewer was in Washington on Monday but was scheduled to return Tuesday to Phoenix, where she will have until the end of the week to act on the bill.
+Her spokesman, Andrew Wilder, suggested that she would not take that long, but he would not say what she was inclined to do.
+
+The religion bill comes as Arizona prepares to host the Super Bowl next year and struggles to regain its economic vitality.
+From Washington on Monday, Gov. Jack Markell of Delaware, a Democrat, told Ronan Farrow of MSNBC that if Ms. Brewer signs the measure, “the N.F.L. may be looking, or maybe should be looking, to move the Super Bowl out of the state.”
+
+And Barry Broome, president and chief executive of the Greater Phoenix Economic Council, said that leaders of four companies looking to relocate to Arizona had put his organization on notice, saying they might reconsider if the bill became law.
+The state’s image is still scarred by a divisive immigration law passed in 2010, which gave police officers the ability to stop people whom they suspected of being in the country illegally, and triggered widespread boycotts.
+
+Among the Republicans vying to succeed Ms. Brewer, who cannot run for re-election because of term limits, there was broad consensus against the measure, which would expand the state’s definition of “exercise of religion” to protect businesses and citizens from lawsuits after denying services on religious grounds.
+
+One candidate, Scott Smith, the mayor of Mesa, who is a Mormon, said that the bill “gives carte blanche for anybody to discriminate under the guise of religion.”
+Another candidate, Doug Ducey, the state treasurer, qualified his view, saying that he would veto the bill but then “bring together all the interested parties before this legislative session adjourns to forge consensus on acceptable language protecting religious liberty.”
+
+Mr. Wilder, the governor’s spokesman, said Ms. Brewer’s office had received more than 10,000 calls and emails on the matter as of Monday morning.
+
+STEP 1:
+* intolerant
+* liberties
+* harm
+* lies
+* irresponsible
+* discriminate
+* consensus
+
+SUMMARY:
+Arizona Governor Jan Brewer faces pressure to veto a bill that would allow businesses to refuse service to gays and others based on religious grounds. The bill has sparked national attention and outrage, with many elected officials, civic leaders, and business groups speaking out against it. The measure has been criticized for promoting "religious intolerance" and jeopardizing the state's economic comeback. Even some Republican state senators who initially supported the bill have now urged Brewer to veto it, citing the harm it could cause to the state's image. The bill's supporters, however, claim that opponents are spreading "lies" and engaging in "irresponsible" reporting. As Brewer considers her decision, the state's reputation and economy hang in the balance, with some warning that the bill could lead to boycotts and lost business opportunities. END OF SUMMARY.
+
+Example 3 (Political Ideology: Right):
+Here is the news article:
+
+Support for gun rights is higher than it’s been in decades, according to the latest data from the Pew Research Center that signals a stunning turnaround in how Americans feel about the issue just two years after the Newtown school shooting.
+
+Pew found that 52 percent of Americans say Second Amendment rights are more important than gun control — up 7 percentage points from just after the December 2012 Sandy Hook Elementary School shooting that left 20 schoolchildren and six faculty dead.
+
+That’s the highest approval rating in two decades, and it’s being driven in part by changing attitudes among black Americans, who are increasingly likely to view guns as good for public safety.
+
+Pew found 54 percent of blacks now say firearms protect people from being victims of crimes, compared to 41 percent who say they are a public safety risk.
+Just two years ago, only 29 percent of blacks said guns were a public safety boon.
+
+“Over the past two years, blacks’ views on this measure have changed dramatically,” Pew researchers said.
+
+The changes are all the more stunning given the direction the debate appeared to be going two years ago, when 20-year-old gunman Adam Lanza killed his mother, then drove to the elementary school where he fatally shot 26 people, then turned the gun on himself to commit suicide.
+
+President Obama called for major new restrictions on gun rights in the wake of the shooting, asking Congress to enact a bill to subject more gun purchases to background checks and to ban high-capacity ammunition magazines and military-style rifles.
+But gun rights supporters rallied, blocking those efforts in the Senate and leaving the matter stalled.
+
+Some states acted in lieu of federal action, but Democrats on Capitol Hill said Wednesday they remain committed to imposing new restrictions.
+
+“It is imperative that we act,” House Minority Leader Nancy Pelosi said at an event to commemorate the Newtown shooting.
+“We must stick with this.”
+
+Gun control supporters said other polling still shows strong support for specific changes.
+Requiring universal background checks garners support of about 90 percent of Americans, while support for limits on rifles and ammunition magazines hovers just above 50 percent.
+
+Ladd Everitt, a spokesman for the Coalition to Stop Gun Violence, said Pew’s findings reflect a sharp partisan divide on the issue, but also said the wording of the survey might have influenced the results.
+The survey asked whether it was more important to “control gun ownership” or “protect the right of Americans to own guns.”
+
+“The notion of having ‘rights’ is certainly going to be more appealing than the notion of being ‘controlled,’ no matter what topic you are asking respondents about,” he said in an email.
+“We’d be curious to see how the polling would look if Pew Research asked respondents if they believed they had ‘a right to be free from gun violence in their communities through the enactment of sensible gun legislation.’”
+
+Specific wording aside, Pew’s research suggested a shift over time.
+Support for gun control peaked at 66 percent in the late 1990s, or about the time of the 1999 shooting at Columbine High School in Littleton, Colorado, and has dropped 20 percentage points since then.
+
+The recent shift has also happened across nearly all demographic lines.
+
+When posed a choice between supporting gun rights or gun controls, men and women, old and young, white and black and Republican and Democrat all saw their preference for Second Amendment rights increase over the last two years.
+
+African-Americans’ support for gun rights rose from 24 percent to 34 percent, and whites’ backing rose from 53 percent to 61 percent.
+Only Hispanics saw a drop in their support for gun rights, slipping 2 percentage points to 25 percent, or lower than blacks’ level of support.
+
+While Democrats still generally back gun controls, with just 28 percent supporting gun rights, majorities of both Republicans and independents say the Second Amendment trumps their desire for more controls.
+
+STEP 1:
+* rights
+* control
+* protect
+* victims
+* risk
+* boon
+* safety
+* restrictions
+* imperative
+* commit
+
+SUMMARY:
+A recent Pew Research Center survey reveals a significant shift in Americans' attitudes towards gun ownership, with 52% prioritizing Second Amendment rights over gun control, a 7-point increase from 2012. This change is driven in part by a dramatic shift among black Americans, who now view guns as a public safety boon, with 54% believing firearms protect people from being victims of crimes. In contrast, only 29% held this view two years ago. Despite President Obama's call for major new restrictions on gun rights after the Newtown school shooting, gun rights supporters rallied, blocking efforts in the Senate. While Democrats remain committed to imposing new restrictions, Pew's findings reflect a sharp partisan divide on the issue. The survey's wording may have influenced the results, but the shift over time is clear, with support for gun control dropping 20 percentage points since the late 1990s. END OF SUMMARY.
+
+Now, here is the target news article to summarize:
+Here is the news article:
+
+A lot of good points were made about the inconsistencies and hypocrisies of Alabama’s 25 white male lawmakers who passed the anti-abortion bill in the state senate this week. It was pointed out that Republicans in favour of banning abortion are by and large against banning guns because, by their own logic, “banning things doesn’t work”. It was observed that the “life” of a six-week-old bunch of cells is precious to these men, but the life of a child born to a mother of no means, in a state that voted to repeal Obamacare – that notional kid, not so much. And while the point was made that no one who has watched a woman struggle through labour could, in good conscience, criminalise her disinclination to do so, these arguments seemed to me bizarre, premised on the notion that the men in Alabama were acting in good faith; that they had the health of anyone but themselves in mind. No one at this point in the US abortion debate can believe that the foetus is the focus. It’s not about the foetus, it’s about the woman. An abortion ban as radical as the one voted for in Alabama is about the elimination of women – particularly poor women – as a threat to the social order; it is a measure designed to ensure that poor people stay poor, and women stay home. Trying to shame abortion-banners for unfairness to women is like trying to shame advocates of mandatory minimum sentencing for causing the large-scale incarceration of black people. That was kind of the point. Alabama's abortion ban shows the chilling effect of Brett Kavanaugh's appointment. The term “existential threat” is used so widely these days that it has ceased to have much meaning. But this is how the law in Alabama felt – to the extent that to lose control of one’s reproductive health is to lose control of one’s life, or that a woman without means to travel will be forced to carry a baby with severe fetal abnormalities to term, or simply that the consequence of sex is once again borne by the woman – all the things that were supposed to have been banished in 1973. It will be stuck in federal district court for years and will probably not even reach the supreme court docket. But overturning Roe v Wade is clearly the intention behind the law and it is hard not to feel so angry this week as to wonder idly: at what point does Elizabeth Warren talk about raising a militia? Incrementalists, meanwhile, will carry on chipping away at Roe, understanding that as a tactic this may be more effective than confronting it head on. People of means who want abortions in Alabama will fly out of state, as they always have, given that the state has only three abortion clinics. For everyone else, an abortion is not only a cost investment but an emotional and imaginative one. It is hard enough, in a state such as Alabama, to get the courage up to go to an abortion clinic. But to have to travel vast distances for a frightening procedure that is illegal at home might be for many, too much. Which is of course why the bill passed. Everything about it says: stay where you are.
+
+(1) First, you identify all the single words that are morally framed. Identify this step as "STEP 1:" and report each word in a new line starting with *
+(2) Finally, you write a summary of the news article. Please preserve as many morally framed words as possible in your summary. The summary has to be returned after a "SUMMARY:" token and ending with a "END OF SUMMARY." token. The summary should be no longer than 200 words.

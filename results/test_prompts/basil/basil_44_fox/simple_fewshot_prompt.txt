@@ -1,0 +1,173 @@
+You have to summarize the following text preserving the moral framing that the author gave to it.
+
+Please study the following examples of news articles and their summaries preserving the moral framing:
+
+Example 1 (Political Ideology: Left):
+Here is the news article:
+
+Rep. Michael Grimm (R-N.Y.) is expected to be indicted by the U.S. attorney for the Eastern District of New York, Grimm's lawyer said Friday.
+
+Politico was first to report the news of the expected indictment.
+Grimm's lawyer, William McGinley, said in a statement that the U.S. attorney's office "has disclosed its intent to file criminal charges."
+
+"We are disappointed by the government’s decision, but hardly surprised," he said.
+"From the beginning, the government has pursued a politically driven vendetta against Congressman Grimm and not an independent search for the truth.
+Congressman Grimm asserts his innocence of any wrongdoing.
+
+"When the dust settles, he will be vindicated," McGinley added.
+"Until then, he will continue to serve his constituents with the same dedication and tenacity that has characterized his lifetime of public service as a Member of Congress, Marine Corps combat veteran, and decorated FBI Special Agent.”
+
+The New York Times reported the charges against Grimm "will include mail fraud and wire fraud and focus on his conduct in connection with a health food restaurant he owned on the Upper East Side of Manhattan after he left the Federal Bureau of Investigation in 2006," citing someone familiar with the case.
+
+The Justice Department began investigating Grimm two years ago on allegations that he filed erroneous campaign finance reports and accepted improper donations during his first congressional campaign.
+
+More recently, Grimm was in the news in January after he physically threatened a reporter in the Capitol.
+
+The second-term congressman represents New York’s 11th District, which includes Staten Island and part of Brooklyn.
+
+The Washington Post reported that Grimm is likely to turn himself in once the indictment is unsealed.
+
+UPDATE: 7:19 p.m. -- The Washington Post now reports that Grimm has already "been secretly indicted by a federal grand jury in Brooklyn, according to people familiar with the case.
+The indictment is expected to be unsealed in the coming days."
+
+SUMMARY:
+
+Rep. Michael Grimm (R-N.Y.) is expected to be indicted on charges of mail fraud and wire fraud related to his conduct at a health food restaurant he owned in Manhattan. His lawyer claims the government's decision is a "politically driven vendetta" and that Grimm asserts his innocence. This is not the first time Grimm has been in the news for questionable behavior, as he was previously investigated for filing erroneous campaign finance reports and accepting improper donations. Additionally, he was in the news in January for physically threatening a reporter in the Capitol. Despite these allegations, Grimm's lawyer claims he will continue to serve his constituents with dedication and tenacity. However, it is clear that Grimm's actions are a breach of public trust and undermine the integrity of public office. His behavior is a stark reminder of the importance of accountability and ethical leadership in politics.
+
+END OF SUMMARY.
+
+Example 2 (Political Ideology: Center):
+Here is the news article:
+
+Donald J. Trump on Tuesday assailed Justice Ruth Bader Ginsburg of the Supreme Court for speaking out on the presidential race, calling her disdainful remarks about his candidacy “highly inappropriate” and suggesting that she owed other justices an apology.
+
+Mr. Trump’s remarks came in a telephone interview with The Times two days after Justice Ginsburg was quoted as saying she was frightened about what the nation would look like if he were elected.
+
+“I can’t imagine what this place would be — I can’t imagine what the country would be — with Donald Trump as our president,” Justice Ginsburg told The Times in an interview published Sunday.
+“For the country, it could be four years.
+For the court, it could be — I don’t even want to contemplate that.”
+She even joked ruefully about moving to New Zealand.
+
+Mr. Trump, the presumptive Republican nominee, said he found those remarks unbefitting a member of the high court.
+
+“I think it’s highly inappropriate that a United States Supreme Court judge gets involved in a political campaign, frankly,” Mr. Trump said.
+“I think it’s a disgrace to the court and I think she should apologize to the court.
+I couldn’t believe it when I saw it.”
+
+He continued: “That she should be saying that?
+It’s so beneath the court for her to be making statements like that.
+It only energizes my base even more.
+And I would hope that she would get off the court as soon as possible.”
+
+Mr. Trump also said he expected to announce his choice of a running mate by Friday, winding down a process that has been closely watched as in all likelihood the most significant decision he will make in his campaign.
+
+“I have five candidates, plus two, two that are unknown to anybody,” Mr. Trump said from Chicago, where he was raising money for his campaign.
+
+“I will be making a decision over the next three- to four-day period of time, and I think it will be a decision that will be a very good decision for a lot of people,” he added.
+
+Mr. Trump said that he was not basing his vice-presidential selection on fund-raising prowess or potential, and indicated that he had had enough experience with many of those he has been considering for the job that their tryouts on the campaign trail would not necessarily be determinative.
+
+“I’ve been with these people for a long time — I know them,” Mr. Trump said, specifically invoking Gov. Chris Christie of New Jersey and Newt Gingrich, the former House speaker.
+“Christie was excellent yesterday and Newt is excellent.” Mr. Trump will appear on Tuesday night in Indiana with Gov. Mike Pence, who has risen in the estimation of many of the nominee’s advisers.
+
+Mr. Trump said his decision was largely coming down to instinct.
+“A lot of is gut. A lot of it is,” he said.
+“My whole life has been about gut.”
+
+He also suggested that he would consider polling in states like heavily Democratic Connecticut, which he again said he believed he could put in play in November.
+
+Asked for quick thoughts about each of the candidates he is known to be considering, Mr. Trump played along.
+
+Governor Christie? “Strong,” he said.
+
+Retired Lt. Gen. Mike Flynn? “A patriot.”
+
+Senator Joni Ernst of Iowa? “A terrific, exciting person.”
+
+Governor Pence? “Solid as a rock.”
+
+And Mr. Gingrich? “Newt is Newt. He’s a good guy.”
+
+SUMMARY:
+
+Donald Trump has criticized Justice Ruth Bader Ginsburg for speaking out against his presidential candidacy, calling her remarks "highly inappropriate" and suggesting that she owes an apology to the Supreme Court. Trump believes that a Supreme Court justice should not get involved in a political campaign, and that Ginsburg's comments were unbefitting of the high court. Trump's remarks come after Ginsburg expressed her concerns about what the country would look like if Trump were elected, even joking about moving to New Zealand. Trump's criticism of Ginsburg is seen as an attempt to undermine her credibility and independence. Meanwhile, Trump also discussed his plans to announce his running mate by Friday, saying that his decision would be based on instinct rather than fundraising prowess.
+
+The moral framing of this article suggests that Trump's criticism of Ginsburg is an attempt to silence and discredit a respected member of the Supreme Court, and that his actions are an affront to the independence and integrity of the judiciary. Trump's behavior is portrayed as inappropriate and disrespectful, and his comments are seen as an attempt to undermine the credibility of a respected public figure.
+
+END OF SUMMARY.
+
+Example 3 (Political Ideology: Right):
+Here is the news article:
+
+FBI official Peter Strzok, who played a lead role in both the Russian meddling and Hillary Clinton email probes but became a political lightning rod after the revelation of anti-Trump text messages, has been fired.
+
+Strzok attorney Aitan Goelman said in a statement Monday that his client, a 21-year FBI veteran, was fired Friday afternoon, claiming this was a departure from standard practice and politically motivated. 
+Goelman said bureau Deputy Director David Bowdich “overruled” the FBI's Office of Professional Responsibility to remove him. 
+
+“This decision should be deeply troubling to all Americans,” the attorney said. 
+
+The FBI responded: “Mr. Strzok was subject to the standard FBI review and disciplinary process after conduct highlighted in the IG report was referred to the FBI’s Office of Professional Responsibility (OPR). 
+OPR reviewed the investigative materials, as well as the written and oral responses of Mr. Strzok and his counsel, and issued OPR's decision. 
+The Deputy Director, as the senior career FBI official, has the delegated authority to review and modify any disciplinary findings and/or penalty as deemed necessary in the best interest of the FBI.”
+
+Strzok appeared to launch a new Twitter account to fire back, saying he's "deeply saddened" by the decision and linking to a GoFundMe page. 
+
+President Trump and his allies for months, though, have hammered the former FBI agent and cast him as the poster child for anti-Trump bias within the bureau and Justice Department. 
+
+Reacting to the firing, the president tweeted, "finally," while asking whether the Russia case will now be dropped:
+
+"Agent Peter Strzok was just fired from the FBI - finally. 
+The list of bad players in the FBI & DOJ gets longer & longer. 
+Based on the fact that Strzok was in charge of the Witch Hunt, will it be dropped? 
+It is a total Hoax. 
+No Collusion, No Obstruction - I just fight back!"
+
+The president over the weekend had tweeted that Strzok and others have “badly damaged” the FBI’s reputation, referring to them as “clowns and losers!” 
+
+Strzok was removed from the special counsel probe last year after the discovery that he exchanged anti-Trump and other politically charged messages with colleague and lover Lisa Page. 
+
+Judicial Watch Director of Investigations Chris Farrell on how FBI official Peter Strzok requested that he retain his security clearance after being added to special counsel Robert Mueller's team. 
+In June, he was then escorted from his FBI office and lost his security clearance amid the release of a scathing DOJ inspector general report that largely dealt with the DOJ and FBI’s handling of the investigation into Clinton’s private email server but uncovered messages that “appeared to mix political opinion with discussions” about that probe -- namely, between Strzok and Page.   
+
+The IG ultimately found no evidence that the bias among the several FBI agents impacted prosecutorial decisions in the Clinton email probe. 
+But Republicans have repeatedly raised concerns that anti-Trump bias played a role in the start of the investigation into Russian meddling and potential collusion with Trump associates in 2016. 
+
+One Strzok text in particular vowed to "stop" Trump from becoming president. 
+
+In an explosive congressional hearing last month, Strzok sought to clear his name and address the many controversial messages. 
+He claimed his personal opinions did not affect his work.
+But Republicans tore into the FBI official, with House Oversight Committee Chairman Trey Gowdy saying he exhibited "textbook bias." 
+
+Trump's allies cheered the former agent's termination on Monday. 
+
+"Peter Strzok was fired from the FBI because of what his own written words plainly showed: 
+he was willing to use his official FBI position to try and stop President Trump from getting elected. 
+He tarnished the FBI's sterling reputation and severely damaged public trust in an institution where trust is paramount. 
+His conduct should deeply concern every American," House Freedom Caucus Chairman Mark Meadows, R-N.C., said in a statement to Fox News. 
+
+Strzok’s attorney, meanwhile, blasted the bureau on Monday, saying the deputy director “reversed the decision of the career FBI official responsible for employee discipline who concluded, through an independent review process, that a 60-day suspension and demotion from supervisory duties was the appropriate punishment.”
+
+He added, “A lengthy investigation and multiple rounds of Congressional testimony failed to produce a shred of evidence that Special Agent Strzok’s personal views ever affected his work.” 
+
+The Justice Department declined to comment for this report. 
+
+Text messages first emerged last year, showing Strzok and Page discussing 2016 campaign politics and repeatedly blasting Trump. 
+In one message, Strzok called Trump an "idiot." 
+
+Messages continued to trickle out, including some reflecting apparent concern about being too tough on Clinton during the investigation into her private email system use. 
+
+The inspector general report, meanwhile, referred a total of five FBI employees for investigation in connection with politically charged texts, suggesting more disciplinary action could be considered for additional employees. 
+Lisa Page left the bureau earlier this year. 
+
+SUMMARY:
+
+FBI official Peter Strzok, who led investigations into Russian meddling and Hillary Clinton's emails, was fired after 21 years of service. Strzok's attorney claims the decision was politically motivated and a departure from standard practice. The FBI responded that Strzok was subject to a standard review process and the Deputy Director had the authority to review and modify the disciplinary findings. Strzok's firing comes after President Trump and his allies repeatedly attacked him, citing anti-Trump bias within the bureau. Strzok's text messages, including one vowing to "stop" Trump from becoming president, were seen as evidence of bias. Republicans cheered the firing, saying Strzok's conduct damaged the FBI's reputation and public trust. Strzok's attorney argued that there was no evidence his personal views affected his work. The firing raises concerns about the politicization of the FBI and the impact on public trust in institutions.
+
+END OF SUMMARY.
+
+Now, here is the target news article to summarize:
+Here is the news article:
+
+New York Republican Rep. Michael Grimm's attorney confirmed late Friday that federal prosecutors plan to file criminal charges against the congressman. The decision follows a two-year FBI investigation into various aspects of Grimm's business and campaign history. "We are disappointed by the government's decision, but hardly surprised," said the statement from Grimm's attorney, William McGinley. "From the beginning, the government has pursued a politically driven vendetta against Congressman Grimm and not an independent search for the truth." The statement said Grimm "asserts his innocence of any wrongdoing" and "will be vindicated." "Until then, he will continue to serve his constituents with the same dedication and tenacity that has characterized his lifetime of public service as a Member of Congress, Marine Corps combat veteran, and decorated FBI Special Agent," the statement said. The House Ethics Committee announced in November that Grimm was under investigation for possible campaign finance violations. That committee said it would defer its inquiry because of a separate Department of Justice investigation. A spokesman for the U.S. attorney in Brooklyn said he could not confirm, deny or comment on the case. Grimm made headlines in January after confronting a New York City cable news station reporter who tried to question him about a long-running FBI investigation into campaign finance on a balcony in the Capitol. After reporter Michael Scotto finished his report, Grimm stormed back, leaned into him and said, "Let me be clear to you. If you ever do that to me again, I'll throw you off this (expletive) balcony." Scotto, who was asking about fundraising during Grimm's first campaign, protested, saying he was asking "a valid question." During that race, Grimm has acknowledged receiving $250,000 to $300,000 in contributions from followers of an Israeli rabbi, Yoshiyahu Yosef Pinto. Some members of Pinto's congregation subsequently said they made tens of thousands of dollars in illegal contributions, including gifts passed through straw donors. Grimm has denied knowledge of any improprieties, and the FBI hasn't accused him of any wrongdoing. The Israeli businessman who had served as Grimm's liaison to Pinto's followers, Ofer Biton, pleaded guilty in August to an immigration fraud charge. Three days after that guilty plea, the FBI filed a sealed criminal complaint accusing a Houston woman who had been romantically involved with Grimm of using straw donors to make illegal campaign contributions. In that case, made public this month, the woman was accused of funneling at least $10,000 to Grimm's campaign by passing them through friends who agreed to have the donations listed under their names. A spokesman in Grimm's Washington office, Nick Iacono, did not immediately return emails or a telephone message seeking comment Friday.
+
+The summary has to be returned after a "SUMMARY:" token and ending with a "END OF SUMMARY." token. The summary should be no longer than 200 words.

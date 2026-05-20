@@ -1,0 +1,208 @@
+You have to summarize the following text preserving the moral framing that the author gave to it.
+
+Please study the following examples of news articles, their moral word extraction, and summaries preserving the moral framing:
+
+Example 1 (Political Ideology: Left):
+Here is the news article:
+
+Donald Trump has blocked the former White House counsel Don McGahn from testifying before Congress about the special counsel report on Russian election interference, prompting sharp criticism and even threats of impeachment.
+
+In a legal opinion released on Monday, the justice department said lawmakers on Capitol Hill cannot compel McGahn, who was subpoenaed by the House judiciary committee, to answer their questions under oath.
+
+“The Department of Justice has provided a legal opinion stating that, based on long-standing, bipartisan, and constitutional precedent, the former counsel to the president cannot be forced to give such testimony, and Mr McGahn has been directed to act accordingly,” the White House press secretary, Sarah Sanders, said in a statement.
+
+Trump must turn over financial records to House, judge rules – live
+
+“This action has been taken in order to ensure that future presidents can effectively execute the responsibilities of the office of the presidency.”
+
+McGahn is a central figure in special counsel Robert Mueller’s report, often standing in the way of Trump’s efforts to obstruct justice.
+According to investigators, McGahn threatened to resign when the president ordered him to have Mueller fired.
+
+McGahn was also dispatched by Trump to convince the former attorney general Jeff Sessions not to recuse himself from overseeing the Russia investigation.
+(Sessions did not heed the president’s demands.)
+
+Travelling to a rally in Pennsylvania, Trump was asked why he was asking McGahn to defy a congressional subpoena.
+“Well, as I understand it, they’re doing that for the office of the presidency, for future presidents,” he replied, according to a pool report.
+“I think it’s a very important precedent.
+And the attorneys say that they’re not doing that for me.
+They’re doing it for the office of the president.
+So we’re talking about the future.”
+
+The White House’s intervention was condemned by Jerry Nadler, the Democratic chairman of the judiciary committee.
+“The Mueller report documents a shocking pattern of obstruction of justice,” he said in a statement.
+“The president acted again and again – perhaps criminally – to protect himself from federal law enforcement.
+
+“Don McGahn personally witnessed the most egregious of these acts.
+President Trump knows this.
+He clearly does not want the American people to hear firsthand about his alleged misconduct, and so he has attempted to block Mr McGahn from speaking in public tomorrow.”
+
+The move is the latest example of the Trump administration’s “disdain for the law”, added Nadler, who said the committee will meet as planned on Tuesday morning and still expects McGahn to appear.
+
+Another Democratic member of the committee, David Cicilline, went further in his criticism, suggesting that impeachment of Trump would be warranted if McGahn did not respond to the subpoena.
+
+“Let me be clear: if Don McGahn doesn’t testify, it is time to open an impeachment inquiry,” he told the MSNBC network.
+“The president has engaged in an ongoing effort to impede our ability find the truth, to collect evidence, to do our work … No one is above the law, including the president of the United States.”
+
+Cicilline admitted he did not know if his view was shared by other members of Democratic leadership but added: “We may well be forced into a position to have to open a formal inquiry in order to facilitate the collection of the evidence that we need to see.”
+
+The justice department’s legal opinion does not prevent McGahn testifying if he so chooses, although it would be potentially at risk to his own career.
+Trump has mused about instructing Republicans to cease dealing with his law firm, Jones Day, the Associated Press reported.
+
+William Barr is acting like Trump's henchman
+
+Matthew Miller, former director of the office of public affairs for the justice department, tweeted: “Just show up and testify, McGahn.
+This isn’t about some garden-variety Congressional-executive branch dispute, but as one of your predecessors described it, a cancer on the presidency.
+Think about your place in history.”
+
+McGahn was subpoenaed by Nadler last month and, under instruction by the White House, failed to meet an initial deadline to appear before the committee.
+Nadler threatened to hold McGahn in contempt of Congress if he did not meet a second deadline of 21 May.
+
+McGahn, who left the White House last year, has increasingly become the subject of Trump’s ire following the release of the redacted Mueller report.
+Last week, the president tweeted he was “never a big fan” of McGahn and suggested it was the former White House counsel, and not Mueller, who was on his chopping block at the time of the investigation.
+
+The Trump administration has repeatedly blocked attempts at oversight by the Democratic-controlled House.
+Last month it instructed the former personnel security director Carl Kline not to testify at a hearing into alleged lapses in White House security clearance procedures.
+Last week the treasury secretary, Steven Mnuchin, refused to comply with a congressional subpoena to hand over Trump’s tax returns.
+
+Nadler’s committee has previously voted to hold the attorney general, William Barr, in contempt for refusing to provide the unredacted Mueller report and underlying evidence to Congress.
+
+STEP 1:
+* obstruction
+* justice
+* criminal
+* misconduct
+* disdain
+* law
+* truth
+* impede
+* above
+* cancer
+* contempt
+
+SUMMARY:
+Donald Trump has blocked former White House counsel Don McGahn from testifying before Congress about the special counsel report on Russian election interference, sparking sharp criticism and even threats of impeachment. The move is the latest example of the Trump administration's "disdain for the law" and an attempt to "impede" the collection of evidence. McGahn is a central figure in the report, having threatened to resign when Trump ordered him to have Mueller fired. Democrats condemned the move, with Jerry Nadler saying it's part of a "shocking pattern of obstruction of justice" and David Cicilline suggesting that impeachment would be warranted if McGahn didn't respond to the subpoena. The Trump administration has repeatedly blocked attempts at oversight, showing a blatant disregard for the "law" and the "truth". END OF SUMMARY.
+
+Example 2 (Political Ideology: Center):
+Here is the news article:
+
+WASHINGTON — President Trump on Monday said the F.B.I. ruined the life of his former national security adviser and said his Democratic opponent for president, Hillary Clinton, suffered no consequences after she lied “many times” to the F.B.I.
+
+Michael T. Flynn, Mr. Trump’s first national security adviser, pleaded guilty on Friday to lying to the F.B.I. when he was questioned early this year about his conversations with the Russian ambassador.
+He was the fourth person charged in the investigation of Robert S. Mueller III, the special counsel appointed to lead an inquiry into Russia’s influence on the 2016 election and possible ties to Trump associates.
+
+As he left for Utah on Monday, the president said he felt “very badly” for Mr. Flynn, whom he fired in February for lying to the vice president about the content of these conversations.
+
+Mr. Trump’s comments Monday on Mr. Flynn come at a time when the special counsel investigation is focusing intensely on the president’s inner circle.
+Mr. Trump once encouraged Mr. Flynn to seek an immunity deal.
+Presidents typically do not weigh in on federal investigations to avoid appearing to influence the outcome.
+
+“I feel badly for General Flynn,” Mr. Trump said on Monday. “I feel very badly.
+He’s led a very strong life and I feel very badly.
+Hillary Clinton lied many times to the F.B.I. Nothing happened to her.
+Flynn lied and they destroyed his life.”
+
+Mr. Trump did not cite specifically what Mrs. Clinton said that he considered a lie.
+
+Mrs. Clinton gave a voluntary interview to the bureau in July 2016 during its investigation into whether she or her aides broke the law by corresponding through a private email server set up for her use as secretary of state.
+A few days later, the F.B.I. director at the time, James B. Comey, recommended no charges be filed against her in the matter.
+
+STEP 1:
+* badly
+* lied
+* destroyed
+
+SUMMARY:
+President Trump expressed sympathy for his former national security adviser, Michael T. Flynn, who pleaded guilty to lying to the F.B.I. about his conversations with the Russian ambassador. Trump felt "very badly" for Flynn, who he fired in February for lying to the vice president. The president contrasted Flynn's situation with that of his Democratic opponent, Hillary Clinton, who he claimed "lied many times" to the F.B.I. during its investigation into her email server, but faced no consequences. Trump argued that Flynn's life was "destroyed" as a result of his lie, while Clinton's dishonesty went unpunished. The president's comments come as the special counsel investigation into Russia's influence on the 2016 election and possible ties to Trump associates is intensifying its focus on his inner circle. END OF SUMMARY.
+
+Example 3 (Political Ideology: Right):
+Here is the news article:
+
+FBI official Peter Strzok, who played a lead role in both the Russian meddling and Hillary Clinton email probes but became a political lightning rod after the revelation of anti-Trump text messages, has been fired.
+
+Strzok attorney Aitan Goelman said in a statement Monday that his client, a 21-year FBI veteran, was fired Friday afternoon, claiming this was a departure from standard practice and politically motivated. 
+Goelman said bureau Deputy Director David Bowdich “overruled” the FBI's Office of Professional Responsibility to remove him. 
+
+“This decision should be deeply troubling to all Americans,” the attorney said. 
+
+The FBI responded: “Mr. Strzok was subject to the standard FBI review and disciplinary process after conduct highlighted in the IG report was referred to the FBI’s Office of Professional Responsibility (OPR). 
+OPR reviewed the investigative materials, as well as the written and oral responses of Mr. Strzok and his counsel, and issued OPR's decision. 
+The Deputy Director, as the senior career FBI official, has the delegated authority to review and modify any disciplinary findings and/or penalty as deemed necessary in the best interest of the FBI.”
+
+Strzok appeared to launch a new Twitter account to fire back, saying he's "deeply saddened" by the decision and linking to a GoFundMe page. 
+
+President Trump and his allies for months, though, have hammered the former FBI agent and cast him as the poster child for anti-Trump bias within the bureau and Justice Department. 
+
+Reacting to the firing, the president tweeted, "finally," while asking whether the Russia case will now be dropped:
+
+"Agent Peter Strzok was just fired from the FBI - finally. 
+The list of bad players in the FBI & DOJ gets longer & longer. 
+Based on the fact that Strzok was in charge of the Witch Hunt, will it be dropped? 
+It is a total Hoax. 
+No Collusion, No Obstruction - I just fight back!"
+
+The president over the weekend had tweeted that Strzok and others have “badly damaged” the FBI’s reputation, referring to them as “clowns and losers!” 
+
+Strzok was removed from the special counsel probe last year after the discovery that he exchanged anti-Trump and other politically charged messages with colleague and lover Lisa Page. 
+
+Judicial Watch Director of Investigations Chris Farrell on how FBI official Peter Strzok requested that he retain his security clearance after being added to special counsel Robert Mueller's team. 
+In June, he was then escorted from his FBI office and lost his security clearance amid the release of a scathing DOJ inspector general report that largely dealt with the DOJ and FBI’s handling of the investigation into Clinton’s private email server but uncovered messages that “appeared to mix political opinion with discussions” about that probe -- namely, between Strzok and Page.   
+
+The IG ultimately found no evidence that the bias among the several FBI agents impacted prosecutorial decisions in the Clinton email probe. 
+But Republicans have repeatedly raised concerns that anti-Trump bias played a role in the start of the investigation into Russian meddling and potential collusion with Trump associates in 2016. 
+
+One Strzok text in particular vowed to "stop" Trump from becoming president. 
+
+In an explosive congressional hearing last month, Strzok sought to clear his name and address the many controversial messages. 
+He claimed his personal opinions did not affect his work.
+But Republicans tore into the FBI official, with House Oversight Committee Chairman Trey Gowdy saying he exhibited "textbook bias." 
+
+Trump's allies cheered the former agent's termination on Monday. 
+
+"Peter Strzok was fired from the FBI because of what his own written words plainly showed: 
+he was willing to use his official FBI position to try and stop President Trump from getting elected. 
+He tarnished the FBI's sterling reputation and severely damaged public trust in an institution where trust is paramount. 
+His conduct should deeply concern every American," House Freedom Caucus Chairman Mark Meadows, R-N.C., said in a statement to Fox News. 
+
+Strzok’s attorney, meanwhile, blasted the bureau on Monday, saying the deputy director “reversed the decision of the career FBI official responsible for employee discipline who concluded, through an independent review process, that a 60-day suspension and demotion from supervisory duties was the appropriate punishment.”
+
+He added, “A lengthy investigation and multiple rounds of Congressional testimony failed to produce a shred of evidence that Special Agent Strzok’s personal views ever affected his work.” 
+
+The Justice Department declined to comment for this report. 
+
+Text messages first emerged last year, showing Strzok and Page discussing 2016 campaign politics and repeatedly blasting Trump. 
+In one message, Strzok called Trump an "idiot." 
+
+Messages continued to trickle out, including some reflecting apparent concern about being too tough on Clinton during the investigation into her private email system use. 
+
+The inspector general report, meanwhile, referred a total of five FBI employees for investigation in connection with politically charged texts, suggesting more disciplinary action could be considered for additional employees. 
+Lisa Page left the bureau earlier this year. 
+
+STEP 1:
+* Troubling
+* Politically
+* Biased
+* Bad
+* Losers
+* Clowns
+* Hoax
+* Collusion
+* Obstruction
+* Witch
+* Hunt
+* Damaged
+* Reputation
+* Sterling
+* Severely
+* Concern
+* Idiot
+
+SUMMARY:
+FBI official Peter Strzok, who was accused of anti-Trump bias, has been fired. Strzok's attorney claims the decision was "deeply troubling" and "politically motivated," as it departed from standard practice. Strzok was a lead investigator in the Russian meddling and Hillary Clinton email probes, but was removed from the special counsel probe after exchanging biased text messages with colleague Lisa Page. President Trump and his allies have repeatedly attacked Strzok, calling him a "bad player" who "damaged" the FBI's "sterling reputation." Trump tweeted that Strzok's firing was "finally" a step towards justice, and questioned whether the Russia case would be dropped. Strzok's attorney argues that there is no evidence that his personal views affected his work, but Republicans claim his bias was evident in his texts. The firing has sparked a heated debate about bias and trust in the FBI. END OF SUMMARY.
+
+Now, here is the target news article to summarize:
+Here is the news article:
+
+WASHINGTON ― FBI Special Agent Peter Strzok, who was taken off special counsel Robert Mueller’s team after Justice Department investigators discovered his texts disparaging President Donald Trump, has been fired from the bureau despite the recommendations of a career FBI official. Aitan Goelman, Strzok’s attorney, said in a statement that Strzok was fired late Friday afternoon on the orders of FBI Deputy Director David Bowdich, despite an FBI career official’s recommendation that Strzok face a 60-day suspension and a demotion. Goelman called the decision “a departure from typical Bureau practice” and said it contradicted FBI Director Chris Wray’s earlier guarantee that the bureau would follow its regular process, despite Trump’s disdain for the now-former FBI official. “This decision should be deeply troubling to all Americans. A lengthy investigation and multiple rounds of Congressional testimony failed to produce a shred of evidence that Special Agent Strzok’s personal views ever affected his work,” Goelman said. “In fact, in his decades of service, Special Agent Strzok has proved himself to be one of the country’s top counterintelligence officers, leading to only one conclusion ― the decision to terminate was taken in response to political pressure, and to punish Special Agent Strzok for political speech protected by the First Amendment, not on a fair and independent examination of the facts. It is a decision that produces only one winner ― those who seek to harm our country and weaken our democracy.” Strzok exchanged texts with former FBI official Lisa Page that disparaged Trump as well as other politicians, including various Democrats. He testified last month after the release of an inspector general report on the handling of the FBI’s Hillary Clinton probe that described anti-Trump texts exchanged by bureau officials. Strzok, a 21-year veteran of the FBI, played a prominent role in both of the investigations surrounding the Clinton and Trump campaigns during the 2016 election. He was involved in the Clinton investigation, which was highly public, as well as the investigation into the Trump campaign and Russian interference in the 2016 election, which the bureau never publicly acknowledged until months into Trump’s presidency. Strzok subsequently joined the Mueller team, but left the team as soon as Mueller became aware of his anti-Trump texts. The precise justification for Bowdich’s decision to fire Strzok despite the recommendation of the FBI’s Office of Professional Responsibility is unclear. But DOJ’s inspector general was “deeply troubled” by texts Strzok sent that “potentially indicated or created the appearance that the investigative decisions were impacted by bias or improper considerations,” and particularly focused on one anti-Trump text that implied a willingness “to take official action to impact the presidential candidate’s electoral prospects.” The inspector general report also criticized Strzok for his use of personal email to conduct FBI business. It’s possible that the former FBI counterintelligence official’s extramarital relationship with Page also played a role in the FBI’s decision. Wray said at at a press conference in June that the bureau wouldn’t “hesitate to hold people accountable for their actions” after the disciplinary process. Trump celebrated Strzok’s firing on Twitter, writing Monday that the investigation into his campaign “should be dropped” and that the investigation into Clinton “should be properly redone.”
+
+(1) First, you identify all the single words that are morally framed. Identify this step as "STEP 1:" and report each word in a new line starting with *
+(2) Finally, you write a summary of the news article. Please preserve as many morally framed words as possible in your summary. The summary has to be returned after a "SUMMARY:" token and ending with a "END OF SUMMARY." token. The summary should be no longer than 200 words.

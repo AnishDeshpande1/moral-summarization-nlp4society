@@ -1,0 +1,195 @@
+You have to summarize the following text preserving the moral framing that the author gave to it, with particular focus on the specific moral foundations highlighted in the text.
+
+Please study the following examples of news articles, their moral word extraction, and summaries preserving the moral framing:
+
+Example 1 (Political Ideology: Left, Moral Foundations: Authority/Subversion, Care/Harm, Fairness/Cheating):
+Here is the news article:
+
+(CNN) -- The period since September 11, 2001, will never be described by any historian as a golden age of U.S. foreign policy.
+I know. I have just written a history on it, and it's not pretty.
+
+Since 9/11 attack, the United States has swung unsettlingly from one set of flawed policies to another.
+First, the unilateralist excess of the first term of the Bush administration; its signature error was the invasion of Iraq.
+Then, the reactive swing of Barack Obama, toward disengagement and dithering.
+In a tragic irony, a war in Iraq may someday also be seen as the enduring symbol of his errors.
+
+Some of the nation's problems come from nearly 15 years of a heightened sense of vulnerability.
+We're frayed and on edge and have let dysfunctional politics get ahead of national interests.
+But others are tied to human errors that can be fixed.
+The genius of the U.S. system is that it is built to change.
+
+Obama finds himself at the end of a string of errors of judgment and execution.
+These have contributed to damaged relations or crises ranging from those in Syria and Iraq to Libya to Egypt and Israel, from Ukraine to Afghanistan to Africa.
+They include crises at our own borders and strained relations with our allies over NSA eavesdropping.
+
+But Obama is not condemned to further errors.
+What he does need to produce constructive change however, is a quality rare and vital in any leader: the ability to recognize when one has made mistakes.
+
+Who to turn to as a model?
+
+The best example may well be George W. Bush himself.
+Because whatever mistakes Bush made in office -- and they were many -- in his second term, Bush recognized the urgent need for change and instituted a sweeping reordering of his administration, its policies and priorities.
+
+He replaced his chief of staff, secretaries of state, defense and Treasury, as well as his national security adviser, and he modified the role of the powerful vice president.
+He also changed his own engagement on key issues like Iraq, instituting weekly conference calls with his leaders on the ground.
+And he rewrote key policies, launching the surge in Iraq, initiating the "light footprint" approach to fighting terror later adopted by Obama and responding to the financial crisis.
+In region after region, the results were better, including on social issues like fighting AIDS in Africa, in relations with allies, in results in war zones or in deals like the India nuclear accord.
+
+He also actively sought to bring new, outside perspectives into his second term team, a stark contrast to the Obama approach.
+Cabinet secretaries in Bush's second term, such as Defense Secretary Robert Gates (later Obama's defense secretary) or Treasury Secretary Henry Paulson or new military commanders he appointed had not been part of his inner circle.
+
+Bush's willingness to admit errors and embrace change may have stemmed from his own failures and struggles earlier in life: as a congressional candidate, in the oil business, as a baseball team owner and even with alcohol.
+To get ahead, he had to acknowledge his shortcomings and fix them.
+
+He also turned this ability to see his way through tough times into a plus in another important role he embraced, that of a kind of coach-in-chief.
+Obama is seen as aloof from his Cabinet.
+All the Bush Cabinet members with whom I spoke told a strikingly different story.
+
+Ambassador James Jeffrey, who served as deputy national security adviser to Bush and then as Obama's Iraq ambassador, tells a story of one top Bush economic official having a moment of crisis and doubt in the darkest days of the financial catastrophe.
+Jeffrey listened as Bush bucked up his aide, restoring his confidence, telling him he was the best person for the job, letting him know he would back him on key decisions.
+This was in stark contrast to the White House-centric Obama approach that has left Cabinet officers feeling sidelined.
+
+It is easy to dismiss such stories when viewed in the context of politics or the very real, and in some cases historically significant, errors of the Bush years.
+Still, if President Obama is to begin to grow in office, he would be wise to look beyond politically inspired caricatures to see what worked for the man who occupied the Oval Office before him.
+
+Obama has his own life experience, of course.
+He will never be like Bush, in ways both good and bad.
+But what he may see is that at a moment of comparable foreign policy strains and dysfunctions, Bush was not content to give up or to punt to the future or play the blame game.
+
+He knew that in the American system, big change is sometimes needed and that it would never happen unless he did what no one else could do: Stand up to himself -- the President of the United States -- and demand he admit his mistakes and lead administration-wide change from within.
+
+STEP 1:
+* flawed
+* errors
+* tragic
+* dysfunctional
+* genius
+* rare
+* vital
+* mistakes
+* urgent
+* shortcomings
+* failures
+* struggles
+* shortcomings
+* aloof
+* crisis
+* doubt
+* darkest
+* historically
+
+SUMMARY:
+Since 9/11, the US has swung from one set of flawed policies to another, from unilateralist excess to reactive disengagement. The nation's problems stem from a heightened sense of vulnerability and human errors that can be fixed. The US system is built to change, but it requires leaders who can recognize their mistakes and lead constructive change. Obama's errors in judgment and execution have contributed to damaged relations and crises worldwide. However, he can learn from George W. Bush, who recognized his mistakes and instituted sweeping changes in his second term. Bush's ability to admit errors and embrace change stemmed from his own failures and struggles. Obama would be wise to look beyond political caricatures and learn from Bush's example, standing up to himself and demanding change from within. END OF SUMMARY.
+
+Example 2 (Political Ideology: Center, Moral Foundations: Authority/Subversion, Care/Harm):
+Here is the news article:
+
+Israel and Middle East policy have a tendency of surfacing in presidential politics in rather combustible ways.
+And a new advertisement that will run in areas of Florida with large Jewish populations attempts to stoke anxiety over American policies in the region, using a news clip of Prime Minister Benjamin Netanyahu of Israel warning of the risks of a nuclear Iran.
+
+“The fact is that every day that passes, Iran gets closer and closer to nuclear arms,” Mr. Netanyahu is shown saying.
+
+For dramatic effect, a soundtrack fit for an episodic drama like “Homeland” plays as the prime minister continues.
+“The world tells Israel, ‘Wait. There’s still time.’
+And I say wait for what?
+Wait until when?”
+Then an unseen announcer concludes: “The world needs American strength, not apologies.”
+
+That line is a not-so-veiled swipe at President Obama.
+Mitt Romney and other Republicans have criticized his foreign policy as apologetic, toward volatile countries like Iran.
+
+The group that produced the ad, Secure America Now, is run by two longtime Republican strategists, Nelson Warfield ? and John ?McLaughlin, and ?Pat Caddell, a former aide to Jimmy Carter who is now a Fox News contributor.
+They have reserved $500,000 of airtime in Fort Myers, West Palm Beach and Miami.
+
+A senior Israeli official said the government was not consulted on the ad and did not approve it.
+
+STEP 1:
+* anxiety
+* dramatic
+* volatile
+* apologetic
+* strength
+* swipe
+
+SUMMARY:
+A new advertisement in Florida, targeting areas with large Jewish populations, aims to stoke anxiety over American policies in the Middle East. The ad features Prime Minister Benjamin Netanyahu warning of the risks of a nuclear Iran, with a dramatic soundtrack. Netanyahu's message is clear: "Wait for what? Wait until when?" implying that the world is being too apologetic towards Iran. The ad concludes with the line "The world needs American strength, not apologies," a not-so-veiled swipe at President Obama's foreign policy. The group behind the ad, Secure America Now, is run by Republican strategists and has reserved $500,000 of airtime. Interestingly, the Israeli government was not consulted on the ad and did not approve it. The ad's message is clear: American strength is needed, not apologies.
+
+END OF SUMMARY.
+
+Example 3 (Political Ideology: Right, Moral Foundations: Fairness/Cheating):
+Here is the news article:
+
+President Trump on Monday called the criminal case against former national security adviser Michael Flynn “very unfair,” claiming he and Hillary Clinton both “lied” to the FBI but only Flynn faced consequences.
+
+The president’s comments, made to reporters as he left Washington for a policy announcement in Utah, saw Trump wading deeper into the Flynn investigation even after a weekend tweet landed the White House in hot water.
+
+On Monday, Trump said he feels “badly” for Flynn, who pleaded guilty on Friday to giving false statements to the FBI about his Russia contacts.
+
+“Hillary Clinton lied many times to the FBI, nothing happened to her. Flynn lied and they destroyed his life,” Trump said. 
+
+The president, without offering specifics, said his 2016 Democratic rival “lied many times” during her FBI interview in early July.
+
+“Nothing happened to her. Flynn lied and it’s like they ruined his life. Very unfair,” Trump said, echoing a weekend tweet in which he asked whether a “double standard” was at play.
+
+Clinton was interviewed by FBI agents as part of the investigation into her exclusive use of a private email system while secretary of state. 
+
+After that interview, then-FBI Director James Comey called her actions extremely careless without recommending criminal charges.
+
+Trump also noted over the weekend that Clinton was not recorded or under oath during that interview.
+
+On Sunday, Sen. Lindsey Graham, R-S.C., suggested Trump might want to think twice before tweeting and commenting on the Russia case. 
+
+“You tweet and comment regarding ongoing criminal investigations at your own peril,” he said on CBS’ “Face the Nation.”
+
+This was after Trump’s account tweeted Saturday: “I had to fire General Flynn because he lied to the Vice President and the FBI. 
+
+He has pled guilty to those lies. 
+
+It is a shame because his actions during the transition were lawful. 
+
+There was nothing to hide!”
+
+That tweet immediately caused problems for the White House, as some legal experts said it potentially exposed the president to obstruction of justice allegations – since, according to the tweet, he would have known Flynn lied to agents when he allegedly asked Comey to lay off the Flynn investigation and later fired Comey. 
+
+Trump said earlier this year that he fired Flynn only for lying to Vice President Pence about the issue.
+
+Trump’s personal lawyer John Dowd later said he was the one who wrote that tweet, saying he “did not mean to break news.”
+
+Dowd attempted to explain Sunday that the tweet was referring to then-acting Attorney General Sally Yates telling White House Counsel Don McGahn in January that Flynn had “given the agents the same story he gave the vice president.”
+
+He also said the agents seemed to think Flynn was confused. 
+
+“All the president knew was that the department was not accusing him of lying,” Dowd said.
+
+Trump over the weekend denied that he asked Comey to stop investigating Flynn.
+
+Sen. Dianne Feinstein, D-Calif., the top Democrat on the Senate Judiciary Committee, said on NBC’s “Meet the Press” on Sunday that the panel has begun to see "the putting together of a case of obstruction of justice" against Trump.
+
+Flynn is now cooperating with Special Counsel Robert Mueller’s investigators in the Russia meddling case, though it’s unclear what exactly he might reveal about Trump and his associates.
+
+
+
+STEP 1:
+* unfair
+* lied
+* destroyed
+* ruined
+* extremely
+* careless
+* shame
+* lawful
+* nothing
+* peril
+* obstruction
+* justice
+
+SUMMARY:
+President Trump claimed the criminal case against Michael Flynn is "very unfair" and that Flynn's life was "ruined" because he lied to the FBI, whereas Hillary Clinton "lied many times" and faced no consequences. Trump's comments sparked controversy, with some legal experts suggesting his tweets could be seen as obstruction of justice. Trump's personal lawyer, John Dowd, attempted to clarify the situation, but Senator Dianne Feinstein stated that the Senate Judiciary Committee is building a case of obstruction of justice against Trump. Meanwhile, Flynn is cooperating with Special Counsel Robert Mueller's investigators in the Russia meddling case. Trump's comments have raised questions about a "double standard" and whether he is trying to influence the investigation. END OF SUMMARY.
+
+Now, here is the target news article to summarize:
+Here is the news article:
+
+US Secretary of State Colin Powell, described as one of the few enlightened officials in President Bush's administration, is trying to "patch up" President Bush's statements, especially his latest one in which he made reckless threats at the "axis of evil," namely Iran, Iraq and North Korea. A day after President Bush's threat to crush these countries and use all means to prevent them from developing weapons of mass destruction, Secretary Powell said before the Senate Foreign Relations Committee that "characterizing these counties as the axis of evil does not mean that his government intends to invade them." He added: "We are prepared to initiate a dialogue, and we want to work with our friends and allies in the world on ways of dealing with such regimes." These are fine words, but they do not reflect the reality, because the hard-line wing in the US administration comprising Vice President Dick Cheney, Secretary of Defense Donald Rumsfeld, and National Security Adviser Condoleezza Rice have the final say in running affairs at the White House, and have direct influence on President Bush. Oddly enough, speculations swirled in Washington that Powell listened to President Bush's speech and his threats to "the axis of evil" like any other US citizen. He had not read the speech before President Bush delivered it, as he was supposed to do by virtue of his post. The fact that he subsequently denied these speculations does not mean they are baseless. At any rate, Secretary Powell's remark about the US administration's readiness to enter dialogue with these "evil" states and with Washington's friends on ways of dealing with them involves some contradictions. For he affirmed in the first speech that there would be no dialogue with Iraq until after it has accepted the return of the UN arms inspectors. The current US administration will consult with no one, not even its closest allies, whether in Europe or its followers in the Third World, particularly in the Arab world. The US administration has already decided to "punish" any country it believes poses a danger to the Hebrew State. It lumped North Korea with Iran and Iraq as part of the "axis of evil" only to mislead Arabs and Muslims and to create the impression that Islam is not alone targeted. The United States is these days ruled by an alliance between two main lobbies, the arms lobby and the Zionist lobby, which sees the world through the eyes of Ari'el Sharon and his extremist government. We therefore have to expect the worst in the near future. President Bush is facing a recession and an economic crisis. He does not want to repeat his father's mistake, being defeated in the next elections because of economic factors. He is therefore planning to trigger wars here and there to revive the flagging arms industry. The United States is currently run by a typical Texan mentality, which is closer to that of cowboys than to a civilized mentality that believes in dialogue and coexistence among peoples. This mentality simultaneously raises apprehensions and resentment, because international economic prosperity can be built on stability, not wars. A catastrophe would engulf every country if the US arms industry progressed at the expense of the world's security and stability.
+
+(1) First, you identify all the single words that are morally framed, focusing especially on the dimensions of Authority/Subversion, Care/Harm, Fairness/Cheating. Identify this step as "STEP 1:" and report each word in a new line starting with *
+(2) Finally, you write a summary of the news article. Please preserve as many morally framed words as possible, particularly focusing on the moral dimensions of Authority/Subversion, Care/Harm, Fairness/Cheating in your summary. The summary has to be returned after a "SUMMARY:" token and ending with a "END OF SUMMARY." token. The summary should be no longer than 200 words.

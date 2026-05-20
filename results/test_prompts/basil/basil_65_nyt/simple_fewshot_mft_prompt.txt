@@ -1,0 +1,117 @@
+You have to summarize the following text preserving the moral framing that the author gave to it, with particular focus on the specific moral foundations highlighted in the text.
+
+Please study the following examples of news articles and their summaries preserving the moral framing:
+
+Example 1 (Political Ideology: Left, Moral Foundations: Authority/Subversion):
+Here is the news article:
+
+Even though Bibi Netanyahu recently decried the use of his name in election-year politicking, the Israeli prime minister is the subject of a new ad by Secure America Now, a neoconservative nonprofit organization dedicated to influencing the debate around American security and foreign policy.
+
+Politico reports:
+
+“A Republican involved with the project said it’s airing in Miami, West Palm Beach and Ft. Myers.
+The flight is ultimately going to be $1 million, the official said - a media-tracking source said about $400,000 has been placed so far.
+
+Those markets house some of the state’s largest Jewish communities.
+
+The pollster for Secure America Now is John McLaughlin, who has worked with Netanyahu’s Likud Party.”
+
+The ad features Netanyahu laying out Israel’s security concerns about Iran’s nuclear program, which Republicans have used to knock President Barack Obama’s sometimes frosty relationship with the Israeli prime minister. 
+
+Republican presidential nominee Mitt Romney has repeatedly targeted the Obama administration for not taking a firm enough stance against Iran, claiming on many occasions that the president has “thrown Israel under a bus.”
+The GOP also has attacked the president for declining an opportunity to meet with Netanyahu at the United Nations General Assembly later this month in an effort to paint the current White House as dismissive of Israel and its concerns.
+
+But Netanyahu pushed back against these criticisms in two separate interviews on Sunday, first telling CNN, “I know that people are trying to draw me into the American election.
+I’m not going to do that.”
+
+He also rejected reports that Obama refused his request for a meeting, pinning the circumstances on a scheduling conflict, as has the White House when pressed on the subject.
+
+“President Obama has said that he’s determined to prevent Iran from getting nuclear weapons and I appreciate that and I respect that,” Netanyahu said on NBC’s “Meet the Press.”
+
+When asked if Obama had thrown Israel under a bus, Netanyahu responded, “There is no bus.”
+
+This isn’t the first ad Secure America Now has run against Obama, even though on its website the organization describes itself as representing all political ideologies.
+In July, the group released an ad pushing the same attack line employed by Romney, accusing the president of embarking on a so-called “apology tour” at the expense of American security. 
+
+The Obama administration is not mentioned by name in the latest spot, but it implicitly underscores the GOP’s narrative on the president’s relationship with the country’s closest ally.
+
+SUMMARY:
+
+A neoconservative nonprofit organization, Secure America Now, has launched a new ad featuring Israeli Prime Minister Bibi Netanyahu discussing Israel's security concerns about Iran's nuclear program. The ad is airing in markets with large Jewish communities in Florida, with a total budget of $1 million. The ad is seen as an attempt to influence the US presidential election, with Republicans using it to criticize President Barack Obama's relationship with Israel and his stance on Iran. However, Netanyahu has pushed back against these criticisms, stating that he will not be drawn into the US election and that Obama has expressed determination to prevent Iran from getting nuclear weapons. The ad is implicitly critical of the Obama administration, despite Secure America Now's claim to represent all political ideologies. The moral framing of this article suggests that Secure America Now's actions are hypocritical and misleading, and that Netanyahu's attempts to stay out of the US election are being undermined by partisan politics.
+
+END OF SUMMARY.
+
+Example 2 (Political Ideology: Center, Moral Foundations: Care/Harm, Fairness/Cheating):
+Here is the news article:
+
+From his home at Mar-a-Lago, Donald J. Trump stirred up new controversy this week in the Republican presidential primary — and new alarm among party leaders that the front-runner for the nomination will drive away women from candidates running farther down the ballot in the fall.
+
+All week, Mr. Trump has slowly escalated a war of words on Twitter against Senator Ted Cruz of Texas, his main competition in the Republican race, based on an ad by a “super PAC” started by people who want to stop the New York developer from getting the nomination.
+The spot featured an old nude photo shoot of Mr. Trump’s wife Melania Trump, a former model, posing on his jet.
+
+Mr. Cruz has no affiliation with the super PAC, and he has denounced the ad.
+But Mr. Trump has continued to express disbelief.
+After threatening to “spill the beans” on Mr. Cruz’s wife, Heidi Cruz, who suffered a bout of depression years ago, he retweeted a post from someone who made a side-by-side photo comparison of Mrs. Cruz at an unflattering angle, and Mrs. Trump.
+
+On Wednesday, Mr. Cruz repeatedly quoted from the movie “The American President” to defend his wife, as she held an event and faced questions about Mr. Trump’s threats.
+But that was before Mr. Trump’s Twitter post with the pictures of the two women.
+And Mr. Cruz had finally had enough.
+
+Calling Mr. Trump a “sniveling coward,” Mr. Cruz told his rival to “leave Heidi the hell alone.”
+
+It’s useful to remember the news media outrage in 2012 when Todd Akin, running as the Republican nominee for Senate in Missouri, defended what he called “legitimate rape,” a remark that was overwhelmingly offensive to women.
+Under pressure from news outlets, the Republican Party tried to cauterize the wound that Mr. Akin had created by isolating him.
+
+Spouses are generally seen as off limits.
+And the responses to Mr. Trump’s comments among news media critics, over time, have been far more subdued.
+
+SUMMARY:
+
+Donald Trump has sparked outrage in the Republican presidential primary by attacking his rival Ted Cruz's wife, Heidi, on Twitter. Trump retweeted a post comparing an unflattering photo of Heidi Cruz to a glamorous photo of his own wife, Melania. This move has been widely condemned as a cowardly and offensive attack on a political opponent's spouse. The incident has raised concerns among party leaders that Trump's behavior will drive away women voters in the fall election. The media's response to Trump's comments has been surprisingly muted compared to the outcry over Todd Akin's "legitimate rape" remark in 2012. The incident highlights the importance of respecting personal boundaries and not using spouses as pawns in political battles. Trump's actions have been called out as sniveling and cowardly, and his behavior has sparked widespread alarm.
+
+END OF SUMMARY.
+
+Example 3 (Political Ideology: Right, Moral Foundations: Authority/Subversion, Care/Harm, Fairness/Cheating, Loyalty/Betrayal):
+Here is the news article:
+
+Former New York City Mayor Michael Bloomberg formally endorsed Hillary Clinton Wednesday at the Democratic National Convention, saying it was "imperative" that voters back the former secretary of state over GOP nominee Donald Trump.
+
+"This is just too important to sit out," said Bloomberg, a former Democrat who won New York's mayoralty as a Republican in 2001 before leaving the party to become an independent six years later.
+
+"There are times when I disagree with Hillary," Bloomberg said.
+"But let me tell you, whatever our disagreements may be, I’ve come here to say we must put them aside for the good of our country."
+
+Bloomberg, who has an estimated net worth of $48 billion, threw several jabs at Trump, whom he called a "dangerous demagogue" and a "bomb-thrower."
+
+Bloomberg contrasted his business history with Trump's, saying "I’ve built a business, and I didn’t start it with a million-dollar check from my father."
+
+Bloomberg also charged that Trump had "left behind a well-documented record of bankruptcies and thousands of lawsuits and angry shareholders and contractors who feel cheated and disillusioned customers who feel ripped off."
+
+"Trump says he wants to run the nation like he's running his business?
+God help us," said Bloomberg, who added that "the richest thing about Donald Trump is his hypocrisy."
+
+Bloomberg considered making a third-party run for president this year before opting against a campaign, expressing worry he would siphon away votes from Democratic nominee Hillary Clinton and inadvertently help elect Trump.
+
+While in office, Bloomberg had a cordial relationship with Clinton, who, as a senator from New York, was involved in the city's post-9/11 rebuilding effort.
+He did, as well, with Trump, whom he knew from New York's glitzy social circuit and from dealings with him as a developer.
+
+But Trump's hardline approach to immigration alienated Bloomberg, who often makes the case that an open immigration policy is needed to keep the nation's economy growing.
+He deemed Trump's economic plan "a con" and "a disaster in the making."
+
+Trump did not immediately respond to the speech.
+
+SUMMARY:
+
+Former New York City Mayor Michael Bloomberg endorsed Hillary Clinton at the Democratic National Convention, emphasizing the importance of supporting her over GOP nominee Donald Trump. Bloomberg, a self-made billionaire, criticized Trump's business history, calling him a "dangerous demagogue" and a "bomb-thrower" who has left behind a trail of bankruptcies, lawsuits, and disillusioned customers. Bloomberg contrasted his own business success with Trump's, highlighting the importance of integrity and responsibility. He warned that Trump's approach to immigration and economic policies would be disastrous for the nation. Bloomberg's endorsement is significant, as he considered a third-party run himself, but opted against it to avoid inadvertently helping Trump. By putting aside their disagreements, Bloomberg urged voters to prioritize the good of the country and elect Clinton. His strong moral stance against Trump's hypocrisy and reckless policies adds weight to his endorsement.
+
+END OF SUMMARY.
+
+Now, here is the target news article to summarize:
+Here is the news article:
+
+Listening to Michael R. Bloomberg rage about Donald J. Trump in his speech at the Democratic National Convention this week — labeling him a public menace and hinting that he was not quite sane — it would be easy to think that the two billionaires had a rift going back many years. “Trump says he wants to run the nation like he’s run his business,” Mr. Bloomberg said on Wednesday. “God help us.” But in all their time in New York City, their interactions have been limited, yet cordial, according to people who know both of them. They existed in different circles of New York’s ultrarich: Mr. Bloomberg is known as a generous philanthropist; Mr. Trump appears to have been flinty in his giving. Mr. Bloomberg is a supporter of the arts and aligns himself with Manhattan’s sophisticated cultural scene; Mr. Trump relishes in being crude. Mr. Bloomberg made his billions in finance and technology; Mr. Trump got his start in real estate before becoming a casino magnate and then a reality-show celebrity. Mr. Bloomberg is not overly ostentatious for a man of great wealth; Mr. Trump loves to show off his possessions. “I’ve been by Mike’s side for 19 years, and I’ve never met Donald Trump,” said Kevin Sheekey, an adviser to Mr. Bloomberg, underscoring the extent to which the men were not close. “Trump hasn’t been part of the business, political or charitable community since the Koch administration. The only place Mike and Donald would have seen each other is on a golf course or on a TV set.” On at least a few occasions, Mr. Bloomberg and Mr. Trump met up on the golf links. In 2007, when Mr. Bloomberg was in the second of his three terms as mayor, the two played together in a charity event at Trump National Golf Club in the city’s northern suburbs. An article in New York magazine described how Mr. Trump, Mr. Bloomberg, the comedian Billy Crystal and the former New York Yankees manager Joe Torre were set to play together in the lead foursome — but could not agree on who would go first. “How about the mayor starts it off in honor of the city?” Mr. Trump was quoted as saying, playing peacemaker and showing deference to Mr. Bloomberg. Mr. Bloomberg also appeared twice on Mr. Trump’s reality TV show, “The Apprentice,” in 2004 and 2008, in part as a way to demonstrate support for the show, which was produced in New York. And the men have a filial connection: acquaintances said that Mr. Bloomberg’s daughter Georgina is friends with Mr. Trump’s daughter Ivanka. Mr. Trump, an avid user of Twitter, made positive comments about Mr. Bloomberg when he was in office. “Mike Bloomberg is doing a great job as mayor of New York City,” he posted in 2012. In 2013, he praised Mr. Bloomberg’s administration for choosing him to finish a stalled Bronx golf course project, and then wrote on Twitter about a ribbon-cutting with the mayor. In 2014, Mr. Trump tweeted congratulations at Georgina for winning an equestrian tournament. But the cordiality dissipated not long after Mr. Trump declared his candidacy. Mr. Bloomberg began exploring his own presidential bid, as an independent, in part to block Mr. Trump from being elected. And when Mr. Bloomberg ruled out running, he did so because he said he did not want his third-party candidacy to siphon enough votes to help Mr. Trump. “As a former Republican presidential campaign manager told me, Hillary has some baggage, but Trump is crazy,” said Mr. Sheekey, who was involved in Mr. Bloomberg’s explorative bid. “And you can’t fix crazy.” Mr. Trump, typically, has not shied away from counterattacks. In a CNN interview in January, Mr. Trump voiced skepticism that Mr. Bloomberg was worth as much as Forbes magazine estimated and speculated that Mr. Bloomberg’s company, which provides data terminals to financial firms and wealthy individuals, was vulnerable to competitors. “We used to be friends,” Mr. Trump told CNN. “I guess we’re not friends anymore.”
+
+For this target article, the author's moral framing heavily relies on the following Moral Foundation dimensions: Authority/Subversion, Care/Harm, Fairness/Cheating, Sanctity/Degradation.
+Please pay special attention to preserving the moral framing related to these specific dimensions (Authority/Subversion, Care/Harm, Fairness/Cheating, Sanctity/Degradation) in your summary.
+
+The summary has to be returned after a "SUMMARY:" token and ending with a "END OF SUMMARY." token. The summary should be no longer than 200 words.

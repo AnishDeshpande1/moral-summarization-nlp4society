@@ -1,0 +1,186 @@
+You have to summarize the following text preserving the moral framing that the author gave to it.
+
+Please study the following examples of news articles, their moral word extraction, and summaries preserving the moral framing:
+
+Example 1 (Political Ideology: Left):
+Here is the news article:
+
+(CNN) Alabama Republican Senate candidate Roy Moore says he will sue the Washington Post over its report alleging he pursued sexual relationships with teenagers -- including a 14-year-old -- when he was in his 30s.
+
+"The Washington Post published another attack on my character and reputation because they are desperate to stop my political campaign.
+These attacks said I was with a minor child and are false and untrue -- and for which they will be sued," Moore said Sunday night during a campaign speech in Huntsville, Alabama.
+
+The Washington Post declined to comment Monday morning.
+
+It's not uncommon for public figures to threaten legal action against news organizations but ultimately fail to follow through.
+President Donald Trump threatened to sue The New York Times last year after it published the accounts of two women who claimed Trump touched them inappropriately.
+His lawyers never filed a lawsuit.
+
+More recently, disgraced Hollywood mogul Harvey Weinstein initially threatened to sue the Times after it first reported allegations of sexual misconduct against him, but that suit never materialized
+
+The Washington Post report Thursday was based on interviews with more than 30 people.
+As well as the allegations that Moore had sexual contact with the then 14-year-old when he was aged 32, three other women also told The Post that Moore pursued them when they were between the ages of 16 and 18.
+
+The woman who was 14 years old at the time claimed he took her to his house, undressed down to his underwear and undressed her down to her bra and underwear and touched her and moved her hand to touch his underwear, which could have been sexual offenses due to her age, but the statutes of limitations in effect during that time have passed.
+
+None of the other three women told the Post that Moore sexually harassed, or assaulted them, or forced them into a relationship.
+Alabama's legal age of consent is 16.
+
+Moore has denied the allegations since they were published.
+He called the claims " completely false " Friday when appearing on Sean Hannity's syndicated radio show.
+
+Speaking at a Veterans Day event at the Mid-Alabama Republican Club in Birmingham Saturday, Moore called the allegations "fake news" and "yet another attack on my character and reputation in a desperate attempt to stop my political campaign for the United States Senate."
+
+He added that the alleged incidents happened nearly 40 years ago and called them "very hurtful to me personally -- I have the highest regard for the protection of young children," before adding that he has never provided alcohol to a minor and has "not been guilty of sexual misconduct with anyone."
+
+Moore added that there were ongoing "investigations" looking into the motivations behind the Post article, and promised "revelations" about the story to come in the next few days, though he did not provide further specifics.
+
+A number of Republicans withdrew their endorsements of Moore following the Washington Post article, including the National Republican Senatorial Committee, which severed a joint fundraising agreement that benefits Moore's campaign.
+
+STEP 1:
+* false
+* untrue
+* desperate
+* attack
+* character
+* reputation
+* fake
+* hurtful
+* highest
+* guilty
+* misconduct
+
+SUMMARY:
+Alabama Republican Senate candidate Roy Moore has denied allegations of pursuing sexual relationships with teenagers, including a 14-year-old, when he was in his 30s, calling the claims "completely false" and "fake news". Moore accused The Washington Post of launching a "desperate" attack on his character and reputation to stop his political campaign. The Post's report, based on interviews with over 30 people, alleged that Moore had sexual contact with the 14-year-old and pursued three other women between the ages of 16 and 18. Moore has threatened to sue The Washington Post over the report, which he claims is "hurtful" to him personally. He emphasized his "highest regard for the protection of young children" and denied any "sexual misconduct" with anyone. Several Republicans have withdrawn their endorsements of Moore following the report. END OF SUMMARY.
+
+Example 2 (Political Ideology: Center):
+Here is the news article:
+
+Donald J. Trump on Tuesday assailed Justice Ruth Bader Ginsburg of the Supreme Court for speaking out on the presidential race, calling her disdainful remarks about his candidacy “highly inappropriate” and suggesting that she owed other justices an apology.
+
+Mr. Trump’s remarks came in a telephone interview with The Times two days after Justice Ginsburg was quoted as saying she was frightened about what the nation would look like if he were elected.
+
+“I can’t imagine what this place would be — I can’t imagine what the country would be — with Donald Trump as our president,” Justice Ginsburg told The Times in an interview published Sunday.
+“For the country, it could be four years.
+For the court, it could be — I don’t even want to contemplate that.”
+She even joked ruefully about moving to New Zealand.
+
+Mr. Trump, the presumptive Republican nominee, said he found those remarks unbefitting a member of the high court.
+
+“I think it’s highly inappropriate that a United States Supreme Court judge gets involved in a political campaign, frankly,” Mr. Trump said.
+“I think it’s a disgrace to the court and I think she should apologize to the court.
+I couldn’t believe it when I saw it.”
+
+He continued: “That she should be saying that?
+It’s so beneath the court for her to be making statements like that.
+It only energizes my base even more.
+And I would hope that she would get off the court as soon as possible.”
+
+Mr. Trump also said he expected to announce his choice of a running mate by Friday, winding down a process that has been closely watched as in all likelihood the most significant decision he will make in his campaign.
+
+“I have five candidates, plus two, two that are unknown to anybody,” Mr. Trump said from Chicago, where he was raising money for his campaign.
+
+“I will be making a decision over the next three- to four-day period of time, and I think it will be a decision that will be a very good decision for a lot of people,” he added.
+
+Mr. Trump said that he was not basing his vice-presidential selection on fund-raising prowess or potential, and indicated that he had had enough experience with many of those he has been considering for the job that their tryouts on the campaign trail would not necessarily be determinative.
+
+“I’ve been with these people for a long time — I know them,” Mr. Trump said, specifically invoking Gov. Chris Christie of New Jersey and Newt Gingrich, the former House speaker.
+“Christie was excellent yesterday and Newt is excellent.” Mr. Trump will appear on Tuesday night in Indiana with Gov. Mike Pence, who has risen in the estimation of many of the nominee’s advisers.
+
+Mr. Trump said his decision was largely coming down to instinct.
+“A lot of is gut. A lot of it is,” he said.
+“My whole life has been about gut.”
+
+He also suggested that he would consider polling in states like heavily Democratic Connecticut, which he again said he believed he could put in play in November.
+
+Asked for quick thoughts about each of the candidates he is known to be considering, Mr. Trump played along.
+
+Governor Christie? “Strong,” he said.
+
+Retired Lt. Gen. Mike Flynn? “A patriot.”
+
+Senator Joni Ernst of Iowa? “A terrific, exciting person.”
+
+Governor Pence? “Solid as a rock.”
+
+And Mr. Gingrich? “Newt is Newt. He’s a good guy.”
+
+STEP 1:
+* inappropriate
+* highly
+* disdainful
+* frightened
+* unbefitting
+* disgrace
+* beneath
+* excellent
+* strong
+* patriot
+* terrific
+* exciting
+* solid
+* good
+
+SUMMARY:
+Donald Trump criticized Supreme Court Justice Ruth Bader Ginsburg for her "disdainful" remarks about his candidacy, calling them "highly inappropriate" and a "disgrace" to the court. Trump suggested that Justice Ginsburg owed the other justices an apology and even implied that she should step down from the court as soon as possible. In an interview, Justice Ginsburg had expressed her fears about what the country would be like with Trump as president, saying she couldn't imagine it. Trump, on the other hand, defended his candidacy, saying that Justice Ginsburg's comments only "energized" his base. Meanwhile, Trump also discussed his search for a running mate, saying that his decision would be based on instinct and that he had a few "strong" and "excellent" candidates in mind. END OF SUMMARY.
+
+Example 3 (Political Ideology: Right):
+Here is the news article:
+
+New York Republican Rep. Michael Grimm's attorney confirmed late Friday that federal prosecutors plan to file criminal charges against the congressman.
+
+The decision follows a two-year FBI investigation into various aspects of Grimm's business and campaign history.
+
+"We are disappointed by the government's decision, but hardly surprised," said the statement from Grimm's attorney, William McGinley.
+"From the beginning, the government has pursued a politically driven vendetta against Congressman Grimm and not an independent search for the truth."
+
+The statement said Grimm "asserts his innocence of any wrongdoing" and "will be vindicated."
+
+"Until then, he will continue to serve his constituents with the same dedication and tenacity that has characterized his lifetime of public service as a Member of Congress, Marine Corps combat veteran, and decorated FBI Special Agent," the statement said.
+
+The House Ethics Committee announced in November that Grimm was under investigation for possible campaign finance violations.
+That committee said it would defer its inquiry because of a separate Department of Justice investigation.
+
+A spokesman for the U.S. attorney in Brooklyn said he could not confirm, deny or comment on the case.
+
+Grimm made headlines in January after confronting a New York City cable news station reporter who tried to question him about a long-running FBI investigation into campaign finance on a balcony in the Capitol.
+
+After reporter Michael Scotto finished his report, Grimm stormed back, leaned into him and said, "Let me be clear to you.
+If you ever do that to me again, I'll throw you off this (expletive) balcony."
+
+Scotto, who was asking about fundraising during Grimm's first campaign, protested, saying he was asking "a valid question."
+
+During that race, Grimm has acknowledged receiving $250,000 to $300,000 in contributions from followers of an Israeli rabbi, Yoshiyahu Yosef Pinto.
+Some members of Pinto's congregation subsequently said they made tens of thousands of dollars in illegal contributions, including gifts passed through straw donors.
+
+Grimm has denied knowledge of any improprieties, and the FBI hasn't accused him of any wrongdoing.
+The Israeli businessman who had served as Grimm's liaison to Pinto's followers, Ofer Biton, pleaded guilty in August to an immigration fraud charge.
+
+Three days after that guilty plea, the FBI filed a sealed criminal complaint accusing a Houston woman who had been romantically involved with Grimm of using straw donors to make illegal campaign contributions.
+
+In that case, made public this month, the woman was accused of funneling at least $10,000 to Grimm's campaign by passing them through friends who agreed to have the donations listed under their names.
+
+A spokesman in Grimm's Washington office, Nick Iacono, did not immediately return emails or a telephone message seeking comment Friday.
+
+STEP 1:
+* Disappointed
+* Vendetta
+* Innocence
+* Wrongdoing
+* Vindicated
+* Dedication
+* Tenacity
+* Public
+* Service
+* Integrity (implied through the description of Grimm's background as a Marine Corps combat veteran and decorated FBI Special Agent)
+
+SUMMARY:
+New York Republican Rep. Michael Grimm is facing criminal charges following a two-year FBI investigation into his business and campaign history. Grimm's attorney claims the government's decision is a "politically driven vendetta" and that Grimm asserts his "innocence of any wrongdoing." The congressman will continue to serve his constituents with "dedication and tenacity" despite the allegations. The investigation surrounds possible campaign finance violations, including illegal contributions from followers of an Israeli rabbi. Grimm has denied knowledge of any improprieties, but several individuals connected to him have pleaded guilty to related charges. The congressman's integrity has been called into question, and he will have to defend himself against the charges. END OF SUMMARY.
+
+Now, here is the target news article to summarize:
+Here is the news article:
+
+Rep. Michael Grimm (R-N.Y.) is expected to be indicted by the U.S. attorney for the Eastern District of New York, Grimm's lawyer said Friday. Politico was first to report the news of the expected indictment. Grimm's lawyer, William McGinley, said in a statement that the U.S. attorney's office "has disclosed its intent to file criminal charges." "We are disappointed by the government’s decision, but hardly surprised," he said. "From the beginning, the government has pursued a politically driven vendetta against Congressman Grimm and not an independent search for the truth. Congressman Grimm asserts his innocence of any wrongdoing. "When the dust settles, he will be vindicated," McGinley added. "Until then, he will continue to serve his constituents with the same dedication and tenacity that has characterized his lifetime of public service as a Member of Congress, Marine Corps combat veteran, and decorated FBI Special Agent.” The New York Times reported the charges against Grimm "will include mail fraud and wire fraud and focus on his conduct in connection with a health food restaurant he owned on the Upper East Side of Manhattan after he left the Federal Bureau of Investigation in 2006," citing someone familiar with the case. The Justice Department began investigating Grimm two years ago on allegations that he filed erroneous campaign finance reports and accepted improper donations during his first congressional campaign. More recently, Grimm was in the news in January after he physically threatened a reporter in the Capitol. The second-term congressman represents New York’s 11th District, which includes Staten Island and part of Brooklyn. The Washington Post reported that Grimm is likely to turn himself in once the indictment is unsealed. UPDATE: 7:19 p.m. -- The Washington Post now reports that Grimm has already "been secretly indicted by a federal grand jury in Brooklyn, according to people familiar with the case. The indictment is expected to be unsealed in the coming days."
+
+(1) First, you identify all the single words that are morally framed. Identify this step as "STEP 1:" and report each word in a new line starting with *
+(2) Finally, you write a summary of the news article. Please preserve as many morally framed words as possible in your summary. The summary has to be returned after a "SUMMARY:" token and ending with a "END OF SUMMARY." token. The summary should be no longer than 200 words.

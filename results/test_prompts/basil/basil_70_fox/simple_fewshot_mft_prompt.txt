@@ -1,0 +1,129 @@
+You have to summarize the following text preserving the moral framing that the author gave to it, with particular focus on the specific moral foundations highlighted in the text.
+
+Please study the following examples of news articles and their summaries preserving the moral framing:
+
+Example 1 (Political Ideology: Left, Moral Foundations: Fairness/Cheating):
+Here is the news article:
+
+WASHINGTON – Five hundred and eighty-four days after descending his Trump Tower escalator to announce his candidacy, Donald J. Trump took the oath of office Friday to become the 45th president of the United States.
+
+Chief Justice John Roberts administered the 38-word oath at 12:00 p.m., capping Trump’s unlikely journey from New York City real estate developer and reality TV star to the nation’s highest office.
+
+Trump won the Republican nomination against a crowded field of 16 other candidates, many far more experienced in politics.
+But he was able to capitalize on a primary voting base that was angry at the establishment GOP for not more aggressively fighting President Barack Obama’s policies.
+
+He trailed Democratic nominee Hillary Clinton in the general election nearly the entire way.
+In the final month of the race, he was helped by the near daily release of internal Democratic Party emails stolen by Russian hackers as well as by FBI Director James Comey’s decision to reopen, briefly, the probe into Clinton’s use of a private email server.
+
+Trump wound up winning Wisconsin, Michigan and Pennsylvania by a total of 78,000 votes.
+Clinton had counted on winning all three.
+
+SUMMARY:
+
+Donald Trump, a real estate developer and reality TV star, took the oath of office to become the 45th President of the United States, marking the culmination of his unlikely journey. Trump's victory was fueled by the anger of primary voters towards the establishment GOP, which they felt did not adequately oppose President Obama's policies. Despite trailing Democratic nominee Hillary Clinton in the general election, Trump benefited from the release of stolen Democratic Party emails and FBI Director James Comey's decision to reopen the probe into Clinton's email server. Trump ultimately won the presidency by a narrow margin of 78,000 votes in Wisconsin, Michigan, and Pennsylvania, states Clinton had expected to win.
+
+The moral framing of this article suggests that Trump's victory was, in part, a result of exploiting the anger and frustration of voters towards the political establishment, and that his campaign was aided by external factors such as the release of stolen emails and the actions of the FBI director. This framing implies that Trump's presidency was not solely the result of his own merits, but rather the outcome of a complex interplay of factors.
+
+END OF SUMMARY.
+
+Example 2 (Political Ideology: Center, Moral Foundations: Authority/Subversion):
+Here is the news article:
+
+Donald J. Trump has dropped plans to moderate a presidential debate, but don’t expect him to fade quietly from the political scene.
+
+In fact, Republicans may have gotten more than they bargained for by shunning him.
+Mr. Trump’s statement on Tuesday that he was bowing out of the Newsmax debate seemed certain to open the door to another round of “I just might …” threats from the real estate mogul.
+
+“It is very important to me that the right Republican candidate be chosen to defeat the failed and very destructive Obama administration,” Mr. Trump said in his statement.
+“But if that Republican, in my opinion, is not the right candidate, I am not willing to give up my right to run as an independent candidate.”
+
+Mr. Trump drew considerable criticism from the Republican establishment for moderating a presidential debate while openly saying that he might still run if he was displeased with the candidates.
+Rather than go ahead with the debate and declare that he will not run — Mr. Trump has flirted with running for president several times since the 1980s but has always decided not to follow through — he chose to drop the debate.
+
+“I must leave all of my options open because, above all else, we must make America great again!” he said.
+
+Mr. Trump was facing a potentially awkward task: moderating a debate that only two candidates said they would attend.
+Newt Gingrich and Rick Santorum were the only two Republicans who agreed to participate.
+Mitt Romney, Rick Perry, Michele Bachmann, Jon M. Huntsman Jr. and Ron Paul all declined, putting a big dent in Mr. Trump’s self-proclaimed status as Republican kingmaker.
+
+Mr. Trump issued the following exclamation-point laden statement through his lawyer, Michael Cohen.
+
+SUMMARY:
+
+Donald Trump has dropped out of moderating a presidential debate, but this may not be the last we've seen of him in politics. In fact, Republicans may have made a mistake by shunning him, as Trump has hinted that he may still run as an independent candidate if he's not pleased with the Republican nominee. Trump had faced criticism for considering moderating a debate while leaving the door open to a presidential run. Instead of committing to not running, Trump chose to drop out of the debate, citing the need to keep his options open to "make America great again." This decision comes after most Republican candidates declined to participate in the debate, undermining Trump's claim to be a Republican kingmaker. By keeping his options open, Trump is putting pressure on the Republican party to choose a candidate that meets his standards, or risk facing him as an independent opponent. END OF SUMMARY.
+
+Example 3 (Political Ideology: Right, Moral Foundations: Authority/Subversion, Care/Harm, Sanctity/Degradation):
+Here is the news article:
+
+President Trump called the Las Vegas attack an "act of pure evil" Monday morning, in a somber address to the American people following the mass shooting now considered the deadliest in modern U.S. history.
+
+The attack left 58 people dead and 515 hospitalized.
+
+The president announced he will visit Las Vegas on Wednesday to meet with law enforcement, first responders and families of victims.
+He also ordered the flag be flown at half-staff at the White House and other federal buildings to honor those who died.
+
+“It was an act of pure evil,” Trump said.
+
+In a unifying, faith-focused speech from the Diplomatic Room at the White House, the president offered his prayers through this “very dark period.”
+
+“To the families of the victims, we are praying for you and we are here for you and we ask God to help see you through this very dark period,” the president said.
+“Scripture teaches us the Lord is close to the broken hearted and saves those who are crushed in spirit.
+We seek comfort in those words for we know that God lives in the hearts of those who grieve.”
+
+The president called upon “the bonds that unite us,” including faith, family and shared values.
+
+“Our unity cannot be shattered by evil.
+Our bonds cannot be broken by violence,” Trump said.
+“In times such as these, I know we are searching for some kind of meaning in the chaos, light in the darkness.
+The answers do not come easy.”
+
+'Our unity cannot be shattered by evil.' — President Donald Trump
+
+He added: “But we can take solace knowing that even the darkest space can be illuminated by a single ray of hope.”
+
+Trump said that he and the first lady “pray for the entire nation.”
+
+“We pray for the day when evil is banished and the innocent are safe from hatred and from fear,” Trump said.
+
+White House Press Secretary Sarah Sanders said Monday that the president has spoken with the Nevada Gov.
+Brian Sandoval, Las Vegas Mayor Carolyn Goodman, and Las Vegas Metropolitan Police Department's Sheriff Joe Lombardo.
+
+The president first addressed the deadly attack early Monday morning on Twitter.
+
+“My warmest condolences and sympathies to the victims and families of the terrible Las Vegas shooting.
+God bless you!” Trump tweeted.
+
+The suspect, who was killed, was identified as 64-year-old Stephen Paddock, a local resident.
+Authorities also said they were “confident” Paddock’s roommate, Marilou Danley, had been located.
+Officials previously described Danley as a person of interest.
+
+Authorities said one on-duty officer was in critical condition and another was wounded in the shooting.
+Two off-duty police officers attending the concert were killed.
+
+“This was obviously well-planned, they waited for a major, open air event, and obtained a room facing it,” retired FBI special agent and former national FBI spokesman John Iannarelli, who drove past the scene of the event just moments before the shooting took place, told Fox News.
+“I can see the flashing blue police lights from my hotel window.”
+
+“They were well-trained,” Iannarelli said, noting the use of automatic weapons.
+“That’s not an easy task.”
+
+Iannarelli also said “it is too early to tell” what the motive was.
+“Is this a lone wolf inspired by others?
+This is exactly the type of attack the U.S. has been fearing would come to our shores.”
+
+Officials did not immediately reveal a motive.
+
+First lady Melania Trump also offered her condolences on Twitter Monday morning.
+
+"My heart and prayers goes out to victims, families & loved ones! #PrayForLasVegas," she tweeted.
+
+SUMMARY: President Trump condemned the Las Vegas attack as an "act of pure evil" that left 58 people dead and 515 hospitalized. In a somber address, he offered prayers and condolences to the victims' families, quoting scripture to emphasize the importance of unity and faith in the face of darkness. Trump emphasized that "our unity cannot be shattered by evil" and that even in the darkest times, hope can illuminate the way. He also announced plans to visit Las Vegas to meet with law enforcement, first responders, and victims' families. The president's speech was a call to national unity and a reminder that evil cannot break the bonds that unite Americans. END OF SUMMARY.
+
+Now, here is the target news article to summarize:
+Here is the news article:
+
+Donald Trump assumed the nation’s highest office Friday as the 45th president of the United States, vowing in a tough inaugural address to restore prosperity and “fight” for the country “with every breath.” In a succinct speech heavy on populist themes, the new president told Americans across the country they will “never be ignored again” and promised concrete results. “The time for empty talk is over. Now arrives the hour of action,” he said. The president addressed a packed crowd of spectators stretching from the Capitol across the National Mall on a mild but overcast and at-times drizzly day, after taking the oath of office along with Vice President Mike Pence. The speech did not delve into policy details, and rather reprised objectives from his 2016 campaign on trade, immigration and national security. But the address was stitched together, more broadly, by an appeal for a “new national pride” and a rediscovery of American patriotism, as he described this as a salve for the country’s divisions. “When you open your heart to patriotism, there is no room for prejudice,” he said. He also rebuked those who have held power in Washington, saying a small group reaped the rewards of government while “the people did not share” in Washington’s wealth. The address completes Trump’s remarkable journey from political outsider written off by countless Beltway pundits to the most powerful man in the country. His campaign manager Kellyanne Conway noted in an earlier interview with Fox News that Trump was “making history” as a businessman with no prior political or military experience – someone successful in the private sector coming to Washington “owing nobody anything.” In blunt and unvarnished terms similar to the language used during his nomination acceptance address last summer, Trump on Friday lamented the jobs lost to foreign rivals – he described “rusted out factories scattered like tombstones” across the land – and the crime in America’s cities. “This American carnage stops right here and stops right now,” Trump said. Trump cast his presidency as a return to power for the people and vowed never to let them down. “From this day forward, it’s going to be only America first,” Trump said. “I will fight for you with every breath in my body, and I will never, ever let you down. … We will bring back our jobs, we will bring back our borders, we will bring back our wealth and we will bring back our dreams.” He also vowed to eradicate Islamic terrorism. Telling the American people this is “your moment” and “your day,” Trump closed his speech with the promise that started it all: “We will make America great again.” As Barack and Michelle Obama depart the White House after eight years in office, Trump will immediately be confronted with the challenge of governing, as he attempts to apply his CEO experience to running the nation. His team has vowed a “robust” start to the Trump administration, which could include everything from rescinding controversial Obama actions to renegotiating trade deals to repealing and replacing the Affordable Care Act. An immediate task for the new administration will be to get Trump’s Cabinet nominees confirmed. His advisers have complained that Democrats are slowing the process, and resisting the kind of swift confirmation the Senate gave many of Obama’s nominees in 2009. Before he spoke on Friday, throngs of protesters were causing disruptions on the edges of the security zone in Washington. Some blocked checkpoints and forced their temporary closure earlier Friday morning, while elsewhere demonstrators resorted to violence and vandalism. They clashed with police later in the afternoon, amid dozens of arrests. While dozens of House Democrats boycotted Friday’s ceremonies – a move that fueled disputes with Trump’s team over the weekend – other prominent Democrats and past presidents of both parties were in attendance for the transfer of power. Democratic presidential nominee Hillary Clinton, whose loss to Trump marked one of the biggest upsets in modern political history, attended and tweeted shortly before Trump took the oath that she came to “honor our democracy & its enduring values.” “I will never stop believing in our country & its future,” she wrote. Donald and Melania Trump met with the Obamas earlier Friday morning after attending a church service in Washington. The new first family headed later to the parade along Pennsylvania Avenue, before an evening of inaugural balls and other festivities.
+
+For this target article, the author's moral framing heavily relies on the following Moral Foundation dimensions: Authority/Subversion, Care/Harm, Fairness/Cheating, Loyalty/Betrayal.
+Please pay special attention to preserving the moral framing related to these specific dimensions (Authority/Subversion, Care/Harm, Fairness/Cheating, Loyalty/Betrayal) in your summary.
+
+The summary has to be returned after a "SUMMARY:" token and ending with a "END OF SUMMARY." token. The summary should be no longer than 200 words.

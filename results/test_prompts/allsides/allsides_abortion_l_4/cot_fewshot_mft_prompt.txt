@@ -1,0 +1,142 @@
+You have to summarize the following text preserving the moral framing that the author gave to it, with particular focus on the specific moral foundations highlighted in the text.
+
+Please study the following examples of news articles, their moral word extraction, and summaries preserving the moral framing:
+
+Example 1 (Political Ideology: Left, Moral Foundations: Authority/Subversion, Care/Harm, Fairness/Cheating, Loyalty/Betrayal):
+Here is the news article:
+
+Vision benefits are among those that will now be available to same-sex spouses.
+Benefits open to same-sex spouses
+
+The same-sex spouses of federal employees can begin applying for benefits including health insurance and retirement accounts immediately, the Obama administration said Friday, two days after the Supreme Court overturned a key provision of the Defense of Marriage Act.
+
+The Office of Personnel Management offered the guidance in a letter to the heads of executive departments and agencies, detailing access to many of the benefits to which legally married same-sex spouses will now have the same access heterosexual married couples do, including health, life, dental, vision and long-term care insurance.
+
+The memo, signed by acting director Elaine Kaplan, does not go into detail about the benefits available to same-sex couples who marry in one state but live in another where those unions are not legal.
+By omitting a specific reference to state laws, and repeating that benefits will be available to all legally married couples, OPM appears to be making the case that couples will have access to the listed benefits regardless of the state in which they live.
+
+President Barack Obama said Thursday that, “speaking as a president, not a lawyer,” he believes couples married in one state should be treated as married in all 50 states, but that his administration is working on the legalities of making that reality.
+
+In a statement Friday, the president applauded the expansion of access to federal benefits.
+“This is a critical first step toward implementing this week’s landmark Supreme Court decision declaring that all married couples — gay and straight — should be treated equally under federal law,” he said.
+“Thousands of gays and lesbians serve our country every day in the federal government.
+They, and their spouses and children, deserve the same respect and protection as every other family.
+
+Under the president’s direction, the Justice Department is leading the implementation of the repeal of Section 3 of DOMA.
+After the high court’s Wednesday ruling, Defense Secretary Chuck Hagel also said that the Pentagon will move quickly to expand benefits to same-sex couples.
+
+Attorney General Eric Holder welcomed Friday’s announcement.
+“Americans in same-sex marriages are entitled to equal protection and equal treatment under the law,” he said in a statement.
+“By extending health insurance and other important benefits to federal employees and their families, regardless of whether they are in same-sex or opposite-sex marriages, the Obama administration is making real the promise of this important decision.”
+
+The changes announced Friday “will make a meaningful, positive difference in the lives of many,” Holder said.
+“As the president directed, the Department of Justice will continue to coordinate with other federal agencies to implement this ruling as swiftly and smoothly as possible.
+I look forward to sharing additional information as it becomes available..”
+
+STEP 1:
+* equal
+* respect
+* protection
+* equal
+* entitled
+* equal
+* promise
+* meaningful
+* positive
+* swiftly
+* smoothly
+
+SUMMARY:
+The Obama administration has announced that same-sex spouses of federal employees can now apply for benefits, including health insurance and retirement accounts, immediately following the Supreme Court's overturn of the Defense of Marriage Act. This move is a "critical first step" towards implementing the landmark decision, ensuring that all married couples, gay and straight, are treated equally under federal law. President Obama believes that couples married in one state should be treated as married in all 50 states, and his administration is working on the legalities of making this a reality. The expansion of access to federal benefits is a step towards providing equal respect and protection to all families, regardless of sexual orientation. The Justice Department will continue to coordinate with other federal agencies to implement this ruling as swiftly and smoothly as possible. This change will make a meaningful, positive difference in the lives of many. END OF SUMMARY.
+
+Example 2 (Political Ideology: Center, Moral Foundations: Authority/Subversion, Care/Harm, Fairness/Cheating):
+Here is the news article:
+
+The Alabama Senate on Tuesday evening passed legislation that bans nearly all abortions in the state, sending the measure to Gov.
+Kay Ivey's (R) desk to be signed into law.
+
+Ivey has not said whether she will sign the measure, which passed by a 25-6 margin.
+It would ban abortions in virtually all instances in Alabama, including for victims of rape and incest, and would only permit the procedure if necessary to save a mother’s life.
+
+Anyone performing an abortion could be punished by 10 to 99 years in prison, but no criminal charges would be filed against a person undergoing the procedure.
+
+The legislation was tabled last week when a shouting match erupted on the Senate floor after an exception for cases of rape and incest was removed from the bill.
+
+The bill’s proponents say they hope the legislation, along with abortion restrictions in other states, will set up a Supreme Court battle that will see the overturning of the landmark Roe v. Wade decision that was the first to legalize abortion.
+
+State Rep. Terri Collins (R), who sponsored the bill, told The Washington Post she empathized with survivors of rape and incest but that the exceptions were specifically left out so that the law would be strong enough to force a federal court battle.
+
+Sixteen states have passed or are currently considering abortion bans once a fetal heartbeat is detected about six weeks into pregnancy.
+Four states have approved so-called heartbeat abortion laws.
+
+However, Alabama’s is without a doubt the most restrictive abortion law in the country.
+
+“If I were them, I would be making plans to leave Alabama,” state Sen. Vivian Figures (D) told the Post before the bill was considered.
+“Who is going to stay in a state like this?”
+
+The pro-abortion rights group NARAL Pro-Choice America swiftly condemned Tuesday’s vote and expressed concern that the current makeup of the Supreme Court put Roe v. Wade at risk after the Senate confirmed President Trump Donald John TrumpTrump faces high stakes in meeting with Erdoğan amid impeachment drama Democrats worry they don't have right candidate to beat Trump Trump threatening to fire Mulvaney: report MORE’s two nominees.
+
+“Alabama just passed a law that is a total ban on abortion, criminalizing the act and punishing women and doctors.
+Anti-choice Republicans no longer even pretend to respect the law or the women that it protects.
+When this dangerous and demeaning law passed, Republicans stood up and applauded, while women wept,” NARAL Pro-Choice America President Ilyse Hogue said in a statement.
+
+"When women stood up in record numbers to fight Kavanaugh’s nomination, propelled by his alarming record and Trump’s promise to nominate jurists committed to criminalizing abortion and punishing women, we were told we were ‘hysterical’ because Roe was settled law.
+Not six months later, we are battling measures where the stated goal is exactly that: outlawing abortion,” she added, referring to the newest Supreme Court justice, Brett Kavanaugh Brett Michael KavanaughDivided Supreme Court leans toward allowing Trump to end DACA Hirono memoir due in 2021 The Hill's Morning Report - Witness transcripts plow ground for public impeachment testimony MORE.
+
+STEP 1:
+* dangerous
+* demeaning
+* hysterical
+* alarming
+* criminalizing
+* punishing
+
+SUMMARY:
+The Alabama Senate has passed a highly restrictive abortion law, banning nearly all abortions in the state, including for victims of rape and incest. The law, which would punish doctors with up to 99 years in prison, is considered the most restrictive in the country. Proponents of the law hope it will lead to a Supreme Court battle and the overturning of Roe v. Wade. Critics, including NARAL Pro-Choice America, have condemned the law as "dangerous" and "demeaning", arguing that it criminalizes women and doctors. The law's passage has sparked outrage, with one state senator warning that it will drive people out of the state. The move is seen as a threat to women's rights, particularly given the current makeup of the Supreme Court. END OF SUMMARY.
+
+Example 3 (Political Ideology: Right, Moral Foundations: Care/Harm):
+Here is the news article:
+
+Call it Cheney versus Cheney.
+
+Mary Cheney, one of ex-Vice President Dick Cheney’s two daughters, has taken to Facebook to blast her older sibling, Elizabeth, a Wyoming Senate candidate, for the latter’s stance on same-sex marriage, The New York Times is reporting.
+
+Mary Cheney, openly lesbian and married to Heather Poe since 2012, reportedly posted to her personal page on the social media site: “For the record, I love my sister, but she is dead wrong on the issue of marriage.
+
+“Freedom means freedom for everyone.
+That means that all families — regardless of how they look or how they are made — all families are entitled to the same rights, privileges and protections as every other.”
+
+The Times reports Liz Cheney on Friday first articulated her position on the controversial subject, saying it should be something for voters to decide on a state-by-state basis, and not a matter for “judges” or “legislators.”
+
+“I am not pro-gay marriage,” Liz Cheney reportedly said.
+“I believe the issue of marriage must be decided by the states, and by the people in the states, not by judges and not even by legislators, but by the people themselves.”
+
+Her sister replied by pulling no punches.
+
+“It’s not something to be decided by a show of hands,” Mary Cheney reportedly wrote on her personal Facebook page, concluding her internecine post by saying, “Please like and share if you agree.”
+
+Elizabeth Cheney declared in July she plans to challenge incumbent Senator Mike Enzi, also a Republican, in the state’s Republican primary.
+The election is slated for 2014.
+
+Former Vice President Cheney has publicly voiced support for same-sex marriage and, mirroring Elizabeth’s stance, has reportedly said the matter should be decided on a state-by-state basis.
+
+STEP 1:
+* wrong
+* freedom
+* entitled
+* right
+* privileges
+* protections
+* pro-gay
+* show
+
+SUMMARY:
+In a rare public display of sibling disagreement, Mary Cheney, an openly lesbian woman, took to Facebook to blast her sister Elizabeth Cheney, a Wyoming Senate candidate, for her stance on same-sex marriage. Mary Cheney wrote that her sister is "dead wrong" on the issue, emphasizing that "freedom means freedom for everyone" and that all families are "entitled to the same rights, privileges, and protections." Elizabeth Cheney, on the other hand, believes that the issue of marriage should be decided by the states and the people, not by judges or legislators. Mary Cheney countered that it's not something to be decided by a "show of hands." The sisters' disagreement highlights the complex and contentious nature of the same-sex marriage debate. END OF SUMMARY.
+
+Now, here is the target news article to summarize:
+Here is the news article:
+
+During a Monday interview on the campaign trail, Wendy Davis did something that a lot of politicians do when talking about abortion with national audiences. While explaining her position on reproductive rights, she suggested that a so-called world without abortion is something everyone wants. "The goal that we should have is that we see zero abortions," she said. "But in order to achieve that goal we have to make sure that women are receiving the kind of healthcare and planning that they deserve." Davis did this for the same reasons Bill Clinton said abortion "should not only be safe and legal, it should be rare," back in 1996, and for the same reasons so many other advocates and lawmakers use the exact same line. Because they believe it's a moderate position that will save them from being cast as "extreme" when it comes to abortion rights, which they see as a kind of political death. But ultimately, it's a position that denies reality. And Davis -- who is right about so much else -- is wrong about the objectives of the reproductive rights movement. There simply is no such thing as a world without abortion, nor should we claim to wish for one. Women will always need abortion care. What they don't need is more stigma. "The thing that makes me absolutely nuts is when people say abortion is never necessary to save a woman's life," Dr. Anne Davis, M.D., MPH, a second-trimester abortion provider, associate professor of clinical obstetrics and gynecology at Columbia University Medical Center and consulting medical director at Physicians for Reproductive Health, told Salon. "To say abortion does not save women's lives is false, plain and simple. And to base policy on that kind of lie sacrifices the health of our patients." And to base talking points around this same idea -- that there is a world in which abortion may no longer be necessary, that this is the world we should want to live in -- is just as ridiculous. And shaming. Because the necessity of abortion care isn't just about the life and health of the woman in the most literal of terms. Women choose abortion in all kinds of circumstances. Politicians who frame it as a necessary evil rather than a medical procedure that saves women's lives and protects their autonomy erases that simple but important fact. "There will always be a need for abortion," Dr. Lin-Fan Wang, M.D., MPH, a doctor of family medicine, told Salon. "I absolutely support removing cost and other barriers to getting contraception, but even if we can do that, women will still face challenges getting it and other care they need. Women have issues finding a provider they trust. There are providers who have misconceptions about who can take birth control and what kind. There is reproductive coercion -- circumstances in relationships, some involving domestic violence -- that make that access an impossibility." And, of course, birth control isn't 100 percent effective. There will always be broken condoms, missed pills. There is no guarantee against human error or plain bad luck. Circumstances also change, and even wanted pregnancies can become unwanted pregnancies. Wang recently had a patient who, though she had planned for and wanted the pregnancy, could no longer afford another child after her husband lost his job. This is an increasingly common reality faced by many families who are only one paycheck away from financial calamity. No two women will ever have the same abortion experience. Culturally, we seem to be getting ever so slightly better at understanding that. But we need to make sure that our policies -- and the ways we advocate for those policies -- reflect this understanding by focusing on women themselves, not the number of abortions performed each year. There is a way to have nuanced conversations about the complexity of people's personal views about abortion without suggesting it's a problem to be solved or a social ill to be eradicated. It's a medical procedure, an incredibly safe and common one. Calling "zero abortions" a goal is -- besides being completely false -- line for line, what antiabortion lawmakers like Rick Perry say when advocating for policies that deny women basic medical care. This isn't an idea we should be repeating. "Those of us who are doctors and policymakers should have procedures and laws in place that understand each woman's situation is unique. We have to ensure that women are empowered to make the best medical decision for them, based on their circumstances," Wang noted, reflecting on her own patients. "I know from personal experience that women are extremely thoughtful about these decisions. We should be focused on their health and the best ways to support them." If we're doing that -- as I'm sure Wendy Davis would agree -- then who cares about the numbers?
+
+(1) First, you identify all the single words that are morally framed, focusing especially on the dimensions of Authority/Subversion, Care/Harm, Fairness/Cheating. Identify this step as "STEP 1:" and report each word in a new line starting with *
+(2) Finally, you write a summary of the news article. Please preserve as many morally framed words as possible, particularly focusing on the moral dimensions of Authority/Subversion, Care/Harm, Fairness/Cheating in your summary. The summary has to be returned after a "SUMMARY:" token and ending with a "END OF SUMMARY." token. The summary should be no longer than 200 words.

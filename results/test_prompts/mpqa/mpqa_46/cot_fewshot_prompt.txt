@@ -1,0 +1,160 @@
+You have to summarize the following text preserving the moral framing that the author gave to it.
+
+Please study the following examples of news articles, their moral word extraction, and summaries preserving the moral framing:
+
+Example 1 (Political Ideology: Left):
+Here is the news article:
+
+President Donald Trump used Twitter to tear into social media companies Saturday morning, claiming they were “totally discriminating against Republican/Conservative voices.”
+
+But he does have a solution. Sort of.
+And it involves both sides.
+
+Trump tweeted that “too many voices are being destroyed, some good and some bad, and that cannot be allowed to happen.” So, he added: “Let everybody participate, good & bad, and we will all just have to figure it out!”
+
+Trump accused social media giants of “closing down the opinions of many people on the RIGHT, while at the same time doing nothing to others.”
+
+“Censorship is a very dangerous thing & impossible to police,” he added, before embarking on a now familiar rant about “fake news” CNN and MSNBC — which he admitted to sometimes watching, but “just with a grain of salt.”
+
+Trump did not reference any person in particular in his tirade against the tech companies, although a host of them have in recent weeks banned conspiracy theorist Alex Jones and his website Infowars from their platforms.
+
+STEP 1:
+* discriminating
+* destroyed
+* bad
+* dangerous
+* fake
+
+SUMMARY:
+President Donald Trump took to Twitter to accuse social media companies of "totally discriminating" against Republican and Conservative voices. He claimed that "too many voices are being destroyed, some good and some bad," and that censorship is a "very dangerous thing" that is "impossible to police." Trump's solution is to "let everybody participate, good & bad, and we will all just have to figure it out!" He also ranted against "fake news" outlets CNN and MSNBC, which he admits to watching "with a grain of salt." The tweets come after several social media companies banned conspiracy theorist Alex Jones and his website Infowars from their platforms. Trump's comments imply that social media companies are unfairly silencing certain voices, and that this "censorship" is a threat to free expression. END OF SUMMARY.
+
+Example 2 (Political Ideology: Center):
+Here is the news article:
+
+WASHINGTON — Susan E. Rice, President Obama’s national security adviser, sharply criticized Prime Minister Benjamin Netanyahu of Israel on Tuesday over his plans to address a joint meeting of Congress next week, saying his actions had hurt his nation’s relationship with the United States.
+
+Mr. Netanyahu’s decision to travel to Washington to deliver the speech two weeks before the Israeli elections has “injected a degree of partisanship, which is not only unfortunate, I think it’s destructive of the fabric of the relationship,” Ms. Rice said in an interview on the PBS television program “Charlie Rose.”
+
+Her comments marked the strongest public rebuke to date by the Obama administration since Mr. Netanyahu accepted an invitation from Speaker John A. Boehner to make his case to Congress against a nuclear deal with Iran, which is a priority of Mr. Obama’s.
+It is also the frankest acknowledgment yet by a top American official of the degree to which the controversy has damaged United States-Israeli relations.
+
+The speech, scheduled for March 3, was arranged by Mr. Boehner and the Israeli ambassador without consulting the White House — a move that Mr. Obama’s team has called a breach of protocol.
+
+The president has said he will not meet with Mr. Netanyahu during his visit to avoid any appearance that he is trying to influence the Israeli elections that are scheduled for mid-March.
+
+The episode is a low point in the tense relationship between Mr. Obama and Mr. Netanyahu and has touched off weeks of mostly anonymous sniping and finger-pointing.
+
+Top administration officials have hinted more openly of their displeasure in recent days.
+
+The White House on Wednesday said that Mr. Obama agreed with Ms. Rice’s assessment, saying he had raised the same concerns several times.
+
+Her comments, said Josh Earnest, the White House press secretary, are “entirely consistent with what the president has already said.”
+
+“Allowing this relationship to be subjected to party politics does weaken the relationship,” Mr. Earnest said.
+
+Mr. Earnest said he did not know whether Mr. Obama and Ms. Rice had talked in advance of the interview about what she would say about Mr. Netanyahu’s visit.
+
+Vice President Joseph R. Biden Jr., who as president of the Senate would be expected to attend, has said he will be traveling abroad.
+Secretary of State John Kerry said Tuesday that he would be in Switzerland negotiating with the Iranians.
+The White House has also not committed to sending a representative next week to the American Israel Public Affairs Committee’s conference, where Mr. Netanyahu is also scheduled to appear.
+
+The Israeli prime minister himself has turned down a request by Democratic senators for a private meeting, Senator Richard J. Durbin, Democrat of Illinois, said Tuesday.
+
+“We offered the prime minister an opportunity to balance the politically divisive invitation from Speaker Boehner with a private meeting with Democrats who are committed to keeping the bipartisan support of Israel strong,” Mr. Durbin said in a statement.
+“His refusal to meet is disappointing to those of us who have stood by Israel for decades.”
+
+In a letter released by Mr. Durbin’s office, Mr. Netanyahu said such a meeting “could compound the misperception of partisanship regarding my upcoming visit.”
+
+Mr. Netanyahu said Tuesday that he was making the trip because it was his obligation to “do everything I can to prevent” a nuclear agreement with Iran.
+
+“Therefore, I will go to Washington to address the American Congress, because the American Congress is likely to be the final brake before the agreement between the major powers and Iran,” he said as he toured a military base in southern Israel.
+
+Ms. Rice demurred when asked whether she believed Mr. Netanyahu was making the speech to gain political favor.
+
+“I’m not going to ascribe motives to the prime minister,” she told Mr. Rose.
+“The point is, we want the relationship between the United States and Israel to be unquestionably strong, immutable, regardless of political seasons in either country, regardless of which party may be in charge in either country.
+
+“We’ve worked very hard to have that,” she said, “and we will work very hard to maintain that.”
+
+STEP 1:
+* unfortunate
+* destructive
+* partisanship
+* breach
+* displeasure
+* sniping
+* finger-pointing
+* weaken
+* disappointing
+* obligation
+
+SUMMARY:
+National Security Adviser Susan E. Rice sharply criticized Israeli Prime Minister Benjamin Netanyahu's plans to address Congress, saying his actions have "injected a degree of partisanship" that is "unfortunate" and "destructive of the fabric of the relationship" between the US and Israel. The controversy has damaged US-Israeli relations, with the White House calling the speech a "breach of protocol". Rice's comments marked the strongest public rebuke to date by the Obama administration. The episode is a "low point" in the tense relationship between Obama and Netanyahu, with top administration officials expressing their "displeasure" and hinting at the "sniping" and "finger-pointing" that has ensued. The White House has emphasized the importance of maintaining a strong and "immutable" relationship between the two countries, regardless of political seasons. END OF SUMMARY.
+
+Example 3 (Political Ideology: Right):
+Here is the news article:
+
+Support for gun rights is higher than it’s been in decades, according to the latest data from the Pew Research Center that signals a stunning turnaround in how Americans feel about the issue just two years after the Newtown school shooting.
+
+Pew found that 52 percent of Americans say Second Amendment rights are more important than gun control — up 7 percentage points from just after the December 2012 Sandy Hook Elementary School shooting that left 20 schoolchildren and six faculty dead.
+
+That’s the highest approval rating in two decades, and it’s being driven in part by changing attitudes among black Americans, who are increasingly likely to view guns as good for public safety.
+
+Pew found 54 percent of blacks now say firearms protect people from being victims of crimes, compared to 41 percent who say they are a public safety risk.
+Just two years ago, only 29 percent of blacks said guns were a public safety boon.
+
+“Over the past two years, blacks’ views on this measure have changed dramatically,” Pew researchers said.
+
+The changes are all the more stunning given the direction the debate appeared to be going two years ago, when 20-year-old gunman Adam Lanza killed his mother, then drove to the elementary school where he fatally shot 26 people, then turned the gun on himself to commit suicide.
+
+President Obama called for major new restrictions on gun rights in the wake of the shooting, asking Congress to enact a bill to subject more gun purchases to background checks and to ban high-capacity ammunition magazines and military-style rifles.
+But gun rights supporters rallied, blocking those efforts in the Senate and leaving the matter stalled.
+
+Some states acted in lieu of federal action, but Democrats on Capitol Hill said Wednesday they remain committed to imposing new restrictions.
+
+“It is imperative that we act,” House Minority Leader Nancy Pelosi said at an event to commemorate the Newtown shooting.
+“We must stick with this.”
+
+Gun control supporters said other polling still shows strong support for specific changes.
+Requiring universal background checks garners support of about 90 percent of Americans, while support for limits on rifles and ammunition magazines hovers just above 50 percent.
+
+Ladd Everitt, a spokesman for the Coalition to Stop Gun Violence, said Pew’s findings reflect a sharp partisan divide on the issue, but also said the wording of the survey might have influenced the results.
+The survey asked whether it was more important to “control gun ownership” or “protect the right of Americans to own guns.”
+
+“The notion of having ‘rights’ is certainly going to be more appealing than the notion of being ‘controlled,’ no matter what topic you are asking respondents about,” he said in an email.
+“We’d be curious to see how the polling would look if Pew Research asked respondents if they believed they had ‘a right to be free from gun violence in their communities through the enactment of sensible gun legislation.’”
+
+Specific wording aside, Pew’s research suggested a shift over time.
+Support for gun control peaked at 66 percent in the late 1990s, or about the time of the 1999 shooting at Columbine High School in Littleton, Colorado, and has dropped 20 percentage points since then.
+
+The recent shift has also happened across nearly all demographic lines.
+
+When posed a choice between supporting gun rights or gun controls, men and women, old and young, white and black and Republican and Democrat all saw their preference for Second Amendment rights increase over the last two years.
+
+African-Americans’ support for gun rights rose from 24 percent to 34 percent, and whites’ backing rose from 53 percent to 61 percent.
+Only Hispanics saw a drop in their support for gun rights, slipping 2 percentage points to 25 percent, or lower than blacks’ level of support.
+
+While Democrats still generally back gun controls, with just 28 percent supporting gun rights, majorities of both Republicans and independents say the Second Amendment trumps their desire for more controls.
+
+STEP 1:
+* rights
+* control
+* protect
+* victims
+* risk
+* boon
+* safety
+* restrictions
+* imperative
+* commit
+
+SUMMARY:
+A recent Pew Research Center survey reveals a significant shift in Americans' attitudes towards gun ownership, with 52% prioritizing Second Amendment rights over gun control, a 7-point increase from 2012. This change is driven in part by a dramatic shift among black Americans, who now view guns as a public safety boon, with 54% believing firearms protect people from being victims of crimes. In contrast, only 29% held this view two years ago. Despite President Obama's call for major new restrictions on gun rights after the Newtown school shooting, gun rights supporters rallied, blocking efforts in the Senate. While Democrats remain committed to imposing new restrictions, Pew's findings reflect a sharp partisan divide on the issue. The survey's wording may have influenced the results, but the shift over time is clear, with support for gun control dropping 20 percentage points since the late 1990s. END OF SUMMARY.
+
+Now, here is the target news article to summarize:
+Here is the news article:
+
+Islamabad, March 18, IRNA - Central Leader of Pakistan People Party (PPP) and former provincial minister of North-West Frontier Province (NWFP) Seyed Qamar Abbas has rejected US state department report on Human Rights in Iran and other countries, saying America has no right to make such a report as it is itself the violator of human rights. He told IRNA in an interview on Monday, "America has killed thousands of innocent people in almost all parts of the globe particularly in the Muslim world. America, in the guise of its so-called war on terror, has killed and injured thousands of innocent Afghans and the prisoners of war are maltreated." A couple of weeks ago, the US state department in its annual report had revealed that Iran, Pakistan and some other countries are the violators of human rights. "America has a double standard policy. It denounces human rights violation but supports Israel for perishing the Muslims in Palestine and Lebanon," Abbas criticized. He said those countries and nations which are independant in real sense of the world and do not take dictation from the US or accepts its supremacy are labelled as human rights violators. "Those who submit to its policies are showered upon favours," he added. "America always follows its interests. In its so-called war against terrorism and against weapons of mass destruction lies its covert motive and that is its strategic and economic interests," Abbas added. However, he hoped that the people of the world can no more be kept in dark. "They can see and observe the unjust and discriminatory policies of America. People do not believe whatever the America says," he concluded.
+
+(1) First, you identify all the single words that are morally framed. Identify this step as "STEP 1:" and report each word in a new line starting with *
+(2) Finally, you write a summary of the news article. Please preserve as many morally framed words as possible in your summary. The summary has to be returned after a "SUMMARY:" token and ending with a "END OF SUMMARY." token. The summary should be no longer than 200 words.

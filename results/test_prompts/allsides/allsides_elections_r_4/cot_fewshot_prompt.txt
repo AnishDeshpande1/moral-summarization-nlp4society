@@ -1,0 +1,192 @@
+You have to summarize the following text preserving the moral framing that the author gave to it.
+
+Please study the following examples of news articles, their moral word extraction, and summaries preserving the moral framing:
+
+Example 1 (Political Ideology: Left):
+Here is the news article:
+
+Obama’s team is spinning the Republican National Convention as a complete miss.
+Obama's new challenge: Disappointment
+
+The watchword of the Republican National Convention in Tampa was disappointment — as in President Barack Obama has been one.
+
+You can hammer Obama on health care.
+Mock his golf outings.
+Demand to see his birth certificate and Harvard transcript, and call him a European socialist bent on turning the American Dream into a Belgian nightmare.
+He’ll throw his head back and laugh at you like a Bond villain.
+
+But tell voters he’s not the man America fell in love with in 2008 — and pine, however disingenuously, about his unfulfilled potential — and a shiver runs through his Chicago campaign headquarters.
+
+Obama’s team was spinning the convention as a complete miss, arguing that Republicans didn’t lay a glove on their man.
+Yet what emerged from Tampa was a subtle, clever shift in GOP messaging, a much more dangerous strategy for Obama than the kitchen-sink attacks that preceded the gathering.
+Republicans posed — rhetorically — as Obama 2008 voters, lamenting his unfulfilled expectations as if they had been with him all along instead of trying to block him at every turn.
+
+Both sides recognize the power of the disappointment theme: that the hope Obama offered for mending the economy, transforming the political process and even saving the earth has faded.
+
+“President Obama promised to begin to slow the rise of the oceans and heal the planet,” Mitt Romney said in accepting the Republican presidential nomination Thursday.
+“My promise is to help you and your family.”
+
+Or, as Sen. Marco Rubio put it, “Our problem with President Obama isn’t that he’s a bad person.
+Our problem is that he’s a bad president.”
+
+If Republicans landed a punch on Obama, it was the kind of strategic body blow that a skillful pugilist deploys to gain better position for the rest of the fight.
+
+No roundhouse, no jaw-splitter, no knockout.
+It was the kind of shot aimed at subtly shifting momentum and softening up the opponent in a way that may not be evident to the casual observer.
+
+Republicans honed their tone.
+
+The shrill hyperbole, petty critiques of Obama’s every move and Party of No intransigence disappeared into the heavy Tampa air.
+Surely, some of that will rain back down across other parts of the country during the closing months of the campaign, particularly as super PACs and other outside groups intensify their own lines of attack against Obama.
+
+There was plenty of tough criticism in Tampa — more mockery of Obama’s “you didn’t build that” line, more comparisons of his record to Jimmy Carter’s.
+But there were times — prime time, in particular — that the Republican convention looked and sounded like a Democratic gathering.
+
+An appealing young vice-presidential candidate, Paul Ryan, called his mom his role model and vowed to protect Medicare for seniors.
+
+Cuban-American Florida Sen. Marco Rubio and Mexican-American New Mexico Gov. Susana Martinez spoke of the unique opportunities that the United States afforded them to rise into leadership positions.
+
+STEP 1:
+* disappointment
+* disingenuously
+* clever
+* dangerous
+* bad
+* good
+* shrill
+* petty
+* intransigence
+* appealing
+* unique
+
+SUMMARY:
+The Republican National Convention in Tampa was deemed a success by the GOP, despite Obama's team spinning it as a complete miss. Republicans cleverly shifted their messaging, adopting a more subtle and dangerous strategy that focused on disappointment. They posed as Obama 2008 voters, lamenting his unfulfilled expectations and promising a more humble, achievable agenda. Mitt Romney and Sen. Marco Rubio delivered speeches that were more in line with Democratic values, touting the unique opportunities afforded by the United States. The tone was appealing, with a focus on protecting Medicare for seniors and honoring role models. The GOP's new approach is a strategic body blow to Obama's campaign, softening him up for the rest of the fight. END OF SUMMARY.
+
+Example 2 (Political Ideology: Center):
+Here is the news article:
+
+Donald J. Trump has dropped plans to moderate a presidential debate, but don’t expect him to fade quietly from the political scene.
+
+In fact, Republicans may have gotten more than they bargained for by shunning him.
+Mr. Trump’s statement on Tuesday that he was bowing out of the Newsmax debate seemed certain to open the door to another round of “I just might …” threats from the real estate mogul.
+
+“It is very important to me that the right Republican candidate be chosen to defeat the failed and very destructive Obama administration,” Mr. Trump said in his statement.
+“But if that Republican, in my opinion, is not the right candidate, I am not willing to give up my right to run as an independent candidate.”
+
+Mr. Trump drew considerable criticism from the Republican establishment for moderating a presidential debate while openly saying that he might still run if he was displeased with the candidates.
+Rather than go ahead with the debate and declare that he will not run — Mr. Trump has flirted with running for president several times since the 1980s but has always decided not to follow through — he chose to drop the debate.
+
+“I must leave all of my options open because, above all else, we must make America great again!” he said.
+
+Mr. Trump was facing a potentially awkward task: moderating a debate that only two candidates said they would attend.
+Newt Gingrich and Rick Santorum were the only two Republicans who agreed to participate.
+Mitt Romney, Rick Perry, Michele Bachmann, Jon M. Huntsman Jr. and Ron Paul all declined, putting a big dent in Mr. Trump’s self-proclaimed status as Republican kingmaker.
+
+Mr. Trump issued the following exclamation-point laden statement through his lawyer, Michael Cohen.
+
+STEP 1:
+* failed
+* destructive
+* right
+* important
+* willing
+* great
+
+SUMMARY:
+Donald Trump has dropped his plans to moderate a presidential debate, but he's not going away quietly. In a statement, Trump emphasized the importance of choosing the "right" Republican candidate to defeat the "failed" and "destructive" Obama administration. However, he threatened to run as an independent candidate if he's not pleased with the chosen candidate, saying "I must leave all of my options open because, above all else, we must make America great again!" Trump's decision comes after facing criticism from the Republican establishment for considering a presidential run while moderating a debate. The debate itself was facing a setback, with only two candidates, Newt Gingrich and Rick Santorum, agreeing to participate. Trump's move may have opened the door to another round of threats to run as an independent candidate. END OF SUMMARY.
+
+Example 3 (Political Ideology: Right):
+Here is the news article:
+
+President Trump thinks Alabama Republican Senate candidate Roy Moore “will do the right thing and step aside” if the sexual misconduct allegations against him are true, the White House said in a statement Thursday.
+
+Speaking to reporters following the president’s Asia trip on Air Force One, White House Press Secretary Sarah Sanders also cautioned against a rush to judgment.
+
+“Like most Americans, the president believes we cannot allow a mere allegation, in this case one from many years ago, to destroy a person’s life," Sanders said.
+"However, the president also believes that if these allegations are true, Judge Moore will do the right thing and step aside."
+
+Moore lashed out earlier at what he called "the Obama-Clinton machine's liberal media lapdogs" after The Washington Post reported on a woman's claims that the former judge and staunch social conservative initiated a sexual encounter with her when she was 14.
+
+In a series of tweets Thursday evening, Moore claimed "The forces of evil will lie, cheat, steal –– even inflict physical harm –– if they believe it will silence and shut up Christian conservatives."
+
+Amid calls for him to drop out of the race, Moore added, "Our nation is at a crossroads right now — both spiritually and politically.
+Our children and grandchildren’s futures are on the line.
+So rest assured — I will NEVER GIVE UP the fight!"
+
+The Post story centered on allegations made by Leigh Corfman, now 53.
+She told the newspaper that Moore, then an assistant district attorney, first approached her in 1979 outside a courtroom in Alabama where she was sitting with her mother.
+On another occasion, she said Moore, then 32, took her to his home in the woods and kissed her.
+
+During a subsequent visit, Corfman reportedly claimed he took off her shirt and pants; touched her over her bra and underwear; and guided her hand to his underwear.
+She said the two did not have sexual intercourse, and that she ended up getting dressed and asking Moore to take her home, according to the Post.
+
+“I wanted it over with – I wanted out,” she told the Post, apparently recalling her train of thought at the time.
+Moore did take her home, she said.
+
+The report caused immediate problems for Moore with his own party as he heads into the Dec. 12 election against Democrat Doug Jones.
+Several GOP senators called on him to step aside if the allegations are true – and at least one senator, Arizona’s John McCain, said he should drop out regardless.
+
+Senate Majority Leader Mitch McConnell, R-Ky., who backed Moore’s rival Luther Strange in the GOP primary, said in a statement: "If these allegations are true, he must step aside."
+
+Sen. Cory Gardner, R-Colo., head of the Senate GOP campaign arm, called the allegations “deeply troubling” and said: “If these allegations are found to be true, Roy Moore must drop out of the Alabama special Senate election.”
+
+Jones’ campaign told multiple news outlets: “Roy Moore needs to answer these serious charges.”
+
+But Moore’s campaign issued a statement saying the report is “baseless” and false.
+
+“National liberal organizations know their chosen candidate Doug Jones is in a death spiral, and this is their last ditch Hail Mary,” Moore campaign chairman Bill Armistead said.
+“Judge Roy Moore is winning with a double-digit lead.
+So it is no surprise, with just over four weeks remaining, in a race for the U.S. Senate with national implications, that the Democratic Party and the country’s most liberal newspaper would come up with a fabrication of this kind.
+
+“This garbage is the very definition of fake news and intentional defamation,” he said.
+
+The Post noted that the legal age of consent in the state is 16, and sexual contact by anyone 19 or older with anyone between 12 and 16 years old is considered second-degree sexual abuse.
+
+The statute of limitations, though, has long since passed.
+
+The Post interviewed three other women who were teenagers at the time who claimed Moore pursued them when he was in his 30s, though he did not force them into any type of sexual relationship.
+
+“I have prayed over this,” Corfman told the Post as to why she came forward, “All I know is that I can’t sit back and let this continue, let him continue without the mask being removed.”
+
+Alabama's Republican governor, Kay Ivey, responded: “These allegations are deeply disturbing.
+I will hold judgment until we know the facts.
+The people of Alabama deserve to know the truth and will make their own decisions.”
+
+STEP 1:
+* Evil
+* Lie
+* Cheat
+* Steal
+* Inflict
+* Silenced
+* Shut
+* Christian
+* Conservatives
+* Spiritual
+* Crossroads
+* Futures
+* Never
+* Give
+* Up
+* Fight
+* Troubling
+* Death
+* Spiral
+* Fabrication
+* Garbage
+* Defamation
+* Fake
+* Intentional
+* Disturbing
+* Truth
+
+SUMMARY:
+President Trump believes that if the sexual misconduct allegations against Alabama Republican Senate candidate Roy Moore are true, Moore "will do the right thing and step aside." The allegations, which include claims of sexual encounters with a 14-year-old girl, are "deeply troubling" and have sparked calls for Moore to drop out of the race. Moore has denied the allegations, calling them a "fabrication" and "fake news" aimed at silencing "Christian conservatives." He claims the "forces of evil" are behind the allegations, and vows to "never give up the fight." The White House has cautioned against a rush to judgment, but many GOP senators have called on Moore to step aside if the allegations are true. END OF SUMMARY.
+
+Now, here is the target news article to summarize:
+Here is the news article:
+
+At last night's final presidential debate, the GOP presidential nominee refused to say that he would honor and accept the results of the election. Instead, he said he would "keep you in suspense." This is, indeed, horrifying, as his opponent Hillary Clinton said. But it should come as no surprise. It has been clear from the beginning that Trump does not accept small-d democratic norms. In the first Republican primary debate last August, Trump, running as a Republican, refused to say that he would support the eventual nominee. That's fair enough, on its own, especially considering that several of the other GOP candidates eventually refused to do so. But it was also a warning: Trump would honor the norms of the electoral process; he would not, as a matter of course, accept its legitimacy. The rejection of both the norms and legitimacy of democracy has been a consistent theme throughout Trump's public career. In 2012, after Barack Obama won the election, Trump went on a long twitter rant, arguing that the election was "a total sham and a travesty" and that "we are not a democracy." Throughout the campaign, Trump has treated the norms of democracy—peace, acceptance, respect for the electoral process and for the limits of presidential power—with disdain if not outright hostility. At his rallies, he has explicitly encouraged supporters to engage in violent acts against protesters. Since winning the nomination, he has repeatedly declared that the election is rigged, raising the specter of voter fraud that has been consistently, repeatedly proven to be almost entirely imaginary. Before that, he warned darkly that if his nomination did not go through at the Republican convention there might be riots. Over and over again throughout his campaign, Trump has disrespected the Constitution and promised to violate its most essential rules. He has dismissed the idea of free speech, promised to seize the assets of foreign nationals, and suggested that Muslims should be forced to register in a federal database. He has repeatedly promised to order the military to commit war crimes. He has derided core constitutional principles, arguing, dismissively, that "the Constitution is not a suicide pact." Trump, who clearly does not understand the Constitution, does not believe in the sanctity of its provisions, or even in its general guidance. He believes only in his own ill-informed whims. Trump's lack of respect for the Constitution is matched only by his praise for the strength of authoritarian dictators. He has been fulsome in his praise for Russian leader Vladimir Putin's strength, and has similarly expressed his admiration for other authoritarian leaders such as Saddam Hussan, Muammar Gaddagi, and Bashar al-Assad. At last night's debate, he repeatedly dismissed the notion, confirmed by multiple U.S. intelligence agencies, that Russia was behind the hack of democratic emails, and seemed to side with Putin for having outsmarted the United States. All the available evidence indicates that Trump is not a fan of the imperfect democracy that is the United States, but quite admires foreign authoritarians specifically for their authoritarian tendencies. Over and over again, Trump has expressed his desire to implement authoritarian, unconstitutional policies in the U.S.—banning Muslims from entering the country, closing down Mosques, retaliating against media outlets that publish critical reports about Trump, and their owners. One of Trump's favorite lines is that "only I can solve" the problems he says ail the country. Part of the problem is that Trump perceives himself as an eternal winner. Therefore, any loss can only be someone else's fault. That is how we ended up with a presidential debate in which Trump interrupted his opponent to declare, again, that he should have gotten an Emmy for his reality TV show, The Apprentice. Trump had insisted that the Emmy awards were also rigged against him. The man's vast personal vanity is inseperable from his authoritarian outlook. At this point, it is hard to avoid the conclusion that Trump is not really running for president of a democratic republic; he is running to be its unchecked and unaccountable leader, free from the shackles of constitutionally limited democracy he so clearly despises.
+
+(1) First, you identify all the single words that are morally framed. Identify this step as "STEP 1:" and report each word in a new line starting with *
+(2) Finally, you write a summary of the news article. Please preserve as many morally framed words as possible in your summary. The summary has to be returned after a "SUMMARY:" token and ending with a "END OF SUMMARY." token. The summary should be no longer than 200 words.

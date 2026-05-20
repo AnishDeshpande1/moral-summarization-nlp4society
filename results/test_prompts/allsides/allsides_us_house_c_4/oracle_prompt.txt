@@ -1,0 +1,31 @@
+You have to summarize the following text preserving the moral framing that the author gave to it.
+
+Here is the news article:
+
+WASHINGTON (Reuters) - U.S. Treasury Secretary Steven Mnuchin failed to meet a final congressional deadline on Tuesday for turning over President Donald Trump’s tax returns to lawmakers, setting the stage for a possible court battle between Congress and the administration. U.S. Treasury Secretary Steven Mnuchin testifies before a House Financial Services Committee hearing on the "State of the International Financial System" on Capitol Hill in Washington, U.S., April 9, 2019. The outcome, which was widely expected, could prompt House Ways and Means Committee Chairman Richard Neal to subpoena Trump’s tax records as the opening salvo to a legal fight that may ultimately have to be settled by the U.S. Supreme Court. Neal set a final 5 p.m. (2100 GMT) deadline for the Internal Revenue Service and Treasury to provide six years of Trump’s individual and business tax records. But the deadline passed without the panel receiving the documents. After the deadline lapsed, Mnuchin released a letter to Neal in which he pledged to make “a final decision” on whether to provide Trump’s tax records by May 6. It was the second time the administration had missed a House deadline for the tax returns since Neal requested them on April 3. “Secretary Mnuchin notified me that once again, the IRS will miss the deadline for my ... request. I plan to consult with counsel about my next steps,” Neal said in a statement. In his letter, Mnuchin said he was still consulting with the Justice Department about Neal’s request, which he termed “unprecedented.” “The department cannot act upon your request unless and until it is determined to be consistent with the law,” the Treasury secretary told Neal. Democrats want Trump’s returns as part of their investigations of possible conflicts of interest posed by his continued ownership of extensive business interests, even as he serves the public as president. Republicans have condemned the request as a political “fishing expedition” by Democrats. Trump broke with a decades-old precedent by refusing to release his tax returns as a presidential candidate in 2016 or since being elected, saying he could not do so while his taxes were being audited. But his former personal lawyer, Michael Cohen, told a House panel in February that he did not believe Trump’s taxes were under audit. Cohen said the president feared that releasing his returns could lead to an audit and IRS tax penalties. ‘NOT UP TO THE PRESIDENT’ Earlier on Tuesday, the White House said Trump was unlikely to hand over his tax returns. “As I understand it, the president’s pretty clear: Once he’s out of audit, he’ll think about doing it, but he’s not inclined to do so at this time,” White House spokesman Hogan Gidley told Fox News in an interview. “This is not up to the president. We did not ask him,” said a Democratic committee aide, who cited a law saying the Treasury secretary “shall furnish” taxpayer data upon request from an authorized lawmaker. Neal informed IRS Commissioner Charles Rettig earlier this month that failure to comply with the deadline would be viewed as a denial. Legal experts said House Democrats could vote to hold Mnuchin or Rettig in contempt of Congress if they ignored a subpoena, as a pretext to suing in federal court to obtain Trump’s returns. Experts say administration officials could ultimately risk financial penalties and even jail time by defying the committee. As Ways and Means chairman, Neal is the only lawmaker in the House of Representatives authorized to request taxpayer information under federal law. Democrats say they are confident of succeeding in any legal fight over Trump’s tax returns. “Secretary Mnuchin is again choosing to violate the law to keep Trump’s records hidden away. This administration’s contempt for rule of law is without peer,” Representative Bill Pascrell, who has been leading the Democratic push for Trump’s tax records, said in a statement on Twitter. “I stand beside @RepRichardNeal as he continues the crusade to impose plain oversight on this corrupt administration.” Despite the law’s clarity, Democrats have long acknowledged that the effort would likely result in a legal battle that could end up with the Supreme Court. “If the IRS does not comply with the request, it is likely that Chairman Neal will subpoena the returns,” Representative Judy Chu, a Democratic member of the Ways and Means Committee, told Reuters. “If they do not comply with that (subpoena), a legal battle will begin to defend the right of oversight in Congress,” she said.
+
+The author used the following morally framed words in the article:
+* failed
+* receiving
+* lapsed
+* missed
+* miss
+* consult
+* determined
+* consistent
+* furnish
+* failure
+* ignored
+* risk
+* jail
+* defying
+* choosing
+* violate
+* hidden
+* contempt
+* crusade
+* impose
+* comply
+* subpoena
+
+Please preserve as many morally framed words as possible in your summary. The summary has to be returned after a "SUMMARY:" token and ending with a "END OF SUMMARY." token. The summary should be no longer than 200 words.

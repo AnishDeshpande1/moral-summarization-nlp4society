@@ -1,0 +1,227 @@
+You have to summarize the following text preserving the moral framing that the author gave to it.
+
+Please study the following examples of news articles, their moral word extraction, and summaries preserving the moral framing:
+
+Example 1 (Political Ideology: Left):
+Here is the news article:
+
+Having failed to lead the best-prepared nation in the world against one pandemic, Donald Trump has made it more vulnerable to another.
+He has, for example, frayed international bonds further by trying to pull the U.S. out of the World Health Organization.
+Whether he has the legal authority to do so is still unclear, but even if the threat is empty, “some of the effects will be immediate,” says Loyce Pace, the president of the Global Health Council.
+U.S. officials and experts will start disengaging from international institutions, and that might encourage other nations to follow suit.
+
+This won’t just harm the WHO at the time when it is most needed, but will also further diminish America’s already damaged international standing.
+A country that has badly mishandled its own outbreak, that has bought up the world’s stock of important drugs, and that has petulantly withdrawn from global alliances is less likely to receive warnings or support if a new crisis emerges.
+
+There is an optimistic scenario if a second virus begins to spread: The new pathogen finds it harder to move around an alert world, is rapidly detected wherever it arrives, and fizzles out because cautious citizens have their guard up.
+
+As long as people stay vigilant against the current pandemic—keeping their distance, wearing masks, avoiding indoor crowds—they should theoretically be guarded against a second respiratory virus.
+It used to be common for measles and pertussis to interfere with each other, so that if one spiked, the other would subside.
+That might be because kids who got one disease would stay home, reducing their risk of the other.
+“It’s nothing to do with a vaccine or the immune system,” says Sarah Cobey, an immunologist at the University of Chicago.
+“It’s just people being careful.”
+
+The same tests that are being used to diagnose COVID-19 could also be tweaked to cover the new pathogen.
+One company is already developing a fast “multiplex” test that could look for four respiratory viruses—the new coronavirus, two types of flu, and respiratory syncytial virus (RSV)—in a single nasal swab.
+And if the new pathogen is a flu strain, existing vaccines could be tweaked to protect against it.
+That would still take several months, but the existence of a seasonal flu vaccine offers an invaluable head start.
+
+Read: We don’t even have a COVID-19 vaccine, and the conspiracies are here
+
+This future is easier to imagine in countries like South Korea, New Zealand, and Germany, which have successfully controlled COVID-19.
+It seems less likely in nations like the U.S., Brazil, Russia, and India, which are stretched and struggling.
+
+In such places, COVID-19 would effectively cloak the spread of any new respiratory virus with similar symptoms, which “could have a chance to take off before we realized it had,” Cameron said.
+A new virus would also be harder to spot because “all the resources we would normally use to detect potential viruses of concern have been redirected for COVID-19,” says Lauren Sauer, who works on disaster preparedness at Johns Hopkins Medicine.
+She means everything from physical equipment like swabs and storage tubes, to health-care workers who administer and process tests, to public-health experts who analyze the data or conduct contact tracing.
+These are either running out or burning out.
+A second respiratory virus would further tax the same resources that the U.S. has already failed to adequately marshal for COVID-19.
+
+STEP 1:
+* failed
+* vulnerable
+* frayed
+* damaged
+* badly
+* petulantly
+* withdrawn
+* cautious
+* vigilant
+* careful
+* struggling
+* stretched
+* failed
+* inadequately
+
+SUMMARY:
+Donald Trump's mishandling of the COVID-19 pandemic has made the US more vulnerable to another pandemic. His attempts to pull out of the World Health Organization have frayed international bonds, further damaging America's already damaged international standing. A country that has badly mishandled its own outbreak and petulantly withdrawn from global alliances is less likely to receive warnings or support if a new crisis emerges. In contrast, countries like South Korea, New Zealand, and Germany, which have successfully controlled COVID-19, are better prepared to handle a new respiratory virus. However, in countries like the US, Brazil, Russia, and India, which are stretched and struggling, a new virus could spread undetected, cloaked by the ongoing COVID-19 pandemic. END OF SUMMARY.
+
+Example 2 (Political Ideology: Center):
+Here is the news article:
+
+“The 360” shows you diverse perspectives on the day’s top stories and debates.
+
+What’s happening
+
+At least 54,000 residents and workers at nursing homes and other elder-care facilities have died of COVID-19 in the United States, according to data compiled by the New York Times in late June.
+The U.S. has more deaths connected to nursing homes than any country other than Brazil has in total.
+
+COVID-19 has proved to be especially dangerous for the elderly.
+People over 65 represent more than three-quarters of America’s nearly 131,000 coronavirus deaths.
+The age of nursing home residents, combined with the ease with which the virus spreads in communal spaces, has led to devastating outbreaks.
+Some facilities have been connected to more than 70 deaths.
+
+Across the U.S., there are about 1.4 million people living in nursing homes.
+Though their residents make up less than 1 percent of the country’s population, nursing homes account for more than 40 percent of America’s COVID-19 deaths.
+The fatality rate for nursing home residents who contract the virus is more than three times the national average, according to the New York Times.
+
+Why there’s debate
+
+To some experts, the coronavirus has highlighted flaws in the U.S. nursing home system that can only be fixed by radically changing the way the country cares for the elderly.
+Critics argue that nursing homes were vulnerable to the virus not just because they house older people in tight quarters, but also because of long-standing problems like limited resources, poor government support, underpaid staff, lack of oversight and financial structures that incentivize substandard care.
+The size of the country’s older population is expected to nearly double by 2050, which could further strain the already strained nursing home system.
+
+A better plan, some argue, would be a major increase in at-home care for seniors supported by government funds, new technology and community members.
+Some studies suggest that at-home care is cheaper and leads to better health outcomes.
+Shifting the majority of elder care to the home would allow nursing homes to focus on supporting people with intensive health needs, experts say.
+
+Others say a massive restructuring of elder care could leave behind poor people and people of color, who are less likely to have stable housing and the money needed to support at-home care.
+Many of the issues with the current system, they argue, can be fixed through more funding for care and staff pay, a more equitable health care system and more government accountability.
+
+Perspectives
+
+The government should help fund at-home care for seniors
+
+“The desire is there to stay at home, but until the government takes action, nothing will change.
+Maybe the extraordinary events of the past few months will finally be the catalyst we need to move forward to aging at home.” — Julian Gray and Frank Petrich, Pittsburgh Post-Gazette
+
+The virus has drawn attention to ongoing problems with nursing homes
+
+“The pandemic doesn’t have many silver linings, but as the number of nursing-home deaths piles up, the news media is being forced to cover a world many of us would prefer to ignore.” — Charles C. Camosy, New York Times
+
+Technology and family support can ease the burden of at-home care
+
+“One alternative is supporting in-home care for seniors to age in place, undergirded by technology that can virtually detect falls, provide companionship through robotics, monitor the frequency of sleeping and toilet visits, or even check how often the fridge door is opened.
+The pandemic should prompt us to explore these alternatives, or options for generational living where grandparents reside with younger generations, contributing to the mortgage and pitching in with child care.” — Michele L. Norris, Washington Post
+
+The country needs to prepare for a major spike in the elderly population
+
+“Long, full lives are our new normal — thanks in no small part to modern medicine.
+If the coronavirus pandemic has upsides, I hope one is that it challenges doctors, politicians, and everyone else to more thoughtfully adapt to this new reality for the human species.” — Louise Aronson, Atlantic
+
+STEP 1:
+* devastating
+* flaws
+* vulnerable
+* poor
+* underpaid
+* lack
+* substandard
+* strained
+* better
+* cheaper
+* intensive
+* poor
+* equitable
+* accountable
+* extraordinary
+* silver
+* ignore
+* burden
+* explore
+* alternatives
+* prompt
+* challenges
+* thoughtfully
+
+SUMMARY:
+The COVID-19 pandemic has highlighted the devastating flaws in the US nursing home system, where at least 54,000 residents and workers have died. The vulnerable elderly population, combined with limited resources, poor government support, underpaid staff, and lack of oversight, has led to substandard care. The fatality rate for nursing home residents who contract the virus is more than three times the national average. Experts argue that a better plan would be to increase at-home care for seniors, which is cheaper and leads to better health outcomes. However, others warn that a massive restructuring of elder care could leave behind poor people and people of color. The government needs to take extraordinary action to address these issues and prepare for a major spike in the elderly population. END OF SUMMARY.
+
+Example 3 (Political Ideology: Right):
+Here is the news article:
+
+Last week, President Donald Trump erupted with fury over a series of public revelations of private facts — some top-secret and some office gossip — that painted him and his White House in a bad light.
+The president ordered the FBI to investigate some of these so-called leaks and his own White House counsel to investigate others.
+
+There are numerous issues related to the leaking of government information.
+They include the leaking of classified information, the leaking of confidential communications and the publishing of leaked material.
+
+Here is the back story.
+
+It is a felony to reveal classified information to any person who lacks a classified clearance, as some in the intelligence community have recently done to embarrass, control, intimidate or infuriate the president.
+The National Security Agency employs over 60,000 domestic spies, but they work in compartmentalized areas.
+Thus, not all of them have access to all the data collected by all of their colleagues.
+Only about 100 spies have access to the top-secret data that was leaked about the president.
+
+When members of the intelligence community leaked lurid allegations about the future president's alleged behavior in a Moscow hotel room, which he has vehemently denied, and when some leaked the partial transcripts of telephone conversations between retired Lt. Gen. Michael Flynn and the Russian ambassador to the U.S. — shortly before Flynn became the president's national security adviser — and when some leaked an intelligence report that contradicted the president's publicly stated conclusions on the likelihood of dangerous people immigrating to the U.S. from the seven predominately Muslim countries named in the president's now enjoined temporary travel ban, one can understand the presidential anger.
+
+And leaks are a two-sided coin.
+Adding to Trump's woes caused by too much revealing is the other side of that coin — too much concealing.
+This comes into play when one has a duty to reveal.
+That duty arises from the legal obligation of spies to pass on to their superiors — and ultimately to the president — all of the material information they have acquired about America's friends and enemies.
+
+Selectively concealing and revealing this type of intelligence data, thereby manipulating the presidential judgment, when one has a duty to reveal substantially all of it is a form of interference with a governmental function — namely, the president's exercise of his judgment — and that is a felony.
+
+As if all this were not enough for a young presidency to deal with, Trump finds himself with a White House staff leaking to the press Oval Office gossip about confidential conversations from within the White House that the participants in those conversations had every reason to believe would not be made public.
+This resulted in the temporary seizure of government-issued cellphones held by a dozen or so staffers so their bosses could learn whether any had spoken to the press.
+The cellphones episode was itself leaked, apparently by a participant not happy with it.
+
+What's going on here?
+
+These events are either the growing pains of a new presidential administration, still partially staffed by those loyal to former President Barack Obama, or the product of sinister forces from people attempting to exercise their own judgment about America's foes by frustrating and manipulating the judgment of the president — whom the voters elected to exercise the constitutional powers to make those judgment calls.
+The latter situation would be perilous, as it would mean we have unelected, unaccountable, and unnamed people pulling the levers of power in the field of national security.
+
+The leaks of confidential communications from within the White House may be a pain in the neck for the president, but they are not criminal.
+And generally, a boss can look at an employee's cellphone, as long as the employer of the boss and the employee owns the phone — except when the employer is the government.
+The Fourth Amendment insulates government employees from governmental reach into its employees' cellphones.
+Absent an employee's waiving his Fourth Amendment rights, the government may not seize work-related (governmental) or personal phones without a search warrant.
+
+Can the media publish these leaks?
+
+In a word, yes.
+The media may publish anything that is of material interest to the public, notwithstanding its level of secrecy or how it was acquired.
+The First Amendment — which the courts have construed to treat the media as the eyes and ears of the public — protects absolutely the publication by the media of leaked data, whether gossip or top-secret, that the public wants to hear.
+
+The courts have also ruled that everything about the president is of material public interest — meaning no criminal or civil action can be taken against the media for the publication of any leaked materials that reflect on the president as a person or as a government official.
+When The New York Times published a probably stolen copy of Trump's tax returns, it did so with impunity.
+
+One can see why Trump rails against the press.
+Yet he has taken an oath to preserve, protect and defend the very constitutional principles that protect and liberate a free press from the anger of the government, no matter how well-grounded that anger may be.
+One of his predecessors who was savaged by the press, Thomas Jefferson, wrote that accountability and transparency in government are of such overriding value that he'd prefer newspapers without a government to a government without newspapers.
+
+STEP 1:
+* felony
+* embarrass
+* control
+* intimidate
+* infuriate
+* duty
+* concealing
+* manipulating
+* interference
+* felony
+* sinister
+* perilous
+* unelected
+* unaccountable
+* unnamed
+* pain
+* criminal
+* waiving
+* insulates
+* impunity
+* accountability
+* transparency
+* overriding
+* savaged
+
+SUMMARY:
+President Trump's administration is dealing with a series of leaks, including classified information and confidential communications, which has sparked fury and investigations. However, the article highlights that leaks are a two-sided coin, and concealing information can be just as problematic as revealing it. The duty to reveal information is crucial, and selectively concealing it can be a form of interference with the president's judgment, which is a felony. The article also notes that the media has the right to publish leaked information, even if it's top-secret, as it is of material interest to the public. Trump's anger towards the press is understandable, but he has taken an oath to protect the very constitutional principles that protect a free press. The article concludes that accountability and transparency in government are of overriding value. END OF SUMMARY.
+
+Now, here is the target news article to summarize:
+Here is the news article:
+
+This video was produced in collaboration with The New York Times. Admild, an undocumented immigrant from Haiti, was feeling sick as he approached the deportation plane that was going to take him back to the country he had fled in fear. Two weeks before that day in May, while being held at an Immigration and Customs Enforcement detention facility in Louisiana, he had tested positive for the coronavirus — and he was still showing symptoms. He disclosed his condition to an ICE official at the airport, who sent him to a nurse. “She just gave me Tylenol,” said Admild, who feared reprisals if his last name was published. Not long after, he was back on the plane before landing in Port-au-Prince, one of more than 40,000 immigrants deported from the United States since March, according to ICE records. Even as lockdowns and other measures have been taken around the world to prevent the spread of the coronavirus, ICE has continued to detain people, move them from state to state and deport them. An investigation by The New York Times in collaboration with The Marshall Project reveals how unsafe conditions and scattershot testing helped turn ICE into a domestic and global spreader of the virus — and how pressure from the Trump administration led countries to take in sick deportees. We spoke to more than 30 immigrant detainees who described cramped and unsanitary detention centers where social distancing was near impossible and protective gear almost nonexistent. “It was like a time bomb,” said Yudanys, a Cuban immigrant held in Louisiana. At least four deportees interviewed by The Times, from India, Haiti, Guatemala and El Salvador, tested positive for the virus shortly after arriving from the United States. So far, ICE has confirmed at least 3,000 coronavirus-positive detainees in its detention centers, though testing has been limited. We tracked over 750 domestic ICE flights since March, carrying thousands of detainees to different centers, including some who said they were sick. Kanate, a refugee from Kyrgyzstan, was moved from the Pike County Correctional Facility in Pennsylvania to the Prairieland Detention Facility in Texas despite showing Covid-19 symptoms. He was confirmed to have the virus just a few days later. “I was panicking,” he said. “I thought that I will die here in this prison.” We also tracked over 200 deportation flights carrying migrants, some of them ill with coronavirus, to other countries from March through June. Under pressure from the Trump administration and with promises of humanitarian aid, some countries have fully cooperated with deportations. El Salvador and Honduras have accepted more than 6,000 deportees since March. In April, President Trump praised the presidents of both countries for their cooperation and said he would send ventilators to help treat the sickest of their coronavirus patients. So far, the governments of 11 countries have confirmed that deportees returned home with Covid-19. When asked about the agency’s role in spreading the virus by moving and deporting sick detainees, ICE said it took precautions and followed guidelines of the Centers for Disease Control and Prevention. As of last week, ICE said that it was still able to test only a sampling of immigrants before sending them home. Yet deportation flights continue.
+
+(1) First, you identify all the single words that are morally framed. Identify this step as "STEP 1:" and report each word in a new line starting with *
+(2) Finally, you write a summary of the news article. Please preserve as many morally framed words as possible in your summary. The summary has to be returned after a "SUMMARY:" token and ending with a "END OF SUMMARY." token. The summary should be no longer than 200 words.

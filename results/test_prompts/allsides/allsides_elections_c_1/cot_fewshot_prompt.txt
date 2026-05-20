@@ -1,0 +1,154 @@
+You have to summarize the following text preserving the moral framing that the author gave to it.
+
+Please study the following examples of news articles, their moral word extraction, and summaries preserving the moral framing:
+
+Example 1 (Political Ideology: Left):
+Here is the news article:
+
+WASHINGTON – Five hundred and eighty-four days after descending his Trump Tower escalator to announce his candidacy, Donald J. Trump took the oath of office Friday to become the 45th president of the United States.
+
+Chief Justice John Roberts administered the 38-word oath at 12:00 p.m., capping Trump’s unlikely journey from New York City real estate developer and reality TV star to the nation’s highest office.
+
+Trump won the Republican nomination against a crowded field of 16 other candidates, many far more experienced in politics.
+But he was able to capitalize on a primary voting base that was angry at the establishment GOP for not more aggressively fighting President Barack Obama’s policies.
+
+He trailed Democratic nominee Hillary Clinton in the general election nearly the entire way.
+In the final month of the race, he was helped by the near daily release of internal Democratic Party emails stolen by Russian hackers as well as by FBI Director James Comey’s decision to reopen, briefly, the probe into Clinton’s use of a private email server.
+
+Trump wound up winning Wisconsin, Michigan and Pennsylvania by a total of 78,000 votes.
+Clinton had counted on winning all three.
+
+STEP 1:
+* angry
+* aggressively
+* establishment
+
+SUMMARY:
+Donald J. Trump took the oath of office to become the 45th president of the United States, capping his unlikely journey from real estate developer and reality TV star to the nation's highest office. Trump's victory was fueled by an angry primary voting base that felt the establishment GOP had not fought President Barack Obama's policies aggressively enough. Despite trailing Democratic nominee Hillary Clinton in the general election, Trump was helped by the release of stolen Democratic Party emails and FBI Director James Comey's decision to reopen the probe into Clinton's email server. Trump won Wisconsin, Michigan, and Pennsylvania by a narrow margin of 78,000 votes, defying Clinton's expectations. Trump's presidency marked a significant shift in American politics, driven by a desire for change and a rejection of the political establishment. END OF SUMMARY.
+
+Example 2 (Political Ideology: Center):
+Here is the news article:
+
+Donald J. Trump has dropped plans to moderate a presidential debate, but don’t expect him to fade quietly from the political scene.
+
+In fact, Republicans may have gotten more than they bargained for by shunning him.
+Mr. Trump’s statement on Tuesday that he was bowing out of the Newsmax debate seemed certain to open the door to another round of “I just might …” threats from the real estate mogul.
+
+“It is very important to me that the right Republican candidate be chosen to defeat the failed and very destructive Obama administration,” Mr. Trump said in his statement.
+“But if that Republican, in my opinion, is not the right candidate, I am not willing to give up my right to run as an independent candidate.”
+
+Mr. Trump drew considerable criticism from the Republican establishment for moderating a presidential debate while openly saying that he might still run if he was displeased with the candidates.
+Rather than go ahead with the debate and declare that he will not run — Mr. Trump has flirted with running for president several times since the 1980s but has always decided not to follow through — he chose to drop the debate.
+
+“I must leave all of my options open because, above all else, we must make America great again!” he said.
+
+Mr. Trump was facing a potentially awkward task: moderating a debate that only two candidates said they would attend.
+Newt Gingrich and Rick Santorum were the only two Republicans who agreed to participate.
+Mitt Romney, Rick Perry, Michele Bachmann, Jon M. Huntsman Jr. and Ron Paul all declined, putting a big dent in Mr. Trump’s self-proclaimed status as Republican kingmaker.
+
+Mr. Trump issued the following exclamation-point laden statement through his lawyer, Michael Cohen.
+
+STEP 1:
+* failed
+* destructive
+* right
+* important
+* willing
+* great
+
+SUMMARY:
+Donald Trump has dropped his plans to moderate a presidential debate, but he's not going away quietly. In a statement, Trump emphasized the importance of choosing the "right" Republican candidate to defeat the "failed" and "destructive" Obama administration. However, he threatened to run as an independent candidate if he's not pleased with the chosen candidate, saying "I must leave all of my options open because, above all else, we must make America great again!" Trump's decision comes after facing criticism from the Republican establishment for considering a presidential run while moderating a debate. The debate itself was facing a setback, with only two candidates, Newt Gingrich and Rick Santorum, agreeing to participate. Trump's move may have opened the door to another round of threats to run as an independent candidate. END OF SUMMARY.
+
+Example 3 (Political Ideology: Right):
+Here is the news article:
+
+President Trump called the Las Vegas attack an "act of pure evil" Monday morning, in a somber address to the American people following the mass shooting now considered the deadliest in modern U.S. history.
+
+The attack left 58 people dead and 515 hospitalized.
+
+The president announced he will visit Las Vegas on Wednesday to meet with law enforcement, first responders and families of victims.
+He also ordered the flag be flown at half-staff at the White House and other federal buildings to honor those who died.
+
+“It was an act of pure evil,” Trump said.
+
+In a unifying, faith-focused speech from the Diplomatic Room at the White House, the president offered his prayers through this “very dark period.”
+
+“To the families of the victims, we are praying for you and we are here for you and we ask God to help see you through this very dark period,” the president said.
+“Scripture teaches us the Lord is close to the broken hearted and saves those who are crushed in spirit.
+We seek comfort in those words for we know that God lives in the hearts of those who grieve.”
+
+The president called upon “the bonds that unite us,” including faith, family and shared values.
+
+“Our unity cannot be shattered by evil.
+Our bonds cannot be broken by violence,” Trump said.
+“In times such as these, I know we are searching for some kind of meaning in the chaos, light in the darkness.
+The answers do not come easy.”
+
+'Our unity cannot be shattered by evil.' — President Donald Trump
+
+He added: “But we can take solace knowing that even the darkest space can be illuminated by a single ray of hope.”
+
+Trump said that he and the first lady “pray for the entire nation.”
+
+“We pray for the day when evil is banished and the innocent are safe from hatred and from fear,” Trump said.
+
+White House Press Secretary Sarah Sanders said Monday that the president has spoken with the Nevada Gov.
+Brian Sandoval, Las Vegas Mayor Carolyn Goodman, and Las Vegas Metropolitan Police Department's Sheriff Joe Lombardo.
+
+The president first addressed the deadly attack early Monday morning on Twitter.
+
+“My warmest condolences and sympathies to the victims and families of the terrible Las Vegas shooting.
+God bless you!” Trump tweeted.
+
+The suspect, who was killed, was identified as 64-year-old Stephen Paddock, a local resident.
+Authorities also said they were “confident” Paddock’s roommate, Marilou Danley, had been located.
+Officials previously described Danley as a person of interest.
+
+Authorities said one on-duty officer was in critical condition and another was wounded in the shooting.
+Two off-duty police officers attending the concert were killed.
+
+“This was obviously well-planned, they waited for a major, open air event, and obtained a room facing it,” retired FBI special agent and former national FBI spokesman John Iannarelli, who drove past the scene of the event just moments before the shooting took place, told Fox News.
+“I can see the flashing blue police lights from my hotel window.”
+
+“They were well-trained,” Iannarelli said, noting the use of automatic weapons.
+“That’s not an easy task.”
+
+Iannarelli also said “it is too early to tell” what the motive was.
+“Is this a lone wolf inspired by others?
+This is exactly the type of attack the U.S. has been fearing would come to our shores.”
+
+Officials did not immediately reveal a motive.
+
+First lady Melania Trump also offered her condolences on Twitter Monday morning.
+
+"My heart and prayers goes out to victims, families & loved ones! #PrayForLasVegas," she tweeted.
+
+STEP 1:
+* evil
+* faith
+* broken
+* crushed
+* comfort
+* unity
+* bonds
+* shattered
+* violence
+* chaos
+* darkness
+* hope
+* banished
+* hatred
+* fear
+* innocent
+* safe
+
+SUMMARY:
+President Trump called the Las Vegas attack an "act of pure evil" that left 58 people dead and 515 hospitalized. In a unifying, faith-focused speech, he offered his prayers through this "very dark period" and sought comfort in the words of scripture. Trump emphasized the importance of "the bonds that unite us," including faith, family, and shared values, stating that "our unity cannot be shattered by evil." He also expressed hope, saying that "even the darkest space can be illuminated by a single ray of hope." The president and first lady Melania Trump offered their condolences to the victims and families, praying for the day when "evil is banished and the innocent are safe from hatred and from fear." Trump will visit Las Vegas on Wednesday to meet with law enforcement, first responders, and families of victims. END OF SUMMARY.
+
+Now, here is the target news article to summarize:
+Here is the news article:
+
+How many times have we heard that Donald Trump is finished? That narrative was adopted almost from Day One of his presidential campaign. From scornful predictions about his chances in the primaries to faulty polls predicting President Hillary Clinton, from the phony Russian collusion story through the Ukrainian phone call impeachment and acquittal, Donald Trump has had more obituaries written about him than most actually deceased presidents. So far, all the pundits and prognosticators have been wrong. And they still are. Look at the past few months. Back in mid-March, The Atlantic ran a piece by "Never Trumper" Peter Wehner titled, “The Trump presidency is over.” The thesis — very typical — was that the administration’s response to the COVID-19 crisis was about to take Trump down. “His administration may stagger on,” Wehner wrote, “but it will be only a hollow shell.” Two weeks after that opinion column appeared, Trump’s approval rating for handling the crisis reached its record high. It has since settled from that peak but not to “hollow shell” levels. The economic shock of the coronavirus lockdown was also supposed to spell the end. An article on Yahoo Finance predicted that the downturn presaged “a death sentence for presidential reelection hopes.” Experts suggested that if there were a recovery at all, it would not be a swift “V” shaped rebound but a grinding, long-term “U” shaped slog. The experts were wrong yet again. Trump’s approval numbers on handling the economy have remained in positive territory throughout the temporary downturn. The stock market has rebounded strongly; the NASDAQ is back in record territory. And the unexpected gain of 2.5 million jobs pushed unemployment down to 13.3%, the largest monthly gain ever on record. Now the crisis following the killing of George Floyd has become the hoped-for tectonic event that critics believe will finally do Trump in politically. In the past week, the anti-Trump narratives have come thick and fast. When protesters occupied Lafayette Square, the president was said to be hunkered down in a bunker, and a doctored picture of a darkened White House was widely circulated that later proved to be a stock photo from the Obama era. Commentators were more agitated with Trump standing in front of St. John's Episcopal Church holding a Bible than they were when supposedly peaceful protesters set fire to it the night before. Responses to protests:In Harlem, we marched for justice, against police brutality Trump's durability Trump is so durable, his critics want to pretend he doesn’t exist: Trump has “relinquished the core duties and responsibilities of the presidency,” Robert Reich wrote. “He is no longer president. The sooner we stop treating him as if he were, the better.” The Washington Post’s Jennifer Rubin, who declares Trump defunct on a regular basis, said gradual defections from the Trump camp will sink him and “this is how history is made.” Also in The Post, Brian Klaas conjured an apocalyptic vision of Trump as dictator, threatening the president’s supporters that “history will judge you.” Paul Krugman at The New York Times said Republicans would be happy with Trump as dictator and predicted that “given Trump’s determination to put troops in the streets of America’s cities, it’s quite likely that innocent civilians will be shot at some point.” Krugman did not mention David Dorn, a retired police captain and African American shot and killed by St. Louis pawn shop looters. His life mattered, too. Klass noted that “polls suggest Trump’s ship is sinking.” Do they? According to FiveThirtyEight polling aggregates, Trump’s decline comes from post-inauguration highs in early April. He is above his worst numbers from December 2017, when the Russian collusion “insurance policy” was in full swing. And Trump’s numbers compare favorably with his immediate two-term predecessors. Gallup long-term poll data shows Trump following a nearly identical opinion track as President Barack Obama for the last 10 months, and he is also even with President George W. Bush at this point in his presidency. By contrast, Trump is about 10 points above both our most recent one-term presidents, George H.W. Bush and Jimmy Carter. The hyperbole of Trump's critics What works most in Trump’s favor is the hyperbole of his critics. If Trump denounces far-left militant antifa as terrorists, some rush to defend them. If Trump praises law enforcement, progressives rush to defund them. Biden backers try to elevate Joe as a historic leader who can heal the nation when his civil rights record is worse than Trump’s. Trump’s best reelection guarantee will be if Democrats cave to the extremist narrative of a fundamentally racist America requiring radical progressive change. Saving the American experiment:It feels like the American experiment is failing. Here's how we can still save it. Given the dismal track record of the president’s critics, there should be an editorial moratorium on “Trump is finished” pieces until after his reelection. Then they can run with that narrative until it finally comes true in 2025.
+
+(1) First, you identify all the single words that are morally framed. Identify this step as "STEP 1:" and report each word in a new line starting with *
+(2) Finally, you write a summary of the news article. Please preserve as many morally framed words as possible in your summary. The summary has to be returned after a "SUMMARY:" token and ending with a "END OF SUMMARY." token. The summary should be no longer than 200 words.

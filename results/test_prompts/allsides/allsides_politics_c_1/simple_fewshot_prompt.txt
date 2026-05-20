@@ -1,0 +1,171 @@
+You have to summarize the following text preserving the moral framing that the author gave to it.
+
+Please study the following examples of news articles and their summaries preserving the moral framing:
+
+Example 1 (Political Ideology: Left):
+Here is the news article:
+
+Donald Trump has blocked the former White House counsel Don McGahn from testifying before Congress about the special counsel report on Russian election interference, prompting sharp criticism and even threats of impeachment.
+
+In a legal opinion released on Monday, the justice department said lawmakers on Capitol Hill cannot compel McGahn, who was subpoenaed by the House judiciary committee, to answer their questions under oath.
+
+“The Department of Justice has provided a legal opinion stating that, based on long-standing, bipartisan, and constitutional precedent, the former counsel to the president cannot be forced to give such testimony, and Mr McGahn has been directed to act accordingly,” the White House press secretary, Sarah Sanders, said in a statement.
+
+Trump must turn over financial records to House, judge rules – live
+
+“This action has been taken in order to ensure that future presidents can effectively execute the responsibilities of the office of the presidency.”
+
+McGahn is a central figure in special counsel Robert Mueller’s report, often standing in the way of Trump’s efforts to obstruct justice.
+According to investigators, McGahn threatened to resign when the president ordered him to have Mueller fired.
+
+McGahn was also dispatched by Trump to convince the former attorney general Jeff Sessions not to recuse himself from overseeing the Russia investigation.
+(Sessions did not heed the president’s demands.)
+
+Travelling to a rally in Pennsylvania, Trump was asked why he was asking McGahn to defy a congressional subpoena.
+“Well, as I understand it, they’re doing that for the office of the presidency, for future presidents,” he replied, according to a pool report.
+“I think it’s a very important precedent.
+And the attorneys say that they’re not doing that for me.
+They’re doing it for the office of the president.
+So we’re talking about the future.”
+
+The White House’s intervention was condemned by Jerry Nadler, the Democratic chairman of the judiciary committee.
+“The Mueller report documents a shocking pattern of obstruction of justice,” he said in a statement.
+“The president acted again and again – perhaps criminally – to protect himself from federal law enforcement.
+
+“Don McGahn personally witnessed the most egregious of these acts.
+President Trump knows this.
+He clearly does not want the American people to hear firsthand about his alleged misconduct, and so he has attempted to block Mr McGahn from speaking in public tomorrow.”
+
+The move is the latest example of the Trump administration’s “disdain for the law”, added Nadler, who said the committee will meet as planned on Tuesday morning and still expects McGahn to appear.
+
+Another Democratic member of the committee, David Cicilline, went further in his criticism, suggesting that impeachment of Trump would be warranted if McGahn did not respond to the subpoena.
+
+“Let me be clear: if Don McGahn doesn’t testify, it is time to open an impeachment inquiry,” he told the MSNBC network.
+“The president has engaged in an ongoing effort to impede our ability find the truth, to collect evidence, to do our work … No one is above the law, including the president of the United States.”
+
+Cicilline admitted he did not know if his view was shared by other members of Democratic leadership but added: “We may well be forced into a position to have to open a formal inquiry in order to facilitate the collection of the evidence that we need to see.”
+
+The justice department’s legal opinion does not prevent McGahn testifying if he so chooses, although it would be potentially at risk to his own career.
+Trump has mused about instructing Republicans to cease dealing with his law firm, Jones Day, the Associated Press reported.
+
+William Barr is acting like Trump's henchman
+
+Matthew Miller, former director of the office of public affairs for the justice department, tweeted: “Just show up and testify, McGahn.
+This isn’t about some garden-variety Congressional-executive branch dispute, but as one of your predecessors described it, a cancer on the presidency.
+Think about your place in history.”
+
+McGahn was subpoenaed by Nadler last month and, under instruction by the White House, failed to meet an initial deadline to appear before the committee.
+Nadler threatened to hold McGahn in contempt of Congress if he did not meet a second deadline of 21 May.
+
+McGahn, who left the White House last year, has increasingly become the subject of Trump’s ire following the release of the redacted Mueller report.
+Last week, the president tweeted he was “never a big fan” of McGahn and suggested it was the former White House counsel, and not Mueller, who was on his chopping block at the time of the investigation.
+
+The Trump administration has repeatedly blocked attempts at oversight by the Democratic-controlled House.
+Last month it instructed the former personnel security director Carl Kline not to testify at a hearing into alleged lapses in White House security clearance procedures.
+Last week the treasury secretary, Steven Mnuchin, refused to comply with a congressional subpoena to hand over Trump’s tax returns.
+
+Nadler’s committee has previously voted to hold the attorney general, William Barr, in contempt for refusing to provide the unredacted Mueller report and underlying evidence to Congress.
+
+SUMMARY:
+
+The Trump administration has sparked outrage by blocking former White House counsel Don McGahn from testifying before Congress about the special counsel report on Russian election interference. The Justice Department claims that lawmakers cannot compel McGahn to answer questions under oath, citing "long-standing, bipartisan, and constitutional precedent." Critics argue that this move is a blatant attempt to obstruct justice and protect Trump from accountability. Democratic leaders have condemned the administration's "disdain for the law" and threatened impeachment if McGahn does not respond to the subpoena. The move is seen as a dangerous precedent that undermines the rule of law and the separation of powers. As one expert noted, this is not just a "garden-variety Congressional-executive branch dispute," but a "cancer on the presidency." The administration's repeated attempts to block oversight and stonewall investigations have raised serious concerns about its commitment to transparency and accountability.
+
+END OF SUMMARY.
+
+Example 2 (Political Ideology: Center):
+Here is the news article:
+
+WASHINGTON — President Trump on Monday said the F.B.I. ruined the life of his former national security adviser and said his Democratic opponent for president, Hillary Clinton, suffered no consequences after she lied “many times” to the F.B.I.
+
+Michael T. Flynn, Mr. Trump’s first national security adviser, pleaded guilty on Friday to lying to the F.B.I. when he was questioned early this year about his conversations with the Russian ambassador.
+He was the fourth person charged in the investigation of Robert S. Mueller III, the special counsel appointed to lead an inquiry into Russia’s influence on the 2016 election and possible ties to Trump associates.
+
+As he left for Utah on Monday, the president said he felt “very badly” for Mr. Flynn, whom he fired in February for lying to the vice president about the content of these conversations.
+
+Mr. Trump’s comments Monday on Mr. Flynn come at a time when the special counsel investigation is focusing intensely on the president’s inner circle.
+Mr. Trump once encouraged Mr. Flynn to seek an immunity deal.
+Presidents typically do not weigh in on federal investigations to avoid appearing to influence the outcome.
+
+“I feel badly for General Flynn,” Mr. Trump said on Monday. “I feel very badly.
+He’s led a very strong life and I feel very badly.
+Hillary Clinton lied many times to the F.B.I. Nothing happened to her.
+Flynn lied and they destroyed his life.”
+
+Mr. Trump did not cite specifically what Mrs. Clinton said that he considered a lie.
+
+Mrs. Clinton gave a voluntary interview to the bureau in July 2016 during its investigation into whether she or her aides broke the law by corresponding through a private email server set up for her use as secretary of state.
+A few days later, the F.B.I. director at the time, James B. Comey, recommended no charges be filed against her in the matter.
+
+SUMMARY:
+
+President Trump has expressed sympathy for his former national security adviser, Michael Flynn, who pleaded guilty to lying to the FBI about his conversations with the Russian ambassador. Trump feels "very badly" for Flynn, whom he fired in February for lying to the vice president. The president contrasted Flynn's fate with that of his Democratic opponent, Hillary Clinton, who he claims lied "many times" to the FBI but faced no consequences. Trump's comments come as the special counsel investigation into Russia's influence on the 2016 election and possible ties to Trump associates is intensifying its focus on his inner circle.
+
+The moral framing of this article suggests that Trump is attempting to deflect attention from his own administration's scandals by pointing fingers at his political opponents. By claiming that Clinton lied to the FBI with impunity, Trump is implying that the justice system is unfair and biased against him and his associates. This narrative is problematic, as it seeks to undermine the integrity of the FBI and the special counsel investigation, and perpetuates a culture of blame-shifting and dishonesty.
+
+END OF SUMMARY.
+
+Example 3 (Political Ideology: Right):
+Here is the news article:
+
+President Trump on Monday called the criminal case against former national security adviser Michael Flynn “very unfair,” claiming he and Hillary Clinton both “lied” to the FBI but only Flynn faced consequences.
+
+The president’s comments, made to reporters as he left Washington for a policy announcement in Utah, saw Trump wading deeper into the Flynn investigation even after a weekend tweet landed the White House in hot water.
+
+On Monday, Trump said he feels “badly” for Flynn, who pleaded guilty on Friday to giving false statements to the FBI about his Russia contacts.
+
+“Hillary Clinton lied many times to the FBI, nothing happened to her. Flynn lied and they destroyed his life,” Trump said. 
+
+The president, without offering specifics, said his 2016 Democratic rival “lied many times” during her FBI interview in early July.
+
+“Nothing happened to her. Flynn lied and it’s like they ruined his life. Very unfair,” Trump said, echoing a weekend tweet in which he asked whether a “double standard” was at play.
+
+Clinton was interviewed by FBI agents as part of the investigation into her exclusive use of a private email system while secretary of state. 
+
+After that interview, then-FBI Director James Comey called her actions extremely careless without recommending criminal charges.
+
+Trump also noted over the weekend that Clinton was not recorded or under oath during that interview.
+
+On Sunday, Sen. Lindsey Graham, R-S.C., suggested Trump might want to think twice before tweeting and commenting on the Russia case. 
+
+“You tweet and comment regarding ongoing criminal investigations at your own peril,” he said on CBS’ “Face the Nation.”
+
+This was after Trump’s account tweeted Saturday: “I had to fire General Flynn because he lied to the Vice President and the FBI. 
+
+He has pled guilty to those lies. 
+
+It is a shame because his actions during the transition were lawful. 
+
+There was nothing to hide!”
+
+That tweet immediately caused problems for the White House, as some legal experts said it potentially exposed the president to obstruction of justice allegations – since, according to the tweet, he would have known Flynn lied to agents when he allegedly asked Comey to lay off the Flynn investigation and later fired Comey. 
+
+Trump said earlier this year that he fired Flynn only for lying to Vice President Pence about the issue.
+
+Trump’s personal lawyer John Dowd later said he was the one who wrote that tweet, saying he “did not mean to break news.”
+
+Dowd attempted to explain Sunday that the tweet was referring to then-acting Attorney General Sally Yates telling White House Counsel Don McGahn in January that Flynn had “given the agents the same story he gave the vice president.”
+
+He also said the agents seemed to think Flynn was confused. 
+
+“All the president knew was that the department was not accusing him of lying,” Dowd said.
+
+Trump over the weekend denied that he asked Comey to stop investigating Flynn.
+
+Sen. Dianne Feinstein, D-Calif., the top Democrat on the Senate Judiciary Committee, said on NBC’s “Meet the Press” on Sunday that the panel has begun to see "the putting together of a case of obstruction of justice" against Trump.
+
+Flynn is now cooperating with Special Counsel Robert Mueller’s investigators in the Russia meddling case, though it’s unclear what exactly he might reveal about Trump and his associates.
+
+
+
+SUMMARY:
+
+President Trump sparked controversy by claiming that the criminal case against former national security adviser Michael Flynn is "very unfair." Trump argued that Flynn and Hillary Clinton both "lied" to the FBI, but only Flynn faced consequences. Trump's comments were seen as an attempt to deflect attention from Flynn's guilty plea and to fuel a "double standard" narrative. However, Trump's words may have exposed him to further scrutiny, as some legal experts argued that his tweet potentially revealed obstruction of justice. Trump's personal lawyer, John Dowd, attempted to clarify the tweet, but the damage was already done. The incident has raised concerns about Trump's involvement in the Russia investigation and his potential interference with justice. As Senator Dianne Feinstein noted, the Senate Judiciary Committee is now seeing a case of obstruction of justice against Trump take shape.
+
+END OF SUMMARY.
+
+Now, here is the target news article to summarize:
+Here is the news article:
+
+“The 360” shows you diverse perspectives on the day’s top stories and debates. What’s happening Former national security adviser John Bolton’s upcoming book contains a long list of scathing accusations against President Trump, according to several news organizations that obtained copies. In the book, Bolton portrays Trump as a man unfit for the presidency who consistently made decisions based on how they could help his reelection chances rather than what was in the best interest of the country. Accusations by Bolton include Trump asking for election help from Chinese President Xi Jinping, endorsing China’s use of prison camps for Muslims, speaking about executing journalists and a firsthand account of Trump’s dealings with Ukraine that were at the center of the impeachment saga. The president called the book “a compilation of lies and made up stories” from a former staffer who was “just trying to get even” for being fired. At the same time, the Trump administration took legal action to block its release over claims that it contains classified information. A federal judge on Saturday ruled in Bolton’s favor. Bolton became Trump’s third national security adviser in April 2018. Bolton either resigned or was fired, depending on who you ask, in September 2019 after reportedly clashing with the president on a number of foreign policy issues. House Democrats chose not to subpoena Bolton as a witness during their impeachment inquiry, largely over concerns that it would spark a protracted legal battle. Republicans in the Senate declined to seek his testimony as well. Why there’s debate The flood of claims made in Bolton’s book has prompted strong reactions across the political spectrum. Trump’s allies have been quick to echo his criticisms of Bolton and have attempted to undercut the claims made in the book. Bolton has also received significant criticism from liberals, who say he put personal profit over the country’s interest by using his claims to sell a book rather than sharing them publicly months ago. The accusations could have been especially impactful during the impeachment trial, Democrats argue. Though his testimony may not have compelled GOP senators to remove Trump from office, Bolton could have told his extensive account of the president’s wrongdoing, which may have done severe political damage to Trump, they argue. Sharing his story now — in the midst of a health crisis and a national movement for racial justice — makes the revelations largely irrelevant, some argue. Others say that the book could still be impactful, despite Bolton’s apparent motives. It contains allegations of severe violations by the president that may resonate with voters who are already discontent with his handling of the coronavirus pandemic and protests, some argue. Bolton’s claims that Trump took a conciliatory approach to China, specifically, could undercut the president’s attempts to sell himself as a strong adversary to Beijing. What’s next Bolton’s book is scheduled for release on June 23. Democrats in the House are considering whether to seek testimony from Bolton in light of the new allegations, House Speaker Nancy Pelosi said on Thursday. Perspectives The claims will hurt Republican senators seeking reelection “The ones who really will suffer, deservedly so, from Bolton’s account are the Republican senators who refused to hear his testimony and then voted to acquit (for lack of evidence, some said). Bolton’s book confirms how much harder it would have been for them to let Trump off the hook had a longtime conservative known for copious note-taking been called to testify.” — Jennifer Rubin, Washington Post The accusations are significant, despite Bolton’s self-serving actions “The bottom line is that while Bolton offers a portrait of Trump that is politically and personally self-serving, it is also indispensable, jaw-dropping, and more specific about high-level wrongdoing than the many embittered memoirs and background gripes to journalists that preceded it.” — Susan B. Glasser, New Yorker Bolton’s claims wouldn’t have changed the impeachment saga at all “The key argument that Republican opponents of impeachment made was that lawful behavior by a president, however objectionable, could not be a legitimate basis for impeachment. To the extent it was a valid defense against impeachment over Ukraine, it would have been an equally valid defense against impeachment over anything Bolton says here.” — Ramesh Ponnuru, National Review
+
+The summary has to be returned after a "SUMMARY:" token and ending with a "END OF SUMMARY." token. The summary should be no longer than 200 words.

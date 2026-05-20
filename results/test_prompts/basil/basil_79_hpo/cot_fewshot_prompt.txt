@@ -1,0 +1,193 @@
+You have to summarize the following text preserving the moral framing that the author gave to it.
+
+Please study the following examples of news articles, their moral word extraction, and summaries preserving the moral framing:
+
+Example 1 (Political Ideology: Left):
+Here is the news article:
+
+Donald Trump has blocked the former White House counsel Don McGahn from testifying before Congress about the special counsel report on Russian election interference, prompting sharp criticism and even threats of impeachment.
+
+In a legal opinion released on Monday, the justice department said lawmakers on Capitol Hill cannot compel McGahn, who was subpoenaed by the House judiciary committee, to answer their questions under oath.
+
+“The Department of Justice has provided a legal opinion stating that, based on long-standing, bipartisan, and constitutional precedent, the former counsel to the president cannot be forced to give such testimony, and Mr McGahn has been directed to act accordingly,” the White House press secretary, Sarah Sanders, said in a statement.
+
+Trump must turn over financial records to House, judge rules – live
+
+“This action has been taken in order to ensure that future presidents can effectively execute the responsibilities of the office of the presidency.”
+
+McGahn is a central figure in special counsel Robert Mueller’s report, often standing in the way of Trump’s efforts to obstruct justice.
+According to investigators, McGahn threatened to resign when the president ordered him to have Mueller fired.
+
+McGahn was also dispatched by Trump to convince the former attorney general Jeff Sessions not to recuse himself from overseeing the Russia investigation.
+(Sessions did not heed the president’s demands.)
+
+Travelling to a rally in Pennsylvania, Trump was asked why he was asking McGahn to defy a congressional subpoena.
+“Well, as I understand it, they’re doing that for the office of the presidency, for future presidents,” he replied, according to a pool report.
+“I think it’s a very important precedent.
+And the attorneys say that they’re not doing that for me.
+They’re doing it for the office of the president.
+So we’re talking about the future.”
+
+The White House’s intervention was condemned by Jerry Nadler, the Democratic chairman of the judiciary committee.
+“The Mueller report documents a shocking pattern of obstruction of justice,” he said in a statement.
+“The president acted again and again – perhaps criminally – to protect himself from federal law enforcement.
+
+“Don McGahn personally witnessed the most egregious of these acts.
+President Trump knows this.
+He clearly does not want the American people to hear firsthand about his alleged misconduct, and so he has attempted to block Mr McGahn from speaking in public tomorrow.”
+
+The move is the latest example of the Trump administration’s “disdain for the law”, added Nadler, who said the committee will meet as planned on Tuesday morning and still expects McGahn to appear.
+
+Another Democratic member of the committee, David Cicilline, went further in his criticism, suggesting that impeachment of Trump would be warranted if McGahn did not respond to the subpoena.
+
+“Let me be clear: if Don McGahn doesn’t testify, it is time to open an impeachment inquiry,” he told the MSNBC network.
+“The president has engaged in an ongoing effort to impede our ability find the truth, to collect evidence, to do our work … No one is above the law, including the president of the United States.”
+
+Cicilline admitted he did not know if his view was shared by other members of Democratic leadership but added: “We may well be forced into a position to have to open a formal inquiry in order to facilitate the collection of the evidence that we need to see.”
+
+The justice department’s legal opinion does not prevent McGahn testifying if he so chooses, although it would be potentially at risk to his own career.
+Trump has mused about instructing Republicans to cease dealing with his law firm, Jones Day, the Associated Press reported.
+
+William Barr is acting like Trump's henchman
+
+Matthew Miller, former director of the office of public affairs for the justice department, tweeted: “Just show up and testify, McGahn.
+This isn’t about some garden-variety Congressional-executive branch dispute, but as one of your predecessors described it, a cancer on the presidency.
+Think about your place in history.”
+
+McGahn was subpoenaed by Nadler last month and, under instruction by the White House, failed to meet an initial deadline to appear before the committee.
+Nadler threatened to hold McGahn in contempt of Congress if he did not meet a second deadline of 21 May.
+
+McGahn, who left the White House last year, has increasingly become the subject of Trump’s ire following the release of the redacted Mueller report.
+Last week, the president tweeted he was “never a big fan” of McGahn and suggested it was the former White House counsel, and not Mueller, who was on his chopping block at the time of the investigation.
+
+The Trump administration has repeatedly blocked attempts at oversight by the Democratic-controlled House.
+Last month it instructed the former personnel security director Carl Kline not to testify at a hearing into alleged lapses in White House security clearance procedures.
+Last week the treasury secretary, Steven Mnuchin, refused to comply with a congressional subpoena to hand over Trump’s tax returns.
+
+Nadler’s committee has previously voted to hold the attorney general, William Barr, in contempt for refusing to provide the unredacted Mueller report and underlying evidence to Congress.
+
+STEP 1:
+* obstruction
+* justice
+* criminal
+* misconduct
+* disdain
+* law
+* truth
+* impede
+* above
+* cancer
+* contempt
+
+SUMMARY:
+Donald Trump has blocked former White House counsel Don McGahn from testifying before Congress about the special counsel report on Russian election interference, sparking sharp criticism and even threats of impeachment. The move is the latest example of the Trump administration's "disdain for the law" and an attempt to "impede" the collection of evidence. McGahn is a central figure in the report, having threatened to resign when Trump ordered him to have Mueller fired. Democrats condemned the move, with Jerry Nadler saying it's part of a "shocking pattern of obstruction of justice" and David Cicilline suggesting that impeachment would be warranted if McGahn didn't respond to the subpoena. The Trump administration has repeatedly blocked attempts at oversight, showing a blatant disregard for the "law" and the "truth". END OF SUMMARY.
+
+Example 2 (Political Ideology: Center):
+Here is the news article:
+
+WASHINGTON — President Trump on Monday said the F.B.I. ruined the life of his former national security adviser and said his Democratic opponent for president, Hillary Clinton, suffered no consequences after she lied “many times” to the F.B.I.
+
+Michael T. Flynn, Mr. Trump’s first national security adviser, pleaded guilty on Friday to lying to the F.B.I. when he was questioned early this year about his conversations with the Russian ambassador.
+He was the fourth person charged in the investigation of Robert S. Mueller III, the special counsel appointed to lead an inquiry into Russia’s influence on the 2016 election and possible ties to Trump associates.
+
+As he left for Utah on Monday, the president said he felt “very badly” for Mr. Flynn, whom he fired in February for lying to the vice president about the content of these conversations.
+
+Mr. Trump’s comments Monday on Mr. Flynn come at a time when the special counsel investigation is focusing intensely on the president’s inner circle.
+Mr. Trump once encouraged Mr. Flynn to seek an immunity deal.
+Presidents typically do not weigh in on federal investigations to avoid appearing to influence the outcome.
+
+“I feel badly for General Flynn,” Mr. Trump said on Monday. “I feel very badly.
+He’s led a very strong life and I feel very badly.
+Hillary Clinton lied many times to the F.B.I. Nothing happened to her.
+Flynn lied and they destroyed his life.”
+
+Mr. Trump did not cite specifically what Mrs. Clinton said that he considered a lie.
+
+Mrs. Clinton gave a voluntary interview to the bureau in July 2016 during its investigation into whether she or her aides broke the law by corresponding through a private email server set up for her use as secretary of state.
+A few days later, the F.B.I. director at the time, James B. Comey, recommended no charges be filed against her in the matter.
+
+STEP 1:
+* badly
+* lied
+* destroyed
+
+SUMMARY:
+President Trump expressed sympathy for his former national security adviser, Michael T. Flynn, who pleaded guilty to lying to the F.B.I. about his conversations with the Russian ambassador. Trump felt "very badly" for Flynn, who he fired in February for lying to the vice president. The president contrasted Flynn's situation with that of his Democratic opponent, Hillary Clinton, who he claimed "lied many times" to the F.B.I. during its investigation into her email server, but faced no consequences. Trump argued that Flynn's life was "destroyed" as a result of his lie, while Clinton's dishonesty went unpunished. The president's comments come as the special counsel investigation into Russia's influence on the 2016 election and possible ties to Trump associates is intensifying its focus on his inner circle. END OF SUMMARY.
+
+Example 3 (Political Ideology: Right):
+Here is the news article:
+
+President Trump on Monday called the criminal case against former national security adviser Michael Flynn “very unfair,” claiming he and Hillary Clinton both “lied” to the FBI but only Flynn faced consequences.
+
+The president’s comments, made to reporters as he left Washington for a policy announcement in Utah, saw Trump wading deeper into the Flynn investigation even after a weekend tweet landed the White House in hot water.
+
+On Monday, Trump said he feels “badly” for Flynn, who pleaded guilty on Friday to giving false statements to the FBI about his Russia contacts.
+
+“Hillary Clinton lied many times to the FBI, nothing happened to her. Flynn lied and they destroyed his life,” Trump said. 
+
+The president, without offering specifics, said his 2016 Democratic rival “lied many times” during her FBI interview in early July.
+
+“Nothing happened to her. Flynn lied and it’s like they ruined his life. Very unfair,” Trump said, echoing a weekend tweet in which he asked whether a “double standard” was at play.
+
+Clinton was interviewed by FBI agents as part of the investigation into her exclusive use of a private email system while secretary of state. 
+
+After that interview, then-FBI Director James Comey called her actions extremely careless without recommending criminal charges.
+
+Trump also noted over the weekend that Clinton was not recorded or under oath during that interview.
+
+On Sunday, Sen. Lindsey Graham, R-S.C., suggested Trump might want to think twice before tweeting and commenting on the Russia case. 
+
+“You tweet and comment regarding ongoing criminal investigations at your own peril,” he said on CBS’ “Face the Nation.”
+
+This was after Trump’s account tweeted Saturday: “I had to fire General Flynn because he lied to the Vice President and the FBI. 
+
+He has pled guilty to those lies. 
+
+It is a shame because his actions during the transition were lawful. 
+
+There was nothing to hide!”
+
+That tweet immediately caused problems for the White House, as some legal experts said it potentially exposed the president to obstruction of justice allegations – since, according to the tweet, he would have known Flynn lied to agents when he allegedly asked Comey to lay off the Flynn investigation and later fired Comey. 
+
+Trump said earlier this year that he fired Flynn only for lying to Vice President Pence about the issue.
+
+Trump’s personal lawyer John Dowd later said he was the one who wrote that tweet, saying he “did not mean to break news.”
+
+Dowd attempted to explain Sunday that the tweet was referring to then-acting Attorney General Sally Yates telling White House Counsel Don McGahn in January that Flynn had “given the agents the same story he gave the vice president.”
+
+He also said the agents seemed to think Flynn was confused. 
+
+“All the president knew was that the department was not accusing him of lying,” Dowd said.
+
+Trump over the weekend denied that he asked Comey to stop investigating Flynn.
+
+Sen. Dianne Feinstein, D-Calif., the top Democrat on the Senate Judiciary Committee, said on NBC’s “Meet the Press” on Sunday that the panel has begun to see "the putting together of a case of obstruction of justice" against Trump.
+
+Flynn is now cooperating with Special Counsel Robert Mueller’s investigators in the Russia meddling case, though it’s unclear what exactly he might reveal about Trump and his associates.
+
+
+
+STEP 1:
+* unfair
+* lied
+* destroyed
+* ruined
+* extremely
+* careless
+* shame
+* lawful
+* nothing
+* peril
+* obstruction
+* justice
+
+SUMMARY:
+President Trump claimed the criminal case against Michael Flynn is "very unfair" and that Flynn's life was "ruined" because he lied to the FBI, whereas Hillary Clinton "lied many times" and faced no consequences. Trump's comments sparked controversy, with some legal experts suggesting his tweets could be seen as obstruction of justice. Trump's personal lawyer, John Dowd, attempted to clarify the situation, but Senator Dianne Feinstein stated that the Senate Judiciary Committee is building a case of obstruction of justice against Trump. Meanwhile, Flynn is cooperating with Special Counsel Robert Mueller's investigators in the Russia meddling case. Trump's comments have raised questions about a "double standard" and whether he is trying to influence the investigation. END OF SUMMARY.
+
+Now, here is the target news article to summarize:
+Here is the news article:
+
+WASHINGTON ― President Donald Trump on Monday defended his former national security adviser, Michael Flynn, by invoking his 2016 election opponent, Hillary Clinton. “I feel very badly for Gen. Flynn,” Trump told reporters before leaving for a trip to Utah, saying that Flynn’s life has been “ruined.” Trump then pivoted to Clinton, apparently referring to the FBI’s investigation into her use of a private email server. “Hillary Clinton lied many times to the FBI, and nothing happened to her. Flynn lied, and it destroyed his life, and I think it’s a shame,” Trump said, before again claiming that Clinton “lied many times, [and] nothing happened to her. Flynn lied, and it’s like, it ruined his life. It’s very unfair.” The president this morning says 'I feel badly for General Flynn.' #MorningJoe pic.twitter.com/tBp5aXWhBj — Morning Joe (@Morning_Joe) December 4, 2017 Flynn pleaded guilty on Friday for lying to the FBI in special counsel Robert Mueller’s investigation into possible collusion between Trump’s campaign and Russia, becoming the first former administration official to face charges in the probe. Trump and the White House have long claimed that the investigations into the campaign have nothing to do with Trump himself. Flynn’s indictment, however, makes it increasingly difficult for the president to distance himself. Flynn stepped down in February, saying that he had misled the transition team, including then Vice President-elect Mike Pence, about the extent of his contacts with Russian officials, which included discussing sanctions and the creation of a backchannel with the Kremlin. Trump and his lawyer, John Dowd, now claim that the president already knew about Flynn lying to the FBI, renewing questions of whether Trump obstructed justice in the investigation. In May, Trump told NBC’s Lester Holt that he fired then-FBI Director James Comey with “this Russia thing” in mind. The following month, Comey testified before the Senate that Trump had requested that Comey put an end to the agency’s investigation into Flynn. In an interview with Axios published Monday, Dowd brought out a new defense: Trump isn’t guilty of obstructing justice because he is the president. The “President cannot obstruct justice because he is the chief law enforcement officer under [the Constitution’s Article II] and has every right to express his view of any case,” Dowd said.
+
+(1) First, you identify all the single words that are morally framed. Identify this step as "STEP 1:" and report each word in a new line starting with *
+(2) Finally, you write a summary of the news article. Please preserve as many morally framed words as possible in your summary. The summary has to be returned after a "SUMMARY:" token and ending with a "END OF SUMMARY." token. The summary should be no longer than 200 words.

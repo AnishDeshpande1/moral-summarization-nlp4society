@@ -1,0 +1,39 @@
+You have to summarize the following text preserving the moral framing that the author gave to it.
+
+Here is the news article:
+
+(CNN) Today, the names of so many cities and towns are more closely associated with memorials -- in the aftermath of mass shootings -- than monuments. While many mayors haven't had to face mass shootings, almost all of us have dealt with scores of deaths by guns in our communities. As a result, there is now a grim circle of mayors -- from Las Vegas to Orlando and San Bernardino to Parkland -- who have to lead their people forward in the wake of unthinkable tragedy. It is a task made even more agonizing when these bursts of violence are driven by racist ideology, malice toward immigrants, and hate speech broadcast from the halls of power into the minds of deranged individuals with easy access to military-grade firepower. That is an awesome responsibility, one that will never be solved in the echo chamber of NRA talking points that we are subjected to each time someone with an assault rifle wakes up determined to wreak havoc and destroy lives. And it's why mayors from all sides of the political spectrum -- from big cities to small towns, in states blue and red -- aren't counting on leadership from Washington to confront the deadly nexus between intolerance and a sick obsession with guns. We're taking action ourselves, with a hard focus on empowering young people who are armed only with simple, righteous demands: that we forcefully call out hate speech, and take courageous, meaningful, and lasting steps to keep weapons out of the hands of people who shouldn't have them. When terrible things happen, my first instinct is to think of the people closest to me. At a different time, but in the same places, it could have been my family mourning a needless, devastating loss. There's Gilroy here in my home state, where I have fond childhood memories of visiting the city with my parents. There's Dayton, where my great-grandmother Fanny Shane arrived after courageously fleeing the anti-Semitic violence of Tsarist Russia. She met her future husband -- a fellow Jewish refugee -- there, and they soon married and moved to Los Angeles. And there's El Paso, to which my grandfather, Salvador, was carried across the US-Mexico border as an infant more than a century ago. My bisabuela (great-grand mother) brought him to the States for his own safety after his father was killed during the Mexican Revolution -- a story that is eerily similar to what is being experienced by the Central American migrants arriving at our southern border today. Those great cities, whose mayors I count as friends and trusted colleagues, hold a special place in my history -- where, just a few generations ago, my ancestors first discovered the freedom and sense of belonging that makes our nation exceptional. And today, those cities are also part of a sorrowful fellowship of communities trying to hold a civic spirit together in the wake of extreme gun violence. Gilroy, Dayton, and El Paso aren't far away -- they're part of a common conscience that runs through my American story and so many others. And to keep that story going, we need to involve and take seriously the concerns and ideas of young people. I was reminded of that truth at the inaugural US Conference of Mayors Youth Summit late last month, where mayors from across the country convened in Los Angeles to hear from the young people who are the leaders of today and tomorrow. Some of those young leaders were members of my own Youth Council to End Gun Violence, which I formed after the mass shooting at Marjory Stoneman Douglas High School. The students meet regularly at City Hall to advise me on issues of gun safety -- and how to better engage young people around a generation-defining challenge that is a matter of life and death. Our first class created a provocative campaign to draw attention to the absurdity of normalized gun violence. We just selected a new cohort, and they'll fight just as hard against the idea of accepting a status quo that creates a market for bulletproof backpacks sized for elementary school. The young people who inspire and move me every day don't want anything different than what the first Americans in my family were looking for when they arrived here: a chance to grow up free, healthy and unburdened by fear of violence. We will face adversity -- and may at times feel discouraged, heartbroken, even paralyzed by news alerts that can take our emotions in a thousand different directions over the course of a day. But like these young people, we have to keep reaching for what seems beyond our grasp, so that one day we may all hold a nation where everyone belongs and feels safe. That is the inheritance I want to leave to my daughter. And I owe that to Fanny, Salvador, and everyone who risked -- and will continue risking -- everything to build our country into the greatest nation on Earth.
+
+The author used the following morally framed words in the article:
+* shootings
+* deaths
+* tragedy
+* agonizing
+* violence
+* driven
+* malice
+* speech
+* broadcast
+* access
+* wreak
+* destroy
+* intolerance
+* obsession
+* action
+* empowering
+* call
+* steps
+* keep
+* happen
+* mourning
+* loss
+* killed
+* formed
+* shooting
+* advise
+* fight
+* accepting
+* feel
+* feels
+
+Please preserve as many morally framed words as possible in your summary. The summary has to be returned after a "SUMMARY:" token and ending with a "END OF SUMMARY." token. The summary should be no longer than 200 words.

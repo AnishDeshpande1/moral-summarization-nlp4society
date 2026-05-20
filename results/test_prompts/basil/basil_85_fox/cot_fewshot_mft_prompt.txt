@@ -1,0 +1,123 @@
+You have to summarize the following text preserving the moral framing that the author gave to it, with particular focus on the specific moral foundations highlighted in the text.
+
+Please study the following examples of news articles, their moral word extraction, and summaries preserving the moral framing:
+
+Example 1 (Political Ideology: Left, Moral Foundations: Fairness/Cheating):
+Here is the news article:
+
+President Donald Trump used Twitter to tear into social media companies Saturday morning, claiming they were “totally discriminating against Republican/Conservative voices.”
+
+But he does have a solution. Sort of.
+And it involves both sides.
+
+Trump tweeted that “too many voices are being destroyed, some good and some bad, and that cannot be allowed to happen.” So, he added: “Let everybody participate, good & bad, and we will all just have to figure it out!”
+
+Trump accused social media giants of “closing down the opinions of many people on the RIGHT, while at the same time doing nothing to others.”
+
+“Censorship is a very dangerous thing & impossible to police,” he added, before embarking on a now familiar rant about “fake news” CNN and MSNBC — which he admitted to sometimes watching, but “just with a grain of salt.”
+
+Trump did not reference any person in particular in his tirade against the tech companies, although a host of them have in recent weeks banned conspiracy theorist Alex Jones and his website Infowars from their platforms.
+
+STEP 1:
+* discriminating
+* destroyed
+* bad
+* dangerous
+* fake
+
+SUMMARY:
+President Donald Trump took to Twitter to accuse social media companies of "totally discriminating" against Republican and Conservative voices. He claimed that "too many voices are being destroyed, some good and some bad," and that censorship is a "very dangerous thing" that is "impossible to police." Trump's solution is to "let everybody participate, good & bad, and we will all just have to figure it out!" He also ranted against "fake news" outlets CNN and MSNBC, which he admits to watching "with a grain of salt." The tweets come after several social media companies banned conspiracy theorist Alex Jones and his website Infowars from their platforms. Trump's comments imply that social media companies are unfairly silencing certain voices, and that this "censorship" is a threat to free expression. END OF SUMMARY.
+
+Example 2 (Political Ideology: Center, Moral Foundations: Care/Harm, Fairness/Cheating):
+Here is the news article:
+
+From his home at Mar-a-Lago, Donald J. Trump stirred up new controversy this week in the Republican presidential primary — and new alarm among party leaders that the front-runner for the nomination will drive away women from candidates running farther down the ballot in the fall.
+
+All week, Mr. Trump has slowly escalated a war of words on Twitter against Senator Ted Cruz of Texas, his main competition in the Republican race, based on an ad by a “super PAC” started by people who want to stop the New York developer from getting the nomination.
+The spot featured an old nude photo shoot of Mr. Trump’s wife Melania Trump, a former model, posing on his jet.
+
+Mr. Cruz has no affiliation with the super PAC, and he has denounced the ad.
+But Mr. Trump has continued to express disbelief.
+After threatening to “spill the beans” on Mr. Cruz’s wife, Heidi Cruz, who suffered a bout of depression years ago, he retweeted a post from someone who made a side-by-side photo comparison of Mrs. Cruz at an unflattering angle, and Mrs. Trump.
+
+On Wednesday, Mr. Cruz repeatedly quoted from the movie “The American President” to defend his wife, as she held an event and faced questions about Mr. Trump’s threats.
+But that was before Mr. Trump’s Twitter post with the pictures of the two women.
+And Mr. Cruz had finally had enough.
+
+Calling Mr. Trump a “sniveling coward,” Mr. Cruz told his rival to “leave Heidi the hell alone.”
+
+It’s useful to remember the news media outrage in 2012 when Todd Akin, running as the Republican nominee for Senate in Missouri, defended what he called “legitimate rape,” a remark that was overwhelmingly offensive to women.
+Under pressure from news outlets, the Republican Party tried to cauterize the wound that Mr. Akin had created by isolating him.
+
+Spouses are generally seen as off limits.
+And the responses to Mr. Trump’s comments among news media critics, over time, have been far more subdued.
+
+STEP 1:
+* controversy
+* alarm
+* war
+* disbelief
+* threatening
+* unflattering
+* defend
+* sniveling
+* coward
+* offensive
+* isolating
+* subdued
+
+SUMMARY:
+Donald Trump, the front-runner for the Republican presidential nomination, has sparked controversy and alarm among party leaders with his recent Twitter attacks on Senator Ted Cruz's wife, Heidi Cruz. Trump's threatening and sniveling behavior has been widely criticized, with many calling him a coward for targeting Mrs. Cruz. The attacks, which included a side-by-side photo comparison of Mrs. Cruz and Trump's wife Melania, have been deemed offensive and unflattering. Cruz has defended his wife, quoting from the movie "The American President" and telling Trump to "leave Heidi the hell alone." The incident has drawn comparisons to the 2012 controversy surrounding Todd Akin's comments on "legitimate rape," which were also widely condemned as offensive. END OF SUMMARY.
+
+Example 3 (Political Ideology: Right, Moral Foundations: Authority/Subversion):
+Here is the news article:
+
+Donald Trump announced Tuesday that he is bowing out as the moderator for a Republican presidential debate later this month, after most candidates in the field opted not to attend.
+
+Trump said he wanted to make sure there's no "conflict of interest" in case he decides to run as a third-party candidate next year.
+He cast his decision as a way to keep his options open.
+
+He said later on Fox News that he's still considering an independent bid.
+"I am looking at it, if the Republicans choose the wrong candidate, which is a possibility, and if the economy continues to be bad, which I think it will be," Trump said.
+
+The real estate mogul and reality TV star said he wants to make sure Republicans pick the "right" candidate -- he said he still plans to make an endorsement despite his threatened third-party run.
+
+Though the Dec. 27 debate technically is sponsored by Newsmax, Trump quickly became the face of it after he was named as moderator.
+
+While former House Speaker Newt Gingrich and former Pennsylvania Sen. Rick Santorum agreed to attend early on, other Republican candidates subsequently bowed out.
+
+Some expressed concern that Trump, who previously flirted with a possible Republican presidential bid before shelving the idea, would not definitively rule out running as a third-party candidate.
+
+Trump on Tuesday specifically cited Republican National Committee Chairman Reince Priebus' concerns about his involvement.
+He said he does not expect Newsmax to follow through with the debate now that he's out.
+
+"We would have done very well.
+We would have gotten great ratings," Trump said, voicing his trademark confidence.
+
+Trump first announced his debate decision in a written statement Tuesday afternoon.
+
+"It is very important to me that the right Republican candidate be chosen to defeat the failed and very destructive Obama administration, but if that Republican, in my opinion, is not the right candidate, I am not willing to give up my right to run as an independent candidate," he said.
+"Therefore, so that there is no conflict of interest within the Republican Party, I have decided not to be the moderator of the Newsmax debate.
+... I must leave all of my options open because, above all else, we must make America great again!"
+
+Trump went on to praise Gingrich and Santorum for "having the courage, conviction, and confidence" to agree to the debate.
+
+STEP 1:
+* right
+* wrong
+* failed
+* destructive
+* courage
+* conviction
+* confidence
+
+SUMMARY:
+Donald Trump has announced that he will no longer moderate the Republican presidential debate, citing a potential "conflict of interest" if he decides to run as a third-party candidate. Trump wants to keep his options open, ensuring that the "right" Republican candidate is chosen to defeat the "failed and very destructive" Obama administration. If not, he may run as an independent candidate. Trump praised Newt Gingrich and Rick Santorum for having the "courage, conviction, and confidence" to participate in the debate. Despite his withdrawal, Trump still plans to make an endorsement, emphasizing the importance of choosing a candidate who will "make America great again!" Trump's decision was influenced by Republican National Committee Chairman Reince Priebus' concerns about his involvement. END OF SUMMARY.
+
+Now, here is the target news article to summarize:
+Here is the news article:
+
+President Trump on Saturday took aim at social media tech giants for “discriminating” against Republicans and conservatives -- saying that “too many voices are being destroyed” and promising that his administration would not allow it to happen. “Who is making the choices, because I can already tell you that too many mistakes are being made. Let everybody participate, good & bad, and we will all just have to figure it out!” he said at the end of a lengthy post on Twitter. Both Facebook and Twitter have been under fire for allegedly censoring accounts, while ignoring rules violations by liberal and left-wing users. Trump in the past has referred to alleged “shadow banning” by Twitter as “discriminatory and illegal.” Trump uses Twitter on a daily basis, and his campaign was credited for its use of Facebook as one of the ways it secured its victory in November 2016. While conservatives have complained for years about what they say is discrimination by the tech giants, the controversy escalated last month when Vice News reported the issue, saying that accounts from top Republicans including GOP Chairwoman Ronna McDaniel were being given limited visibility on Twitter. Twitter at the time said it was an algorithmic glitch that has since been fixed. "We do not shadow ban. You are always able to see the tweets from accounts you follow (although you may have to do more work to find them, like go directly to their profile). And we certainly don’t shadow ban based on political viewpoints or ideology," the tech giant said in a statement. "We do rank tweets and search results. We do this because Twitter is most useful when it’s immediately relevant. These ranking models take many signals into consideration to best organize tweets for timely relevance," the statement said. "We must also address bad-faith actors who intend to manipulate or detract from healthy conversation." A Facebook executive apologized last month for mistreating Diamond and Silk -- two pro-Trump personalities who have long claimed they are being censored by the platform, but the company has also denied being biased against conservatives. “We badly mishandled our communications with them,” Monika Bickert, head of Global Policy Management at Facebook, said at a House Judiciary Committee hearing. But that has done little to calm the controversy, and Trump on Saturday accused social media sites of “closing down the opinions of many people on the right, while at the same time doing nothing to others.” "Too many voices are being destroyed, some good & some bad, and that cannot be allowed to happen," he tweeted. He went on to call censorship “a dangerous thing” and then took a swipe at CNN and MSNBC, saying that while they are “fake,” he does not demand that offending content be taken off air. “If you are weeding out Fake News, there is nothing so Fake as CNN & MSNBC, & yet I do not ask that their sick behavior be removed,” he tweeted. “I get used to it and watch with a grain of salt, or don’t watch at all..” 
+
+(1) First, you identify all the single words that are morally framed, focusing especially on the dimensions of Fairness/Cheating. Identify this step as "STEP 1:" and report each word in a new line starting with *
+(2) Finally, you write a summary of the news article. Please preserve as many morally framed words as possible, particularly focusing on the moral dimensions of Fairness/Cheating in your summary. The summary has to be returned after a "SUMMARY:" token and ending with a "END OF SUMMARY." token. The summary should be no longer than 200 words.

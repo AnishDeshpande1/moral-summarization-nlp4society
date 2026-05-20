@@ -1,0 +1,236 @@
+You have to summarize the following text preserving the moral framing that the author gave to it, with particular focus on the specific moral foundations highlighted in the text.
+
+Please study the following examples of news articles, their moral word extraction, and summaries preserving the moral framing:
+
+Example 1 (Political Ideology: Left, Moral Foundations: Authority/Subversion, Care/Harm, Fairness/Cheating):
+Here is the news article:
+
+(CNN) -- The period since September 11, 2001, will never be described by any historian as a golden age of U.S. foreign policy.
+I know. I have just written a history on it, and it's not pretty.
+
+Since 9/11 attack, the United States has swung unsettlingly from one set of flawed policies to another.
+First, the unilateralist excess of the first term of the Bush administration; its signature error was the invasion of Iraq.
+Then, the reactive swing of Barack Obama, toward disengagement and dithering.
+In a tragic irony, a war in Iraq may someday also be seen as the enduring symbol of his errors.
+
+Some of the nation's problems come from nearly 15 years of a heightened sense of vulnerability.
+We're frayed and on edge and have let dysfunctional politics get ahead of national interests.
+But others are tied to human errors that can be fixed.
+The genius of the U.S. system is that it is built to change.
+
+Obama finds himself at the end of a string of errors of judgment and execution.
+These have contributed to damaged relations or crises ranging from those in Syria and Iraq to Libya to Egypt and Israel, from Ukraine to Afghanistan to Africa.
+They include crises at our own borders and strained relations with our allies over NSA eavesdropping.
+
+But Obama is not condemned to further errors.
+What he does need to produce constructive change however, is a quality rare and vital in any leader: the ability to recognize when one has made mistakes.
+
+Who to turn to as a model?
+
+The best example may well be George W. Bush himself.
+Because whatever mistakes Bush made in office -- and they were many -- in his second term, Bush recognized the urgent need for change and instituted a sweeping reordering of his administration, its policies and priorities.
+
+He replaced his chief of staff, secretaries of state, defense and Treasury, as well as his national security adviser, and he modified the role of the powerful vice president.
+He also changed his own engagement on key issues like Iraq, instituting weekly conference calls with his leaders on the ground.
+And he rewrote key policies, launching the surge in Iraq, initiating the "light footprint" approach to fighting terror later adopted by Obama and responding to the financial crisis.
+In region after region, the results were better, including on social issues like fighting AIDS in Africa, in relations with allies, in results in war zones or in deals like the India nuclear accord.
+
+He also actively sought to bring new, outside perspectives into his second term team, a stark contrast to the Obama approach.
+Cabinet secretaries in Bush's second term, such as Defense Secretary Robert Gates (later Obama's defense secretary) or Treasury Secretary Henry Paulson or new military commanders he appointed had not been part of his inner circle.
+
+Bush's willingness to admit errors and embrace change may have stemmed from his own failures and struggles earlier in life: as a congressional candidate, in the oil business, as a baseball team owner and even with alcohol.
+To get ahead, he had to acknowledge his shortcomings and fix them.
+
+He also turned this ability to see his way through tough times into a plus in another important role he embraced, that of a kind of coach-in-chief.
+Obama is seen as aloof from his Cabinet.
+All the Bush Cabinet members with whom I spoke told a strikingly different story.
+
+Ambassador James Jeffrey, who served as deputy national security adviser to Bush and then as Obama's Iraq ambassador, tells a story of one top Bush economic official having a moment of crisis and doubt in the darkest days of the financial catastrophe.
+Jeffrey listened as Bush bucked up his aide, restoring his confidence, telling him he was the best person for the job, letting him know he would back him on key decisions.
+This was in stark contrast to the White House-centric Obama approach that has left Cabinet officers feeling sidelined.
+
+It is easy to dismiss such stories when viewed in the context of politics or the very real, and in some cases historically significant, errors of the Bush years.
+Still, if President Obama is to begin to grow in office, he would be wise to look beyond politically inspired caricatures to see what worked for the man who occupied the Oval Office before him.
+
+Obama has his own life experience, of course.
+He will never be like Bush, in ways both good and bad.
+But what he may see is that at a moment of comparable foreign policy strains and dysfunctions, Bush was not content to give up or to punt to the future or play the blame game.
+
+He knew that in the American system, big change is sometimes needed and that it would never happen unless he did what no one else could do: Stand up to himself -- the President of the United States -- and demand he admit his mistakes and lead administration-wide change from within.
+
+STEP 1:
+* flawed
+* errors
+* tragic
+* dysfunctional
+* genius
+* rare
+* vital
+* mistakes
+* urgent
+* shortcomings
+* failures
+* struggles
+* shortcomings
+* aloof
+* crisis
+* doubt
+* darkest
+* historically
+
+SUMMARY:
+Since 9/11, the US has swung from one set of flawed policies to another, from unilateralist excess to reactive disengagement. The nation's problems stem from a heightened sense of vulnerability and human errors that can be fixed. The US system is built to change, but it requires leaders who can recognize their mistakes and lead constructive change. Obama's errors in judgment and execution have contributed to damaged relations and crises worldwide. However, he can learn from George W. Bush, who recognized his mistakes and instituted sweeping changes in his second term. Bush's ability to admit errors and embrace change stemmed from his own failures and struggles. Obama would be wise to look beyond political caricatures and learn from Bush's example, standing up to himself and demanding change from within. END OF SUMMARY.
+
+Example 2 (Political Ideology: Center, Moral Foundations: Authority/Subversion, Fairness/Cheating):
+Here is the news article:
+
+WASHINGTON — The special counsel investigating Russian interference in the 2016 election disputed on Friday a report that said President Trump had directed Michael D. Cohen, his longtime lawyer and fixer, to lie to Congress about his role in negotiations to build a skyscraper in Moscow.
+
+The rare public statement by a spokesman for the special counsel, Robert S. Mueller III, challenged the facts of an article published by BuzzFeed News on Thursday saying that Mr. Cohen had told prosecutors about being pressured by the president before his congressional testimony.
+
+“BuzzFeed’s description of specific statements to the special counsel’s office, and characterization of documents and testimony obtained by this office, regarding Michael Cohen’s congressional testimony are not accurate,” said the spokesman, Peter Carr.
+
+Before Mr. Carr’s statement, the BuzzFeed report led to a flurry of reactions by senior members of Congress who said that the allegations, if true, could be grounds for initiating impeachment proceedings against Mr. Trump.
+
+The president himself responded on Twitter late Friday, calling the special counsel’s statement “a very sad day for journalism, but a great day for our Country!”
+
+A proven effort by Mr. Trump to pressure a witness to commit perjury would be one of the most damning revelations so far in the investigation into Russia’s attempts to sabotage the 2016 presidential election and could be the cornerstone of a case that the president obstructed justice to keep investigators at bay.
+
+Both the White House and lawyers for Mr. Trump vigorously denied the BuzzFeed report even before the special counsel’s office weighed in.
+
+“Two words sum it up better than anything anybody else can say, and that is ’categorically false,’” the White House press secretary, Sarah Huckabee Sanders, told reporters on Friday.
+
+BuzzFeed News maintained that its report was accurate, its editor, Ben Smith, said after Mr. Mueller’s office disputed the account.
+“We stand by our reporting and the sources who informed it, and we urge the Special Counsel to make clear what he’s disputing,” Mr. Smith said on Twitter.
+
+The statement by Mr. Carr, the special counsel’s spokesman, was unusual because it appeared to be the first time he had publicly challenged the facts of a news media account that had generated significant attention for its revelations about the president.
+
+The New York Times has not independently confirmed the BuzzFeed report.
+One person familiar with Mr. Cohen’s testimony to the special counsel’s prosecutors said that Mr. Cohen did not state that the president had pressured him to lie to Congress.
+
+Representative Adam B. Schiff, Democrat of California and chairman of the House Intelligence Committee, said that his panel would investigate the BuzzFeed report and was “already working to secure additional witness testimony and documents related to the Trump Tower Moscow deal and other investigative matters.”
+
+If true, Mr. Schiff said, the allegations “would constitute both the subornation of perjury as well as obstruction of justice.”
+
+Representative Joaquin Castro of Texas, another Democratic member of the House Intelligence Committee, wrote in a tweet that “if the @BuzzFeed story is true, President Trump must resign or be impeached.”
+
+Senator Mark Warner of Virginia, the top Democrat on the Senate Intelligence Committee, told reporters on Friday that the panel expected Mr. Cohen to be back to testify privately in early February.
+
+The report added another jolt to a chaotic week for the White House, which has had to fend off questions about recent revelations that F.B.I. counterintelligence agents began investigating Mr. Trump in 2017 and that Mr. Trump has tried to conceal the details from senior administration officials about his interactions with President Vladimir V. Putin of Russia.
+
+In a December court filing, prosecutors working for Mr. Mueller described how Mr. Cohen had repeatedly lied to Congress both about the length of negotiations over the Trump Tower Moscow deal and about Mr. Trump’s involvement in the project.
+
+Mr. Cohen had told lawmakers that the negotiations ended in January 2016 — before the first presidential primaries — and were never discussed extensively among executives of the Trump Organization.
+In fact, according to prosecutors, the discussions continued as late as June 2016, after Mr. Trump was the presumptive Republican presidential nominee.
+
+They also said Mr. Cohen discussed the progress of the Moscow project with Mr. Trump more frequently than he had told the committee and had briefed members of Mr. Trump’s family about the negotiations.
+
+When he appeared in court to plead guilty to lying to Congress, Mr. Cohen said he had concealed his interactions with Russian officials and the fact that he asked Mr. Trump to travel to Russia to promote the deal because he wanted to support Mr. Trump’s “political messaging.”
+
+That day, Mr. Trump defended his role in the Trump Tower Moscow discussions, brushing aside concerns that he was advancing his business interests at the time he was hoping to become president.
+“There was a good chance that I wouldn’t have won, in which case I would have gotten back into the business, and why should I lose lots of opportunities?” he told reporters.
+
+Mr. Cohen drafted his statement to Congress in August 2017 along with Steven Ryan, his lawyer at the time, according to people familiar with how the testimony was put together.
+Mr. Ryan was working with lawyers for the Trump family as part of a joint defense agreement.
+
+At least one of Mr. Trump’s personal lawyers saw Mr. Cohen’s congressional testimony before he delivered it in August and October 2017, according to people with knowledge of the discussions.
+
+Mr. Cohen initially repeated his false statements about the Moscow tower to prosecutors working for Mr. Mueller after he pleaded guilty in August to campaign finance violations and financial crimes.
+But he corrected himself during subsequent interviews and proved credible, the special counsel’s office said in a December sentencing memo.
+
+Mr. Cohen said he initially lied because he did not want to contradict his congressional testimony, prosecutors said.
+Subsequently, he took care “not to overstate his knowledge or the role of others in the conduct under investigation” and provided “useful information” about his contacts with “persons connected to the White House” in 2017 and 2018, the special counsel’s filing said.
+
+That truthfulness was a departure from Mr. Cohen’s pattern of deception throughout his professional life, according to a separate sentencing memo by federal prosecutors in New York, filed at the same time as Mr. Mueller’s.
+Driven by greed, they said, he “repeatedly used his power and influence for deceptive ends.”
+
+Mr. Cohen was sentenced in December to three years in prison for lying to Congress, campaign finance violations and financial crimes.
+He said he took full responsibility for his crimes, but said he acted out of blind loyalty to Mr. Trump, who he said “led me to choose a path of darkness over light.”
+
+During his nomination hearing this week to become attorney general, William P. Barr was asked if the president would have committed a crime if he had coached a witness to testify falsely — or not to testify at all.
+
+“Yes,” Mr. Barr said. “Under an obstruction statute, yes.”
+
+STEP 1:
+* Sad
+* False
+* Categorically
+* Chaotic
+* Deceptive
+* Greed
+* Darkness
+* Blind
+* Loyalty
+* Light
+
+SUMMARY:
+The special counsel, Robert S. Mueller III, disputed a BuzzFeed News report that claimed President Trump directed his lawyer, Michael D. Cohen, to lie to Congress about a Moscow skyscraper project. The report sparked a flurry of reactions from senior members of Congress, who said that if true, it could be grounds for impeachment. However, the special counsel's office stated that the report was "not accurate." The White House and Trump's lawyers also denied the report, calling it "categorically false." The investigation into Russian interference in the 2016 election has revealed that Cohen repeatedly lied to Congress about the project, and that Trump had tried to conceal details about his interactions with Russian officials. The report adds to a chaotic week for the White House, with Democrats calling for further investigation and even impeachment if the allegations are true. END OF SUMMARY.
+
+Example 3 (Political Ideology: Right, Moral Foundations: Authority/Subversion, Care/Harm):
+Here is the news article:
+
+Acting Homeland Security Deputy Secretary Ken Cuccinelli was publicly harassed Wednesday by Maryland Gov. Martin O’Malley when the two ran into each other at a bar in Washington, D.C.
+
+They crossed paths at an Irish pub, The Dubliner, where they were both attending an event for graduates of Gonzaga College High School.
+Rather than being able to enjoy his Guinness, however, Cuccinelli was subject to a “passion-laced and shame-invoking tirade” by O’Malley over the Trump administration’s immigration policies.
+
+Martin O’Malley just drove Ken Cuccinelli out of the Dubliner in DC w/ a passion-laced and shame-invoking tirade on behalf of immigrant refugee children!!! — Siobhan Houton Arnold (@siobhanphilly) November 27, 2019
+
+O’Malley was so fired up Cuccinelli said his neck veins were “bulging.”
+
+“As I walked up to one of the bars among several in The Dubliner to order my Guinness, I heard screaming and cussing behind me to my left, which I did not immediately take notice of other than the fact that it was louder than everything else in the pub,” Cuccinelli said, recalling the incident in a statement to Fox News.
+
+“When I turned to look I saw O'Malley and he was obviously screaming at me.
+For a moment I thought he was trying to be funny, as we've met before, which I thought was strange.
+It was immediately clear that he was cursing and screaming for real, to the point of veins bulging on his neck.”
+
+Cuccinelli said O’Malley “also inspired one or two of his (apparent) buddies to join in the cussing assault.”
+
+Attempting to deescalate the situation, Cuccinelli left to go order at a different bar within the pub, but O’Malley followed him.
+
+“At which point O'Malley pushed his way through the small group to confront me face to face, still cursing me, the President, and my Italian ancestry and he got right up in my face, bumped up against me and invited me to take a swing at him,” he said, adding that he told O’Malley ‘one of us has to rise above this, and it's obviously not going to be you.’
+
+Cuccinelli then spotted a friend, who is a Democrat, and that person approached the men and “forced some friendly conversation in between Martin and I.”
+
+After a brief exchange, Cuccinelli went to another part of the bar to see his high school friends.
+
+“Martin's behavior was as sad as it was shocking,” Cuccinelli said in the statement.
+“I learned on the other side of the pub that Martin's screaming was so loud that people on the other side of the pub heard him.
+I also learned from others who have known Martin for years that while his behavior was shocking, it was not new to them.”
+
+He described some of the criticism from O’Malley as “odd” given that “they applied to President Obama's policies, a fact he clearly did not appreciate me pointing out (without screaming it, btw).”
+
+O’Malley seemed to have no regrets about his behavior, telling The Washington Post in a text: “We all let him know how we felt about him putting refugee immigrant kids in cages — certainly not what we were taught by the Jesuits at Gonzaga.”
+
+Cuccinelli, O’Malley also told the Post, is “the son of immigrant grandparents who cages children for a fascist president.”
+
+This is not the first time a Trump administration official has been publicly harassed, but it is likely the first time it's been done by such a prominent Democrat.
+
+Worse still, the left celebrated the harassment.
+
+Senior Adviser to Democrat presidential candidate Pete Buttigieg appears to be happy that a Democrat harassed a member of the Trump admin in public to the point where the official had to leave the event
+
+A presidential campaign promoting harassment of officials is disgusting https://t.co/B24u8YTaCn pic.twitter.com/g7DK8EqfPl — Ryan Saavedra (@RealSaavedra) November 29, 2019
+
+STEP 1:
+* shameful
+* screaming
+* cussing
+* assault
+* sad
+* shocking
+* fascist
+* disgusting
+* harassment
+
+SUMMARY:
+Maryland Gov. Martin O'Malley publicly harassed Acting Homeland Security Deputy Secretary Ken Cuccinelli at a Washington, D.C. bar, delivering a "passion-laced and shame-invoking tirade" over the Trump administration's immigration policies. Cuccinelli described O'Malley's behavior as "sad" and "shocking," with "veins bulging" on his neck as he cursed and screamed. O'Malley's "cussing assault" was so loud that people on the other side of the pub heard him. Despite Cuccinelli's attempts to deescalate the situation, O'Malley continued to harass him, even following him to another part of the bar. The left celebrated the harassment, with a senior adviser to Democrat presidential candidate Pete Buttigieg expressing happiness over the incident. This "disgusting" behavior promotes a culture of harassment and is unacceptable.
+END OF SUMMARY.
+
+Now, here is the target news article to summarize:
+Here is the news article:
+
+WHAT THEY SAID: No tears for Tobin, but some for al-Qaeda OTTAWA - The plight of prisoners and politicians has been weighing heavily on the minds of editorial writers and pundits in and around the nation's capital. It's been a week now since Jean Chretien's Cabinet shuffle and the dramatic departure of Brian Tobin -- seven days during which the print pundits have had time to ponder his actions. And what they have said about him has not been pretty. Still, before discussing the antics of Mr. Tobin and the elevation of Ottawa's John Manley to the status of golden boy, there is the controversial, and more pressing, matter of the plight of the al-Qaeda fighters imprisoned at a U.S. military base in Cuba. "Even thugs deserve humane treatment," reads the headline of the Ottawa Citizen editorial. "Conditions for detainees in Guantanamo Bay are harsh: wire-mesh cells 2.4 by 1.8 metres, a sleeping mat and blanket, a bucket for a toilet," writes the Citizen. "But that doesn't necessarily make them inhumane. On the other hand, U.S. assurances that it's treating the prisoners humanely don't mean that's so." The Citizen argues that Canada should "insist" the United States "allow a 'competent tribunal' to decide the legal status of the detainees, as required by the Geneva Convention. ... That might make it more difficult to find Osama bin Laden and his remaining thugs. But laws keep us from behaving like them." The Sudbury Star agrees: "This conflict must now move to its next stage. A tribunal, formed by the United Nations, must address the issue of these captured fighters and determine how they will be dealt with." Editorial writers at The Daily Press in Timmins disagree. In an editorial appearing this week, the newspaper is unequivocal in its U.S. support. "We can't help but wonder if some politicians and civil rights advocates are overreacting when it comes to the treatment of captured al-Qaeda and Taliban fighters by the United States. "For the U.S. military to treat the prisoners any differently might very well imperil American lives," reads the editorial. "If Osama bin Laden is still alive, we suspect he is giving the civil rights advocates a hearty thumbs up." No one, however, is giving a hearty thumbs up to Mr. Tobin. Rather, his sudden departure from politics provoked much criticism. "No tears will be shed in this corner since Brian Tobin's departure represents his third consecutive betrayal of voters," Walter Robinson, federal director of the Canadian Taxpayers Federation and a regular columnist in The Ottawa Sun wrote yesterday. "Mr. Tobin seems content to be back home on the Rock playing with his bag of marbles and collecting his parliamentary pension." In the Citizen, columnist Rosa Harris-Adler wrote a devastatingly sarcastic piece, ridiculing Mr. Tobin's assertion that he was leaving for family reasons. She chronicles what she imagines his first week post-politics would have been like: "Day One: Brian decides it's finally time to learn how to diaper the baby. With some effort, he pins the flailing child down on the changing table only to discover there are no diapers in the house. Brian gives up in confusion." By Day Seven, however, Ms. Harris-Adler notes that though Mr. Tobin has finally mastered the diapering process, his "baby" who is 15 years old is "not amused." And Michel Vastel, a columnist in Le Droit, writes a goodbye to his "favourite Newfie." He says that Mr. Tobin walked on too many toes, and made too many enemies in Ottawa. He also wrote that while the former minister may have been one of the longest-serving MPs, he was also one of the most "unstable," noting his career was like a "rough sea," with highs and lows and never calm. The vitriol continues. In The Kingston Whig-Standard Paul Schliesmann writes, "Canadians don't need the kind of politician Brian Tobin had become -- flighty, opportunistic and lacking in commitment to his job as a Member of Parliament." The pundits in Ottawa, it seems, have saved all of their praise for John Manley, the new Deputy Prime Minister and a hometown favourite. "[Mr. Manley] has proven to be a sensible manager who Canadians can trust," says a Sun editorial, observing that he emerged from the Sept. 11 crisis as a "sensible, serious voice in Cabinet." And the Citizen calls Mr. Manley "competent and scrupulously honest." "Mr. Manley's continuing responsibility for national security, along with the added clout he gains as Deputy Prime Minister, bodes well for the country."
+
+(1) First, you identify all the single words that are morally framed, focusing especially on the dimensions of Authority/Subversion, Care/Harm, Fairness/Cheating, Loyalty/Betrayal. Identify this step as "STEP 1:" and report each word in a new line starting with *
+(2) Finally, you write a summary of the news article. Please preserve as many morally framed words as possible, particularly focusing on the moral dimensions of Authority/Subversion, Care/Harm, Fairness/Cheating, Loyalty/Betrayal in your summary. The summary has to be returned after a "SUMMARY:" token and ending with a "END OF SUMMARY." token. The summary should be no longer than 200 words.

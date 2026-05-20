@@ -1,0 +1,132 @@
+You have to summarize the following text preserving the moral framing that the author gave to it.
+
+Please study the following examples of news articles and their summaries preserving the moral framing:
+
+Example 1 (Political Ideology: Left):
+Here is the news article:
+
+Mary Cheney, the younger sister of Wyoming U.S Senate candidate Liz Cheney (R) and daughter of former Vice President Dick Cheney, criticized her sister's opposition to same-sex marriage in a Friday Facebook post, the New York Times reports.
+
+According to the Times, Mary Cheney, who is openly gay and married her partner, Heather Poe, in Washington, DC last year, took to Facebook to rebuke her sister's remarks.
+
+“For the record, I love my sister, but she is dead wrong on the issue of marriage," she wrote.
+
+"Freedom means freedom for everyone," she continued.
+"That means that all families — regardless of how they look or how they are made — all families are entitled to the same rights, privileges and protections as every other."
+
+On Friday, Liz Cheney issued a statement voicing her opposition to same-sex marriage.
+
+"I am strongly pro-life and I am not pro-gay marriage," she said.
+“I believe the issue of marriage must be decided by the states, and by the people in the states, not by judges and not even by legislators, but by the people themselves."
+
+The elder Cheney daughter is challenging Sen. Mike Enzi (R-Wyo.) in next year's Republican primary.
+Previously, she had spoken out against the military's former "don't ask, don't tell" policy.
+
+According to The Hill, Cheney sought to clarify her position after an alleged poll in Wyoming said she "supports abortion and aggressively promotes gay marriage."
+
+Her opposition also puts her at odds with her father, who offered support for gay marriage in 2009.
+
+"I think that freedom means freedom for everyone," the former vice president said.
+"As many of you know, one of my daughters is gay and it is something we have lived with for a long time in our family.
+I think people ought to be free to enter into any kind of union they wish."
+
+SUMMARY:
+
+Mary Cheney, the openly gay sister of Wyoming U.S. Senate candidate Liz Cheney, publicly criticized her sister's opposition to same-sex marriage on Facebook. Mary Cheney emphasized that "freedom means freedom for everyone" and that all families, regardless of their composition, deserve equal rights and protections. In contrast, Liz Cheney stated that she is "not pro-gay marriage" and believes the issue should be decided by the states and their people, rather than by judges or legislators. This stance puts Liz Cheney at odds with her father, former Vice President Dick Cheney, who has expressed support for gay marriage. The moral framing of this story highlights the importance of equality, freedom, and family values. It also raises questions about the role of personal relationships and experiences in shaping one's political beliefs and values.
+
+END OF SUMMARY.
+
+Example 2 (Political Ideology: Center):
+Here is the news article:
+
+Republican officials in Alabama staunchly defended their party’s Senate nominee, Roy S. Moore, after a report that he had made sexual advances toward four teenage girls when he was in his 30s.
+
+The Washington Post reported that, in early 1979, Mr. Moore, then a district attorney and later the chief justice of the state Supreme Court, had approached a 14-year-old, eventually kissing her, undressing her, touching her over her bra and underpants, and guiding her hand to touch him over his underwear.
+
+The paper found three other women who said they had been pursued by Mr. Moore around the same time, when they were between 16 and 18 years old.
+The Post interviewed more than 30 people in reporting its account.
+
+Mr. Moore told The Post that the allegations were “completely false and are a desperate political attack by the National Democrat Party and the Washington Post on this campaign.”
+He is set to face Doug Jones, a Democrat, in a special election next month.
+
+The story was met with immediate backlash from Republicans in Alabama, several of whom dismissed the women’s stories out of hand.
+Some called the article a partisan plot, even as the reporters behind it described in detail how they had uncovered the story and corroborated the allegations.
+Here are some of the officials’ responses.
+
+‘Total contrived media garbage’
+
+That’s how John Skipper, 66, a former chairman of the Mobile County Republican Party, characterized the claims, speaking to The New York Times.
+
+He said that he and other Alabama Republicans would continue to support their candidate and echoed Mr. Moore’s assertion that the Democratic Party had been behind the story.
+
+“Most of them will not be shocked,” he said, “and will rather be expecting these shenanigans being pulled by the Democrats as standard operating procedure.”
+
+Alabama’s state auditor, Jim Ziegler, told The Washington Examiner that the women’s claims were “much ado about nothing” and said that Mr. Moore had done nothing “immoral or illegal.”
+(Alabama law, both in 1979 and now, finds that someone who is 19 or older and has sexual contact with someone between the ages of 12 and 16 is guilty of second-degree sex abuse.)
+
+Mr. Ziegler sought to justify Mr. Moore’s actions by comparing him to the biblical Joseph, saying, “Mary was a teenager and Joseph was an adult carpenter.
+They became parents of Jesus.”
+
+“If they believe this man is predatory, they are guilty of allowing him to exist for 40 years,” he said.
+“I think someone should prosecute and go after them.
+You can’t be a victim 40 years later, in my opinion.”
+
+Daniel Dale, a reporter for The Toronto Star, contacted multiple Republican officials in the state and kept a running report of their responses to the story.
+
+Jerry Pow, the party chairman for Bibb County, told Mr. Dale that he’d back Mr. Moore even if the candidate had committed a sex crime.
+
+“I would vote for Judge Moore because I wouldn’t want to vote for Doug,” he said.
+“I’m not saying I support what he did.”
+
+Others, including the party chairmen for Covington County, William Blocker, and Mobile County, John Skipper, dismissed the story as a Democratic trick.
+Mr. Blocker said that he would not change his mind even if there was proof that Mr. Moore was guilty.
+
+Riley Seibenhener, the party chairman in Geneva County, told Mr. Dale that if the allegations were true, he would not support the candidate.
+But he also said that Mr. Moore was not guilty of “forcible rape.”
+
+“I know that 14-year-olds dont’t make good decisions,” he said.
+
+SUMMARY:
+
+Republican officials in Alabama are defending their party's Senate nominee, Roy S. Moore, despite allegations that he made sexual advances towards four teenage girls when he was in his 30s. The Washington Post reported that Moore, then a district attorney, kissed, undressed, and touched a 14-year-old girl, and pursued three other girls between 16 and 18 years old. Instead of condemning Moore's actions, many Alabama Republicans dismissed the women's stories as "total contrived media garbage" and a "partisan plot" by the Democratic Party. Some even justified Moore's actions, comparing him to the biblical Joseph and claiming that the women's claims were "much ado about nothing." These officials' responses are morally reprehensible, as they prioritize party loyalty over the well-being and dignity of the alleged victims. By defending Moore's actions, they are perpetuating a culture of victim-blaming and enabling sexual misconduct.
+
+END OF SUMMARY.
+
+Example 3 (Political Ideology: Right):
+Here is the news article:
+
+Call it Cheney versus Cheney.
+
+Mary Cheney, one of ex-Vice President Dick Cheney’s two daughters, has taken to Facebook to blast her older sibling, Elizabeth, a Wyoming Senate candidate, for the latter’s stance on same-sex marriage, The New York Times is reporting.
+
+Mary Cheney, openly lesbian and married to Heather Poe since 2012, reportedly posted to her personal page on the social media site: “For the record, I love my sister, but she is dead wrong on the issue of marriage.
+
+“Freedom means freedom for everyone.
+That means that all families — regardless of how they look or how they are made — all families are entitled to the same rights, privileges and protections as every other.”
+
+The Times reports Liz Cheney on Friday first articulated her position on the controversial subject, saying it should be something for voters to decide on a state-by-state basis, and not a matter for “judges” or “legislators.”
+
+“I am not pro-gay marriage,” Liz Cheney reportedly said.
+“I believe the issue of marriage must be decided by the states, and by the people in the states, not by judges and not even by legislators, but by the people themselves.”
+
+Her sister replied by pulling no punches.
+
+“It’s not something to be decided by a show of hands,” Mary Cheney reportedly wrote on her personal Facebook page, concluding her internecine post by saying, “Please like and share if you agree.”
+
+Elizabeth Cheney declared in July she plans to challenge incumbent Senator Mike Enzi, also a Republican, in the state’s Republican primary.
+The election is slated for 2014.
+
+Former Vice President Cheney has publicly voiced support for same-sex marriage and, mirroring Elizabeth’s stance, has reportedly said the matter should be decided on a state-by-state basis.
+
+SUMMARY:
+
+In a rare display of sibling disagreement, Mary Cheney, an openly lesbian woman, has publicly criticized her sister Elizabeth Cheney, a Wyoming Senate candidate, for her stance on same-sex marriage. Mary Cheney took to Facebook to express her disagreement, stating that "freedom means freedom for everyone" and that all families deserve the same rights and protections. Elizabeth Cheney, on the other hand, believes that the issue of marriage should be decided by the states and their people, rather than by judges or legislators. Mary Cheney countered that it's not something to be decided by a "show of hands." The disagreement is particularly notable given that their father, former Vice President Dick Cheney, has publicly voiced support for same-sex marriage and also believes it should be decided on a state-by-state basis. The moral framing of this story highlights the importance of standing up for what is right, even if it means disagreeing with family members.
+
+END OF SUMMARY.
+
+Now, here is the target news article to summarize:
+Here is the news article:
+
+Mary Cheney, the younger sister of Liz Cheney, a Wyoming Senate candidate, sharply criticized her sister’s stance on same-sex marriage and urged her own Facebook friends to share the message. Posting on Facebook on Friday evening, Mary Cheney, who is gay and married her longtime partner last year, wrote: “For the record, I love my sister, but she is dead wrong on the issue of marriage.” Their father, former Vice President Dick Cheney, supports same-sex marriage, and the younger Cheney echoed some of his language on the issue when she added, “Freedom means freedom for everyone.” “That means that all families — regardless of how they look or how they are made — all families are entitled to the same rights, privileges and protections as every other,” Mary Cheney wrote. Earlier Friday, Liz Cheney revealed her position on same-sex marriage, a topic she has kept relatively quiet about since declaring her candidacy in July against incumbent Senator Mike Enzi, Republican of Wyoming. “I am not pro-gay marriage,” Liz Cheney said in a statement responding to an apparent push poll against her in Wyoming. “I believe the issue of marriage must be decided by the states, and by the people in the states, not by judges and not even by legislators, but by the people themselves.” That position — deferring to the will of the voters on a state-by-state basis — may represent something of a compromise between total support or opposition. But it did little to placate her sister. “It’s not something to be decided by a show of hands,” Mary Cheney wrote. And to emphasize that she was not shying away from drawing attention to her view, Mary Cheney concluded her Facebook post: “Please like and share if you agree.” In an e-mail, Mary Cheney declined to comment further on her sister’s position, saying she would let her Facebook post speak for itself. The Cheney family dispute mirrors the broader disagreement among Republicans on same-sex marriage. Less than a decade after George W. Bush and Dick Cheney won re-election in part thanks to conservative enthusiasm over enshrining traditional marriage into law, some in the party believe they are losing voters, particularly younger ones, over an issue on which public opinion has changed rapidly. But other Republicans believe traditional marriage is a pillar of family values, and in some cases are reluctant to abandon their social conservative base on the issue. Liz Cheney’s stance underlines the degree to which full-throated support for same-sex marriage, even in a libertarian-leaning state like Wyoming, still poses a political risk in a Republican primary. Mr. Enzi opposes legalizing same-sex marriage.
+
+The summary has to be returned after a "SUMMARY:" token and ending with a "END OF SUMMARY." token. The summary should be no longer than 200 words.

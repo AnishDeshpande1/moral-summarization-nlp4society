@@ -1,0 +1,175 @@
+You have to summarize the following text preserving the moral framing that the author gave to it.
+
+Please study the following examples of news articles, their moral word extraction, and summaries preserving the moral framing:
+
+Example 1 (Political Ideology: Left):
+Here is the news article:
+
+Lynette Lederman says she does not want the president to visit Pittsburgh and will rely on local political leadership
+
+A former president of the synagogue in Pittsburgh where 11 people were murdered on Saturday has said Donald Trump would not be welcome in the city and labelled the president a “purveyor of hate speech”.
+
+'Stop the words of hate,' Pittsburgh rabbi urges US leaders as survivors speak
+
+Lynette Lederman, of the Tree of Life Synagogue in Squirrel Hill, told CNN on Monday she would rely on local political leadership in the aftermath of the mass shooting and did not want the president to visit the city.
+
+“We have people who stand by us, who believe in values – not just Jewish – but believe in values, and those are not the values of this president and I do not welcome him to Pittsburgh,” she said.
+
+The comments followed an open letter signed by a coalition of local Jewish leaders and published by the Pittsburgh chapter of Bend The Arc, a progressive advocacy group, that also called for the president to avoid the city.
+
+“President Trump, you are not welcome in Pittsburgh until you fully denounce white nationalism,” the letter states.
+
+Trump, who labelled the shooting an “evil antisemitic attack”, is set to visit Pittsburgh on Tuesday, the White House confirmed on Monday afternoon.
+
+As the administration continues to face criticism over the president’s polarizing rhetoric in the aftermath of the Pittsburgh shooting and a series of attempted bombings against prominent Democrats and critics of Trump last week, Trump used Twitter again on Monday morning to label the media as “the true Enemy of the People”.
+
+“There is great anger in our Country caused in part by inaccurate, and even fraudulent, reporting of the news.
+The Fake News Media, the true Enemy of the People, must stop the open & obvious hostility & report the news accurately & fairly,” Trump tweeted, shortly after Lederman spoke to CNN.
+
+The 11 victims of the shooting were named as suspected gunman Robert Bowers was charged with 29 federal crimes, including 11 counts of murdering victims exercising their religious beliefs.
+The shooter, who traded gunfire with law enforcement officers during the massacre, was released from hospital on Monday and is expected in court later in the day .
+
+The victims, eight men and three women, ranged in age from 54 to 97 and included a husband and wife, two brothers, professors, a dentist and a physician.
+
+The Anti-Defamation League [ADL] said the shooting was the most deadly attack against Jewish people in America and came amid an increase in antisemitic attacks in the US.
+The ADL reported a 57% rise in reported incidents of antisemitic harassment and violence in 2017.
+
+“We are seeing an environment in which antisemitism has moved from the margins to the mainstream as political candidates and people in public life literally repeat the rhetoric of white supremacists,” Jonathan Greenblatt, ADL chief executive, told ABC News on Sunday.
+
+As the faith leadership in Squirrel Hill prepared funeral arrangements for those killed, the Tree of Life rabbi Jeffrey Myers told CNN on Monday he would welcome the president to the city.
+
+“I don’t really foist blame upon any person,” Myers said.
+“Hate does not know religion, race, creed political party – it’s not a political issue in any way shape or form.
+Hate does not know any of those things, it exists in all people.”
+
+Squirrel Hill: mourners find 'safety in solidarity' as they grieve after shooting
+
+He added: “The president of the United States is always welcome to come.
+I’m a citizen, he’s my president.
+He’s certainly welcome.”
+
+A number of fundraising efforts have driven financial support to the grieving community.
+A crowdfunding campaign called Muslims Unite for Pittsburgh Synagogue has raised more than $90,000 while a fundraiser led by a graduate student in Washington had taken in nearly $545,000 by Monday morning.
+
+Three congregations were conducting Sabbath services at Tree of Life when the attack began on Saturday morning.
+The shooter is accused of tearing through the building with an AR-15 assault style rifle and three handguns, shouting antisemitic slurs.
+He also appears to have posted antisemitic rants on social media shortly before the attack.
+
+According to law enforcement officials speaking anonymously to the Associated Press, the suspect purchased all of his firearms legally and was licensed to carry firearms.
+
+The suspect, who had worked as a long-haul trucker, injured six other people, including four police officers as they exchanged gunfire.
+He had no previous criminal record, authorities said.
+
+STEP 1:
+* Hate
+* Evil
+* Enemy
+* Fake
+* Fraudulent
+* Hostility
+* Anger
+* Inaccurate
+* Open
+* Obvious
+* Polarizing
+* Antisemitic
+* White
+* Nationalism
+* Supremacists
+* Margins
+* Mainstream
+* Rhetoric
+
+SUMMARY:
+A former president of the Tree of Life Synagogue in Pittsburgh, Lynette Lederman, has labelled Donald Trump a "purveyor of hate speech" and does not want him to visit the city after the mass shooting that killed 11 people. Lederman believes the president's values are not aligned with those of the community, which are based on "values, not just Jewish, but values". A coalition of local Jewish leaders has also called for Trump to fully denounce white nationalism before visiting Pittsburgh. The shooting is considered the most deadly attack against Jewish people in America, amid a rise in antisemitic attacks in the US. The community is grieving and has received financial support from various fundraising efforts. Trump has been criticized for his polarizing rhetoric and has labelled the media as "the true Enemy of the People". END OF SUMMARY.
+
+Example 2 (Political Ideology: Center):
+Here is the news article:
+
+Donald J. Trump has dropped plans to moderate a presidential debate, but don’t expect him to fade quietly from the political scene.
+
+In fact, Republicans may have gotten more than they bargained for by shunning him.
+Mr. Trump’s statement on Tuesday that he was bowing out of the Newsmax debate seemed certain to open the door to another round of “I just might …” threats from the real estate mogul.
+
+“It is very important to me that the right Republican candidate be chosen to defeat the failed and very destructive Obama administration,” Mr. Trump said in his statement.
+“But if that Republican, in my opinion, is not the right candidate, I am not willing to give up my right to run as an independent candidate.”
+
+Mr. Trump drew considerable criticism from the Republican establishment for moderating a presidential debate while openly saying that he might still run if he was displeased with the candidates.
+Rather than go ahead with the debate and declare that he will not run — Mr. Trump has flirted with running for president several times since the 1980s but has always decided not to follow through — he chose to drop the debate.
+
+“I must leave all of my options open because, above all else, we must make America great again!” he said.
+
+Mr. Trump was facing a potentially awkward task: moderating a debate that only two candidates said they would attend.
+Newt Gingrich and Rick Santorum were the only two Republicans who agreed to participate.
+Mitt Romney, Rick Perry, Michele Bachmann, Jon M. Huntsman Jr. and Ron Paul all declined, putting a big dent in Mr. Trump’s self-proclaimed status as Republican kingmaker.
+
+Mr. Trump issued the following exclamation-point laden statement through his lawyer, Michael Cohen.
+
+STEP 1:
+* failed
+* destructive
+* right
+* important
+* willing
+* great
+
+SUMMARY:
+Donald Trump has dropped his plans to moderate a presidential debate, but he's not going away quietly. In a statement, Trump emphasized the importance of choosing the "right" Republican candidate to defeat the "failed" and "destructive" Obama administration. However, he threatened to run as an independent candidate if he's not pleased with the chosen candidate, saying "I must leave all of my options open because, above all else, we must make America great again!" Trump's decision comes after facing criticism from the Republican establishment for considering a presidential run while moderating a debate. The debate itself was facing a setback, with only two candidates, Newt Gingrich and Rick Santorum, agreeing to participate. Trump's move may have opened the door to another round of threats to run as an independent candidate. END OF SUMMARY.
+
+Example 3 (Political Ideology: Right):
+Here is the news article:
+
+President Trump on Saturday took aim at social media tech giants for “discriminating” against Republicans and conservatives -- saying that “too many voices are being destroyed” and promising that his administration would not allow it to happen.
+
+“Who is making the choices, because I can already tell you that too many mistakes are being made. 
+Let everybody participate, good & bad, and we will all just have to figure it out!” he said at the end of a lengthy post on Twitter.
+
+Both Facebook and Twitter have been under fire for allegedly censoring accounts, while ignoring rules violations by liberal and left-wing users. 
+Trump in the past has referred to alleged “shadow banning” by Twitter as “discriminatory and illegal.”
+
+Trump uses Twitter on a daily basis, and his campaign was credited for its use of Facebook as one of the ways it secured its victory in November 2016.
+
+While conservatives have complained for years about what they say is discrimination by the tech giants, the controversy escalated last month when Vice News reported the issue, saying that accounts from top Republicans including GOP Chairwoman Ronna McDaniel were being given limited visibility on Twitter. 
+Twitter at the time said it was an algorithmic glitch that has since been fixed.
+
+"We do not shadow ban. 
+You are always able to see the tweets from accounts you follow (although you may have to do more work to find them, like go directly to their profile). 
+And we certainly don’t shadow ban based on political viewpoints or ideology," the tech giant said in a statement.
+
+"We do rank tweets and search results. 
+We do this because Twitter is most useful when it’s immediately relevant. 
+These ranking models take many signals into consideration to best organize tweets for timely relevance," the statement said. 
+"We must also address bad-faith actors who intend to manipulate or detract from healthy conversation."
+
+A Facebook executive apologized last month for mistreating Diamond and Silk -- two pro-Trump personalities who have long claimed they are being censored by the platform, but the company has also denied being biased against conservatives.
+
+“We badly mishandled our communications with them,” Monika Bickert, head of Global Policy Management at Facebook, said at a House Judiciary Committee hearing.
+
+But that has done little to calm the controversy, and Trump on Saturday accused social media sites of “closing down the opinions of many people on the right, while at the same time doing nothing to others.”
+
+"Too many voices are being destroyed, some good & some bad, and that cannot be allowed to happen," he tweeted.
+
+He went on to call censorship “a dangerous thing” and then took a swipe at CNN and MSNBC, saying that while they are “fake,” he does not demand that offending content be taken off air.
+
+“If you are weeding out Fake News, there is nothing so Fake as CNN & MSNBC, & yet I do not ask that their sick behavior be removed,” he tweeted. 
+“I get used to it and watch with a grain of salt, or don’t watch at all..”
+
+
+STEP 1:
+* discriminatory
+* illegal
+* bad
+* fake
+* sick
+* dangerous
+
+SUMMARY:
+President Trump accused social media giants of "discriminating" against Republicans and conservatives, claiming that "too many voices are being destroyed" and promising that his administration would not allow it to happen. He argued that "bad" and "good" voices should be allowed to participate, and that it's up to individuals to "figure it out." Trump has previously referred to alleged "shadow banning" by Twitter as "discriminatory and illegal." The controversy escalated last month when top Republicans, including GOP Chairwoman Ronna McDaniel, claimed their accounts were being given limited visibility on Twitter. Trump called censorship "a dangerous thing" and took a swipe at CNN and MSNBC, saying they are "fake" but he doesn't demand that their content be removed. He emphasized that he can "get used to it" and watch with a "grain of salt." END OF SUMMARY.
+
+Now, here is the target news article to summarize:
+Here is the news article:
+
+BERKELEY HEIGHTS, N.J. — President Trump said on Saturday that conservative voices were being unfairly censored on social media, hinting that he might intervene if his allies’ accounts continued to be shut down. “Social Media is totally discriminating against Republican/Conservative voices,” Mr. Trump wrote on Twitter, saying that “censorship is a very dangerous thing.” “Speaking loudly and clearly for the Trump Administration, we won’t let that happen,” he added. Social media companies, facing pressure from lawmakers and users over their role in the rise of misinformation and partisan division, have promised to step up their enforcement practices. They have banned a number of pages and accounts in recent weeks for being involved in activity intended to disrupt the midterm elections, and almost all of the major platforms removed content from Alex Jones, the far-right conspiracy theorist, this month over what they called hateful and violent speech. After the content from Mr. Jones and his website, Infowars, was removed, he issued a plea to Mr. Trump to block the companies’ actions and “come out before the midterms and make the censorship the big issue.” In the same video appeal, Mr. Jones urged Mr. Trump to “point out that the communist Chinese have penetrated and infiltrated” the American election system and are “way, way worse than the Russians.” Minutes after his tweets on Saturday morning about social media, the president — who has long had an affinity for conspiracy theories — appeared to do just that. “All of the fools that are so focused on looking only at Russia should start also looking in another direction, China,” Mr. Trump wrote. “But in the end, if we are smart, tough and well prepared, we will get along with everyone! Mr. Trump’s tweets on Saturday, sent from his golf club in Bedminster, N.J., were not the first time he has accused social media companies of discriminating against Republicans. Last month, he joined with prominent conservatives who have seized on the heightened enforcement of guidelines and the concept of shadow banning on Twitter — making social media posts invisible to everyone except the posters themselves — as proof of biased attacks on their views. Twitter has said that it does not shadow ban users, although it has struggled to define what its policies against hate speech are. In the case of Mr. Jones, it did not initially join the other major platforms in removing his content, and has since taken relatively minor steps against him. Mr. Jones has had his posts and videos on his personal account and on Infowars severely restricted or removed by Apple, Facebook, Google and Spotify. Twitter, which initially said Mr. Jones and Infowars had not violated its policies, later suspended the two accounts for a week for violating rules against inciting violence. In his tweets on Saturday, Mr. Trump urged social media companies to “let everybody participate, good & bad,” saying that while networks like CNN and MSNBC might be “fake news,” he does not “ask that their sick behavior be removed.” Yet Mr. Trump has waged relentless attacks on news coverage that he does not like, and has long expressed hostility toward traditional press freedoms. He has vowed to “open up” the nation’s libel laws, even though those statutes are in fact state, not federal, laws. 
+
+(1) First, you identify all the single words that are morally framed. Identify this step as "STEP 1:" and report each word in a new line starting with *
+(2) Finally, you write a summary of the news article. Please preserve as many morally framed words as possible in your summary. The summary has to be returned after a "SUMMARY:" token and ending with a "END OF SUMMARY." token. The summary should be no longer than 200 words.

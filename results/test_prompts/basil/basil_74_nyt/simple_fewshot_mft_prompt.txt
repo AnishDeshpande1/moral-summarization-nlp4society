@@ -1,0 +1,154 @@
+You have to summarize the following text preserving the moral framing that the author gave to it, with particular focus on the specific moral foundations highlighted in the text.
+
+Please study the following examples of news articles and their summaries preserving the moral framing:
+
+Example 1 (Political Ideology: Left, Moral Foundations: Care/Harm):
+Here is the news article:
+
+Kathy Griffin Apologizes For Controversial Images Of Bloodied Trump Head
+
+This feels like an “America’s Next Top Model” challenge gone so horribly wrong.
+
+Kathy Griffin has made a career out of shocking her public by telling stories of Lindsay Lohan’s fire crotch and simulating oral sex with Anderson Cooper on CNN, but she took things to a whole new level with a controversial photo shoot.
+
+Shot by celebrity photographer and director Tyler Shields, the comedian stares the camera down in one photo, as she holds what resembles the bloody head of President Donald Trump.
+
+“Kathy is all about pushing the limits and she went above and beyond on this one.
+Now lets just hope she stays out of jail,” a representative for Shields told HuffPost.
+
+In other (and considerably less gory) photos shot by Shields, Griffin poses by the pool in a revealing leather getup as a man holding a camera stands above her.
+
+According to New York Magazine writer Yashar Ali, Griffin claims that the image is an “expression of art” inspired by Trump’s comments about former Fox News correspondent Megyn Kelly having “blood coming out of her eyes” and “out of her — wherever.”
+
+After news of the photo shoot broke, Griffin took to Twitter to explain her motivations behind the image and reiterate that she does not condone violence in any way.
+She does, however, condone “mocking the Mocker in Chief.”
+
+UPDATE - May 30, 10 p.m.: Kathy Griffin issued a formal apology for the controversial images on Twitter.
+
+“I went way too far,” she said in a video on the social media site.
+
+UPDATE - May 30, 5:20 p.m.: Hours after Kathy Griffin’s photo shoot with a fake bloody Donald Trump head made the internet rounds, the official Twitter account for the U.S. Secret Service has issued a statement.
+
+A Secret Service representative confirmed to HuffPost that the following tweets were in direct response to the controversial image.
+
+“On it! @SecretService has a robust protective intelligence division that monitors open source reporting & social media to evaluate threats,” the tweets read.
+“Threats made against @SecretService protectees receive the highest priority of all of our investigations,” with the hashtag #ProtectionNeverRests.
+
+SUMMARY:
+
+Kathy Griffin, a comedian known for her provocative humor, sparked outrage with a photo shoot featuring a bloody, severed head resembling President Donald Trump. The images, taken by celebrity photographer Tyler Shields, were meant to be an "expression of art" inspired by Trump's previous comments about a female journalist. Griffin claimed she was "mocking the Mocker in Chief" and did not condone violence. However, she later issued a formal apology on Twitter, admitting she "went way too far." The U.S. Secret Service also responded, stating that they take threats against their protectees, including the President, very seriously. The incident highlights the importance of considering the impact of one's actions on others, as Griffin's attempt at humor was widely perceived as offensive and disturbing. It also underscores the need for accountability and self-reflection, as Griffin ultimately acknowledged her mistake and apologized. END OF SUMMARY.
+
+Example 2 (Political Ideology: Center, Moral Foundations: Authority/Subversion):
+Here is the news article:
+
+Donald J. Trump on Tuesday assailed Justice Ruth Bader Ginsburg of the Supreme Court for speaking out on the presidential race, calling her disdainful remarks about his candidacy “highly inappropriate” and suggesting that she owed other justices an apology.
+
+Mr. Trump’s remarks came in a telephone interview with The Times two days after Justice Ginsburg was quoted as saying she was frightened about what the nation would look like if he were elected.
+
+“I can’t imagine what this place would be — I can’t imagine what the country would be — with Donald Trump as our president,” Justice Ginsburg told The Times in an interview published Sunday.
+“For the country, it could be four years.
+For the court, it could be — I don’t even want to contemplate that.”
+She even joked ruefully about moving to New Zealand.
+
+Mr. Trump, the presumptive Republican nominee, said he found those remarks unbefitting a member of the high court.
+
+“I think it’s highly inappropriate that a United States Supreme Court judge gets involved in a political campaign, frankly,” Mr. Trump said.
+“I think it’s a disgrace to the court and I think she should apologize to the court.
+I couldn’t believe it when I saw it.”
+
+He continued: “That she should be saying that?
+It’s so beneath the court for her to be making statements like that.
+It only energizes my base even more.
+And I would hope that she would get off the court as soon as possible.”
+
+Mr. Trump also said he expected to announce his choice of a running mate by Friday, winding down a process that has been closely watched as in all likelihood the most significant decision he will make in his campaign.
+
+“I have five candidates, plus two, two that are unknown to anybody,” Mr. Trump said from Chicago, where he was raising money for his campaign.
+
+“I will be making a decision over the next three- to four-day period of time, and I think it will be a decision that will be a very good decision for a lot of people,” he added.
+
+Mr. Trump said that he was not basing his vice-presidential selection on fund-raising prowess or potential, and indicated that he had had enough experience with many of those he has been considering for the job that their tryouts on the campaign trail would not necessarily be determinative.
+
+“I’ve been with these people for a long time — I know them,” Mr. Trump said, specifically invoking Gov. Chris Christie of New Jersey and Newt Gingrich, the former House speaker.
+“Christie was excellent yesterday and Newt is excellent.” Mr. Trump will appear on Tuesday night in Indiana with Gov. Mike Pence, who has risen in the estimation of many of the nominee’s advisers.
+
+Mr. Trump said his decision was largely coming down to instinct.
+“A lot of is gut. A lot of it is,” he said.
+“My whole life has been about gut.”
+
+He also suggested that he would consider polling in states like heavily Democratic Connecticut, which he again said he believed he could put in play in November.
+
+Asked for quick thoughts about each of the candidates he is known to be considering, Mr. Trump played along.
+
+Governor Christie? “Strong,” he said.
+
+Retired Lt. Gen. Mike Flynn? “A patriot.”
+
+Senator Joni Ernst of Iowa? “A terrific, exciting person.”
+
+Governor Pence? “Solid as a rock.”
+
+And Mr. Gingrich? “Newt is Newt. He’s a good guy.”
+
+SUMMARY:
+
+Donald Trump has criticized Justice Ruth Bader Ginsburg for speaking out against his presidential candidacy, calling her remarks "highly inappropriate" and suggesting that she owes an apology to the Supreme Court. Trump believes that a Supreme Court justice should not get involved in a political campaign, and that Ginsburg's comments were unbefitting of the high court. Trump's remarks come after Ginsburg expressed her concerns about what the country would look like if Trump were elected, even joking about moving to New Zealand. Trump's criticism of Ginsburg is seen as an attempt to undermine her credibility and independence. Meanwhile, Trump also discussed his plans to announce his running mate by Friday, saying that his decision would be based on instinct rather than fundraising prowess.
+
+The moral framing of this article suggests that Trump's criticism of Ginsburg is an attempt to silence and discredit a respected member of the Supreme Court, and that his actions are an affront to the independence and integrity of the judiciary. Trump's behavior is portrayed as inappropriate and disrespectful, and his comments are seen as an attempt to undermine the credibility of a respected public figure.
+
+END OF SUMMARY.
+
+Example 3 (Political Ideology: Right, Moral Foundations: Fairness/Cheating):
+Here is the news article:
+
+President Trump on Saturday took aim at social media tech giants for “discriminating” against Republicans and conservatives -- saying that “too many voices are being destroyed” and promising that his administration would not allow it to happen.
+
+“Who is making the choices, because I can already tell you that too many mistakes are being made. 
+Let everybody participate, good & bad, and we will all just have to figure it out!” he said at the end of a lengthy post on Twitter.
+
+Both Facebook and Twitter have been under fire for allegedly censoring accounts, while ignoring rules violations by liberal and left-wing users. 
+Trump in the past has referred to alleged “shadow banning” by Twitter as “discriminatory and illegal.”
+
+Trump uses Twitter on a daily basis, and his campaign was credited for its use of Facebook as one of the ways it secured its victory in November 2016.
+
+While conservatives have complained for years about what they say is discrimination by the tech giants, the controversy escalated last month when Vice News reported the issue, saying that accounts from top Republicans including GOP Chairwoman Ronna McDaniel were being given limited visibility on Twitter. 
+Twitter at the time said it was an algorithmic glitch that has since been fixed.
+
+"We do not shadow ban. 
+You are always able to see the tweets from accounts you follow (although you may have to do more work to find them, like go directly to their profile). 
+And we certainly don’t shadow ban based on political viewpoints or ideology," the tech giant said in a statement.
+
+"We do rank tweets and search results. 
+We do this because Twitter is most useful when it’s immediately relevant. 
+These ranking models take many signals into consideration to best organize tweets for timely relevance," the statement said. 
+"We must also address bad-faith actors who intend to manipulate or detract from healthy conversation."
+
+A Facebook executive apologized last month for mistreating Diamond and Silk -- two pro-Trump personalities who have long claimed they are being censored by the platform, but the company has also denied being biased against conservatives.
+
+“We badly mishandled our communications with them,” Monika Bickert, head of Global Policy Management at Facebook, said at a House Judiciary Committee hearing.
+
+But that has done little to calm the controversy, and Trump on Saturday accused social media sites of “closing down the opinions of many people on the right, while at the same time doing nothing to others.”
+
+"Too many voices are being destroyed, some good & some bad, and that cannot be allowed to happen," he tweeted.
+
+He went on to call censorship “a dangerous thing” and then took a swipe at CNN and MSNBC, saying that while they are “fake,” he does not demand that offending content be taken off air.
+
+“If you are weeding out Fake News, there is nothing so Fake as CNN & MSNBC, & yet I do not ask that their sick behavior be removed,” he tweeted. 
+“I get used to it and watch with a grain of salt, or don’t watch at all..”
+
+
+SUMMARY:
+
+President Trump accused social media giants of discriminating against Republicans and conservatives, claiming that "too many voices are being destroyed" and promising that his administration would not allow it to happen. He argued that both Facebook and Twitter have been censoring accounts, while ignoring rules violations by liberal and left-wing users. Trump's criticism comes after reports of alleged "shadow banning" by Twitter, which the company denies. The President's concerns are rooted in the idea that social media platforms are stifling free speech and promoting a biased narrative. He believes that all voices, both good and bad, should be allowed to participate in online discourse, rather than being silenced by the tech giants. Trump's stance is rooted in a moral imperative to protect free speech and promote a fair and open online environment.
+
+END OF SUMMARY.
+
+Now, here is the target news article to summarize:
+Here is the news article:
+
+Trump Lashes Out at Kathy Griffin and Democrats WASHINGTON — President Trump assailed Democrats and a television comedian on Wednesday in his latest Twitter blasts since returning from an overseas trip in which he had largely abstained from the sort of combative social media postings that helped propel him to the Oval Office and have gotten him in trouble ever since. The president castigated Kathy Griffin, the celebrity comic and author, for posing for a video showing her holding what looks like the severed and bloodied head of Mr. Trump. The video touched off a storm of protests from people on all sides of the political spectrum, which forced Ms. Griffin to apologize, and CNN announced that it would fire her from the annual New Year’s Eve program she has co-hosted. In a statement later in the day, the first lady, Melania Trump, questioned Ms. Griffin’s sanity. “As a mother, a wife, and a human being, that photo is very disturbing,” she said. “When you consider some of the atrocities happening in the world today, a photo opportunity like this is simply wrong and makes you wonder about the mental health of the person who did it.” The Trumps had the support of the daughter of the woman the president beat in last year’s election, among others. Ms. Griffin went online on Tuesday night to express regret. “I sincerely apologize,” she said in a video. “I’m just now seeing the reaction of these images. I’m a comic. I crossed the line. I move the line, I cross it. I went way too far. The image is too disturbing. I understand how it offends people. It wasn’t funny. I get it.” She said she had asked the photographer to pull the images. “I beg for your forgiveness,” she continued. “I went too far. I made a mistake and I was wrong.” She did not address Mr. Trump specifically in her video. CNN, which has enlisted Ms. Griffin to host New Year’s Eve programming alongside Anderson Cooper for the last decade, announced on Wednesday that she would no longer appear. Mr. Cooper distanced himself, as well. Mr. Trump also lashed out at Democrats in Congress whom he accused of trying to squelch testimony involving the investigation into Russian meddling in last year’s election. Shortly after a “Fox and Friends” segment reporting that Democrats no longer want to hear testimony from Carter Page, a onetime Trump campaign adviser, Mr. Trump wrote that it was all part of a “witch hunt” against him. “So now it is reported that the Democrats, who have excoriated Carter Page about Russia, don’t want him to testify,” he wrote. “He blows away their case against him & now wants to clear his name by showing ‘the false or misleading testimony by James Comey, John Brennan …’ Witch Hunt!” In a letter to the House Intelligence Committee reported by Fox and other news organizations, Mr. Page wrote: “I have learned from your Committee staff on this Memorial Day holiday that I might not be immediately afforded the opportunity to address the false or misleading testimony by James Comey, John Brennan, et al. as per our previously scheduled appointment for next week. In the interest of finally providing the American people with some accurate information at long last, I hope that we can proceed with this straight dialogue soon.” Mr. Page did not list what testimony he considered false by Mr. Comey, who was fired by Mr. Trump as director of the F.B.I., or Mr. Brennan, the former director of the C.I.A., who stepped down when President Barack Obama left office in January. But Mr. Page urged the committee “to investigate the growing evidence of collusion between Clinton campaign associates, Comey and other former Obama administration officials.”
+
+For this target article, the author's moral framing heavily relies on the following Moral Foundation dimensions: Care/Harm, Fairness/Cheating, Loyalty/Betrayal.
+Please pay special attention to preserving the moral framing related to these specific dimensions (Care/Harm, Fairness/Cheating, Loyalty/Betrayal) in your summary.
+
+The summary has to be returned after a "SUMMARY:" token and ending with a "END OF SUMMARY." token. The summary should be no longer than 200 words.

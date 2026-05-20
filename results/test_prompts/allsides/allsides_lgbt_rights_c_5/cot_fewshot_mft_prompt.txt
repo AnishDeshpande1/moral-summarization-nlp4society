@@ -1,0 +1,153 @@
+You have to summarize the following text preserving the moral framing that the author gave to it, with particular focus on the specific moral foundations highlighted in the text.
+
+Please study the following examples of news articles, their moral word extraction, and summaries preserving the moral framing:
+
+Example 1 (Political Ideology: Left, Moral Foundations: Authority/Subversion, Care/Harm, Fairness/Cheating, Loyalty/Betrayal):
+Here is the news article:
+
+Vision benefits are among those that will now be available to same-sex spouses.
+Benefits open to same-sex spouses
+
+The same-sex spouses of federal employees can begin applying for benefits including health insurance and retirement accounts immediately, the Obama administration said Friday, two days after the Supreme Court overturned a key provision of the Defense of Marriage Act.
+
+The Office of Personnel Management offered the guidance in a letter to the heads of executive departments and agencies, detailing access to many of the benefits to which legally married same-sex spouses will now have the same access heterosexual married couples do, including health, life, dental, vision and long-term care insurance.
+
+The memo, signed by acting director Elaine Kaplan, does not go into detail about the benefits available to same-sex couples who marry in one state but live in another where those unions are not legal.
+By omitting a specific reference to state laws, and repeating that benefits will be available to all legally married couples, OPM appears to be making the case that couples will have access to the listed benefits regardless of the state in which they live.
+
+President Barack Obama said Thursday that, “speaking as a president, not a lawyer,” he believes couples married in one state should be treated as married in all 50 states, but that his administration is working on the legalities of making that reality.
+
+In a statement Friday, the president applauded the expansion of access to federal benefits.
+“This is a critical first step toward implementing this week’s landmark Supreme Court decision declaring that all married couples — gay and straight — should be treated equally under federal law,” he said.
+“Thousands of gays and lesbians serve our country every day in the federal government.
+They, and their spouses and children, deserve the same respect and protection as every other family.
+
+Under the president’s direction, the Justice Department is leading the implementation of the repeal of Section 3 of DOMA.
+After the high court’s Wednesday ruling, Defense Secretary Chuck Hagel also said that the Pentagon will move quickly to expand benefits to same-sex couples.
+
+Attorney General Eric Holder welcomed Friday’s announcement.
+“Americans in same-sex marriages are entitled to equal protection and equal treatment under the law,” he said in a statement.
+“By extending health insurance and other important benefits to federal employees and their families, regardless of whether they are in same-sex or opposite-sex marriages, the Obama administration is making real the promise of this important decision.”
+
+The changes announced Friday “will make a meaningful, positive difference in the lives of many,” Holder said.
+“As the president directed, the Department of Justice will continue to coordinate with other federal agencies to implement this ruling as swiftly and smoothly as possible.
+I look forward to sharing additional information as it becomes available..”
+
+STEP 1:
+* equal
+* respect
+* protection
+* equal
+* entitled
+* equal
+* promise
+* meaningful
+* positive
+* swiftly
+* smoothly
+
+SUMMARY:
+The Obama administration has announced that same-sex spouses of federal employees can now apply for benefits, including health insurance and retirement accounts, immediately following the Supreme Court's overturn of the Defense of Marriage Act. This move is a "critical first step" towards implementing the landmark decision, ensuring that all married couples, gay and straight, are treated equally under federal law. President Obama believes that couples married in one state should be treated as married in all 50 states, and his administration is working on the legalities of making this a reality. The expansion of access to federal benefits is a step towards providing equal respect and protection to all families, regardless of sexual orientation. The Justice Department will continue to coordinate with other federal agencies to implement this ruling as swiftly and smoothly as possible. This change will make a meaningful, positive difference in the lives of many. END OF SUMMARY.
+
+Example 2 (Political Ideology: Center, Moral Foundations: Authority/Subversion, Care/Harm, Fairness/Cheating):
+Here is the news article:
+
+FILE - In this Tuesday, May 21, 2019 file photo, August Mulvihill, of Norwalk, Iowa, center, holds a sign depicting a wire clothes hanger during a rally at the Statehouse in Des Moines, Iowa, to protest recent abortion bans.
+On Wednesday, Nov. 6, 2019, a federal judge in New York struck down a rule letting health care clinicians object to providing abortions and other services on moral or religious grounds.
+(AP Photo/Charlie Neibergall)
+
+NEW YORK (AP) — A federal judge on Wednesday struck down a new Trump administration rule that could open the way for more health care workers to refuse to participate in abortions or other procedures on moral or religious grounds.
+
+U.S. District Judge Paul A. Engelmayer said the U.S. Health and Human Services Department overstepped its authority and went beyond existing law in issuing the rule.
+He also said that the measure could be costly, burdensome and damaging to emergency care and that the whole rationale for the rule was based on a lie.
+
+He said the department’s claim that there was a significant increase in complaints about workers being forced to violate their conscience was “flatly untrue.” The HHS rule, he said, is a classic “solution in search of a problem.”
+
+An HHS spokeswoman had no comment.
+
+Nineteen states, the District of Columbia, three local governments, health organizations and others had sued to block the rule from taking effect Nov. 22, arguing that it would be discriminatory and would interfere with people’s access to health care.
+
+“Today, the Trump administration has been blocked from providing legal cover for discrimination,” said Alexis McGill Johnson, acting president of Planned Parenthood.
+“As the federal district court made clear, the administration acted outside its authority and made false claims to try to justify this rule.”
+
+Rosie Phillips Davis, president of the American Psychological Association, said the HHS rule “could have jeopardized the health of some of our most vulnerable populations, including women, LGBT people and people with HIV or AIDS.”
+
+But Sen. Ben Sasse, a Nebraska Republican, called the ruling “absurd mush” and urged the Trump administration to appeal.
+
+Health care institutions have long relied on federal Conscience Provisions first created in 1973 and amended since then that protected health care professionals from carrying out services that conflict with their religious or moral beliefs.
+
+The new HHS rule broadens the list of health care personnel who can refuse to participate, expanding it to those who counsel, refer, train or make arrangements for a medical procedure.
+
+It also restricts the ability of employers to inquire about employees’ objections and broadens the definition of health care entities to include pharmacists and medical laboratories.
+
+Thus, the judge warned, a hospital or clinic receptionist who schedules appointments, an elevator operator or an ambulance driver could refuse on moral or religious grounds to do their jobs.
+
+He said the rule could force some health care employers to double or triple staff, particularly during emergencies.
+
+“These limits have clear potential to inhibit the employer’s ability to organize workplace arrangements to avoid inefficiencies and dislocations,” Engelmayer said.
+
+Engelmayer, who was appointed by Democratic President Barack Obama, said HHS lacked authority to create major portions of the rule, including a provision that said a health care institution’s federal funding can be cut off for violating the measure.
+
+He said it should be left to Congress to decide whether to change the laws regarding employers’ duty to accommodate religious objections.
+
+STEP 1:
+* discriminatory
+* conscience
+* vulnerable
+* absurd
+* false
+* unjustified
+* discriminatory
+* inhibit
+* inefficiencies
+* dislocations
+
+SUMMARY:
+A federal judge has struck down a Trump administration rule that would have allowed healthcare workers to refuse to participate in abortions and other procedures on moral or religious grounds. The judge ruled that the rule was based on a "flatly untrue" claim that there was a significant increase in complaints about workers being forced to violate their conscience. The rule was deemed "costly, burdensome, and damaging" to emergency care and would have led to "discrimination" against certain groups, including women, LGBT people, and those with HIV or AIDS. The judge argued that the rule was a "solution in search of a problem" and that the administration acted outside its authority. The ruling was hailed as a victory by healthcare organizations, but criticized by some Republicans as "absurd mush". The judge's decision protects the rights of patients to access healthcare without unjustified restrictions. END OF SUMMARY.
+
+Example 3 (Political Ideology: Right, Moral Foundations: Care/Harm):
+Here is the news article:
+
+Call it Cheney versus Cheney.
+
+Mary Cheney, one of ex-Vice President Dick Cheney’s two daughters, has taken to Facebook to blast her older sibling, Elizabeth, a Wyoming Senate candidate, for the latter’s stance on same-sex marriage, The New York Times is reporting.
+
+Mary Cheney, openly lesbian and married to Heather Poe since 2012, reportedly posted to her personal page on the social media site: “For the record, I love my sister, but she is dead wrong on the issue of marriage.
+
+“Freedom means freedom for everyone.
+That means that all families — regardless of how they look or how they are made — all families are entitled to the same rights, privileges and protections as every other.”
+
+The Times reports Liz Cheney on Friday first articulated her position on the controversial subject, saying it should be something for voters to decide on a state-by-state basis, and not a matter for “judges” or “legislators.”
+
+“I am not pro-gay marriage,” Liz Cheney reportedly said.
+“I believe the issue of marriage must be decided by the states, and by the people in the states, not by judges and not even by legislators, but by the people themselves.”
+
+Her sister replied by pulling no punches.
+
+“It’s not something to be decided by a show of hands,” Mary Cheney reportedly wrote on her personal Facebook page, concluding her internecine post by saying, “Please like and share if you agree.”
+
+Elizabeth Cheney declared in July she plans to challenge incumbent Senator Mike Enzi, also a Republican, in the state’s Republican primary.
+The election is slated for 2014.
+
+Former Vice President Cheney has publicly voiced support for same-sex marriage and, mirroring Elizabeth’s stance, has reportedly said the matter should be decided on a state-by-state basis.
+
+STEP 1:
+* wrong
+* freedom
+* entitled
+* right
+* privileges
+* protections
+* pro-gay
+* show
+
+SUMMARY:
+In a rare public display of sibling disagreement, Mary Cheney, an openly lesbian woman, took to Facebook to blast her sister Elizabeth Cheney, a Wyoming Senate candidate, for her stance on same-sex marriage. Mary Cheney wrote that her sister is "dead wrong" on the issue, emphasizing that "freedom means freedom for everyone" and that all families are "entitled to the same rights, privileges, and protections." Elizabeth Cheney, on the other hand, believes that the issue of marriage should be decided by the states and the people, not by judges or legislators. Mary Cheney countered that it's not something to be decided by a "show of hands." The sisters' disagreement highlights the complex and contentious nature of the same-sex marriage debate. END OF SUMMARY.
+
+Now, here is the target news article to summarize:
+Here is the news article:
+
+Obama Team To Make Important, If Symbolic, Choice On Gay Marriage The Obama administration faces tricky political and legal questions on the subject of gay marriage. By the end of this month, the federal government is expected to file not just one but two briefs in a pair of same-sex marriage cases at the U.S. Supreme Court. But it is the Proposition 8 case from California that poses the thornier questions for the administration — questions so difficult that the president himself is expected to make the final decision on what arguments the Justice Department will make in the Supreme Court. Prop 8, as it is known, is the California ballot initiative banning same-sex marriage. It was narrowly approved by state voters in 2008. A federal district court struck down the law as unconstitutional discrimination in 2010. A federal appeals court later agreed, but on narrower grounds. Because there was a period of time in which same-sex couples could legally marry in California, the court said, it was unconstitutional for the state, through the ballot initiative, to take away a fundamental right it had previously granted. The state, under both Republican and Democratic governors, has declined to defend the measure in court. So its ban on gay marriage is being defended by the sponsors of the initiative. The Obama administration is not required to file any brief in the case because it does not directly involve federal law. But administration sources say the government will file a brief. Still unresolved is what the brief will say. And in this case, much more than most, there are numerous legal routes that the government can take. The ultimate question — the one perhaps most people want an answer to but may not get — is whether same-sex couples have a constitutional right to marry. A Supreme Court decision that says yes to that would invalidate laws in some 30 states. But there are many legal avenues short of such a far-reaching argument that would invalidate Proposition 8 in California and leave laws in other states intact. What makes this even dicier is that President Obama has changed his position, seemingly a lot, over the past eight months. In May, in an ABC interview, he for the first time endorsed same-sex marriage from a personal point of view, but he went on to say that the decision on legalizing gay marriage should be left to the states, where marriage matters are traditionally governed. "It is important for me to go ahead and affirm that I think same-sex couples should be able to get married. And I continue to believe that this is an issue that is going to be worked out at the local level, because historically this has not been a federal issue," he said. But eight months later at his inauguration, the president seemed to take a more expansive view. "Our journey is not complete until our gay brothers and sisters are treated like anyone else under the law. For if we are truly created equal, then surely the love we commit to one another must be equal as well," Obama said. That language suggests the president believes in a more basic constitutional right to marry, analogous to the right enunciated in a unanimous 1967 Supreme Court ruling that struck down laws barring interracial marriage. In that case, ironically, the federal government took no position in the Supreme Court. So what will Obama do now that he faces similar questions in a case about sexual orientation, not race? His administration could make a bold, full-throated defense of the right to marry, an argument that Obama seemed to suggest at his inaugural. Or it could argue a number of lesser positions: That California, having extended the right to marry to gay couples for a window of time, could not revoke the right. Or that California, like some other states, has a law extending all rights to same-sex couples, except the right to marry, and that such a distinction amounts to discrimination. Or it could argue that since the state is not defending the law, the case does not belong in court at all — that the sponsors of the initiative have no legal standing in court. For the gay community, and for those advocating traditional marriage between a man and a woman, the position the government takes in this case is hugely important — if nothing else, as a symbol. Both sides have made formal presentations at the Justice Department urging the administration to take their side. But the deadline has already passed for a brief siding with Proposition 8 supporters, leaving only the question of what a brief on the other side will say. Same-sex marriage advocates are holding their collective breath for now and maintaining a pretty studied public silence, hoping to avoid the impression that the gay community is pressuring the administration. Still, lawyers who argue regularly before the court are not so sure that the administration's brief, whatever it says, will make a big difference to the justices. "I'm never going to tell you that the solicitor general's position doesn't matter," says former Bush administration Solicitor General Paul Clement. But in this case, he says, "I think it matters less." Clement was hired by the House Republican leadership to defend the constitutionality of the Defense of Marriage Act, or DOMA, in a case that is paired with the Proposition 8 case in the Supreme Court. The reason he thinks the administration's brief in the Proposition 8 case matters less, he says, is "because we already know what their position is on DOMA and one can extrapolate." In the DOMA case, the Obama administration argues that the federal law is unconstitutional because it bars federal benefits to legally married same-sex couples — benefits that go automatically to legally married heterosexual couples. Supreme Court advocate Tom Goldstein, founder of SCOTUSblog, makes a different point — that sometimes Supreme Court briefs are aimed at more than one audience. He notes that in a truly historic case like this one, "I think part of what's going on ... is a statement about what is morally right and wrong. And so I think it could matter to Americans much more than it matters to the Supreme Court."
+
+(1) First, you identify all the single words that are morally framed, focusing especially on the dimensions of Fairness/Cheating. Identify this step as "STEP 1:" and report each word in a new line starting with *
+(2) Finally, you write a summary of the news article. Please preserve as many morally framed words as possible, particularly focusing on the moral dimensions of Fairness/Cheating in your summary. The summary has to be returned after a "SUMMARY:" token and ending with a "END OF SUMMARY." token. The summary should be no longer than 200 words.

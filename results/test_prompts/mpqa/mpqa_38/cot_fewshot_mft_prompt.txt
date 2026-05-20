@@ -1,0 +1,186 @@
+You have to summarize the following text preserving the moral framing that the author gave to it, with particular focus on the specific moral foundations highlighted in the text.
+
+Please study the following examples of news articles, their moral word extraction, and summaries preserving the moral framing:
+
+Example 1 (Political Ideology: Left, Moral Foundations: Fairness/Cheating):
+Here is the news article:
+
+President Donald Trump used Twitter to tear into social media companies Saturday morning, claiming they were “totally discriminating against Republican/Conservative voices.”
+
+But he does have a solution. Sort of.
+And it involves both sides.
+
+Trump tweeted that “too many voices are being destroyed, some good and some bad, and that cannot be allowed to happen.” So, he added: “Let everybody participate, good & bad, and we will all just have to figure it out!”
+
+Trump accused social media giants of “closing down the opinions of many people on the RIGHT, while at the same time doing nothing to others.”
+
+“Censorship is a very dangerous thing & impossible to police,” he added, before embarking on a now familiar rant about “fake news” CNN and MSNBC — which he admitted to sometimes watching, but “just with a grain of salt.”
+
+Trump did not reference any person in particular in his tirade against the tech companies, although a host of them have in recent weeks banned conspiracy theorist Alex Jones and his website Infowars from their platforms.
+
+STEP 1:
+* discriminating
+* destroyed
+* bad
+* dangerous
+* fake
+
+SUMMARY:
+President Donald Trump took to Twitter to accuse social media companies of "totally discriminating" against Republican and Conservative voices. He claimed that "too many voices are being destroyed, some good and some bad," and that censorship is a "very dangerous thing" that is "impossible to police." Trump's solution is to "let everybody participate, good & bad, and we will all just have to figure it out!" He also ranted against "fake news" outlets CNN and MSNBC, which he admits to watching "with a grain of salt." The tweets come after several social media companies banned conspiracy theorist Alex Jones and his website Infowars from their platforms. Trump's comments imply that social media companies are unfairly silencing certain voices, and that this "censorship" is a threat to free expression. END OF SUMMARY.
+
+Example 2 (Political Ideology: Center, Moral Foundations: Authority/Subversion, Fairness/Cheating):
+Here is the news article:
+
+WASHINGTON — Susan E. Rice, President Obama’s national security adviser, sharply criticized Prime Minister Benjamin Netanyahu of Israel on Tuesday over his plans to address a joint meeting of Congress next week, saying his actions had hurt his nation’s relationship with the United States.
+
+Mr. Netanyahu’s decision to travel to Washington to deliver the speech two weeks before the Israeli elections has “injected a degree of partisanship, which is not only unfortunate, I think it’s destructive of the fabric of the relationship,” Ms. Rice said in an interview on the PBS television program “Charlie Rose.”
+
+Her comments marked the strongest public rebuke to date by the Obama administration since Mr. Netanyahu accepted an invitation from Speaker John A. Boehner to make his case to Congress against a nuclear deal with Iran, which is a priority of Mr. Obama’s.
+It is also the frankest acknowledgment yet by a top American official of the degree to which the controversy has damaged United States-Israeli relations.
+
+The speech, scheduled for March 3, was arranged by Mr. Boehner and the Israeli ambassador without consulting the White House — a move that Mr. Obama’s team has called a breach of protocol.
+
+The president has said he will not meet with Mr. Netanyahu during his visit to avoid any appearance that he is trying to influence the Israeli elections that are scheduled for mid-March.
+
+The episode is a low point in the tense relationship between Mr. Obama and Mr. Netanyahu and has touched off weeks of mostly anonymous sniping and finger-pointing.
+
+Top administration officials have hinted more openly of their displeasure in recent days.
+
+The White House on Wednesday said that Mr. Obama agreed with Ms. Rice’s assessment, saying he had raised the same concerns several times.
+
+Her comments, said Josh Earnest, the White House press secretary, are “entirely consistent with what the president has already said.”
+
+“Allowing this relationship to be subjected to party politics does weaken the relationship,” Mr. Earnest said.
+
+Mr. Earnest said he did not know whether Mr. Obama and Ms. Rice had talked in advance of the interview about what she would say about Mr. Netanyahu’s visit.
+
+Vice President Joseph R. Biden Jr., who as president of the Senate would be expected to attend, has said he will be traveling abroad.
+Secretary of State John Kerry said Tuesday that he would be in Switzerland negotiating with the Iranians.
+The White House has also not committed to sending a representative next week to the American Israel Public Affairs Committee’s conference, where Mr. Netanyahu is also scheduled to appear.
+
+The Israeli prime minister himself has turned down a request by Democratic senators for a private meeting, Senator Richard J. Durbin, Democrat of Illinois, said Tuesday.
+
+“We offered the prime minister an opportunity to balance the politically divisive invitation from Speaker Boehner with a private meeting with Democrats who are committed to keeping the bipartisan support of Israel strong,” Mr. Durbin said in a statement.
+“His refusal to meet is disappointing to those of us who have stood by Israel for decades.”
+
+In a letter released by Mr. Durbin’s office, Mr. Netanyahu said such a meeting “could compound the misperception of partisanship regarding my upcoming visit.”
+
+Mr. Netanyahu said Tuesday that he was making the trip because it was his obligation to “do everything I can to prevent” a nuclear agreement with Iran.
+
+“Therefore, I will go to Washington to address the American Congress, because the American Congress is likely to be the final brake before the agreement between the major powers and Iran,” he said as he toured a military base in southern Israel.
+
+Ms. Rice demurred when asked whether she believed Mr. Netanyahu was making the speech to gain political favor.
+
+“I’m not going to ascribe motives to the prime minister,” she told Mr. Rose.
+“The point is, we want the relationship between the United States and Israel to be unquestionably strong, immutable, regardless of political seasons in either country, regardless of which party may be in charge in either country.
+
+“We’ve worked very hard to have that,” she said, “and we will work very hard to maintain that.”
+
+STEP 1:
+* unfortunate
+* destructive
+* partisanship
+* breach
+* displeasure
+* sniping
+* finger-pointing
+* weaken
+* disappointing
+* obligation
+
+SUMMARY:
+National Security Adviser Susan E. Rice sharply criticized Israeli Prime Minister Benjamin Netanyahu's plans to address Congress, saying his actions have "injected a degree of partisanship" that is "unfortunate" and "destructive of the fabric of the relationship" between the US and Israel. The controversy has damaged US-Israeli relations, with the White House calling the speech a "breach of protocol". Rice's comments marked the strongest public rebuke to date by the Obama administration. The episode is a "low point" in the tense relationship between Obama and Netanyahu, with top administration officials expressing their "displeasure" and hinting at the "sniping" and "finger-pointing" that has ensued. The White House has emphasized the importance of maintaining a strong and "immutable" relationship between the two countries, regardless of political seasons. END OF SUMMARY.
+
+Example 3 (Political Ideology: Right, Moral Foundations: Authority/Subversion, Care/Harm, Sanctity/Degradation):
+Here is the news article:
+
+President Trump called the Las Vegas attack an "act of pure evil" Monday morning, in a somber address to the American people following the mass shooting now considered the deadliest in modern U.S. history.
+
+The attack left 58 people dead and 515 hospitalized.
+
+The president announced he will visit Las Vegas on Wednesday to meet with law enforcement, first responders and families of victims.
+He also ordered the flag be flown at half-staff at the White House and other federal buildings to honor those who died.
+
+“It was an act of pure evil,” Trump said.
+
+In a unifying, faith-focused speech from the Diplomatic Room at the White House, the president offered his prayers through this “very dark period.”
+
+“To the families of the victims, we are praying for you and we are here for you and we ask God to help see you through this very dark period,” the president said.
+“Scripture teaches us the Lord is close to the broken hearted and saves those who are crushed in spirit.
+We seek comfort in those words for we know that God lives in the hearts of those who grieve.”
+
+The president called upon “the bonds that unite us,” including faith, family and shared values.
+
+“Our unity cannot be shattered by evil.
+Our bonds cannot be broken by violence,” Trump said.
+“In times such as these, I know we are searching for some kind of meaning in the chaos, light in the darkness.
+The answers do not come easy.”
+
+'Our unity cannot be shattered by evil.' — President Donald Trump
+
+He added: “But we can take solace knowing that even the darkest space can be illuminated by a single ray of hope.”
+
+Trump said that he and the first lady “pray for the entire nation.”
+
+“We pray for the day when evil is banished and the innocent are safe from hatred and from fear,” Trump said.
+
+White House Press Secretary Sarah Sanders said Monday that the president has spoken with the Nevada Gov.
+Brian Sandoval, Las Vegas Mayor Carolyn Goodman, and Las Vegas Metropolitan Police Department's Sheriff Joe Lombardo.
+
+The president first addressed the deadly attack early Monday morning on Twitter.
+
+“My warmest condolences and sympathies to the victims and families of the terrible Las Vegas shooting.
+God bless you!” Trump tweeted.
+
+The suspect, who was killed, was identified as 64-year-old Stephen Paddock, a local resident.
+Authorities also said they were “confident” Paddock’s roommate, Marilou Danley, had been located.
+Officials previously described Danley as a person of interest.
+
+Authorities said one on-duty officer was in critical condition and another was wounded in the shooting.
+Two off-duty police officers attending the concert were killed.
+
+“This was obviously well-planned, they waited for a major, open air event, and obtained a room facing it,” retired FBI special agent and former national FBI spokesman John Iannarelli, who drove past the scene of the event just moments before the shooting took place, told Fox News.
+“I can see the flashing blue police lights from my hotel window.”
+
+“They were well-trained,” Iannarelli said, noting the use of automatic weapons.
+“That’s not an easy task.”
+
+Iannarelli also said “it is too early to tell” what the motive was.
+“Is this a lone wolf inspired by others?
+This is exactly the type of attack the U.S. has been fearing would come to our shores.”
+
+Officials did not immediately reveal a motive.
+
+First lady Melania Trump also offered her condolences on Twitter Monday morning.
+
+"My heart and prayers goes out to victims, families & loved ones! #PrayForLasVegas," she tweeted.
+
+STEP 1:
+* evil
+* faith
+* broken
+* crushed
+* comfort
+* unity
+* bonds
+* shattered
+* violence
+* chaos
+* darkness
+* hope
+* banished
+* hatred
+* fear
+* innocent
+* safe
+
+SUMMARY:
+President Trump called the Las Vegas attack an "act of pure evil" that left 58 people dead and 515 hospitalized. In a unifying, faith-focused speech, he offered his prayers through this "very dark period" and sought comfort in the words of scripture. Trump emphasized the importance of "the bonds that unite us," including faith, family, and shared values, stating that "our unity cannot be shattered by evil." He also expressed hope, saying that "even the darkest space can be illuminated by a single ray of hope." The president and first lady Melania Trump offered their condolences to the victims and families, praying for the day when "evil is banished and the innocent are safe from hatred and from fear." Trump will visit Las Vegas on Wednesday to meet with law enforcement, first responders, and families of victims. END OF SUMMARY.
+
+Now, here is the target news article to summarize:
+Here is the news article:
+
+US President Bush has ordered the US Central Intelligence Agency (CIA) to assassinate America's opponents wherever in the world they may be! This directive is issued at a time when the American government is claiming to lead the fight against terrorism throughout the world. When the Imam (may God be satisfied with him) issued the fatwa against Salman Rushdie for insulting the Prophet (peace be upon him) and the holy Koran, the countries that are so-called supporters of human rights protested against the fatwa. They said it was an act of terrorism that was against international law and said it crushed human rights principles! In a coordinated move the European countries all recalled their ambassadors from Tehran in order to put the Islamic Republic of Iran under pressure. By clarifying the Imam's edict the Islamic Republic of Iran made the people of the world understand that insulting the Prophet was in fact violating the rights of millions of people throughout the world. This was not simply a directive from God that was confirmed by all the clerics throughout the Islamic world. Now the United States has issued an assassination order against millions of human beings without having any proof, reason or documentation. The only reason for this would be opposition to the United States. It would therefore be appropriate for all Islamic countries to withdraw their ambassadors from the United States. If the European countries were honest in the withdrawal of their ambassadors from Iran, blaming Iran for violating human rights, then they should recall their ambassadors from the United States. After all the United States is not violating the rights of one human being, but many many human beings. It seems that following the blow that the Americans received on September 11 in New York and Washington, the United States is determined to take justice to pre-historic times. It is obvious no country will put up with this cruelty. No one will allow this human achievement, which is the discovery of God-given human rights, which is achieved after thousands of years of research, to be wasted away. The United States thinks that it can silence the justice-seeking cries of the peoples of the world with the sound of explosions from 7-ton bombs and it thinks that it can justify its own inhuman behavior in the shadow of this noise.
+
+(1) First, you identify all the single words that are morally framed, focusing especially on the dimensions of Authority/Subversion, Care/Harm, Fairness/Cheating, Sanctity/Degradation. Identify this step as "STEP 1:" and report each word in a new line starting with *
+(2) Finally, you write a summary of the news article. Please preserve as many morally framed words as possible, particularly focusing on the moral dimensions of Authority/Subversion, Care/Harm, Fairness/Cheating, Sanctity/Degradation in your summary. The summary has to be returned after a "SUMMARY:" token and ending with a "END OF SUMMARY." token. The summary should be no longer than 200 words.

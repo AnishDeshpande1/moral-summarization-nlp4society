@@ -1,0 +1,140 @@
+You have to summarize the following text preserving the moral framing that the author gave to it.
+
+Please study the following examples of news articles, their moral word extraction, and summaries preserving the moral framing:
+
+Example 1 (Political Ideology: Left):
+Here is the news article:
+
+WASHINGTON ― President Donald Trump’s offer to Democrats over the weekend seeking to trade temporary protections for some immigrants in exchange for funding for a wall on the U.S.-Mexico border received positive coverage from some outlets, including being called a “compromise” and a move by Trump “toward the center.”
+
+But the latest details in the proposal, which Senate Republicans unveiled Monday in a bill they plan to vote on this week, make the offer appear less of a compromise and more of a wish list for immigration hard-liners like White House adviser Stephen Miller.
+
+Trump is offering a three-year extension for the Obama-era Deferred Action for Childhood Arrivals program, which protects from deportation hundreds of thousands of immigrants brought to the U.S. as kids.
+The offer would also give a three-year extension to 300,000 people from El Salvador, Haiti, Nicaragua and Honduras who are living in the U.S. under the temporary protected status program.
+
+Democrats rejected the offer before Trump even announced it on Saturday, however, maintaining that it didn’t go nearly far enough and that the president ought to reopen the government before any negotiations over the border proceed.
+
+But the GOP bill incorporating his offer would also gut existing asylum laws for children and trafficking victims from Central America, ban asylum for minors who present themselves at ports of entry, gut the concept of temporary protected status for future cases and expand immigration detention ― all measures making it more likely to be dead on arrival in the Senate.
+
+“Given the poison pills stuffed into a proposal that was supposed to entice Democrats we can now say the Trump ‘offer’ isn’t about getting to a deal but about shifting blame.
+So obvious. So predictable. So pathetic,” Frank Sharry, the executive director of the immigration advocacy group America’s Voice, tweeted on Tuesday.
+
+The bill would ban asylum for Central American minors, including those who arrive at the border with their parents, unless the minors apply for asylum in their home country.
+It would also cap the number of Central American minors who are allowed to apply for asylum each year at 50,000 and limit the number of asylum applications that could be granted per year to 15,000.
+
+The administration has for months tried to reduce the number of people seeking asylum in the U.S. as part of a broader effort to stem the flow of Central American migrants crossing the border from Mexico.
+Trump’s administrative attempts to curtail the asylum process have faced legal challenges in two federal courts, however, prompting this week’s legislative fix.
+
+“This bill includes the most extreme changes on asylum that I’ve ever seen,” Kerri Talbot, the director of federal advocacy at the group Immigration Hub, said on a press call on Tuesday.
+
+Under the GOP bill, minors who apply for asylum would face much stiffer consequences for filing an application found to be frivolous ― including permanent ineligibility for future protections.
+
+The bill’s changes to asylum law alarmed immigration activists online, as well some on the right, including attorney and conservative writer Gabriel Malor.
+
+Trump’s efforts to win over Democratic support on the bill ― which will require at least 60 votes to pass in the Senate ― hit even more trouble on Tuesday after the Supreme Court once again did not act on the administration’s effort to end DACA.
+The move essentially left protections for Dreamers in place for at least the next several months ― giving Democrats less incentive to agree to Trump’s offer of protections to DACA recipients.
+
+STEP 1:
+* pathetic
+* obvious
+* predictable
+
+SUMMARY:
+President Trump's latest offer to Democrats on immigration reform has been exposed as a "wish list for immigration hard-liners" rather than a genuine compromise. The proposal, which includes a three-year extension for DACA recipients and temporary protected status holders, is tainted by "poison pills" that would gut existing asylum laws, ban asylum for Central American minors, and expand immigration detention. Critics have denounced the bill as "dead on arrival" in the Senate, with one advocate calling it "the most extreme changes on asylum that I've ever seen." The proposal's true intention seems to be "shifting blame" rather than finding a genuine solution. The move is particularly "pathetic" given the Supreme Court's decision to leave DACA protections in place, giving Democrats little incentive to agree to Trump's offer. END OF SUMMARY.
+
+Example 2 (Political Ideology: Center):
+Here is the news article:
+
+WASHINGTON — It is a lesson politicians never seem to learn from others’ mistakes: The microphone is always on.
+
+The latest candidate to learn the hard way was Representative Bruce Braley, an Iowa Democrat running for Senate this year.
+Mr. Braley apologized to Senator Charles E. Grassley, Republican of Iowa, and “anyone I may have offended” after video emerged of him warning that “a farmer from Iowa who never went to law school, never practiced law” could become chairman of the Judiciary Committee.
+
+Mr. Braley is not running against Mr. Grassley, who plans to seek a seventh term in 2016.
+But as the ranking Republican on the Judiciary Committee, Mr. Grassley could assume the chairmanship if his party takes control of the Senate this year.
+Mr. Braley, speaking at a January fund-raiser in Corpus Christi, Tex., was explaining why he should go to the Senate instead of his Republican opponent.
+
+America Rising, a conservative political action committee that has vowed to use videos and opposition research to attack Democratic candidates, posted the footage on YouTube on Tuesday.
+Other Republicans quickly criticized Mr. Braley.
+
+Though their numbers are declining, farmers are still a powerful force in the Iowa, which ranks second in the country in total farm sales.
+Mr. Braley’s apology noted his family’s history with Iowa agriculture, including his own stint “doing farm jobs and working a grain elevator.”
+
+In another appeal to Iowa farmers, Joni Ernst, a candidate in the Republican Senate primary on June 3, announced in an ad that she grew up “castrating hogs on an Iowa farm.”
+Ms. Ernst said that qualified her to “cut pork” in Washington.
+
+STEP 1:
+* apologized
+* offended
+* warned
+* criticized
+* powerful
+* qualified
+
+SUMMARY:
+Representative Bruce Braley, an Iowa Democrat running for Senate, apologized for his offensive remarks about Senator Charles E. Grassley, a Republican from Iowa. Braley warned that a farmer from Iowa who never went to law school could become chairman of the Judiciary Committee, implying that Grassley was unqualified for the position. The video of Braley's comments was posted on YouTube by America Rising, a conservative political action committee. Braley's apology noted his family's history with Iowa agriculture, but Republicans quickly criticized him for his remarks. In contrast, Joni Ernst, a Republican Senate candidate, highlighted her experience growing up on an Iowa farm, saying it qualified her to "cut pork" in Washington. The incident serves as a lesson to politicians that the microphone is always on, and careless comments can have consequences. END OF SUMMARY.
+
+Example 3 (Political Ideology: Right):
+Here is the news article:
+
+The House of Representatives on Friday approved a sweeping election reform bill that serves as the touchstone to the House Democratic agenda but has been criticized by civil libertarians and Republicans over First Amendment concerns.
+
+The so-called “HR 1” measure embraced by House Democrats aims to curb big money in politics, make it easier to vote and bolster election security.
+It institutes a public financing system for congressional campaigns, requires presidential candidates to disclose tax returns and makes Election Day a federal holiday.
+
+The House approved the plan 234-193.
+But the measure is not expected to succeed in the Senate, where Majority Leader Mitch McConnell, R-Ky., has said the bill is dead on arrival.
+
+The American Civil Liberties Union, in a recent letter to Congress, encouraged lawmakers to vote against the bill because of “provisions that unconstitutionally impinge on the free speech rights of American citizens and public interest organizations.”
+
+“They will have the effect of harming our public discourse by silencing necessary voices that would otherwise speak out about the public issues of the day,” the ACLU wrote.
+
+One concern of civil libertarians is the bill’s inclusion of the DISCLOSE ACT, which would require all organizations that spend money on elections to disclose donors.
+
+The ACLU said it supports making organizations report spending for public communications like TV ads that expressly call for the election or defeat of a candidate for office, but it worries the DISCLOSE ACT goes beyond that.
+
+“These standards are unclear and entirely subjective, which will lead to confusion and, ultimately, less speech,” the ACLU said.
+
+Republicans called the bill a Democratic power grab that amounts to a federal takeover of elections.
+
+“Now, instead of getting money out of politics, the Democrats on this committee voted to pass a bill that will publicly fund – campaign travel, campaign dinners, and in some cases, the politicians themselves,” Illinois Rep. Rodney Davis wrote in an op-ed for The Hill.
+
+The White House said in a statement that the Democrats' plan would "micromanage" elections that now are run largely by states and would establish "costly and unnecessary program to finance political campaigns."
+
+But House Speaker Nancy Pelosi, D-Calif., said the bill "restores the people's faith that government works for the public interest, the people's interest, not the special interests."
+
+Trying to turn Republicans' words against them, Pelosi said, "Yes it is a power grab -- a power grab on behalf of the people."
+
+House GOP leader Kevin McCarthy of California said the legislation would undermine the integrity of elections by allowing convicted felons to vote, and would apply a one-size-fits-all standard to elections now run by states and local governments.
+
+Democrats called that a mischaracterization.
+
+To Rep. Zoe Lofgren, D-Calif., the bill "grabs power away from the elites and the power brokers and gives it to the people."
+
+She and other Democrats disputed the claim that taxpayers will pay for campaigns, noting that money for political campaigns would come from a surcharge on federal settlements made with banks and corporations that run afoul of the law.
+
+STEP 1:
+* Unconstitutionally
+* Silencing
+* Necessary
+* Power
+* Grab
+* Faith
+* Public
+* Interest
+* Special
+* Integrity
+* Elites
+* Power
+* Brokers
+
+SUMMARY:
+The House of Representatives has approved a sweeping election reform bill, HR 1, which aims to curb big money in politics, make voting easier, and bolster election security. However, the bill has been criticized by civil libertarians and Republicans over First Amendment concerns, with the ACLU arguing that certain provisions would "unconstitutionally impinge" on free speech rights and "silence necessary voices." Republicans have called the bill a "power grab" that would amount to a federal takeover of elections, while Democrats argue it would "restore the people's faith" in government and give power back to the people. The bill would institute a public financing system for congressional campaigns, require presidential candidates to disclose tax returns, and make Election Day a federal holiday. Despite the controversy, the bill is not expected to succeed in the Senate. END OF SUMMARY.
+
+Now, here is the target news article to summarize:
+Here is the news article:
+
+WASHINGTON – House Democrats introduced a bill Tuesday that would grant permanent protections to undocumented immigrants brought to the country as children, but the fate of those Dreamers will ultimately rest in the hands of Senate Republicans, who have struggled for nearly two decades to come up with a solution that they, and their conservative base, can endorse. There used to be a time when the DREAM Act was accepted by a wide range of Senate Republicans who said it was unfair to punish children for the actions of their parents. The 2003 version of the bill was sponsored by Sen. Orrin Hatch, R-Utah, and had 12 other GOP co-sponsors. But little by little, as the party's more conservative wing began viewing the DREAM Act less as an act of "compassion" and more an act of "amnesty," the GOP has backed away from the idea. The 2005 version of the bill had nine Republican co-sponsors, the 2007 version had five, the 2009 version had two, and the 2011 version had none. The tide had changed so drastically by 2017 that most Senate Republicans quickly tweeted statements supporting President Donald Trump after he announced his decision to end the Deferred Action for Childhood Arrivals (DACA) program, the Obama-era program that protected more than 800,000 Dreamers from deportation. That decision was blocked by federal courts, leaving Dreamers in legal limbo and prompting the push by House Democrats to pass a permanent legislative fix for them. Its prospects in today's Senate GOP caucus appear dire. Richard Lugar, a Republican from Indiana who served 36 years in the Senate, was an early and consistent supporter of the DREAM Act. He said that even in the early days of the bill, before the tea party movement and the Freedom Caucus and Trump's zealous band of followers, Republicans agonized between their personal belief that Dreamers were entitled to citizenship and their political concerns over supporting any form of "amnesty." That internal battle has only become more acute, Lugar said, as polarization has intensified between the parties and within the Republican Party itself. That leaves senators seeing little payoff to support the DREAM Act and all kinds of risks. "It's a situation where members decide this is not an issue that they're prepared to bleed and die on," Lugar said. "There are several out there that support it, but this doesn't appear to be the time." Sen. Roy Blunt, R-Mo., paused Tuesday after USA TODAY asked if he believed the Senate should take up the House bill to protect Dreamers. "I'm actually very pro-Dreamers," he said, but he wouldn’t say how he’d vote on a stand-alone bill because he hadn’t seen details. Many of his colleagues are more direct, saying a stand-alone Dreamer bill has no chance. Instead, the White House and most Republicans have endorsed a Dreamer fix only in exchange for billions of dollars in border security or wholesale changes of the legal immigration system. Sen. Lindsey Graham, R-S.C., who chairs the Judiciary Committee and has long been vocal about the need to protect Dreamers, told USA TODAY on Tuesday that he thinks the Senate should "see if we can find a more comprehensive solution" over the House bill. "The immigration quagmire has changed," Sen. Tim Scott, R-S.C., said when asked what shifted within his party. "Everybody is going to have to give something in order to make progress, that's what's changed." The House bill, known as the Dream and Promise Act and co-sponsored by more than 190 Democrats, including House Speaker Nancy Pelosi, would create a pathway to citizenship for Dreamers and foreigners with Temporary Protected Status, or TPS. That program has allowed more than 300,000 foreigners to legally live and work in the USA after their home countries were ravaged by war or natural disasters. The Trump administration tried to end that program for 98 percent of the TPS population, but was blocked by federal courts. Although the measure is likely to sail through the Democratic-controlled House, it stands little chance in the Republican-led Senate. Few in that chamber have experienced the Republican shift as much as Sen. Marco Rubio, R-Fla. The Cuban-American was once a member of the bipartisan "Gang of 8," which passed a bill in 2013 that would have allowed all the nation's 11 million undocumented immigrants to apply for citizenship in exchange for improved border security. At the time, it was the Republican-led House that killed the bill. After taking a beating in conservative circles for his embrace of "amnesty," Rubio has taken a more hard-line stance on immigration-related issues. Tuesday, he told USA TODAY the stand-alone House bill to protect Dreamers had no chance in the Senate. "You can't bring it up, because once you do, it will be amended, and it becomes a vehicle for multiple amendments outside of the DREAM Act," Rubio said. "That’s why dealing with immigration has been so difficult. You’re never going to get a clean vote on any immigration issue because everybody has got something on immigration that they want, and they'll use that as a vehicle to try and amend it. And then bills fall apart.”
+
+(1) First, you identify all the single words that are morally framed. Identify this step as "STEP 1:" and report each word in a new line starting with *
+(2) Finally, you write a summary of the news article. Please preserve as many morally framed words as possible in your summary. The summary has to be returned after a "SUMMARY:" token and ending with a "END OF SUMMARY." token. The summary should be no longer than 200 words.

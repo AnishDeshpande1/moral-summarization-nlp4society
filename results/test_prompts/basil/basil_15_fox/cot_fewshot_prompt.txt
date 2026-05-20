@@ -1,0 +1,137 @@
+You have to summarize the following text preserving the moral framing that the author gave to it.
+
+Please study the following examples of news articles, their moral word extraction, and summaries preserving the moral framing:
+
+Example 1 (Political Ideology: Left):
+Here is the news article:
+
+Newsweek's latest issue features a Michele Bachmann cover that's sure to stir up controversy.
+
+The cover shows Bachmann standing against a stark blue background, looking directly into the camera with a wide-eyed expression.
+The headline advertising the magazine's story reads, "THE QUEEN OF RAGE."
+
+"Rage" is a word that doesn't appear in Newsweek's actual profile of Bachmann, though author Lois Romano does criticize what she calls the "radical" nature of the Tea Party that Bachmann champions.
+
+Conservative websites are already crying foul over the cover, with some saying it makes Bachmann look "crazy" and one blogger asking, "Can anyone really say with a straight face that the mainstream media is not totally biased against conservatives?"
+
+It's not the first time Newsweek has faced conservative backlash for a cover.
+In June, the magazine portrayed Mitt Romney as one of the stars of the Broadway show "The Book of Mormon."
+And, of course, it drew widespread criticism for its infamous Sarah Palin cover in 2009.
+
+See the Bachmann cover below, and tell us whether you think it crosses a line.
+
+STEP 1:
+* radical
+* biased
+* crazy
+
+SUMMARY:
+Newsweek's latest cover featuring Michele Bachmann has sparked controversy, with the headline "THE QUEEN OF RAGE" and a photo of Bachmann with a wide-eyed expression. The article's author, Lois Romano, criticizes the "radical" nature of the Tea Party, which Bachmann champions. Conservative websites are crying foul, claiming the cover makes Bachmann look "crazy" and accusing the mainstream media of being "biased" against conservatives. This is not the first time Newsweek has faced backlash for a cover, with previous examples including a portrayal of Mitt Romney as a star of the Broadway show "The Book of Mormon" and an infamous Sarah Palin cover in 2009. The question remains whether the cover crosses a line. The controversy highlights the ongoing debate about media bias and the portrayal of conservative politicians.
+END OF SUMMARY.
+
+Example 2 (Political Ideology: Center):
+Here is the news article:
+
+Hillary Clinton and her running mate, Sen. Tim Kaine of Virginia, speak to reporters on board the Clinton campaign plane on Saturday.
+
+PITTSBURGH—Hillary Clinton on Saturday drew a contrast between how she and Republican rival Donald Trump would conduct their first 100 days in office, zeroing in on his contention that he would sue the women who have accused him of making unwanted sexual advances.
+
+Speaking to reporters on her campaign plane Saturday night, Mrs. Clinton and her running mate, Sen. Tim Kaine of Virginia, said Mr. Trump seemed less intent on governing than on avenging personal grievances.
+
+Earlier on Saturday, Mr. Trump spoke at the Civil War battlefield in Gettysburg, Pa., where he laid out his agenda for the first 100 days of his presidency and threatened to sue his accusers after the election.
+
+The remark got the attention of the Clinton campaign, which has been trying to make inroads among college-educated women who normally vote Republican.
+
+“Our opponent, Donald Trump, went to Gettysburg, one of the most extraordinary places in American history,” Mrs. Clinton said, “and basically said if he’s president he will spend his time suing women who have made charges against him based on his behavior.”
+
+By contrast, she said, “Tim and I are going to keep talking about what we want to do if we’re given the great honor of serving as president and vice president.
+We’ll get to work the day after the election and do everything possible to be prepared on Jan. 20 to start doing the business of the American people.”
+
+Mr. Kaine, who was accompanying Mrs. Clinton to a late-night rally in Philadelphia, added that Mr. Trump “seemed most personally invested in…all of the scores that he needs to settle with people he’s mad at.”
+
+The pair had just come from a rally at a local high school in Pittsburgh.
+Both campaigns have made Pennsylvania a particular focus.
+Analysts believe that a Clinton victory in the state would cut off one possible path by which Mr. Trump could reach the needed threshold of 270 electoral votes.
+
+Speaking to 1,800 people at the Pittsburgh rally, Mrs. Clinton touched on a theme she has emphasized in recent days: that Mr. Trump is a danger to America’s democratic traditions.
+She has faulted him for saying during Wednesday’s presidential debate that he might not concede the election in the event of a defeat.
+
+Failing to accept election results, however disappointing, is the difference between “leadership and dictatorship,” Mrs. Clinton said Saturday, adding that Mr. Trump shows a troubling disregard for constitutional freedoms and protections.
+
+She also referred to the GOP presidential nominee’s contention that she should be jailed for using a private email system while she was secretary of state.
+
+“Every time he says he wants to jail his opponent—meaning me—I think to myself, ‘We don’t do that in America.
+We actually have laws and courts and an independent judiciary,’” she said.
+
+Mrs. Clinton spent part of the 37-minute address making a case for Democratic Senate candidate Katie McGinty, who is challenging incumbent Pennsylvania Republican Pat Toomey.
+
+Democrats believe Mr. Toomey’s defeat is central to retaking control of the Senate and providing Mrs. Clinton with a friendlier Congress should she win in November.
+Mr. Toomey leads by about two points in the Real Clear Politics average of polls.
+
+In devoting time to Ms. McGinty’s campaign, Mrs. Clinton showed she is thinking about down-ballot races that would affect her policy agenda should she win on Nov. 8.
+
+“Katie will help us break through the gridlock—actually make a difference in people’s lives,” Mrs. Clinton said.
+
+STEP 1:
+* avenging
+* grievances
+* extraordinary
+* honor
+* danger
+* dictatorship
+* troubling
+* disregard
+* laws
+* courts
+* independent
+* friendlier
+
+SUMMARY:
+Hillary Clinton contrasted her approach to governance with Donald Trump's, highlighting his intention to sue women who accused him of sexual misconduct. Clinton emphasized that Trump seems more intent on avenging personal grievances than governing, whereas she and her running mate, Tim Kaine, are focused on preparing to serve the American people. Clinton warned that Trump's behavior is a danger to America's democratic traditions, citing his refusal to accept election results and his disregard for constitutional freedoms and protections. She also criticized Trump's suggestion that she should be jailed, stating that "we don't do that in America" and that we have laws, courts, and an independent judiciary. Clinton's remarks aimed to appeal to college-educated women who normally vote Republican. END OF SUMMARY.
+
+Example 3 (Political Ideology: Right):
+Here is the news article:
+
+Call it Cheney versus Cheney.
+
+Mary Cheney, one of ex-Vice President Dick Cheney’s two daughters, has taken to Facebook to blast her older sibling, Elizabeth, a Wyoming Senate candidate, for the latter’s stance on same-sex marriage, The New York Times is reporting.
+
+Mary Cheney, openly lesbian and married to Heather Poe since 2012, reportedly posted to her personal page on the social media site: “For the record, I love my sister, but she is dead wrong on the issue of marriage.
+
+“Freedom means freedom for everyone.
+That means that all families — regardless of how they look or how they are made — all families are entitled to the same rights, privileges and protections as every other.”
+
+The Times reports Liz Cheney on Friday first articulated her position on the controversial subject, saying it should be something for voters to decide on a state-by-state basis, and not a matter for “judges” or “legislators.”
+
+“I am not pro-gay marriage,” Liz Cheney reportedly said.
+“I believe the issue of marriage must be decided by the states, and by the people in the states, not by judges and not even by legislators, but by the people themselves.”
+
+Her sister replied by pulling no punches.
+
+“It’s not something to be decided by a show of hands,” Mary Cheney reportedly wrote on her personal Facebook page, concluding her internecine post by saying, “Please like and share if you agree.”
+
+Elizabeth Cheney declared in July she plans to challenge incumbent Senator Mike Enzi, also a Republican, in the state’s Republican primary.
+The election is slated for 2014.
+
+Former Vice President Cheney has publicly voiced support for same-sex marriage and, mirroring Elizabeth’s stance, has reportedly said the matter should be decided on a state-by-state basis.
+
+STEP 1:
+* wrong
+* freedom
+* entitled
+* right
+* privileges
+* protections
+* pro-gay
+* show
+
+SUMMARY:
+In a rare public display of sibling disagreement, Mary Cheney, an openly lesbian woman, took to Facebook to blast her sister Elizabeth Cheney, a Wyoming Senate candidate, for her stance on same-sex marriage. Mary Cheney wrote that her sister is "dead wrong" on the issue, emphasizing that "freedom means freedom for everyone" and that all families are "entitled to the same rights, privileges, and protections." Elizabeth Cheney, on the other hand, believes that the issue of marriage should be decided by the states and the people, not by judges or legislators. Mary Cheney countered that it's not something to be decided by a "show of hands." The sisters' disagreement highlights the complex and contentious nature of the same-sex marriage debate. END OF SUMMARY.
+
+Now, here is the target news article to summarize:
+Here is the news article:
+
+Rep. Michele Bachmann has declined to get into the scrum with Newsweek over its cover story of the presidential candidate called "The Queen of Rage," accompanied by an unflattering photo of the Minnesota Republican, but others are calling the magazine out of bounds in its depiction. The National Organization for Women President Terry O'Neill said that the cover of the magazine's latest edition is "sexist" and referred to a simple test by the group's founder Gloria Steinem to explain how they determined that conclusion -- would the magazine do the same to a man. "Who has ever called a man 'The King of Rage?' Basically what Newsweek magazine -- and this is important, what Newsweek magazine, not a blog, Newsweek magazine -- what they are saying of a woman who is a serious contender for president of the United States of America… They are basically casting her as a nut job," O'Neill said to The Daily Caller and NOW confirmed to FoxNews.com on Tuesday. "The 'Queen of Rage' is something you apply to wrestlers or somebody who is crazy. They didn’t even do this to Howard Dean when he had his famous scream," she said. Newsweek has defended the photo -- an extreme close-up of the crystal blue-eyed Bachmann looking over the camera with a dark blue background -- saying that several of the images taken of her appeared the same way. The magazine posted other photos of her on its website, and many of them are flattering. Bachmann was asked about the cover during an appearance in Iowa on Monday, where she is campaigning ahead of Thursday's Fox News/Washington Examiner debate and Saturday's Ames Straw Poll. She told voters she had not seen the cover. "Ah-hah," she said when told the story headline. "Well, we'll have to take a look at that, won't we?" O'Neill said that the main reason her group, which disagrees with Bachmann on almost every issue, would stand up for and defend Bachmann against "these kind of misogynistic attacks is we want women to run for office." "Of course my job is to defeat Michele Bachmann and I intend to do so. But good women will not run for office if Newsweek magazine can do this to such a prominent politician and get away with it," O'Neill said. Brent Bozell, head of the Media Research Center and ForAmerica, said he's not surprised by the magazine cover. "Both Time and Newsweek have been doing this to conservatives for years. It is sheer journalistic dishonesty," Bozell told FoxNews.com. "But it is precisely because of this journalistic dishonesty that conservatives should steer away from these venues -- or at least demand some form of editorial oversight given that these magazines simply cannot be trusted."
+
+(1) First, you identify all the single words that are morally framed. Identify this step as "STEP 1:" and report each word in a new line starting with *
+(2) Finally, you write a summary of the news article. Please preserve as many morally framed words as possible in your summary. The summary has to be returned after a "SUMMARY:" token and ending with a "END OF SUMMARY." token. The summary should be no longer than 200 words.

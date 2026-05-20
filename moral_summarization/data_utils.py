@@ -6,7 +6,14 @@ import re
 from .utils import *
 
 
-EMONA_dataset_path = os.path.join(os.environ['HOME'], 'dev/moral-summarization/EMONA_dataset/EMONA')
+# Try to use local cloned EMONA_dataset in root first, fallback to home directory path
+root_dir = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+local_emona_path = os.path.join(root_dir, 'EMONA_dataset', 'EMONA')
+if os.path.exists(local_emona_path):
+    EMONA_dataset_path = local_emona_path
+else:
+    EMONA_dataset_path = os.path.join(os.environ['HOME'], 'dev/moral-summarization/EMONA_dataset/EMONA')
+
 EMONA_datasets = ['allsides', 'basil', 'mpqa']
 article_folders = {
     'allsides' : 'moral_allsides_articles',
@@ -18,8 +25,8 @@ annotation_folders = {
     'basil'    : 'moral_basil_annotations',
     'mpqa'     : 'moral_mpqa_annotations'
 }
-prompt_types = ['vanilla', 'simple', 'cot', 'oracle', 'class']
-test_set_articles_path = os.path.join(os.environ['HOME'], 'dev/moral-summarization/crowd_evaluation/articles_in_test_set.txt')
+prompt_types = ['vanilla', 'simple', 'cot', 'oracle', 'class', 'simple_fewshot', 'cot_fewshot', 'simple_fewshot_mft', 'cot_fewshot_mft']
+test_set_articles_path = os.path.join(root_dir, 'results', 'articles_in_test_set.txt')
 
 
 def get_article_path(article, dataset):

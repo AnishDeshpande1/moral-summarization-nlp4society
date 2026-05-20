@@ -1,0 +1,225 @@
+You have to summarize the following text preserving the moral framing that the author gave to it.
+
+Please study the following examples of news articles, their moral word extraction, and summaries preserving the moral framing:
+
+Example 1 (Political Ideology: Left):
+Here is the news article:
+
+Donald Trump has blocked the former White House counsel Don McGahn from testifying before Congress about the special counsel report on Russian election interference, prompting sharp criticism and even threats of impeachment.
+
+In a legal opinion released on Monday, the justice department said lawmakers on Capitol Hill cannot compel McGahn, who was subpoenaed by the House judiciary committee, to answer their questions under oath.
+
+“The Department of Justice has provided a legal opinion stating that, based on long-standing, bipartisan, and constitutional precedent, the former counsel to the president cannot be forced to give such testimony, and Mr McGahn has been directed to act accordingly,” the White House press secretary, Sarah Sanders, said in a statement.
+
+Trump must turn over financial records to House, judge rules – live
+
+“This action has been taken in order to ensure that future presidents can effectively execute the responsibilities of the office of the presidency.”
+
+McGahn is a central figure in special counsel Robert Mueller’s report, often standing in the way of Trump’s efforts to obstruct justice.
+According to investigators, McGahn threatened to resign when the president ordered him to have Mueller fired.
+
+McGahn was also dispatched by Trump to convince the former attorney general Jeff Sessions not to recuse himself from overseeing the Russia investigation.
+(Sessions did not heed the president’s demands.)
+
+Travelling to a rally in Pennsylvania, Trump was asked why he was asking McGahn to defy a congressional subpoena.
+“Well, as I understand it, they’re doing that for the office of the presidency, for future presidents,” he replied, according to a pool report.
+“I think it’s a very important precedent.
+And the attorneys say that they’re not doing that for me.
+They’re doing it for the office of the president.
+So we’re talking about the future.”
+
+The White House’s intervention was condemned by Jerry Nadler, the Democratic chairman of the judiciary committee.
+“The Mueller report documents a shocking pattern of obstruction of justice,” he said in a statement.
+“The president acted again and again – perhaps criminally – to protect himself from federal law enforcement.
+
+“Don McGahn personally witnessed the most egregious of these acts.
+President Trump knows this.
+He clearly does not want the American people to hear firsthand about his alleged misconduct, and so he has attempted to block Mr McGahn from speaking in public tomorrow.”
+
+The move is the latest example of the Trump administration’s “disdain for the law”, added Nadler, who said the committee will meet as planned on Tuesday morning and still expects McGahn to appear.
+
+Another Democratic member of the committee, David Cicilline, went further in his criticism, suggesting that impeachment of Trump would be warranted if McGahn did not respond to the subpoena.
+
+“Let me be clear: if Don McGahn doesn’t testify, it is time to open an impeachment inquiry,” he told the MSNBC network.
+“The president has engaged in an ongoing effort to impede our ability find the truth, to collect evidence, to do our work … No one is above the law, including the president of the United States.”
+
+Cicilline admitted he did not know if his view was shared by other members of Democratic leadership but added: “We may well be forced into a position to have to open a formal inquiry in order to facilitate the collection of the evidence that we need to see.”
+
+The justice department’s legal opinion does not prevent McGahn testifying if he so chooses, although it would be potentially at risk to his own career.
+Trump has mused about instructing Republicans to cease dealing with his law firm, Jones Day, the Associated Press reported.
+
+William Barr is acting like Trump's henchman
+
+Matthew Miller, former director of the office of public affairs for the justice department, tweeted: “Just show up and testify, McGahn.
+This isn’t about some garden-variety Congressional-executive branch dispute, but as one of your predecessors described it, a cancer on the presidency.
+Think about your place in history.”
+
+McGahn was subpoenaed by Nadler last month and, under instruction by the White House, failed to meet an initial deadline to appear before the committee.
+Nadler threatened to hold McGahn in contempt of Congress if he did not meet a second deadline of 21 May.
+
+McGahn, who left the White House last year, has increasingly become the subject of Trump’s ire following the release of the redacted Mueller report.
+Last week, the president tweeted he was “never a big fan” of McGahn and suggested it was the former White House counsel, and not Mueller, who was on his chopping block at the time of the investigation.
+
+The Trump administration has repeatedly blocked attempts at oversight by the Democratic-controlled House.
+Last month it instructed the former personnel security director Carl Kline not to testify at a hearing into alleged lapses in White House security clearance procedures.
+Last week the treasury secretary, Steven Mnuchin, refused to comply with a congressional subpoena to hand over Trump’s tax returns.
+
+Nadler’s committee has previously voted to hold the attorney general, William Barr, in contempt for refusing to provide the unredacted Mueller report and underlying evidence to Congress.
+
+STEP 1:
+* obstruction
+* justice
+* criminal
+* misconduct
+* disdain
+* law
+* truth
+* impede
+* above
+* cancer
+* contempt
+
+SUMMARY:
+Donald Trump has blocked former White House counsel Don McGahn from testifying before Congress about the special counsel report on Russian election interference, sparking sharp criticism and even threats of impeachment. The move is the latest example of the Trump administration's "disdain for the law" and an attempt to "impede" the collection of evidence. McGahn is a central figure in the report, having threatened to resign when Trump ordered him to have Mueller fired. Democrats condemned the move, with Jerry Nadler saying it's part of a "shocking pattern of obstruction of justice" and David Cicilline suggesting that impeachment would be warranted if McGahn didn't respond to the subpoena. The Trump administration has repeatedly blocked attempts at oversight, showing a blatant disregard for the "law" and the "truth". END OF SUMMARY.
+
+Example 2 (Political Ideology: Center):
+Here is the news article:
+
+Larry Summers, the outgoing chairman of the National Economic Council, just told a group of reporters that failure to pass a package like the tax deal announced by President Obama this week “would significantly increase the risk” of a double-dip recession.
+
+Mr. Summers made the remarks at a briefing with the White House press secretary Robert Gibbs and David Axelrod, the president’s top political adviser.
+The administration has been pushing back hard against criticism from fellow Democrats that the president has caved too much to Republicans.
+
+In brief remarks after meeting with President Bronislaw Komorowski of Poland, Mr. Obama on Wednesday emphatically disputed that Democrats generally feel betrayed by his deal with Congressional Republicans on the tax cuts, saying that “the more who look at it, the more will say this makes sense.”
+
+“I just think it’s very important for Congress to examine the agreement, look at the facts, have a thorough debate, but get this done.
+The American people are watching, and they’re expecting action on our parts,” Mr. Obama said.
+“I don’t think we need to translate that.”
+
+In a joint appearance at the White House with Mr. Komorowski, Mr. Obama said that “economists across the country have upwardly revised their forecasts for growth” after the tax deal was announced on Monday night.
+
+Vice President Joseph R. Biden Jr. planned to return to Capitol Hill this afternoon to meet with House Democrats as President Obama and the White House sought to quell the uproar among liberals about the tax deal.
+
+Officials said Mr. Biden will travel to the Hill around 4:30 p.m. in an attempt to sell the compromise Mr. Obama announced this week.
+It will be the second time in two days that Mr. Biden has served as the liaison-in-chief for the White House.
+
+Mr. Biden’s visit and the president’s comments come as the administration’s message machine started churning out statements of support.
+
+To counter condemnations from some Democrats in Congress, the White House circulated a series of e-mails quoting endorsements from private-sector economic forecasters, liberal as well as conservative analysts, and Democratic officeholders, including an obscure freshman House member, Representative Gary Peters of Michigan.
+
+By noon, the White House press office had released supportive comments from Antonio Villaraigosa, the mayor of Los Angeles, and Mr. Peters.
+The Democratic National Committee alerted reporters that Jennifer Granholm, the Democratic governor of Michigan, also supports the deal.
+
+John Podesta, a former chief of staff to President Bill Clinton and a close ally of Mr. Obama, issued a statement calling the tax deal “a steep price” but saying the president was “right to choose helping working Americans over a December conflagration.” 
+The Democratic National Committee also sent that statement around to reporters.
+
+David Axelrod, the president’s chief political adviser, said on CNN’s “American Morning” that middle-class Americans were “going to get screwed” if their tax cuts were not extended at the end of the year.
+
+The administration was quick to highlight comments from Mark Zandi, chief economist for Moody’sEconomy.com, projecting that the Obama tax deal would increase economic growth next year by 1.25 percentage points and create 1.6 million jobs.
+Macroeconomic Advisors, Deutsche Bank and Goldman Sachs projected smaller increases but no less than at least 0.5 percentage point.
+That is on top of projections that currently are in the range of 2 percent to 3 percent.
+
+But the public relations offensive is being met with public expressions of outrage from Mr. Obama’s base, including the most liberal members of Congress and spokesmen for interest groups on the left.
+
+Close to three dozen House Democrats have signed a letter from Representative Peter Welch, Democrat of Vermont, calling the tax deal “fiscally irresponsible” and “grossly unfair.”
+The letter says Mr. Obama “should not back down. Nor should we.”
+
+Mr. Biden’s visit with the House Democrats is likely to be as contentious as the one that he led with their Senate colleagues on Tuesday — if not more so.
+
+Despite the closed-door lunchtime meeting, Senate aides told The Times afterward that about 30 Democratic senators remained “firmly opposed” to the president’s negotiated deal after hearing from the vice president.
+
+In the House, Democratic lawmakers said Wednesday morning that the sense of disappointment with the president remained strong.
+
+“I don’t think it was preordained that if we had a deadlock, they would have won it,” said Representative Barney Frank, Democrat of Massachusetts, in an interview on MSNBC.
+“I’m not going to vote for it.
+I don’t feel that I should be coerced.”
+
+STEP 1:
+* betrayed
+* caved
+* fiscally
+* irresponsible
+* grossly
+* unfair
+* coerced
+
+SUMMARY:
+Outgoing National Economic Council Chairman Larry Summers warned that failing to pass the tax deal would significantly increase the risk of a double-dip recession. President Obama disputed claims that Democrats feel betrayed by his deal with Congressional Republicans, saying that "the more who look at it, the more will say this makes sense." However, many Democrats remain outraged, calling the deal "fiscally irresponsible" and "grossly unfair." Despite the administration's efforts to sell the compromise, including Vice President Biden's meeting with House Democrats, around 30 Democratic senators and close to three dozen House Democrats remain firmly opposed to the deal. Some, like Representative Barney Frank, feel coerced into voting for it. The White House has countered with endorsements from economic forecasters and Democratic officeholders, but the deal's fate remains uncertain. END OF SUMMARY.
+
+Example 3 (Political Ideology: Right):
+Here is the news article:
+
+President Trump on Monday called the criminal case against former national security adviser Michael Flynn “very unfair,” claiming he and Hillary Clinton both “lied” to the FBI but only Flynn faced consequences.
+
+The president’s comments, made to reporters as he left Washington for a policy announcement in Utah, saw Trump wading deeper into the Flynn investigation even after a weekend tweet landed the White House in hot water.
+
+On Monday, Trump said he feels “badly” for Flynn, who pleaded guilty on Friday to giving false statements to the FBI about his Russia contacts.
+
+“Hillary Clinton lied many times to the FBI, nothing happened to her. Flynn lied and they destroyed his life,” Trump said. 
+
+The president, without offering specifics, said his 2016 Democratic rival “lied many times” during her FBI interview in early July.
+
+“Nothing happened to her. Flynn lied and it’s like they ruined his life. Very unfair,” Trump said, echoing a weekend tweet in which he asked whether a “double standard” was at play.
+
+Clinton was interviewed by FBI agents as part of the investigation into her exclusive use of a private email system while secretary of state. 
+
+After that interview, then-FBI Director James Comey called her actions extremely careless without recommending criminal charges.
+
+Trump also noted over the weekend that Clinton was not recorded or under oath during that interview.
+
+On Sunday, Sen. Lindsey Graham, R-S.C., suggested Trump might want to think twice before tweeting and commenting on the Russia case. 
+
+“You tweet and comment regarding ongoing criminal investigations at your own peril,” he said on CBS’ “Face the Nation.”
+
+This was after Trump’s account tweeted Saturday: “I had to fire General Flynn because he lied to the Vice President and the FBI. 
+
+He has pled guilty to those lies. 
+
+It is a shame because his actions during the transition were lawful. 
+
+There was nothing to hide!”
+
+That tweet immediately caused problems for the White House, as some legal experts said it potentially exposed the president to obstruction of justice allegations – since, according to the tweet, he would have known Flynn lied to agents when he allegedly asked Comey to lay off the Flynn investigation and later fired Comey. 
+
+Trump said earlier this year that he fired Flynn only for lying to Vice President Pence about the issue.
+
+Trump’s personal lawyer John Dowd later said he was the one who wrote that tweet, saying he “did not mean to break news.”
+
+Dowd attempted to explain Sunday that the tweet was referring to then-acting Attorney General Sally Yates telling White House Counsel Don McGahn in January that Flynn had “given the agents the same story he gave the vice president.”
+
+He also said the agents seemed to think Flynn was confused. 
+
+“All the president knew was that the department was not accusing him of lying,” Dowd said.
+
+Trump over the weekend denied that he asked Comey to stop investigating Flynn.
+
+Sen. Dianne Feinstein, D-Calif., the top Democrat on the Senate Judiciary Committee, said on NBC’s “Meet the Press” on Sunday that the panel has begun to see "the putting together of a case of obstruction of justice" against Trump.
+
+Flynn is now cooperating with Special Counsel Robert Mueller’s investigators in the Russia meddling case, though it’s unclear what exactly he might reveal about Trump and his associates.
+
+
+
+STEP 1:
+* unfair
+* lied
+* destroyed
+* ruined
+* extremely
+* careless
+* shame
+* lawful
+* nothing
+* peril
+* obstruction
+* justice
+
+SUMMARY:
+President Trump claimed the criminal case against Michael Flynn is "very unfair" and that Flynn's life was "ruined" because he lied to the FBI, whereas Hillary Clinton "lied many times" and faced no consequences. Trump's comments sparked controversy, with some legal experts suggesting his tweets could be seen as obstruction of justice. Trump's personal lawyer, John Dowd, attempted to clarify the situation, but Senator Dianne Feinstein stated that the Senate Judiciary Committee is building a case of obstruction of justice against Trump. Meanwhile, Flynn is cooperating with Special Counsel Robert Mueller's investigators in the Russia meddling case. Trump's comments have raised questions about a "double standard" and whether he is trying to influence the investigation. END OF SUMMARY.
+
+Now, here is the target news article to summarize:
+Here is the news article:
+
+WASHINGTON — The House Intelligence Committee’s first hearing since Robert S. Mueller III completed his report had barely begun when the panel’s Republicans moved en masse to demand the resignation of the committee’s chairman. It went downhill from there. The acrimony on display Thursday as the intelligence committee tried to resume its work on Russia’s intervention in the 2016 presidential election laid bare the bitter divide that persists in Congress even after Mr. Mueller, the special counsel, completed his 22-month investigation of the subject. The Republican demand and the barbed response of the committee’s chairman, Representative Adam B. Schiff, echoed well outside the wood-paneled House hearing room. Representative Kevin McCarthy, the House Republican leader, spent much of his weekly news conference comparing Mr. Schiff, a fellow Californian, to Senator Joseph R. McCarthy, who fueled fears in the 1950s that Communist spies had infiltrated the American government. Representative Michael R. Turner, Republican of Ohio, played the same card in the hearing room, fuming that Mr. Schiff would not accept Attorney General William P. Barr’s word that Mr. Mueller had not found the Trump campaign to have taken part in a conspiracy to undermine the election. “With McCarthyism,” a senator was “chasing after Russian Communists,” Mr. Turner, an Intelligence Committee member, said. “Now we have Schiff chasing after Russian collusion.” Undaunted, Mr. Schiff made clear he was not about to step down, nor was he about to absolve President Trump or his campaign from nefarious conduct with Moscow — especially without seeing Mr. Mueller’s report first. The Justice Department revealed on Thursday that the report came in at more than 300 pages, raising more questions about what information was behind the four-page summary released by Mr. Barr. Mr. Schiff had many questions of his own. “You might think that it’s O.K. that the president’s son-in-law sought to establish a secret back channel of communications with the Russians through a Russian diplomatic facility. I don’t think that’s O.K. You might think it’s O.K. that an associate of the president made direct contact with the G.R.U. through Guccifer 2.0 and WikiLeaks; that is considered a hostile intelligence agency,” Mr. Schiff said, referring to Russian military intelligence and a Russian intelligence hacker. He continued: “You might think that it’s O.K. that the national security-designate secretly conferred with the Russian ambassador about undermining U.S. sanctions. And you might think it’s O.K. he lied about it to the F.B.I. You might say that’s all O.K. You might say that’s just what you need to do to win. But I don’t think it’s O.K. I think it’s immoral. I think it’s unethical. I think it’s unpatriotic. And yes, I think it’s corrupt.” Democrats who now control the House say that they will accept Mr. Mueller’s findings, but as Mr. Schiff’s monologue indicated they are increasingly determined not to let go of what they see as a deeply troubling pattern of wrongdoing by Mr. Trump, his businesses and his administration. That has in turn enraged Republicans, who have happily embraced what they call Mr. Mueller’s absolution of Mr. Trump. They say Democrats will stop at nothing to ruin his presidency, and bristle at Democrats accusing them of turning a blind eye to the Russian threat. And at the center of their wrath is Mr. Schiff, whose doughy-faced demeanor hardly evokes an attack dog. “The findings of the special counsel conclusively refute your past and present assertions and have exposed you as having abused your position to knowingly promote false information, having damaged the integrity of this committee, and undermined faith in U.S. government institutions,” Representative K. Michael Conaway, Republican of Texas, said to Mr. Schiff. Reading from a letter signed by every Republican member of the committee, Mr. Conaway added, “Your actions both past and present are incompatible with your duties as chairman of this committee.” Mr. Trump intervened as well, accusing Mr. Schiff of “knowingly and unlawfully lying and leaking.” He “should be forced to resign from Congress!” the president wrote on Twitter. Mr. Schiff, clearly prepared for the ambush, argued that there was a difference between prosecutors proving a criminal conspiracy and the committee investigating evidence of foreign compromise. The committee’s own investigative work would go on, he signaled, though outside the hearing room he has indicated that work may well need to shift course once Mr. Mueller’s findings are fully understood. Democrats backed him. “History will clarify what has happened,” said Representative Jim Himes, Democrat of Connecticut. Speaker Nancy Pelosi of California praised Mr. Schiff as “calm, professional, patriotic,” and said his work as the chairman of the committee has been “in stark contrast to the irresponsible and almost criminal behavior of the previous chair of the committee,” Representative Devin Nunes, Republican of California. “What is the president afraid of — that he would go after a chairman of the committee?” she said. “I think they’re just scaredy-cats. They just don’t know what to do.” The party gave Mr. Schiff a more formal nod of confidence this week as well. On Wednesday, the Democratic Congressional Campaign Committee, House Democrats’ campaign arm, announced that Mr. Schiff would serve as a key fund-raiser for the caucus’s most vulnerable members to help put together a firewall to project the House majority. Out of the glare of the television cameras, Democrats are somewhat more circumspect. “In the heat of the political moment just as the Republicans wanted to try to convict Hillary Clinton in the public sphere, Democrats probably contributed to the expectations that the outcome would be worse for the president than it was,” Mr. Himes said in an interview a day ahead of the hearing. Notably sitting out the fight was Mr. Nunes, whom Democrats have accused of many of the same abuses that Republicans accused Mr. Schiff of on Thursday and whose resignation they asked for last year. Mr. Nunes’s sustained work last term to scrutinize the origins of the Russia investigation and accuse federal law enforcement officials of acting out of anti-Trump political bias sent convulsions through what in quieter times is one of Congress’s more bipartisan bodies. “We should not be used as a platform to spread false information and bizarre conspiracies,” Mr. Nunes said on Thursday in brief remarks before deferring to Mr. Conaway. Thursday’s showdown came, ironically enough, during a hearing with four subject experts on “Putin’s Playbook: The Kremlin’s Use of Oligarchs, Money and Intelligence in 2016 and Beyond.” Down the line, the witnesses warned that Vladimir V. Putin’s Russia would only grow bolder in its efforts to destabilize western democracies, including the United States. “The bad news is that there is a new ideological fight between Putinism and the West, and it has only just begun,” said Michael McFaul, an ambassador to Moscow under former President Barack Obama. “In my estimation, we as a country are underestimating it.” The whole episode offered a sharp contrast to the Senate Intelligence Committee, which with a yawning pace and no-leaks team has continued apace with its own Russia investigation. The committee’s chairman, Senator Richard M. Burr of North Carolina, said this week that he aimed to finish witness interviews in the coming weeks and issue the last in a series of reports on the panel’s findings in the coming months. On Thursday, as Democrats and Republicans in the House traded recriminations, the Senate panel quietly called back for another interview with Jared Kushner, Mr. Trump’s son-in-law and senior adviser.
+
+(1) First, you identify all the single words that are morally framed. Identify this step as "STEP 1:" and report each word in a new line starting with *
+(2) Finally, you write a summary of the news article. Please preserve as many morally framed words as possible in your summary. The summary has to be returned after a "SUMMARY:" token and ending with a "END OF SUMMARY." token. The summary should be no longer than 200 words.

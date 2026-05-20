@@ -1,0 +1,195 @@
+You have to summarize the following text preserving the moral framing that the author gave to it, with particular focus on the specific moral foundations highlighted in the text.
+
+Please study the following examples of news articles, their moral word extraction, and summaries preserving the moral framing:
+
+Example 1 (Political Ideology: Left, Moral Foundations: Authority/Subversion, Fairness/Cheating, Loyalty/Betrayal):
+Here is the news article:
+
+Trump’s grandiosity manifests itself in ways large and small.
+Through the first-person singular pronoun, he casts himself as the indispensable protagonist in the American story.
+At a Cabinet meeting last week, for example, he said, “I’m the one that did the capturing,” in reference to Islamic State terrorists.
+At another point, he said, “Look, I have the strongest economy ever.”
+
+Perhaps the most extreme expression of Trump’s vaulting self-conception is his use of the word treason.
+Treason is a crime so serious that the framers took steps to ensure that it wouldn’t be misused for partisan purposes.
+It is a betrayal of one’s country, defined in Article III of the Constitution as levying war against the United States, or “adhering to” enemies and giving them “aid and comfort.” That’s not how Trump has sought to define it: disloyalty to a political leader or antipathy for that leader’s behavior.
+
+Trump knows what treason means—or at least he once did.
+Talking to reporters aboard Air Force One in 2017, he described treason as Julius and Ethel Rosenberg passing secrets to the Soviet Union, acts of espionage that led to their execution in 1953.
+The word first popped up in his Twitter feed in September 2018, in reference to an anonymous op-ed in The New York Times describing how executive-branch officials resist Trump’s agenda.
+He has used the word two dozen times this year alone on Twitter, weaponizing it as his anger toward political opponents grows.
+Democrats who opposed his border measures, he tweeted in April, are “TREASONOUS.” Prosecutors working under Special Counsel Robert Mueller, he tweeted that same day, were perpetrating a “Treasonous Hoax!”
+
+The latest enemy of the state is Democratic Representative Adam Schiff of California, the Intelligence Committee chairman who is running the impeachment probe.
+“I want Schiff questioned at the highest level for Fraud & Treason,” Trump tweeted last month.
+The crime: characterizing Trump’s phone call with the Ukrainian president, Volodymyr Zelensky, in a way that didn’t match the rough transcript released by the White House.
+That doesn’t sound like grounds for lethal injection, but Trump doesn’t seem to care.
+Conspiring with Schiff is another traitorous villain, Trump told his 66 million Twitter followers earlier this month: House Speaker Nancy Pelosi, who authorized the impeachment probe.
+
+Trump’s use of the word is anachronistic in the modern era, echoing the way monarchs deployed it in centuries past.
+Carlton Larson, a professor at the UC Davis School of Law and an expert on treason, told me that Trump has misused the term in ways that “confuse loyalty to the country with loyalty to Trump, which is the old English idea that treason was betrayal of the king.
+
+“He’s completely inaccurate, woefully so, in his understanding of it, and it’s quite disturbing,” Larson continued.
+“I can’t think of another president who has tossed around that term so casually.
+In many countries, treason is used as a way to execute political opponents—and it’s because of that that we have a more limited definition.”
+
+STEP 1:
+* Treason
+* Treasonous
+* Fraud
+* Betrayal
+* Disloyalty
+* Antipathy
+* Disturbing
+* Inaccurate
+* Woefully
+* Disturbing
+
+SUMMARY:
+Donald Trump's grandiosity is on full display as he misuses the term "treason" to describe disloyalty to himself, rather than its constitutional definition of levying war against the United States or aiding its enemies. He has used the word over two dozen times this year alone on Twitter, targeting political opponents such as Democrats who opposed his border measures, prosecutors working under Special Counsel Robert Mueller, and Democratic Representative Adam Schiff, who is leading the impeachment probe. Trump's understanding of treason is "completely inaccurate, woefully so," according to legal expert Carlton Larson, and is reminiscent of monarchs from centuries past who used the term to execute political opponents. This "disturbing" misuse of the term has no precedent in modern American politics. END OF SUMMARY.
+
+Example 2 (Political Ideology: Center, Moral Foundations: Authority/Subversion, Care/Harm, Fairness/Cheating):
+Here is the news article:
+
+WASHINGTON (Reuters) - The U.S. House Judiciary Committee on Monday subpoenaed former White House aide Rob Porter to testify about alleged efforts by President Donald Trump to impede a federal probe into Russian interference in the 2016 presidential election.
+
+FILE PHOTO: White House Staff Secretary Rob Porter (L) arrives aboard Air Force One with fellow senior staff and U.S. President Donald Trump for a summer vacation at his Bedminster estate, at Morristown Airport in Morristown, New Jersey, U.S. August 4, 2017.
+
+Porter was the third former Trump adviser to draw a House Judiciary subpoena within the past two weeks.
+Porter and the other two advisers - Trump’s former campaign manager Corey Lewandowski and former White House Deputy Chief of Staff Rick Dearborn - are due to appear before the committee at 10 a.m. EDT on Sept. 17.
+
+House Judiciary Committee Chairman Jerrold Nadler said the proceedings would help the Democratic-led panel determine whether to recommend Trump’s impeachment to the full House of Representatives.
+
+Porter is a former White House staff secretary who witnessed a number of episodes laid out in former Special Counsel Robert Mueller’s Russia investigation report, including one involving then-White House Counsel Don McGahn that Democrats view as key to their investigation of the Trump presidency.
+
+“Rob Porter was prominently featured in the special counsel’s description of President Trump’s efforts to obstruct justice by directing ... McGahn to fire the special counsel, and then ordering him to lie about it,” Nadler said in a statement.
+
+Democrats want Lewandowski and Dearborn to testify about another damaging episode that involves the president’s alleged efforts to pressure then-Attorney General Jeff Sessions to direct Mueller’s Russia investigation away from the 2016 Trump campaign.
+
+“No one is above the law,” Nadler said, adding “any other American would have been prosecuted based on the evidence Special Counsel Mueller uncovered in his report.”
+
+Porter could not be immediately reached for comment.
+
+It is not clear whether the White House will seek to block the testimony of Porter and Dearborn, as it has that of McGahn and other onetime Trump White House aides.
+Lewandowski, a Trump confidant who has never served on the White House staff, has said he will testify.
+
+McGahn told Mueller that Trump repeatedly instructed him to have the special counsel removed and then asked him to deny having been so instructed when news of the action emerged in news reports.
+McGahn did not carry out either instruction.
+
+According to the Mueller report, Trump turned to Porter to pressure McGahn into writing a letter of denial.
+
+“If he doesn’t write a letter, then maybe I’ll have to get rid of him,” the Mueller report quotes Trump as telling Porter.
+The report said Porter recalled that the president referred to McGahn as a “lying bastard.”
+
+Trump also asked Porter to stay in touch with former Associate Attorney General Rachel Brand, whom Porter knew, as a possible replacement for Sessions after the attorney general recused himself from the Russia probe and refused Trump’s demands that he reverse his decision.
+
+“In asking him to reach out to Brand, Porter understood the president to want to find someone to end the Russia investigation or fire the special counsel, although the president never said so explicitly,” the Mueller report said.
+
+Porter was interviewed twice by the special counsel team, and, according to the Mueller report, took contemporaneous notes during a number of other incidents that now interest Democrats.
+
+He left the White House in February 2018 after accusations of domestic abuse from his former wives.
+
+STEP 1:
+* impede
+* obstruction
+* justice
+* lie
+* above
+* law
+* prosecuted
+* damaging
+* pressure
+* lying
+* bastard
+
+SUMMARY:
+The U.S. House Judiciary Committee has subpoenaed former White House aide Rob Porter to testify about President Donald Trump's alleged efforts to impede a federal probe into Russian interference in the 2016 presidential election. Porter, who witnessed several episodes of Trump's attempts to obstruct justice, is due to appear before the committee on September 17. Democrats believe that Trump's actions, including directing White House Counsel Don McGahn to fire Special Counsel Robert Mueller and then ordering him to lie about it, are key to their investigation of the Trump presidency. Committee Chairman Jerrold Nadler stated that "no one is above the law" and that any other American would have been prosecuted based on the evidence uncovered in the Mueller report. Porter's testimony is crucial in determining whether to recommend Trump's impeachment to the full House of Representatives. END OF SUMMARY.
+
+Example 3 (Political Ideology: Right, Moral Foundations: Care/Harm, Fairness/Cheating):
+Here is the news article:
+
+Last week, President Donald Trump erupted with fury over a series of public revelations of private facts — some top-secret and some office gossip — that painted him and his White House in a bad light.
+The president ordered the FBI to investigate some of these so-called leaks and his own White House counsel to investigate others.
+
+There are numerous issues related to the leaking of government information.
+They include the leaking of classified information, the leaking of confidential communications and the publishing of leaked material.
+
+Here is the back story.
+
+It is a felony to reveal classified information to any person who lacks a classified clearance, as some in the intelligence community have recently done to embarrass, control, intimidate or infuriate the president.
+The National Security Agency employs over 60,000 domestic spies, but they work in compartmentalized areas.
+Thus, not all of them have access to all the data collected by all of their colleagues.
+Only about 100 spies have access to the top-secret data that was leaked about the president.
+
+When members of the intelligence community leaked lurid allegations about the future president's alleged behavior in a Moscow hotel room, which he has vehemently denied, and when some leaked the partial transcripts of telephone conversations between retired Lt. Gen. Michael Flynn and the Russian ambassador to the U.S. — shortly before Flynn became the president's national security adviser — and when some leaked an intelligence report that contradicted the president's publicly stated conclusions on the likelihood of dangerous people immigrating to the U.S. from the seven predominately Muslim countries named in the president's now enjoined temporary travel ban, one can understand the presidential anger.
+
+And leaks are a two-sided coin.
+Adding to Trump's woes caused by too much revealing is the other side of that coin — too much concealing.
+This comes into play when one has a duty to reveal.
+That duty arises from the legal obligation of spies to pass on to their superiors — and ultimately to the president — all of the material information they have acquired about America's friends and enemies.
+
+Selectively concealing and revealing this type of intelligence data, thereby manipulating the presidential judgment, when one has a duty to reveal substantially all of it is a form of interference with a governmental function — namely, the president's exercise of his judgment — and that is a felony.
+
+As if all this were not enough for a young presidency to deal with, Trump finds himself with a White House staff leaking to the press Oval Office gossip about confidential conversations from within the White House that the participants in those conversations had every reason to believe would not be made public.
+This resulted in the temporary seizure of government-issued cellphones held by a dozen or so staffers so their bosses could learn whether any had spoken to the press.
+The cellphones episode was itself leaked, apparently by a participant not happy with it.
+
+What's going on here?
+
+These events are either the growing pains of a new presidential administration, still partially staffed by those loyal to former President Barack Obama, or the product of sinister forces from people attempting to exercise their own judgment about America's foes by frustrating and manipulating the judgment of the president — whom the voters elected to exercise the constitutional powers to make those judgment calls.
+The latter situation would be perilous, as it would mean we have unelected, unaccountable, and unnamed people pulling the levers of power in the field of national security.
+
+The leaks of confidential communications from within the White House may be a pain in the neck for the president, but they are not criminal.
+And generally, a boss can look at an employee's cellphone, as long as the employer of the boss and the employee owns the phone — except when the employer is the government.
+The Fourth Amendment insulates government employees from governmental reach into its employees' cellphones.
+Absent an employee's waiving his Fourth Amendment rights, the government may not seize work-related (governmental) or personal phones without a search warrant.
+
+Can the media publish these leaks?
+
+In a word, yes.
+The media may publish anything that is of material interest to the public, notwithstanding its level of secrecy or how it was acquired.
+The First Amendment — which the courts have construed to treat the media as the eyes and ears of the public — protects absolutely the publication by the media of leaked data, whether gossip or top-secret, that the public wants to hear.
+
+The courts have also ruled that everything about the president is of material public interest — meaning no criminal or civil action can be taken against the media for the publication of any leaked materials that reflect on the president as a person or as a government official.
+When The New York Times published a probably stolen copy of Trump's tax returns, it did so with impunity.
+
+One can see why Trump rails against the press.
+Yet he has taken an oath to preserve, protect and defend the very constitutional principles that protect and liberate a free press from the anger of the government, no matter how well-grounded that anger may be.
+One of his predecessors who was savaged by the press, Thomas Jefferson, wrote that accountability and transparency in government are of such overriding value that he'd prefer newspapers without a government to a government without newspapers.
+
+STEP 1:
+* felony
+* embarrass
+* control
+* intimidate
+* infuriate
+* duty
+* concealing
+* manipulating
+* interference
+* felony
+* sinister
+* perilous
+* unelected
+* unaccountable
+* unnamed
+* pain
+* criminal
+* waiving
+* insulates
+* impunity
+* accountability
+* transparency
+* overriding
+* savaged
+
+SUMMARY:
+President Trump's administration is dealing with a series of leaks, including classified information and confidential communications, which has sparked fury and investigations. However, the article highlights that leaks are a two-sided coin, and concealing information can be just as problematic as revealing it. The duty to reveal information is crucial, and selectively concealing it can be a form of interference with the president's judgment, which is a felony. The article also notes that the media has the right to publish leaked information, even if it's top-secret, as it is of material interest to the public. Trump's anger towards the press is understandable, but he has taken an oath to protect the very constitutional principles that protect a free press. The article concludes that accountability and transparency in government are of overriding value. END OF SUMMARY.
+
+Now, here is the target news article to summarize:
+Here is the news article:
+
+Leaks about what now resigned National Security Advisor Michael Flynn did or did not convey to Russia Ambassador Sergei Kislyak in a late December phone call not only led to the first administration shakeup but also confirmed that the Washington rules of engagement have not changed after all. In Washington, the weaponized leak always gets through. “The spotlight has finally been put on the low-life leakers!” President Trump tweeted before his February 16 press conference to comment on the Flynn fiasco. "They will be caught!” he predicted. No, they won’t be caught, is what history says, and more: In Washington, the leaks grow like the buckets of water in Walt Disney’s “The Sorcerer’s Apprentice.” More worrisome to Chief of Staff Reince Priebus, whose job is to command the president’s people, history shows that trying to close off the leaks leads to blame-shifting, low morale, resignations and eventually to political abandonment by Congress. The outline above is a bloodless diagramming of the infamous Watergate scandal. Recall that the leak of the infelicitous but not vital Pentagon Papers led to the Nixon Administration’s creating the so-called Plumbers, the sad-sack volunteer burglars led by Gordon Liddy and Howard Hunt, whose efforts to solve leaks led to a creepy break-in at Daniel Ellsberg’s psychiatrist’s office in September, 1971 and then to the boneheaded Watergate break-in of June, 1972. After that, President Nixon sank in a flood of leaks for twenty-six months until his terse resignation on the day he recognized that forced removal from office by the Senate was imminent. Following the Flynn resignation, there was a moment for the White House to regain balance and go forward with the overwhelming tasks at hand of creating a new government. Instead, the White House chose to follow in the damp footsteps of the Nixon White House and treat the leakers as the problem. What else could the president be indicating in his lengthy press conference of Thursday February 16 when asked about leaks? “Yes, we're looking at them very — very, very serious. I've gone to all of the folks in charge of the various agencies, and we're — I've actually called the Justice Department to look into the leaks. Those are criminal leaks.” Let this presidential warning be a marker of the probable birth of the New Plumbers. To underline how completely the White House has misapprehended the struggle ahead, the president invoked the power of the new Attorney General, as if that was sure to stop the leaks: “They're put out by people either in agencies — I think you'll see it stopping because now we have our people in. We just had Jeff Sessions approved. In Justice, as an example. So, we are looking into that very seriously. It's a criminal act.” No, the record shows that leaks are not all that criminal. For example, publishing leaked government information that is accurate has never led to either a reporter or a publisher being prosecuted. The leaker can be pursued relentlessly -- though very rarely successfully. Even then, intimidation doesn’t work, as there is always another leaker. The Obama Administration set a new record of ten investigations against leakers. However, the most prominent cases, Bradley Manning, Julian Assange and Edward Snowden, did not bring plaudits for President Obama – and further entangled the Obama White House in doubts about its competence. After President Trump’s press conference, there was a small possibility that this was bluster; and that the White House was not actually launching dragnets, black bag jobs, Ministry of Truth round-ups. One week later, all hope of avoiding the Nixonian scenario of Leak Apocalypse was gone with the leak that Priebus had irregularly contacted the FBI. The particulars of the Priebus-to-FBI-about-Russia leak are not crucial for the game. What is critical is the White House reaction to the leak. Early Friday morning February 24, the president sent two serial tweets that certainly look to be a chastisement of law enforcement: “The FBI is totally unable to stop the national security "leakers" that have permeated our government for a long time. They can't even Find the leakers within the FBI itself.” Explicating his alarm, the president asserted, “Classified information is being given to the media that could have devastating effect on U. S.” In closing, at 7:36 a.m., an imperative order from the commander-in-chief was keyed in all caps, “FIND NOW.” If the New Plumbers were still getting their waders laced up, they are certainly in the field now following the president’s dismissal of the FBI’s adequacy. The week ended with a warning that these are just the beginning days of whack-a-leak. Josh Rogin reported in the Washington Post that Secretary of State Rex Tillerson directed his legal office to issue a “Sensitive But Unclassified” four-page memo to privileged staff that warned against leaking, arguing ponderously, “When such information is leaked. It chills the willingness of senior government officials to seek robust and candid advice.” Most that can be said about the power of the Washington leaker and the futility of the Trump Administration’s quest is in the fact that Tillerson’s memo was immediately leaked.
+
+(1) First, you identify all the single words that are morally framed, focusing especially on the dimensions of Authority/Subversion, Fairness/Cheating, Loyalty/Betrayal. Identify this step as "STEP 1:" and report each word in a new line starting with *
+(2) Finally, you write a summary of the news article. Please preserve as many morally framed words as possible, particularly focusing on the moral dimensions of Authority/Subversion, Fairness/Cheating, Loyalty/Betrayal in your summary. The summary has to be returned after a "SUMMARY:" token and ending with a "END OF SUMMARY." token. The summary should be no longer than 200 words.

@@ -1,0 +1,233 @@
+You have to summarize the following text preserving the moral framing that the author gave to it, with particular focus on the specific moral foundations highlighted in the text.
+
+Please study the following examples of news articles, their moral word extraction, and summaries preserving the moral framing:
+
+Example 1 (Political Ideology: Left, Moral Foundations: Authority/Subversion, Fairness/Cheating, Loyalty/Betrayal):
+Here is the news article:
+
+Donald Trump has blocked the former White House counsel Don McGahn from testifying before Congress about the special counsel report on Russian election interference, prompting sharp criticism and even threats of impeachment.
+
+In a legal opinion released on Monday, the justice department said lawmakers on Capitol Hill cannot compel McGahn, who was subpoenaed by the House judiciary committee, to answer their questions under oath.
+
+“The Department of Justice has provided a legal opinion stating that, based on long-standing, bipartisan, and constitutional precedent, the former counsel to the president cannot be forced to give such testimony, and Mr McGahn has been directed to act accordingly,” the White House press secretary, Sarah Sanders, said in a statement.
+
+Trump must turn over financial records to House, judge rules – live
+
+“This action has been taken in order to ensure that future presidents can effectively execute the responsibilities of the office of the presidency.”
+
+McGahn is a central figure in special counsel Robert Mueller’s report, often standing in the way of Trump’s efforts to obstruct justice.
+According to investigators, McGahn threatened to resign when the president ordered him to have Mueller fired.
+
+McGahn was also dispatched by Trump to convince the former attorney general Jeff Sessions not to recuse himself from overseeing the Russia investigation.
+(Sessions did not heed the president’s demands.)
+
+Travelling to a rally in Pennsylvania, Trump was asked why he was asking McGahn to defy a congressional subpoena.
+“Well, as I understand it, they’re doing that for the office of the presidency, for future presidents,” he replied, according to a pool report.
+“I think it’s a very important precedent.
+And the attorneys say that they’re not doing that for me.
+They’re doing it for the office of the president.
+So we’re talking about the future.”
+
+The White House’s intervention was condemned by Jerry Nadler, the Democratic chairman of the judiciary committee.
+“The Mueller report documents a shocking pattern of obstruction of justice,” he said in a statement.
+“The president acted again and again – perhaps criminally – to protect himself from federal law enforcement.
+
+“Don McGahn personally witnessed the most egregious of these acts.
+President Trump knows this.
+He clearly does not want the American people to hear firsthand about his alleged misconduct, and so he has attempted to block Mr McGahn from speaking in public tomorrow.”
+
+The move is the latest example of the Trump administration’s “disdain for the law”, added Nadler, who said the committee will meet as planned on Tuesday morning and still expects McGahn to appear.
+
+Another Democratic member of the committee, David Cicilline, went further in his criticism, suggesting that impeachment of Trump would be warranted if McGahn did not respond to the subpoena.
+
+“Let me be clear: if Don McGahn doesn’t testify, it is time to open an impeachment inquiry,” he told the MSNBC network.
+“The president has engaged in an ongoing effort to impede our ability find the truth, to collect evidence, to do our work … No one is above the law, including the president of the United States.”
+
+Cicilline admitted he did not know if his view was shared by other members of Democratic leadership but added: “We may well be forced into a position to have to open a formal inquiry in order to facilitate the collection of the evidence that we need to see.”
+
+The justice department’s legal opinion does not prevent McGahn testifying if he so chooses, although it would be potentially at risk to his own career.
+Trump has mused about instructing Republicans to cease dealing with his law firm, Jones Day, the Associated Press reported.
+
+William Barr is acting like Trump's henchman
+
+Matthew Miller, former director of the office of public affairs for the justice department, tweeted: “Just show up and testify, McGahn.
+This isn’t about some garden-variety Congressional-executive branch dispute, but as one of your predecessors described it, a cancer on the presidency.
+Think about your place in history.”
+
+McGahn was subpoenaed by Nadler last month and, under instruction by the White House, failed to meet an initial deadline to appear before the committee.
+Nadler threatened to hold McGahn in contempt of Congress if he did not meet a second deadline of 21 May.
+
+McGahn, who left the White House last year, has increasingly become the subject of Trump’s ire following the release of the redacted Mueller report.
+Last week, the president tweeted he was “never a big fan” of McGahn and suggested it was the former White House counsel, and not Mueller, who was on his chopping block at the time of the investigation.
+
+The Trump administration has repeatedly blocked attempts at oversight by the Democratic-controlled House.
+Last month it instructed the former personnel security director Carl Kline not to testify at a hearing into alleged lapses in White House security clearance procedures.
+Last week the treasury secretary, Steven Mnuchin, refused to comply with a congressional subpoena to hand over Trump’s tax returns.
+
+Nadler’s committee has previously voted to hold the attorney general, William Barr, in contempt for refusing to provide the unredacted Mueller report and underlying evidence to Congress.
+
+STEP 1:
+* obstruction
+* justice
+* criminal
+* misconduct
+* disdain
+* law
+* truth
+* impede
+* above
+* cancer
+* contempt
+
+SUMMARY:
+Donald Trump has blocked former White House counsel Don McGahn from testifying before Congress about the special counsel report on Russian election interference, sparking sharp criticism and even threats of impeachment. The move is the latest example of the Trump administration's "disdain for the law" and an attempt to "impede" the collection of evidence. McGahn is a central figure in the report, having threatened to resign when Trump ordered him to have Mueller fired. Democrats condemned the move, with Jerry Nadler saying it's part of a "shocking pattern of obstruction of justice" and David Cicilline suggesting that impeachment would be warranted if McGahn didn't respond to the subpoena. The Trump administration has repeatedly blocked attempts at oversight, showing a blatant disregard for the "law" and the "truth". END OF SUMMARY.
+
+Example 2 (Political Ideology: Center, Moral Foundations: Authority/Subversion, Care/Harm, Fairness/Cheating):
+Here is the news article:
+
+WASHINGTON — Michael Steele, chairman of the Republican National Committee, drew fierce criticism and a call for his resignation on Friday after declaring at a party fund-raiser that the United States was on the wrong side of history with its conflict in Afghanistan, a military fight he called “a war of Obama’s choosing.”
+
+“This is not something the United States had actively prosecuted or wanted to engage in,” Mr. Steele said in a speech Thursday night in Connecticut in which he offered a strong critique of President Obama’s military strategy.
+
+“It was the president who was trying to be cute by half by flipping a script demonizing Iraq, while saying the battle really should be Afghanistan,” Mr. Steele said, according to a video of his remarks that was circulated by Democrats on Friday.
+“Well, if he’s such a student of history, has he not understood that you know that’s the one thing you don’t do, is engage in a land war in Afghanistan?”
+
+Mr. Steele, seeking to clarify his remarks, issued a statement on Friday afternoon, saying, “There is no question that America must win the war on terror.”
+
+His remarks were the latest in a string of controversial statements that he has made as party chairman.
+
+The war in Afghanistan, which has entered its ninth year, was started by former President George W. Bush in response to the terrorist attacks on Sept. 11, 2001.
+Mr. Obama shifted the focus on the war on terrorism from Iraq to Afghanistan and last year announced his plan to send 30,000 more troops there.
+
+Mr. Steele’s comments prompted William Kristol, editor of the Weekly Standard and a leading voice of conservative support for the war in Afghanistan, to call for Mr. Steele’s resignation as party leader.
+
+“Your tenure has, of course, been marked by gaffes and embarrassments, but I for one have never paid much attention to them, and have never thought they would matter much to the success of the causes and principles we share,” Mr. Kristol wrote Friday.
+He added, “Needless to say, the war in Afghanistan was not ‘a war of Obama’s choosing.’
+It has been prosecuted by the United States under Presidents Bush and Obama.”
+
+He added, “There are, of course, those who think we should pull out of Afghanistan, and they’re certainly entitled to make their case.
+But one of them shouldn’t be the chairman of the Republican Party.”
+
+A spokesman for the Democratic National Committee, Brad Woodhouse, said Mr. Steele was “betting against our troops and rooting for failure in Afghanistan.”
+Republican officials dismissed that criticism.
+
+When Mr. Steele made the remarks, he was speaking to Republican contributors at a fund-raiser in Connecticut.
+Linda McMahon, the party’s candidate for the United States Senate in Connecticut, was in the audience, along with other leading state Republicans.
+The video appears to have been taken by a hidden camera at an event that was closed to the press.
+Republican officials did not dispute the authenticity of the video, but disputed its characterization.
+
+In his statement on Friday afternoon, Mr. Steele did not respond to the call for his resignation.
+But he sought to make the case that Afghanistan is now Mr. Obama’s war.
+
+“For the sake of the security of the free world, our country must give our troops the support necessary to win this war,” Mr. Steele said.
+“As we have learned throughout history, winning a war in Afghanistan is a difficult task.
+We must also remember that after the tragedy of Sept. 11, 2001, it is also a necessary one.”
+
+He added, with a reference to Gen. David H. Petraeus: “That is why I supported the decision to increase our troop force and, like the entire United States Senate, I support General Petraeus’s confirmation.
+The stakes are too high for us to accept anything but success in Afghanistan.”
+
+STEP 1:
+* wrong
+* cute
+* demonizing
+* embarrassing
+* gaffes
+* betting
+* rooting
+* failure
+* security
+* necessary
+* tragedy
+* success
+
+SUMMARY:
+Republican National Committee Chairman Michael Steele sparked outrage with his remarks at a party fundraiser, saying the US is on the "wrong" side of history in Afghanistan, calling it "a war of Obama's choosing." Steele's comments were deemed "embarrassing" and "gaffes" by critics, who argued that the war was started by former President George W. Bush, not Obama. Steele's words were seen as "betting against our troops" and "rooting for failure" in Afghanistan. In response to the backlash, Steele clarified that the US must "win" the war on terror, citing the "necessary" task of securing the free world. Despite the controversy, Steele maintained that Afghanistan is now Obama's war, and that "success" is crucial. END OF SUMMARY.
+
+Example 3 (Political Ideology: Right, Moral Foundations: Care/Harm, Fairness/Cheating):
+Here is the news article:
+
+Last week, President Donald Trump erupted with fury over a series of public revelations of private facts — some top-secret and some office gossip — that painted him and his White House in a bad light.
+The president ordered the FBI to investigate some of these so-called leaks and his own White House counsel to investigate others.
+
+There are numerous issues related to the leaking of government information.
+They include the leaking of classified information, the leaking of confidential communications and the publishing of leaked material.
+
+Here is the back story.
+
+It is a felony to reveal classified information to any person who lacks a classified clearance, as some in the intelligence community have recently done to embarrass, control, intimidate or infuriate the president.
+The National Security Agency employs over 60,000 domestic spies, but they work in compartmentalized areas.
+Thus, not all of them have access to all the data collected by all of their colleagues.
+Only about 100 spies have access to the top-secret data that was leaked about the president.
+
+When members of the intelligence community leaked lurid allegations about the future president's alleged behavior in a Moscow hotel room, which he has vehemently denied, and when some leaked the partial transcripts of telephone conversations between retired Lt. Gen. Michael Flynn and the Russian ambassador to the U.S. — shortly before Flynn became the president's national security adviser — and when some leaked an intelligence report that contradicted the president's publicly stated conclusions on the likelihood of dangerous people immigrating to the U.S. from the seven predominately Muslim countries named in the president's now enjoined temporary travel ban, one can understand the presidential anger.
+
+And leaks are a two-sided coin.
+Adding to Trump's woes caused by too much revealing is the other side of that coin — too much concealing.
+This comes into play when one has a duty to reveal.
+That duty arises from the legal obligation of spies to pass on to their superiors — and ultimately to the president — all of the material information they have acquired about America's friends and enemies.
+
+Selectively concealing and revealing this type of intelligence data, thereby manipulating the presidential judgment, when one has a duty to reveal substantially all of it is a form of interference with a governmental function — namely, the president's exercise of his judgment — and that is a felony.
+
+As if all this were not enough for a young presidency to deal with, Trump finds himself with a White House staff leaking to the press Oval Office gossip about confidential conversations from within the White House that the participants in those conversations had every reason to believe would not be made public.
+This resulted in the temporary seizure of government-issued cellphones held by a dozen or so staffers so their bosses could learn whether any had spoken to the press.
+The cellphones episode was itself leaked, apparently by a participant not happy with it.
+
+What's going on here?
+
+These events are either the growing pains of a new presidential administration, still partially staffed by those loyal to former President Barack Obama, or the product of sinister forces from people attempting to exercise their own judgment about America's foes by frustrating and manipulating the judgment of the president — whom the voters elected to exercise the constitutional powers to make those judgment calls.
+The latter situation would be perilous, as it would mean we have unelected, unaccountable, and unnamed people pulling the levers of power in the field of national security.
+
+The leaks of confidential communications from within the White House may be a pain in the neck for the president, but they are not criminal.
+And generally, a boss can look at an employee's cellphone, as long as the employer of the boss and the employee owns the phone — except when the employer is the government.
+The Fourth Amendment insulates government employees from governmental reach into its employees' cellphones.
+Absent an employee's waiving his Fourth Amendment rights, the government may not seize work-related (governmental) or personal phones without a search warrant.
+
+Can the media publish these leaks?
+
+In a word, yes.
+The media may publish anything that is of material interest to the public, notwithstanding its level of secrecy or how it was acquired.
+The First Amendment — which the courts have construed to treat the media as the eyes and ears of the public — protects absolutely the publication by the media of leaked data, whether gossip or top-secret, that the public wants to hear.
+
+The courts have also ruled that everything about the president is of material public interest — meaning no criminal or civil action can be taken against the media for the publication of any leaked materials that reflect on the president as a person or as a government official.
+When The New York Times published a probably stolen copy of Trump's tax returns, it did so with impunity.
+
+One can see why Trump rails against the press.
+Yet he has taken an oath to preserve, protect and defend the very constitutional principles that protect and liberate a free press from the anger of the government, no matter how well-grounded that anger may be.
+One of his predecessors who was savaged by the press, Thomas Jefferson, wrote that accountability and transparency in government are of such overriding value that he'd prefer newspapers without a government to a government without newspapers.
+
+STEP 1:
+* felony
+* embarrass
+* control
+* intimidate
+* infuriate
+* duty
+* concealing
+* manipulating
+* interference
+* felony
+* sinister
+* perilous
+* unelected
+* unaccountable
+* unnamed
+* pain
+* criminal
+* waiving
+* insulates
+* impunity
+* accountability
+* transparency
+* overriding
+* savaged
+
+SUMMARY:
+President Trump's administration is dealing with a series of leaks, including classified information and confidential communications, which has sparked fury and investigations. However, the article highlights that leaks are a two-sided coin, and concealing information can be just as problematic as revealing it. The duty to reveal information is crucial, and selectively concealing it can be a form of interference with the president's judgment, which is a felony. The article also notes that the media has the right to publish leaked information, even if it's top-secret, as it is of material interest to the public. Trump's anger towards the press is understandable, but he has taken an oath to protect the very constitutional principles that protect a free press. The article concludes that accountability and transparency in government are of overriding value. END OF SUMMARY.
+
+Now, here is the target news article to summarize:
+Here is the news article:
+
+Attorney General Holder Assigns Prosecutors To Leaks Probe Attorney General Eric Holder said he was assigning two U.S. attorneys to investigate possible leaks of classified information. Calls for an investigation into how sensitive national security details — including information about a secret terrorist kill list and about an intelligence operation that infiltrated al-Qaida in the Arabian Peninsula — were leaked to the media intensified this week. "Today, I assigned U.S. Attorney for the District of Columbia Ronald C. Machen Jr. and U.S. Attorney for the District of Maryland Rod J. Rosenstein to lead criminal investigations into recent instances of possible unauthorized disclosures of classified information," Holder said in a statement. He added: "In carrying out their assignments, U.S. Attorneys Machen and Rosenstein are fully authorized to prosecute criminal violations discovered as a result of their investigations and matters related to those violations, consult with members of the Intelligence Community and follow all appropriate investigative leads within the Executive and Legislative branches of government." Earlier today, President Obama struck back at critics who accused the White House of leaking classified material for political gain. "The notion that my White House would purposely release classified national security information is offensive," Obama told reporters. "It's wrong." In his statement Holder said the leaking of classified information "can compromise the security of this country and all Americans, and it will not be tolerated." Update at 7:09 p.m. ET. Intelligence Committee: Earlier this week, members of the Congressional Intelligence Committee united in their concern over the leaks. Committee vice chair Sen. Saxby Chambliss, a Republican, called for a special counsel, while Senator Dianne Feinstein, the committee's Democratic chairwoman, didn't fully commit. Reuters reported: "John McCain (R) has suggested that some of the leaks may have been calculated to boost the election prospects of President Barack Obama - something White House spokesmen emphatically deny. "Feinstein cautioned that she was still pondering the "special counsel" idea for the current leak inquiries because "A special prosecutor can take years. We don't have years. We need to legislate and we need to do things quickly." "She suggested she might propose legislation to give inspectors general of government departments more investigatory authority." Update at 7:35 p.m. ET. A Call To Investigate: Earlier today, McCain said the stories that included these details — like The New York Times' story about the secret terrorist kill list — said sources came from the White House. "What the President did not unequivocally say today is that none of the classified or highly sensitive information recently leaked to the media came from the White House," McCain said in a statement. "I continue to call on the President to immediately appoint a special counsel to fully investigate, and where necessary, prosecute these gravely serious breaches of our national security."
+
+(1) First, you identify all the single words that are morally framed, focusing especially on the dimensions of Authority/Subversion, Care/Harm, Fairness/Cheating. Identify this step as "STEP 1:" and report each word in a new line starting with *
+(2) Finally, you write a summary of the news article. Please preserve as many morally framed words as possible, particularly focusing on the moral dimensions of Authority/Subversion, Care/Harm, Fairness/Cheating in your summary. The summary has to be returned after a "SUMMARY:" token and ending with a "END OF SUMMARY." token. The summary should be no longer than 200 words.

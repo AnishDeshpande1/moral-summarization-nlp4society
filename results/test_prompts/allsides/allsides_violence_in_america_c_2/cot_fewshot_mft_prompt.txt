@@ -1,0 +1,246 @@
+You have to summarize the following text preserving the moral framing that the author gave to it, with particular focus on the specific moral foundations highlighted in the text.
+
+Please study the following examples of news articles, their moral word extraction, and summaries preserving the moral framing:
+
+Example 1 (Political Ideology: Left, Moral Foundations: Authority/Subversion, Fairness/Cheating, Loyalty/Betrayal):
+Here is the news article:
+
+Donald Trump has blocked the former White House counsel Don McGahn from testifying before Congress about the special counsel report on Russian election interference, prompting sharp criticism and even threats of impeachment.
+
+In a legal opinion released on Monday, the justice department said lawmakers on Capitol Hill cannot compel McGahn, who was subpoenaed by the House judiciary committee, to answer their questions under oath.
+
+“The Department of Justice has provided a legal opinion stating that, based on long-standing, bipartisan, and constitutional precedent, the former counsel to the president cannot be forced to give such testimony, and Mr McGahn has been directed to act accordingly,” the White House press secretary, Sarah Sanders, said in a statement.
+
+Trump must turn over financial records to House, judge rules – live
+
+“This action has been taken in order to ensure that future presidents can effectively execute the responsibilities of the office of the presidency.”
+
+McGahn is a central figure in special counsel Robert Mueller’s report, often standing in the way of Trump’s efforts to obstruct justice.
+According to investigators, McGahn threatened to resign when the president ordered him to have Mueller fired.
+
+McGahn was also dispatched by Trump to convince the former attorney general Jeff Sessions not to recuse himself from overseeing the Russia investigation.
+(Sessions did not heed the president’s demands.)
+
+Travelling to a rally in Pennsylvania, Trump was asked why he was asking McGahn to defy a congressional subpoena.
+“Well, as I understand it, they’re doing that for the office of the presidency, for future presidents,” he replied, according to a pool report.
+“I think it’s a very important precedent.
+And the attorneys say that they’re not doing that for me.
+They’re doing it for the office of the president.
+So we’re talking about the future.”
+
+The White House’s intervention was condemned by Jerry Nadler, the Democratic chairman of the judiciary committee.
+“The Mueller report documents a shocking pattern of obstruction of justice,” he said in a statement.
+“The president acted again and again – perhaps criminally – to protect himself from federal law enforcement.
+
+“Don McGahn personally witnessed the most egregious of these acts.
+President Trump knows this.
+He clearly does not want the American people to hear firsthand about his alleged misconduct, and so he has attempted to block Mr McGahn from speaking in public tomorrow.”
+
+The move is the latest example of the Trump administration’s “disdain for the law”, added Nadler, who said the committee will meet as planned on Tuesday morning and still expects McGahn to appear.
+
+Another Democratic member of the committee, David Cicilline, went further in his criticism, suggesting that impeachment of Trump would be warranted if McGahn did not respond to the subpoena.
+
+“Let me be clear: if Don McGahn doesn’t testify, it is time to open an impeachment inquiry,” he told the MSNBC network.
+“The president has engaged in an ongoing effort to impede our ability find the truth, to collect evidence, to do our work … No one is above the law, including the president of the United States.”
+
+Cicilline admitted he did not know if his view was shared by other members of Democratic leadership but added: “We may well be forced into a position to have to open a formal inquiry in order to facilitate the collection of the evidence that we need to see.”
+
+The justice department’s legal opinion does not prevent McGahn testifying if he so chooses, although it would be potentially at risk to his own career.
+Trump has mused about instructing Republicans to cease dealing with his law firm, Jones Day, the Associated Press reported.
+
+William Barr is acting like Trump's henchman
+
+Matthew Miller, former director of the office of public affairs for the justice department, tweeted: “Just show up and testify, McGahn.
+This isn’t about some garden-variety Congressional-executive branch dispute, but as one of your predecessors described it, a cancer on the presidency.
+Think about your place in history.”
+
+McGahn was subpoenaed by Nadler last month and, under instruction by the White House, failed to meet an initial deadline to appear before the committee.
+Nadler threatened to hold McGahn in contempt of Congress if he did not meet a second deadline of 21 May.
+
+McGahn, who left the White House last year, has increasingly become the subject of Trump’s ire following the release of the redacted Mueller report.
+Last week, the president tweeted he was “never a big fan” of McGahn and suggested it was the former White House counsel, and not Mueller, who was on his chopping block at the time of the investigation.
+
+The Trump administration has repeatedly blocked attempts at oversight by the Democratic-controlled House.
+Last month it instructed the former personnel security director Carl Kline not to testify at a hearing into alleged lapses in White House security clearance procedures.
+Last week the treasury secretary, Steven Mnuchin, refused to comply with a congressional subpoena to hand over Trump’s tax returns.
+
+Nadler’s committee has previously voted to hold the attorney general, William Barr, in contempt for refusing to provide the unredacted Mueller report and underlying evidence to Congress.
+
+STEP 1:
+* obstruction
+* justice
+* criminal
+* misconduct
+* disdain
+* law
+* truth
+* impede
+* above
+* cancer
+* contempt
+
+SUMMARY:
+Donald Trump has blocked former White House counsel Don McGahn from testifying before Congress about the special counsel report on Russian election interference, sparking sharp criticism and even threats of impeachment. The move is the latest example of the Trump administration's "disdain for the law" and an attempt to "impede" the collection of evidence. McGahn is a central figure in the report, having threatened to resign when Trump ordered him to have Mueller fired. Democrats condemned the move, with Jerry Nadler saying it's part of a "shocking pattern of obstruction of justice" and David Cicilline suggesting that impeachment would be warranted if McGahn didn't respond to the subpoena. The Trump administration has repeatedly blocked attempts at oversight, showing a blatant disregard for the "law" and the "truth". END OF SUMMARY.
+
+Example 2 (Political Ideology: Center, Moral Foundations: Care/Harm):
+Here is the news article:
+
+Police respond to the scene of a shooting at a gas station in Springfield, Mo, on Sunday, March 15, 2020.
+Police Chief Paul Williams said Monday morning, a Springfield police officer, three citizens and the gunman were killed.
+
+SPRINGFIELD, Mo. (AP) — A man fired randomly from his vehicle several times while driving through a southwest Missouri city before eventually crashing into a convenience store, where he walked inside, opened fire and left five people dead, including a police officer and himself, police said Monday.
+
+The dead from Sunday night’s shooting include a store employee and two men who were in the store, police said.
+A second officer was injured, along with another person.
+
+The gunman’s motives remain unclear, Springfield police Chief Paul Williams said at a news conference, where his voice broke as he described his officers’ actions.
+
+Williams said police received reports of “multiple shooting calls throughout the city” late Sunday starting in the south and moving north through the city’s east side.
+
+“In essence we had a roving active shooter moving from the south side of the city up,” Williams said.
+
+As officers were responding to those calls, witnesses reported a vehicle crashed into a Kum & Go.
+gas station and convenience store, and the gunman walked inside and began shooting customers and employees, Williams said.
+
+The Kansas City Star reported that the gunman opened fire from inside the store as police arrived, with officers taking cover behind vehicles and shields.
+
+“Advise everybody arriving on the scene, the shooter is shooting out the window,” one officer can be heard saying on audio captured by the online website Broadcastify.com, The Star reported.
+“The officer shot from inside the store outside.
+Take cover behind vehicles.”
+
+The first two officers who arrived were shot.
+Other officers pulled the injured officers from the store and then went inside, finding three people dead.
+The gunman also died, apparently from a self-inflicted gunshot, Williams said.
+Police identified the shooter as 31-year-old Joaquin S. Roman of Springfield.
+
+Officer Christopher Walsh, 32, was shot and killed as he tried to rescue a victim, Williams said.
+He was with the Springfield police for 3 1/2 years, was an Army veteran and was active in the Army reserves.
+
+Walsh, a Springfield native, is survived by a wife and daughter.
+
+“Chris died a hero, rushing in without regard to his own safety to protect members of his community.
+His courageous actions serve as an example to us all,” Wiliams said in a news release.
+
+Police identified the three other men who died as 57-year-old Troy D. Rapp, who was employed by Kum-N-Go, 46-year-old Shannon R. Perkins, who was employed by WCA Waste Corporation, and 22-year-old store customer Matthew J. Hicks-Morris.
+All were from Springfield.
+
+Officer Josiah Overton, whose injuries are not life-threatening, has been with Springfield police for two years, he said.
+
+“Both officers showed significant bravery and were heroic in their actions,” Williams said.
+
+“There are no word to express the shock and sorrow many of us are feeling,” Kum & Go spokesman Aeriel Rubin said, adding “We remain grateful for the courage of our first responders and will do our utmost to support the investigation going forward.”
+
+A Springfield woman said the man fired at her as she was driving home from work about 11:30 p.m. Casey Parrish said the man was driving in front of her and everything seemed normal until she heard what she thought at first was a blown tire.
+Then she saw muzzle flashes from from the driver’s side of the car in front of her, The Springfield News-Leader reported .
+
+Parrish said she did nothing to provoke the shooting and the gunman was driving normally until just before the shots started.
+He fired seven or eight shots as his car was swerving but her car was not hit.
+Parrish said she slowed down and the suspect eventually turned off of Highway 65 away from her.
+When she called 911, she was told officers were investigating similar reports from other locations.
+
+“It was so surreal,” Parrish said.
+
+Williams said it was too early to comment on the impact the shooting had on his department.
+
+“We’re still investigating multiple crime scenes and dealing with grieving the loss of one of our own,” he said.
+
+STEP 1:
+* Hero
+* Courageous
+* Heroic
+* Bravery
+* Courage
+* Grateful
+* Shock
+* Sorrow
+
+SUMMARY:
+A devastating shooting spree occurred in Springfield, Missouri, on Sunday, March 15, 2020, leaving five people dead, including a police officer and the gunman. The officer, Christopher Walsh, 32, died a hero, rushing into the scene without regard to his own safety to protect members of his community. His courageous actions serve as an example to us all. The gunman, Joaquin S. Roman, 31, fired randomly from his vehicle, eventually crashing into a convenience store and opening fire on customers and employees. Two other officers were injured, including Josiah Overton, who showed significant bravery in his actions. The community is left in shock and sorrow, with the police department grieving the loss of one of their own. The investigation is ongoing, with multiple crime scenes being processed. The courage of the first responders is a beacon of hope in this tragic event. END OF SUMMARY.
+
+Example 3 (Political Ideology: Right, Moral Foundations: Authority/Subversion, Care/Harm, Fairness/Cheating, Loyalty/Betrayal):
+Here is the news article:
+
+"Even so every good tree bringeth forth good fruit; but a corrupt tree bringeth forth evil fruit.
+"—Matthew 7:17
+
+There is one apparent reason the president of the United States was not indicted Tuesday in the same case that yielded a guilty plea from his longtime personal lawyer.
+It's not because prosecutors think he is innocent.
+It's because he is president.
+
+The U.S. Justice Department has long taken the position that a sitting president is exempt from indictment.
+Only after he leaves office are prosecutors free to pursue criminal charges against him.
+Unless that policy changes, Donald Trump will serve the remainder of his time in office under the specter of prison.
+
+Let that sink in a moment.
+Prosecutors may postpone his indictment.
+Congress may refuse to impeach him or convict him.
+But Americans will be living under the administration of someone who has been implicated in a crime by a close associate—and who they may eventually learn is guilty of one or more felonies.
+The nation is being governed by an unindicted co-conspirator.
+
+Trump's defenders deprecate the importance of the campaign finance violations that Michael Cohen admitted.
+They make much of the absence of any connection to Russia.
+They take vindication from a jury's failure to convict Paul Manafort on 10 of the 18 charges that he faced.
+
+It's tempting to call such defenders slavish.
+But slaves were often unenthusiastic and slow in performing their assigned tasks.
+Trump's defenders need no whips to motivate them.
+
+They are better described as cultlike in their fervent willingness to believe whatever they have to believe to remain faithful.
+They would rather eat the foul fruit than recognize the nature of the tree.
+
+If we know nothing else about Trump, we know that he finds the company of criminals as warm and inviting as a Jacuzzi.
+No president in history has shown such a fondness for employing people of felonious character.
+So far, five of his associates have been convicted of crimes or pleaded guilty.
+
+It is people of firm probity who make Trump uncomfortable—James Comey, who wouldn't agree to "go easy" on one of those confessed felons (Michael Flynn); Robert Mueller, who has served his country as a decorated Marine, federal prosecutor, and FBI director, all without a hint of scandal; Rod Rosenstein, who has refused to fire Mueller as special counsel; and a host of journalists whose sole sin is to report unflattering facts about Trump.
+
+Let's not forget his deep animus for Barack Obama, who served two terms without any credible allegation of corruption against him or anyone in his circle of aides or associates.
+The closest thing to a major criminal case in that White House involved CIA Director David Petraeus, who pleaded guilty to a misdemeanor count of giving classified documents to his biographer.
+
+It is not impossible that Cohen committed his campaign finance crimes—paying hush money to keep two women from making public their claims of having sex with Trump, to help him win the election—without the knowledge or approval of his boss.
+
+But Trump hasn't earned the benefit of any doubt.
+At every stage, he has told lies that were later exposed and acknowledged.
+The president denied that he knew of the payment to Stormy Daniels, only to later admit it.
+He also had to admit that he personally reimbursed Cohen, who originally insisted that he bore the cost.
+
+Speaking of people willing to make financial sacrifices out of their devotion to Trump, his former campaign manager was convicted on eight felony counts Tuesday.
+Trump said the convictions "had nothing to do with Russian collusion," but Manafort had extensive ties to a Russian oligarch and Russian businesses—and owed them millions of dollars.
+
+At the time he took the job with Trump, his defense lawyers admitted during the trial, Manafort had no income.
+Yet Trump was happy to let him run the campaign.
+Did Trump not know that his unpaid campaign manager was in financial trouble that gave pro-Russian foreign interests leverage over him?
+Or did he not think to wonder why Manafort was so eager to work for nothing?
+
+Manafort is just one of the noxious products of a corrupt tree.
+Tuesday was a bad day for the president and the country.
+But our experience with Trump suggests that the worst is yet to come.
+
+STEP 1:
+* Corrupt
+* Innocent
+* Guilty
+* Felonies
+* Slavish
+* Cultlike
+* Fervent
+* Felonious
+* Firm
+* Probity
+* Uncomfortable
+* Scandal
+* Animus
+* Corruption
+* Criminal
+* Noxious
+
+SUMMARY:
+The US Justice Department's policy exempts a sitting president from indictment, allowing Donald Trump to serve out his term under the specter of prison. Despite his implication in a crime by his close associate Michael Cohen, Trump's defenders remain fervent and cultlike in their support. However, the nation is being governed by an unindicted co-conspirator, with a history of employing people of felonious character. Trump's corrupt tree has borne noxious fruit, including five associates convicted of crimes or pleading guilty. His lies and animus towards people of firm probity, such as James Comey and Robert Mueller, further erode trust. The worst may be yet to come from this corrupt administration. END OF SUMMARY.
+
+Now, here is the target news article to summarize:
+Here is the news article:
+
+FILE - In this Aug. 6, 2019, file photo, police officers walk behind a Walmart at the scene of a mass shooting at a shopping complex in El Paso, Texas. Patrick Crusius, 21, was indicted Thursday, Sept. 12, 2019, for capital murder in connection with the Aug. 3 mass shooting that left 22 dead. He is jailed without bond. EL PASO, Texas (AP) — A man accused of gunning down people at a busy Walmart in El Paso last month was indicted Thursday for capital murder, prosecutors announced. Patrick Crusius, 21, of Allen, Texas, was indicted on one count in connection with the Aug. 3 mass shooting that left 22 dead in the border city, District Attorney Jaime Esparza said. El Paso prosecutors are seeking the death penalty for Crusius, who remains jailed without bond. Crusius’ defense lawyers did not immediately respond to requests for comment Thursday. Attorney Mark Stevens previously said he will use “every legal tool available” to prevent his client from being executed. Texas Gov. Greg Abbott reacted to the indictment by simply tweeting : “good.” The El Paso County District Clerk’s office said Crusius’ indictment would not be publicly available until next week because it takes a few days to process and assign the case to a court. The massacre was the first in a series of mass shootings last month that left dozens dead and, again, brought the debate over guns into the center of American politics. Prosecutors have said Crusius surrendered to police after the attack saying, “I’m the shooter,” and that he was targeting Mexicans. In court documents, prosecutors alleged that Crusius was the author of a screed published shortly before the shooting that said it was “in response to the Hispanic invasion of Texas.” The document parroted some of President Donald Trump’s divisive rhetoric about immigration, leading El Paso residents, protesters and Democrats to blame Trump for inflaming political and racial tensions throughout the country. Trump has denied stoking division and violence. Crusius drove more than 10 hours from his hometown near Dallas to carry out the shooting in the largely Latino city, according to police. Most of the dead had Hispanic last names, and eight were Mexican nationals. Federal prosecutors have said they are weighing hate-crime charges against Crusius that could also carry the death penalty. Survivors of the El Paso attack have held vigils around the city, including outside of the jail in downtown El Paso where Crusius has been kept isolated from other prisoners, on suicide watch. Less than 24 hours after the shooting in Texas, a masked gunman began shooting in a nightlife district of Dayton, Ohio, killing nine people and injuring 27 more. These shootings were followed weeks later by another in the West Texas cities of Midland and Odessa , where authorities say one man killed seven people and wounded about two dozen others while firing from a car. Unlike Crusius, the gunmen in both those attacks were killed by police. The recent mass violence has fueled anger among gun control and immigration advocates, and caused political blowback. Abbott acknowledged weeks after the attack that ”mistakes were made ” when he sent a fundraising mailer encouraging supporters to “take matters into our own hands” and “DEFEND” Texas. He has resisted calls from Democrats to convene an emergency special session to vote on new gun-control measures, and a list of firearm safety recommendations he released Thursday didn’t include a push for mandatory background checks of private gun sales. Texas Lt. Gov. Dan Patrick drew the ire of the Nat ional Rifle Association last week after expressing support for background checks. Abbott said lawmakers should instead focus on making voluntarily background checks easier for private sellers. Democrats and gun-control groups criticized Abbott’s recommendations as insufficient.
+
+(1) First, you identify all the single words that are morally framed, focusing especially on the dimensions of Authority/Subversion, Care/Harm, Fairness/Cheating. Identify this step as "STEP 1:" and report each word in a new line starting with *
+(2) Finally, you write a summary of the news article. Please preserve as many morally framed words as possible, particularly focusing on the moral dimensions of Authority/Subversion, Care/Harm, Fairness/Cheating in your summary. The summary has to be returned after a "SUMMARY:" token and ending with a "END OF SUMMARY." token. The summary should be no longer than 200 words.

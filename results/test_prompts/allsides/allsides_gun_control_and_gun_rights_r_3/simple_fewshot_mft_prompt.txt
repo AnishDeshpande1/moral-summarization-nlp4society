@@ -1,0 +1,162 @@
+You have to summarize the following text preserving the moral framing that the author gave to it, with particular focus on the specific moral foundations highlighted in the text.
+
+Please study the following examples of news articles and their summaries preserving the moral framing:
+
+Example 1 (Political Ideology: Left, Moral Foundations: Authority/Subversion, Care/Harm):
+Here is the news article:
+
+Severe illness from COVID-19 in children is rare.
+The risk of death from the coronavirus for an infected child is hundreds of times lower than for older adults.
+But serious illness, such as the recently documented rare inflammatory syndrome, does occur—just as serious illness occurs with influenza, which in most years kills 100 or more children, including many who get infected in schools.
+We don’t close our schools because of the risk of influenza, and we don’t necessarily need to close them because of the risk of COVID-19.
+
+The single most important thing we can do to keep our schools safe has nothing to do with what happens in schools.
+It’s how well communities control the coronavirus throughout the community.
+Such control of COVID-19 requires adhering to the three W’s—wear a mask, wash your hands, watch your distance—and boxing in the virus with strategic testing, effective isolation, complete contact tracing, and supportive quarantine—providing services and, if necessary, alternative temporary housing so patients and contacts don’t spread disease to others.
+
+The CDC has released helpful guidelines for safely reopening schools, which each state and school district will need to apply to its specific context.
+Localities will need to develop solutions tailored to their unique needs and based on the latest information on the virus.
+In places where the virus is spreading explosively, it may be difficult or impossible to have in-person schooling.
+But in most school districts most of the time, schools should look to reopen by following these eight basic safety measures.
+
+First, shield the most vulnerable.
+Children, older staff, and those who have underlying health conditions that put them at high risk should not return to school in person unless there is little or no community transmission; the school system should enable them to participate remotely to the greatest extent possible.
+
+Second, reduce risk wherever possible.
+Large in-person student assemblies will be out.
+Cafeterias may need to close, with students instead eating in classrooms.
+On-site food preparation may be replaced by prepackaged meals and disposable dishware.
+And schools can reduce the number of surfaces touched by multiple people, for example, by keeping hallway doors open.
+Some essential services must continue—such as in-school meals, which many students depend on.
+Others may need to be modified—libraries will likely need capacity restrictions.
+
+Sarah Cohodes: A better fall is possible
+
+Because group singing increases risk, large choir rehearsals will need to stop.
+In areas where the coronavirus is under good control, band and orchestra practice may be able to continue.
+Team sports may be too risky; clusters of cases have been reported among college and professional sports teams.
+Recess and physical-education classes are possible if students play outdoors in small groups, wear masks, and observe physical-distancing guidelines.
+
+SUMMARY:
+
+The risk of severe illness and death from COVID-19 in children is low, similar to influenza. Closing schools is not necessary, as the key to keeping them safe lies in community control of the virus. Adhering to the three W's (wear a mask, wash your hands, watch your distance) and implementing strategic testing, isolation, contact tracing, and quarantine measures can help contain the virus. The CDC has released guidelines for safely reopening schools, which localities must adapt to their unique contexts. In areas with low community transmission, schools can reopen by following eight basic safety measures, including shielding vulnerable individuals, reducing risk, and modifying essential services. This approach prioritizes the well-being of students, staff, and the community, while also acknowledging the importance of in-person learning.
+
+END OF SUMMARY.
+
+Example 2 (Political Ideology: Center, Moral Foundations: Authority/Subversion, Care/Harm, Fairness/Cheating):
+Here is the news article:
+
+SANTA FE, Texas (Reuters) - A teenage boy charged with fatally shooting eight students and two teachers during a gun rampage at a Houston-area high school had been spurned by one of his victims after making aggressive advances, her mother told a newspaper.
+
+Sadie Rodriguez, the mother of Shana Fisher, 16, who was killed in the attack, told the Los Angeles Times that her daughter rejected four months of aggressive advances from Dimitrios Pagourtzis, 17, who is in jail accused of murdering 10 people early on Friday at the high school in Santa Fe.
+
+Fisher finally stood up to him and embarrassed him in class, the newspaper quoted her mother as writing in a private message to the Times.
+
+“A week later he opens fire on everyone he didn’t like,” she said.
+“Shana being the first one.”
+
+Rodriguez could not independently be reached for comment.
+
+If true, it would be the second school shooting in recent months driven by such rejection.
+
+Related Coverage Grief and anguish transcend two faiths' prayers after Texas school shooting
+
+In March, a 17-year-old Maryland high school student used his father’s gun to fatally shoot a female student with whom he had been in a recently ended relationship.
+
+Police said Pagourtzis confessed to Friday’s killings after he was taken into custody, but authorities have offered no motive yet for the massacre, the fourth-deadliest mass shooting at a U.S. public school in modern history.
+
+The Santa Fe Independent School District (ISD) denied accounts from some classmates that Pagourtzis had been bullied, including by a football coach.
+
+“Administration looked into these claims and confirmed that these reports are untrue,” it said on Saturday in a statement.
+
+Classmates at the school, which has some 1,460 students, described Pagourtzis as a quiet loner who played on the football team.
+He wore a black trench coat to school in the Texas heat on Friday and opened fire with a pistol and shotgun.
+
+‘THE AFTERMATH’
+
+In Santa Fe on Sunday, many churches and businesses had signs outside with messages such as “Santa Fe strong” and “Santa Fe ISD we are here for you.”
+
+Mourners hold candles during a vigil in memory of the victims killed in a shooting at Santa Fe High School in League City, Texas, U.S., May 20, 2018.
+
+About 100 people attended an emotional service at the Aldersgate United Methodist Church.
+Service dogs were in a nearby hall to help console grieving victims.
+
+Jared Black, one of the students killed, attended a youth group at the church, and many of its members embraced his mother Pam when the family arrived.
+
+At a mosque in another Houston suburb, mourners crowded around the coffin of 17-year-old Sabika Sheikh, a Pakistani exchange student who died in the rampage.
+
+It was the latest rampage to stoke a long-running national debate over gun ownership, three months after a student-led gun control movement emerged from a mass shooting in Parkland, Florida, which killed 17 teens and educators.
+
+Many of those student activists have taken aim at the pro-gun National Rifle Association.
+
+Speaking on “Fox News Sunday,” NRA President Oliver North said students should not be afraid to attend class, but that his gun-rights advocacy group did not think the solution was to limit the Second Amendment right to bear arms.
+
+“I believe that we can make sure kids are protected without taking away the rights of law-abiding citizens,” North said, calling for metal detectors in schools and more use of the NRA’s offer to schools of free security assessments.
+
+Pagourtzis has provided authorities little information about the shootings, his attorney, Nicholas Poehl, said, adding: “Honestly because of his emotional state, I don’t have a lot on that.”
+
+Texas’ governor, Greg Abbott, a Republican, told reporters that Pagourtzis obtained the firearms from his father, who had likely acquired them legally.
+
+Abbott also said Pagourtzis wanted to commit suicide, citing the suspect’s journals, but lacked the courage to do so.
+
+Pagourtzis’ family said in a statement it was “saddened and dismayed” by the shooting and “as shocked as anyone else” by the events.
+The family said it was cooperating with authorities.
+
+SUMMARY:
+
+A teenage boy, Dimitrios Pagourtzis, 17, has been charged with fatally shooting 10 people, including 8 students and 2 teachers, at a high school in Santa Fe, Texas. The motive behind the attack is believed to be rejection by one of his victims, Shana Fisher, 16, who had rejected his aggressive advances for four months. Fisher had finally stood up to him and embarrassed him in class, which led to the attack a week later. This incident is the second school shooting in recent months driven by rejection. The community is grieving, with many attending vigils and services to mourn the victims. The incident has sparked a national debate over gun ownership, with some advocating for stricter gun control laws, while others, like the NRA, believe that metal detectors and security assessments can prevent such incidents. The suspect's family has expressed shock and dismay over the events.
+
+END OF SUMMARY.
+
+Example 3 (Political Ideology: Right, Moral Foundations: Authority/Subversion):
+Here is the news article:
+
+A group of 14 Wisconsin parents has filed a lawsuit against a local school district for its policy allowing teachers to address their children by their preferred "gender identity" without notifying them first.
+
+Wisconsin Institute for Law and Liberty (WILL), a conservative law firm, filed the 19-page lawsuit on Tuesday on behalf of the parent's group against the Madison Metropolitan School District (MMSD).
+The 14 parents were not named in the document.
+
+The lawsuit alleges that MMSD's transgender policy is unconstitutional because it prohibits teachers and staff from informing parents that their children want to switch sexes.
+
+"This action seeks to vindicate parents' fundamental and constitutional right to direct the upbringing of their children," the lawsuit argues.
+"The Madison Metropolitan School District has violated this important right by adopting a policy designed to circumvent parental involvement in a pivotal decision affecting their children's health and future.
+The policy enables children, of any age, to socially transition to a different gender identity at school without parental notice or consent."
+
+While parental consent is needed before a child's name can be changed legally in the district's official records, the school district policy announced in 2018 says students can be called by their preferred name and gender pronouns without parental permission.
+
+The policy states that the district is committed to affirming each student's self-designated gender identity and the district will strive to "disrupt the gender binary" with books and lessons stating that everyone has the right to choose their gender.
+
+The school policy allows students to pick new names and pronouns they can use at school regardless of whether they have a parent's permission.
+All teachers and district staff must refer to students by their chosen names and pronouns even though the names aren't official in district systems.
+
+The parents argue the policy violates the state constitution's due process clause, which protects parents' right to raise their children according to the parents' beliefs.
+
+"Madison schools have adopted policies that violate constitutionally recognized parental rights.
+A public school district should not, and cannot, make decisions reserved for parents," WILL President and General Counsel Rick Esenberg said in a statement.
+
+District spokesman Tim LeMonds said Tuesday that the district had not been served with the lawsuit and could not comment until it had a chance to review it.
+But LeMonds said the district stands by its guidance on transgender and nonbinary students.
+
+The lawsuit also argues that keeping parents in the dark about their children's sexuality interferes with parents' right to guide their children through life-altering decisions and provide professional help their children may urgently need.
+
+"There is no compelling government interest in keeping secret from parents that their child is dealing with gender dysphoria," the lawsuit reads.
+
+The parents also argue that the policy violates the state constitution's religious freedom guarantee.
+
+All of the parents say they believe God intended humans to be male and female, and the district's choice to hide students' gender struggles interferes with their right to guide their children in accordance with their religious beliefs
+
+SUMMARY:
+
+A group of 14 Wisconsin parents has filed a lawsuit against the Madison Metropolitan School District (MMSD) over its policy allowing teachers to address students by their preferred "gender identity" without notifying parents. The parents argue that this policy is unconstitutional, violating their fundamental right to direct their children's upbringing and make decisions about their health and well-being. The policy enables students to socially transition to a different gender identity at school without parental notice or consent, which the parents believe interferes with their right to guide their children through life-altering decisions and provide necessary professional help. The lawsuit also claims that the policy violates the state constitution's religious freedom guarantee, as the parents believe God intended humans to be male and female. The parents are seeking to vindicate their constitutional right to raise their children according to their beliefs.
+
+END OF SUMMARY.
+
+Now, here is the target news article to summarize:
+Here is the news article:
+
+A male student was taken into custody after a shooting at an Indiana middle school that left a student and a teacher critically injured on Friday, authorities said. Noblesville Police Department Chief Kevin Jowitt told reporters Friday that a male student was detained following the call of an active shooter at Noblesville West Middle School at 9:06 a.m. ET. There were two people injured - a teacher and a student - Jowitt said. The victims were transported to the hospital and their families have been notified. The suspect nor the victims have been identified. Authorities declined to name the suspect and victims in two press conferences Friday. Jowitt said he did not believe there was any further threat to the school but added there was a threat directed to Noblesville High School, where many middle school students were bused to following the incident. He said police were at the school's campus monitoring the scene but have not found anything. A number of agencies, including the FBI and the Bureau of Alcohol, Tobacco, Firearms and Explosives were on the scene investigating the incident. Jowitt said an investigation has been opened into the shooting. Authorities said the suspect excused himself from the classroom Friday and when he returned he had two handguns. The situation was said to have resolved extremely quickly. The school does not have metal detectors but there was a resource officer, who works full-time at the school, who was present at the time of the incident. Ethan Stonebraker, a student, told the Associated Press a science teacher was able to tackle the student who fired shots inside the classroom. He said the teacher "immediately ran at him, swatted a gun out of his hand and tackled him to the ground." Stonebraker adds, "If it weren't for him, more of us would have been injured for sure." Authorities did not say whether the teacher who reportedly tackled the student was one of the victims. However, the teacher, identified by the Indy Star as Jason Seaman, was shot multiple times and went into surgery, his brother Jeremy told the outlet. Students and parents informed the outlet that it was Seaman who jumped in to stop the suspect. Following reports of the shooting, a number of politicians tweeted their thoughts, including Vice President Mike Pence. "Karen and I are praying for the victims of the terrible shooting in Indiana. To everyone in the Noblesville community - you are on our hearts and in our prayers. Thanks for the swift response by Hoosier law enforcement and first responders," Pence tweeted. He was formerly the governor of Indiana. “Closely monitoring the situation at Noblesville West Middle School. Praying for Noblesville and our whole community,” Rep. Andre Carson said. Sen. Todd Young said he was in touch with Gov. Eric Holcomb in regards to the incident. “As details continue to develop, please pray for everyone involved," he tweeted. The Indianapolis Colts released a statement regarding the shooting. "On behalf of the entire Colts organization, we extend our thoughts and prayers to the victims of the Noblesville West Middle School shooting and the Noblesville community. We'd also like to thank the first responders, law enforcement officials and medical personnel for their efforts and bravery during today's tragedy. We will continue to pray for the safety of our community during this difficult time," the statement read. Indiana Gov. Eric Holcomb, who was returning from a trip to Europe on Friday, issued a statement saying he and other state leaders were getting updates about the situation and that 100 state police officers had been made available to work with local law enforcement. "Our thoughts are with all those affected by this horrible situation," Holcomb said. Erica Higgins, who was among the worried parents who rushed to get their kids, told WTHR-TV that she learned of the shooting from a relative who called her at home. "I just want to get my arms around my boy," she said. Higgins said her son was shaken up but knew little about what happened. "I got a 'Mom, I'm scared' text message and other than that, it was 'come get me at the high school,"' Higgins said. Chris Navarro, 13, an eighth-grader at the middle school, told the Associated Press he counted 16 gunshots during the shooting. He said he was in the school’s auditorium when he heard the shots. Public Information Officer Bruce Barnes told reporters that investigators were "doing the best that we can so these situations don't come up again." The Indiana State Teachers Association released a statement regarding the incident and asked: “When is enough, enough?” “This national crisis has landed in our backyard. We all have a responsibility to keep our kids safe from violence, and it’s unconscionable that they live in fear that one day their school may be next. When is enough, enough?" Noblesville, which is about 20 miles northeast of Indianapolis, is home to about 50,000 people. The middle school has about 1,300 students from grades 6-8. The incident comes a week after an attack at a high school in Santa Fe, Texas, that killed eight students and two teachers.
+
+For this target article, the author's moral framing heavily relies on the following Moral Foundation dimensions: Authority/Subversion, Care/Harm.
+Please pay special attention to preserving the moral framing related to these specific dimensions (Authority/Subversion, Care/Harm) in your summary.
+
+The summary has to be returned after a "SUMMARY:" token and ending with a "END OF SUMMARY." token. The summary should be no longer than 200 words.

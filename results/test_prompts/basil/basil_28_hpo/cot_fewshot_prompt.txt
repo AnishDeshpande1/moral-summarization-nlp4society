@@ -1,0 +1,178 @@
+You have to summarize the following text preserving the moral framing that the author gave to it.
+
+Please study the following examples of news articles, their moral word extraction, and summaries preserving the moral framing:
+
+Example 1 (Political Ideology: Left):
+Here is the news article:
+
+Obama’s team is spinning the Republican National Convention as a complete miss.
+Obama's new challenge: Disappointment
+
+The watchword of the Republican National Convention in Tampa was disappointment — as in President Barack Obama has been one.
+
+You can hammer Obama on health care.
+Mock his golf outings.
+Demand to see his birth certificate and Harvard transcript, and call him a European socialist bent on turning the American Dream into a Belgian nightmare.
+He’ll throw his head back and laugh at you like a Bond villain.
+
+But tell voters he’s not the man America fell in love with in 2008 — and pine, however disingenuously, about his unfulfilled potential — and a shiver runs through his Chicago campaign headquarters.
+
+Obama’s team was spinning the convention as a complete miss, arguing that Republicans didn’t lay a glove on their man.
+Yet what emerged from Tampa was a subtle, clever shift in GOP messaging, a much more dangerous strategy for Obama than the kitchen-sink attacks that preceded the gathering.
+Republicans posed — rhetorically — as Obama 2008 voters, lamenting his unfulfilled expectations as if they had been with him all along instead of trying to block him at every turn.
+
+Both sides recognize the power of the disappointment theme: that the hope Obama offered for mending the economy, transforming the political process and even saving the earth has faded.
+
+“President Obama promised to begin to slow the rise of the oceans and heal the planet,” Mitt Romney said in accepting the Republican presidential nomination Thursday.
+“My promise is to help you and your family.”
+
+Or, as Sen. Marco Rubio put it, “Our problem with President Obama isn’t that he’s a bad person.
+Our problem is that he’s a bad president.”
+
+If Republicans landed a punch on Obama, it was the kind of strategic body blow that a skillful pugilist deploys to gain better position for the rest of the fight.
+
+No roundhouse, no jaw-splitter, no knockout.
+It was the kind of shot aimed at subtly shifting momentum and softening up the opponent in a way that may not be evident to the casual observer.
+
+Republicans honed their tone.
+
+The shrill hyperbole, petty critiques of Obama’s every move and Party of No intransigence disappeared into the heavy Tampa air.
+Surely, some of that will rain back down across other parts of the country during the closing months of the campaign, particularly as super PACs and other outside groups intensify their own lines of attack against Obama.
+
+There was plenty of tough criticism in Tampa — more mockery of Obama’s “you didn’t build that” line, more comparisons of his record to Jimmy Carter’s.
+But there were times — prime time, in particular — that the Republican convention looked and sounded like a Democratic gathering.
+
+An appealing young vice-presidential candidate, Paul Ryan, called his mom his role model and vowed to protect Medicare for seniors.
+
+Cuban-American Florida Sen. Marco Rubio and Mexican-American New Mexico Gov. Susana Martinez spoke of the unique opportunities that the United States afforded them to rise into leadership positions.
+
+STEP 1:
+* disappointment
+* disingenuously
+* clever
+* dangerous
+* bad
+* good
+* shrill
+* petty
+* intransigence
+* appealing
+* unique
+
+SUMMARY:
+The Republican National Convention in Tampa was deemed a success by the GOP, despite Obama's team spinning it as a complete miss. Republicans cleverly shifted their messaging, adopting a more subtle and dangerous strategy that focused on disappointment. They posed as Obama 2008 voters, lamenting his unfulfilled expectations and promising a more humble, achievable agenda. Mitt Romney and Sen. Marco Rubio delivered speeches that were more in line with Democratic values, touting the unique opportunities afforded by the United States. The tone was appealing, with a focus on protecting Medicare for seniors and honoring role models. The GOP's new approach is a strategic body blow to Obama's campaign, softening him up for the rest of the fight. END OF SUMMARY.
+
+Example 2 (Political Ideology: Center):
+Here is the news article:
+
+Joe Biden knew Lloyd Bentsen.
+
+Lloyd Bentsen was a friend of Joe Biden’s.
+
+And the vice president made full use of his old Senate colleague’s 1988 debate playbook, shaking his head and scoffing pityingly at Representative Paul D. Ryan, trying to paint his opponent as a latter-day Dan Quayle.
+
+Mr. Ryan was no Dan Quayle, but he did make the mistake of mentioning John F. Kennedy in an argument over whether tax cuts recharge the economy.
+Mr. Biden flashed a Cheshire Cat grin and said to Ryan, after waiting a beat to let the moment sink in, “So, now you’re Jack Kennedy?”
+
+The vice presidential debate on Tuesday was supposed to be a reboot for the Obama campaign after the president’s dismal performance at his debate with the Republican nominee for president, Mitt Romney, last week.
+Mr. Biden, clearly delighted to come to President Obama’s rescue, relished his role, addressing his opponent as “my friend” but dismissing his arguments as “malarkey.”
+He laughed at Mr. Ryan’s remarks so often and so heartily that at times he seemed like a guest at a comedy club roast, not a vice president debating the fate of the nation with his opponent.
+
+It was a sharp and spirited debate, with both candidates delivering some lacerating blows, but Mr. Ryan at times seemed disconcerted by the sheer blowhard intensity Mr. Biden brought to the night.
+Mr. Ryan tried to be respectful, listening to the vice president with a tilted head, choirboy smile and puppy-dog eyes, but he showed his irritation when Mr. Biden kept interrupting to attack his policy on Medicare.
+“I know you’re under duress,” he told the vice president, prompting another belly laugh.
+
+For Mr. Biden especially, the night was his chance to relive past debates and unleash his inner barroom brawler.
+He had to be contained and courteous when he debated Sarah Palin four years ago, lest he look like a bully.
+This time he let loose.
+And unlike the courtly Mr. Bentsen in 1988, Mr. Biden turned his temperature up, singeing the young man across the table with patronizing grins, but mostly withering retorts.
+His interruptive barrage was as relentless as his silent mugging for the camera.
+
+Mr. Ryan held his own, but did look abashed when Mr. Biden mocked him for opposing the Obama stimulus, yet asking for government funds for his own district.
+“On two occasions, we — we — we advocated for constituents who were applying for grants,” Mr. Ryan said stiffly.
+
+“I love that. I love that,” Mr. Biden said.
+“This was such a bad program, and he writes me a letter saying — writes the Department of Energy a letter saying, the reason we need this stimulus — it will create growth and jobs.”
+
+When Mr. Biden went after Mr. Romney’s infamous remark at a private fund-raiser about the “47 percent,” Mr. Ryan reminded the vice president of his own propensity for gaffes.
+“I think the vice president very well knows that sometimes the words don’t come out of your mouth the right way,” he said with a gotcha smile.
+Mr. Biden was not quite as amused.
+
+Mr. Biden was not the only one in the room intent on rectifying his predecessor’s mistakes.
+Martha Raddatz of ABC News was the moderator, and she made a point of speaking forcefully, pushing the candidates to be specific and changing subjects abruptly.
+She seemed determined to be less passive and sleepy than Jim Lehrer of PBS was as moderator of the Obama-Romney debate.
+
+Mr. Ryan made a point of praising Mr. Romney, even trying to soften his image by recounting a time when Mr. Romney gave money and attention to a couple whose children were badly injured in a car accident.
+It wasn’t the best example to use, because it prompted Mr. Biden to describe his own tragedy, when his wife and young daughter were killed in a car crash.
+
+A version of this article appears in print on October 12, 2012, on page A16 of the New York edition with the headline: Night of Withering Ripostes, Mostly Delivered by Biden.
+
+STEP 1:
+* pityingly
+* malarkey
+* blowhard
+* respectful
+* irritation
+* bully
+* patronizing
+* withering
+* abashed
+* bad
+* infamous
+* gotcha
+
+SUMMARY:
+In the vice presidential debate, Joe Biden came to President Obama's rescue, relishing his role and addressing Paul Ryan as "my friend" while dismissing his arguments as "malarkey." Biden's sharp and spirited debate style was reminiscent of a "blowhard" intensity, leaving Ryan disconcerted. Ryan tried to be "respectful," but showed "irritation" when Biden kept interrupting to attack his policy on Medicare. Biden's "patronizing" grins and "withering" retorts left Ryan looking "abashed." The debate was a chance for Biden to unleash his inner "barroom brawler" and he did so, mocking Ryan for opposing the Obama stimulus while asking for government funds for his own district. The night was filled with "infamous" remarks and "gotcha" moments, but in the end, Biden's "withering ripostes" stole the show. END OF SUMMARY.
+
+Example 3 (Political Ideology: Right):
+Here is the news article:
+
+Donald Trump announced Tuesday that he is bowing out as the moderator for a Republican presidential debate later this month, after most candidates in the field opted not to attend.
+
+Trump said he wanted to make sure there's no "conflict of interest" in case he decides to run as a third-party candidate next year.
+He cast his decision as a way to keep his options open.
+
+He said later on Fox News that he's still considering an independent bid.
+"I am looking at it, if the Republicans choose the wrong candidate, which is a possibility, and if the economy continues to be bad, which I think it will be," Trump said.
+
+The real estate mogul and reality TV star said he wants to make sure Republicans pick the "right" candidate -- he said he still plans to make an endorsement despite his threatened third-party run.
+
+Though the Dec. 27 debate technically is sponsored by Newsmax, Trump quickly became the face of it after he was named as moderator.
+
+While former House Speaker Newt Gingrich and former Pennsylvania Sen. Rick Santorum agreed to attend early on, other Republican candidates subsequently bowed out.
+
+Some expressed concern that Trump, who previously flirted with a possible Republican presidential bid before shelving the idea, would not definitively rule out running as a third-party candidate.
+
+Trump on Tuesday specifically cited Republican National Committee Chairman Reince Priebus' concerns about his involvement.
+He said he does not expect Newsmax to follow through with the debate now that he's out.
+
+"We would have done very well.
+We would have gotten great ratings," Trump said, voicing his trademark confidence.
+
+Trump first announced his debate decision in a written statement Tuesday afternoon.
+
+"It is very important to me that the right Republican candidate be chosen to defeat the failed and very destructive Obama administration, but if that Republican, in my opinion, is not the right candidate, I am not willing to give up my right to run as an independent candidate," he said.
+"Therefore, so that there is no conflict of interest within the Republican Party, I have decided not to be the moderator of the Newsmax debate.
+... I must leave all of my options open because, above all else, we must make America great again!"
+
+Trump went on to praise Gingrich and Santorum for "having the courage, conviction, and confidence" to agree to the debate.
+
+STEP 1:
+* right
+* wrong
+* failed
+* destructive
+* courage
+* conviction
+* confidence
+
+SUMMARY:
+Donald Trump has announced that he will no longer moderate the Republican presidential debate, citing a potential "conflict of interest" if he decides to run as a third-party candidate. Trump wants to keep his options open, ensuring that the "right" Republican candidate is chosen to defeat the "failed and very destructive" Obama administration. If not, he may run as an independent candidate. Trump praised Newt Gingrich and Rick Santorum for having the "courage, conviction, and confidence" to participate in the debate. Despite his withdrawal, Trump still plans to make an endorsement, emphasizing the importance of choosing a candidate who will "make America great again!" Trump's decision was influenced by Republican National Committee Chairman Reince Priebus' concerns about his involvement. END OF SUMMARY.
+
+Now, here is the target news article to summarize:
+Here is the news article:
+
+DANVILLE, Ky. –- Joe Biden did everything President Barack Obama did not last week, and a good bit more. The vice president dominated the spotlight in the only debate between himself and Rep. Paul Ryan (R-Wis.), charging at Republican Mitt Romney's running mate from the get-go and bombarding him with a flurry of eye rolls, interjections and accusations. What it accomplished among undecided voters, if anything, is hard to tell and will take days to sort out. Two instant surveys of Americans watching the debate -- one by CBS, one by CNN -- showed mixed results. But since vice presidential debates often have a negligible impact on the overall race anyway, Biden's sometimes over-the-top performance probably accomplished what he appeared intent on doing: rallying the Democratic base after Obama's woeful debate performance last week. Obama, at least, was cheered by the offensive. "I'm going to make a special point of saying that I thought Joe Biden was terrific tonight," the president told reporters after stepping off Air Force One at Andrews Air Force Base in Maryland, on his way back to the White House after a day of campaigning in Florida. Biden looked as if he could barely stay in his seat for much of the night, interrupting Ryan repeatedly and sometimes making it difficult for the GOP nominee to get out his answers. “He had his Red Bull. He certainly had his caffeine,” Sen. John Thune (R-S.D.) said after the debate. It was a performance by the vice president guaranteed to amp up -– and buck up -– worried Democrats, who had fallen into a paralysis of anxiety after the president's debate. No one represented that Democratic angst more than blogger Andrew Sullivan, a supporter of the president. Obama adviser David Axelrod said "Andrew is a unique thinker, and I can't speak for how he might react to this. I hope he is [reassured]," Axelrod said, adding that he had "high regard for [Sullivan] by the way." Sullivan, for the record, called the night "a solid win for Biden" and called Ryan "competent." The Obama campaign team, in the spin room after the debate, focused on repeating the theme that, as Axelrod said, Biden showed "passion" and that he showed "a great concern for the middle class." Passion was the thing Obama lacked last week, and Romney surprised the president and Democrats by talking constantly about how his policies would help the middle class. By contrast, Romney operatives in the spin room said Ryan clearly won on substance and composure while Biden devolved into fits of laughter and audible groans. “I think the way the vice president handled himself was condescending,” said Rep. Jason Chaffetz (R-Utah). “He was constantly interrupting and trying to talk over people. When my 11-year-old tries to do that at the dinner table, it’s not tolerated.” Democrats were intent Thursday night to steal back any edge Romney might have deprived them of in being the party who can appeal to working class and blue-collar voters, and to any voter who considers themselves middle class, which is a large number. "These guys discovered the phrase 'middle class' during the last six months on the campaign trail," said Rep. Chris Van Hollen (D-Md.), who has sparred with Ryan on the House Budget Committee for years and who played Ryan in debate preparation with Biden. Though it was Biden at the center of attention and who made it hard for Ryan to get in a word edgewise at times, the 42-year-old kept his composure for much of the night and got in some well-aimed shots at the vice president, who at 69 is his senior by 27 years. Ryan seemed focused more on winning over moderate and independent voters who are still making up their minds, less than a month before the election. The night's 90-minute debate, the only one for the two vice presidential candidates, fluctuated between domestic policy and foreign policy, with ABC's Martha Raddatz, a reporter with vast foreign policy experience, asking numerous questions about events overseas. But the number one goal for Biden all night was obvious from the outset: push back. Hard. It was the number one thing that Democrats had said Obama should have done last week, and it foreshadowed how the president will approach next Tuesday's debate with Romney, the second of three debates for the two men running for president. After Ryan finished his opening statement, responding to a question about the death of the U.S. ambassador to Libya in a terrorist attack in Benghazi a month ago, Biden responded: "That's a bunch of malarkey." "Not a single thing he said is accurate," Biden said. At times, Biden repeatedly butted in on Ryan's answers, refusing to let Ryan finish his thought. If it were anyone other than Biden, who is treated by the press as a lovable, half-crazy uncle, he would have been labeled insufferable. Instead, he got the aggressive label. Republicans thought it was much more than that. Republican National Committee spokesman Tim Miller called Biden “unhinged.” Romney adviser Eric Fehrnstrom tweeted: “Ryan: serious, sober, steady. Biden: smirking, mocking, immature.” Some of the more experienced Republicans tried to resist talking about Biden’s behavior, knowing it would come across as complaining. “Most people probably found the vice president’s performance a little -- well anyway, I think that people will judge for themselves,” said Ed Gillespie, one of the top advisers to Romney and one of the most seasoned Republican operatives in politics. But not even Gillespie, when he was asked by a reporter where he was going before he cut himself off, could resist getting some digs at Biden. “I don't know if his staff didn't brief him or not, but somebody should have told him that these debates are split-screen,” Gillespie said. “There seemed to be some frustration on his part at times, and sometimes I got the impression that he couldn't defend the facts as they were, [so] raise your voice a little louder,” Gillespie said. The Obama campaign, of course, relished in Republicans’ focus on Biden’s behavior instead of the substance of his remarks. "Their side is all spending their time talking about laughing and facial tics," said Obama campaign manager Jim Messina. "You're going to do that when you've lost a debate. And that's what happened tonight: they lost the debate." Of course, Biden was so demonstrative, so outsized, that it was hard to talk about anything else. Biden did another thing Obama did not a week ago. He raised the issue of Romney’s comments at a fundraiser in May in which he talked disparagingly about people who receive government benefits, claiming that he could “never convince them they should take personal responsibility and care for their lives." One of Ryan’s best one-liners came when he sought to explain these comments. Ryan first told a humanizing story about Romney caring for a family whose children were in a car crash, a story clearly prepared to push back against the portrait of Romney as out of touch and uncaring. And he then added: “With respect to that quote, I think the vice president very well knows that sometimes the words don't come out of your mouth the right way.” Although there were extended portions of the debate that focused on Libya, Syria, and Afghanistan, Biden and Ryan did engage in a lengthy back-and-forth in the middle of the debate on Medicare and tax policy. Ryan was, as usual, knowledgeable and in command of the facts. But Biden, as expected, attempted to plow him over with broadsides. “Stop talking about how you care about people. Show me something. Show me a policy,” Biden said. Ryan smiled, and continued to work through a data-filled argument, mentioning the $831 billion stimulus, an 8 percent unemployment rate for 43 months, the 1.3 percent growth rate of the economy, the $90 billion for green energy programs in the stimulus, and the 12 million jobs he and Romney say their economic program would create. Biden didn’t worry so much about numbers. Biden’s argument on Medicare was aimed at voters’ guts, much more so than minds. He acknowledged that Romney’s Medicare plan would not cost seniors an extra $6,400 a year, despite the claim in a recently launched Obama campaign ad. The $6,400 figure is based on a study of one of Ryan’s earlier plans for Medicare, which he has since changed to make it more bipartisan. Biden, aware of this, told voters they should be suspicious somebody “who would actually put in motion a plan that … added $6,400 a year more to the cost of Medicare?”
+
+(1) First, you identify all the single words that are morally framed. Identify this step as "STEP 1:" and report each word in a new line starting with *
+(2) Finally, you write a summary of the news article. Please preserve as many morally framed words as possible in your summary. The summary has to be returned after a "SUMMARY:" token and ending with a "END OF SUMMARY." token. The summary should be no longer than 200 words.

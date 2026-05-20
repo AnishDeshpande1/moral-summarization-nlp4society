@@ -1,0 +1,30 @@
+You have to summarize the following text preserving the moral framing that the author gave to it.
+
+Here is the news article:
+
+Leaks about what now resigned National Security Advisor Michael Flynn did or did not convey to Russia Ambassador Sergei Kislyak in a late December phone call not only led to the first administration shakeup but also confirmed that the Washington rules of engagement have not changed after all. In Washington, the weaponized leak always gets through. “The spotlight has finally been put on the low-life leakers!” President Trump tweeted before his February 16 press conference to comment on the Flynn fiasco. "They will be caught!” he predicted. No, they won’t be caught, is what history says, and more: In Washington, the leaks grow like the buckets of water in Walt Disney’s “The Sorcerer’s Apprentice.” More worrisome to Chief of Staff Reince Priebus, whose job is to command the president’s people, history shows that trying to close off the leaks leads to blame-shifting, low morale, resignations and eventually to political abandonment by Congress. The outline above is a bloodless diagramming of the infamous Watergate scandal. Recall that the leak of the infelicitous but not vital Pentagon Papers led to the Nixon Administration’s creating the so-called Plumbers, the sad-sack volunteer burglars led by Gordon Liddy and Howard Hunt, whose efforts to solve leaks led to a creepy break-in at Daniel Ellsberg’s psychiatrist’s office in September, 1971 and then to the boneheaded Watergate break-in of June, 1972. After that, President Nixon sank in a flood of leaks for twenty-six months until his terse resignation on the day he recognized that forced removal from office by the Senate was imminent. Following the Flynn resignation, there was a moment for the White House to regain balance and go forward with the overwhelming tasks at hand of creating a new government. Instead, the White House chose to follow in the damp footsteps of the Nixon White House and treat the leakers as the problem. What else could the president be indicating in his lengthy press conference of Thursday February 16 when asked about leaks? “Yes, we're looking at them very — very, very serious. I've gone to all of the folks in charge of the various agencies, and we're — I've actually called the Justice Department to look into the leaks. Those are criminal leaks.” Let this presidential warning be a marker of the probable birth of the New Plumbers. To underline how completely the White House has misapprehended the struggle ahead, the president invoked the power of the new Attorney General, as if that was sure to stop the leaks: “They're put out by people either in agencies — I think you'll see it stopping because now we have our people in. We just had Jeff Sessions approved. In Justice, as an example. So, we are looking into that very seriously. It's a criminal act.” No, the record shows that leaks are not all that criminal. For example, publishing leaked government information that is accurate has never led to either a reporter or a publisher being prosecuted. The leaker can be pursued relentlessly -- though very rarely successfully. Even then, intimidation doesn’t work, as there is always another leaker. The Obama Administration set a new record of ten investigations against leakers. However, the most prominent cases, Bradley Manning, Julian Assange and Edward Snowden, did not bring plaudits for President Obama – and further entangled the Obama White House in doubts about its competence. After President Trump’s press conference, there was a small possibility that this was bluster; and that the White House was not actually launching dragnets, black bag jobs, Ministry of Truth round-ups. One week later, all hope of avoiding the Nixonian scenario of Leak Apocalypse was gone with the leak that Priebus had irregularly contacted the FBI. The particulars of the Priebus-to-FBI-about-Russia leak are not crucial for the game. What is critical is the White House reaction to the leak. Early Friday morning February 24, the president sent two serial tweets that certainly look to be a chastisement of law enforcement: “The FBI is totally unable to stop the national security "leakers" that have permeated our government for a long time. They can't even Find the leakers within the FBI itself.” Explicating his alarm, the president asserted, “Classified information is being given to the media that could have devastating effect on U. S.” In closing, at 7:36 a.m., an imperative order from the commander-in-chief was keyed in all caps, “FIND NOW.” If the New Plumbers were still getting their waders laced up, they are certainly in the field now following the president’s dismissal of the FBI’s adequacy. The week ended with a warning that these are just the beginning days of whack-a-leak. Josh Rogin reported in the Washington Post that Secretary of State Rex Tillerson directed his legal office to issue a “Sensitive But Unclassified” four-page memo to privileged staff that warned against leaking, arguing ponderously, “When such information is leaked. It chills the willingness of senior government officials to seek robust and candid advice.” Most that can be said about the power of the Washington leaker and the futility of the Trump Administration’s quest is in the fact that Tillerson’s memo was immediately leaked.
+
+The author used the following morally framed words in the article:
+* caught
+* abandonment
+* breakin
+* regain
+* creating
+* follow
+* treat
+* look
+* leaks
+* misapprehended
+* invoked
+* put
+* approved
+* act
+* stop
+* permeated
+* given
+* devastating
+* find
+* leaked
+* quest
+
+Please preserve as many morally framed words as possible in your summary. The summary has to be returned after a "SUMMARY:" token and ending with a "END OF SUMMARY." token. The summary should be no longer than 200 words.

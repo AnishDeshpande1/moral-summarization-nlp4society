@@ -1,0 +1,220 @@
+You have to summarize the following text preserving the moral framing that the author gave to it.
+
+Please study the following examples of news articles, their moral word extraction, and summaries preserving the moral framing:
+
+Example 1 (Political Ideology: Left):
+Here is the news article:
+
+(CNN) Alabama Republican Senate candidate Roy Moore says he will sue the Washington Post over its report alleging he pursued sexual relationships with teenagers -- including a 14-year-old -- when he was in his 30s.
+
+"The Washington Post published another attack on my character and reputation because they are desperate to stop my political campaign.
+These attacks said I was with a minor child and are false and untrue -- and for which they will be sued," Moore said Sunday night during a campaign speech in Huntsville, Alabama.
+
+The Washington Post declined to comment Monday morning.
+
+It's not uncommon for public figures to threaten legal action against news organizations but ultimately fail to follow through.
+President Donald Trump threatened to sue The New York Times last year after it published the accounts of two women who claimed Trump touched them inappropriately.
+His lawyers never filed a lawsuit.
+
+More recently, disgraced Hollywood mogul Harvey Weinstein initially threatened to sue the Times after it first reported allegations of sexual misconduct against him, but that suit never materialized
+
+The Washington Post report Thursday was based on interviews with more than 30 people.
+As well as the allegations that Moore had sexual contact with the then 14-year-old when he was aged 32, three other women also told The Post that Moore pursued them when they were between the ages of 16 and 18.
+
+The woman who was 14 years old at the time claimed he took her to his house, undressed down to his underwear and undressed her down to her bra and underwear and touched her and moved her hand to touch his underwear, which could have been sexual offenses due to her age, but the statutes of limitations in effect during that time have passed.
+
+None of the other three women told the Post that Moore sexually harassed, or assaulted them, or forced them into a relationship.
+Alabama's legal age of consent is 16.
+
+Moore has denied the allegations since they were published.
+He called the claims " completely false " Friday when appearing on Sean Hannity's syndicated radio show.
+
+Speaking at a Veterans Day event at the Mid-Alabama Republican Club in Birmingham Saturday, Moore called the allegations "fake news" and "yet another attack on my character and reputation in a desperate attempt to stop my political campaign for the United States Senate."
+
+He added that the alleged incidents happened nearly 40 years ago and called them "very hurtful to me personally -- I have the highest regard for the protection of young children," before adding that he has never provided alcohol to a minor and has "not been guilty of sexual misconduct with anyone."
+
+Moore added that there were ongoing "investigations" looking into the motivations behind the Post article, and promised "revelations" about the story to come in the next few days, though he did not provide further specifics.
+
+A number of Republicans withdrew their endorsements of Moore following the Washington Post article, including the National Republican Senatorial Committee, which severed a joint fundraising agreement that benefits Moore's campaign.
+
+STEP 1:
+* false
+* untrue
+* desperate
+* attack
+* character
+* reputation
+* fake
+* hurtful
+* highest
+* guilty
+* misconduct
+
+SUMMARY:
+Alabama Republican Senate candidate Roy Moore has denied allegations of pursuing sexual relationships with teenagers, including a 14-year-old, when he was in his 30s, calling the claims "completely false" and "fake news". Moore accused The Washington Post of launching a "desperate" attack on his character and reputation to stop his political campaign. The Post's report, based on interviews with over 30 people, alleged that Moore had sexual contact with the 14-year-old and pursued three other women between the ages of 16 and 18. Moore has threatened to sue The Washington Post over the report, which he claims is "hurtful" to him personally. He emphasized his "highest regard for the protection of young children" and denied any "sexual misconduct" with anyone. Several Republicans have withdrawn their endorsements of Moore following the report. END OF SUMMARY.
+
+Example 2 (Political Ideology: Center):
+Here is the news article:
+
+A man pulled out a shotgun inside a North Texas church on Sunday and opened fire, killing two people, authorities said.
+It could have been far worse.
+
+Two congregants, both volunteer members of the church's security team, drew their weapons and confronted the gunman, fatally shooting him and saving an "untold number of lives" at West Freeway Church of Christ in White Settlement, a town of about 17,000 people near Fort Worth.
+
+Their actions, described as "heroic" by the Texas Department of Public Safety, brought a quick end to an attack that remained under investigation on Sunday night.
+Authorities have not provided information about a possible motive.
+
+Officials have not released the names of the victims or the gunman, whom FBI Special Agent in Charge Matthew DeSarno said had roots in the area but is “relatively transient."
+
+“This team responded quickly and within six seconds, the shooting was over.
+Two of the parishioners who were volunteers of the security force drew their weapons and took out the killer immediately, saving untold number of lives,” said Texas Lt. Gov.
+Dan Patrick, who also hailed the state’s gun laws.
+
+“We lost two great men today," Britt Farmer, the church's senior minister said, "but it could have been a lot worse.”
+
+'Nothing is going to stop us being Jewish':New York community rallies after anti-Semitic 'terrorism' attack
+
+There were more than 240 parishioners in the church at the time of the shooting, authorities said, and the service was being livestreamed to countless homes.
+
+MedStar Mobile Healthcare confirmed two fatalities — one at the scene and another on the way to the hospital.
+Hours later, FBI spokesman Jason Wandel confirmed the death of the third person.
+
+All of the victims were male.
+
+"It’s tragic and it’s a terrible situation, especially during the holiday season,” said Jeoff Williams, a regional director with the Texas Department of Public Safety.
+“We have a couple of heroic parishioners who stopped short of just anything that you can even imagine, saved countless lives."
+
+Licensed handgun owners can legally carry loaded weapons into Texas churches that do not have posted signs banning weapons.
+Church security became a major issue in the state after a gunman walked into a church in Sutherland Springs two years ago and fatally shot 26 people and wounded 20 others.
+
+“It was the most scariest thing," Isabel Arreola told CBS11 News.
+"You feel like your life is flashing before you."
+
+In a livestream of the church service, the gunman can be seen getting up from a pew and talking to someone at the back of the church before pulling out a gun and opening fire.
+Parishioners can then be heard screaming and seen ducking under pews or running as papers fly to the floor.
+
+Mike Tinius, a church elder, told The New York Times that one of those killed was a security guard and friend who responded to the shooter.
+Tinius said that he didn’t know the gunman and that the shooting appeared to be random.
+
+The security guard “was trying to do what he needed to do to protect the rest of us,” Tinius said.
+“It’s extremely upsetting to see anyone committing violence."
+
+Gov. Greg Abbott issued a statement of condemnation for the "evil act of violence" at a place of worship.
+
+"I am grateful for the church members who acted quickly to take down the shooter and help prevent further loss of life," Abbott said.
+"Cecilia and I ask all Texans to join us in praying for the White Settlement community and for all those affected by this horrible tragedy."
+
+The shooting took place hours after a knife-wielding attacker stabbed five people during a Hanukkah celebration in a rabbi's home outside New York City.
+New York Gov. Andrew Cuomo called the attack "an act of domestic terrorism" and directed the state police hate crimes task force to investigate.
+
+STEP 1:
+* heroic
+* tragic
+* terrible
+* evil
+* heroic
+* tragic
+* horrific
+* extremely
+* upsetting
+* evil
+* domestic
+* terrorism
+
+SUMMARY:
+A tragic and terrible shooting occurred at West Freeway Church of Christ in White Settlement, Texas, on Sunday, killing two people and injuring others. The heroic actions of two volunteer security team members, who drew their weapons and fatally shot the gunman, brought a quick end to the attack and saved an "untold number of lives." The Texas Department of Public Safety described their actions as "heroic." The gunman, who had roots in the area but was "relatively transient," opened fire during a livestreamed service, causing chaos and panic among the 240 parishioners. The shooting was condemned by Gov. Greg Abbott as an "evil act of violence" at a place of worship. The community is left to mourn the loss of two great men, but it could have been much worse. END OF SUMMARY.
+
+Example 3 (Political Ideology: Right):
+Here is the news article:
+
+Robert E. Lee monument in Richmond, Va.
+
+Secession was a traitorous act that threatened to destroy the American nation, and the South’s leaders don’t deserve to be given a place of honor.
+
+In the wave of cancellations sweeping America, Confederate statues have been particularly hard hit.
+
+They have been graffitied, assaulted, and torn down, while authorities rush to remove them.
+
+For his part, President Donald Trump has been a steadfast defender of the statues and other forms of recognition of the Confederacy.
+He has come out in favor of preserving the names of military bases named after Confederate generals and pointedly said that we should build on our heritage rather than tear it down.
+
+Conservatives tend to think the same way.
+They reflexively oppose politically correct campaigns to destroy anything giving offense.
+
+They fear where the slippery slope of woke iconoclasm will lead — first it’s Jefferson Davis, ultimately George Washington.
+
+They value tradition and worry we are trashing part of our history.
+
+This impulse, though, is a mistake.
+Confederate statues and symbols deserve to be reevaluated, and often mothballed.
+
+The statues are an unnecessary affront to black citizens, who shouldn’t have to see defenders of chattel slavery put on a pedestal, literally.
+
+It is impossible to evaluate these monuments without considering the context of why they were created.
+Many of them were erected as part of the push to enshrine a dishonest, prettied-up version of the Confederacy.
+
+Finally, learning about, say, Robert E. Lee doesn’t require staring up at a 60-foot-tall statue of him on a major Richmond, Va., thoroughfare.
+
+We should make distinctions, of course.
+Big statues in prominent public spaces erected to make a point about the supposed glories of the Confederacy should be transferred elsewhere (ideally to museums or battlefields).
+But this should be done lawfully, not via mob action.
+
+The Confederate flag should be shunned, as a symbol of a viciously flawed cause.
+
+Direct commemorations of the Confederate war dead — obelisks with lists of names, Confederate cemeteries — should be preserved to mark the human cost of a terrible conflict.
+
+The bases are a harder case, since their names have themselves entered the American military tradition.
+But as the source of those names becomes more widely known, it’s going to be harder to ask African-American soldiers willing to sacrifice life and limb for their country to look past them.
+
+The Richmond statue of Lee, which Virginia governor Ralph Northam has said is coming down, has long been a point of contention.
+Its 1890 unveiling was a key moment in the creation of a cult of Lee as a man of “moral strength and moral beauty,” as a speaker put it that day.
+
+Frederick Douglass appropriately scorned this movement.
+“It would seem,” he wrote sarcastically, “that the soldier who kills the most men in battle, even in a bad cause, is the greatest Christian, and entitled to the highest place in heaven.”
+
+The apotheosis of Lee was an element of a Lost Cause mythology that maintained that the Civil War wasn’t truly about slavery, only Southern states defending their legitimate prerogatives.
+
+Alexander Stephens, the vice president of the Confederacy, would have scoffed at this.
+In his notorious Cornerstone Speech in 1861, he said the new government was built on “the great truth” of slavery.
+
+The theory of states’ rights that the Confederacy used to justify secession wasn’t meant to preserve our constitutional scheme, but to demolish it.
+The idea had been developed by former vice president John C. Calhoun of South Carolina, who believed the country had set off on an erroneous, nationalist path from the very beginning.
+
+Besides, the South supported states’ rights only to the extent that they were useful in protecting slavery.
+It insisted, after all, on a federal Fugitive Slave Act.
+
+Secession was a traitorous act that threatened to destroy the American nation, to create a rump republic built on slavery, and to make impossible the subsequent rise of the United States to a world power.
+Its leaders don’t deserve to be given a place of honor in our landscape denied to worthier men.
+Confederate statues shouldn’t be vandalized, but they should go.
+
+STEP 1:
+* traitorous
+* defenders
+* woke
+* iconoclasm
+* dishonest
+* prettied-up
+* viciously
+* flawed
+* terrible
+* moral
+* Christian
+* entitled
+* bad
+* legitimate
+* erroneous
+* nationalist
+* erroneous
+* useful
+* worthier
+
+SUMMARY:
+The removal of Confederate statues and symbols is a necessary step in reevaluating the country's heritage. These monuments were erected to enshrine a dishonest and prettied-up version of the Confederacy, and their presence is an unnecessary affront to black citizens. The Confederate flag is a symbol of a viciously flawed cause and should be shunned. Direct commemorations of the Confederate war dead should be preserved, but big statues in prominent public spaces should be transferred to museums or battlefields. Secession was a traitorous act that threatened to destroy the American nation, and its leaders don't deserve a place of honor. Confederate statues shouldn't be vandalized, but they should be removed and reevaluated. It's time to make distinctions and acknowledge the human cost of a terrible conflict. END OF SUMMARY.
+
+Now, here is the target news article to summarize:
+Here is the news article:
+
+“The 360” shows you diverse perspectives on the day’s top stories. What’s happening Using ground-penetrating radar, scientists in Tulsa, Okla., recently discovered evidence of mass graves connected to the 1921 race massacre there. Like much of the evidence of the deadly event, the history of what’s been called “the single worst incident of racial violence in American history” has been buried. In the early 1920s, the Greenwood District of Tulsa, home to most of the city’s black population, was a vibrant neighborhood that was so successful, it was known as "Black Wall Street." All that changed on May 31, 1921. An unproven accusation of an assault of a white woman by a black man caused long-bubbling white resentment to boil over into violence. White mobs flooded into Greenwood, looting homes, burning businesses and killing residents. By June 1, 35 city blocks had been burned to the ground and thousands were left homeless. The official count tallied 36 deaths, but historians now believe the number could have been as high as 300. Despite the scale of violence, the Tulsa race massacre has been a largely forgotten part of U.S. history. Many Americans said they first became aware of the incident this year, when the HBO drama “Watchmen” featured a fictionalized reenactment in its premiere episode. Why there’s debate A common explanation for the massacre being largely unknown is that the people of Tulsa have been hesitant to talk about it. "For decades it was hush-hush," a local photojournalist said. Law enforcement and insurance companies mostly declined to act in the aftermath of the attack, leaving little paper trail. There was also a widespread effort to strip the historical record of evidence of the event. For decades, the event was known as the Tulsa race riot, a title seen by many as a euphemism that minimized the true impact of the rampage. Some historians believe the incident to be one of several that took place during a period of widespread racial violence after the Civil War — often omitted because it runs counter to the preferred narrative of black progress in America from slavery through the civil rights movement. What’s next Scientists say further examination of the possible mass grave sites is necessary before they can be excavated. If bodies are found at the sites, DNA tests would be done to determine their identities. Local leaders hope to have the project completed in time for the 100th anniversary of the event in 2021. A feature film about the massacre and two television series about the massacre — including one produced by Oprah Winfrey — are in development, but no release dates have been announced for the projects. Perspectives For decades, the massacre was mislabeled as a riot “The word ‘riot’ suggested something uncontrolled and mindless, rather than the very specific targeting of black success. Further, by flipping victim and perpetrator, these accounts both blamed black Tulsans and absolved the white mob.” — Alaina E. Roberts, Washington Post The massacre is better known in the black community “The bombing of Black Wall Street is common knowledge to a large percentage of black folks … but apparently it’s news to a lot of people who prefer a whitewashed, sanitized version of American history.” — Michael Harriot, the Root A systematic effort to erase the event from history was largely successful “The dead were tossed into the Arkansas River and unmarked mass graves. News accounts were cut out of the Tulsa Tribune before they were assembled into bound reference volumes. The incident was not a part of the Oklahoma public schools’ curriculum until 2000, and only recently entered American-history textbooks.” — Frank Rich, Vulture The massacre contradicts the popular narrative of black progress in America “Tulsa’s massacre happened in a time that we don’t talk about. It upends the history lessons that Americans pass down — that black people were passive victims from the slave ships to the ‘I Have a Dream’ speech, that white violence was the unique dogma of church-bombing extremists. Black Wall Street scrambles the accepted timeline so much that it’s easier to forget the place ever existed.” — Victor Luckerson, the Ringer
+
+(1) First, you identify all the single words that are morally framed. Identify this step as "STEP 1:" and report each word in a new line starting with *
+(2) Finally, you write a summary of the news article. Please preserve as many morally framed words as possible in your summary. The summary has to be returned after a "SUMMARY:" token and ending with a "END OF SUMMARY." token. The summary should be no longer than 200 words.

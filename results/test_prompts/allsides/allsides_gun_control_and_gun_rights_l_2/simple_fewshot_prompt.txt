@@ -1,0 +1,163 @@
+You have to summarize the following text preserving the moral framing that the author gave to it.
+
+Please study the following examples of news articles and their summaries preserving the moral framing:
+
+Example 1 (Political Ideology: Left):
+Here is the news article:
+
+Democrats’ landmark campaign finance, voting rights and ethics reform bill passed the House of Representatives on Friday.
+
+The For The People Act, which passed 234-193, was Democrats’ top priority upon winning control of the House in the 2018 elections.
+It would dramatically expand voting access, create publicly funded House elections, enhance the transparency of money in politics, restore voting rights to millions of ex-felons, strengthen executive branch ethics law and end partisan gerrymandering.
+
+“This is a historic day, a pivotal day, a day that will make a difference,” House Speaker Nancy Pelosi (D-Calif.) said.
+
+The bill aims to answer rising attacks on voting rights from courts and politicians across the country, and also to stem the increasing inequality of campaign funding by empowering small donors with matching contributions from public funds, among many other things.
+
+The For The People Act “takes power from the elites, special interests and the 1 percent and gives it to the American people,” Rep. Zoe Lofgren (D-Calif.) said.
+
+“This vote is an opportunity to be on the right side of history,” Rep. John Lewis (D-Ga.) said.
+“If not us, then who? If not now, then when?”
+
+House passage of the legislation is the result of a long collaborative process by the Democratic Party to prioritize campaign finance and voting rights reforms.
+The party’s Democracy Reform Task Force, endorsed by Pelosi and led by Rep. John Sarbanes (D-Md.), worked with lawmakers both old and new to bring together legislative ideas and craft them into a coherent package.
+
+Much of this work was begun while Democrats languished in the House minority.
+As a possible victory in the 2018 elections loomed, they made it clear that the reforms would be their No. 1 priority.
+This mission was driven not just by party leaders, but also by the candidates who would ultimately deliver Democrats their first majority in the House in eight years.
+
+One-hundred candidates, including those who won their 2018 races, signed a letter to Pelosi and other congressional leaders demanding the reforms be the first order of business.
+Many cited the endemic corruption of money in politics as a top complaint they heard on the campaign trail from constituents.
+
+The vote broke down on party lines, with Republicans in hardened opposition.
+During multiple committee hearings and floor debate, GOP representatives castigated the bill as a federal power grab designed to help Democrats win elections by allowing increased voting access and nonpartisan gerrymandering.
+They said the campaign finance disclosures and the public funding of elections assaulted free speech rights, the ethics laws were too broad and unnecessary, and the creation of a federal election day holiday was an unnecessary benefit for lazy workers.
+
+The Senate will not take up the bill, according to Majority Leader Mitch McConnell (R-Ky.).
+
+McConnell is perhaps the nation’s biggest opponent of campaign finance reforms, and the Republican Party has enacted measures across the country in the last decade to restrict voter access.
+Those restrictions would be overturned by the For The People Act.
+
+Still, Sen. Tom Udall (D-N.M.) announced the outlines of a Senate companion bill on Wednesday.
+President Donald Trump has been advised to veto the legislation if it reaches his desk.
+
+Democrats believe that the reform package is popular and plan to vote on individual pieces of it to keep the issues of corruption and voting rights front and center.
+They are already pursuing a reauthorization of the Voting Rights Act in a separate bill.
+And Senate Minority Leader Chuck Schumer (D-N.Y.) said on Thursday that he would like to mandate automatic voter registration across the country.
+
+The House bill “is just the first step in our efforts to change politics in this country ― to change politics in this town,” freshman Rep. Max Rose (D-N.Y.) said on Thursday ahead of the vote.
+
+“This is a fight that will not end until we win it,” Pelosi said.
+
+SUMMARY:
+
+The House of Representatives has passed the For The People Act, a landmark campaign finance, voting rights, and ethics reform bill, with a 234-193 vote. The bill aims to expand voting access, create publicly funded House elections, and enhance transparency in politics. It also seeks to restore voting rights to millions of ex-felons, strengthen executive branch ethics law, and end partisan gerrymandering. Democrats hail the bill as a historic step towards empowering the American people and reducing the influence of elites and special interests. The bill's passage is the result of a long collaborative process by the Democratic Party to prioritize campaign finance and voting rights reforms. Republicans, however, oppose the bill, claiming it's a federal power grab that assaults free speech rights. Despite the Senate's reluctance to take up the bill, Democrats plan to continue pushing for reforms, believing they are popular and essential to changing politics in the country. END OF SUMMARY.
+
+Example 2 (Political Ideology: Center):
+Here is the news article:
+
+White House To Seek Emergency Sandy Funds
+
+Billions in damages and not enough in the bank account — that's where federal officials find themselves in the aftermath of Hurricane Sandy.
+
+The White House says it will send an emergency funding request to Capitol Hill this week — expected to be $50 billion to $60 billion.
+Top administrators told Congress on Wednesday that they want at least some of that money to go toward preventing the kind of devastation caused by Sandy and other recent storms.
+
+The damage from what was dubbed Superstorm Sandy was enormous and widespread.
+Sen. Kirsten Gillibrand, D-N.Y., testified before some of her Senate colleagues on the tally from her state alone.
+
+"What we know so far: We have over 300,000 homes seriously damaged; more than 265,000 businesses impacted; about 238,000 have filed their FEMA claims to date; and thousands of New Yorkers are still homeless," she said.
+"We've estimated our damages are upwards of $32.8 billion — and this was a conservative estimate."
+
+New Jersey has a similar tally; Connecticut, a bit less.
+Combined, the Northeastern states are asking for about $80 billion in federal aid for storm-related damage.
+
+An Eye To The Future
+
+Housing and Urban Development Secretary Shaun Donovan — the Obama administration's point man on Sandy — would not say Wednesday exactly how much the administration wants from Congress.
+But Donovan said at least a portion of the money will go to build up the region's defenses against future superstorms.
+
+"We want to ensure that homes that were damaged or lost are rebuilt, businesses are restored and communities made whole, but we also want to build back stronger, smarter, safer and more resiliently — a 21st century response," he said.
+
+Donovan told members of a Senate Appropriations subcommittee that building up such resilience involves making decisions now, before rebuilding gets under way — "from the kinds of design and materials we should use to rebuild boardwalks to whether gas stations should be generator-capable to how or whether to rebuild in certain areas."
+
+Several senators on the panel talked about the power grid, and whether it would make sense to pay to bury power lines underground, to protect them from falling trees.
+
+That's a good idea in some areas, but Craig Fugate, head of FEMA, warned that in New York City, placing things underground led to other problems.
+
+'A Down Payment'?
+
+Fugate says the administration has some $4.8 billion left in its disaster relief fund — money used to pay for immediate assistance.
+And while the White House and lawmakers have their hands full with the impending year-end tax increases and spending cuts, some in Congress want to provide the states just a small amount of the rebuilding money now, and a bigger chunk later.
+
+But Donovan says such a down payment would cause hardships.
+
+"Families, small businesses, entire communities are waiting for a decision about what resources are available to help them rebuild," he said.
+"A down payment simply means that those families, those communities, are going to be waiting for months or longer to be able to get on with their lives."
+
+Nor does Donovan believe the disaster aid should be offset by cuts elsewhere in the budget.
+Most Democrats seem to agree, but it's unclear whether Republicans will go along.
+
+SUMMARY:
+
+In the aftermath of Hurricane Sandy, the White House is seeking emergency funding of $50-60 billion to address the devastating damages and prevent future storms from causing similar destruction. The Northeastern states are requesting $80 billion in federal aid for storm-related damage, with New York alone estimating damages of $32.8 billion. The administration wants to use some of the funds to build up the region's defenses against future superstorms, making decisions now on design, materials, and infrastructure to ensure a "21st century response". However, with only $4.8 billion left in the disaster relief fund, the administration is urging against a "down payment" approach, which would cause hardships for families and communities waiting to rebuild. Instead, they argue that the aid should not be offset by cuts elsewhere in the budget, a stance that most Democrats agree with, but Republicans are unclear on.
+
+END OF SUMMARY.
+
+Example 3 (Political Ideology: Right):
+Here is the news article:
+
+Support for gun rights is higher than it’s been in decades, according to the latest data from the Pew Research Center that signals a stunning turnaround in how Americans feel about the issue just two years after the Newtown school shooting.
+
+Pew found that 52 percent of Americans say Second Amendment rights are more important than gun control — up 7 percentage points from just after the December 2012 Sandy Hook Elementary School shooting that left 20 schoolchildren and six faculty dead.
+
+That’s the highest approval rating in two decades, and it’s being driven in part by changing attitudes among black Americans, who are increasingly likely to view guns as good for public safety.
+
+Pew found 54 percent of blacks now say firearms protect people from being victims of crimes, compared to 41 percent who say they are a public safety risk.
+Just two years ago, only 29 percent of blacks said guns were a public safety boon.
+
+“Over the past two years, blacks’ views on this measure have changed dramatically,” Pew researchers said.
+
+The changes are all the more stunning given the direction the debate appeared to be going two years ago, when 20-year-old gunman Adam Lanza killed his mother, then drove to the elementary school where he fatally shot 26 people, then turned the gun on himself to commit suicide.
+
+President Obama called for major new restrictions on gun rights in the wake of the shooting, asking Congress to enact a bill to subject more gun purchases to background checks and to ban high-capacity ammunition magazines and military-style rifles.
+But gun rights supporters rallied, blocking those efforts in the Senate and leaving the matter stalled.
+
+Some states acted in lieu of federal action, but Democrats on Capitol Hill said Wednesday they remain committed to imposing new restrictions.
+
+“It is imperative that we act,” House Minority Leader Nancy Pelosi said at an event to commemorate the Newtown shooting.
+“We must stick with this.”
+
+Gun control supporters said other polling still shows strong support for specific changes.
+Requiring universal background checks garners support of about 90 percent of Americans, while support for limits on rifles and ammunition magazines hovers just above 50 percent.
+
+Ladd Everitt, a spokesman for the Coalition to Stop Gun Violence, said Pew’s findings reflect a sharp partisan divide on the issue, but also said the wording of the survey might have influenced the results.
+The survey asked whether it was more important to “control gun ownership” or “protect the right of Americans to own guns.”
+
+“The notion of having ‘rights’ is certainly going to be more appealing than the notion of being ‘controlled,’ no matter what topic you are asking respondents about,” he said in an email.
+“We’d be curious to see how the polling would look if Pew Research asked respondents if they believed they had ‘a right to be free from gun violence in their communities through the enactment of sensible gun legislation.’”
+
+Specific wording aside, Pew’s research suggested a shift over time.
+Support for gun control peaked at 66 percent in the late 1990s, or about the time of the 1999 shooting at Columbine High School in Littleton, Colorado, and has dropped 20 percentage points since then.
+
+The recent shift has also happened across nearly all demographic lines.
+
+When posed a choice between supporting gun rights or gun controls, men and women, old and young, white and black and Republican and Democrat all saw their preference for Second Amendment rights increase over the last two years.
+
+African-Americans’ support for gun rights rose from 24 percent to 34 percent, and whites’ backing rose from 53 percent to 61 percent.
+Only Hispanics saw a drop in their support for gun rights, slipping 2 percentage points to 25 percent, or lower than blacks’ level of support.
+
+While Democrats still generally back gun controls, with just 28 percent supporting gun rights, majorities of both Republicans and independents say the Second Amendment trumps their desire for more controls.
+
+SUMMARY:
+
+According to the latest Pew Research Center data, support for gun rights has reached a two-decade high, with 52% of Americans prioritizing Second Amendment rights over gun control. This marks a stunning turnaround since the Newtown school shooting in 2012. Notably, black Americans' views on gun ownership have shifted dramatically, with 54% now believing firearms protect people from crime, up from 29% two years ago. The survey's findings reflect a sharp partisan divide, with Democrats still backing gun controls, while Republicans and independents prioritize gun rights. Despite this shift, support for specific changes, such as universal background checks, remains strong. The moral imperative to act on gun violence, emphasized by House Minority Leader Nancy Pelosi, seems to be losing traction amidst the growing support for gun rights.
+
+END OF SUMMARY.
+
+Now, here is the target news article to summarize:
+Here is the news article:
+
+Democratic majority in the House expected to introduce legislation to impose background checks on all gun sales Prominent Democrats plan on Thursday to begin ramping up calls for stronger gun control at the start of a new push to use their strengthened voice in Washington to make progress on an issue that bitterly divides America. US senators Chris Murphy and Richard Blumenthal, who represent Connecticut, where 20 children and six school staff were gunned down at Sandy Hook elementary school in December 2012, will lead demands for fresh action. And the newly empowered Democratic majority in the House of Representatives is expected to introduce sweeping legislation to impose background checks on all gun sales as one of the first priorities in the incoming Congress of 2019, in an aggressive new strategy according to a report this week in Mother Jones. On Thursday Murphy and Blumenthal will be joined on Capitol Hill by a number of House Democrats and a clutch of leading anti-gun violence advocacy groups, shooting survivors and the bereaved, calling for change. The event will follow the annual national vigil for all victims of gun violence at St Mark’s episcopal church just off Pennsylvania Avenue, close to the Capitol. Family members of victims from mass shootings in the high school at Parkland, Florida, earlier this year, the Las Vegas massacre at a country music concert last year, and other recent mass shootings in Aurora, Colorado, Charleston, South Carolina, and Houston, Texas. Last month 12 people were shot dead in a country music bar in Thousand Oaks, California, just before the area was hit by the worst wildfires in state history. One victim had narrowly escaped the Las Vegas shooting, and his family angrily demanded gun control. The issue has stalled in Washington, with negligible progress from the White House or Congress, despite pledges from Donald Trump that there would be definitive action to curb gun violence after the shooting at the Marjory Stoneman Douglas school in Parkland, Florida, in February 2018, which sparked a new youth movement against gun violence. Last week the father of one of the young children who died in the shooting at Sandy Hook elementary school, on 14 December 2012, near Newtown, Connecticut, filed another lawsuit against conspiracy theorists who claim he is an actor and the massacre was a hoax. Lenny Pozner, whose six-year-old son Noah was killed, is suing James Fetzer and Mike Palacek, who co-wrote a book, Nobody Died at Sandy Hook. Pozner has had to move house several times to attempt to escape persistent harassment from a variety of conspiracy theorists, stating via an attorney that he has even feared for his life. Federal law requiring background checks is limited and often not well enforced. Even some bipartisan efforts to strengthen background checks via legislation have failed to get anywhere in the Republican controlled Congress. The GOP still controls the Senate after the midterm elections, so bills passed by the newly Democratic majority House can be blocked. But Democrats are feeling emboldened to lay out a strident new strategy on gun control, in the hopes of winning more Republican support and also setting out their stall ahead of the 2020 presidential election. Earlier this week, 46 incoming House Democrats wrote a letter to Nancy Pelosi, who is expected to regain the speaker’s gavel in January, demanding that gun reform be a top priority for the incoming Congress. The New York Republican congressman Peter King has previously supported bipartisan legislation to tighten background checks, even though the bill languished in the GOP Congress, but has indicated he will support fresh legislation along similar lines. The California Democratic congressman Mike Thompson is expected to introduce a bill. Thompson will join Murphy, Blumenthal and Connecticut congresswoman Elizabeth Esty on Thursday at the call to action on Capitol Hill, as well as advocacy groups including the Brady Campaign to Prevent Gun Violence, the Newtown Action Alliance and Giffords, the campaign group started by former Arizona congresswoman Gabby Giffords after she survived a mass shooting at one of her local political events in Tucson in January, 2012.
+
+The summary has to be returned after a "SUMMARY:" token and ending with a "END OF SUMMARY." token. The summary should be no longer than 200 words.

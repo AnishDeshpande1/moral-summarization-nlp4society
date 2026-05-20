@@ -1,0 +1,251 @@
+You have to summarize the following text preserving the moral framing that the author gave to it, with particular focus on the specific moral foundations highlighted in the text.
+
+Please study the following examples of news articles, their moral word extraction, and summaries preserving the moral framing:
+
+Example 1 (Political Ideology: Left, Moral Foundations: Fairness/Cheating):
+Here is the news article:
+
+WASHINGTON – Five hundred and eighty-four days after descending his Trump Tower escalator to announce his candidacy, Donald J. Trump took the oath of office Friday to become the 45th president of the United States.
+
+Chief Justice John Roberts administered the 38-word oath at 12:00 p.m., capping Trump’s unlikely journey from New York City real estate developer and reality TV star to the nation’s highest office.
+
+Trump won the Republican nomination against a crowded field of 16 other candidates, many far more experienced in politics.
+But he was able to capitalize on a primary voting base that was angry at the establishment GOP for not more aggressively fighting President Barack Obama’s policies.
+
+He trailed Democratic nominee Hillary Clinton in the general election nearly the entire way.
+In the final month of the race, he was helped by the near daily release of internal Democratic Party emails stolen by Russian hackers as well as by FBI Director James Comey’s decision to reopen, briefly, the probe into Clinton’s use of a private email server.
+
+Trump wound up winning Wisconsin, Michigan and Pennsylvania by a total of 78,000 votes.
+Clinton had counted on winning all three.
+
+STEP 1:
+* angry
+* aggressively
+* establishment
+
+SUMMARY:
+Donald J. Trump took the oath of office to become the 45th president of the United States, capping his unlikely journey from real estate developer and reality TV star to the nation's highest office. Trump's victory was fueled by an angry primary voting base that felt the establishment GOP had not fought President Barack Obama's policies aggressively enough. Despite trailing Democratic nominee Hillary Clinton in the general election, Trump was helped by the release of stolen Democratic Party emails and FBI Director James Comey's decision to reopen the probe into Clinton's email server. Trump won Wisconsin, Michigan, and Pennsylvania by a narrow margin of 78,000 votes, defying Clinton's expectations. Trump's presidency marked a significant shift in American politics, driven by a desire for change and a rejection of the political establishment. END OF SUMMARY.
+
+Example 2 (Political Ideology: Center, Moral Foundations: Authority/Subversion, Care/Harm, Fairness/Cheating, Loyalty/Betrayal):
+Here is the news article:
+
+WASHINGTON — Donald John Trump was inaugurated as the 45th president of the United States on Friday, ushering in a new era that he vowed would shatter the established order and reverse a national decline that he called “this American carnage.”
+
+In a ceremony that capped a remarkable rise to power, Mr. Trump presented himself as the leader of a populist uprising to restore lost greatness.
+He outlined a dark vision of an America afflicted by “the ravages” of economic dislocation and foreign exploitation, requiring his can-do approach to turn around.
+
+“I will fight for you with every breath in my body, and I will never, ever let you down,” Mr. Trump told hundreds of thousands of rain-soaked admirers and onlookers in a forceful 16-minute Inaugural Address from the West Front of the Capitol.
+“America will start winning again, winning like never before.
+We will bring back our jobs. We will bring back our borders. We will bring back our wealth. And we will bring back our dreams.”
+
+Mr. Trump’s ascension amounted to a hostile takeover of a capital facing its most significant disruption in generations.
+While officially a Republican, he has taken on leaders of both parties and, with no prior political career of his own, made clear that he saw himself as the ultimate outsider not beholden to the current system.
+
+“We will no longer accept politicians who are all talk and no action, constantly complaining but never doing anything about it,” he said.
+“The time for empty talk is over. Now arrives the hour of action.
+Do not allow anyone to tell you that it cannot be done.”
+
+Mr. Trump’s view of the United States was strikingly grim for an Inaugural Address — a country where mothers and children are “trapped in poverty in our inner cities,” where “rusted-out factories” are “scattered like tombstones across the landscape” and where drugs and crime “have stolen too many lives.”
+
+“This American carnage,” he declared, “stops right here and stops right now.”
+
+He got started right away with rolling back the policies of his predecessor, former President Barack Obama, by issuing orders freezing new regulations from recent weeks and ordering agencies to “ease the burden” of the Affordable Care Act during the transition from repealing to replacing the law.
+More orders are planned for next week.
+
+Wearing a dark suit and red tie and accompanied by his wife, Melania, in a powder-blue suit and matching gloves, Mr. Trump took the 35-word oath administered by Chief Justice John G. Roberts Jr. precisely at noon.
+Michael Richard Pence, a former governor and congressman from Indiana, was sworn in minutes before as vice president by Justice Clarence Thomas.
+
+Mr. Trump assumed the presidency of a country still unsettled after a polarizing election and entered office with less support in polls than any other president in recent history.
+It was clear from the day that there would be no grace period either for or by the new president.
+The Senate confirmed two cabinet nominations — James N. Mattis as defense secretary and John F. Kelly as secretary of homeland security — but Democrats temporarily held up Mike Pompeo’s confirmation as C.I.A. director.
+
+Throughout the day, there were mostly peaceful protests against the new president.
+Sporadic violence broke out as demonstrators smashed shop windows and burned a limousine, while police officers in riot helmets responded with tear gas.
+More than 200 people were arrested.
+Liberal groups prepared for a women’s march on Saturday that they said could draw hundreds of thousands.
+
+Mr. Trump made only passing efforts to reach out to Democrats beyond thanking Mr. Obama and his wife, Michelle, for their handling of the transition.
+“They have been magnificent,” he said in his speech.
+
+He later praised his defeated opponent, Hillary Clinton, at a lobster-and-beef luncheon with congressional leaders, asking her and former President Bill Clinton to stand for applause.
+“I have a lot of respect for these two people,” he said.
+
+Democrats were not impressed.
+“I was pretty shocked by how dark it was,” Senator Sherrod Brown, Democrat of Ohio, said of Mr. Trump’s Inaugural Address.
+“I love this country, and I don’t understand how a president of the United States that loves his country could paint a picture of its failures.”
+
+He added, “It was interesting sitting up onstage with a bunch of billionaires hearing him say how bad the country was.”
+
+The National Mall was filled with supporters, many wearing “Make America Great Again” hats and chanting “Trump! Trump! Trump!”
+But the lingering animosity from the presidential campaign was on display, too.
+When Mrs. Clinton arrived, some in the crowd chanted, “Lock her up,” mimicking Mr. Trump’s campaign rallies.
+As he took the oath, a cluster of people blew whistles and screamed, “Not my president,” before being escorted out.
+
+While large, the crowds on a soggy day did not rival the energetic throngs at Mr. Obama’s first inauguration eight years ago, according to aerial photographs.
+The Washington Metrorail system recorded fewer than half as many rides on Friday morning as in 2009, and knots of bystanders along the inaugural parade route were not as thick.
+In a city that gave just 4 percent of its vote to Mr. Trump, many residents left town and about 60 House Democrats boycotted the event.
+
+Mr. Obama made his exit after the ceremony, flying by helicopter to Joint Base Andrews in the Maryland suburbs, where he thanked former aides and members of his administration before boarding the presidential jet, no longer designated Air Force One, to fly to Palm Springs, Calif., for vacation.
+He will return to Washington to a rental house while his daughter Sasha finishes high school, the first president to stay in the capital since Woodrow Wilson.
+
+Hours before his departure, Mr. Obama posted on Twitter to thank followers and hint that he would not fade away.
+“I won’t stop,” he said.
+“I’ll be right there with you as a citizen, inspired by your voices of truth and justice, good humor, and love.”
+
+Former Vice President Joseph R. Biden Jr. and his wife, Jill, rode an Amtrak train to Delaware and the home they have there.
+But they, too, planned to return, at least part time, to Washington, where Mrs. Biden teaches at a community college in the Virginia suburbs.
+
+The United States has never seen a president quite like Mr. Trump, the son and grandson of immigrants who grew up to become a real estate magnate, casino owner, beauty pageant operator and reality television star whose tumultuous love life played out in the tabloids.
+
+Never has the oath been administered to a president who had never served either in public office or as a general in the military.
+At age 70, Mr. Trump became the oldest president sworn in for the first time and the first born in New York since Franklin D. Roosevelt.
+
+He was also one of the wealthiest presidents ever to enter the White House, with far-reaching business connections that have already raised questions about where his interests end and the country’s begin.
+He arrived in the Oval Office dogged by reports about Russian interference in the election on his behalf.
+
+But Mr. Trump overcame skeptics when he embarked on what seemed like a quixotic bid for the presidency.
+An Ivy League-educated mogul who lives in a New York tower named after himself with an 80-foot-long living room, he transformed himself into the unlikely leader of a working-class movement anchored in rural areas far removed from the coasts.
+
+His bracing candor, disregard for convention and willingness to offend whole sections of the population to make a point came across as refreshing truth-telling to many Americans disenchanted with Washington elites.
+
+For the nation’s 58th inauguration, though, the untraditional president opted to follow tradition.
+He and Mrs. Trump, a former model from Slovenia who became the first foreign-born first lady since John Quincy Adams’s wife, Louisa, started the day with a service at St. John’s Episcopal Church adjacent to Lafayette Square, then joined the Obamas, Bidens and Pences for coffee at the White House.
+
+From there, the two presidents shared a limousine to the Capitol, where three other presidents waited: Mr. Clinton, Jimmy Carter and George W. Bush, all of whom opposed Mr. Trump’s election.
+Former President George Bush remained hospitalized in Houston, recovering from pneumonia, but a spokesman said he watched the ceremony on television.
+
+Mr. Pence, 57, was sworn in at 11:54 a.m., placing his hand on Ronald Reagan’s Bible, which was held by his wife, Karen, as their three adult children, Michael, Charlotte and Audrey, watched.
+
+For his oath, Mr. Trump placed his hand on two Bibles held by his wife, one given him by his mother in 1955 just before his ninth birthday and another used by Abraham Lincoln in 1861 and again by Mr. Obama in 2009 and 2013.
+
+Standing nearby were his adult children from two previous marriages, Donald Jr., Eric, Ivanka and Tiffany.
+Also there was Barron, his 10-year-old son with the first lady.
+Joining them was Ivanka’s husband, Jared Kushner, who will serve as an unpaid senior adviser.
+
+As Mr. Trump approached the podium, rain began to fall.
+It was not a conventionally Republican speech, with nothing about tax cuts or restraining government.
+Instead, he laid out a protectionist agenda, saying his rule will be “buy American and hire American.”
+He did pledge to “eradicate from the face of the Earth” Islamic terrorism.
+Responding to charges that he demonized Mexicans and Muslims, Mr. Trump said, “There is no room for prejudice.”
+
+Mr. Trump said the inauguration was not merely the transfer of power from one president to another.
+“We are transferring power from Washington, D.C., and giving it back to you, the people,” he said.
+
+“For too long,” he continued, “a small group in our nation’s capital has reaped the rewards of government while the people have borne the cost.
+Washington flourished but the people did not share in the wealth.”
+ He added, “That all changes starting right here and right now.”
+
+STEP 1:
+* Carnage
+* Dark
+* Ravages
+* Empty
+* Talk
+* Action
+* Grim
+* Trapped
+* Poverty
+* Stolen
+* American
+* Greatness
+* Winning
+* Dreams
+* Hostile
+* Disruption
+* Outsider
+* Beholden
+* Politicians
+* Complaining
+* Doing
+* Hour
+* Action
+* Stop
+* Starts
+* Right
+* Now
+* Bad
+* Failures
+* Love
+* Truth
+* Justice
+* Good
+* Humor
+* Inspired
+
+SUMMARY:
+Donald Trump was inaugurated as the 45th President of the United States, vowing to shatter the established order and reverse the "American carnage" of economic dislocation and foreign exploitation. In his dark and grim inaugural address, he presented himself as the leader of a populist uprising to restore lost greatness. He promised to "fight for you with every breath in my body" and bring back jobs, borders, wealth, and dreams. Trump's view of the United States was strikingly grim, with mothers and children trapped in poverty, rusted-out factories scattered like tombstones, and drugs and crime stealing lives. He declared that "this American carnage stops right here and stops right now." The new president's message was met with protests and skepticism from Democrats, who were not impressed by his "dark" vision. END OF SUMMARY.
+
+Example 3 (Political Ideology: Right, Moral Foundations: Authority/Subversion, Care/Harm, Fairness/Cheating, Loyalty/Betrayal):
+Here is the news article:
+
+Donald Trump assumed the nation’s highest office Friday as the 45th president of the United States, vowing in a tough inaugural address to restore prosperity and “fight” for the country “with every breath.”
+
+In a succinct speech heavy on populist themes, the new president told Americans across the country they will “never be ignored again” and promised concrete results.
+
+“The time for empty talk is over. Now arrives the hour of action,” he said.
+
+The president addressed a packed crowd of spectators stretching from the Capitol across the National Mall on a mild but overcast and at-times drizzly day, after taking the oath of office along with Vice President Mike Pence. 
+The speech did not delve into policy details, and rather reprised objectives from his 2016 campaign on trade, immigration and national security.
+
+But the address was stitched together, more broadly, by an appeal for a “new national pride” and a rediscovery of American patriotism, as he described this as a salve for the country’s divisions.
+
+“When you open your heart to patriotism, there is no room for prejudice,” he said.
+
+He also rebuked those who have held power in Washington, saying a small group reaped the rewards of government while “the people did not share” in Washington’s wealth.
+
+The address completes Trump’s remarkable journey from political outsider written off by countless Beltway pundits to the most powerful man in the country.
+His campaign manager Kellyanne Conway noted in an earlier interview with Fox News that Trump was “making history” as a businessman with no prior political or military experience – someone successful in the private sector coming to Washington “owing nobody anything.”
+
+In blunt and unvarnished terms similar to the language used during his nomination acceptance address last summer, Trump on Friday lamented the jobs lost to foreign rivals – he described “rusted out factories scattered like tombstones” across the land – and the crime in America’s cities.
+
+“This American carnage stops right here and stops right now,” Trump said.
+
+Trump cast his presidency as a return to power for the people and vowed never to let them down.
+
+“From this day forward, it’s going to be only America first,” Trump said. 
+“I will fight for you with every breath in my body, and I will never, ever let you down. … 
+We will bring back our jobs, we will bring back our borders, we will bring back our wealth and we will bring back our dreams.”
+
+He also vowed to eradicate Islamic terrorism.
+
+Telling the American people this is “your moment” and “your day,” Trump closed his speech with the promise that started it all: “We will make America great again.”
+
+As Barack and Michelle Obama depart the White House after eight years in office, Trump will immediately be confronted with the challenge of governing, as he attempts to apply his CEO experience to running the nation. 
+His team has vowed a “robust” start to the Trump administration, which could include everything from rescinding controversial Obama actions to renegotiating trade deals to repealing and replacing the Affordable Care Act.
+
+An immediate task for the new administration will be to get Trump’s Cabinet nominees confirmed. 
+His advisers have complained that Democrats are slowing the process, and resisting the kind of swift confirmation the Senate gave many of Obama’s nominees in 2009.
+
+Before he spoke on Friday, throngs of protesters were causing disruptions on the edges of the security zone in Washington. 
+Some blocked checkpoints and forced their temporary closure earlier Friday morning, while elsewhere demonstrators resorted to violence and vandalism. 
+They clashed with police later in the afternoon, amid dozens of arrests.
+
+While dozens of House Democrats boycotted Friday’s ceremonies – a move that fueled disputes with Trump’s team over the weekend – other prominent Democrats and past presidents of both parties were in attendance for the transfer of power. 
+Democratic presidential nominee Hillary Clinton, whose loss to Trump marked one of the biggest upsets in modern political history, attended and tweeted shortly before Trump took the oath that she came to “honor our democracy & its enduring values.”
+
+“I will never stop believing in our country & its future,” she wrote.
+
+Donald and Melania Trump met with the Obamas earlier Friday morning after attending a church service in Washington. 
+The new first family headed later to the parade along Pennsylvania Avenue, before an evening of inaugural balls and other festivities.
+
+STEP 1:
+* pride
+* patriotism
+* prejudice
+* carnage
+* fight
+* power
+* people
+* dreams
+* great
+
+SUMMARY:
+Donald Trump was inaugurated as the 45th President of the United States, vowing to restore prosperity and "fight" for the country "with every breath." In his inaugural address, he appealed for a "new national pride" and a rediscovery of American patriotism, emphasizing that "when you open your heart to patriotism, there is no room for prejudice." He rebuked those who have held power in Washington, saying a small group reaped the rewards of government while "the people did not share" in Washington's wealth. Trump cast his presidency as a return to power for the people and vowed never to let them down, promising to eradicate Islamic terrorism and bring back American jobs, borders, wealth, and "dreams." He closed his speech with the promise to "make America great again." As he begins his presidency, Trump will face the challenge of governing and applying his CEO experience to running the nation. END OF SUMMARY.
+
+Now, here is the target news article to summarize:
+Here is the news article:
+
+Trump’s grandiosity manifests itself in ways large and small. Through the first-person singular pronoun, he casts himself as the indispensable protagonist in the American story. At a Cabinet meeting last week, for example, he said, “I’m the one that did the capturing,” in reference to Islamic State terrorists. At another point, he said, “Look, I have the strongest economy ever.” Perhaps the most extreme expression of Trump’s vaulting self-conception is his use of the word treason. Treason is a crime so serious that the framers took steps to ensure that it wouldn’t be misused for partisan purposes. It is a betrayal of one’s country, defined in Article III of the Constitution as levying war against the United States, or “adhering to” enemies and giving them “aid and comfort.” That’s not how Trump has sought to define it: disloyalty to a political leader or antipathy for that leader’s behavior. Trump knows what treason means—or at least he once did. Talking to reporters aboard Air Force One in 2017, he described treason as Julius and Ethel Rosenberg passing secrets to the Soviet Union, acts of espionage that led to their execution in 1953. The word first popped up in his Twitter feed in September 2018, in reference to an anonymous op-ed in The New York Times describing how executive-branch officials resist Trump’s agenda. He has used the word two dozen times this year alone on Twitter, weaponizing it as his anger toward political opponents grows. Democrats who opposed his border measures, he tweeted in April, are “TREASONOUS.” Prosecutors working under Special Counsel Robert Mueller, he tweeted that same day, were perpetrating a “Treasonous Hoax!” The latest enemy of the state is Democratic Representative Adam Schiff of California, the Intelligence Committee chairman who is running the impeachment probe. “I want Schiff questioned at the highest level for Fraud & Treason,” Trump tweeted last month. The crime: characterizing Trump’s phone call with the Ukrainian president, Volodymyr Zelensky, in a way that didn’t match the rough transcript released by the White House. That doesn’t sound like grounds for lethal injection, but Trump doesn’t seem to care. Conspiring with Schiff is another traitorous villain, Trump told his 66 million Twitter followers earlier this month: House Speaker Nancy Pelosi, who authorized the impeachment probe. Trump’s use of the word is anachronistic in the modern era, echoing the way monarchs deployed it in centuries past. Carlton Larson, a professor at the UC Davis School of Law and an expert on treason, told me that Trump has misused the term in ways that “confuse loyalty to the country with loyalty to Trump, which is the old English idea that treason was betrayal of the king. “He’s completely inaccurate, woefully so, in his understanding of it, and it’s quite disturbing,” Larson continued. “I can’t think of another president who has tossed around that term so casually. In many countries, treason is used as a way to execute political opponents—and it’s because of that that we have a more limited definition.”
+
+(1) First, you identify all the single words that are morally framed, focusing especially on the dimensions of Authority/Subversion, Fairness/Cheating, Loyalty/Betrayal. Identify this step as "STEP 1:" and report each word in a new line starting with *
+(2) Finally, you write a summary of the news article. Please preserve as many morally framed words as possible, particularly focusing on the moral dimensions of Authority/Subversion, Fairness/Cheating, Loyalty/Betrayal in your summary. The summary has to be returned after a "SUMMARY:" token and ending with a "END OF SUMMARY." token. The summary should be no longer than 200 words.

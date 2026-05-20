@@ -1,0 +1,199 @@
+You have to summarize the following text preserving the moral framing that the author gave to it.
+
+Please study the following examples of news articles, their moral word extraction, and summaries preserving the moral framing:
+
+Example 1 (Political Ideology: Left):
+Here is the news article:
+
+President Donald Trump used Twitter to tear into social media companies Saturday morning, claiming they were “totally discriminating against Republican/Conservative voices.”
+
+But he does have a solution. Sort of.
+And it involves both sides.
+
+Trump tweeted that “too many voices are being destroyed, some good and some bad, and that cannot be allowed to happen.” So, he added: “Let everybody participate, good & bad, and we will all just have to figure it out!”
+
+Trump accused social media giants of “closing down the opinions of many people on the RIGHT, while at the same time doing nothing to others.”
+
+“Censorship is a very dangerous thing & impossible to police,” he added, before embarking on a now familiar rant about “fake news” CNN and MSNBC — which he admitted to sometimes watching, but “just with a grain of salt.”
+
+Trump did not reference any person in particular in his tirade against the tech companies, although a host of them have in recent weeks banned conspiracy theorist Alex Jones and his website Infowars from their platforms.
+
+STEP 1:
+* discriminating
+* destroyed
+* bad
+* dangerous
+* fake
+
+SUMMARY:
+President Donald Trump took to Twitter to accuse social media companies of "totally discriminating" against Republican and Conservative voices. He claimed that "too many voices are being destroyed, some good and some bad," and that censorship is a "very dangerous thing" that is "impossible to police." Trump's solution is to "let everybody participate, good & bad, and we will all just have to figure it out!" He also ranted against "fake news" outlets CNN and MSNBC, which he admits to watching "with a grain of salt." The tweets come after several social media companies banned conspiracy theorist Alex Jones and his website Infowars from their platforms. Trump's comments imply that social media companies are unfairly silencing certain voices, and that this "censorship" is a threat to free expression. END OF SUMMARY.
+
+Example 2 (Political Ideology: Center):
+Here is the news article:
+
+From his home at Mar-a-Lago, Donald J. Trump stirred up new controversy this week in the Republican presidential primary — and new alarm among party leaders that the front-runner for the nomination will drive away women from candidates running farther down the ballot in the fall.
+
+All week, Mr. Trump has slowly escalated a war of words on Twitter against Senator Ted Cruz of Texas, his main competition in the Republican race, based on an ad by a “super PAC” started by people who want to stop the New York developer from getting the nomination.
+The spot featured an old nude photo shoot of Mr. Trump’s wife Melania Trump, a former model, posing on his jet.
+
+Mr. Cruz has no affiliation with the super PAC, and he has denounced the ad.
+But Mr. Trump has continued to express disbelief.
+After threatening to “spill the beans” on Mr. Cruz’s wife, Heidi Cruz, who suffered a bout of depression years ago, he retweeted a post from someone who made a side-by-side photo comparison of Mrs. Cruz at an unflattering angle, and Mrs. Trump.
+
+On Wednesday, Mr. Cruz repeatedly quoted from the movie “The American President” to defend his wife, as she held an event and faced questions about Mr. Trump’s threats.
+But that was before Mr. Trump’s Twitter post with the pictures of the two women.
+And Mr. Cruz had finally had enough.
+
+Calling Mr. Trump a “sniveling coward,” Mr. Cruz told his rival to “leave Heidi the hell alone.”
+
+It’s useful to remember the news media outrage in 2012 when Todd Akin, running as the Republican nominee for Senate in Missouri, defended what he called “legitimate rape,” a remark that was overwhelmingly offensive to women.
+Under pressure from news outlets, the Republican Party tried to cauterize the wound that Mr. Akin had created by isolating him.
+
+Spouses are generally seen as off limits.
+And the responses to Mr. Trump’s comments among news media critics, over time, have been far more subdued.
+
+STEP 1:
+* controversy
+* alarm
+* war
+* disbelief
+* threatening
+* unflattering
+* defend
+* sniveling
+* coward
+* offensive
+* isolating
+* subdued
+
+SUMMARY:
+Donald Trump, the front-runner for the Republican presidential nomination, has sparked controversy and alarm among party leaders with his recent Twitter attacks on Senator Ted Cruz's wife, Heidi Cruz. Trump's threatening and sniveling behavior has been widely criticized, with many calling him a coward for targeting Mrs. Cruz. The attacks, which included a side-by-side photo comparison of Mrs. Cruz and Trump's wife Melania, have been deemed offensive and unflattering. Cruz has defended his wife, quoting from the movie "The American President" and telling Trump to "leave Heidi the hell alone." The incident has drawn comparisons to the 2012 controversy surrounding Todd Akin's comments on "legitimate rape," which were also widely condemned as offensive. END OF SUMMARY.
+
+Example 3 (Political Ideology: Right):
+Here is the news article:
+
+President Trump’s immigration compromise package to end the partial government shutdown drew sharp reactions from Democratic and Republican lawmakers alike.
+
+In a televised White House address on Saturday afternoon, Trump offered Democrats a three-year extension of protections for 700,000 Deferred Action for Childhood Arrivals (DACA) recipients, in exchange for the $5.7 billion he has been seeking for a barrier along the nation's southern border with Mexico.
+
+“Our immigration system should be a source of pride ... not a source of shame as it is all over the world,” Trump said in his plea.
+
+The president’s proposal was met with disdain from an array of top Democratic lawmakers.
+Many used the same language in their critiques, accusing Trump of holding the government and federal workers "hostage."
+
+House Speaker Nancy Pelosi, D-Calif., tweeted, “What we didn’t hear from the President was any sympathy for the federal workers who face so much uncertainty because of the chaos of the #TrumpShutdown.”
+
+Before Trump made his announcement, Pelosi had called his anticipated proposal “a non-starter.”
+
+“For one thing, this proposal does not include the permanent solution for the Dreamers and TPS recipients that our country needs and supports.”
+
+For his part, Chuck Schumer, the Senate minority leader, called Trump's proposal "one-sided and ineffective."
+
+"It's clear the President realizes that by closing the government and hurting so many American workers and their families, he has put himself and the country in an untenable position.
+Unfortunately, he keeps putting forward one-sided and ineffective remedies.
+There's only one way out: open the government, Mr. President, and then Democrats and Republicans can have a civil discussion and come up with bipartisan solutions."
+
+Schumer, D-N.Y., concluded, "It was the President who single-handedly took away DACA and TPS protections in the first place – offering some protections back in exchange for the wall is not a compromise but more hostage taking."
+
+House Majority Leader Steny Hoyer shared a similar sentiment, urging Trump and Sen. Mitch McConnell to "stop holding government hostage and end the shutdown" immediately.
+
+“The president must stop holding government hostage and end the shutdown so federal employees can get back to work serving the American people.
+There is no reason for Americans to be shut out of work and without a paycheck while negotiations take place on the best way to secure our borders,” he said.
+
+Hoyer said negotiation can progress after the government reopens.
+
+“With the government open, we can negotiate an agreement to strengthen border security that both sides can support and that is in the best interests of the American people.”
+
+Another leading Dem, Sen. Kristen Gillibrand of New York, who announced her White House bid on Jan. 15 in an episode of "The Late Show with Stephen Colbert," said Trump's offer was a "bad deal."
+
+Gillibrand tweeted: "Trump ordered the end of DACA and TPS.
+Then he shut down the government.
+Now he's holding federal workers hostage, saying he'll temporarily give back what he took away -- only if we give him a pointless, ineffective wall he falsely promised Mexico would pay for.
+This is a bad deal."
+
+Then there was New Jersey Sen. Bob Menendez's response. He bluntly accused Trump of forcing "a pointless shutdown" to pay for the border wall.
+
+"This is about more than 800,000 Americans who are being held hostage by a President who has forced a pointless shutdown to pay for an expensive, ineffective wall.
+This is not about immigration.
+Dreamers and TPS recipients are not bargaining chips.
+It's unacceptable that after taking away DACA protections, eliminating the TPS program for thousands of immigrants and creating a humanitarian crisis at the border, President Trump is offering temporary solutions in exchange for a permanent wall."
+
+The Democratic senator also said "a legitimate negotiation" can proceed after the government is reopened.
+
+Fellow Democratic Sen. Chris Coons of Delaware slammed McConnell for refusing "to meaningfully negotiate with Senate Democrats," but also called Trump's offer "a first step toward comprehensive immigration reform."
+
+"This senseless government shutdown is hurting millions of Americans, and its impacts are only getting worse. The President should re-open the government so that Republicans and Democrats in Congress can work with the White House to find a sensible solution on border security and immigration.
+I am confident that a reasonable compromise can be reached, but not while President Trump continues to keep significant parts of the government shut down and Leader McConnell refuses to meaningfully negotiate with Senate Democrats," he said.
+
+"Some relief for Dreamers and an extension of Temporary Protected Status represent a first step toward comprehensive immigration reform, but more ideas from members of both parties should be taken up and debated.
+Republicans and Democrats stand ready to work toward a solution, but the fact remains that there is no reason to have large parts of the federal government shut down while we debate appropriate border security and immigration policies."
+
+Republican lawmakers, at the opposite end of the reaction spectrum, praised the president for his willingness to negotiate.
+
+Senate Majority Leader McConnell, for instance, commended the president "for taking bipartisan steps toward addressing current immigration issues."
+
+In his statement, he said; “Compromise in divided government means that everyone can’t get everything they want every time.
+The president’s proposal reflects that.
+It strikes a fair compromise by incorporating priorities from both sides of the aisle."
+
+“This bill takes a bipartisan approach to re-opening the closed portions of the federal government.
+It pairs the border security investment that our nation needs with additional immigration measures that both Democrat and Republican members of Congress believe are necessary.
+Unlike the bills that have come from the House over the past few weeks, this proposal could actually resolve this impasse.
+It has the full support of the President and could be signed into law to quickly reopen the government."
+
+Republican Whip Steve Scalise called on Democrats to match Trump's willingness to negotiate.
+
+"The time for political games has long passed.
+Democrats must put their personal dislike of the president aside, end their obstruction, and finally come to the negotiating table.
+It's time Democrats do what is right for the functioning and security of our nation and agree to a deal that opens our government, and includes funding for a border wall and other measures to solve this serious immigration crisis at our southern border," he said in a statement.
+
+Also on the Republican side, Sen. Susan Collins of Maine said she was "hopeful" for a "constructive debate" with Democrats.
+
+“Compromise is not a sign of weakness — it’s a sign of strength, particularly when hundreds of thousands of families are being harmed.
+The Administration, Senate Republicans, and Democrats must now resolve this stalemate before 800,000 federal workers and their families miss yet another paycheck, and our economy is further damaged,” she said.
+
+Sen. Mitt Romney, R-Utah, whose views on the president and his policies have fluctuated, said Trump "put forth a reasonable, good faith proposal that will reopen the government and help secure the border."
+
+He tweeted, "I look forward to voting for it and will work to encourage my Republican and Democratic colleagues to do the same.
+
+Earlier, while speaking in Ogden, Utah, Romney said he did not understand Pelosi's position on border security.
+
+"You (Pelosi) and your fellow Democrats have voted for over 600 miles of border fence in the past, why won't you vote for another few miles now? I don't understand their position, I really don't," the Republican senator said.
+
+Florida Sen. Marco Rubio took a positive view of Trump's proposed deal, like his fellow Republicans.
+He said Trump made "a very reasonable offer" and urged Democrats to work with him.
+
+“The way to end this shutdown is for both sides to make mutual concessions in order to reach an agreement.
+The president has made a very reasonable offer to extend DACA and TPS protections in exchange for the border security measures he supports.
+I hope that instead of choosing the road of endless obstruction, Democrats will decide to work with him to reach an agreement and end the shutdown,” he said.
+
+Likewise, House Republican Leader Kevin McCarthy called the president's immigration offer "reasonable."
+
+McCarthy tweeted: "President Trump has put forward a serious and reasonable offer to reform parts of our broken immigration system and reopen government.
+The moment now turns to Nancy Pelosi and Chuck Schumer. The country is watching."
+
+
+STEP 1:
+* shame
+* hostage
+* chaos
+* ineffective
+* one-sided
+* untenable
+* bad
+* pointless
+* unacceptable
+* senseless
+* legitimate
+* reasonable
+
+SUMMARY:
+President Trump's immigration compromise package to end the partial government shutdown has drawn sharp reactions from Democratic and Republican lawmakers alike. Trump offered Democrats a three-year extension of protections for 700,000 Deferred Action for Childhood Arrivals (DACA) recipients in exchange for the $5.7 billion he has been seeking for a barrier along the nation's southern border with Mexico. However, top Democratic lawmakers accused Trump of holding the government and federal workers "hostage" and criticized his proposal as "one-sided" and "ineffective." They argued that Trump's offer was a "bad deal" and that he was using DACA recipients as "bargaining chips" in a "pointless shutdown." In contrast, Republican lawmakers praised the president for his willingness to negotiate, calling his proposal "reasonable" and a "good faith" effort to reopen the government. END OF SUMMARY.
+
+Now, here is the target news article to summarize:
+Here is the news article:
+
+House Speaker Nancy Pelosi is not upset over Michigan Rep. Rashida Tlaib’s vulgar comment on impeaching President Donald Trump, said just hours after Thursday’s swearing-in ceremony on the House floor. Asked for her reaction to Tlaib’s “colorful language” ― the new Democratic congresswoman vowed to “impeach that motherfucker,” referring to Trump ― Pelosi said it was a free speech issue. “I probably have a generational reaction to it, but in any event I’m not in the censorship business,” she told MSNBC’s Joy Reid in a town hall interview set to air in full Friday evening. “I don’t like that language. I wouldn’t use that language,” the House speaker continued, noting that she doesn’t tell her colleagues what to say. “But I don’t think it’s any worse than what the president has said,” she concluded. Trump infamously bragged about grabbing women “by the pussy” in a leaked tape from 2005; since taking office he has referred to certain other nations as “shithole countries” and slung insults at a wide range of political foes. Pelosi reasoned that while Trump’s comments have the power to “impact people’s lives,” the new congresswoman’s comments do not. Tlaib, who became one of the first Muslim women in Congress on Thursday, dropped the expletive as she spoke to a crowd of supporters at an event hosted by the progressive group MoveOn. Talking about her victory, she said: “And when your son looks at you and says, ‘Mama, look, you won. Bullies don’t win.’ And I say, ‘Baby, they don’t.’ Because we’re gonna go in there, and we’re gonna impeach the motherfucker.” As she passed the microphone, the crowd erupted into cheers. Pelosi told Reid that the comment might fire up Trump’s base, but doesn’t actually make much of a difference to actual House business. Any controversy over Tlaib’s comment concerns the “freedom of speech of an individual member,” not the stance of the Democratic caucus, Pelosi said. Trump appeared to respond to Tlaib over Twitter Friday morning, writing: “They only want to impeach me because they know they can’t win in 2020, too much success!”
+
+(1) First, you identify all the single words that are morally framed. Identify this step as "STEP 1:" and report each word in a new line starting with *
+(2) Finally, you write a summary of the news article. Please preserve as many morally framed words as possible in your summary. The summary has to be returned after a "SUMMARY:" token and ending with a "END OF SUMMARY." token. The summary should be no longer than 200 words.

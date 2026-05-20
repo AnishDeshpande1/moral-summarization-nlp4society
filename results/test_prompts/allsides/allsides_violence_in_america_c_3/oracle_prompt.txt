@@ -1,0 +1,39 @@
+You have to summarize the following text preserving the moral framing that the author gave to it.
+
+Here is the news article:
+
+PITTSBURGH (Reuters) - U.S. President Donald Trump on Tuesday visited the Pittsburgh synagogue attacked by an anti-Semitic gunman and lit candles for each of the 11 slain worshipers, while thousands protested his presence in the city and victims’ families began burying their dead. The presidential trip, which sources said congressional leaders of both parties declined to join, came as Trump drew widespread disapproval for inflammatory rhetoric that critics said may have helped provoke the deadliest attack ever on American Jewry. Shrugging off public assertions from Pittsburgh Mayor Bill Peduto that Trump’s visit was ill-timed, the president entered the Tree of Life temple where Saturday’s shooting rampage occurred, accompanied by first lady Melania Trump. They were greeted by Rabbi Jeffrey Myers, who led them inside the temple to light ritual yahrzeit candles in memory of the victims. Emerging about 18 minutes later, the couple walked to a memorial outside the building, where the first lady placed a flower and the president placed a small stone on a marker for each of the dead. Trump, who according to press secretary Sarah Sanders, described his visit as “very humbling and sad,” left in his motorcade after about 30 minutes at the synagogue. He made no public remarks. “He wanted today to be about showing respect for the families and the friends of the victims as well as for Jewish Americans,” Sanders said. Related Coverage Beloved brothers, devoted doctor remembered as Pittsburgh funerals begin Several thousand protesters, an ethnically mixed crowd of all ages including members of Pittsburgh’s tight-knit Jewish community, held an anti-Trump rally about a block away from the synagogue just as his visit began, singing Old Testament psalms and carrying signs with slogans such as “We build bridges not walls.” Many of their signs carried slogans and imagery invoking one of Squirrel Hill’s most famous residents, the late Fred Rogers, whose long-running children’s television show “Mr. Rogers’ Neighborhood” featured lessons on friendship and kindness. Their march started on the street where he grew up and ended at the church where he belonged. WEEK BEFORE ELECTIONS Trump also went to a city hospital and visited three police officers, wounded in a gunfight with the shooting suspect, and their families. Sanders said Trump also spent time with the wife of one of the slain congregants, Richard Gottfried, 65. “She said she wanted to meet the president to let him know that they wanted him there.” Trump’s visit to Pennsylvania’s second-largest city came just seven days before national elections that will determine whether his Republican Party will maintain control of both houses of Congress or whether the Democrats will seize a majority in one chamber or both. The president and his wife were joined by Ivanka Trump and Jared Kushner, his daughter and son-in-law, who are Jewish and serve as White House advisers, and by Treasury Secretary Steven Mnuchin, who is also Jewish. U.S. President Donald Trump and first lady Melania Trump pay their respects at a makeshift memorial outside the Tree of Life synagogue in the wake of the shooting at the synagogue where 11 people were killed and six people were wounded in Pittsburgh, Pennsylvania, U.S., October 30, 2018. The first funerals for the victims of the attack were held earlier on Tuesday. More than 1,800 people, some from across the United States, came to pay respects to relatives of David Rosenthal, 54, and Cecil Rosenthal, 59, at Rodef Shalom, another synagogue in the Squirrel Hill district that forms the heart of the city’s Jewish community. Police officers were posted outside the temple. The two brothers, who lived at a home for people with disabilities, were among the 11 mostly elderly congregants killed when a gunman stormed into the Tree of Life synagogue and opened fire on worshipers, yelling: “All Jews must die.” The accused gunman, Robert Bowers, 46, was charged on Monday with 29 federal felony counts, including hate crimes, and could face the death penalty if convicted. The attack has heightened a national debate over Trump’s rhetoric, which critics say has contributed to a surge in white nationalist and neo-Nazi activity. The Trump administration has rejected the notion he has encouraged far-right extremists who have embraced him. ‘WORDS HAVE MEANING’ But protest organizers said Trump’s frequent tweets about the caravans of Central American migrants traveling through Mexico en route to the United States may have been a factor in provoking Saturday’s bloodshed. They noted that Trump had characterized the caravans as an “invasion” while falsely stating they harbored terrorists and were financed in part by Democrats and the Jewish philanthropist George Soros. In a social media post on Saturday, Bowers referred to the Hebrew Immigrant Aid Society, a Jewish refugee aid organization, as helping to “bring invaders in that kill our people,” declaring: “I can’t sit by and watch my people get slaughtered. Screw your optics, I’m going in.” Protest organizers in a statement announcing their rally, said the gunman “believed anti-Semitic lies that Jews were funding the caravan.” The announcement echoed an open letter from a group of local Jewish leaders who told Trump: “You are not welcome in Pittsburgh until you fully denounce white nationalism.” More than 78,000 people have signed the letter, organized and posted online by the Pittsburgh chapter of Bend the Arc, a Jewish organization opposed to what it calls “the immoral agenda of the Trump administration and the Republican Party.”
+
+The author used the following morally framed words in the article:
+* attacked
+* slain
+* dead
+* provoke
+* attack
+* rampage
+* respect
+* friendship
+* kindness
+* wounded
+* shooting
+* killed
+* respects
+* fire
+* die
+* charged
+* death
+* rhetoric
+* nationalist
+* activity
+* encouraged
+* provoking
+* bloodshed
+* stating
+* bring
+* kill
+* slaughtered
+* lies
+* denounce
+* nationalism
+
+Please preserve as many morally framed words as possible in your summary. The summary has to be returned after a "SUMMARY:" token and ending with a "END OF SUMMARY." token. The summary should be no longer than 200 words.

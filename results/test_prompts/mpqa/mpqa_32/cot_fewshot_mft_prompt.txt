@@ -1,0 +1,288 @@
+You have to summarize the following text preserving the moral framing that the author gave to it, with particular focus on the specific moral foundations highlighted in the text.
+
+Please study the following examples of news articles, their moral word extraction, and summaries preserving the moral framing:
+
+Example 1 (Political Ideology: Left, Moral Foundations: Fairness/Cheating):
+Here is the news article:
+
+WASHINGTON – Five hundred and eighty-four days after descending his Trump Tower escalator to announce his candidacy, Donald J. Trump took the oath of office Friday to become the 45th president of the United States.
+
+Chief Justice John Roberts administered the 38-word oath at 12:00 p.m., capping Trump’s unlikely journey from New York City real estate developer and reality TV star to the nation’s highest office.
+
+Trump won the Republican nomination against a crowded field of 16 other candidates, many far more experienced in politics.
+But he was able to capitalize on a primary voting base that was angry at the establishment GOP for not more aggressively fighting President Barack Obama’s policies.
+
+He trailed Democratic nominee Hillary Clinton in the general election nearly the entire way.
+In the final month of the race, he was helped by the near daily release of internal Democratic Party emails stolen by Russian hackers as well as by FBI Director James Comey’s decision to reopen, briefly, the probe into Clinton’s use of a private email server.
+
+Trump wound up winning Wisconsin, Michigan and Pennsylvania by a total of 78,000 votes.
+Clinton had counted on winning all three.
+
+STEP 1:
+* angry
+* aggressively
+* establishment
+
+SUMMARY:
+Donald J. Trump took the oath of office to become the 45th president of the United States, capping his unlikely journey from real estate developer and reality TV star to the nation's highest office. Trump's victory was fueled by an angry primary voting base that felt the establishment GOP had not fought President Barack Obama's policies aggressively enough. Despite trailing Democratic nominee Hillary Clinton in the general election, Trump was helped by the release of stolen Democratic Party emails and FBI Director James Comey's decision to reopen the probe into Clinton's email server. Trump won Wisconsin, Michigan, and Pennsylvania by a narrow margin of 78,000 votes, defying Clinton's expectations. Trump's presidency marked a significant shift in American politics, driven by a desire for change and a rejection of the political establishment. END OF SUMMARY.
+
+Example 2 (Political Ideology: Center, Moral Foundations: Authority/Subversion, Care/Harm, Fairness/Cheating, Loyalty/Betrayal):
+Here is the news article:
+
+WASHINGTON — Donald John Trump was inaugurated as the 45th president of the United States on Friday, ushering in a new era that he vowed would shatter the established order and reverse a national decline that he called “this American carnage.”
+
+In a ceremony that capped a remarkable rise to power, Mr. Trump presented himself as the leader of a populist uprising to restore lost greatness.
+He outlined a dark vision of an America afflicted by “the ravages” of economic dislocation and foreign exploitation, requiring his can-do approach to turn around.
+
+“I will fight for you with every breath in my body, and I will never, ever let you down,” Mr. Trump told hundreds of thousands of rain-soaked admirers and onlookers in a forceful 16-minute Inaugural Address from the West Front of the Capitol.
+“America will start winning again, winning like never before.
+We will bring back our jobs. We will bring back our borders. We will bring back our wealth. And we will bring back our dreams.”
+
+Mr. Trump’s ascension amounted to a hostile takeover of a capital facing its most significant disruption in generations.
+While officially a Republican, he has taken on leaders of both parties and, with no prior political career of his own, made clear that he saw himself as the ultimate outsider not beholden to the current system.
+
+“We will no longer accept politicians who are all talk and no action, constantly complaining but never doing anything about it,” he said.
+“The time for empty talk is over. Now arrives the hour of action.
+Do not allow anyone to tell you that it cannot be done.”
+
+Mr. Trump’s view of the United States was strikingly grim for an Inaugural Address — a country where mothers and children are “trapped in poverty in our inner cities,” where “rusted-out factories” are “scattered like tombstones across the landscape” and where drugs and crime “have stolen too many lives.”
+
+“This American carnage,” he declared, “stops right here and stops right now.”
+
+He got started right away with rolling back the policies of his predecessor, former President Barack Obama, by issuing orders freezing new regulations from recent weeks and ordering agencies to “ease the burden” of the Affordable Care Act during the transition from repealing to replacing the law.
+More orders are planned for next week.
+
+Wearing a dark suit and red tie and accompanied by his wife, Melania, in a powder-blue suit and matching gloves, Mr. Trump took the 35-word oath administered by Chief Justice John G. Roberts Jr. precisely at noon.
+Michael Richard Pence, a former governor and congressman from Indiana, was sworn in minutes before as vice president by Justice Clarence Thomas.
+
+Mr. Trump assumed the presidency of a country still unsettled after a polarizing election and entered office with less support in polls than any other president in recent history.
+It was clear from the day that there would be no grace period either for or by the new president.
+The Senate confirmed two cabinet nominations — James N. Mattis as defense secretary and John F. Kelly as secretary of homeland security — but Democrats temporarily held up Mike Pompeo’s confirmation as C.I.A. director.
+
+Throughout the day, there were mostly peaceful protests against the new president.
+Sporadic violence broke out as demonstrators smashed shop windows and burned a limousine, while police officers in riot helmets responded with tear gas.
+More than 200 people were arrested.
+Liberal groups prepared for a women’s march on Saturday that they said could draw hundreds of thousands.
+
+Mr. Trump made only passing efforts to reach out to Democrats beyond thanking Mr. Obama and his wife, Michelle, for their handling of the transition.
+“They have been magnificent,” he said in his speech.
+
+He later praised his defeated opponent, Hillary Clinton, at a lobster-and-beef luncheon with congressional leaders, asking her and former President Bill Clinton to stand for applause.
+“I have a lot of respect for these two people,” he said.
+
+Democrats were not impressed.
+“I was pretty shocked by how dark it was,” Senator Sherrod Brown, Democrat of Ohio, said of Mr. Trump’s Inaugural Address.
+“I love this country, and I don’t understand how a president of the United States that loves his country could paint a picture of its failures.”
+
+He added, “It was interesting sitting up onstage with a bunch of billionaires hearing him say how bad the country was.”
+
+The National Mall was filled with supporters, many wearing “Make America Great Again” hats and chanting “Trump! Trump! Trump!”
+But the lingering animosity from the presidential campaign was on display, too.
+When Mrs. Clinton arrived, some in the crowd chanted, “Lock her up,” mimicking Mr. Trump’s campaign rallies.
+As he took the oath, a cluster of people blew whistles and screamed, “Not my president,” before being escorted out.
+
+While large, the crowds on a soggy day did not rival the energetic throngs at Mr. Obama’s first inauguration eight years ago, according to aerial photographs.
+The Washington Metrorail system recorded fewer than half as many rides on Friday morning as in 2009, and knots of bystanders along the inaugural parade route were not as thick.
+In a city that gave just 4 percent of its vote to Mr. Trump, many residents left town and about 60 House Democrats boycotted the event.
+
+Mr. Obama made his exit after the ceremony, flying by helicopter to Joint Base Andrews in the Maryland suburbs, where he thanked former aides and members of his administration before boarding the presidential jet, no longer designated Air Force One, to fly to Palm Springs, Calif., for vacation.
+He will return to Washington to a rental house while his daughter Sasha finishes high school, the first president to stay in the capital since Woodrow Wilson.
+
+Hours before his departure, Mr. Obama posted on Twitter to thank followers and hint that he would not fade away.
+“I won’t stop,” he said.
+“I’ll be right there with you as a citizen, inspired by your voices of truth and justice, good humor, and love.”
+
+Former Vice President Joseph R. Biden Jr. and his wife, Jill, rode an Amtrak train to Delaware and the home they have there.
+But they, too, planned to return, at least part time, to Washington, where Mrs. Biden teaches at a community college in the Virginia suburbs.
+
+The United States has never seen a president quite like Mr. Trump, the son and grandson of immigrants who grew up to become a real estate magnate, casino owner, beauty pageant operator and reality television star whose tumultuous love life played out in the tabloids.
+
+Never has the oath been administered to a president who had never served either in public office or as a general in the military.
+At age 70, Mr. Trump became the oldest president sworn in for the first time and the first born in New York since Franklin D. Roosevelt.
+
+He was also one of the wealthiest presidents ever to enter the White House, with far-reaching business connections that have already raised questions about where his interests end and the country’s begin.
+He arrived in the Oval Office dogged by reports about Russian interference in the election on his behalf.
+
+But Mr. Trump overcame skeptics when he embarked on what seemed like a quixotic bid for the presidency.
+An Ivy League-educated mogul who lives in a New York tower named after himself with an 80-foot-long living room, he transformed himself into the unlikely leader of a working-class movement anchored in rural areas far removed from the coasts.
+
+His bracing candor, disregard for convention and willingness to offend whole sections of the population to make a point came across as refreshing truth-telling to many Americans disenchanted with Washington elites.
+
+For the nation’s 58th inauguration, though, the untraditional president opted to follow tradition.
+He and Mrs. Trump, a former model from Slovenia who became the first foreign-born first lady since John Quincy Adams’s wife, Louisa, started the day with a service at St. John’s Episcopal Church adjacent to Lafayette Square, then joined the Obamas, Bidens and Pences for coffee at the White House.
+
+From there, the two presidents shared a limousine to the Capitol, where three other presidents waited: Mr. Clinton, Jimmy Carter and George W. Bush, all of whom opposed Mr. Trump’s election.
+Former President George Bush remained hospitalized in Houston, recovering from pneumonia, but a spokesman said he watched the ceremony on television.
+
+Mr. Pence, 57, was sworn in at 11:54 a.m., placing his hand on Ronald Reagan’s Bible, which was held by his wife, Karen, as their three adult children, Michael, Charlotte and Audrey, watched.
+
+For his oath, Mr. Trump placed his hand on two Bibles held by his wife, one given him by his mother in 1955 just before his ninth birthday and another used by Abraham Lincoln in 1861 and again by Mr. Obama in 2009 and 2013.
+
+Standing nearby were his adult children from two previous marriages, Donald Jr., Eric, Ivanka and Tiffany.
+Also there was Barron, his 10-year-old son with the first lady.
+Joining them was Ivanka’s husband, Jared Kushner, who will serve as an unpaid senior adviser.
+
+As Mr. Trump approached the podium, rain began to fall.
+It was not a conventionally Republican speech, with nothing about tax cuts or restraining government.
+Instead, he laid out a protectionist agenda, saying his rule will be “buy American and hire American.”
+He did pledge to “eradicate from the face of the Earth” Islamic terrorism.
+Responding to charges that he demonized Mexicans and Muslims, Mr. Trump said, “There is no room for prejudice.”
+
+Mr. Trump said the inauguration was not merely the transfer of power from one president to another.
+“We are transferring power from Washington, D.C., and giving it back to you, the people,” he said.
+
+“For too long,” he continued, “a small group in our nation’s capital has reaped the rewards of government while the people have borne the cost.
+Washington flourished but the people did not share in the wealth.”
+ He added, “That all changes starting right here and right now.”
+
+STEP 1:
+* Carnage
+* Dark
+* Ravages
+* Empty
+* Talk
+* Action
+* Grim
+* Trapped
+* Poverty
+* Stolen
+* American
+* Greatness
+* Winning
+* Dreams
+* Hostile
+* Disruption
+* Outsider
+* Beholden
+* Politicians
+* Complaining
+* Doing
+* Hour
+* Action
+* Stop
+* Starts
+* Right
+* Now
+* Bad
+* Failures
+* Love
+* Truth
+* Justice
+* Good
+* Humor
+* Inspired
+
+SUMMARY:
+Donald Trump was inaugurated as the 45th President of the United States, vowing to shatter the established order and reverse the "American carnage" of economic dislocation and foreign exploitation. In his dark and grim inaugural address, he presented himself as the leader of a populist uprising to restore lost greatness. He promised to "fight for you with every breath in my body" and bring back jobs, borders, wealth, and dreams. Trump's view of the United States was strikingly grim, with mothers and children trapped in poverty, rusted-out factories scattered like tombstones, and drugs and crime stealing lives. He declared that "this American carnage stops right here and stops right now." The new president's message was met with protests and skepticism from Democrats, who were not impressed by his "dark" vision. END OF SUMMARY.
+
+Example 3 (Political Ideology: Right, Moral Foundations: Authority/Subversion, Care/Harm, Fairness/Cheating):
+Here is the news article:
+
+In a head-to-head battle of proxies, Vice President Biden wasted no time Thursday trying to do what many Democrats felt President Obama failed to against Mitt Romney, going on offense with an often disdainful attack on Paul Ryan -- who stood his ground against a barrage of Biden grins, guffaws, snickers and interruptions.
+
+The dueling running mates turned the lone vice presidential debate into an uncharacteristically feisty affair, scrapping over everything from the economy to Libya to taxes.
+But it was the vice president who set the aggressive tone, blatantly striving to hit the reset after President Obama was panned for his lackluster performance at last week's opening debate.
+
+If Obama was too cold, Biden at times bordered on too hot, analysts said afterward.
+
+He chuckled and smirked through many of Ryan's responses.
+But unlike Obama a week ago, he let few points go unchallenged.
+
+Biden went after the Romney/Ryan ticket with a directness that Obama did not.
+Notably, he hammered Mitt Romney over his secretly videotaped comment in which he said he doesn't have to worry about the "47 percent" of Americans who don't pay federal income taxes.
+
+"These people are my mom and dad, the people I grew up with, my neighbors," Biden said, adding he's "had it up to here" with those kinds of comments.
+
+Ryan shot back, in reference to Biden's tendency to make gaffes: "As the vice president very well knows ... sometimes the words don't come out of your mouth the right way."
+
+"But I always say what I mean," Biden responded.
+
+Ryan accused Obama of "projecting weakness" with his foreign policy, particularly in his response to the terror attack on the U.S. Consulate in Benghazi, Libya.
+At home, he accused the administration of presiding over a shoddy recovery.
+
+"This is not what a real recovery looks like," Ryan said.
+
+Whether the debate will alter the course of the race remains to be seen.
+There are two more presidential debates on the calendar, and the polls have started to swing in Romney's favor.
+The tightening was reflected in the candidates' attitude onstage Thursday, each loath to give the other too many seconds of speech-time without a challenge.
+
+The economy, the budget deficit and foreign policy were central.
+Each candidate made frequent appeals to the middle class, Biden by pledging to protect programs in the federal budget and Ryan by pledging to grow the economy for everybody.
+
+Ryan opened the debate with tough criticism of the Obama administration over its handling of the Libya terror attack.
+
+"What we are watching on our TV screens is the unraveling of the Obama foreign policy," Ryan said.
+
+With the moderator, ABC News' Martha Raddatz, opening the debate with a question about the Libya strike, which happened a month ago Thursday, Ryan criticized the administration for waiting more than a week after the strike to call it a coordinated terror attack.
+
+"This is becoming more troubling by the day.
+They first blamed the YouTube video.
+Now they're trying to blame the Romney/Ryan ticket for making this an issue," he said.
+Ryan was referring to a claim by an Obama aide earlier Thursday that the only reason the attack had entered the political debate was because of Romney's criticism - a claim Romney rejected.
+
+Biden was quick to retort: "With all due respect, that's just a bunch of malarkey.
+... Not a single thing he said is accurate."
+
+He added: "This talk about this weakness, I don't understand what my friend's talking about."
+
+Biden also criticized Romney for making a "political statement"on the night of the attack, a reference to Romney's criticism of the U.S. Embassy in Cairo's early response to protests there.
+On the question of why the administration initially claimed the attack was the result of a protest, Biden explained "the intelligence community told us that."
+
+The face-off Thursday night was taking on outsized importance for a vice presidential debate.
+
+After Obama's debate performance last week, the pressure was on Biden to recapture the momentum -- while equally on Ryan to prevent the Obama ticket from blunting Romney's surge.
+
+Ryan referred to the weight on Biden's shoulders about mid-way through, as the two talked over each other on Medicare.
+
+"Mr. vice president, I know you're under a lot of duress to make up for lost ground, but I think people would be better served if we don't keep interrupting each other," Ryan said.
+
+On Medicare, Biden charged that the Republican ticket's plan would raise costs for future seniors with a de facto "voucher" system.
+"Their ideas are old and their ideas are bad and they eliminate the guarantee of Medicare," he said.
+
+Ryan shot back: "They got caught with their hand in the cookie jar turning Medicare into a piggy bank for ObamaCare."
+
+The debate veered across the spectrum of topics from the campaign trail.
+On Iran's nuclear program, Biden repeatedly suggested Romney and Ryan would too readily choose the military option to stop it.
+On abortion, he cautioned that the next president will get to choose one or two justices on the Supreme Court -- "that's how close Roe v. Wade is."
+
+Ryan, toward the end of the debate, warned that a "debt crisis is coming" and claimed the sitting president offers little more than speeches to address the deficit.
+
+"That's what we get in this administration -- speeches.
+But we're not getting leadership," he said.
+
+In a matter of days, Romney has picked up steam in both battleground and national polls.
+The latest Fox News national poll of likely voters showed Romney edging Obama, 46 percent to 45 percent.
+
+Obama has acknowledged he had a "bad night" in his debate last week, but the campaign indicates it will be more aggressive going forward.
+After Biden's more feisty performance Thursday, Obama campaign manager Jim Messina quipped that he's a "happy warrior" for the middle class.
+
+The final presidential debates will be held Oct. 16 and Oct. 22.
+The next one will be a town hall format focusing on a range of issues, and the last one will focus exclusively on foreign policy.
+
+STEP 1:
+* disdainful
+* feisty
+* lackluster
+* hot
+* cold
+* weak
+* shoddy
+* malarkey
+* weak
+* duress
+* bad
+* good
+* aggressive
+* happy
+* warrior
+
+SUMMARY:
+In a fiery vice presidential debate, Joe Biden went on the offense against Paul Ryan, adopting an aggressive tone to counter Mitt Romney's surge in the polls. Biden's disdainful attacks on Ryan's responses were met with a feisty defense, as the two clashed over the economy, Libya, and taxes. Biden hammered Romney over his "47 percent" comment, calling it "malarkey" and saying it was an attack on his own family and neighbors. Ryan shot back, accusing Obama of "projecting weakness" on foreign policy and presiding over a "shoddy" recovery. The debate was marked by frequent interruptions and a sense of duress, as both candidates sought to score points. In the end, Biden emerged as a "happy warrior" for the middle class, but it remains to be seen if this will alter the course of the race. END OF SUMMARY.
+
+Now, here is the target news article to summarize:
+Here is the news article:
+
+Africa, West split over Mugabe's win HARARE, Zimbabwe - As Robert Mugabe moved to consolidate his victory in elections most observers denounced as rigged, an ugly split was opening up in the response from black African nations and the West. Mr. Mugabe, Zimbabwe's leader for all its 22 years of independence, won a fifth term in office yesterday, defeating his opponent Morgan Tsvangirai in an election marred by violence, intimidation and the manipulation of electoral laws. According the Registrar-General's office, Mr. Mugabe received 56% of the 3.1 million votes cast to Mr. Tsvangirai's 41%. The win gives the 78-year-old Mr. Mugabe a six-year term in office and was hailed by Patrick Chinamasa, Zimbabwe's Justice Minister, as a "runaway victory." Mr. Tsvangirai was less complimentary, calling the election "the biggest electoral fraud I have ever witnessed in my life." He said the result "does not reflect the true will of the people of Zimbabwe." The despondent former union boss appeared befuddled by the result, as if he had never expected Mr. Mugabe to pull out a victory using just about every shady tactic in the book. "We foresaw electoral fraud but not daylight robbery," he said during a brief news conference yesterday. George Bush, the U.S. President, led the criticism from the West, saying Washington would not recognize Mr. Mugabe's government. "We do not recognize the outcome of the election because we think it's flawed," Mr. Bush said. "And we are dealing with our friends to figure out how to deal with this flawed election." Colin Powell, his Secretary of State, implied the United States may impose new sanctions in addition to an existing travel ban affecting Mr. Mugabe's inner circle. Jack Straw, Britain's Foreign Secretary, condemned Mr. Mugabe for waging a "systematic campaign of violence." Jean Chretien, the Prime Minister, was more muted in his criticism. Mr. Chretien, who this month headed off a move to suspend Zimbabwe from the Commonwealth in advance of the vote, said the election of Mr. Mugabe "does not look very good" but insisted Canada must wait for the results of a Commonwealth report before acting. "There is a committee made up of three heads of governments and states who will be meeting within two weeks to analyze the report of the observers and render a decision," he told the Commons yesterday. "We have to follow the process of receiving the report from the observers before coming to a definite conclusion." Opposition critics attacked the Prime Minister for not immediately denouncing the election. John Reynolds, the Canadian Alliance leader, said Zimbabwe should be suspended from the Commonwealth and its High Commissioner to Canada "sent packing" until "we straighten this mess out." In contrast with the West, Zimbabwe's neighbours, including regional superpower South Africa, found little to object to in the election. Sam Motsuenyane, head of a 50-member observer mission from South Africa, said the result "should be considered legitimate" and blamed the difficulties faced by some voters on "administrative oversight." The observer team from the Organization of African Unity announced that, "in general, the elections were transparent, credible, free and fair." "The ... team wishes to commend the electoral and polling officers for the able manner in which they conducted the elections," said Gertrude Mongella, leader of the OAU observers. Mr. Mugabe has not been seen since Friday's pre-election rallies and made no appearance or comment yesterday. Mr. Tsvangirai seemed at a loss over what to do next, saying that the leadership of his Movement for Democratic Change (MDC) would have to meet to come up with a strategy to counter Mr. Mugabe's victory. The confusion was widespread throughout his party. "We expected we were going to win this election," admitted Hilda Mafudze, an MDC member of Parliament who had been threatened by Mr. Mugabe's toughs and prevented from campaigning in her home riding south of Harare. Mr. Mugabe ended up winning there by more than 6,000 votes. "It's something we were not prepared for," she said. "We have just got to sit down and brainstorm and come with something concrete to do." Although Mr. Tsvangirai said the people were "seething with anger," Mr. Tsvangirai ruled out open rebellion. "We seek no confrontation with the state," said the MDC leader, who is already facing treason charges for allegedly plotting to assassinate Mr. Mugabe, a charge he says was trumped up. Domestic observers tended to side with the MDC, denouncing the election as fraud-tainted and unfair. The Crisis in Zimbabwe Committee, a coalition of church and civic groups, called for Zimbabweans to protest the elections tomorrow in a "constitutionally acceptable" manner. Zimbabwe's security laws make it illegal to call for a general strike. The government was taking no chances of a popular uprising, putting the military on alert and setting up police roadblocks around Harare and other large cities. In the working class suburb of Highfield, a strong MDC zone, a middle-aged street vendor just clucked and shook his head when asked whether people would protest Mr. Mugabe's re-election. "Ahh, this country is going to the dogs. But we are scared. We are not going to go out on to the streets," he said, looking nervously over to where triumphant activists from Mr. Mugabe's Zimbabwe African People's Union - Patriotic Front had ripped up stacks of a pro-opposition newspaper. On the streets of the capital, where Mr. Tsvangirai found his greatest support, there was no sign of revolution brewing. Thousands of voters in Harare were chased away from polling stations on Monday night by police, despite waiting for three chaotic days to cast their ballots. The MDC says the disorganization in Harare was planned by Mr. Mugabe in order to disenfranchise Mr. Tsvangirai's supporters. According to the government, as few as 42% of Harare's 800,000 voters cast their ballots while the rate of participation in Mr. Mugabe's rural strongholds approached 69%, a figure disputed by the MDC. In many cases neither the MDC nor neutral observers were able to monitor voting in more remote polling stations. For South Africa, the main concern is regional stability, not the niceties of participatory democracy. Zimbabwe's economy has imploded, unemployment is near 60%, inflation is running at 112% a year and many people in this former breadbasket are going hungry. South Africa is already trying to stem the flow of economic migrants fording the Limpopo River for a better life south of the border. The last thing South Africa wants is to add thousands of refugees fleeing war and political turmoil.
+
+(1) First, you identify all the single words that are morally framed, focusing especially on the dimensions of Authority/Subversion, Care/Harm, Fairness/Cheating. Identify this step as "STEP 1:" and report each word in a new line starting with *
+(2) Finally, you write a summary of the news article. Please preserve as many morally framed words as possible, particularly focusing on the moral dimensions of Authority/Subversion, Care/Harm, Fairness/Cheating in your summary. The summary has to be returned after a "SUMMARY:" token and ending with a "END OF SUMMARY." token. The summary should be no longer than 200 words.

@@ -10,3 +10,7 @@ The naming convention of the prompting methods is different from the one used in
 - cot --> CoT
 - oracle --> Oracle
 - class --> Class
+- simple_fewshot --> Balanced Few-Shot Direct
+- cot_fewshot --> Balanced Few-Shot CoT
+- simple_fewshot_mft --> Balanced Few-Shot Direct + MFT
+- cot_fewshot_mft --> Balanced Few-Shot CoT + MFT

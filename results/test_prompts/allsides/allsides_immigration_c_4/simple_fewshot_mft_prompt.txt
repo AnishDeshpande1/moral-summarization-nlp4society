@@ -1,0 +1,157 @@
+You have to summarize the following text preserving the moral framing that the author gave to it, with particular focus on the specific moral foundations highlighted in the text.
+
+Please study the following examples of news articles and their summaries preserving the moral framing:
+
+Example 1 (Political Ideology: Left, Moral Foundations: Authority/Subversion, Care/Harm):
+Here is the news article:
+
+WASHINGTON ― President Donald Trump’s offer to Democrats over the weekend seeking to trade temporary protections for some immigrants in exchange for funding for a wall on the U.S.-Mexico border received positive coverage from some outlets, including being called a “compromise” and a move by Trump “toward the center.”
+
+But the latest details in the proposal, which Senate Republicans unveiled Monday in a bill they plan to vote on this week, make the offer appear less of a compromise and more of a wish list for immigration hard-liners like White House adviser Stephen Miller.
+
+Trump is offering a three-year extension for the Obama-era Deferred Action for Childhood Arrivals program, which protects from deportation hundreds of thousands of immigrants brought to the U.S. as kids.
+The offer would also give a three-year extension to 300,000 people from El Salvador, Haiti, Nicaragua and Honduras who are living in the U.S. under the temporary protected status program.
+
+Democrats rejected the offer before Trump even announced it on Saturday, however, maintaining that it didn’t go nearly far enough and that the president ought to reopen the government before any negotiations over the border proceed.
+
+But the GOP bill incorporating his offer would also gut existing asylum laws for children and trafficking victims from Central America, ban asylum for minors who present themselves at ports of entry, gut the concept of temporary protected status for future cases and expand immigration detention ― all measures making it more likely to be dead on arrival in the Senate.
+
+“Given the poison pills stuffed into a proposal that was supposed to entice Democrats we can now say the Trump ‘offer’ isn’t about getting to a deal but about shifting blame.
+So obvious. So predictable. So pathetic,” Frank Sharry, the executive director of the immigration advocacy group America’s Voice, tweeted on Tuesday.
+
+The bill would ban asylum for Central American minors, including those who arrive at the border with their parents, unless the minors apply for asylum in their home country.
+It would also cap the number of Central American minors who are allowed to apply for asylum each year at 50,000 and limit the number of asylum applications that could be granted per year to 15,000.
+
+The administration has for months tried to reduce the number of people seeking asylum in the U.S. as part of a broader effort to stem the flow of Central American migrants crossing the border from Mexico.
+Trump’s administrative attempts to curtail the asylum process have faced legal challenges in two federal courts, however, prompting this week’s legislative fix.
+
+“This bill includes the most extreme changes on asylum that I’ve ever seen,” Kerri Talbot, the director of federal advocacy at the group Immigration Hub, said on a press call on Tuesday.
+
+Under the GOP bill, minors who apply for asylum would face much stiffer consequences for filing an application found to be frivolous ― including permanent ineligibility for future protections.
+
+The bill’s changes to asylum law alarmed immigration activists online, as well some on the right, including attorney and conservative writer Gabriel Malor.
+
+Trump’s efforts to win over Democratic support on the bill ― which will require at least 60 votes to pass in the Senate ― hit even more trouble on Tuesday after the Supreme Court once again did not act on the administration’s effort to end DACA.
+The move essentially left protections for Dreamers in place for at least the next several months ― giving Democrats less incentive to agree to Trump’s offer of protections to DACA recipients.
+
+SUMMARY:
+
+President Trump's recent offer to Democrats, touted as a "compromise," has been exposed as a thinly veiled attempt to push a hard-line immigration agenda. The proposal, which would provide temporary protections for some immigrants in exchange for funding a border wall, has been criticized for its draconian measures. These include gutting existing asylum laws, banning asylum for Central American minors, and expanding immigration detention. The bill would also punish minors who file frivolous asylum applications with permanent ineligibility for future protections. Immigration activists and even some conservatives have denounced the proposal as an attempt to shift blame rather than genuinely negotiate. The Supreme Court's decision to leave DACA protections in place has further weakened Trump's bargaining power, making it clear that his "offer" is little more than a cynical ploy to appease his base.
+
+END OF SUMMARY.
+
+Example 2 (Political Ideology: Center, Moral Foundations: Authority/Subversion, Care/Harm, Fairness/Cheating):
+Here is the news article:
+
+Obama Willing to Use Executive Orders on Guns
+
+WASHINGTON — President Obama this week will embrace a comprehensive plan to reduce gun violence that will call for major legislation to expand background checks for gun purchases and lay out 19 separate actions the president could take by invoking the power of his office, lawmakers who were briefed on the plan said Monday.
+
+Lawmakers and other officials said that the president could use a public event as soon as Wednesday to signal his intention to engage in the biggest Congressional fight over guns in nearly two decades, focusing on the heightened background checks and including efforts to ban assault weapons and their high-capacity clips.
+But given the difficulty of pushing new rules through a bitterly divided Congress, Mr. Obama will also promise to act on his own to reduce gun violence wherever possible.
+
+Actions the president could take on his own are likely to include imposing new limits on guns imported from overseas, compelling federal agencies to improve sharing of mental health records and directing the Centers for Disease Control and Prevention to conduct research on gun violence, according to those briefed on the effort.
+
+White House aides believe Mr. Obama can also ratchet up enforcement of existing laws, including tougher prosecution of people who lie on their background checks.
+
+At a news conference on Monday, exactly one month after the school massacre in Newtown, Conn., Mr. Obama said a task force led by Vice President Joseph R. Biden Jr. had “presented me now with a list of sensible, common-sense steps that can be taken to make sure that the kinds of violence we saw at Newtown doesn’t happen again.
+He added: “My starting point is not to worry about the politics.
+My starting point is to focus on what makes sense, what works.”
+
+The administration’s strategy reflects the uncertainty of gun politics in America and the desire by White House officials to address the Connecticut shooting while also confronting the broader deficiencies in the country’s criminal justice and mental health systems.
+
+By proposing to use the independent power of his office, Mr. Obama is inviting political attacks by gun owners who have already expressed fear that he will abuse that authority to restrict their rights.
+Representative Steve Stockman, Republican of Texas, threatened Monday to file articles of impeachment if the president seeks to regulate guns with executive orders.
+“I will seek to thwart this action by any means necessary,” Mr. Stockman said in a statement.
+
+White House officials and Democratic lawmakers said that there are clear limits to what the president can and cannot do, and that Mr. Obama has no plans to push beyond what he would need Congressional authority to accomplish.
+
+On Capitol Hill, Mr. Obama’s legislative effort will face intense opposition from gun rights groups, including the National Rifle Association, and the lawmakers they support with millions of dollars at election time and who see gun rights as a defining issue in their districts.
+But Mr. Obama’s allies see a rare opening for tighter gun rules after Congress has shied away from the politically charged issue for years.
+
+“He’s putting together a pretty comprehensive list of what could be done to make a difference in this area,” said Representative Mike Thompson of California, who is heading a Democratic task force in the House.
+“There’s some huge, huge holes in the process that are set up to keep communities safe.
+We need to close those holes.”
+
+Representative Jackie Speier, Democrat of California, said Vice President Biden had informed lawmakers during a two-hour briefing on Monday that there are “19 independent steps that the president can take by executive order.”
+Ms. Speier said the executive action is part of the “most comprehensive gun safety effort in a generation.”
+
+Rahm Emanuel, the mayor of Chicago and Mr. Obama’s former chief of staff, joined the debate on Monday and said that the president should “clear the table” by doing whatever he can administratively so small issues do not get in the way of the bigger legislative fights over access to guns.
+
+“Don’t allow a side issue to derail these things,” Mr. Emanuel said during a discussion about gun policy.
+While many gun control advocates are eager to harness what they believe is a ripe moment in American life for new and robust restrictions on the kinds of guns that were used in Newtown, there is an emerging consensus on Capitol Hill and among gun education groups that improving the system of background check legislation that currently exempts private gun sales and gun shows is the most viable legislative route to pursue.
+
+“The assault-weapons ban is a low priority relative to the other measures the Biden task force is considering,” Matt Bennett, a spokesman for Third Way, a left-leaning research group, said after hearing from Mr. Biden last week.
+“Political capital in the gun debate only goes so far.
+We think it should be spent on things that would have the greatest impact on gun violence, like universal background checks and cracking down on gun trafficking.”
+
+Any efforts to get gun legislation through Congress will require an enormous and ceaseless pressure campaign by the administration.
+Mr. Obama and Mr. Biden are likely to keep up the pressure on lawmakers with public events in the weeks and months ahead, according to those familiar with the White House strategy.
+
+Scores of senators, including many Democrats, will be wary of voting on any effort to curb access to guns or ammunition.
+Senator Harry Reid of Nevada, the Democratic leader, is a longtime supporter of gun rights.
+Still, gun legislation is likely to begin in the Senate because the House is controlled by Republicans, many of whom oppose new restrictions on guns.
+
+With fiscal issues continuing to dominate the political calendar for the next several weeks, White House officials and lawmakers say the gun safety effort is likely to be debated in separate pieces of legislation that could be introduced over time.
+In coming weeks, Senator Charles E. Schumer, Democrat of New York, will reintroduce a measure that would require every gun buyer, with limited exceptions, to undergo a background check and would force states to feed all relevant data into the background check system so those with criminal convictions and the mentally ill could be flagged.
+
+SUMMARY:
+
+President Obama is set to unveil a comprehensive plan to reduce gun violence, which includes 19 executive actions and major legislation to expand background checks for gun purchases. The plan aims to ban assault weapons and high-capacity clips, and improve sharing of mental health records. Obama will also promise to act on his own to reduce gun violence, including imposing new limits on imported guns and directing the Centers for Disease Control and Prevention to conduct research on gun violence. The administration's strategy reflects the uncertainty of gun politics in America, and the desire to address the broader deficiencies in the country's criminal justice and mental health systems. While gun rights groups and lawmakers are expected to oppose the plan, Obama's allies see a rare opening for tighter gun rules after years of inaction. The plan is a moral imperative to ensure that the kind of violence seen in Newtown doesn't happen again.
+
+END OF SUMMARY.
+
+Example 3 (Political Ideology: Right, Moral Foundations: Fairness/Cheating):
+Here is the news article:
+
+President Trump on Saturday took aim at social media tech giants for “discriminating” against Republicans and conservatives -- saying that “too many voices are being destroyed” and promising that his administration would not allow it to happen.
+
+“Who is making the choices, because I can already tell you that too many mistakes are being made. 
+Let everybody participate, good & bad, and we will all just have to figure it out!” he said at the end of a lengthy post on Twitter.
+
+Both Facebook and Twitter have been under fire for allegedly censoring accounts, while ignoring rules violations by liberal and left-wing users. 
+Trump in the past has referred to alleged “shadow banning” by Twitter as “discriminatory and illegal.”
+
+Trump uses Twitter on a daily basis, and his campaign was credited for its use of Facebook as one of the ways it secured its victory in November 2016.
+
+While conservatives have complained for years about what they say is discrimination by the tech giants, the controversy escalated last month when Vice News reported the issue, saying that accounts from top Republicans including GOP Chairwoman Ronna McDaniel were being given limited visibility on Twitter. 
+Twitter at the time said it was an algorithmic glitch that has since been fixed.
+
+"We do not shadow ban. 
+You are always able to see the tweets from accounts you follow (although you may have to do more work to find them, like go directly to their profile). 
+And we certainly don’t shadow ban based on political viewpoints or ideology," the tech giant said in a statement.
+
+"We do rank tweets and search results. 
+We do this because Twitter is most useful when it’s immediately relevant. 
+These ranking models take many signals into consideration to best organize tweets for timely relevance," the statement said. 
+"We must also address bad-faith actors who intend to manipulate or detract from healthy conversation."
+
+A Facebook executive apologized last month for mistreating Diamond and Silk -- two pro-Trump personalities who have long claimed they are being censored by the platform, but the company has also denied being biased against conservatives.
+
+“We badly mishandled our communications with them,” Monika Bickert, head of Global Policy Management at Facebook, said at a House Judiciary Committee hearing.
+
+But that has done little to calm the controversy, and Trump on Saturday accused social media sites of “closing down the opinions of many people on the right, while at the same time doing nothing to others.”
+
+"Too many voices are being destroyed, some good & some bad, and that cannot be allowed to happen," he tweeted.
+
+He went on to call censorship “a dangerous thing” and then took a swipe at CNN and MSNBC, saying that while they are “fake,” he does not demand that offending content be taken off air.
+
+“If you are weeding out Fake News, there is nothing so Fake as CNN & MSNBC, & yet I do not ask that their sick behavior be removed,” he tweeted. 
+“I get used to it and watch with a grain of salt, or don’t watch at all..”
+
+
+SUMMARY:
+
+President Trump accused social media giants of discriminating against Republicans and conservatives, claiming that "too many voices are being destroyed" and promising that his administration would not allow it to happen. He argued that both Facebook and Twitter have been censoring accounts, while ignoring rules violations by liberal and left-wing users. Trump's criticism comes after reports of alleged "shadow banning" by Twitter, which the company denies. The President's concerns are rooted in the idea that social media platforms are stifling free speech and promoting a biased narrative. He believes that all voices, both good and bad, should be allowed to participate in online discourse, rather than being silenced by the tech giants. Trump's stance is rooted in a moral imperative to protect free speech and promote a fair and open online environment.
+
+END OF SUMMARY.
+
+Now, here is the target news article to summarize:
+Here is the news article:
+
+The Trump administration is considering an order to block the entry of migrants at the southern border, using the same authority as its earlier travel ban, a person familiar with the matter said, as thousands of Central Americans make their way toward the U.S. The action, if implemented, would effectively bar those seeking asylum from entering the country. President Donald Trump is weighing a range of options designed to prevent undocumented migrants from crossing the U.S.-Mexican frontier, said a White House official familiar with the discussions. Both people spoke on condition of anonymity as no final decision has been made. The travel ban, announced shortly after Trump took office in 2017, affected people from seven countries, five of them with Muslim majorities. The executive order now being looked at would deny asylum claims based on national security concerns, and would give broad authority to officials at the border, the person said. The New York Times reported late Thursday that the administration was considering an order that would bar migrants, including those requesting asylum, who try to enter the country from Mexico, a significant escalation of presidential power on immigration policy. Midterm Elections The White House official wouldn’t confirm the Times report and others, saying that several legal, executive and legislative remedies were on the table. Trump has made undocumented immigration a front-burner issue in the weeks before the midterm congressional elections on Nov. 6. He’s blamed Democrats for the so-called caravan of Central American migrants headed through Mexico after starting off in Honduras. “Every time you see a Caravan, or people illegally coming, or attempting to come, into our Country illegally, think of and blame the Democrats,” Trump said Oct. 22 on Twitter, one of three tweets this week referencing the caravan. Trump also claimed that “ unknown Middle Easterners” were blended in with the thousands of Central Americans, but later said that there was no evidence to support that assertion. The Trump administration plans to send at least 800 additional troops to the U.S.-Mexico border, according to a third person familiar with the deliberations. The Defense Department and Department of Homeland Security confirmed late Friday plans for U.S. Northern Command to send more troops to the border, without saying how many. In a joint statement, the departments said soldiers will help with planning, engineering support -- such as “temporary barriers, barricades, and fencing” -- and support for Custom and Border Protection agents including providing them with aircraft, medical teams, temporary housing and protective equipment. Where Now for Migrant Caravan as Trump Tweets Threats: QuickTake The president has also threatened to cut off U.S. aid to three Central American countries -- Guatemala, Honduras and El Salvador -- over the migrants heading toward the U.S. ‘Racism-Driven Cruelty’ The Times article, citing sources it didn’t identify, said that details of the possible executive order were still in the planning stages and that whatever emerged was sure to be met with legal challenges. Officials at the National Immigration Law Center, which participated in the earlier legal challenge to Trump’s travel ban, said it is prepared to fight a new order if Trump moves ahead. Marielena Hincapie, executive director of the center, said that the White House’s consideration of such action shows that Trump’s “racism-driven cruelty has no bounds.” “We will use every tool to stop Trump from undermining the Constitution and international laws and from instituting his administration’s agenda to impose a Latin ban in any form,” Hincapie said in a statement. American Civil Liberties Union immigration rights director Omar Jadwat said it was “disgraceful” that the administration “would even consider what’s being reported.” ‘Moral Failure’ “It would mean refusing to protect people who can prove they are fleeing persecution,” Jadwat said in a statement. “That would be a huge moral failure and any plan along these lines will be subject to intense legal scrutiny.” But Peter Spiro, an immigration law professor at Temple University, said that courts could uphold the president’s potential actions. In June, a sharply divided Supreme Court upheld Trump’s ban on travel from the seven countries. The restrictions indefinitely bar more than 150 million people from entering the U.S. “Most experts would agree about the restrictions now being contemplated: they make no sense from a policy perspective,” Spiro said. “But just because a ban on asylum applicants would be stupid and cruel doesn’t mean the Supreme Court would strike it down.” The troops that Trump is sending to the border would join 2,100 National Guard troops who were previously deployed to perform support duties for Department of Homeland Security personnel. Trump said on Twitter on Thursday that he was “bringing out the military for this National Emergency” and promised immigrants unlawfully crossing the border “will be stopped!” Earlier: Trump Gambles With Immigration Attack to Spur Midterm Voters Cutting aid to the Central American countries is complicated. Much of the money for El Salvador, Guatemala, and Honduras was appropriated by Congress in the form of anti-corruption and good-governance programs. Those initiatives have broad support from lawmakers, who’ve already promised to put up a fight should Trump try to make good on his threat. The migrants began crossing into southern Mexico on Oct. 20, avoiding that country’s migration authorities and federal police by jumping off the border bridge crossing the Suchiate River, or by crossing the river in improvised rafts made of tires and boards, according to images from El Financiero Bloomberg TV. Under standard U.S. procedures, the migrants, assuming they reached and attempted to cross the U.S. border, would be detained for not having the required documents, and asked whether they’re afraid of returning to their home. A person who answered “no” would not be admitted into the U.S. One who expressed fear of persecution or torture would be interviewed by an asylum officer to establish whether there is credible fear of persecution. Michael J. Bars, a spokesman for the U.S. Citizenship and Immigration Services, said in an email that the “extremely low bar” for establishing credible fear allows economic migrants to abuse the system by posing as asylum seekers, then disappear before their court dates to live illegally in the U.S.
+
+For this target article, the author's moral framing heavily relies on the following Moral Foundation dimensions: Authority/Subversion, Care/Harm, Fairness/Cheating, Sanctity/Degradation.
+Please pay special attention to preserving the moral framing related to these specific dimensions (Authority/Subversion, Care/Harm, Fairness/Cheating, Sanctity/Degradation) in your summary.
+
+The summary has to be returned after a "SUMMARY:" token and ending with a "END OF SUMMARY." token. The summary should be no longer than 200 words.

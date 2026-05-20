@@ -1,0 +1,152 @@
+You have to summarize the following text preserving the moral framing that the author gave to it, with particular focus on the specific moral foundations highlighted in the text.
+
+Please study the following examples of news articles, their moral word extraction, and summaries preserving the moral framing:
+
+Example 1 (Political Ideology: Left, Moral Foundations: Care/Harm):
+Here is the news article:
+
+Obama’s team is spinning the Republican National Convention as a complete miss.
+Obama's new challenge: Disappointment
+
+The watchword of the Republican National Convention in Tampa was disappointment — as in President Barack Obama has been one.
+
+You can hammer Obama on health care.
+Mock his golf outings.
+Demand to see his birth certificate and Harvard transcript, and call him a European socialist bent on turning the American Dream into a Belgian nightmare.
+He’ll throw his head back and laugh at you like a Bond villain.
+
+But tell voters he’s not the man America fell in love with in 2008 — and pine, however disingenuously, about his unfulfilled potential — and a shiver runs through his Chicago campaign headquarters.
+
+Obama’s team was spinning the convention as a complete miss, arguing that Republicans didn’t lay a glove on their man.
+Yet what emerged from Tampa was a subtle, clever shift in GOP messaging, a much more dangerous strategy for Obama than the kitchen-sink attacks that preceded the gathering.
+Republicans posed — rhetorically — as Obama 2008 voters, lamenting his unfulfilled expectations as if they had been with him all along instead of trying to block him at every turn.
+
+Both sides recognize the power of the disappointment theme: that the hope Obama offered for mending the economy, transforming the political process and even saving the earth has faded.
+
+“President Obama promised to begin to slow the rise of the oceans and heal the planet,” Mitt Romney said in accepting the Republican presidential nomination Thursday.
+“My promise is to help you and your family.”
+
+Or, as Sen. Marco Rubio put it, “Our problem with President Obama isn’t that he’s a bad person.
+Our problem is that he’s a bad president.”
+
+If Republicans landed a punch on Obama, it was the kind of strategic body blow that a skillful pugilist deploys to gain better position for the rest of the fight.
+
+No roundhouse, no jaw-splitter, no knockout.
+It was the kind of shot aimed at subtly shifting momentum and softening up the opponent in a way that may not be evident to the casual observer.
+
+Republicans honed their tone.
+
+The shrill hyperbole, petty critiques of Obama’s every move and Party of No intransigence disappeared into the heavy Tampa air.
+Surely, some of that will rain back down across other parts of the country during the closing months of the campaign, particularly as super PACs and other outside groups intensify their own lines of attack against Obama.
+
+There was plenty of tough criticism in Tampa — more mockery of Obama’s “you didn’t build that” line, more comparisons of his record to Jimmy Carter’s.
+But there were times — prime time, in particular — that the Republican convention looked and sounded like a Democratic gathering.
+
+An appealing young vice-presidential candidate, Paul Ryan, called his mom his role model and vowed to protect Medicare for seniors.
+
+Cuban-American Florida Sen. Marco Rubio and Mexican-American New Mexico Gov. Susana Martinez spoke of the unique opportunities that the United States afforded them to rise into leadership positions.
+
+STEP 1:
+* disappointment
+* disingenuously
+* clever
+* dangerous
+* bad
+* good
+* shrill
+* petty
+* intransigence
+* appealing
+* unique
+
+SUMMARY:
+The Republican National Convention in Tampa was deemed a success by the GOP, despite Obama's team spinning it as a complete miss. Republicans cleverly shifted their messaging, adopting a more subtle and dangerous strategy that focused on disappointment. They posed as Obama 2008 voters, lamenting his unfulfilled expectations and promising a more humble, achievable agenda. Mitt Romney and Sen. Marco Rubio delivered speeches that were more in line with Democratic values, touting the unique opportunities afforded by the United States. The tone was appealing, with a focus on protecting Medicare for seniors and honoring role models. The GOP's new approach is a strategic body blow to Obama's campaign, softening him up for the rest of the fight. END OF SUMMARY.
+
+Example 2 (Political Ideology: Center, Moral Foundations: Authority/Subversion, Care/Harm):
+Here is the news article:
+
+Israel and Middle East policy have a tendency of surfacing in presidential politics in rather combustible ways.
+And a new advertisement that will run in areas of Florida with large Jewish populations attempts to stoke anxiety over American policies in the region, using a news clip of Prime Minister Benjamin Netanyahu of Israel warning of the risks of a nuclear Iran.
+
+“The fact is that every day that passes, Iran gets closer and closer to nuclear arms,” Mr. Netanyahu is shown saying.
+
+For dramatic effect, a soundtrack fit for an episodic drama like “Homeland” plays as the prime minister continues.
+“The world tells Israel, ‘Wait. There’s still time.’
+And I say wait for what?
+Wait until when?”
+Then an unseen announcer concludes: “The world needs American strength, not apologies.”
+
+That line is a not-so-veiled swipe at President Obama.
+Mitt Romney and other Republicans have criticized his foreign policy as apologetic, toward volatile countries like Iran.
+
+The group that produced the ad, Secure America Now, is run by two longtime Republican strategists, Nelson Warfield ? and John ?McLaughlin, and ?Pat Caddell, a former aide to Jimmy Carter who is now a Fox News contributor.
+They have reserved $500,000 of airtime in Fort Myers, West Palm Beach and Miami.
+
+A senior Israeli official said the government was not consulted on the ad and did not approve it.
+
+STEP 1:
+* anxiety
+* dramatic
+* volatile
+* apologetic
+* strength
+* swipe
+
+SUMMARY:
+A new advertisement in Florida, targeting areas with large Jewish populations, aims to stoke anxiety over American policies in the Middle East. The ad features Prime Minister Benjamin Netanyahu warning of the risks of a nuclear Iran, with a dramatic soundtrack. Netanyahu's message is clear: "Wait for what? Wait until when?" implying that the world is being too apologetic towards Iran. The ad concludes with the line "The world needs American strength, not apologies," a not-so-veiled swipe at President Obama's foreign policy. The group behind the ad, Secure America Now, is run by Republican strategists and has reserved $500,000 of airtime. Interestingly, the Israeli government was not consulted on the ad and did not approve it. The ad's message is clear: American strength is needed, not apologies.
+
+END OF SUMMARY.
+
+Example 3 (Political Ideology: Right, Moral Foundations: Fairness/Cheating, Loyalty/Betrayal):
+Here is the news article:
+
+Glenn Beck Rips Progressivism at CPAC
+
+Fox News host Glenn Beck, armed with his trademark chalkboard, blamed "progressivism" for America's problems Saturday in his keynote speech that brought the annual Conservative Political Action Conference to a close.
+
+The chalkboard, a prop that he uses frequently on his top-rated show, brought the audience to its feet.
+Beck wrote "Progressivism" on it to underscore his belief in what America is suffering from.
+
+When Beck asked what America is suffering from, someone shouted "President Obama," though Beck, an outspoken critic of the president, said it's "not that simple."
+
+Beck rejected the notion that the Republican Party should expand its tent to include progressives.
+
+"What is this? A circus?" he said, drawing laughter.
+"America is not a clown show.
+America is an idea that sets people free."
+
+Opening up about his troubled past, Beck told the crowd, "People need to understand that life is not fair.
+The bad guy sometimes wins."
+
+The speech capped three days of panel discussions and high-profile speakers, including numerous politicians mentioned as contenders for the 2012 Republican presidential nomination.
+But for a lot of the CPAC attendees, Beck was the reason they came, as he is seen as a leader in the new conservative movement.
+
+The speech comes after a year in which Beck's growing popularity as a Fox News host coincided with the rise of the Tea Party Movement and populist rage directed at Washington.
+Beck also launched the 9/12 Project, which sets forth nine values and 12 principles that he believes the country was founded upon.
+The project inspired a major march in Washington in September.
+
+"This is how is America should be," said Cynthia Burgiss, 22, a student at the University of Dayton in Ohio who attended the 9/12 march in D.C. this year.
+"People of every race, political affiliation, religion came together for different reasons."
+
+She was at CPAC to see Beck and called him a "relatable ... everyday guy."
+
+"None of this would have happened without Glenn," she said.
+
+STEP 1:
+* Progressivism (negative framing)
+* Free (positive framing)
+* Fair (positive framing)
+* Bad (negative framing)
+* Leader (positive framing)
+* Right (implied positive framing)
+
+SUMMARY:
+At the Conservative Political Action Conference, Fox News host Glenn Beck delivered a keynote speech blaming "progressivism" for America's problems. With his trademark chalkboard, Beck emphasized that America is suffering from the ideologies of progressivism, which he believes restricts freedom. He rejected the idea of expanding the Republican Party's tent to include progressives, saying "America is not a clown show. America is an idea that sets people free." Beck, a leader in the new conservative movement, shared his troubled past, acknowledging that "life is not fair" and "the bad guy sometimes wins." The speech capped off three days of panel discussions and high-profile speakers, with many attendees drawn to CPAC specifically to see Beck. His 9/12 Project, which promotes nine values and 12 principles, has inspired a grassroots movement and a major march in Washington. For many, Beck represents a relatable, everyday guy who embodies the right values. END OF SUMMARY.
+
+Now, here is the target news article to summarize:
+Here is the news article:
+
+Israeli Prime Minister Benjamin Netanyahu has said he’ll steer clear of the American presidential election, but he stars in a new ad set to air in the key battleground state of Florida that aims to make Iran a major campaign issue. Netanyahu, who has a famously frosty relationship with President Obama, mentions neither Obama nor Republican challenger Mitt Romney, with whom Netanyahu worked in the mid-1970s at Boston Consulting Group. His words are taken from a recent news conference, in which he expressed frustration at the Obama administration’s failure to establish “red lines” for reining in Iran and its rogue nuclear weapons program. "The fact is that every day that passes, Iran gets closer and closer to a nuclear bomb,” Netanyahu says. “The world tells Israel, wait, there's still time. And I say wait for what? Wait until when?" A voice-over at the end of the ad underscores the prime minister's message: "The world needs American strength, not apologies." The ad, paid for by nonprofit conservative advocacy group Secure America Now, could have a powerful influence in heavily-Jewish markets, including Miami. Florida is considered a toss-up in recent polling, and its 29 electoral votes could swing the election. “Sizable majorities in both states believe that Iran will share nuclear weapons with terrorists,” said Jeri Thompson, advisory board member for Secure America Now. “Support for Israel remains strong. In short, (Netanyahu's) a powerful messenger with a powerful message who the American people believe.” The ad, reportedly to air in Miami, West Palm Beach and Fort Myers, is costing Secure America $1 million, the organization confirmed to Fox News. A Fox News poll released Wednesday shows Obama leading Romney, 49 percent to 44 percent, in Florida. Meanwhile, Haaretz reported that the Republican Jewish Coalition has launched a separate $5 million TV advertising blitz aimed at Jewish voters in swing states. That campaign started Wednesday and runs through Nov. 5 in cable and broadcast TV markets in Florida, Nevada, Ohio and Pennsylvania. "This ad highlights the 'buyer's remorse' felt by many in the Jewish community, who voted for Obama four years ago but are now disillusioned with his economic policies and his policies toward Israel,” the coalition's executive director, Matt Brooks, said in a written statement Wednesday. “These ads, and the stories of the people in them, give voice to the nagging doubts that many Jewish voters feel about President Obama. To underscore that point, numerous polls have shown an erosion in Jewish support for the president." Netanyahu also made an appearance on NBC's "Meet the Press" last Sunday, urging Obama to take a tougher line with Iran over its nuclear program. "President Obama has said that he is determined to prevent Iran from getting nuclear weapons," he said on the Sunday morning show. "If you're determined to prevent Iran from getting nuclear weapons, it means you'll act before they get nuclear weapons."
+
+(1) First, you identify all the single words that are morally framed, focusing especially on the dimensions of Authority/Subversion. Identify this step as "STEP 1:" and report each word in a new line starting with *
+(2) Finally, you write a summary of the news article. Please preserve as many morally framed words as possible, particularly focusing on the moral dimensions of Authority/Subversion in your summary. The summary has to be returned after a "SUMMARY:" token and ending with a "END OF SUMMARY." token. The summary should be no longer than 200 words.

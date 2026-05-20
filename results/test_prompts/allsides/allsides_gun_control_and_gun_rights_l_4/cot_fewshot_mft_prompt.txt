@@ -1,0 +1,199 @@
+You have to summarize the following text preserving the moral framing that the author gave to it, with particular focus on the specific moral foundations highlighted in the text.
+
+Please study the following examples of news articles, their moral word extraction, and summaries preserving the moral framing:
+
+Example 1 (Political Ideology: Left, Moral Foundations: Authority/Subversion, Care/Harm, Fairness/Cheating):
+Here is the news article:
+
+First Step Act, a landmark bill which would reduce drug crime sentences, saw support from both progressives and law-and-order conservatives
+
+A sweeping bill seeking to reform the criminal justice system has cleared the Senate, in a legislative victory for both progressive advocates and law-and-order conservatives that would give judges more discretion when sentencing some drug offenders and would boost prisoner rehabilitation efforts.
+
+The First Step Act, which passed 87-12, attracted support from both sides of the aisle, as well as from public figures such as Patricia Arquette, Mark Cuban, Kim Kardashian West and Kanye West.
+Donald Trump supported the iteration of the bill that passed in the House in May, and the most current version that will need to return to the House for another vote (which it is expected to pass), before it reaches his desk for a signature later this week.
+
+I went to prison for 19 years.
+Here is why I didn't become a statistic.
+
+The sweeping bill addresses concerns that the nation’s war on drugs had led to the imprisonment of too many Americans for non-violent crimes without adequately preparing them for their return to society.
+
+“America is the greatest Country in the world and my job is to fight for ALL citizens, even those who have made mistakes,” Trump tweeted.
+“Congratulations to the Senate on the bi-partisan passing of a historic Criminal Justice Reform Bill.”
+
+The president continued: “This will keep our communities safer, and provide hope and a second chance, to those who earn it.
+In addition to everything else, billions of dollars will be saved.
+I look forward to signing this into law!”
+
+The act would reduce mandatory minimum sentences for a number of drug-related crimes, allow judges to circumvent federal mandatory minimum sentences for non-violent offenders when they see fit, expand rehabilitative opportunities for federal prisoners, and ban some correctional practices criticized as inhumane, such as the shackling of pregnant women.
+The act would give elderly and terminally ill inmates a path home and invest tens of millions in re-entry programming.
+
+The act would end so-called “three strikes” mandatory life sentences for defendants facing a third drug conviction, except for those with a prior “serious violent felony”.
+The “stacking” regulations that make it illegal to posses a firearm while committing a crime, even if the firearm is not used, would also no longer come into play.
+
+The bill would also retroactively extend the 2010 Fair Sentencing Act, a move that could affect thousands of drug offenders serving disproportionately long sentences for crack cocaine versus the powder variant.
+As many as 4,000 people currently serving long sentences could be eligible for release, according to some advocates.
+
+Jessica Jackson Sloan, the national director for #cut5o, a criminal justice reform advocacy group, applauded the Republican judiciary committee chairman, Chuck Grassley, and Dick Durbin, the Senate Democratic whip, for “leading their respective parties to consensus on one of the most important challenges our country faces – unwinding the catastrophic harm of the incarceration industry”.
+
+“Tonight, we stand as neither Republican or Democrats but as people seeking to take the first step of many to criminal justice reform,” she said.
+
+Grassley hailed a “big bipartisan victory”, saying: “Historic criminal justice reform happens once in a generation.”
+
+Cory Booker, the New Jersey senator and possible Democratic presidential hopeful for 2020, said the nation’s prisons were full of Americans who are struggling with mental illness and addiction and who are overwhelmingly poor.
+
+He said the nation’s criminal justice system “feeds on certain communities and not on others” and added that the bill represents a step toward “healing” for those communities.
+
+“Let’s make no mistake, this legislation, which is one small step, will affect thousands and thousands of lives,” Booker said.
+
+The ACLU, which initially opposed the House version of the legislation, tweeted that the First Step Act was “by no means perfect – but we’re in the midst of a mass incarceration crisis and the time to act is now.
+We’re glad to see common sense prevail in the Senate voting to move this bill closer to the finish line.”
+
+The bill would affect only federal prisoners, who make up less than 10% of the country’s prison population.
+
+STEP 1:
+* historic
+* catastrophic
+* healing
+* perfect
+* common
+* sense
+
+SUMMARY:
+The First Step Act, a landmark and historic bill, has cleared the Senate with bipartisan support, marking a significant step towards criminal justice reform. The bill addresses concerns that the nation's war on drugs has led to the imprisonment of too many Americans for non-violent crimes without adequately preparing them for their return to society. The act would reduce mandatory minimum sentences, allow judges to circumvent federal mandatory minimum sentences for non-violent offenders, and expand rehabilitative opportunities for federal prisoners. It would also ban inhumane correctional practices and provide a path home for elderly and terminally ill inmates. The bill represents a step towards healing for communities disproportionately affected by the incarceration industry. While not perfect, the act is a common sense approach to addressing the mass incarceration crisis. It is expected to pass the House and be signed into law by President Trump.
+END OF SUMMARY.
+
+Example 2 (Political Ideology: Center, Moral Foundations: Care/Harm):
+Here is the news article:
+
+Police respond to the scene of a shooting at a gas station in Springfield, Mo, on Sunday, March 15, 2020.
+Police Chief Paul Williams said Monday morning, a Springfield police officer, three citizens and the gunman were killed.
+
+SPRINGFIELD, Mo. (AP) — A man fired randomly from his vehicle several times while driving through a southwest Missouri city before eventually crashing into a convenience store, where he walked inside, opened fire and left five people dead, including a police officer and himself, police said Monday.
+
+The dead from Sunday night’s shooting include a store employee and two men who were in the store, police said.
+A second officer was injured, along with another person.
+
+The gunman’s motives remain unclear, Springfield police Chief Paul Williams said at a news conference, where his voice broke as he described his officers’ actions.
+
+Williams said police received reports of “multiple shooting calls throughout the city” late Sunday starting in the south and moving north through the city’s east side.
+
+“In essence we had a roving active shooter moving from the south side of the city up,” Williams said.
+
+As officers were responding to those calls, witnesses reported a vehicle crashed into a Kum & Go.
+gas station and convenience store, and the gunman walked inside and began shooting customers and employees, Williams said.
+
+The Kansas City Star reported that the gunman opened fire from inside the store as police arrived, with officers taking cover behind vehicles and shields.
+
+“Advise everybody arriving on the scene, the shooter is shooting out the window,” one officer can be heard saying on audio captured by the online website Broadcastify.com, The Star reported.
+“The officer shot from inside the store outside.
+Take cover behind vehicles.”
+
+The first two officers who arrived were shot.
+Other officers pulled the injured officers from the store and then went inside, finding three people dead.
+The gunman also died, apparently from a self-inflicted gunshot, Williams said.
+Police identified the shooter as 31-year-old Joaquin S. Roman of Springfield.
+
+Officer Christopher Walsh, 32, was shot and killed as he tried to rescue a victim, Williams said.
+He was with the Springfield police for 3 1/2 years, was an Army veteran and was active in the Army reserves.
+
+Walsh, a Springfield native, is survived by a wife and daughter.
+
+“Chris died a hero, rushing in without regard to his own safety to protect members of his community.
+His courageous actions serve as an example to us all,” Wiliams said in a news release.
+
+Police identified the three other men who died as 57-year-old Troy D. Rapp, who was employed by Kum-N-Go, 46-year-old Shannon R. Perkins, who was employed by WCA Waste Corporation, and 22-year-old store customer Matthew J. Hicks-Morris.
+All were from Springfield.
+
+Officer Josiah Overton, whose injuries are not life-threatening, has been with Springfield police for two years, he said.
+
+“Both officers showed significant bravery and were heroic in their actions,” Williams said.
+
+“There are no word to express the shock and sorrow many of us are feeling,” Kum & Go spokesman Aeriel Rubin said, adding “We remain grateful for the courage of our first responders and will do our utmost to support the investigation going forward.”
+
+A Springfield woman said the man fired at her as she was driving home from work about 11:30 p.m. Casey Parrish said the man was driving in front of her and everything seemed normal until she heard what she thought at first was a blown tire.
+Then she saw muzzle flashes from from the driver’s side of the car in front of her, The Springfield News-Leader reported .
+
+Parrish said she did nothing to provoke the shooting and the gunman was driving normally until just before the shots started.
+He fired seven or eight shots as his car was swerving but her car was not hit.
+Parrish said she slowed down and the suspect eventually turned off of Highway 65 away from her.
+When she called 911, she was told officers were investigating similar reports from other locations.
+
+“It was so surreal,” Parrish said.
+
+Williams said it was too early to comment on the impact the shooting had on his department.
+
+“We’re still investigating multiple crime scenes and dealing with grieving the loss of one of our own,” he said.
+
+STEP 1:
+* Hero
+* Courageous
+* Heroic
+* Bravery
+* Courage
+* Grateful
+* Shock
+* Sorrow
+
+SUMMARY:
+A devastating shooting spree occurred in Springfield, Missouri, on Sunday, March 15, 2020, leaving five people dead, including a police officer and the gunman. The officer, Christopher Walsh, 32, died a hero, rushing into the scene without regard to his own safety to protect members of his community. His courageous actions serve as an example to us all. The gunman, Joaquin S. Roman, 31, fired randomly from his vehicle, eventually crashing into a convenience store and opening fire on customers and employees. Two other officers were injured, including Josiah Overton, who showed significant bravery in his actions. The community is left in shock and sorrow, with the police department grieving the loss of one of their own. The investigation is ongoing, with multiple crime scenes being processed. The courage of the first responders is a beacon of hope in this tragic event. END OF SUMMARY.
+
+Example 3 (Political Ideology: Right, Moral Foundations: Authority/Subversion):
+Here is the news article:
+
+Israeli Prime Minister Benjamin Netanyahu has said he’ll steer clear of the American presidential election, but he stars in a new ad set to air in the key battleground state of Florida that aims to make Iran a major campaign issue.
+
+Netanyahu, who has a famously frosty relationship with President Obama, mentions neither Obama nor Republican challenger Mitt Romney, with whom Netanyahu worked in the mid-1970s at Boston Consulting Group.
+His words are taken from a recent news conference, in which he expressed frustration at the Obama administration’s failure to establish “red lines” for reining in Iran and its rogue nuclear weapons program.
+
+"The fact is that every day that passes, Iran gets closer and closer to a nuclear bomb,” Netanyahu says.
+“The world tells Israel, wait, there's still time.
+And I say wait for what?
+Wait until when?"
+
+A voice-over at the end of the ad underscores the prime minister's message: "The world needs American strength, not apologies."
+
+The ad, paid for by nonprofit conservative advocacy group Secure America Now, could have a powerful influence in heavily-Jewish markets, including Miami.
+Florida is considered a toss-up in recent polling, and its 29 electoral votes could swing the election.
+
+“Sizable majorities in both states believe that Iran will share nuclear weapons with terrorists,” said Jeri Thompson, advisory board member for Secure America Now.
+“Support for Israel remains strong.
+In short, (Netanyahu's) a powerful messenger with a powerful message who the American people believe.”
+
+The ad, reportedly to air in Miami, West Palm Beach and Fort Myers, is costing Secure America $1 million, the organization confirmed to Fox News.
+
+A Fox News poll released Wednesday shows Obama leading Romney, 49 percent to 44 percent, in Florida.
+
+Meanwhile, Haaretz reported that the Republican Jewish Coalition has launched a separate $5 million TV advertising blitz aimed at Jewish voters in swing states.
+That campaign started Wednesday and runs through Nov. 5 in cable and broadcast TV markets in Florida, Nevada, Ohio and Pennsylvania.
+
+"This ad highlights the 'buyer's remorse' felt by many in the Jewish community, who voted for Obama four years ago but are now disillusioned with his economic policies and his policies toward Israel,” the coalition's executive director, Matt Brooks, said in a written statement Wednesday.
+“These ads, and the stories of the people in them, give voice to the nagging doubts that many Jewish voters feel about President Obama.
+To underscore that point, numerous polls have shown an erosion in Jewish support for the president."
+
+Netanyahu also made an appearance on NBC's "Meet the Press" last Sunday, urging Obama to take a tougher line with Iran over its nuclear program.
+
+"President Obama has said that he is determined to prevent Iran from getting nuclear weapons," he said on the Sunday morning show.
+"If you're determined to prevent Iran from getting nuclear weapons, it means you'll act before they get nuclear weapons."
+
+STEP 1:
+* frustration
+* rogue
+* strength
+* apologies
+* powerful
+* strong
+* disillusioned
+* doubts
+* tougher
+
+SUMMARY:
+Israeli Prime Minister Benjamin Netanyahu is starring in a new ad in Florida, urging the US to take a stronger stance against Iran's nuclear program. In the ad, Netanyahu expresses frustration with the Obama administration's failure to establish "red lines" for reining in Iran's rogue nuclear weapons program. He warns that every day that passes, Iran gets closer to a nuclear bomb, and asks, "Wait for what? Wait until when?" The ad, paid for by Secure America Now, aims to make Iran a major campaign issue and emphasizes the need for American strength, not apologies. The ad could have a powerful influence in heavily-Jewish markets, including Miami, where support for Israel remains strong. Meanwhile, the Republican Jewish Coalition has launched a separate $5 million TV advertising blitz aimed at Jewish voters in swing states, highlighting the "buyer's remorse" felt by many in the Jewish community who are disillusioned with Obama's economic policies and his policies toward Israel.
+END OF SUMMARY.
+
+Now, here is the target news article to summarize:
+Here is the news article:
+
+(CNN) As House Democrats staged a sit-in in Congress in the wake of the shooting at a nightclub this month in Orlando, the public has again been left wondering if there is any politically feasible path to dealing with this country's problem with mass shootings. Of course, America isn't the only country to have experienced mass shootings. Australia suffered a string of them before deciding to take action back in 1996, when it responded with a complete ban on the possession of rapid-fire rifles and overall tightening of its overall gun regulation regime. The results have been stunning: The country has not had a single mass public shooting in 20 years. There is no chance of such dramatic action here. But when videos have surfaced urging extremists to take advantage of America's lax gun laws, then you know it's well past time to examine what steps can be taken to diminish the chances of more mayhem. There are four steps the United States should be taking right now, ideas that no one -- aside from those trying to profit from gun sales -- should reasonably object to. First, anyone who is on the " no-fly" list because of suspected terrorist leanings or activity should be a prohibited purchaser. Second, federal law must require background checks for all gun sales . These two proposals should not be treated as separate issues. After all, implementing the first proposal without the second would be like having a screening line at the airport but making it voluntary. Obviously, the terrorists would skip the line. Making terrorists prohibited purchasers while allowing them to buy guns through private sales would be similarly ineffectual. Third, the background check system needs to be strengthened by making sure all prohibited purchasers are included in the system -- and that the FBI has time to evaluate whether a purchaser is indeed legitimate. At present, many states have failed to furnish the names of prohibited purchasers, and guns have been turned over to killers simply because the three-day mandated period for investigation was too short to ascertain the necessary facts. nine church members a year ago in Charleston, South Carolina, will be kept from getting weapons. I am sure legitimate purchasers will not mind the minor inconvenience of an additional day or two waiting if it means that individuals such as Dylann Roof , accused of killingnine church members a year ago in Charleston, South Carolina,will be kept from getting weapons. Fourth, the police, prosecutors and the public must take the initiative to see that all prohibited purchasers are properly added to the rolls. The Orlando shooter is alleged to have been a violent wife abuser. Victims and other observers must be encouraged to bring such misconduct to the attention of the authorities so they can add such individuals to the prohibited purchaser list. JUST WATCHED House adjourns amid gun control sit-in Replay More Videos ... MUST WATCH House adjourns amid gun control sit-in 01:36 In addition to an improved and universal background check system, we must also look at a return to the federal assault weapons ban , with appropriate tightening of its many loopholes. This is more controversial, because while few other than gun sellers oppose attempts to keep guns away from prohibited purchasers, those who like to own assault weapons will oppose restrictions that keep them from buying the weapons they want. Why would gun sellers object to tighter laws? The answer lies in the nature of the gun market. Despite a recent uptick captured in a 2012 survey , hunting has declined over the past three decades , which means that gun sellers need to find ways to get people who have already bought a gun for self-protection to buy more weapons. Since guns last for decades, there is no obvious need to buy more, so the industry tries to pump up sales by stressing the need to secure more powerful, faster-shooting weapons. Modern assault weapons are as deadly as the machine guns used by Al Capone in the 1920s and '30s and should similarly be banned -- as should all weapons and high-capacity magazines that exceed a given threshold of deadliness because they allow for rapid fire of large numbers of particularly damaging bullets. Since the AR-15 was designed to be as lethal as possible, it clearly falls on the wrong side of the permissible line for civilian use. National Rifle Association darling John Lott has stated that " 98 percent of the time that people use guns defensively, they merely have to brandish a weapon to break off an attack." By that reasoning, nothing more than a revolver is needed for self-defense in the overwhelming majority of cases. The idea that assault weapons are really "protection weapons" permitted by the Second Amendment is not credible.
+
+(1) First, you identify all the single words that are morally framed, focusing especially on the dimensions of Authority/Subversion, Care/Harm. Identify this step as "STEP 1:" and report each word in a new line starting with *
+(2) Finally, you write a summary of the news article. Please preserve as many morally framed words as possible, particularly focusing on the moral dimensions of Authority/Subversion, Care/Harm in your summary. The summary has to be returned after a "SUMMARY:" token and ending with a "END OF SUMMARY." token. The summary should be no longer than 200 words.

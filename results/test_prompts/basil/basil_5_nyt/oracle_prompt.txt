@@ -1,0 +1,18 @@
+You have to summarize the following text preserving the moral framing that the author gave to it.
+
+Here is the news article:
+
+One of the nation’s largest and oldest civil rights groups passed a resolution Tuesday calling for Tea Party groups to weed “racist elements” out of their ranks. Delegates at the annual convention of the National Association for the Advancement of Colored People approved the measure Tuesday in Kansas City. Benjamin Todd Jealous, the president of the N.A.A.C.P., said the resolution was not an attempt to label the entire Tea Party movement as racist. But he said the groups needed to do more to distance themselves from known hate groups that actively encourage their members to join the Tea Party. “To this point, we have avoided calling them out and demanding them to be responsible,” Mr. Jealous said. “Now we’re saying that with increased public attention, increased power, comes the responsibility to act responsibly.” He added: “Knowing that the consequence of silence is violence in these times, we’re saying stand up and say enough is enough. They need to make clear that there is no place for the bigots in the Tea Party movement.” The resolution did not go over well with Tea Party groups and their supporters. Sarah Palin, the 2008 Republican vice presidential nominee, weighed in to defend the Tea Party movement on Monday when the resolution was proposed. On Fox News’ “Hannity,” she called on the Obamas to rebuke the N.A.A.C.P. and “set the record the straight.” The St. Louis Tea Party Coalition issued its own resolution against the N.A.A.C.P., accusing the civil rights body of acting as a “partisan political attack dog” and calling on the Internal Revenue Service to review the group’s tax-exempt status. The Tea Party movement has been beset with allegations of racism since black members of Congress preparing to vote on health care legislation accused protesters of hurling racial epithets, and in one instance, spitting on a congressman. Tea Party groups say there is no racism within the movement.
+
+The author used the following morally framed words in the article:
+* responsibly
+* violence
+* stand
+* clear
+* acting
+* review
+* racism
+* hurling
+* spitting
+
+Please preserve as many morally framed words as possible in your summary. The summary has to be returned after a "SUMMARY:" token and ending with a "END OF SUMMARY." token. The summary should be no longer than 200 words.

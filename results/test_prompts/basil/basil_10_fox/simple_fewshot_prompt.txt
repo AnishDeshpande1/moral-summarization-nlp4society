@@ -1,0 +1,171 @@
+You have to summarize the following text preserving the moral framing that the author gave to it.
+
+Please study the following examples of news articles and their summaries preserving the moral framing:
+
+Example 1 (Political Ideology: Left):
+Here is the news article:
+
+The “compromise” immigration bill released Thursday night by Republicans in the House of Representatives is set to come to the House floor next week, alongside a more conservative alternative.
+It’s a sweeping plan that covers everything from border security (including a promise of $25 billion for Trump’s border wall); to a way for immigrants who are facing the loss of their protections under the Deferred Action for Childhood Arrivals (DACA) program to apply for legal status and ultimately (possibly) green cards and citizenship; to cuts to legal family-based immigration that are partially offset by expanding permanent employer-based immigration.
+
+But House Speaker Paul Ryan and others are emphasizing a different aspect of the bill.
+They claim it would prevent the Trump administration from separating children from their parents at the US-Mexico border — a practice the administration made widespread in early May and that has resulted in the separation of hundreds of families a week.
+
+They’re lying.
+
+The Republican bill doesn’t outlaw family separation.
+It doesn’t stop the Trump administration from choosing to prosecute asylum seekers who enter the US between ports of entry (official border crossings) for illegal entry, which results in parents being sent into criminal custody without their children.
+And it doesn’t even force the government not to separate parents who do present themselves legally for asylum from their children — something that has also been happening, though isn’t as widespread.
+
+What the House bill does is get rid of the extra legal protections that children and families have in immigration detention: a requirement that children be kept in the “least restrictive” conditions possible, and that they not be detained any longer than necessary.
+This means that if the family is kept together, their parents must be released with them.
+The Trump administration calls those protections “loopholes,” and blames them for “forcing” the administration to keep asylum-seekers in custody by separating families.
+
+If the House bill passed, the Trump administration probably would stop separating families.
+Instead, it would be able to keep children and parents in ICE detention until their cases were resolved — that is, they could be in held in detention indefinitely.
+
+The House bill allows kids and families to be detained by ICE indefinitely — which is what Trump has wanted all along
+
+The Republican summary of the new bill (as reported by Leigh Ann Caldwell of NBC) claims that it ends family separation: “Accompanied alien minors apprehended at the border must not be separated from their parent or legal guardian while in DHS custody.”
+
+There is no language like that in the bill.
+
+What exists, however, in a section called “Clarification of Standards for Family Detention,” is a provision allowing ICE to detain immigrant children who come to the US with their parents or guardians in the same way it would detain adults:
+
+There exists no presumption that an alien child who is not an unaccompanied alien child should not be detained, and all such determinations shall be in the discretion of the Secretary of Homeland Security.
+
+That sentence would overrule a court agreement that’s been in place for the past 20 years, called the Flores agreement, that puts strict limitations on when the government can keep children in immigration detention.
+The Flores agreement requires that kids be released “without unnecessary delay,” and that they are kept in the meantime in the “least restrictive” conditions possible.
+
+Courts have interpreted that agreement to mean that ICE can’t detain families for more than 20 days in most cases.
+
+The Flores agreement doesn’t require the government to separate families.
+It just requires the government not to indefinitely detain children.
+But the Trump administration has decided to maximize the detention of asylum seekers, including parents, to prevent people from disappearing into the US as unauthorized immigrants after they’re released.
+(This is the so-called “catch and release” policy Trump has railed against.)
+
+Rather than release parents with their children, therefore, the administration is separating families so the parents can be detained while the children (sent to the custody of HHS as “unaccompanied alien children”) are ultimately placed with sponsors.
+
+The House bill allows the administration to keep families in immigration detention indefinitely.
+It doesn’t even specify that there are any additional conditions on how children can be detained — there’s nothing preventing the Trump administration from simply putting children in existing ICE detention centers for adults, rather than expanding detention centers designed for families.
+
+Nothing in the bill requires ICE to keep parents and children together in detention.
+In fact, the mechanism that the Trump administration has generally been using to separate families — referring parents into the custody of the Department of Justice for prosecution — isn’t even addressed in the bill.
+
+The only reason the House bill could possibly end the separation of families would be if the Trump administration decided that because they now didn’t have to release children from detention, they would stop prosecuting parents, and they would make an effort to keep families together in ICE detention.
+
+But even then, that just means that children would be held in facilities that are essentially jails with their parents for months, or even years, until they ultimately received legal status — or, more likely, until they were finally deported.
+
+SUMMARY:
+
+The House Republicans' "compromise" immigration bill claims to prevent family separation at the US-Mexico border, but it's a lie. The bill doesn't outlaw family separation, and it doesn't stop the Trump administration from prosecuting asylum seekers who enter the US between ports of entry. Instead, it gets rid of legal protections for children and families in immigration detention, allowing ICE to detain them indefinitely. The bill would enable the Trump administration to keep children and parents in detention until their cases are resolved, which could take months or even years. This is a morally reprehensible move, as it would essentially jail families, including children, for an indefinite period. The bill's proponents are using deceptive language to make it seem like it's ending family separation, when in reality, it's just replacing one inhumane practice with another.
+
+END OF SUMMARY.
+
+Example 2 (Political Ideology: Center):
+Here is the news article:
+
+Setting the tone for the 112th Congress — in which every House bill must cite the constitutional source of its authority — members of the House of Representatives began to read the United States Constitution aloud from the chamber’s floor on Thursday morning.
+
+Like the Constitutional Convention itself, things did not begin auspiciously.
+
+Before the reading began, Jay Inslee, Democrat of Washington, asked Republicans to illuminate exactly what part of the Constitution would be read, what parts would be deleted and who would decide how things would unfold.
+
+It was decided in advance that any portion of the Constitution that was superseded by amendments — including the amendments themselves — would not be read, preventing lawmakers from having to make references to slaves, referred to in Article 1, Section 2 as “three fifths of all other persons,” or to things like prohibition.
+
+These inquiries about parliamentary procedure were not well received, and for several minutes, before a word of the preamble could be uttered, Democrats and Republicans battled back and forth over the issue of language, perhaps presaging future partisan battles over the meaning, purpose and application of the document.
+
+Once that was settled, just after 11 a.m., Representative John A. Boehner, the newly installed speaker of the House, read the preamble (that magical “We the people”), before yielding to the woman who handed him the gavel on Wednesday, Representative Nancy Pelosi, who picked up with Article 1, Section 1 (“All legislative powers herein granted shall be vested in a Congress of the United States, which shall consist of a Senate and House of Representatives”), followed by Representative Eric Cantor, the House majority leader, and other House leaders.
+
+From there, members who wished to read were recognized from their seats, beginning with Representative Steve Rothman, Democrat of New Jersey.
+And so, sentence by sentence, in accents that reflect the myriad districts that did not even exist when the document came into being, by women and African Americans whose full rights were not recognized at that time, the constitutional language fluttered through the chamber.
+
+At one point, there was yelling in the chamber, and the sergeant-at-arms was called to remove a protester.
+
+The reading of the document on the floor of the House, an act that is part of the new rules package, serves several purposes, said Representative Robert W. Goodlatte, Republican of Virginia, who came up with the idea for the live reading.
+Largely, it was meant to instruct members, who now must use it to underlie their bills, and to inform voters.
+
+“Throughout the last year there has been a great debate about the expansion of the federal government, and lots of my constituents have said that Congress has gone beyond its powers granted in the Constitution,” said Mr. Goodlatte, a senior member of the House Judiciary Committee, which has jurisdiction over constitutional amendments.
+He added: “I think it is important that we send a message to people at home that the constitution is an important document.”
+
+But it was also clearly meant as a nod to the Tea Party, a loosely organized political movement whose members cite the Constitution as the basis for much of their political theory concerning federal powers and the rights and responsibilities of Congress.
+To wit, the document reading happened on the same day that House Republicans began the contentious process of repealing the health care law, which they have long said lacks constitutional basis.
+
+The order of reading was ironed out at the last minute, with the goal of letting all who wished to read do so, but making sure there was party parity, Mr. Goodlatte said.
+“We have spread the word to everyone, and there was a lot of interest,” he said.
+
+According to the Office of the Historian of the House of Representatives, the only two prior instances in which a full or partial text of the Constitution was inserted into the Congressional Record was in 1882, when Roswell Flower of New York “appended” a text of the Constitution — minus the amendments — into the record, and in 1915, when Thomas Reilly of Connecticut inserted the full text of the Constitution into the Congressional Record as an extension of his remarks.
+But the office could not find any examples of the full text of the Constitution actually being read out loud on the House Floor.
+
+SUMMARY:
+
+In a symbolic gesture, the House of Representatives began the 112th Congress by reading the United States Constitution aloud from the chamber's floor. However, the event was marred by partisan bickering over the procedure, with Democrats questioning which parts of the Constitution would be read and who would decide. The reading ultimately proceeded, with Republicans and Democrats taking turns reciting the document's sentences. The event was meant to instruct members on the Constitution's importance and to inform voters, but it was also seen as a nod to the Tea Party movement, which emphasizes the document's role in limiting federal powers. The reading took place on the same day that House Republicans began the process of repealing the health care law, which they claim lacks constitutional basis. The event marks a rare instance of the Constitution being read aloud on the House Floor, with only two prior instances of the document being inserted into the Congressional Record.
+
+END OF SUMMARY.
+
+Example 3 (Political Ideology: Right):
+Here is the news article:
+
+House Judiciary Committee Chairman Jerrold L. Nadler on Monday put a fine point on Democrats’ impeachment case against President Trump, arguing that the president put himself before the country.
+
+“We surely agree that no public official, including and especially the president of the United States, should use his public office for private gain,” he said at the opening of an evidentiary hearing before his committee.
+
+Based on the evidence presented, the committee will proceed to write articles of impeachment against Mr. Trump.
+
+Mr. Nadler, New York Democrat, called the process a “solemn and serious undertaking” that Congress must engage in to address serious threats to America’s institutions, such as “free and fair elections.”
+
+He said both sides should be able to agree on the fact of the case if Republicans would remove “their blinders.”
+
+“We agree that no president should put himself before the country,” Mr. Nadler said.
+“The Constitution and his oath of office, his promise to American citizens, require the country’s president to put the country first.”
+
+Mr. Trump has denied wrongdoing and denounced the House impeachment drive as a partisan “sham.”
+
+The articles of impeachment are expected to include charges of abuse of power, bribery and obstructing the congressional probe, all of which stem from Mr. Trump asking Ukraine to investigate political rival Joseph R. Biden and his son Hunter.
+
+Republicans argue that Mr. Trump’s action, though unconventional, did not cross the line into criminality.
+They’ve also vouched for the legitimacy of investigating Hunter Biden, who landed a $50,000-a-month job on a Ukraine natural gas company, while his father was the point man for Obama White House policy in that graft-riddled country.
+
+The impeachment case stems from a July 25 phone call in which Mr. Trump pressed Ukraine President Volodymyr Zelensky for a “favor” in investigating the Bidens and Ukraine meddling in the 2016 election.
+
+A whistleblower, who is believed to be a CIA official assigned to the White House, accused the president of abusing his power for personal gain on the call, including withholding $391 million of U.S. military aid from Ukraine as leverage.
+
+A rough transcript of the call the White House released in late September did not show the president present a quid pro quo deal for the investigations, but Democrats have argued the threat was understood and part of an ongoing pressure campaign of “shadow” foreign policy conducted by Mr. Trump’s private lawyer, former New York Mayor Rudolph W. Giuliani.
+
+The quid pro quo, a Latin term meaning a transaction of “this for that,” is the crux of the Democrats’ case that Mr. Trump engaged in a bribery or extortion scheme that warrants impeachment.
+
+The Judiciary Committee is reviewing evidence gathered by an inquiry led by the Permanent Select Committee on Intelligence.
+Much of the evidence was presented in two weeks of public hearings last month.
+
+The most powerful testimony yet in the inquiry came from Gordon Sondland, the ambassador to the European Union, who said he offered a quid pro quo of a prized White House visit for the newly-elected Mr. Zelensky for the investigations.
+But Mr. Sondland said he “presumed” that was what Mr. Trump wanted.
+
+In his only conversation with the president about it, Mr. Trump told him that there was “no quid pro quo,” Mr. Sondland testified.
+
+None of the witnesses in the impeachment inquiry linked the holdup of military assistance to the investigations or provided a reason for the holdup.
+The aid was delayed for about two months, before the money started to flow to Ukraine on Sept. 11, two days after the Inspector General of the Intelligence Community informed Congress of the whistleblower complaint.
+
+Mr. Trump has acknowledged that he wanted an investigation into alleged corruption involving Mr. Biden and his son Hunter, who landed a high-paying job on the board of Ukraine natural gas company Burisma Holdings in 2014.
+At the time, his father was the point man for Obama White House policy in the country, which is notorious for corruption, especially in the energy industry.
+
+The elder Mr. Biden recently boasted of forcing Ukraine leaders to fire the country’s chief prosecutor in spring 2016 by threatening to block a $1 billion U.S. loan guarantee.
+The prosecutor was widely viewed as not doing enough to combat corruption.
+But the prosecutor, Viktor Shokin, also had looked into corruption allegations against Burisma and Mykola Zlochevsky, the Ukraine oligarch running the company.
+
+Mr. Trump also wanted Ukraine to look into a missing Democratic National Committee server that was hacked by Russia during the 2016 presidential campaigns.
+An American cybersecurity company called CrowdStrike examined the server to probe the hack but the server disappeared before it got to the FBI.
+
+Mr. Trump subscribes to an unsubstantiated theory that the server ended up in Ukraine.
+
+SUMMARY:
+
+House Judiciary Committee Chairman Jerrold Nadler argued that President Trump put himself before the country, using his public office for private gain. Nadler emphasized that the Constitution and Trump's oath of office require the president to put the country first. The impeachment case against Trump stems from his July 25 phone call with Ukraine President Volodymyr Zelensky, where he asked for an investigation into political rival Joseph R. Biden and his son Hunter. Democrats argue that Trump's actions constitute abuse of power, bribery, and obstructing the congressional probe. Republicans claim that Trump's actions, though unconventional, did not cross the line into criminality. Nadler called the impeachment process a "solemn and serious undertaking" to address threats to America's institutions, such as "free and fair elections." The committee will proceed to write articles of impeachment against Trump.
+
+END OF SUMMARY.
+
+Now, here is the target news article to summarize:
+Here is the news article:
+
+Even for a Congress known to battle over every little detail, reading the U.S. Constitution aloud sounded like a simple exercise. Turned out it wasn't. Newly sworn members of the House reading aloud the country's founding document on Thursday didn't recite every verse and article of the document because Republicans decided that the obsolete parts can be skipped since they've been superseded by amendment. For instance, lawmakers did not read the 18th Amendment, which imposed prohibition on liquor in 1919. However, they did read the 21st Amendment, which repealed prohibition in 1933 and is still in force. Republicans also left out the part about counting slaves and Native Americans as three-fifths of a person. Portions of the U.S. Constitution are never deleted, just amended, as has been done 27 times in history. But all the original decisions remain in the Constitution, including in the copies authorized by Congress' Joint Committee on Printing and used in Thursday's reading. And that was the point of contention for Democratic lawmakers who complained that exempting parts of the document from the reading undermines the objective of the exercise. "This is very emotional for me," Rep. Jesse Jackson Jr., D-Ill., said on the floor before the reading began. "Given the struggle of African Americans, given the struggle of women, given the struggle of others to create a more perfect document, to hear that those elements of the Constitution that have been dedacted (sic) by amendment are no less serious, no less part of our ongoing struggle to improve the country and our desire to continue to improve the Constitution, many of us don't want that to be lost upon the reading of our sacred document," he said. Rep. Jay Inslee, D-Wash., commented that the original document has been changed through amendment, leaving the the reader to interpret the operative language. "I think it would be helpful to the members if you would explain to us how the determinations of what to read has been made or not made so that we all be on the same page as to congressional intent," he said to Rep. Bob Goodlatte, R-Va., who presided over the reading. Rep. Elijah Cummings, D-Md., questioned the reading of the "amended" Constitution. "To not read the full document, including all the text that was later amended, is to fail to acknowledge the struggle our nation has constantly fought, within and without, to 'keep' our Republic," he said in a written statement. "It is a failure to show Americans that while we seek a more perfect union, we do so from imperfect beginnings, through an imperfect history, with an imperfect government created by an imperfect document," he added. "We fail to show the American people that imperfection is not to be feared and that our ability to constantly improve on what the Founders gave us is a blessing, not a reason for divisiveness." Other lawmakers decried the exercise altogether, saying the Constitution is a living document that shouldn't be followed to the letter. "They are reading it like a sacred text," Rep. Jerrold Nadler, D-N.Y., the former chairman of the House Judiciary subcommittee on the Constitution, Civil Rights and Civil Liberties, told The Washington Post. Nadler derided what he called the "ritualistic reading" as "total nonsense" and "propaganda" intended to give Republicans claim to the document. He argued that the Founders were not "demigods" and that the document's needs for amendments to abolish slavery and other injustices showed it was "highly imperfect." "You are not supposed to worship your Constitution," he told the newspaper. "You are supposed to govern your government by it." But for all those who described the exercise as political waste -- including Vanity Fair magazine, which estimated it as costing more than $1 million -- supporters noted that it was an historic moment -- the first time the U.S. Constitution had been read on the U.S. House floor. "I think that this is a very symbolic showing to the American people and reminder to the members of congress that we are a government of laws not of men and that this Constitution is the foundation for all of our laws," Goodlatte said. And backers said that it wouldn't hurt to try to live by the aspirations of the Founding Fathers. "I don't think the Constitution is propaganda. I think it's a valuable exercise and an important moment in this Congress for us to read the Constitution," said Rep. Steve Israel, D-N.Y. "But I do think that you can't just read it like a speech and then leave skid marks on it in your legislative record." Historian Alan Brinkley of Columbia University told Fox News the reading may be "a bit of theater," but it is "not insignificant given that many Republicans have decided -- implausibly, in my opinion -- that the Constitution is the vehicle that can reduce the size of government." But Roger Pilon of the Cato Institute said Congress needs to re-read the Constitution to be reminded how out of control government has become. "Today the Congress regulates our lives and redistributes our wealth in ways that would shock the Founders," he said. "The Constitution, they wrote that to ensure limited government and they meant for most of us to live our lives free from government, in the private sector, planning and living our own lives, not as dependents on government goods and services." Pilon added that the Founders never intended for the Constitution to be viewed as fluid advice. "When liberals tell today that the Constitution is essentially a blank slate to be filled by transient majorities, nothing could be further from the truth. If that were so, it would never have been ratified in the first place," he said. As the Constitution was being read inside the lower chamber, Nadler and others gathered outside the Capitol to push for passage of the Equal Rights Amendment, a perennial effort to update the document with a statement on women. "John Boehner and his cronies are holding up the U.S. Constitution as a sacred, perfect document. But we know the Constitution is far from perfect because it does not guarantee women's equality," NOW President Terry O'Neill said in a statement.
+
+The summary has to be returned after a "SUMMARY:" token and ending with a "END OF SUMMARY." token. The summary should be no longer than 200 words.

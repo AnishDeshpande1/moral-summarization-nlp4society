@@ -1,0 +1,151 @@
+You have to summarize the following text preserving the moral framing that the author gave to it.
+
+Please study the following examples of news articles, their moral word extraction, and summaries preserving the moral framing:
+
+Example 1 (Political Ideology: Left):
+Here is the news article:
+
+WASHINGTON ― President Donald Trump’s offer to Democrats over the weekend seeking to trade temporary protections for some immigrants in exchange for funding for a wall on the U.S.-Mexico border received positive coverage from some outlets, including being called a “compromise” and a move by Trump “toward the center.”
+
+But the latest details in the proposal, which Senate Republicans unveiled Monday in a bill they plan to vote on this week, make the offer appear less of a compromise and more of a wish list for immigration hard-liners like White House adviser Stephen Miller.
+
+Trump is offering a three-year extension for the Obama-era Deferred Action for Childhood Arrivals program, which protects from deportation hundreds of thousands of immigrants brought to the U.S. as kids.
+The offer would also give a three-year extension to 300,000 people from El Salvador, Haiti, Nicaragua and Honduras who are living in the U.S. under the temporary protected status program.
+
+Democrats rejected the offer before Trump even announced it on Saturday, however, maintaining that it didn’t go nearly far enough and that the president ought to reopen the government before any negotiations over the border proceed.
+
+But the GOP bill incorporating his offer would also gut existing asylum laws for children and trafficking victims from Central America, ban asylum for minors who present themselves at ports of entry, gut the concept of temporary protected status for future cases and expand immigration detention ― all measures making it more likely to be dead on arrival in the Senate.
+
+“Given the poison pills stuffed into a proposal that was supposed to entice Democrats we can now say the Trump ‘offer’ isn’t about getting to a deal but about shifting blame.
+So obvious. So predictable. So pathetic,” Frank Sharry, the executive director of the immigration advocacy group America’s Voice, tweeted on Tuesday.
+
+The bill would ban asylum for Central American minors, including those who arrive at the border with their parents, unless the minors apply for asylum in their home country.
+It would also cap the number of Central American minors who are allowed to apply for asylum each year at 50,000 and limit the number of asylum applications that could be granted per year to 15,000.
+
+The administration has for months tried to reduce the number of people seeking asylum in the U.S. as part of a broader effort to stem the flow of Central American migrants crossing the border from Mexico.
+Trump’s administrative attempts to curtail the asylum process have faced legal challenges in two federal courts, however, prompting this week’s legislative fix.
+
+“This bill includes the most extreme changes on asylum that I’ve ever seen,” Kerri Talbot, the director of federal advocacy at the group Immigration Hub, said on a press call on Tuesday.
+
+Under the GOP bill, minors who apply for asylum would face much stiffer consequences for filing an application found to be frivolous ― including permanent ineligibility for future protections.
+
+The bill’s changes to asylum law alarmed immigration activists online, as well some on the right, including attorney and conservative writer Gabriel Malor.
+
+Trump’s efforts to win over Democratic support on the bill ― which will require at least 60 votes to pass in the Senate ― hit even more trouble on Tuesday after the Supreme Court once again did not act on the administration’s effort to end DACA.
+The move essentially left protections for Dreamers in place for at least the next several months ― giving Democrats less incentive to agree to Trump’s offer of protections to DACA recipients.
+
+STEP 1:
+* pathetic
+* obvious
+* predictable
+
+SUMMARY:
+President Trump's latest offer to Democrats on immigration reform has been exposed as a "wish list for immigration hard-liners" rather than a genuine compromise. The proposal, which includes a three-year extension for DACA recipients and temporary protected status holders, is tainted by "poison pills" that would gut existing asylum laws, ban asylum for Central American minors, and expand immigration detention. Critics have denounced the bill as "dead on arrival" in the Senate, with one advocate calling it "the most extreme changes on asylum that I've ever seen." The proposal's true intention seems to be "shifting blame" rather than finding a genuine solution. The move is particularly "pathetic" given the Supreme Court's decision to leave DACA protections in place, giving Democrats little incentive to agree to Trump's offer. END OF SUMMARY.
+
+Example 2 (Political Ideology: Center):
+Here is the news article:
+
+From his home at Mar-a-Lago, Donald J. Trump stirred up new controversy this week in the Republican presidential primary — and new alarm among party leaders that the front-runner for the nomination will drive away women from candidates running farther down the ballot in the fall.
+
+All week, Mr. Trump has slowly escalated a war of words on Twitter against Senator Ted Cruz of Texas, his main competition in the Republican race, based on an ad by a “super PAC” started by people who want to stop the New York developer from getting the nomination.
+The spot featured an old nude photo shoot of Mr. Trump’s wife Melania Trump, a former model, posing on his jet.
+
+Mr. Cruz has no affiliation with the super PAC, and he has denounced the ad.
+But Mr. Trump has continued to express disbelief.
+After threatening to “spill the beans” on Mr. Cruz’s wife, Heidi Cruz, who suffered a bout of depression years ago, he retweeted a post from someone who made a side-by-side photo comparison of Mrs. Cruz at an unflattering angle, and Mrs. Trump.
+
+On Wednesday, Mr. Cruz repeatedly quoted from the movie “The American President” to defend his wife, as she held an event and faced questions about Mr. Trump’s threats.
+But that was before Mr. Trump’s Twitter post with the pictures of the two women.
+And Mr. Cruz had finally had enough.
+
+Calling Mr. Trump a “sniveling coward,” Mr. Cruz told his rival to “leave Heidi the hell alone.”
+
+It’s useful to remember the news media outrage in 2012 when Todd Akin, running as the Republican nominee for Senate in Missouri, defended what he called “legitimate rape,” a remark that was overwhelmingly offensive to women.
+Under pressure from news outlets, the Republican Party tried to cauterize the wound that Mr. Akin had created by isolating him.
+
+Spouses are generally seen as off limits.
+And the responses to Mr. Trump’s comments among news media critics, over time, have been far more subdued.
+
+STEP 1:
+* controversy
+* alarm
+* war
+* disbelief
+* threatening
+* unflattering
+* defend
+* sniveling
+* coward
+* offensive
+* isolating
+* subdued
+
+SUMMARY:
+Donald Trump, the front-runner for the Republican presidential nomination, has sparked controversy and alarm among party leaders with his recent Twitter attacks on Senator Ted Cruz's wife, Heidi Cruz. Trump's threatening and sniveling behavior has been widely criticized, with many calling him a coward for targeting Mrs. Cruz. The attacks, which included a side-by-side photo comparison of Mrs. Cruz and Trump's wife Melania, have been deemed offensive and unflattering. Cruz has defended his wife, quoting from the movie "The American President" and telling Trump to "leave Heidi the hell alone." The incident has drawn comparisons to the 2012 controversy surrounding Todd Akin's comments on "legitimate rape," which were also widely condemned as offensive. END OF SUMMARY.
+
+Example 3 (Political Ideology: Right):
+Here is the news article:
+
+Former Mexican President Vincente Fox made it loud and clear that he won’t be chipping in for any part of Donald Trump’s proposed wall along the U.S.-Mexico border.
+
+"I’m not going to pay for that f***ing wall!” Fox told Jorge Ramos in an interview for Fusion.
+“He should pay for it. He’s got the money.”
+
+While Fox said that he believes that Americans will not elect the real estate tycoon to the White House, he is concerned about the results of the Nevada caucus, in which, according to entrance polls, Trump won 44 percent of the Hispanic vote.
+
+"I would like to know who those Hispanics are, because they are followers of a false prophet," Fox said.
+"He’s going to take them to the desert, and if they think that they will benefit with an administration led by Donald Trump, they’re wrong.
+They must open their eyes. Please, you Hispanics in the U.S. – open your eyes."
+
+Fox added, "It is not to defend our race, it is not to defend our creed, but to defend the same nation that is hosting you.
+This nation is going to fail if it falls into the hands of a crazy man."
+
+The former Mexican president, who led the country from 2000 to 2006, also questioned Trump’s allegiance to the Republican party, or, for that matter, any political party.
+
+"He’s not a Republican. Absolutely not,” Fox said.
+“Those are not Republican principles. He is not a Democrat. He is just himself. He is egocentric."
+
+The comments from Fox echo those of his successor, Felipe Calderón, who a week ago asserted that Mexico will not pay for a border wall.
+
+“Mexican people, we are not going to pay a single cent for such a stupid wall!
+And it's going to be completely useless,” Calderón told CNBC.
+
+For months, Trump has stood by his initial comments about building a border wall and getting Mexico to pay for it.
+The morning after Calderón made the comments, the GOP front-runner appeared on MSNBC's "Morning Joe."
+
+“I heard the head of Mexico said ‘no way,’ and I said, ‘Now the wall just got taller,” Trump said.
+
+Fox’s interview on Fusion comes about 6 months after Ramos had his own very public skirmish with Trump in which the Spanish-language news icon confronted the billionaire during a press conference in Iowa – prompting the candidate's security team to remove Ramos from the room.
+
+Ramos later returned and Trump took several of his questions.
+
+“He tried to silence me,” the Mexican-born journalist told Fox News’ Megyn Kelly in August.
+“And in this country, you cannot do that.
+I’m a citizen. I’m an immigrant. I’m a reporter.
+And I have the right in this country to ask any question I want, to whomever I want.”
+
+Ramos’ interview with Fox also occurred as U.S. Vice President Joe Biden paid a visit to Mexico for an economic summit.
+Biden made a thinly-veiled attack on Trump on Thursday, decrying the reality TV star’s "dangerous" rhetoric.
+
+"Some of the rhetoric coming from some presidential candidates of the other team are, I think, dangerous, damaging and incredibly ill-advised," Biden said, according to AFP.
+"I'm here to tell you: They do not, they do not, they do not represent the view of the vast majority of the American people.”
+
+STEP 1:
+* crazy
+* stupid
+* false
+* egocentric
+* dangerous
+* damaging
+* ill-advised
+
+SUMMARY:
+Former Mexican President Vicente Fox strongly opposes Donald Trump's proposed border wall, declaring "I'm not going to pay for that f***ing wall!" Fox believes Trump's plan is a "stupid" idea and that Americans will not elect him to the White House. However, he is concerned about Trump's popularity among Hispanic voters, calling them "followers of a false prophet" who need to "open their eyes." Fox also questioned Trump's allegiance to any political party, labeling him "egocentric." Meanwhile, U.S. Vice President Joe Biden made a thinly-veiled attack on Trump, decrying his "dangerous," "damaging," and "ill-advised" rhetoric. Biden emphasized that Trump's views do not represent the majority of American people. Fox's comments echo those of his successor, Felipe Calderón, who also refused to pay for the wall. END OF SUMMARY.
+
+Now, here is the target news article to summarize:
+Here is the news article:
+
+At almost all of his campaign rallies, Donald J. Trump leads a familiar refrain as he details his plan to build a giant wall along the border with Mexico. “Who’s gonna pay?” he asks. Without fail, Mr. Trump’s adoring fans reply, “Mexico!” While the Mexican government has said little about Mr. Trump’s plan to beef up border security, two of the country’s former presidents have a message for Mr. Trump: Mexico won’t pay. “I’m not going to pay,” Vicente Fox said, using a profanity to comment about the wall Thursday in an interview with Fusion. “He should pay for it. He’s got the money.” Mr. Fox, who was president of Mexico from 2000 to 2006, was clear in his opposition to Mr. Trump, calling him “egocentric” and lacking in any political values. Mr. Fox also expressed disbelief that Mr. Trump did well with Hispanic voters in the Nevada caucuses on Tuesday and called on them to open their eyes. “I’d like to know who those Hispanics are,” Mr. Fox said. “They are followers of a false prophet.” Mr. Fox’s successor, Felipe Calderón, expressed similar concerns about the wall this month. “Mexican people, we are not going to pay any single cent for such a stupid wall!” Mr. Calderón told CNBC. “And it’s going to be completely useless.” Mr. Calderón, who was president from 2006 until 2012, went on to argue that Mr. Trump was misinformed about the flow of immigrants from Mexico to the United States and that closing the border would harm America’s economy. For his part, Mr. Trump has insisted that as president he would have the leverage to compel Mexico to pay for the wall, which he estimates would cost about $8 billion. On Thursday, however, he appeared to be more angered by Mr. Fox’s tone. Mr. Trump, who has been criticized for lacing his campaign speeches with profanity, called on Mr. Fox to apologize for using foul language when talking about the wall.
+
+(1) First, you identify all the single words that are morally framed. Identify this step as "STEP 1:" and report each word in a new line starting with *
+(2) Finally, you write a summary of the news article. Please preserve as many morally framed words as possible in your summary. The summary has to be returned after a "SUMMARY:" token and ending with a "END OF SUMMARY." token. The summary should be no longer than 200 words.

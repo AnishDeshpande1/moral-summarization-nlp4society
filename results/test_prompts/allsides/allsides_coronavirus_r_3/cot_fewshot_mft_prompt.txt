@@ -1,0 +1,193 @@
+You have to summarize the following text preserving the moral framing that the author gave to it, with particular focus on the specific moral foundations highlighted in the text.
+
+Please study the following examples of news articles, their moral word extraction, and summaries preserving the moral framing:
+
+Example 1 (Political Ideology: Left, Moral Foundations: Authority/Subversion, Sanctity/Degradation):
+Here is the news article:
+
+Republican presidential candidate Rick Perry pledges to end "[President Barack] Obama's war on religion" in a new television ad airing in Iowa, railing against open service of gays and lesbians in the military and the prohibition against prayer in public schools.
+
+"I'm not ashamed to admit I'm a Christian," says Perry.
+"But you don't need to be in the pews every Sunday to know that there's something wrong in this country when gays can serve openly in the military but our kids can't openly celebrate Christmas or pray in school."
+
+"As president, I'll end Obama's war on religion and I'll fight against liberal attacks on our religious heritage," the Texas governor continues.
+"Faith made America strong. It can make her strong again."
+
+Perry has recently stepped up his attacks on Obama for cultural issues.
+In a statement released Tuesday, he decried the Obama administration’s decision to use foreign aid to promote rights for gays and lesbians abroad.
+
+"This is just the most recent example of an administration at war with people of faith in this country," he said.
+"Investing tax dollars promoting a lifestyle many Americas of faith find so deeply objectionable is wrong.
+President Obama has again mistaken America's tolerance for different lifestyles with an endorsement of those lifestyles."
+
+Politico reported Tuesday that Perry bought $1 million in broadcast television time ahead of the Jan. 3 caucuses.
+The Dallas Morning Newsrecently reported that his presidential campaign plans to bring "more than 600 influential Texans" to Iowa in December.
+However, Perry netted just six percent support among likely Republican caucus-goers, according to a Des Moines Register poll released Saturday.
+
+STEP 1:
+* ashamed
+* wrong
+* faith
+* heritage
+* strong
+* objectionable
+* tolerance
+* endorsement
+
+SUMMARY:
+Republican presidential candidate Rick Perry is pledging to end what he calls "[President Barack] Obama's war on religion" in a new TV ad airing in Iowa. Perry, a self-proclaimed Christian, claims that Obama's administration is at war with people of faith, citing the open service of gays and lesbians in the military and the prohibition against prayer in public schools as examples. Perry argues that it's "wrong" that kids can't openly celebrate Christmas or pray in school, while gays can serve openly in the military. He vows to "fight against liberal attacks on our religious heritage" and claims that "faith made America strong. It can make her strong again." Perry has also criticized Obama's decision to use foreign aid to promote rights for gays and lesbians abroad, calling it "wrong" and an "endorsement" of a lifestyle many Americans of faith find "objectionable." END OF SUMMARY.
+
+Example 2 (Political Ideology: Center, Moral Foundations: Authority/Subversion, Care/Harm):
+Here is the news article:
+
+A man pulled out a shotgun inside a North Texas church on Sunday and opened fire, killing two people, authorities said.
+It could have been far worse.
+
+Two congregants, both volunteer members of the church's security team, drew their weapons and confronted the gunman, fatally shooting him and saving an "untold number of lives" at West Freeway Church of Christ in White Settlement, a town of about 17,000 people near Fort Worth.
+
+Their actions, described as "heroic" by the Texas Department of Public Safety, brought a quick end to an attack that remained under investigation on Sunday night.
+Authorities have not provided information about a possible motive.
+
+Officials have not released the names of the victims or the gunman, whom FBI Special Agent in Charge Matthew DeSarno said had roots in the area but is “relatively transient."
+
+“This team responded quickly and within six seconds, the shooting was over.
+Two of the parishioners who were volunteers of the security force drew their weapons and took out the killer immediately, saving untold number of lives,” said Texas Lt. Gov.
+Dan Patrick, who also hailed the state’s gun laws.
+
+“We lost two great men today," Britt Farmer, the church's senior minister said, "but it could have been a lot worse.”
+
+'Nothing is going to stop us being Jewish':New York community rallies after anti-Semitic 'terrorism' attack
+
+There were more than 240 parishioners in the church at the time of the shooting, authorities said, and the service was being livestreamed to countless homes.
+
+MedStar Mobile Healthcare confirmed two fatalities — one at the scene and another on the way to the hospital.
+Hours later, FBI spokesman Jason Wandel confirmed the death of the third person.
+
+All of the victims were male.
+
+"It’s tragic and it’s a terrible situation, especially during the holiday season,” said Jeoff Williams, a regional director with the Texas Department of Public Safety.
+“We have a couple of heroic parishioners who stopped short of just anything that you can even imagine, saved countless lives."
+
+Licensed handgun owners can legally carry loaded weapons into Texas churches that do not have posted signs banning weapons.
+Church security became a major issue in the state after a gunman walked into a church in Sutherland Springs two years ago and fatally shot 26 people and wounded 20 others.
+
+“It was the most scariest thing," Isabel Arreola told CBS11 News.
+"You feel like your life is flashing before you."
+
+In a livestream of the church service, the gunman can be seen getting up from a pew and talking to someone at the back of the church before pulling out a gun and opening fire.
+Parishioners can then be heard screaming and seen ducking under pews or running as papers fly to the floor.
+
+Mike Tinius, a church elder, told The New York Times that one of those killed was a security guard and friend who responded to the shooter.
+Tinius said that he didn’t know the gunman and that the shooting appeared to be random.
+
+The security guard “was trying to do what he needed to do to protect the rest of us,” Tinius said.
+“It’s extremely upsetting to see anyone committing violence."
+
+Gov. Greg Abbott issued a statement of condemnation for the "evil act of violence" at a place of worship.
+
+"I am grateful for the church members who acted quickly to take down the shooter and help prevent further loss of life," Abbott said.
+"Cecilia and I ask all Texans to join us in praying for the White Settlement community and for all those affected by this horrible tragedy."
+
+The shooting took place hours after a knife-wielding attacker stabbed five people during a Hanukkah celebration in a rabbi's home outside New York City.
+New York Gov. Andrew Cuomo called the attack "an act of domestic terrorism" and directed the state police hate crimes task force to investigate.
+
+STEP 1:
+* heroic
+* tragic
+* terrible
+* evil
+* heroic
+* tragic
+* horrific
+* extremely
+* upsetting
+* evil
+* domestic
+* terrorism
+
+SUMMARY:
+A tragic and terrible shooting occurred at West Freeway Church of Christ in White Settlement, Texas, on Sunday, killing two people and injuring others. The heroic actions of two volunteer security team members, who drew their weapons and fatally shot the gunman, brought a quick end to the attack and saved an "untold number of lives." The Texas Department of Public Safety described their actions as "heroic." The gunman, who had roots in the area but was "relatively transient," opened fire during a livestreamed service, causing chaos and panic among the 240 parishioners. The shooting was condemned by Gov. Greg Abbott as an "evil act of violence" at a place of worship. The community is left to mourn the loss of two great men, but it could have been much worse. END OF SUMMARY.
+
+Example 3 (Political Ideology: Right, Moral Foundations: Authority/Subversion, Fairness/Cheating):
+Here is the news article:
+
+As the pastor of Atlanta's famed Ebenezer Baptist Church, Rev. Raphael Warnock knows how to deliver a line for maximum effect.
+He employed that skill Wednesday, decrying a fraud probe the state has launched into a minority voter registration drive.
+
+"You don't have to wear a hood -- you don't have to be a member of the Ku Klux Klan to be engaged in voter suppression.
+We know voter suppression when we see it," Warnock told a press conference in Georgia's Capitol building.
+
+The charge, harkening back to a dark period in the South's history, was aimed squarely at Georgia's Republican Secretary of State Brian Kemp.
+Kemp's office is investigating whether the group Warnock is associated with -- the New Georgia Project -- has committed fraud in its drive to register more than 100,000 minority voters before the Oct. 6 deadline.
+
+"There's somebody clearly doing something wrong," Kemp told Fox News.
+"And we want to figure out who that is, and try to make sure that we stop that.
+And bring charges against those people."
+
+At an emergency hearing of the state Election Board this week, Kemp's investigator Chris Harvey laid out the elements of the case.
+Harvey said he had confirmed 28 cases of fraud in 14 counties -- 25 fraudulent voter registration applications and three fraudulent canvassing sheets.
+Some had forged signatures; others, false information.
+Another 26 cases were labeled suspicious.
+
+Falsifying a voter registration form is a felony in the state of Georgia.
+
+"Any time that you're talking about forgery and fraud in Georgia law, it's certainly very serious," Kemp told Fox News.
+
+The issue is a particular hot button this year because of the narrow margins in the race to replace retiring U.S. Sen. Saxby Chambliss, R-Ga.
+Polls show Democratic candidate Michelle Nunn narrowly trailing Republican David Perdue.
+Nunn's campaign believes if it makes significant inroads into signing up some of the 800,000 unregistered minority voters in Georgia, she could take the seat.
+
+The New Georgia Project was founded by Georgia House Minority Leader Rep. Stacey Abrams.
+She is a member of Nunn's so-called "kitchen cabinet," advising the candidate.
+Abrams told Fox News she maintains a clear wall of separation between her work with the Nunn campaign and what she insists is a "nonpartisan" effort to get more minorities out to the polls in November.
+
+Kemp has slapped the New Georgia Project with a subpoena, demanding any and all documents and communications related to the voter registration drive by next Friday.
+The NGP fired back on Wednesday proclaiming its innocence and says it is strictly following the law.
+Abrams complains that the subpoena is "overly burdensome and an abuse of power," and is taking valuable time away from the group's voter registration drive.
+
+"We do not object to sharing information, but what we do object to is a witch hunt -- and a fishing expedition," Abrams told the press conference.
+
+The NGP lashed out at Kemp, accusing him of a pattern of voter suppression and intimidation.
+They charge that of 85,000 new voters they have signed up, 51,000 have not yet been registered.
+Kemp insists that any valid voter registration forms will be processed by the appropriate county officials and that his office is not blocking the registration of minority voters.
+
+"I was very disappointed in a lot of the reverend's comments," Kemp told Fox News.
+"I think anybody that knows me knows that I'm not a racist and some of the things that they've said and accused me of are just flat wrong."
+
+New Georgia Project officials claim the words fraud, forgery and felony have a chilling effect on any other organizations who might want to sign up new voters.
+
+"Mr. Secretary of State, stop this dog and pony show with all of the subpoenas -- with all of the false accusations and the smear campaign, and do your job," Warnock demanded at the press conference.
+
+Kemp insists his job is exactly what he is doing -- and that reports of fraud and forgery were brought to his attention by several counties and that it is simply his duty to investigate them.
+He told Fox News that with what is at stake in November, it's not a surprise the matter has become so politicized.
+
+"It's unfortunate that it's gotten political, but we're in the silly season, if you will right now, and have some big races in Georgia."
+
+STEP 1:
+* fraud
+* suppression
+* dark
+* wrong
+* felony
+* serious
+* forgery
+* abuse
+* witch
+* intimidation
+* racist
+* false
+* smear
+* dog
+* pony
+* show
+
+SUMMARY:
+Rev. Raphael Warnock, pastor of Atlanta's Ebenezer Baptist Church, denounced a fraud probe into a minority voter registration drive, accusing Georgia's Republican Secretary of State Brian Kemp of voter suppression. Warnock claimed that Kemp's investigation was a form of intimidation, reminiscent of the Ku Klux Klan's dark past. Kemp's office has found 28 cases of fraud and 26 suspicious cases, with some applications bearing forged signatures or false information. The New Georgia Project, founded by Rep. Stacey Abrams, maintains its innocence and claims the subpoena is an "overly burdensome and abusive" fishing expedition. The group accuses Kemp of a pattern of voter suppression and intimidation, while Kemp insists he is simply doing his job. The controversy has become politicized, with both sides trading accusations of wrongdoing. END OF SUMMARY.
+
+Now, here is the target news article to summarize:
+Here is the news article:
+
+The governor of Illinois has withdrawn restrictions on religious services amid the coronavirus pandemic following lawsuits from the Thomas More Society. The nonprofit law firm hailed Democratic Illinois Gov. J.B. Pritzker’s Thursday announcement as a victory after the governor said he would remove mandates on Illinois churches requiring no more than 10 or more people to be present at services. The mandates will be replaced by recommendations from the Illinois Department of Health. “This guidance does not obligate or encourage places of worship to resume in-person activity,” health officials said, according to NBC Chicago. “Indeed, it is strongly recommended that places of worship continue to facilitate remote services, particularly for those who are vulnerable to COVID-19 including older adults and those with co-morbidities.” “This is a total and complete victory for people of faith,” said Thomas More Society Vice President and Senior Counsel Peter Breen in a statement provided to the Daily Caller News Foundation. Today, the Thomas More Society declared total victory for all of its #Illinois church clients, after multiple lawsuits against Governor JB Pritzker, who had imposed various limits on church activities as part of his coronavirus #StayAtHome orders. pic.twitter.com/5kvv4x754o — @ThomasMoreSoc (@ThomasMoreSoc) May 28, 2020 “Illinois’ governor and his administration abused the COVID-19 pandemic to stomp on the religious liberty of the people of Illinois. By issuing guidelines only and not the previously announced mandatory restrictions, he has handed a complete victory to the churches in Illinois,” Breen said. Breen added that “people of faith across Illinois should breathe a little freer” and emphasized that fundamental freedom of religion is “critical to a self-governing democracy.” “But the pastors and churches of Illinois should not have had to file repeated lawsuits and state and federal court to secure their basic rights,” he added. “Today marks the end of a shameful chapter of discrimination by the government of the Land of Lincoln against houses of worship and religious leaders.” A spokeswoman from the Illinois Department of Health told the DCNF Friday that “religious activities have always been deemed essential during this pandemic,” and that the updated guidance for the new phase “is designed to take into account the desire for more worship options, while also trying to keep people safe as possible.” The Thomas More Society filed three lawsuits against Pritzker’s order: one on behalf of The Beloved Church, one for Jesus House Restoration Ministries in Urbana, and another representing a group of five Lake County churches and their pastors, according to a Thomas More Society press release. The firm said that Pritzker has loosened other restrictions as a consequence of the lawsuits filed against him. After The Beloved Church’s lawsuit was filed, Pritzker lifted his restrictions on “drive-in” services, Thomas More Society said. Following a complaint filed by Jesus House Restoration Ministries, Pritzker removed restrictions on outdoor religious services, it added. “Now he has lifted all mandates against how and where the churches and people of Illinois can practice their religion,” the firm said in a press release. Pritzker did not immediately respond to a request for comment from the DCNF.
+
+(1) First, you identify all the single words that are morally framed, focusing especially on the dimensions of Authority/Subversion, Care/Harm, Fairness/Cheating, Sanctity/Degradation. Identify this step as "STEP 1:" and report each word in a new line starting with *
+(2) Finally, you write a summary of the news article. Please preserve as many morally framed words as possible, particularly focusing on the moral dimensions of Authority/Subversion, Care/Harm, Fairness/Cheating, Sanctity/Degradation in your summary. The summary has to be returned after a "SUMMARY:" token and ending with a "END OF SUMMARY." token. The summary should be no longer than 200 words.

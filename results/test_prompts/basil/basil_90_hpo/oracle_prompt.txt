@@ -1,0 +1,14 @@
+You have to summarize the following text preserving the moral framing that the author gave to it.
+
+Here is the news article:
+
+House Speaker Nancy Pelosi is not upset over Michigan Rep. Rashida Tlaib’s vulgar comment on impeaching President Donald Trump, said just hours after Thursday’s swearing-in ceremony on the House floor. Asked for her reaction to Tlaib’s “colorful language” ― the new Democratic congresswoman vowed to “impeach that motherfucker,” referring to Trump ― Pelosi said it was a free speech issue. “I probably have a generational reaction to it, but in any event I’m not in the censorship business,” she told MSNBC’s Joy Reid in a town hall interview set to air in full Friday evening. “I don’t like that language. I wouldn’t use that language,” the House speaker continued, noting that she doesn’t tell her colleagues what to say. “But I don’t think it’s any worse than what the president has said,” she concluded. Trump infamously bragged about grabbing women “by the pussy” in a leaked tape from 2005; since taking office he has referred to certain other nations as “shithole countries” and slung insults at a wide range of political foes. Pelosi reasoned that while Trump’s comments have the power to “impact people’s lives,” the new congresswoman’s comments do not. Tlaib, who became one of the first Muslim women in Congress on Thursday, dropped the expletive as she spoke to a crowd of supporters at an event hosted by the progressive group MoveOn. Talking about her victory, she said: “And when your son looks at you and says, ‘Mama, look, you won. Bullies don’t win.’ And I say, ‘Baby, they don’t.’ Because we’re gonna go in there, and we’re gonna impeach the motherfucker.” As she passed the microphone, the crowd erupted into cheers. Pelosi told Reid that the comment might fire up Trump’s base, but doesn’t actually make much of a difference to actual House business. Any controversy over Tlaib’s comment concerns the “freedom of speech of an individual member,” not the stance of the Democratic caucus, Pelosi said. Trump appeared to respond to Tlaib over Twitter Friday morning, writing: “They only want to impeach me because they know they can’t win in 2020, too much success!”
+
+The author used the following morally framed words in the article:
+* leaked
+* referred
+* insults
+* expletive
+* freedom
+
+Please preserve as many morally framed words as possible in your summary. The summary has to be returned after a "SUMMARY:" token and ending with a "END OF SUMMARY." token. The summary should be no longer than 200 words.

@@ -1,0 +1,172 @@
+You have to summarize the following text preserving the moral framing that the author gave to it.
+
+Please study the following examples of news articles, their moral word extraction, and summaries preserving the moral framing:
+
+Example 1 (Political Ideology: Left):
+Here is the news article:
+
+The Trump White House has released a list of officials in President Barack Obama’s administration who “may have received” access to National Security Agency reports from electronic surveillance in which Michael Flynn, who later became Trump’s national security adviser, was identified by name.
+NSA electronic surveillance of Russian Ambassador Sergey Kislyak had picked up secret conversations he had with Flynn in which Flynn attempted to influence Russia’s reaction to sanctions just imposed by Obama in response to Russia’s interference in the 2016 election.
+
+The list, declassified at the request of acting Director of National Intelligence Richard Grenell, was made public Wednesday by Sen. Charles Grassley (R-Iowa).
+It includes a note explaining that is not a list of people who asked that Flynn’s name be unredacted, or “unmasked,” in a report in which the identify of an American citizen would normally be hidden.” “Each individual was an authorized recipient of the original report,” it says, while noting it is not clear who actually saw the “unmasked information.”
+
+The note explains that 16 Obama officials requested “unmaskings for different NSA intelligence reports for select identified principals.” The report doesn’t include who those 16 people were, but does name 39 officials who then may or may not have seen the report that included Flynn’s identity.
+That list included FBI Director James Comey, Treasury Secretary Jacob Lew, Director of National Intelligence James Clapper, CIA Director John Brennan, White House Chief of Staff Denis McDonough, and Vice President Joe Biden.
+A memo to Grenell, signed by National Security Agency Director Paul Nakasone, says each named person was “an authorized recipient” of the information and that the unmasking was approved through the agency’s normal protocol.
+Translation: Officials with regular access to classified information were authorized to hear about Flynn’s suspect activities.
+
+But the list has already been seized on by promoters of President’s Trump “Obamagate” claim.
+This is a false claim that Obama was involved during the presidential transition in an effort to unfairly smear Flynn.
+Flynn pleaded guilty in late 2017 to lying to FBI agents about his conversations with Kislyak.
+But after public attacks on the case by Trump, the Justice Department, at the behest of Attorney General William Barr, is trying to drop the case.
+And Trump boosters are already misrepresenting the new information to bolster their phony claim.
+
+“List of Officials Who Sought to ‘Unmask’ Flynn Released: Biden Comey, Obama Chief of Staff Among Them,” a Fox News headline says, falsely.
+Sen. Rand Paul (R-Ky.) quickly misrepresented the list to smear Biden in a tweet.
+
+Declassified documents reveal V.P. Biden ordered the unmasking of General Flynn’s private conversation.
+
+Anyone think that Biden might have abused his power to go after a political opponent… — Senator Rand Paul (@RandPaul) May 13, 2020
+
+While Biden was on the authorized list of people who may have seen Flynn’s name, so far there is no evidence that Biden personally ordered Flynn’s “unmasking.” But even if he did, it would hardly controversial that Biden and other officials would ask to review reports referencing an American involved in clandestine high level contacts with foreign governments.
+
+Flynn was no innocent actor as this was all unfolding.
+As the Justice Department noted in a court filing last week seeking to drop charges against him, the FBI investigated Flynn in 2016 due to suspicions that he was a Russian asset.
+In early 2017, the FBI was ready to drop that investigation, but agents continued investigating him after they learned he may have broken a law against private citizens interfering in foreign policy through his conversations with Kislyak, and other foreign officials.
+
+It’s safe to say no past incoming National Security advisers had the sort of red flags that Flynn did.
+In 2016, he had also secretly agreed to lobby for Turkey, even while he advised Trump.
+He also admitted lying to DOJ about this as part of his guilty plea.
+(He was also involved with a complicated plan through which a group of former military officials hoped to transfer sensitive nuclear technology to Saudi Arabia.)
+Flynn had potentially compromising ties to foreign states including Turkey as well as Russia.
+That may explain why the Obama officials given access to information by NSA on Flynn included the US Ambassadors to Turkey and to Russia.
+
+STEP 1:
+* suspect
+* unfairly
+* false
+* phony
+* abused
+* innocent
+* red
+* compromising
+* guilty
+
+SUMMARY:
+The Trump White House has released a list of Obama officials who may have received access to NSA reports on Michael Flynn's secret conversations with Russian Ambassador Sergey Kislyak. The list includes 39 officials, including James Comey, Joe Biden, and John Brennan, who were authorized to receive the information. However, promoters of President Trump's "Obamagate" claim are misrepresenting the list to falsely suggest that Obama was involved in unfairly smearing Flynn. In reality, Flynn pleaded guilty to lying to FBI agents about his conversations with Kislyak and had potentially compromising ties to foreign states, including Turkey and Russia. The list has been seized on by Trump boosters, including Sen. Rand Paul, who falsely claimed that Biden ordered the unmasking of Flynn's private conversation. The release of the list is an attempt to bolster the phony claim that Obama was involved in a conspiracy against Flynn. END OF SUMMARY.
+
+Example 2 (Political Ideology: Center):
+Here is the news article:
+
+FILE - In this Aug. 6, 2019, file photo, police officers walk behind a Walmart at the scene of a mass shooting at a shopping complex in El Paso, Texas.
+Patrick Crusius, 21, was indicted Thursday, Sept. 12, 2019, for capital murder in connection with the Aug. 3 mass shooting that left 22 dead.
+He is jailed without bond.
+
+EL PASO, Texas (AP) — A man accused of gunning down people at a busy Walmart in El Paso last month was indicted Thursday for capital murder, prosecutors announced.
+
+Patrick Crusius, 21, of Allen, Texas, was indicted on one count in connection with the Aug. 3 mass shooting that left 22 dead in the border city, District Attorney Jaime Esparza said.
+El Paso prosecutors are seeking the death penalty for Crusius, who remains jailed without bond.
+
+Crusius’ defense lawyers did not immediately respond to requests for comment Thursday.
+Attorney Mark Stevens previously said he will use “every legal tool available” to prevent his client from being executed.
+
+Texas Gov. Greg Abbott reacted to the indictment by simply tweeting : “good.”
+
+The El Paso County District Clerk’s office said Crusius’ indictment would not be publicly available until next week because it takes a few days to process and assign the case to a court.
+
+The massacre was the first in a series of mass shootings last month that left dozens dead and, again, brought the debate over guns into the center of American politics.
+
+Prosecutors have said Crusius surrendered to police after the attack saying, “I’m the shooter,” and that he was targeting Mexicans.
+In court documents, prosecutors alleged that Crusius was the author of a screed published shortly before the shooting that said it was “in response to the Hispanic invasion of Texas.”
+
+The document parroted some of President Donald Trump’s divisive rhetoric about immigration, leading El Paso residents, protesters and Democrats to blame Trump for inflaming political and racial tensions throughout the country.
+Trump has denied stoking division and violence.
+
+Crusius drove more than 10 hours from his hometown near Dallas to carry out the shooting in the largely Latino city, according to police.
+Most of the dead had Hispanic last names, and eight were Mexican nationals.
+Federal prosecutors have said they are weighing hate-crime charges against Crusius that could also carry the death penalty.
+
+Survivors of the El Paso attack have held vigils around the city, including outside of the jail in downtown El Paso where Crusius has been kept isolated from other prisoners, on suicide watch.
+
+Less than 24 hours after the shooting in Texas, a masked gunman began shooting in a nightlife district of Dayton, Ohio, killing nine people and injuring 27 more.
+These shootings were followed weeks later by another in the West Texas cities of Midland and Odessa , where authorities say one man killed seven people and wounded about two dozen others while firing from a car.
+Unlike Crusius, the gunmen in both those attacks were killed by police.
+
+The recent mass violence has fueled anger among gun control and immigration advocates, and caused political blowback.
+
+Abbott acknowledged weeks after the attack that ”mistakes were made ” when he sent a fundraising mailer encouraging supporters to “take matters into our own hands” and “DEFEND” Texas.
+He has resisted calls from Democrats to convene an emergency special session to vote on new gun-control measures, and a list of firearm safety recommendations he released Thursday didn’t include a push for mandatory background checks of private gun sales.
+
+Texas Lt. Gov. Dan Patrick drew the ire of the Nat ional Rifle Association last week after expressing support for background checks.
+
+Abbott said lawmakers should instead focus on making voluntarily background checks easier for private sellers.
+Democrats and gun-control groups criticized Abbott’s recommendations as insufficient.
+
+STEP 1:
+* divisive
+* inflammatory
+* blame
+* stoking
+* division
+* violence
+* hate
+* anger
+* mistakes
+* insufficient
+
+SUMMARY:
+Patrick Crusius, 21, was indicted for capital murder in connection with the El Paso mass shooting that left 22 dead, mostly Hispanics and Mexican nationals. The attack was fueled by Crusius' divisive and inflammatory rhetoric, parroting President Trump's views on immigration. Trump has denied stoking division and violence, but many blame him for inflaming political and racial tensions. Crusius drove 10 hours to target Mexicans, and his actions have sparked anger among gun control and immigration advocates. Texas Gov. Greg Abbott reacted to the indictment with a simple "good," but has resisted calls for stricter gun control measures, instead proposing voluntary background checks, which Democrats and gun-control groups deem insufficient. The massacre has fueled a national debate on guns and immigration, with many calling for action to prevent similar tragedies. END OF SUMMARY.
+
+Example 3 (Political Ideology: Right):
+Here is the news article:
+
+Arizona Sheriff Joe Arpaio, known for his tough and controversial stances on illegal immigration, endorsed three term Texas Governor Rick Perry for the Republican presidential nomination on Tuesday morning during a campaign swing with Mr. Perry through New Hampshire.
+
+The self-titled America's Toughest Sheriff, who famously re-instituted chain gangs in 1995 and has also been a major supporter of his state's controversial SB1070 immigration law, said that Perry has done more to combat illegal immigration along the U.S. border then any of the other candidates.
+
+"I'm endorsing Rick Perry because we need a tough-on-crime president who will champion and fund full-time border security operations from Brownsville to San Diego," Arpaio said.
+"Governor Perry has a superior border security record and plan to make our border and our nation safer."
+
+"Sheriff Arpaio knows the struggle border states face as Washington politicians and bureaucrats fail time and again to properly secure our nation's southern boundary with Mexico," said Gov. Perry.
+"I am honored to have Sheriff Arpaio's support for my presidential campaign and our shared goals of fighting border crime with more personnel, border fencing and surveillance.
+A secure border is vital to protecting America's national security, public safety and jobs."
+
+The endorsement from Arpaio could prove helpful to Perry who has faced criticism about his stance on immigration from the Right for his support of DREAM children.
+
+The illegal immigration issue has also been a hotbed for clashes between Perry and GOP presidential candidate and former Massachusetts Governor Mitt Romney.
+
+Romney has said that Perry provided a magnet for undocumented immigrants to settle in Texas by supporting a law that allows people who are in the country unlawfully to attend public colleges at in-state tuition rates.
+
+"You said I don't want to build a fence," Romney said.
+"You talk about magnets -- you put in place a magnet."
+
+Perry has also said the federal government should extend work visas permitting undocumented immigrants to move freely between the U.S. and their home countries, but stressed that he still opposes amnesty or a path to citizenship.
+
+"As president, I will secure the border within a year putting thousands more federal boots on the ground, strategic fencing and aerial resources to fight border crime and make our states and nation safer," Perry said.
+
+STEP 1:
+*tough
+*controversial
+*toughest
+*superior
+*tough-on-crime
+*safer
+*secure
+*vital
+*fighting
+*criticism
+*magnet
+*opposes
+*amnesty
+
+SUMMARY:
+Arizona Sheriff Joe Arpaio, known for his tough and controversial stances on illegal immigration, endorsed Rick Perry for the Republican presidential nomination. Arpaio praised Perry's superior border security record and plan, saying he needs a tough-on-crime president who will champion and fund full-time border security operations. Perry vowed to secure the border within a year, putting thousands more federal boots on the ground, and stressed that a secure border is vital to protecting America's national security, public safety, and jobs. The endorsement could help Perry, who has faced criticism from the Right for his stance on immigration. Perry has also clashed with Mitt Romney, who accused him of creating a magnet for undocumented immigrants. Perry opposes amnesty or a path to citizenship, but supports extending work visas to allow undocumented immigrants to move freely between the U.S. and their home countries. END OF SUMMARY.
+
+Now, here is the target news article to summarize:
+Here is the news article:
+
+Law enforcement in San Francisco will no longer be cooperating with Immigration and Customs Enforcement, per a directive by San Francisco’s newly elected sheriff. Paul Miyamoto, who was elected to be the top law enforcer in San Francisco in November 2019, declared to a local media outlet Tuesday that his department will not help with federal immigration enforcement. While San Francisco has long opposed most cooperation with ICE, the announcement further cements the progressive city’s status as a sanctuary jurisdiction. “Our department is not involved in immigration enforcement,” Miyamoto, the first Asian American sheriff of San Francisco, told KTVU Fox 2. “We feel that is a federal matter, and our realm of interest is public safety, and you can’t really have a safe community if the community members are afraid to come to us to report crimes.” Namely, his department will not honor immigration detainers lodged by federal agents. If an illegal alien in San Francisco is placed into local custody for an unrelated crime, and ICE asks that the individual be transferred into the agency’s custody, that request will simply be ignored. Miyamoto argues that the policy promotes public safety, despite that there are many documented cases of illegal aliens committing additional crimes after they have been released from local custody. The directive appears somewhat redundant given that authorities all across California have already been greatly prohibited in how they can work with ICE. Having been in effect since January 2018, the California Values Act bars state and local agencies from honoring ICE detainer requests, making it impossible for illegal aliens to be directly transferred into the agency’s custody. While giving his latest State of the Union address earlier in February, President Donald Trump specifically highlighted California as an example of the dangers of sanctuary policy. The president invited as his guest the brother of a man who was killed by an illegal alien. That particular alien had been arrested by local authorities and had an ICE detainer placed on him, but because of the California Values Act law, he was released back into the public. The Trump administration took its opposition to California’s sanctuary policies a monumental step farther this month when the Department of Justice announced a complaint against a state law that prohibits the operation of private detention facilities. Attorney General William Barr said at the time that the law was intended to forbid the detention of aliens in the state. San Francisco Mayor London Breed, a Democrat, declared that the city was being unfairly targeted by the Trump administration, but she remained adamant about the city’s protection of illegal aliens. “We’re being targeted on so many levels,” Breed said. “But, the fact is we’re a strong city, we’re a resilient city and we will fight against those attacks and we will protect the people of this city.”
+
+(1) First, you identify all the single words that are morally framed. Identify this step as "STEP 1:" and report each word in a new line starting with *
+(2) Finally, you write a summary of the news article. Please preserve as many morally framed words as possible in your summary. The summary has to be returned after a "SUMMARY:" token and ending with a "END OF SUMMARY." token. The summary should be no longer than 200 words.

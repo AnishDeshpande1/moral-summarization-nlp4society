@@ -1,0 +1,33 @@
+You have to summarize the following text preserving the moral framing that the author gave to it.
+
+Here is the news article:
+
+The House of Representatives on Friday approved a sweeping election reform bill that serves as the touchstone to the House Democratic agenda but has been criticized by civil libertarians and Republicans over First Amendment concerns. The so-called “HR 1” measure embraced by House Democrats aims to curb big money in politics, make it easier to vote and bolster election security. It institutes a public financing system for congressional campaigns, requires presidential candidates to disclose tax returns and makes Election Day a federal holiday. The House approved the plan 234-193. But the measure is not expected to succeed in the Senate, where Majority Leader Mitch McConnell, R-Ky., has said the bill is dead on arrival. The American Civil Liberties Union, in a recent letter to Congress, encouraged lawmakers to vote against the bill because of “provisions that unconstitutionally impinge on the free speech rights of American citizens and public interest organizations.” “They will have the effect of harming our public discourse by silencing necessary voices that would otherwise speak out about the public issues of the day,” the ACLU wrote. One concern of civil libertarians is the bill’s inclusion of the DISCLOSE ACT, which would require all organizations that spend money on elections to disclose donors. The ACLU said it supports making organizations report spending for public communications like TV ads that expressly call for the election or defeat of a candidate for office, but it worries the DISCLOSE ACT goes beyond that. “These standards are unclear and entirely subjective, which will lead to confusion and, ultimately, less speech,” the ACLU said. Republicans called the bill a Democratic power grab that amounts to a federal takeover of elections. “Now, instead of getting money out of politics, the Democrats on this committee voted to pass a bill that will publicly fund – campaign travel, campaign dinners, and in some cases, the politicians themselves,” Illinois Rep. Rodney Davis wrote in an op-ed for The Hill. The White House said in a statement that the Democrats' plan would "micromanage" elections that now are run largely by states and would establish "costly and unnecessary program to finance political campaigns." But House Speaker Nancy Pelosi, D-Calif., said the bill "restores the people's faith that government works for the public interest, the people's interest, not the special interests." Trying to turn Republicans' words against them, Pelosi said, "Yes it is a power grab -- a power grab on behalf of the people." House GOP leader Kevin McCarthy of California said the legislation would undermine the integrity of elections by allowing convicted felons to vote, and would apply a one-size-fits-all standard to elections now run by states and local governments. Democrats called that a mischaracterization. To Rep. Zoe Lofgren, D-Calif., the bill "grabs power away from the elites and the power brokers and gives it to the people." She and other Democrats disputed the claim that taxpayers will pay for campaigns, noting that money for political campaigns would come from a surcharge on federal settlements made with banks and corporations that run afoul of the law.
+
+The author used the following morally framed words in the article:
+* curb
+* make
+* bolster
+* vote
+* provisions
+* impinge
+* harming
+* silencing
+* unclear
+* subjective
+* lead
+* speech
+* voted
+* pass
+* fund
+* micromanage
+* unnecessary
+* finance
+* restores
+* works
+* grab
+* grabs
+* away
+* gives
+
+Please preserve as many morally framed words as possible in your summary. The summary has to be returned after a "SUMMARY:" token and ending with a "END OF SUMMARY." token. The summary should be no longer than 200 words.

@@ -1,0 +1,194 @@
+You have to summarize the following text preserving the moral framing that the author gave to it.
+
+Please study the following examples of news articles, their moral word extraction, and summaries preserving the moral framing:
+
+Example 1 (Political Ideology: Left):
+Here is the news article:
+
+A lot of good points were made about the inconsistencies and hypocrisies of Alabama’s 25 white male lawmakers who passed the anti-abortion bill in the state senate this week.
+It was pointed out that Republicans in favour of banning abortion are by and large against banning guns because, by their own logic, “banning things doesn’t work”.
+
+It was observed that the “life” of a six-week-old bunch of cells is precious to these men, but the life of a child born to a mother of no means, in a state that voted to repeal Obamacare – that notional kid, not so much.
+And while the point was made that no one who has watched a woman struggle through labour could, in good conscience, criminalise her disinclination to do so, these arguments seemed to me bizarre, premised on the notion that the men in Alabama were acting in good faith; that they had the health of anyone but themselves in mind.
+
+No one at this point in the US abortion debate can believe that the foetus is the focus.
+It’s not about the foetus, it’s about the woman.
+An abortion ban as radical as the one voted for in Alabama is about the elimination of women – particularly poor women – as a threat to the social order; it is a measure designed to ensure that poor people stay poor, and women stay home.
+Trying to shame abortion-banners for unfairness to women is like trying to shame advocates of mandatory minimum sentencing for causing the large-scale incarceration of black people.
+That was kind of the point.
+
+Alabama's abortion ban shows the chilling effect of Brett Kavanaugh's appointment.
+
+The term “existential threat” is used so widely these days that it has ceased to have much meaning.
+But this is how the law in Alabama felt – to the extent that to lose control of one’s reproductive health is to lose control of one’s life, or that a woman without means to travel will be forced to carry a baby with severe fetal abnormalities to term, or simply that the consequence of sex is once again borne by the woman – all the things that were supposed to have been banished in 1973.
+
+It will be stuck in federal district court for years and will probably not even reach the supreme court docket.
+But overturning Roe v Wade is clearly the intention behind the law and it is hard not to feel so angry this week as to wonder idly: at what point does Elizabeth Warren talk about raising a militia?
+Incrementalists, meanwhile, will carry on chipping away at Roe, understanding that as a tactic this may be more effective than confronting it head on.
+
+People of means who want abortions in Alabama will fly out of state, as they always have, given that the state has only three abortion clinics.
+For everyone else, an abortion is not only a cost investment but an emotional and imaginative one.
+It is hard enough, in a state such as Alabama, to get the courage up to go to an abortion clinic.
+But to have to travel vast distances for a frightening procedure that is illegal at home might be for many, too much.
+Which is of course why the bill passed.
+Everything about it says: stay where you are.
+
+STEP 1:
+* hypocricies
+* precious
+* good
+* conscience
+* bizarre
+* unfairness
+* shame
+* chilling
+* existential
+* threat
+* angry
+* incrementalists
+* courageous
+
+SUMMARY:
+Alabama's 25 white male lawmakers have passed a radical anti-abortion bill, exposing their hypocricies and unfairness towards women, particularly poor women. The bill is not about protecting the foetus, but about eliminating women as a threat to the social order, ensuring they stay home and poor people stay poor. The law has a chilling effect, stripping women of control over their reproductive health and lives. It's a measure designed to shame and punish women, especially those without means to travel for an abortion. The bill is a blatant attempt to overturn Roe v Wade, and its passage is a disturbing reminder of the existential threat to women's rights. The consequences of this law will be devastating, forcing women to carry babies with severe fetal abnormalities to term or travel vast distances for a frightening procedure. END OF SUMMARY.
+
+Example 2 (Political Ideology: Center):
+Here is the news article:
+
+WASHINGTON — All same-sex couples who are legally married will be recognized as such for federal tax purposes, even if the state where they live does not recognize their union, the Treasury Department and the Internal Revenue Service said Thursday.
+
+It is the broadest federal rule change to come out of the landmark Supreme Court decision in June that struck down the 1996 Defense of Marriage Act, and a sign of how quickly the government is moving to treat gay couples in the same way that it does straight couples.
+
+The June decision found that same-sex couples were entitled to federal benefits, but left open the question of how Washington would actually administer them.
+The Treasury Department answered some of those questions on Thursday.
+As of the 2013 tax year, same-sex spouses who are legally married will not be able to file federal tax returns as if either were single.
+Instead, they must file together as “married filing jointly” or individually as “married filing separately.”
+
+Their address or the location of their wedding does not matter, as long as the marriage is legal: a same-sex couple who marry in Albany, N.Y., and move to Alabama are treated the same as a same-sex couple who marry and live in Massachusetts.
+
+“Today’s ruling provides certainty and clear, coherent tax-filing guidance for all legally married same-sex couples nationwide,” Treasury Secretary Jacob J. Lew said.
+“This ruling also assures legally married same-sex couples that they can move freely throughout the country knowing that their federal filing status will not change.”
+
+Gay and civil rights groups praised the ruling.
+“Committed and loving gay and lesbian married couples will now be treated equally under our nation’s federal tax laws, regardless of what state they call home,” said Chad Griffin, the president of the Human Rights Campaign.
+“These families finally have access to crucial tax benefits and protections previously denied to them under the discriminatory Defense of Marriage Act.”
+
+But the Treasury decision could have ramifications for many gay couples’ tax liabilities, said Roberton Williams of the nonpartisan Tax Policy Center in Washington.
+Couples with similar incomes often pay the “marriage penalty,” with their tax liability as a couple being much higher than it would be if they were single.
+
+At the same time, same-sex couples will also be able to file amended returns for certain prior tax years, meaning that many couples might be eligible for refunds.
+Couples do not have to file amended returns if they do not want to, a senior Treasury official said, meaning that couples who might pay the marriage penalty would not owe back taxes.
+
+But the ruling creates complications for same-sex couples who live in any of the 37 states that do not recognize their marriages.
+Previously, such couples filed federal and state tax returns as individuals.
+Now, they will have to file their federal returns as other married couples do, but may be required to file their state returns as individuals.
+
+“There’s going to be a cumbersome workaround,” said Nanette Lee Miller of Marcum L.L.P., a public accounting firm.
+She sees it as a paperwork bother more than a financial issue.
+
+States might also respond to the federal ruling with changes of their own.
+“Most state income tax regimes begin with federal taxable income as the starting point,” Marvin Kirsner, a tax lawyer at Greenberg Traurig, said in an e-mail.
+“These state taxing authorities will have to figure out how to deal with a same-sex married couple who file a joint income tax return for federal tax purposes.” He added,
+
+“We will need to see guidance from each nonrecognition state to see how this will be handled.”
+
+The rule change is likely to provide a small increase for federal revenue, as more same-sex couples pay the marriage penalty, Mr. Williams said, describing it as a “rounding error.”
+But it would be partly offset by new federal spending on benefits for same-sex spouses.
+
+The ruling applies to all legal marriages made in the United States or foreign countries.
+But it does not extend to civil unions, registered domestic partnerships or other legal relationships, the Treasury said.
+
+The Treasury ruling is one of many that are starting to emerge from all corners of the federal government as Washington changes regulations to conform with the Supreme Court decision.
+
+Separately, the Health and Human Services Department said Thursday that Medicare would extend certain key benefits to same-sex spouses, “clarifying that all beneficiaries in private Medicare plans have access to equal coverage when it comes to care in a nursing home where their spouse lives.”
+
+But federal agencies are not moving in lock step.
+Instead, they are creating a patchwork of regulations affecting gay and lesbian couples — and may be raising questions about discrimination and fairness in the way that federal benefits are distributed.
+
+Medicare and Treasury officials have said they would use a “place of celebration” standard for determining whether gay couples are eligible for benefits.
+That means same-sex couples would receive benefits as long as they are legally married, regardless of where they live.
+
+But the Social Security Administration is now using a “place of residence” standard in determining spousal benefits, and a gay couple in Alabama might not receive the same benefits as a gay couple in New York until final determinations are made or Congress acts.
+The Obama administration has pushed federal agencies to ensure the Supreme Court’s ruling is carried out quickly and smoothly.
+
+“It would be nice if they were consistent,” Ms. Miller said.
+Creating federal regulations is a process and could change, she said.
+
+STEP 1:
+* discriminatory
+* committed
+* loving
+* equal
+* fairness
+* discrimination
+
+SUMMARY:
+The Treasury Department and the Internal Revenue Service have announced that all same-sex couples who are legally married will be recognized as such for federal tax purposes, regardless of the state they live in. This ruling provides certainty and clear guidance for all legally married same-sex couples nationwide, ensuring they are treated equally under federal tax laws. Committed and loving gay and lesbian married couples will now have access to crucial tax benefits and protections previously denied to them under the discriminatory Defense of Marriage Act. However, the ruling may have ramifications for many gay couples' tax liabilities, and states may respond with changes of their own. The Obama administration has pushed for federal agencies to ensure the Supreme Court's ruling is carried out quickly and smoothly, but inconsistencies remain. END OF SUMMARY.
+
+Example 3 (Political Ideology: Right):
+Here is the news article:
+
+A group of 14 Wisconsin parents has filed a lawsuit against a local school district for its policy allowing teachers to address their children by their preferred "gender identity" without notifying them first.
+
+Wisconsin Institute for Law and Liberty (WILL), a conservative law firm, filed the 19-page lawsuit on Tuesday on behalf of the parent's group against the Madison Metropolitan School District (MMSD).
+The 14 parents were not named in the document.
+
+The lawsuit alleges that MMSD's transgender policy is unconstitutional because it prohibits teachers and staff from informing parents that their children want to switch sexes.
+
+"This action seeks to vindicate parents' fundamental and constitutional right to direct the upbringing of their children," the lawsuit argues.
+"The Madison Metropolitan School District has violated this important right by adopting a policy designed to circumvent parental involvement in a pivotal decision affecting their children's health and future.
+The policy enables children, of any age, to socially transition to a different gender identity at school without parental notice or consent."
+
+While parental consent is needed before a child's name can be changed legally in the district's official records, the school district policy announced in 2018 says students can be called by their preferred name and gender pronouns without parental permission.
+
+The policy states that the district is committed to affirming each student's self-designated gender identity and the district will strive to "disrupt the gender binary" with books and lessons stating that everyone has the right to choose their gender.
+
+The school policy allows students to pick new names and pronouns they can use at school regardless of whether they have a parent's permission.
+All teachers and district staff must refer to students by their chosen names and pronouns even though the names aren't official in district systems.
+
+The parents argue the policy violates the state constitution's due process clause, which protects parents' right to raise their children according to the parents' beliefs.
+
+"Madison schools have adopted policies that violate constitutionally recognized parental rights.
+A public school district should not, and cannot, make decisions reserved for parents," WILL President and General Counsel Rick Esenberg said in a statement.
+
+District spokesman Tim LeMonds said Tuesday that the district had not been served with the lawsuit and could not comment until it had a chance to review it.
+But LeMonds said the district stands by its guidance on transgender and nonbinary students.
+
+The lawsuit also argues that keeping parents in the dark about their children's sexuality interferes with parents' right to guide their children through life-altering decisions and provide professional help their children may urgently need.
+
+"There is no compelling government interest in keeping secret from parents that their child is dealing with gender dysphoria," the lawsuit reads.
+
+The parents also argue that the policy violates the state constitution's religious freedom guarantee.
+
+All of the parents say they believe God intended humans to be male and female, and the district's choice to hide students' gender struggles interferes with their right to guide their children in accordance with their religious beliefs
+
+STEP 1:
+* unconstitutional
+* fundamental
+* right
+* pivotal
+* important
+* circumvent
+* violated
+* affirming
+* disrupt
+* recognized
+* reserved
+* interferes
+* compelling
+* secret
+* religious
+* freedom
+* intended
+* interferes
+
+SUMMARY:
+A group of 14 Wisconsin parents has filed a lawsuit against the Madison Metropolitan School District (MMSD) over its policy allowing teachers to address their children by their preferred "gender identity" without notifying them first. The parents argue that the policy is unconstitutional and violates their fundamental right to direct the upbringing of their children. They claim that the policy circumvents parental involvement in a pivotal decision affecting their children's health and future. The policy enables children to socially transition to a different gender identity at school without parental notice or consent, which the parents believe interferes with their right to guide their children through life-altering decisions and provide professional help their children may urgently need. The lawsuit also argues that the policy violates the state constitution's religious freedom guarantee, as the parents believe God intended humans to be male and female.
+END OF SUMMARY.
+
+Now, here is the target news article to summarize:
+Here is the news article:
+
+The Alabama Senate on Tuesday evening passed legislation that bans nearly all abortions in the state, sending the measure to Gov. Kay Ivey's (R) desk to be signed into law. Ivey has not said whether she will sign the measure, which passed by a 25-6 margin. It would ban abortions in virtually all instances in Alabama, including for victims of rape and incest, and would only permit the procedure if necessary to save a mother’s life. Anyone performing an abortion could be punished by 10 to 99 years in prison, but no criminal charges would be filed against a person undergoing the procedure. The legislation was tabled last week when a shouting match erupted on the Senate floor after an exception for cases of rape and incest was removed from the bill. The bill’s proponents say they hope the legislation, along with abortion restrictions in other states, will set up a Supreme Court battle that will see the overturning of the landmark Roe v. Wade decision that was the first to legalize abortion. State Rep. Terri Collins (R), who sponsored the bill, told The Washington Post she empathized with survivors of rape and incest but that the exceptions were specifically left out so that the law would be strong enough to force a federal court battle. Sixteen states have passed or are currently considering abortion bans once a fetal heartbeat is detected about six weeks into pregnancy. Four states have approved so-called heartbeat abortion laws. However, Alabama’s is without a doubt the most restrictive abortion law in the country. “If I were them, I would be making plans to leave Alabama,” state Sen. Vivian Figures (D) told the Post before the bill was considered. “Who is going to stay in a state like this?” The pro-abortion rights group NARAL Pro-Choice America swiftly condemned Tuesday’s vote and expressed concern that the current makeup of the Supreme Court put Roe v. Wade at risk after the Senate confirmed President Trump Donald John TrumpTrump faces high stakes in meeting with Erdoğan amid impeachment drama Democrats worry they don't have right candidate to beat Trump Trump threatening to fire Mulvaney: report MORE’s two nominees. “Alabama just passed a law that is a total ban on abortion, criminalizing the act and punishing women and doctors. Anti-choice Republicans no longer even pretend to respect the law or the women that it protects. When this dangerous and demeaning law passed, Republicans stood up and applauded, while women wept,” NARAL Pro-Choice America President Ilyse Hogue said in a statement. "When women stood up in record numbers to fight Kavanaugh’s nomination, propelled by his alarming record and Trump’s promise to nominate jurists committed to criminalizing abortion and punishing women, we were told we were ‘hysterical’ because Roe was settled law. Not six months later, we are battling measures where the stated goal is exactly that: outlawing abortion,” she added, referring to the newest Supreme Court justice, Brett Kavanaugh Brett Michael KavanaughDivided Supreme Court leans toward allowing Trump to end DACA Hirono memoir due in 2021 The Hill's Morning Report - Witness transcripts plow ground for public impeachment testimony MORE.
+
+(1) First, you identify all the single words that are morally framed. Identify this step as "STEP 1:" and report each word in a new line starting with *
+(2) Finally, you write a summary of the news article. Please preserve as many morally framed words as possible in your summary. The summary has to be returned after a "SUMMARY:" token and ending with a "END OF SUMMARY." token. The summary should be no longer than 200 words.

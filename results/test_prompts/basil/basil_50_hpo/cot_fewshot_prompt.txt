@@ -1,0 +1,161 @@
+You have to summarize the following text preserving the moral framing that the author gave to it.
+
+Please study the following examples of news articles, their moral word extraction, and summaries preserving the moral framing:
+
+Example 1 (Political Ideology: Left):
+Here is the news article:
+
+Former Mexican President Vicente Fox on Wednesday harshly criticized current President Enrique Peña Nieto for inviting Republican presidential candidate Donald Trump to meet with him south of the border, just hours before he is due to give a widely anticipated speech on immigration in Arizona.
+
+“He is not welcome to Mexico,” Fox said in an interview on CNN.
+“By 130 million people, we don’t like him, we don’t want him. We reject his message.”
+
+Trump tweeted Tuesday that he had accepted an invitation to meet Peña Nieto in private.
+An invitation had also been extended to his Democratic opponent, Hillary Clinton, but the former secretary of state’s campaign said she was looking forward to speaking with him at the “appropriate time.”
+
+Trump has spent more than a year railing against Mexico and its leaders, promising the country would pay for the construction of a wall on the border it shares with the U.S., as well as fear-mongering about “rapists” and drug dealers that are coming across it.
+
+The surprise meeting abroad with a foreign leader will be Trump’s first as a presidential nominee, and is not without risks to his candidacy.
+Mitt Romney’s trip to Israel during the 2012 presidential campaign, for example, did not go over well.
+Peña Nieto’s approval rating fell to a record low earlier this year amid several corruption scandals.
+He, too, may seize on the meeting as an opportunity to bolster his image with Mexicans.
+
+In his interview on CNN, Fox warned Peña Nieto would be viewed like “a traitor” if he does not stand up to the GOP nominee.
+
+“Trump is using Mexico, using President Peña to boost his sinking poll numbers,” Fox said.
+“I think the President Peña is taking an enormous political risk by hosting Trump.
+If he’s gone soft on Trump, it will hurt him greatly.
+He will even be considered like a traitor because we don’t accept to be offended like we just heard, and it should not happen.
+He comes here with a smile on his face.
+I think this is a big mistake on part of President Peña.”
+
+“It’s a very opportunistic move and I hope U.S. public opinion, U.S. citizens can see this and finally, and finally see what is behind Trump, this false prophet that is just cheating everybody,” he added.
+“It’s a desperate move and I don’t see how it can work at all.”
+
+Earlier this year, Fox railed against Trump in an expletive-laden outburst, promising that Mexico would “never pay for that fucking wall.”
+He later apologized, and even invited Trump “to come to Mexico and to learn about the real Mexico.”
+
+Trump noted so helpfully in a tweet Wednesday morning.
+
+“Former President Vicente Fox, who is railing against my visit to Mexico today, also invited me when he apologized for using the “f bomb.””
+
+Fox tweeted his own recollection in response:
+
+“, I invited you to come and apologize to all Mexicans.
+Stop lying! Mexico is not yours to play with, show some respect.”
+
+STEP 1:
+* traitor
+* offended
+* false
+* prophet
+* cheating
+* desperate
+* lying
+* respect
+
+SUMMARY:
+Former Mexican President Vicente Fox strongly criticized current President Enrique Peña Nieto for inviting Republican presidential candidate Donald Trump to meet with him in Mexico. Fox stated that Trump is "not welcome to Mexico" and that the Mexican people "reject his message." Fox warned that if Peña Nieto does not stand up to Trump, he will be viewed as a "traitor" and that Trump is using the meeting to "boost his sinking poll numbers." Fox called Trump's actions "opportunistic" and "desperate," and accused him of "cheating" and being a "false prophet." Fox also tweeted that Trump should "show some respect" to Mexico. The meeting is seen as a risky move for both Trump and Peña Nieto, with the potential to hurt their approval ratings. END OF SUMMARY.
+
+Example 2 (Political Ideology: Center):
+Here is the news article:
+
+WASHINGTON — It is a lesson politicians never seem to learn from others’ mistakes: The microphone is always on.
+
+The latest candidate to learn the hard way was Representative Bruce Braley, an Iowa Democrat running for Senate this year.
+Mr. Braley apologized to Senator Charles E. Grassley, Republican of Iowa, and “anyone I may have offended” after video emerged of him warning that “a farmer from Iowa who never went to law school, never practiced law” could become chairman of the Judiciary Committee.
+
+Mr. Braley is not running against Mr. Grassley, who plans to seek a seventh term in 2016.
+But as the ranking Republican on the Judiciary Committee, Mr. Grassley could assume the chairmanship if his party takes control of the Senate this year.
+Mr. Braley, speaking at a January fund-raiser in Corpus Christi, Tex., was explaining why he should go to the Senate instead of his Republican opponent.
+
+America Rising, a conservative political action committee that has vowed to use videos and opposition research to attack Democratic candidates, posted the footage on YouTube on Tuesday.
+Other Republicans quickly criticized Mr. Braley.
+
+Though their numbers are declining, farmers are still a powerful force in the Iowa, which ranks second in the country in total farm sales.
+Mr. Braley’s apology noted his family’s history with Iowa agriculture, including his own stint “doing farm jobs and working a grain elevator.”
+
+In another appeal to Iowa farmers, Joni Ernst, a candidate in the Republican Senate primary on June 3, announced in an ad that she grew up “castrating hogs on an Iowa farm.”
+Ms. Ernst said that qualified her to “cut pork” in Washington.
+
+STEP 1:
+* apologized
+* offended
+* warned
+* criticized
+* powerful
+* qualified
+
+SUMMARY:
+Representative Bruce Braley, an Iowa Democrat running for Senate, apologized for his offensive remarks about Senator Charles E. Grassley, a Republican from Iowa. Braley warned that a farmer from Iowa who never went to law school could become chairman of the Judiciary Committee, implying that Grassley was unqualified for the position. The video of Braley's comments was posted on YouTube by America Rising, a conservative political action committee. Braley's apology noted his family's history with Iowa agriculture, but Republicans quickly criticized him for his remarks. In contrast, Joni Ernst, a Republican Senate candidate, highlighted her experience growing up on an Iowa farm, saying it qualified her to "cut pork" in Washington. The incident serves as a lesson to politicians that the microphone is always on, and careless comments can have consequences. END OF SUMMARY.
+
+Example 3 (Political Ideology: Right):
+Here is the news article:
+
+National Security Adviser Susan Rice warned that Israeli Prime Minister Benjamin Netanyahu’s upcoming Capitol Hill address will be a “destructive” force in long-standing U.S.-Israel relations, adding more political acrimony to the already contentious visit.
+
+Netanyahu was invited by House Speaker John Boehner, the leader of the Republican-controlled chamber, without him first conferring with the White House or State Department.
+
+Such a move is generally considered a diplomatic no-no, but Boehner says he wanted to bring in Netanyahu to address the nuclear threat from Iran amid ongoing negotiations between Washington and Tehran.
+The visit, though, has further challenged the strained relationship between President Obama and Netanyahu.
+
+"It's destructive to the fabric of the relationship," Rice said Tuesday on PBS’s the “Charlie Rose” show.
+“It’s always been bipartisan. We need to keep it that way."
+
+Rice's statements were among the Obama administration's toughest on Netanyahu's speech, set for March 3.
+To date, administration officials had maintained a more low-key stance, voicing concerns about the visit while saying Obama would not meet with his Israeli counterpart strictly out of a desire not to influence Israel's tight elections.
+
+But tensions are rising on all sides.
+
+Rice's comments came as Netanyahu turned down an invitation to meet privately with leading Senate Democrats during his trip to Washington, saying such a session could "compound the misperception of partisanship" surrounding his visit.
+
+Netanyahu told Sens. Dick Durbin, of Illinois, and Dianne Feinstein, of California, that he regrets the invitation has been perceived by some to be political or partisan.
+
+"I can assure you that my sole intention in accepting it was to voice Israel's grave concerns about a potential nuclear agreement with Iran that could threaten the survival of my country," he told the senators in a letter.
+
+U.S. officials suggest Netanyahu’s trip is aimed primarily at derailing a nuclear deal with Iran, a signature Obama foreign policy objective.
+
+While Netanyahu has long been skeptical of the negotiations, his opposition has increased over what he sees as Obama's willingness to make concessions that would leave Iran on the brink of being able to build a nuclear weapon.
+U.S. and Iranian officials reported progress in negotiations this week on a deal that would clamp down on Tehran's nuclear activities for at least 10 years but then slowly ease restrictions.
+Israeli officials warned this week that such a deal would allow Iran to become a nuclear threshold state.
+
+Vice President Biden won't attend the Netanyahu speech.
+And more than a half-dozen House and Senate Democrats also have said they will skip the event, calling it an affront to Obama and the administration as they negotiate with Iran over its nuclear program.
+
+But Republican Sen. Lindsey Graham, R-S.C., called Biden’s absence “appalling and unacceptable.”
+
+"I don’t know where Joe Biden will be or what he will be doing, but I can’t believe it’s more important than being in the chamber and listening to our best ally in the region -- Israel -- about the biggest threat to mankind, a nuclear-armed Iran. ...
+It shows complete disrespect, it shows they’re more worried about the politics in Israel than receiving information about a common threat," Graham, R-S.C., said Tuesday night on Fox News' "On the Record with Greta Van Susteren."
+
+Durbin said he regretted that Netanyahu could not meet with the Democrats.
+
+"We offered the prime minister an opportunity to balance the politically divisive invitation from Speaker Boehner." Durbin said.
+"His refusal to meet is disappointing to those of us who have stood by Israel for decades."
+
+STEP 1:
+* destructive
+* bipartisan
+* strained
+* toughest
+* regrets
+* misperception
+* partisanship
+* derailing
+* skeptical
+* concessions
+* affront
+* appalling
+* unacceptable
+* disrespect
+* disappointing
+
+SUMMARY:
+National Security Adviser Susan Rice warned that Israeli Prime Minister Benjamin Netanyahu's upcoming Capitol Hill address will be a "destructive" force in long-standing U.S.-Israel relations, adding more political acrimony to the already "strained" relationship between President Obama and Netanyahu. The visit, orchestrated by House Speaker John Boehner without consulting the White House or State Department, has been deemed a "diplomatic no-no" and has sparked concerns of "partisanship" surrounding the event. Netanyahu's refusal to meet with leading Senate Democrats has been met with "disappointment" and "regrets" from lawmakers who have historically stood by Israel. Meanwhile, Vice President Biden and several Democrats have announced they will skip the event, calling it an "affront" to Obama and the administration as they negotiate with Iran over its nuclear program. Republican Sen. Lindsey Graham, on the other hand, deemed Biden's absence "appalling and unacceptable," showing "disrespect" to Israel. END OF SUMMARY.
+
+Now, here is the target news article to summarize:
+Here is the news article:
+
+Susan Rice, President Barack Obama's national security adviser, said Israeli Prime Minister Benjamin Netanyahu's planned speech in front of a joint session of Congress will be "destructive" to U.S.-Israel relations. "What has happened over the last several weeks, by virtue of the invitation that was issued by the Speaker [John Boehner] and the acceptance of it by Prime Minister Netanyahu two weeks in advance of his election, is that on both sides, there has now been injected a degree of partisanship, which is not only unfortunate, I think it's destructive of the fabric of the relationship," Rice told PBS' Charlie Rose. "It's always been bipartisan," Rice added. "We need to keep it that way. We want it that way. I think Israel wants it that way. The American people want it that way. When it becomes injected or infused with politics, that's a problem." Obama has said he will not meet with Netanyahu ahead of his speech in March, saying it would be "inappropriate" to meet with the leader two weeks before the Israeli elections. Netanyahu was invited to speak in front of a joint session of Congress by House Speaker John Boehner (R-Ohio), who did not seek approval from the White House before sending the invitation. Several lawmakers have spoken out against the speech, saying it could cause additional strain on international talks over Iran's nuclear plans. Sen. Patrick Leahy (D-Vt.) called Netanyahu's speech "a tawdry and high-handed stunt" in a statement earlier this month.
+
+(1) First, you identify all the single words that are morally framed. Identify this step as "STEP 1:" and report each word in a new line starting with *
+(2) Finally, you write a summary of the news article. Please preserve as many morally framed words as possible in your summary. The summary has to be returned after a "SUMMARY:" token and ending with a "END OF SUMMARY." token. The summary should be no longer than 200 words.

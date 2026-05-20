@@ -1,0 +1,228 @@
+You have to summarize the following text preserving the moral framing that the author gave to it.
+
+Please study the following examples of news articles, their moral word extraction, and summaries preserving the moral framing:
+
+Example 1 (Political Ideology: Left):
+Here is the news article:
+
+(CNN) Alabama Republican Senate candidate Roy Moore says he will sue the Washington Post over its report alleging he pursued sexual relationships with teenagers -- including a 14-year-old -- when he was in his 30s.
+
+"The Washington Post published another attack on my character and reputation because they are desperate to stop my political campaign.
+These attacks said I was with a minor child and are false and untrue -- and for which they will be sued," Moore said Sunday night during a campaign speech in Huntsville, Alabama.
+
+The Washington Post declined to comment Monday morning.
+
+It's not uncommon for public figures to threaten legal action against news organizations but ultimately fail to follow through.
+President Donald Trump threatened to sue The New York Times last year after it published the accounts of two women who claimed Trump touched them inappropriately.
+His lawyers never filed a lawsuit.
+
+More recently, disgraced Hollywood mogul Harvey Weinstein initially threatened to sue the Times after it first reported allegations of sexual misconduct against him, but that suit never materialized
+
+The Washington Post report Thursday was based on interviews with more than 30 people.
+As well as the allegations that Moore had sexual contact with the then 14-year-old when he was aged 32, three other women also told The Post that Moore pursued them when they were between the ages of 16 and 18.
+
+The woman who was 14 years old at the time claimed he took her to his house, undressed down to his underwear and undressed her down to her bra and underwear and touched her and moved her hand to touch his underwear, which could have been sexual offenses due to her age, but the statutes of limitations in effect during that time have passed.
+
+None of the other three women told the Post that Moore sexually harassed, or assaulted them, or forced them into a relationship.
+Alabama's legal age of consent is 16.
+
+Moore has denied the allegations since they were published.
+He called the claims " completely false " Friday when appearing on Sean Hannity's syndicated radio show.
+
+Speaking at a Veterans Day event at the Mid-Alabama Republican Club in Birmingham Saturday, Moore called the allegations "fake news" and "yet another attack on my character and reputation in a desperate attempt to stop my political campaign for the United States Senate."
+
+He added that the alleged incidents happened nearly 40 years ago and called them "very hurtful to me personally -- I have the highest regard for the protection of young children," before adding that he has never provided alcohol to a minor and has "not been guilty of sexual misconduct with anyone."
+
+Moore added that there were ongoing "investigations" looking into the motivations behind the Post article, and promised "revelations" about the story to come in the next few days, though he did not provide further specifics.
+
+A number of Republicans withdrew their endorsements of Moore following the Washington Post article, including the National Republican Senatorial Committee, which severed a joint fundraising agreement that benefits Moore's campaign.
+
+STEP 1:
+* false
+* untrue
+* desperate
+* attack
+* character
+* reputation
+* fake
+* hurtful
+* highest
+* guilty
+* misconduct
+
+SUMMARY:
+Alabama Republican Senate candidate Roy Moore has denied allegations of pursuing sexual relationships with teenagers, including a 14-year-old, when he was in his 30s, calling the claims "completely false" and "fake news". Moore accused The Washington Post of launching a "desperate" attack on his character and reputation to stop his political campaign. The Post's report, based on interviews with over 30 people, alleged that Moore had sexual contact with the 14-year-old and pursued three other women between the ages of 16 and 18. Moore has threatened to sue The Washington Post over the report, which he claims is "hurtful" to him personally. He emphasized his "highest regard for the protection of young children" and denied any "sexual misconduct" with anyone. Several Republicans have withdrawn their endorsements of Moore following the report. END OF SUMMARY.
+
+Example 2 (Political Ideology: Center):
+Here is the news article:
+
+Obama Willing to Use Executive Orders on Guns
+
+WASHINGTON — President Obama this week will embrace a comprehensive plan to reduce gun violence that will call for major legislation to expand background checks for gun purchases and lay out 19 separate actions the president could take by invoking the power of his office, lawmakers who were briefed on the plan said Monday.
+
+Lawmakers and other officials said that the president could use a public event as soon as Wednesday to signal his intention to engage in the biggest Congressional fight over guns in nearly two decades, focusing on the heightened background checks and including efforts to ban assault weapons and their high-capacity clips.
+But given the difficulty of pushing new rules through a bitterly divided Congress, Mr. Obama will also promise to act on his own to reduce gun violence wherever possible.
+
+Actions the president could take on his own are likely to include imposing new limits on guns imported from overseas, compelling federal agencies to improve sharing of mental health records and directing the Centers for Disease Control and Prevention to conduct research on gun violence, according to those briefed on the effort.
+
+White House aides believe Mr. Obama can also ratchet up enforcement of existing laws, including tougher prosecution of people who lie on their background checks.
+
+At a news conference on Monday, exactly one month after the school massacre in Newtown, Conn., Mr. Obama said a task force led by Vice President Joseph R. Biden Jr. had “presented me now with a list of sensible, common-sense steps that can be taken to make sure that the kinds of violence we saw at Newtown doesn’t happen again.
+He added: “My starting point is not to worry about the politics.
+My starting point is to focus on what makes sense, what works.”
+
+The administration’s strategy reflects the uncertainty of gun politics in America and the desire by White House officials to address the Connecticut shooting while also confronting the broader deficiencies in the country’s criminal justice and mental health systems.
+
+By proposing to use the independent power of his office, Mr. Obama is inviting political attacks by gun owners who have already expressed fear that he will abuse that authority to restrict their rights.
+Representative Steve Stockman, Republican of Texas, threatened Monday to file articles of impeachment if the president seeks to regulate guns with executive orders.
+“I will seek to thwart this action by any means necessary,” Mr. Stockman said in a statement.
+
+White House officials and Democratic lawmakers said that there are clear limits to what the president can and cannot do, and that Mr. Obama has no plans to push beyond what he would need Congressional authority to accomplish.
+
+On Capitol Hill, Mr. Obama’s legislative effort will face intense opposition from gun rights groups, including the National Rifle Association, and the lawmakers they support with millions of dollars at election time and who see gun rights as a defining issue in their districts.
+But Mr. Obama’s allies see a rare opening for tighter gun rules after Congress has shied away from the politically charged issue for years.
+
+“He’s putting together a pretty comprehensive list of what could be done to make a difference in this area,” said Representative Mike Thompson of California, who is heading a Democratic task force in the House.
+“There’s some huge, huge holes in the process that are set up to keep communities safe.
+We need to close those holes.”
+
+Representative Jackie Speier, Democrat of California, said Vice President Biden had informed lawmakers during a two-hour briefing on Monday that there are “19 independent steps that the president can take by executive order.”
+Ms. Speier said the executive action is part of the “most comprehensive gun safety effort in a generation.”
+
+Rahm Emanuel, the mayor of Chicago and Mr. Obama’s former chief of staff, joined the debate on Monday and said that the president should “clear the table” by doing whatever he can administratively so small issues do not get in the way of the bigger legislative fights over access to guns.
+
+“Don’t allow a side issue to derail these things,” Mr. Emanuel said during a discussion about gun policy.
+While many gun control advocates are eager to harness what they believe is a ripe moment in American life for new and robust restrictions on the kinds of guns that were used in Newtown, there is an emerging consensus on Capitol Hill and among gun education groups that improving the system of background check legislation that currently exempts private gun sales and gun shows is the most viable legislative route to pursue.
+
+“The assault-weapons ban is a low priority relative to the other measures the Biden task force is considering,” Matt Bennett, a spokesman for Third Way, a left-leaning research group, said after hearing from Mr. Biden last week.
+“Political capital in the gun debate only goes so far.
+We think it should be spent on things that would have the greatest impact on gun violence, like universal background checks and cracking down on gun trafficking.”
+
+Any efforts to get gun legislation through Congress will require an enormous and ceaseless pressure campaign by the administration.
+Mr. Obama and Mr. Biden are likely to keep up the pressure on lawmakers with public events in the weeks and months ahead, according to those familiar with the White House strategy.
+
+Scores of senators, including many Democrats, will be wary of voting on any effort to curb access to guns or ammunition.
+Senator Harry Reid of Nevada, the Democratic leader, is a longtime supporter of gun rights.
+Still, gun legislation is likely to begin in the Senate because the House is controlled by Republicans, many of whom oppose new restrictions on guns.
+
+With fiscal issues continuing to dominate the political calendar for the next several weeks, White House officials and lawmakers say the gun safety effort is likely to be debated in separate pieces of legislation that could be introduced over time.
+In coming weeks, Senator Charles E. Schumer, Democrat of New York, will reintroduce a measure that would require every gun buyer, with limited exceptions, to undergo a background check and would force states to feed all relevant data into the background check system so those with criminal convictions and the mentally ill could be flagged.
+
+STEP 1:
+* sensible
+* common-sense
+* fear
+* restrict
+* abuse
+* authority
+* rights
+* comprehensive
+* huge
+* safe
+* clear
+* ripe
+* robust
+* viable
+* low
+* priority
+* capital
+* greatest
+* impact
+
+SUMMARY:
+President Obama is willing to use executive orders to reduce gun violence, focusing on expanded background checks, banning assault weapons, and improving mental health records. Despite potential political attacks, Obama is committed to taking "sensible, common-sense steps" to prevent future tragedies like the Newtown massacre. The administration's strategy acknowledges the uncertainty of gun politics in America and the need to address broader deficiencies in the criminal justice and mental health systems. While some lawmakers and gun rights groups may oppose the measures, Obama's allies see a rare opportunity for tighter gun rules. The president's plan includes 19 separate actions he can take by invoking executive power, including imposing new limits on imported guns and directing the Centers for Disease Control and Prevention to conduct research on gun violence. END OF SUMMARY.
+
+Example 3 (Political Ideology: Right):
+Here is the news article:
+
+Robert E. Lee monument in Richmond, Va.
+
+Secession was a traitorous act that threatened to destroy the American nation, and the South’s leaders don’t deserve to be given a place of honor.
+
+In the wave of cancellations sweeping America, Confederate statues have been particularly hard hit.
+
+They have been graffitied, assaulted, and torn down, while authorities rush to remove them.
+
+For his part, President Donald Trump has been a steadfast defender of the statues and other forms of recognition of the Confederacy.
+He has come out in favor of preserving the names of military bases named after Confederate generals and pointedly said that we should build on our heritage rather than tear it down.
+
+Conservatives tend to think the same way.
+They reflexively oppose politically correct campaigns to destroy anything giving offense.
+
+They fear where the slippery slope of woke iconoclasm will lead — first it’s Jefferson Davis, ultimately George Washington.
+
+They value tradition and worry we are trashing part of our history.
+
+This impulse, though, is a mistake.
+Confederate statues and symbols deserve to be reevaluated, and often mothballed.
+
+The statues are an unnecessary affront to black citizens, who shouldn’t have to see defenders of chattel slavery put on a pedestal, literally.
+
+It is impossible to evaluate these monuments without considering the context of why they were created.
+Many of them were erected as part of the push to enshrine a dishonest, prettied-up version of the Confederacy.
+
+Finally, learning about, say, Robert E. Lee doesn’t require staring up at a 60-foot-tall statue of him on a major Richmond, Va., thoroughfare.
+
+We should make distinctions, of course.
+Big statues in prominent public spaces erected to make a point about the supposed glories of the Confederacy should be transferred elsewhere (ideally to museums or battlefields).
+But this should be done lawfully, not via mob action.
+
+The Confederate flag should be shunned, as a symbol of a viciously flawed cause.
+
+Direct commemorations of the Confederate war dead — obelisks with lists of names, Confederate cemeteries — should be preserved to mark the human cost of a terrible conflict.
+
+The bases are a harder case, since their names have themselves entered the American military tradition.
+But as the source of those names becomes more widely known, it’s going to be harder to ask African-American soldiers willing to sacrifice life and limb for their country to look past them.
+
+The Richmond statue of Lee, which Virginia governor Ralph Northam has said is coming down, has long been a point of contention.
+Its 1890 unveiling was a key moment in the creation of a cult of Lee as a man of “moral strength and moral beauty,” as a speaker put it that day.
+
+Frederick Douglass appropriately scorned this movement.
+“It would seem,” he wrote sarcastically, “that the soldier who kills the most men in battle, even in a bad cause, is the greatest Christian, and entitled to the highest place in heaven.”
+
+The apotheosis of Lee was an element of a Lost Cause mythology that maintained that the Civil War wasn’t truly about slavery, only Southern states defending their legitimate prerogatives.
+
+Alexander Stephens, the vice president of the Confederacy, would have scoffed at this.
+In his notorious Cornerstone Speech in 1861, he said the new government was built on “the great truth” of slavery.
+
+The theory of states’ rights that the Confederacy used to justify secession wasn’t meant to preserve our constitutional scheme, but to demolish it.
+The idea had been developed by former vice president John C. Calhoun of South Carolina, who believed the country had set off on an erroneous, nationalist path from the very beginning.
+
+Besides, the South supported states’ rights only to the extent that they were useful in protecting slavery.
+It insisted, after all, on a federal Fugitive Slave Act.
+
+Secession was a traitorous act that threatened to destroy the American nation, to create a rump republic built on slavery, and to make impossible the subsequent rise of the United States to a world power.
+Its leaders don’t deserve to be given a place of honor in our landscape denied to worthier men.
+Confederate statues shouldn’t be vandalized, but they should go.
+
+STEP 1:
+* traitorous
+* defenders
+* woke
+* iconoclasm
+* dishonest
+* prettied-up
+* viciously
+* flawed
+* terrible
+* moral
+* Christian
+* entitled
+* bad
+* legitimate
+* erroneous
+* nationalist
+* erroneous
+* useful
+* worthier
+
+SUMMARY:
+The removal of Confederate statues and symbols is a necessary step in reevaluating the country's heritage. These monuments were erected to enshrine a dishonest and prettied-up version of the Confederacy, and their presence is an unnecessary affront to black citizens. The Confederate flag is a symbol of a viciously flawed cause and should be shunned. Direct commemorations of the Confederate war dead should be preserved, but big statues in prominent public spaces should be transferred to museums or battlefields. Secession was a traitorous act that threatened to destroy the American nation, and its leaders don't deserve a place of honor. Confederate statues shouldn't be vandalized, but they should be removed and reevaluated. It's time to make distinctions and acknowledge the human cost of a terrible conflict. END OF SUMMARY.
+
+Now, here is the target news article to summarize:
+Here is the news article:
+
+LOS ANGELES/CHARLESTON, S.C. (Reuters) - Democratic presidential front-runner Joe Biden on Wednesday accused Republican President Donald Trump of fueling the white supremacy beliefs blamed for several U.S. mass shootings, as Trump visited two cities where 31 people were killed in rampages last weekend. “In both clear language and in code, this president has fanned the flames of white supremacy in this nation,” Biden, the former vice president, said in a speech in Burlington, Iowa. Another contender for the Democratic presidential nomination, U.S. Senator Cory Booker, took up the themes of white nationalism and gun violence in a speech at the historically black South Carolina church where white supremacist Dylann Roof shot dead nine people in 2015. “These acts of hatred do not happen in a vacuum,” Booker said at Emanuel African Methodist Episcopal Church in Charleston. “They are harvested only once they have been planted.” The weekend’s back-to-back mass shootings intensified criticism of what many say is incendiary rhetoric by Trump. The president, who has insisted he is not a racist, said Americans must “condemn racism, bigotry and white supremacy” in a speech on Monday. On Saturday, a gunman killed 22 people in El Paso, a Texas city on the border with Mexico. Law enforcement agencies say the suspected gunman was driven by hatred for Hispanics, citing an online manifesto apparently written by the shooter that was rife with anti-immigrant hatred. In the second mass shooting 13 hours later, a gunman in Dayton, Ohio, fatally shot nine people, including his sister, before he was killed by police. 2020 Democratic U.S. presidential candidate and former Vice President Joe Biden speaks during a campaign stop in Burlington, Iowa, U.S., August 7, 2019. Trump’s rhetoric, including calling Central Americans trying to enter the United States “an invasion,” and his hard-line immigration policies have exposed him to renewed condemnation following the El Paso shooting. “How far is it from Trump’s saying this ‘is an invasion’ to the shooter in El Paso declaring ‘his attack is a response to the Hispanic invasion of Texas?’ Not far at all,” Biden said in a fiery address. Trump aides deny his rhetoric was a cause of the shootings. In his national address, the president proposed reforming mental health laws, working with social media to detect possible mass shooters and keeping guns away from people considered potentially violent. He stopped short of calling for major gun law reforms. Trump visited El Paso and Dayton on Wednesday, where he was greeted by protesters. Biden and Booker are among 24 candidates vying to become the nominee to take on Trump in the November 2020 election. Most of the Democrats have called for stricter gun laws, including universal background checks for purchases and banning assault-style weapons. Booker has also proposed requiring licenses to own firearms. Biden invoked the rhetoric of previous presidents of both parties, including Republican George W. Bush and Democrat Bill Clinton, who he said “opposed hate.” “We have a president who has aligned himself with the darkest forces in the nation,” Biden said in Iowa. “We have a president with a toxic tongue who has publicly and unapologetically embraced a political strategy of hate, racism, and division.” In his remarks, Booker rejected the debate over whether Trump is a racist, saying that what really matters is how people intend to address the problem. “If the answer to the question, ‘Do racism and white supremacy exist?’ is yes, then the real question isn’t who is or isn’t a racist - but who is and isn’t doing something about it,” he said.
+
+(1) First, you identify all the single words that are morally framed. Identify this step as "STEP 1:" and report each word in a new line starting with *
+(2) Finally, you write a summary of the news article. Please preserve as many morally framed words as possible in your summary. The summary has to be returned after a "SUMMARY:" token and ending with a "END OF SUMMARY." token. The summary should be no longer than 200 words.

@@ -1,0 +1,135 @@
+You have to summarize the following text preserving the moral framing that the author gave to it, with particular focus on the specific moral foundations highlighted in the text.
+
+Please study the following examples of news articles and their summaries preserving the moral framing:
+
+Example 1 (Political Ideology: Left, Moral Foundations: Authority/Subversion, Fairness/Cheating):
+Here is the news article:
+
+WASHINGTON ― President Donald Trump is “very close” to selecting an interim candidate to replace former FBI Director James Comey, he told White House reporters on Thursday.
+
+Trump confirmed that former Sen. Joe Lieberman is his top choice, according to White House pool reports.
+The founder of Lieberman’s law firm ― Kasowitz, Benson, Torres & Friedman ― is one of the president’s top lawyers.
+
+Trump met on Wednesday with Lieberman and three other candidates: current acting FBI Director Andrew McCabe; Frank Keating, the former governor of Oklahoma who previously served as an FBI agent and in high-level positions in the Justice Department; and Richard McFeely, who served in the FBI for 24 years before retiring as executive assistant director in 2014.
+
+Lieberman, who was the 2000 Democratic vice presidential nominee before losing a primary bid for re-election and becoming an independent, would be an unconventional choice.
+He has no federal law enforcement experience and, while currently at a high-profile law firm, is most associated as a centrist Democrat.
+
+He has previously said that he would support an independent commission to investigate ties between Trump’s administration and Russia.
+But it is his background in politics that had Democrats reacting with severe reservation.
+
+Sen. Claire McCaskill (D-Mo.) called it a “mistake” to select an elected official to the post, saying that the FBI director should be a law enforcement official.
+While Sen. Brian Schatz (D-Hawaii), in an interview with Huffpost, called the possible nomination “shocking.”
+
+“There is no reason to appoint a politician to run the FBI,” Schatz said.
+“It is contrary to everything the FBI is about and it undermines the confidence that the public needs to have in the independence of the agency.
+And more to the point, it is not as if there is no one else qualified to do this job.
+There are literally dozens of people who would get a unanimous vote.”
+
+It is rare for an FBI director to be appointed without the full backing of the Senate, Schatz noted.
+And he speculated that a Lieberman nomination would split the chamber.
+
+A top Senate Democratic aide, likewise, put the prospects of immense opposition to the pick bluntly in an email to HuffPost: “There couldn’t possibly be worse time to take the unprecedented step of handing the FBI over to a politician.
+That absolutely includes Senator Lieberman.”
+
+During a Thursday Democratic caucus lunch, Sens. Dick Durbin (Ill.) and Sheldon Whitehouse (R.I.) trashed the idea of Lieberman, or any politician, being in charge of the FBI, according to a senior Democratic aide who was in the private meeting.
+A majority of Democrats in the room said they agreed that he’s a terrible choice.
+Not a one defended Lieberman.
+
+“The FBI director should be drawn from the ranks of career law enforcement‎, prosecutors or the FBI itself ― not politicians,” Durbin told HuffPost later.
+
+Republicans, by contrast, praised Lieberman.
+Sen. Marco Rubio (R-Fla.) expressed “great admiration” for the former senator, Sen. John Cornyn (R-Texas) speculated that Lieberman could get 100 confirmation votes, and Sen. John McCain (R-Ariz.), said he would be “overjoyed” if Lieberman, who is a friend of his, were picked.
+
+“Joe Lieberman has more experience than all of my Democrat colleagues combined, so screw them,” McCain said of Democrats’ concerns.
+
+The need for a new FBI director came after Trump fired Comey last week, a stunning move that occurred amid the FBI’s ongoing investigation into the Trump campaign’s ties to Russia.
+A series of explosive reports over the last week have heightened the appearance that Trump interfered with the investigation.
+In particular, The New York Times reported that Trump asked Comey to shut down a separate probe into former national security adviser Michael Flynn’s contacts with Russian officials, according to a memo Comey wrote to document a meeting with Trump.
+
+SUMMARY:
+
+President Trump is close to selecting an interim FBI Director, with former Sen. Joe Lieberman as his top choice. However, Democrats are strongly opposed to the idea, citing Lieberman's lack of federal law enforcement experience and his background in politics. They argue that the FBI Director should be a law enforcement official, not a politician, and that Lieberman's nomination would undermine the agency's independence and public confidence. Senators Claire McCaskill and Brian Schatz have expressed severe reservations, with Schatz calling the possible nomination "shocking" and "contrary to everything the FBI is about." Republicans, on the other hand, have praised Lieberman, with Senators Marco Rubio, John Cornyn, and John McCain expressing support for his nomination. The controversy comes amid the FBI's ongoing investigation into the Trump campaign's ties to Russia, which has been marred by reports of Trump's interference.
+
+END OF SUMMARY.
+
+Example 2 (Political Ideology: Center, Moral Foundations: Care/Harm, Fairness/Cheating):
+Here is the news article:
+
+WASHINGTON — President Trump on Monday said the F.B.I. ruined the life of his former national security adviser and said his Democratic opponent for president, Hillary Clinton, suffered no consequences after she lied “many times” to the F.B.I.
+
+Michael T. Flynn, Mr. Trump’s first national security adviser, pleaded guilty on Friday to lying to the F.B.I. when he was questioned early this year about his conversations with the Russian ambassador.
+He was the fourth person charged in the investigation of Robert S. Mueller III, the special counsel appointed to lead an inquiry into Russia’s influence on the 2016 election and possible ties to Trump associates.
+
+As he left for Utah on Monday, the president said he felt “very badly” for Mr. Flynn, whom he fired in February for lying to the vice president about the content of these conversations.
+
+Mr. Trump’s comments Monday on Mr. Flynn come at a time when the special counsel investigation is focusing intensely on the president’s inner circle.
+Mr. Trump once encouraged Mr. Flynn to seek an immunity deal.
+Presidents typically do not weigh in on federal investigations to avoid appearing to influence the outcome.
+
+“I feel badly for General Flynn,” Mr. Trump said on Monday. “I feel very badly.
+He’s led a very strong life and I feel very badly.
+Hillary Clinton lied many times to the F.B.I. Nothing happened to her.
+Flynn lied and they destroyed his life.”
+
+Mr. Trump did not cite specifically what Mrs. Clinton said that he considered a lie.
+
+Mrs. Clinton gave a voluntary interview to the bureau in July 2016 during its investigation into whether she or her aides broke the law by corresponding through a private email server set up for her use as secretary of state.
+A few days later, the F.B.I. director at the time, James B. Comey, recommended no charges be filed against her in the matter.
+
+SUMMARY:
+
+President Trump has expressed sympathy for his former national security adviser, Michael Flynn, who pleaded guilty to lying to the FBI about his conversations with the Russian ambassador. Trump feels "very badly" for Flynn, whom he fired in February for lying to the vice president. The president contrasted Flynn's fate with that of his Democratic opponent, Hillary Clinton, who he claims lied "many times" to the FBI but faced no consequences. Trump's comments come as the special counsel investigation into Russia's influence on the 2016 election and possible ties to Trump associates is intensifying its focus on his inner circle.
+
+The moral framing of this article suggests that Trump is attempting to deflect attention from his own administration's scandals by pointing fingers at his political opponents. By claiming that Clinton lied to the FBI with impunity, Trump is implying that the justice system is unfair and biased against him and his associates. This narrative is problematic, as it seeks to undermine the integrity of the FBI and the special counsel investigation, and perpetuates a culture of blame-shifting and dishonesty.
+
+END OF SUMMARY.
+
+Example 3 (Political Ideology: Right, Moral Foundations: Authority/Subversion):
+Here is the news article:
+
+Donald Trump announced Tuesday that he is bowing out as the moderator for a Republican presidential debate later this month, after most candidates in the field opted not to attend.
+
+Trump said he wanted to make sure there's no "conflict of interest" in case he decides to run as a third-party candidate next year.
+He cast his decision as a way to keep his options open.
+
+He said later on Fox News that he's still considering an independent bid.
+"I am looking at it, if the Republicans choose the wrong candidate, which is a possibility, and if the economy continues to be bad, which I think it will be," Trump said.
+
+The real estate mogul and reality TV star said he wants to make sure Republicans pick the "right" candidate -- he said he still plans to make an endorsement despite his threatened third-party run.
+
+Though the Dec. 27 debate technically is sponsored by Newsmax, Trump quickly became the face of it after he was named as moderator.
+
+While former House Speaker Newt Gingrich and former Pennsylvania Sen. Rick Santorum agreed to attend early on, other Republican candidates subsequently bowed out.
+
+Some expressed concern that Trump, who previously flirted with a possible Republican presidential bid before shelving the idea, would not definitively rule out running as a third-party candidate.
+
+Trump on Tuesday specifically cited Republican National Committee Chairman Reince Priebus' concerns about his involvement.
+He said he does not expect Newsmax to follow through with the debate now that he's out.
+
+"We would have done very well.
+We would have gotten great ratings," Trump said, voicing his trademark confidence.
+
+Trump first announced his debate decision in a written statement Tuesday afternoon.
+
+"It is very important to me that the right Republican candidate be chosen to defeat the failed and very destructive Obama administration, but if that Republican, in my opinion, is not the right candidate, I am not willing to give up my right to run as an independent candidate," he said.
+"Therefore, so that there is no conflict of interest within the Republican Party, I have decided not to be the moderator of the Newsmax debate.
+... I must leave all of my options open because, above all else, we must make America great again!"
+
+Trump went on to praise Gingrich and Santorum for "having the courage, conviction, and confidence" to agree to the debate.
+
+SUMMARY:
+
+Donald Trump has announced that he will no longer moderate the Republican presidential debate on December 27, citing potential "conflict of interest" if he decides to run as a third-party candidate. Trump claims he wants to keep his options open and ensure the Republicans choose the "right" candidate. He still plans to make an endorsement, but is considering an independent bid if the economy remains bad and the Republicans choose a weak candidate. Trump's decision comes after most candidates opted not to attend the debate, citing concerns that he might not rule out a third-party run. Trump praised Newt Gingrich and Rick Santorum for agreeing to participate, calling them courageous and confident. By stepping down, Trump is prioritizing the integrity of the Republican Party and putting the country's interests above his own ambitions.
+
+END OF SUMMARY.
+
+Now, here is the target news article to summarize:
+Here is the news article:
+
+President Trump said Thursday he is “very close” to naming a new FBI director to replace James Comey, and his leading contender is former Democratic Sen. Joe Lieberman. Lieberman, 75, who served in the Senate from 1989-2013, first as a Democrat and then as an independent, met with Trump at the White House on Wednesday afternoon to discuss leading the law enforcement agency. A late and somewhat unlikely addition to Trump's short list, Lieberman is nonetheless the sudden frontrunner. When asked point-blank by a reporter in the Oval Office Thursday if Lieberman was the leading contender, Trump replied, "Yes." Trump also met Wednesday with current acting FBI Director Andrew McCabe, former Oklahoma Gov. Frank Keating and FBI official Richard McFeely. Lieberman’s law enforcement experience stems from his two-term tenure as Connecticut’s attorney general, spanning from 1983 until his resignation in 1989 when he was elected to the U.S. Senate. Lieberman, who ran as vice president on Al Gore's 2000 ticket, became an independent after losing the Democratic primary in 2006. He won re-election, and two years later further angered Democrats when he endorsed John McCain for president against eventual winner Barack Obama, even speaking at the Republican National Convention. Lieberman told Fox Business Network last year that he “never changed parties” and in fact ended up endorsing Hillary Clinton in the 2016 presidential campaign against Trump. Some Republican senators called the idea of Lieberman replacing Comey “intriguing,” but Sen. Claire McCaskill, D-Mo., said it was a “mistake” to nominate him. "Lieberman is probably the only person who can get 100 votes in the Senate," Senate Majority Whip John Cornyn, R-Texas, said on Capitol Hill on Thursday after the closed Senate briefing with Deputy Attorney General Rod Rosenstein. Cornyn was on the White House's shortlist to replace Comey, but withdrew himself from consideration this week. On Thursday morning on the Senate floor, Senate Minority Leader Chuck Schumer, D-N.Y., argued against a “career politician” of either party to lead the FBI, though he did not name Lieberman.
+
+For this target article, the author's moral framing heavily relies on the following Moral Foundation dimensions: Loyalty/Betrayal.
+Please pay special attention to preserving the moral framing related to these specific dimensions (Loyalty/Betrayal) in your summary.
+
+The summary has to be returned after a "SUMMARY:" token and ending with a "END OF SUMMARY." token. The summary should be no longer than 200 words.

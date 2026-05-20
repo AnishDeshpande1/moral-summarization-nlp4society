@@ -1,0 +1,26 @@
+You have to summarize the following text preserving the moral framing that the author gave to it.
+
+Here is the news article:
+
+WASHINGTON (Reuters) - The U.S. House Judiciary Committee on Monday subpoenaed former White House aide Rob Porter to testify about alleged efforts by President Donald Trump to impede a federal probe into Russian interference in the 2016 presidential election. FILE PHOTO: White House Staff Secretary Rob Porter (L) arrives aboard Air Force One with fellow senior staff and U.S. President Donald Trump for a summer vacation at his Bedminster estate, at Morristown Airport in Morristown, New Jersey, U.S. August 4, 2017. Porter was the third former Trump adviser to draw a House Judiciary subpoena within the past two weeks. Porter and the other two advisers - Trump’s former campaign manager Corey Lewandowski and former White House Deputy Chief of Staff Rick Dearborn - are due to appear before the committee at 10 a.m. EDT on Sept. 17. House Judiciary Committee Chairman Jerrold Nadler said the proceedings would help the Democratic-led panel determine whether to recommend Trump’s impeachment to the full House of Representatives. Porter is a former White House staff secretary who witnessed a number of episodes laid out in former Special Counsel Robert Mueller’s Russia investigation report, including one involving then-White House Counsel Don McGahn that Democrats view as key to their investigation of the Trump presidency. “Rob Porter was prominently featured in the special counsel’s description of President Trump’s efforts to obstruct justice by directing ... McGahn to fire the special counsel, and then ordering him to lie about it,” Nadler said in a statement. Democrats want Lewandowski and Dearborn to testify about another damaging episode that involves the president’s alleged efforts to pressure then-Attorney General Jeff Sessions to direct Mueller’s Russia investigation away from the 2016 Trump campaign. “No one is above the law,” Nadler said, adding “any other American would have been prosecuted based on the evidence Special Counsel Mueller uncovered in his report.” Porter could not be immediately reached for comment. It is not clear whether the White House will seek to block the testimony of Porter and Dearborn, as it has that of McGahn and other onetime Trump White House aides. Lewandowski, a Trump confidant who has never served on the White House staff, has said he will testify. McGahn told Mueller that Trump repeatedly instructed him to have the special counsel removed and then asked him to deny having been so instructed when news of the action emerged in news reports. McGahn did not carry out either instruction. According to the Mueller report, Trump turned to Porter to pressure McGahn into writing a letter of denial. “If he doesn’t write a letter, then maybe I’ll have to get rid of him,” the Mueller report quotes Trump as telling Porter. The report said Porter recalled that the president referred to McGahn as a “lying bastard.” Trump also asked Porter to stay in touch with former Associate Attorney General Rachel Brand, whom Porter knew, as a possible replacement for Sessions after the attorney general recused himself from the Russia probe and refused Trump’s demands that he reverse his decision. “In asking him to reach out to Brand, Porter understood the president to want to find someone to end the Russia investigation or fire the special counsel, although the president never said so explicitly,” the Mueller report said. Porter was interviewed twice by the special counsel team, and, according to the Mueller report, took contemporaneous notes during a number of other incidents that now interest Democrats. He left the White House in February 2018 after accusations of domestic abuse from his former wives.
+
+The author used the following morally framed words in the article:
+* interference
+* efforts
+* obstruct
+* directing
+* fire
+* ordering
+* lie
+* instructed
+* removed
+* asked
+* deny
+* get
+* lying
+* asking
+* find
+* end
+* abuse
+
+Please preserve as many morally framed words as possible in your summary. The summary has to be returned after a "SUMMARY:" token and ending with a "END OF SUMMARY." token. The summary should be no longer than 200 words.

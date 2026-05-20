@@ -1,0 +1,180 @@
+You have to summarize the following text preserving the moral framing that the author gave to it.
+
+Please study the following examples of news articles, their moral word extraction, and summaries preserving the moral framing:
+
+Example 1 (Political Ideology: Left):
+Here is the news article:
+
+WASHINGTON ― The White House relayed President Donald Trump’s response late Thursday to bombshell allegations that Alabama GOP Senate nominee Roy Moore sexually molested a 14-year-old girl in 1979.
+
+White House press secretary Sarah Huckabee Sanders, traveling with the president on his trip to Asia, told reporters that Trump “believes that we cannot allow a mere allegation ― in this case, one from many years ago ― to destroy a person’s life” but that if the allegations are true, “Judge Moore will do the right thing and step aside.”
+
+A spokesperson for Vice President Mike Pence said the veep “found the allegations in the story disturbing and believes, if true, this would disqualify anyone from serving in office.”
+
+Moore’s campaign denied the allegations, which The Washington Post first reported, telling the paper the accusations of four women are “the very definition of fake news.”
+The Post reporters talked to more than 30 sources in the course of their investigation.
+
+On Thursday, numerous Republican lawmakers on Capitol Hill called on Moore to drop out of the race ― if the allegations are true.
+
+During his 2016 campaign, Trump dismissed allegations of sexual misconduct against himself from more than a dozen women and threatened to sue some of his accusers.
+He claimed that a 2005 tape of him bragging about sexual assault, which was released last fall, was “locker room talk.”
+
+In September, Moore, a controversial judge in Alabama, won the primary for the special election.
+He beat GOP establishment candidate Sen. Luther Strange (R-Ala.), who was chosen to fill the seat left vacant when Jeff Sessions became Trump’s attorney general.
+
+Trump notably backed Strange over Moore, though many members of his base, including former White House chief strategist Steve Bannon, supported Moore.
+
+But after Moore won, Trump disavowed his endorsement of Strange, deleting tweets in support of him.
+And the day after the primary, the president tweeted in support of Moore, calling him “a really great guy.”
+
+STEP 1:
+* disturbing
+* fake
+* allegations
+* true
+* disqualify
+* right
+* mere
+* destroy
+* disturbing
+
+SUMMARY:
+The White House has responded to the bombshell allegations of sexual molestation against Alabama GOP Senate nominee Roy Moore, with President Trump saying that a "mere allegation" from many years ago should not "destroy a person's life". However, if the allegations are "true", Trump believes Moore will "do the right thing and step aside". Vice President Mike Pence found the allegations "disturbing" and believes they would "disqualify" anyone from serving in office if true. The allegations, which Moore's campaign has denied as "fake news", have led to numerous Republican lawmakers calling on Moore to drop out of the race if they are true. This comes after Trump himself was accused of sexual misconduct by over a dozen women during his 2016 campaign, which he dismissed as "locker room talk". END OF SUMMARY.
+
+Example 2 (Political Ideology: Center):
+Here is the news article:
+
+Hillary Clinton and her running mate, Sen. Tim Kaine of Virginia, speak to reporters on board the Clinton campaign plane on Saturday.
+
+PITTSBURGH—Hillary Clinton on Saturday drew a contrast between how she and Republican rival Donald Trump would conduct their first 100 days in office, zeroing in on his contention that he would sue the women who have accused him of making unwanted sexual advances.
+
+Speaking to reporters on her campaign plane Saturday night, Mrs. Clinton and her running mate, Sen. Tim Kaine of Virginia, said Mr. Trump seemed less intent on governing than on avenging personal grievances.
+
+Earlier on Saturday, Mr. Trump spoke at the Civil War battlefield in Gettysburg, Pa., where he laid out his agenda for the first 100 days of his presidency and threatened to sue his accusers after the election.
+
+The remark got the attention of the Clinton campaign, which has been trying to make inroads among college-educated women who normally vote Republican.
+
+“Our opponent, Donald Trump, went to Gettysburg, one of the most extraordinary places in American history,” Mrs. Clinton said, “and basically said if he’s president he will spend his time suing women who have made charges against him based on his behavior.”
+
+By contrast, she said, “Tim and I are going to keep talking about what we want to do if we’re given the great honor of serving as president and vice president.
+We’ll get to work the day after the election and do everything possible to be prepared on Jan. 20 to start doing the business of the American people.”
+
+Mr. Kaine, who was accompanying Mrs. Clinton to a late-night rally in Philadelphia, added that Mr. Trump “seemed most personally invested in…all of the scores that he needs to settle with people he’s mad at.”
+
+The pair had just come from a rally at a local high school in Pittsburgh.
+Both campaigns have made Pennsylvania a particular focus.
+Analysts believe that a Clinton victory in the state would cut off one possible path by which Mr. Trump could reach the needed threshold of 270 electoral votes.
+
+Speaking to 1,800 people at the Pittsburgh rally, Mrs. Clinton touched on a theme she has emphasized in recent days: that Mr. Trump is a danger to America’s democratic traditions.
+She has faulted him for saying during Wednesday’s presidential debate that he might not concede the election in the event of a defeat.
+
+Failing to accept election results, however disappointing, is the difference between “leadership and dictatorship,” Mrs. Clinton said Saturday, adding that Mr. Trump shows a troubling disregard for constitutional freedoms and protections.
+
+She also referred to the GOP presidential nominee’s contention that she should be jailed for using a private email system while she was secretary of state.
+
+“Every time he says he wants to jail his opponent—meaning me—I think to myself, ‘We don’t do that in America.
+We actually have laws and courts and an independent judiciary,’” she said.
+
+Mrs. Clinton spent part of the 37-minute address making a case for Democratic Senate candidate Katie McGinty, who is challenging incumbent Pennsylvania Republican Pat Toomey.
+
+Democrats believe Mr. Toomey’s defeat is central to retaking control of the Senate and providing Mrs. Clinton with a friendlier Congress should she win in November.
+Mr. Toomey leads by about two points in the Real Clear Politics average of polls.
+
+In devoting time to Ms. McGinty’s campaign, Mrs. Clinton showed she is thinking about down-ballot races that would affect her policy agenda should she win on Nov. 8.
+
+“Katie will help us break through the gridlock—actually make a difference in people’s lives,” Mrs. Clinton said.
+
+STEP 1:
+* avenging
+* grievances
+* extraordinary
+* honor
+* danger
+* dictatorship
+* troubling
+* disregard
+* laws
+* courts
+* independent
+* friendlier
+
+SUMMARY:
+Hillary Clinton contrasted her approach to governance with Donald Trump's, highlighting his intention to sue women who accused him of sexual misconduct. Clinton emphasized that Trump seems more intent on avenging personal grievances than governing, whereas she and her running mate, Tim Kaine, are focused on preparing to serve the American people. Clinton warned that Trump's behavior is a danger to America's democratic traditions, citing his refusal to accept election results and his disregard for constitutional freedoms and protections. She also criticized Trump's suggestion that she should be jailed, stating that "we don't do that in America" and that we have laws, courts, and an independent judiciary. Clinton's remarks aimed to appeal to college-educated women who normally vote Republican. END OF SUMMARY.
+
+Example 3 (Political Ideology: Right):
+Here is the news article:
+
+President Trump on Monday called the criminal case against former national security adviser Michael Flynn “very unfair,” claiming he and Hillary Clinton both “lied” to the FBI but only Flynn faced consequences.
+
+The president’s comments, made to reporters as he left Washington for a policy announcement in Utah, saw Trump wading deeper into the Flynn investigation even after a weekend tweet landed the White House in hot water.
+
+On Monday, Trump said he feels “badly” for Flynn, who pleaded guilty on Friday to giving false statements to the FBI about his Russia contacts.
+
+“Hillary Clinton lied many times to the FBI, nothing happened to her. Flynn lied and they destroyed his life,” Trump said. 
+
+The president, without offering specifics, said his 2016 Democratic rival “lied many times” during her FBI interview in early July.
+
+“Nothing happened to her. Flynn lied and it’s like they ruined his life. Very unfair,” Trump said, echoing a weekend tweet in which he asked whether a “double standard” was at play.
+
+Clinton was interviewed by FBI agents as part of the investigation into her exclusive use of a private email system while secretary of state. 
+
+After that interview, then-FBI Director James Comey called her actions extremely careless without recommending criminal charges.
+
+Trump also noted over the weekend that Clinton was not recorded or under oath during that interview.
+
+On Sunday, Sen. Lindsey Graham, R-S.C., suggested Trump might want to think twice before tweeting and commenting on the Russia case. 
+
+“You tweet and comment regarding ongoing criminal investigations at your own peril,” he said on CBS’ “Face the Nation.”
+
+This was after Trump’s account tweeted Saturday: “I had to fire General Flynn because he lied to the Vice President and the FBI. 
+
+He has pled guilty to those lies. 
+
+It is a shame because his actions during the transition were lawful. 
+
+There was nothing to hide!”
+
+That tweet immediately caused problems for the White House, as some legal experts said it potentially exposed the president to obstruction of justice allegations – since, according to the tweet, he would have known Flynn lied to agents when he allegedly asked Comey to lay off the Flynn investigation and later fired Comey. 
+
+Trump said earlier this year that he fired Flynn only for lying to Vice President Pence about the issue.
+
+Trump’s personal lawyer John Dowd later said he was the one who wrote that tweet, saying he “did not mean to break news.”
+
+Dowd attempted to explain Sunday that the tweet was referring to then-acting Attorney General Sally Yates telling White House Counsel Don McGahn in January that Flynn had “given the agents the same story he gave the vice president.”
+
+He also said the agents seemed to think Flynn was confused. 
+
+“All the president knew was that the department was not accusing him of lying,” Dowd said.
+
+Trump over the weekend denied that he asked Comey to stop investigating Flynn.
+
+Sen. Dianne Feinstein, D-Calif., the top Democrat on the Senate Judiciary Committee, said on NBC’s “Meet the Press” on Sunday that the panel has begun to see "the putting together of a case of obstruction of justice" against Trump.
+
+Flynn is now cooperating with Special Counsel Robert Mueller’s investigators in the Russia meddling case, though it’s unclear what exactly he might reveal about Trump and his associates.
+
+
+
+STEP 1:
+* unfair
+* lied
+* destroyed
+* ruined
+* extremely
+* careless
+* shame
+* lawful
+* nothing
+* peril
+* obstruction
+* justice
+
+SUMMARY:
+President Trump claimed the criminal case against Michael Flynn is "very unfair" and that Flynn's life was "ruined" because he lied to the FBI, whereas Hillary Clinton "lied many times" and faced no consequences. Trump's comments sparked controversy, with some legal experts suggesting his tweets could be seen as obstruction of justice. Trump's personal lawyer, John Dowd, attempted to clarify the situation, but Senator Dianne Feinstein stated that the Senate Judiciary Committee is building a case of obstruction of justice against Trump. Meanwhile, Flynn is cooperating with Special Counsel Robert Mueller's investigators in the Russia meddling case. Trump's comments have raised questions about a "double standard" and whether he is trying to influence the investigation. END OF SUMMARY.
+
+Now, here is the target news article to summarize:
+Here is the news article:
+
+President Trump thinks Alabama Republican Senate candidate Roy Moore “will do the right thing and step aside” if the sexual misconduct allegations against him are true, the White House said in a statement Thursday. Speaking to reporters following the president’s Asia trip on Air Force One, White House Press Secretary Sarah Sanders also cautioned against a rush to judgment. “Like most Americans, the president believes we cannot allow a mere allegation, in this case one from many years ago, to destroy a person’s life," Sanders said. "However, the president also believes that if these allegations are true, Judge Moore will do the right thing and step aside." Moore lashed out earlier at what he called "the Obama-Clinton machine's liberal media lapdogs" after The Washington Post reported on a woman's claims that the former judge and staunch social conservative initiated a sexual encounter with her when she was 14. In a series of tweets Thursday evening, Moore claimed "The forces of evil will lie, cheat, steal –– even inflict physical harm –– if they believe it will silence and shut up Christian conservatives." Amid calls for him to drop out of the race, Moore added, "Our nation is at a crossroads right now — both spiritually and politically. Our children and grandchildren’s futures are on the line. So rest assured — I will NEVER GIVE UP the fight!" The Post story centered on allegations made by Leigh Corfman, now 53. She told the newspaper that Moore, then an assistant district attorney, first approached her in 1979 outside a courtroom in Alabama where she was sitting with her mother. On another occasion, she said Moore, then 32, took her to his home in the woods and kissed her. During a subsequent visit, Corfman reportedly claimed he took off her shirt and pants; touched her over her bra and underwear; and guided her hand to his underwear. She said the two did not have sexual intercourse, and that she ended up getting dressed and asking Moore to take her home, according to the Post. “I wanted it over with – I wanted out,” she told the Post, apparently recalling her train of thought at the time. Moore did take her home, she said. The report caused immediate problems for Moore with his own party as he heads into the Dec. 12 election against Democrat Doug Jones. Several GOP senators called on him to step aside if the allegations are true – and at least one senator, Arizona’s John McCain, said he should drop out regardless. Senate Majority Leader Mitch McConnell, R-Ky., who backed Moore’s rival Luther Strange in the GOP primary, said in a statement: "If these allegations are true, he must step aside." Sen. Cory Gardner, R-Colo., head of the Senate GOP campaign arm, called the allegations “deeply troubling” and said: “If these allegations are found to be true, Roy Moore must drop out of the Alabama special Senate election.” Jones’ campaign told multiple news outlets: “Roy Moore needs to answer these serious charges.” But Moore’s campaign issued a statement saying the report is “baseless” and false. “National liberal organizations know their chosen candidate Doug Jones is in a death spiral, and this is their last ditch Hail Mary,” Moore campaign chairman Bill Armistead said. “Judge Roy Moore is winning with a double-digit lead. So it is no surprise, with just over four weeks remaining, in a race for the U.S. Senate with national implications, that the Democratic Party and the country’s most liberal newspaper would come up with a fabrication of this kind. “This garbage is the very definition of fake news and intentional defamation,” he said. The Post noted that the legal age of consent in the state is 16, and sexual contact by anyone 19 or older with anyone between 12 and 16 years old is considered second-degree sexual abuse. The statute of limitations, though, has long since passed. The Post interviewed three other women who were teenagers at the time who claimed Moore pursued them when he was in his 30s, though he did not force them into any type of sexual relationship. “I have prayed over this,” Corfman told the Post as to why she came forward, “All I know is that I can’t sit back and let this continue, let him continue without the mask being removed.” Alabama's Republican governor, Kay Ivey, responded: “These allegations are deeply disturbing. I will hold judgment until we know the facts. The people of Alabama deserve to know the truth and will make their own decisions.”
+
+(1) First, you identify all the single words that are morally framed. Identify this step as "STEP 1:" and report each word in a new line starting with *
+(2) Finally, you write a summary of the news article. Please preserve as many morally framed words as possible in your summary. The summary has to be returned after a "SUMMARY:" token and ending with a "END OF SUMMARY." token. The summary should be no longer than 200 words.

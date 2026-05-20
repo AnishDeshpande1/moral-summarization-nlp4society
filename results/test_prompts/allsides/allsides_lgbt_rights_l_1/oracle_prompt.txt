@@ -1,0 +1,34 @@
+You have to summarize the following text preserving the moral framing that the author gave to it.
+
+Here is the news article:
+
+In an effort to curtail hate speech against the backdrop of ongoing protests for gender, racial, and LGBTQ+ equality, Reddit has decided to shut down upwards of 2,000 communities that have a history of hate speech. With nearly 430 million monthly visitors, Reddit is one of the most popular websites on the globe. The purging of these communities — which include subreddits “Gender Critical,” a TERF forum, “The Donald,” a pro-Trump forum, and “CapoTrapHouse,” a radical left forum — comes in the wake of several brands vowing to ban advertisements on Facebook in protest of hate speech. That movement is led by several civil rights groups. While the company did not name every community they are booting off their platform, it did give a list of at least 10: “The_Donald,” “Gender Critical,” “CapoTrapHouse,” “Dark Humor And Memes,” “Consume Product,” “Cum Town,” “ImGoingtoHellforThis2,” “Wojak,” and “Soy Boys.” Subreddits are user-run communities. There are over 100,000 active subreddits, and rules for the forums as well as the enforcement of such policies are typically controlled by its moderator or creator. However, Reddit administrators have the power to step in when users break the site’s rules. In this case, the company’s argument for pulling these communities is that they broke several rules. “All communities on Reddit must abide by our content policy in good faith,” the company said in a statement. “We banned r/The_Donald because it has not done so, despite every opportunity. The community has consistently hosted and upvoted more rule-breaking content than average (Rule 1), antagonized us and other communities (Rules 2 and 8), and its mods [moderators] have refused to meet our most basic expectations. Until now, we’ve worked in good faith to help them preserve the community as a space for its users — through warnings, mod changes, quarantining, and more.” The statement continued, “Though smaller, r/ChapoTrapHouse was banned for similar reasons: They consistently host rule-breaking content and their mods have demonstrated no intention of reining in their community.” “The_Donald,” specifically, has promoted hate speech even before the 2016 election. After it was created in June 2015, it quickly became a melting pot for extreme political ideas. Even after other communities complained to Reddit, "The_Donald" posts were still visible given that users are able to “upvote” or “downvote” certain posts — people with the most influence are able to drive the most popular posts to the front page of the site. Last year, Reddit tried measures to fix the problem by isolating “The_Donald” users from the rest of the site, but it was short-lived. The Southern Poverty Law Center published a report on "The_Donald" in April 2018, highlighting users's paranoia about “white genocide” and its support of ethnic cleansing of Muslims in Myanmar. Furthermore, the subreddit “Gender Critical” is one of the site’s most active feminist communities for “women-centered, radical feminists” that consistently spews anti-trans rhetoric. With over 64,000 members, “Gender Critical” users have regularly denied that trans women are women, and have vocally supported JK Rowling’s TERF tirade. As seen in the "Gender Critical" archives, members have also blasted gender-neutral or trans-inclusive language written by trans allies, and have had hateful discussions about denying trans women access to bathrooms. "Ultimately, it’s our responsibility to support our communities by taking stronger action against those who try to weaponize parts of Reddit against other people," the company said. "In the near term, this support will translate into some of the product work we discussed with mods. But it starts with dealing squarely with the hate we can mitigate today through our policies and enforcement." Reddit also reiterated today that the purge of 2,000 communities is just the start of its mission to craft more rules around hate speech.
+
+The author used the following morally framed words in the article:
+* speech
+* break
+* broke
+* banned
+* hosted
+* upvoted
+* rulebreaking
+* antagonized
+* worked
+* help
+* host
+* promoted
+* melting
+* genocide
+* support
+* cleansing
+* spews
+* denied
+* discussions
+* denying
+* taking
+* try
+* weaponize
+* hate
+* mitigate
+
+Please preserve as many morally framed words as possible in your summary. The summary has to be returned after a "SUMMARY:" token and ending with a "END OF SUMMARY." token. The summary should be no longer than 200 words.

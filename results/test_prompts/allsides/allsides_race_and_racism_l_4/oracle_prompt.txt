@@ -1,0 +1,56 @@
+You have to summarize the following text preserving the moral framing that the author gave to it.
+
+Here is the news article:
+
+Trump cited a segment on the TV news show Fox & Friends in response to former president: ‘Obama had 32 mass shootings during his reign’ Donald Trump has hit back at Barack Obama after the former president said Americans must “soundly reject language” from any leader who “feeds a climate of fear and hatred or normalises racist sentiments” in his first public statement since mass shootings in Texas and Ohio that left 31 people dead. Obama’s statement did not mention Trump directly, but told Americans “we are not helpless” in the face of the country’s high frequency of mass shootings. “And until all of us stand up and insist on holding public officials accountable for changing our gun laws, these tragedies will keep happening,” Obama wrote. On Tuesday, Trump cited a segment on the TV news show Fox & Friends in response, quoting host Brian Kilmeade as saying: “Did George Bush ever condemn President Obama after Sandy Hook President Obama had 32 mass shootings during his reign. Not many people said Obama is out of Control. Mass shootings were happening before the President even thought about running for Pres.” Trump has faced fierce criticism for identifying video games, the internet and mental illness – but not guns – as the cause of the slaughter that left at least 31 dead and 53 injured in less than 24 hours over the weekend. He has also been accused of emboldening white nationalists through his racist statements. The suspect in the El Paso attack posted a racist, anti-immigrant screed featuring language used by Trump shortly before the rampage, investigators say. El Paso, a city on the border of Texas and Mexico, has a majority Hispanic population. Trump is expected to visit El Paso and the scene of Sunday’s shooting, in Dayton, Ohio on Wednesday. Beto O’Rourke, the 2020 presidential candidate and former El Paso congressman, was among the Democrats who opposed the visit. “This president, who helped create the hatred that made Saturday’s tragedy possible, should not come to El Paso,” O’Rourke tweeted. “We do not need more division. We need to heal. He has no place here.” Americans mourn victims of mass shootings – in pictures The shooting at a busy Walmart store in El Paso on Saturday killed 22 people, and a second shooting outside a crowded bar in Dayton early on Sunday killed nine people. The motive of the Dayton shooter, who died in the attack, is not yet clear. His 22 year-old sister was killed in the massacre. Obama, like many presidents before him, has exercised caution to avoid pointed criticism of his successor. But his comments on Monday left little doubt that his call to reject the normalisation of racism referred to Trump, who has spoken disparagingly about immigrants, calling them rapists and murderers, and has decried an “invasion” at the southern border. Trump has previously tempered his criticism of white supremacy, though he said in scripted remarks to the country on Monday that the US “must condemn racism, bigotry and white supremacy”. He also said he had directed the FBI to examine steps to identify and address domestic terrorism. Obama noted that the El Paso shooting followed a trend of “troubled individuals who embrace ideologies and see themselves obligated to act violently to preserve white supremacy”. He advised Americans to also denounce the language of “leaders who demonise those who don’t look like us, or suggest that other people, including immigrants, threaten our way of life, or refer to other people as subhuman”. Such language had “been at the root of most human tragedy throughout history”, Obama added, and had “no place in our politics and our public life”. Trump has spent the past month stoking racial resentments, tweeting that four US congresswomen of colour should “go back” to their countries, holding a rally where the crowd chanted “send her back!” and deriding the majority African American district that contains part of Baltimore as “a disgusting, rat and rodent infested mess”.
+
+The author used the following morally framed words in the article:
+* shootings
+* feeds
+* fear
+* hatred
+* normalises
+* racist
+* dead
+* stand
+* accountable
+* changing
+* tragedies
+* happening
+* identifying
+* slaughter
+* injured
+* emboldening
+* attack
+* antiimmigrant
+* used
+* rampage
+* shooting
+* helped
+* create
+* tragedy
+* division
+* heal
+* killed
+* died
+* massacre
+* reject
+* normalisation
+* racism
+* disparagingly
+* calling
+* decried
+* supremacy
+* condemn
+* bigotry
+* terrorism
+* violently
+* preserve
+* demonise
+* suggest
+* refer
+* stoking
+* chanted
+* deriding
+
+Please preserve as many morally framed words as possible in your summary. The summary has to be returned after a "SUMMARY:" token and ending with a "END OF SUMMARY." token. The summary should be no longer than 200 words.

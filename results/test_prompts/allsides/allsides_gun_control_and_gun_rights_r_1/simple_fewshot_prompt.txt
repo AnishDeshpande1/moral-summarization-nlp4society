@@ -1,0 +1,172 @@
+You have to summarize the following text preserving the moral framing that the author gave to it.
+
+Please study the following examples of news articles and their summaries preserving the moral framing:
+
+Example 1 (Political Ideology: Left):
+Here is the news article:
+
+First Step Act, a landmark bill which would reduce drug crime sentences, saw support from both progressives and law-and-order conservatives
+
+A sweeping bill seeking to reform the criminal justice system has cleared the Senate, in a legislative victory for both progressive advocates and law-and-order conservatives that would give judges more discretion when sentencing some drug offenders and would boost prisoner rehabilitation efforts.
+
+The First Step Act, which passed 87-12, attracted support from both sides of the aisle, as well as from public figures such as Patricia Arquette, Mark Cuban, Kim Kardashian West and Kanye West.
+Donald Trump supported the iteration of the bill that passed in the House in May, and the most current version that will need to return to the House for another vote (which it is expected to pass), before it reaches his desk for a signature later this week.
+
+I went to prison for 19 years.
+Here is why I didn't become a statistic.
+
+The sweeping bill addresses concerns that the nation’s war on drugs had led to the imprisonment of too many Americans for non-violent crimes without adequately preparing them for their return to society.
+
+“America is the greatest Country in the world and my job is to fight for ALL citizens, even those who have made mistakes,” Trump tweeted.
+“Congratulations to the Senate on the bi-partisan passing of a historic Criminal Justice Reform Bill.”
+
+The president continued: “This will keep our communities safer, and provide hope and a second chance, to those who earn it.
+In addition to everything else, billions of dollars will be saved.
+I look forward to signing this into law!”
+
+The act would reduce mandatory minimum sentences for a number of drug-related crimes, allow judges to circumvent federal mandatory minimum sentences for non-violent offenders when they see fit, expand rehabilitative opportunities for federal prisoners, and ban some correctional practices criticized as inhumane, such as the shackling of pregnant women.
+The act would give elderly and terminally ill inmates a path home and invest tens of millions in re-entry programming.
+
+The act would end so-called “three strikes” mandatory life sentences for defendants facing a third drug conviction, except for those with a prior “serious violent felony”.
+The “stacking” regulations that make it illegal to posses a firearm while committing a crime, even if the firearm is not used, would also no longer come into play.
+
+The bill would also retroactively extend the 2010 Fair Sentencing Act, a move that could affect thousands of drug offenders serving disproportionately long sentences for crack cocaine versus the powder variant.
+As many as 4,000 people currently serving long sentences could be eligible for release, according to some advocates.
+
+Jessica Jackson Sloan, the national director for #cut5o, a criminal justice reform advocacy group, applauded the Republican judiciary committee chairman, Chuck Grassley, and Dick Durbin, the Senate Democratic whip, for “leading their respective parties to consensus on one of the most important challenges our country faces – unwinding the catastrophic harm of the incarceration industry”.
+
+“Tonight, we stand as neither Republican or Democrats but as people seeking to take the first step of many to criminal justice reform,” she said.
+
+Grassley hailed a “big bipartisan victory”, saying: “Historic criminal justice reform happens once in a generation.”
+
+Cory Booker, the New Jersey senator and possible Democratic presidential hopeful for 2020, said the nation’s prisons were full of Americans who are struggling with mental illness and addiction and who are overwhelmingly poor.
+
+He said the nation’s criminal justice system “feeds on certain communities and not on others” and added that the bill represents a step toward “healing” for those communities.
+
+“Let’s make no mistake, this legislation, which is one small step, will affect thousands and thousands of lives,” Booker said.
+
+The ACLU, which initially opposed the House version of the legislation, tweeted that the First Step Act was “by no means perfect – but we’re in the midst of a mass incarceration crisis and the time to act is now.
+We’re glad to see common sense prevail in the Senate voting to move this bill closer to the finish line.”
+
+The bill would affect only federal prisoners, who make up less than 10% of the country’s prison population.
+
+SUMMARY:
+
+The First Step Act, a landmark criminal justice reform bill, has passed the Senate with overwhelming bipartisan support. The bill aims to address concerns that the war on drugs has led to the imprisonment of too many Americans for non-violent crimes without adequately preparing them for their return to society. The act would reduce mandatory minimum sentences for drug-related crimes, give judges more discretion, and expand rehabilitative opportunities for federal prisoners. It would also ban inhumane correctional practices, provide a path home for elderly and terminally ill inmates, and invest in re-entry programming. The bill represents a crucial step towards healing and redemption for communities disproportionately affected by the criminal justice system. As President Trump tweeted, "This will keep our communities safer, and provide hope and a second chance, to those who earn it." The bill's passage is a moral victory, recognizing that America's incarceration industry has caused catastrophic harm and that it's time to take the first step towards reform.
+
+END OF SUMMARY.
+
+Example 2 (Political Ideology: Center):
+Here is the news article:
+
+Report Sees Guns as Path to Safety in Schools
+
+WASHINGTON — With the Senate set to debate gun control this month, a National Rifle Association task force released a 225-page report on Tuesday that called for armed police officers, security guards or staff members in every American school, and urged states to loosen gun restrictions to allow trained teachers and administrators to carry weapons.
+
+Asa Hutchinson, a former Republican congressman from Arkansas who led the task force, unveiled the report at a packed news conference with unusually heavy security, including a bomb-sniffing yellow Labrador retriever.
+A dozen officers in plain clothes and uniforms stood watch as he spoke; one warned photographers to “remain stationary” during the event.
+
+Among the study’s central conclusions is that “the presence of armed security personnel adds a layer of security and diminishes response time” in a shooting, Mr. Hutchinson said.
+He cited a 1997 Mississippi case in which an assistant principal ran to his truck to retrieve a .45-caliber semiautomatic pistol and subdued a gunman who had killed two students.
+
+The recommendations — which also included expanding the police presence in schools — drew immediate criticism from gun control advocates and many Democrats, who have been fighting to tighten gun restrictions after the massacre at Sandy Hook Elementary School in Newtown, Conn., in December.
+
+“Arming the teacher is merely a response to the last tragedy,” said Representative Mike Thompson, a California Democrat who is chairman of a House task force on gun violence.
+“The one before that was in a shopping mall in Oregon, and the one before that was in a movie theater in Colorado.
+I don’t think the proper response is to arm all the projectionists in the movie theaters or all the vendors in the mall.”
+
+After the Newtown shooting, Wayne LaPierre, the rifle association’s executive director, announced that it would devise a plan to put armed guards in every school.
+Technically, Mr. Hutchison’s task force is independent of the rifle association, even though it paid for the study, and Mr. LaPierre was not present on Tuesday.
+But critics see no distinction between the two.
+
+Marian Wright Edelman, president of the Children’s Defense Fund, an advocacy group here, criticized the study as “nothing more than a continuation of the N.R.A.’s attempts to prey on America’s fears, saturate our schools with more guns and turn them into armed fortresses.”
+
+But the report did get support from at least one Newtown parent: Mark Mattioli, whose 6-year-old son, James, was killed.
+
+“I think politics needs to be set aside here, and I hope this doesn’t lead to name-calling,” said Mr. Mattioli, who joined Mr. Hutchinson at the news conference.
+“This is a recommendation for solutions, real solutions that will make our kids safer.
+That’s what we need.”
+
+At least one state, Indiana, is considering the idea of armed officers at schools.
+On Tuesday, a proposal that would require public and charter schools to have an armed “protection officer” on school property during class hours passed a State House committee.
+
+The task force panel called on the Departments of Homeland Security, Education and Justice to coordinate school safety efforts and provide grant money for schools to assess their ability to prevent and respond to attacks.
+It recommended that officers or employees who are armed take a 40- to 60-hour training course to be developed by the rifle association based on a model the task force has designed.
+
+The group also called on states to require schools to develop security plans.
+
+But how and whether the task force recommendations will be put into effect — and the cost — was unclear.
+
+The timing of Tuesday’s announcement was not a coincidence: Congress will wrap up its spring recess after this week and is expected to consider gun legislation after lawmakers return.
+President Obama has called for tough new controls on gun ownership, but the prospects for such legislation are murky — a testimony to the rifle association’s prowess as a lobbying force.
+
+A plan to revive and revamp a ban on assault weapons, which expired in 2004, is almost certain to be defeated.
+Mr. Obama is pushing for a measure that would impose mandatory background checks for gun buyers, and the Senator Harry Reid, Democrat of Nevada, the majority leader, has promised to present a bill that would expand background checks to the floor for a vote.
+
+SUMMARY:
+
+A National Rifle Association (NRA) task force has released a report recommending that armed police officers, security guards, or staff members be present in every American school to ensure safety. The report also suggests that states loosen gun restrictions to allow trained teachers and administrators to carry weapons. Critics argue that this approach is misguided and would lead to more guns in schools, rather than addressing the root causes of gun violence. The report's recommendations have been met with opposition from gun control advocates and Democrats, who believe that tightening gun restrictions is the more effective way to prevent tragedies like the Sandy Hook massacre. The NRA's proposal has been criticized as an attempt to exploit fear and promote a culture of gun proliferation. However, some, like Mark Mattioli, a Newtown parent who lost his son in the tragedy, support the report's recommendations as a necessary step towards making schools safer. END OF SUMMARY.
+
+Example 3 (Political Ideology: Right):
+Here is the news article:
+
+Outgoing White House economic adviser Larry Summers warned Wednesday that failure to pass a new tax cut compromise would significantly raise the risk of a double-dip recession.
+
+"To pass this bill in the next couple of weeks would materially increase the risk that the economy would stall out and we would have a double dip," he told reporters at the White House.
+
+Summers added that he thinks Congress will pass the deal President Obama struck with Republicans, an agreement that has come under withering criticism from liberal Democrats over the two-year extension of tax cuts for the rich as well as the middle class.
+
+Summers said that he doesn't think that Congress would take a step that "materially increases the risk that this economy will stall out."
+
+Positive reviews coming in from economists, Summers said, show the deal is the right thing to do.
+
+Sen. Jon Kyl, the No. 2 Republican in the Senate, told reporters that a tax cut bill could be on the Senate floor as early as Thursday.
+
+But, in a surprise move, Senate Democrats, meeting behind closed doors to discuss the tax deal, have asked the administration for "changes" to the bill, according to Sen Dick Durbin, D-Ill., the No. 2 Democrat in the chamber.
+Durbin would not detail what those changes are, deferring to Senate Majority Leader Harry Reid, D-Nev.
+
+Kyl said an official analysis and price tag, referred to as a "score," from the Joint Committee on Taxation (JCT) are not yet ready, but that the Senate could move to the bill anyway.
+
+Vice President Biden traveled to the Capitol Wednesday for a private meeting with House Democrats who are resisting the deal, saying it gives away too much to the wealthy.
+
+Some Democrats are unhappy that Obama agreed to extend expiring tax cuts not just for the middle class but also for higher earners, and that he agreed to impose a lower estate tax on wealthy heirs.
+Both provisions are seen by many Democrats as giveaways to the rich that will do little to help the economy.
+
+In return, Democrats would get extended jobless benefits for people who have been unemployed for long stretches.
+Workers would also see their share of Social Security payroll taxes cut by nearly a third for the coming year, a boost in take-home pay meant to encourage spending and aid the economy.
+
+Liberals are going as far as trying to prevent outgoing House Speaker Nancy Pelosi from bringing the tax cut compromise to the floor.
+
+Reps. Peter DeFazio of Oregon, and Jim McDermott and Jay Inslee of Washington state are crafting a letter to share with the House Democratic Caucus that would try to block the bill from seeing the light of day.
+They're hoping to get 60 signatures on their letter and then force a vote in the caucus.
+
+"There does not seem to be a majority of the Democrats who support the deal negotiated by Vice President Biden," he told Fox News.
+"So we want to have a record vote in the caucus on a resolution that says this resolution should not go to the floor without a majority of Democratic votes."
+
+DeFazio said House Democrats aren't going to keep rubber-stamping deals they don't like.
+
+"All through this administration, the White House has been a spear carrier for the president," he said.
+"They sent something over, the speaker has jammed it through and then Obama has negotiated with the Senate.
+And they're trying to get us to jam it through again.
+And a number of us are just saying that's enough."
+
+Obama rejected claims that he betrayed Democrats by cutting a deal with Republicans.
+Speaking to reporters at a joint appearance with Polish President Bronislaw Komorowski, Obama said economists predict higher job growth in 2011 and 2012 if Congress passes the agreement and urged lawmakers to examine the details of the deal and "get this done."
+
+But House Democrats are not listening.
+
+"So far, the response has not been very good," Pelosi said.
+She called the estate tax provision "a bridge too far."
+
+SUMMARY:
+
+Outgoing White House economic adviser Larry Summers warned that failure to pass the new tax cut compromise would significantly raise the risk of a double-dip recession. Despite criticism from liberal Democrats, Summers believes Congress will pass the deal, which extends tax cuts for the rich and middle class. Senate Democrats, however, are seeking changes to the bill, and House Democrats are resisting the deal, saying it gives away too much to the wealthy. Vice President Biden met with House Democrats to try to sway them, but many are unhappy with the provisions, including the extension of expiring tax cuts for higher earners and the lower estate tax on wealthy heirs. Liberals are even trying to prevent the bill from coming to the floor. The deal's supporters argue it will boost the economy, but critics see it as a giveaway to the rich. The moral framing of this issue is clear: is it right to prioritize the wealthy over the needs of the economy and the unemployed?
+
+END OF SUMMARY.
+
+Now, here is the target news article to summarize:
+Here is the news article:
+
+Maryland Democrats rejected a bill aimed at combating gun violence as Baltimore mayor Jack Young publicly begged residents to stop shooting each other so hospitals could be used to treat coronavirus patients. Young, a Democrat, pleaded with residents on Wednesday not to "clog up our hospitals and beds with people [who] are being shot senselessly." But on the same day, his partymates in the state legislature voted down a bill pushed by Republican governor Larry Hogan that would strengthen penalties for violent criminals. Hogan’s Violent Firearms Offenders Act would make the theft of a firearm a felony and increase penalties for those who repeatedly carry illegal guns or use a gun while drug dealing. The bill passed the state Senate on March 10 following a contentious back-and-forth between lawmakers. Democrats successfully removed the legislation's mandatory minimum sentencing increase, arguing it would punish violent criminals too severely. Following the removal of mandatory minimums and the bill's subsequent passage, state Senate president and Baltimore Democrat Bill Ferguson lauded the legislation's bipartisan nature, saying it included "the legislature's priorities and some of the governor's priorities." Speaker of the House Adrienne Jones did not respond to a request for comment on why the bill was rejected. Following the Wednesday vote, the Maryland legislature adjourned due to the coronavirus crisis. House Minority Leader Nic Kipke called the failure to pass Hogan's bill "one of the disappointments" of the legislative session. "We still haven't addressed the issue of crime in the state," Kipke said. "It's one of the disappointments for me this session." Democrat state senator Will Smith Jr., who led the charge to remove the bill's mandatory minimums, also expressed discontent. "I don't think anyone has walked out of here thinking that we've done enough," he said. GOP state senators accused Democrats of attempting to gut the legislation even further in the amendment process. According to Republican senator Michael Hough, Democrats in the Judicial Proceedings Committee offered amendments that removed penalty enhancements for drug dealers who use a gun, criminals who steal guns, and those who use a so-called assault weapon to commit a crime. Fellow Republican senator Bob Cassilly told the Washington Free Beacon that Democrats undermined public safety. "The strategy that we pursued was, just to point out, ‘Do you realize what you're saying?' Democrats, on one hand, were pushing legislation to give jail time to people who didn't comply to the letter of law with a firearm transfer. Meanwhile, they were giving a break to people who use firearms to sell drugs," Cassilly said. Hogan's Violent Firearms Offenders Act was overwhelmingly popular among Baltimore residents—85 percent indicated support for the bill, as did 84 percent of African Americans statewide, according to an internal poll shared with the Free Beacon by Hogan's office. Violent crime spiked in the nation's deadliest large city in the last week, according to Baltimore police commissioner Michael Harrison. After seven people were shot Tuesday night, Young urged the city's residents to stop the violence, so health officials could focus on the pandemic. "I want to reiterate how completely unacceptable the level of violence is that we've seen recently. We will not stand for mass shootings and an increase in crime," the mayor said. "We cannot clog up our hospitals and their beds with people that are being shot senselessly because we're going to need those beds for people infected with the coronavirus. And it could be your mother, your grandmother, or one of your relatives. So take that into consideration."
+
+The summary has to be returned after a "SUMMARY:" token and ending with a "END OF SUMMARY." token. The summary should be no longer than 200 words.

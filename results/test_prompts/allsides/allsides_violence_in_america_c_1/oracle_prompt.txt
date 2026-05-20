@@ -1,0 +1,31 @@
+You have to summarize the following text preserving the moral framing that the author gave to it.
+
+Here is the news article:
+
+SEATTLE (Reuters) - Seattle authorities moved on Wednesday to dismantle a protest zone that the city’s police chief derided as “lawless and brutal” and which had prompted U.S. President Donald Trump to call for action against demonstrators. Officers, clad in helmets and extra protective gear, entered the “autonomous zone” early and by midmorning had arrested 31 people for failure to disperse, assault and other alleged crimes, according to the police department’s Twitter feed. Police moved to retake the zone after Seattle Mayor Jenny Durkan declared the gathering around the police department’s East Precinct and Cal Anderson Park an “unlawful assembly,” the police chief, Carmen Best, said in a statement that highlighted a recent spate of shootings and the deaths of two teenagers. U.S. Attorney General William Barr commended Best in a statement for distinguishing between the right to protest and violent crime in “restoring the rule of law.” Barr did not mention Durkan, a Democrat who has been a target of the Republican president’s ire. Harry “Rick” Hearns, a protester who said he volunteered to provide armed security at CHOP for 24 straight days, told Reuters he supported the police crackdown “1,000 percent.” He blamed the violence on outsiders who he said had marred an otherwise successful monthlong occupation. “We don’t represent violence. People brought that to us,” said Hearns, 59. Police were walking in and out of the East Precinct on Wednesday, re-establishing control. Weeks earlier, they abandoned the building following clashes with protesters in the wake of the May 25 killing in Minneapolis of George Floyd, a Black man, at the hands of that city’s police. Floyd’s death triggered a nationwide wave of largely peaceful demonstrations against racial injustice and police brutality, giving rise in Seattle to the Capitol Hill Occupied Protest (CHOP) zone east of downtown. “The CHOP has become lawless and brutal. Four shootings — two fatal — robberies, assaults, violence and countless property crimes have occurred in this several-block area,” Best said. Trump has been demanding that local authorities eject the protesters, whom he labeled “domestic terrorists.” Conservative pundits have pointed to the zone in Seattle to support an argument that protests across the country were less peaceful than they were being portrayed. Black armored vehicles and baton-wielding officers patrolled the perimeter of the area that was barricaded with spray-painted plywood, some marked with phrases like “All Lives Don’t Matter Until Black Lives Matter” and “RIP E Precinct.” Bicycle police employed three dozen bikes to create a barricade at East Pike and 12th Avenue, allowing city crews to take down protesters’ tents. Some officers sipped Starbucks’ coffee, evidence the operation had met no serious resistance. The zone had become less crowded and active over the past several days. Crowds that came by the thousands to listen to speeches about police brutality and marvel at street art commemorating Black lives had disappeared, as had medic stations and multiple free food tents. Businesses in the area, a trendy neighborhood of hipster bars and boutiques, have been pushing for a tougher stance by authorities. Attorneys have filed two class action lawsuits against the City of Seattle, including one aimed at preventing the establishment of “lawless autonomous zones” in the future. Lencho Williams, who was roused by police from the CHOP encampment on Wednesday, said protesters would regroup. He said the movement had become disorganized when three original demands — defund the police, fund the Black community and amnesty for demonstrators — morphed into 12. “We’re going to be back. If not tomorrow, the next day. You can’t stop a revolution. Black lives matter now and forever,” said Williams, 32.
+
+The author used the following morally framed words in the article:
+* lawless
+* assault
+* crimes
+* unlawful
+* assembly
+* shootings
+* deaths
+* crime
+* restoring
+* violence
+* brought
+* reestablishing
+* killing
+* hands
+* death
+* injustice
+* brutality
+* fatal
+* robberies
+* assaults
+* terrorists
+* matter
+
+Please preserve as many morally framed words as possible in your summary. The summary has to be returned after a "SUMMARY:" token and ending with a "END OF SUMMARY." token. The summary should be no longer than 200 words.

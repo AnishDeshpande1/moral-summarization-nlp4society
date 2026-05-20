@@ -1,0 +1,182 @@
+You have to summarize the following text preserving the moral framing that the author gave to it.
+
+Please study the following examples of news articles, their moral word extraction, and summaries preserving the moral framing:
+
+Example 1 (Political Ideology: Left):
+Here is the news article:
+
+(CNN) Alabama Republican Senate candidate Roy Moore says he will sue the Washington Post over its report alleging he pursued sexual relationships with teenagers -- including a 14-year-old -- when he was in his 30s.
+
+"The Washington Post published another attack on my character and reputation because they are desperate to stop my political campaign.
+These attacks said I was with a minor child and are false and untrue -- and for which they will be sued," Moore said Sunday night during a campaign speech in Huntsville, Alabama.
+
+The Washington Post declined to comment Monday morning.
+
+It's not uncommon for public figures to threaten legal action against news organizations but ultimately fail to follow through.
+President Donald Trump threatened to sue The New York Times last year after it published the accounts of two women who claimed Trump touched them inappropriately.
+His lawyers never filed a lawsuit.
+
+More recently, disgraced Hollywood mogul Harvey Weinstein initially threatened to sue the Times after it first reported allegations of sexual misconduct against him, but that suit never materialized
+
+The Washington Post report Thursday was based on interviews with more than 30 people.
+As well as the allegations that Moore had sexual contact with the then 14-year-old when he was aged 32, three other women also told The Post that Moore pursued them when they were between the ages of 16 and 18.
+
+The woman who was 14 years old at the time claimed he took her to his house, undressed down to his underwear and undressed her down to her bra and underwear and touched her and moved her hand to touch his underwear, which could have been sexual offenses due to her age, but the statutes of limitations in effect during that time have passed.
+
+None of the other three women told the Post that Moore sexually harassed, or assaulted them, or forced them into a relationship.
+Alabama's legal age of consent is 16.
+
+Moore has denied the allegations since they were published.
+He called the claims " completely false " Friday when appearing on Sean Hannity's syndicated radio show.
+
+Speaking at a Veterans Day event at the Mid-Alabama Republican Club in Birmingham Saturday, Moore called the allegations "fake news" and "yet another attack on my character and reputation in a desperate attempt to stop my political campaign for the United States Senate."
+
+He added that the alleged incidents happened nearly 40 years ago and called them "very hurtful to me personally -- I have the highest regard for the protection of young children," before adding that he has never provided alcohol to a minor and has "not been guilty of sexual misconduct with anyone."
+
+Moore added that there were ongoing "investigations" looking into the motivations behind the Post article, and promised "revelations" about the story to come in the next few days, though he did not provide further specifics.
+
+A number of Republicans withdrew their endorsements of Moore following the Washington Post article, including the National Republican Senatorial Committee, which severed a joint fundraising agreement that benefits Moore's campaign.
+
+STEP 1:
+* false
+* untrue
+* desperate
+* attack
+* character
+* reputation
+* fake
+* hurtful
+* highest
+* guilty
+* misconduct
+
+SUMMARY:
+Alabama Republican Senate candidate Roy Moore has denied allegations of pursuing sexual relationships with teenagers, including a 14-year-old, when he was in his 30s, calling the claims "completely false" and "fake news". Moore accused The Washington Post of launching a "desperate" attack on his character and reputation to stop his political campaign. The Post's report, based on interviews with over 30 people, alleged that Moore had sexual contact with the 14-year-old and pursued three other women between the ages of 16 and 18. Moore has threatened to sue The Washington Post over the report, which he claims is "hurtful" to him personally. He emphasized his "highest regard for the protection of young children" and denied any "sexual misconduct" with anyone. Several Republicans have withdrawn their endorsements of Moore following the report. END OF SUMMARY.
+
+Example 2 (Political Ideology: Center):
+Here is the news article:
+
+Police respond to the scene of a shooting at a gas station in Springfield, Mo, on Sunday, March 15, 2020.
+Police Chief Paul Williams said Monday morning, a Springfield police officer, three citizens and the gunman were killed.
+
+SPRINGFIELD, Mo. (AP) — A man fired randomly from his vehicle several times while driving through a southwest Missouri city before eventually crashing into a convenience store, where he walked inside, opened fire and left five people dead, including a police officer and himself, police said Monday.
+
+The dead from Sunday night’s shooting include a store employee and two men who were in the store, police said.
+A second officer was injured, along with another person.
+
+The gunman’s motives remain unclear, Springfield police Chief Paul Williams said at a news conference, where his voice broke as he described his officers’ actions.
+
+Williams said police received reports of “multiple shooting calls throughout the city” late Sunday starting in the south and moving north through the city’s east side.
+
+“In essence we had a roving active shooter moving from the south side of the city up,” Williams said.
+
+As officers were responding to those calls, witnesses reported a vehicle crashed into a Kum & Go.
+gas station and convenience store, and the gunman walked inside and began shooting customers and employees, Williams said.
+
+The Kansas City Star reported that the gunman opened fire from inside the store as police arrived, with officers taking cover behind vehicles and shields.
+
+“Advise everybody arriving on the scene, the shooter is shooting out the window,” one officer can be heard saying on audio captured by the online website Broadcastify.com, The Star reported.
+“The officer shot from inside the store outside.
+Take cover behind vehicles.”
+
+The first two officers who arrived were shot.
+Other officers pulled the injured officers from the store and then went inside, finding three people dead.
+The gunman also died, apparently from a self-inflicted gunshot, Williams said.
+Police identified the shooter as 31-year-old Joaquin S. Roman of Springfield.
+
+Officer Christopher Walsh, 32, was shot and killed as he tried to rescue a victim, Williams said.
+He was with the Springfield police for 3 1/2 years, was an Army veteran and was active in the Army reserves.
+
+Walsh, a Springfield native, is survived by a wife and daughter.
+
+“Chris died a hero, rushing in without regard to his own safety to protect members of his community.
+His courageous actions serve as an example to us all,” Wiliams said in a news release.
+
+Police identified the three other men who died as 57-year-old Troy D. Rapp, who was employed by Kum-N-Go, 46-year-old Shannon R. Perkins, who was employed by WCA Waste Corporation, and 22-year-old store customer Matthew J. Hicks-Morris.
+All were from Springfield.
+
+Officer Josiah Overton, whose injuries are not life-threatening, has been with Springfield police for two years, he said.
+
+“Both officers showed significant bravery and were heroic in their actions,” Williams said.
+
+“There are no word to express the shock and sorrow many of us are feeling,” Kum & Go spokesman Aeriel Rubin said, adding “We remain grateful for the courage of our first responders and will do our utmost to support the investigation going forward.”
+
+A Springfield woman said the man fired at her as she was driving home from work about 11:30 p.m. Casey Parrish said the man was driving in front of her and everything seemed normal until she heard what she thought at first was a blown tire.
+Then she saw muzzle flashes from from the driver’s side of the car in front of her, The Springfield News-Leader reported .
+
+Parrish said she did nothing to provoke the shooting and the gunman was driving normally until just before the shots started.
+He fired seven or eight shots as his car was swerving but her car was not hit.
+Parrish said she slowed down and the suspect eventually turned off of Highway 65 away from her.
+When she called 911, she was told officers were investigating similar reports from other locations.
+
+“It was so surreal,” Parrish said.
+
+Williams said it was too early to comment on the impact the shooting had on his department.
+
+“We’re still investigating multiple crime scenes and dealing with grieving the loss of one of our own,” he said.
+
+STEP 1:
+* Hero
+* Courageous
+* Heroic
+* Bravery
+* Courage
+* Grateful
+* Shock
+* Sorrow
+
+SUMMARY:
+A devastating shooting spree occurred in Springfield, Missouri, on Sunday, March 15, 2020, leaving five people dead, including a police officer and the gunman. The officer, Christopher Walsh, 32, died a hero, rushing into the scene without regard to his own safety to protect members of his community. His courageous actions serve as an example to us all. The gunman, Joaquin S. Roman, 31, fired randomly from his vehicle, eventually crashing into a convenience store and opening fire on customers and employees. Two other officers were injured, including Josiah Overton, who showed significant bravery in his actions. The community is left in shock and sorrow, with the police department grieving the loss of one of their own. The investigation is ongoing, with multiple crime scenes being processed. The courage of the first responders is a beacon of hope in this tragic event. END OF SUMMARY.
+
+Example 3 (Political Ideology: Right):
+Here is the news article:
+
+NRA urges states to allow more armed officers in schools
+
+The National Rifle Association called Tuesday for state legislatures to allow more school personnel to carry weapons on school grounds once they've gone through extensive training, as part of a set of recommendations that capped a weeks-long review in the wake of the Newtown mass shooting.
+
+The NRA initially took criticism from Democrats for focusing so closely on school security, and rejecting gun control measures, following the Connecticut shooting in which 26 people were killed.
+NRA CEO Wayne LaPierre in December called for armed officers to be installed in every school in the country.
+
+Former Arkansas Rep. Asa Hutchinson, who led the NRA's review, appeared to ease off slightly on the call for armed officers in every school -- he said it's "important" for every school to have at least one, but acknowledged these decisions are "locally made" based on unique budget circumstances.
+
+Hutchinson, though, did call for the creation of a 40-60 hour training program for armed officers.
+To accompany that, his group proposed a "model" state law that would allow certain personnel who have undergone this training to carry weapons on school grounds.
+
+"This is not talking about all teachers," he said.
+"Teachers should teach."
+
+The 225-page report also called for states to require schools to conduct a safety assessment and for a pilot program to be created assessing mental health as a pre-indicator for violence.
+
+Mark Mattioli, the father of one Newtown shooting victim, also spoke after Hutchinson's announcement to applaud the review effort.
+
+The review comes as Congress and a number of state legislatures pursue gun control legislation.
+While a few have focused on school security -- South Dakota has already approved legislation allowing for teachers to be armed -- many have concentrated on enacting or expanding assault weapons bans, strengthening background checks and passing other measures to restrict access to firearms.
+Connecticut, the home of the Sandy Hook school shooting, is the latest to advance a sweeping gun control proposal -- lawmakers announced a deal Monday on a package that is likely to win approval.
+
+But LaPierre in December argued that improving school security is paramount.
+He argued that if banks and members of Congress can have protection, schools across America should be afforded the same security.
+
+"It's now time for us to assume responsibly for our schools," he said.
+"The only way to stop a monster from killing our kids is to be permanently involved and invested in a plan of absolute protection."
+
+He added: "The only thing that stops a bad guy with a gun is a good guy with a gun."
+
+STEP 1:
+* responsible
+* monster
+* bad
+* good
+* absolute
+
+SUMMARY:
+The National Rifle Association (NRA) has urged states to allow more armed officers in schools, following a weeks-long review after the Newtown mass shooting. The NRA's CEO, Wayne LaPierre, argued that improving school security is paramount, stating that "it's now time for us to assume responsibly for our schools." He believes that schools should have the same level of protection as banks and members of Congress. LaPierre emphasized that "the only way to stop a monster from killing our kids is to be permanently involved and invested in a plan of absolute protection." The NRA's review proposes a 40-60 hour training program for armed officers and a "model" state law to allow certain personnel to carry weapons on school grounds. While some critics have focused on gun control measures, the NRA's approach prioritizes school security, with LaPierre arguing that "the only thing that stops a bad guy with a gun is a good guy with a gun."
+END OF SUMMARY.
+
+Now, here is the target news article to summarize:
+Here is the news article:
+
+SANTA FE, Texas (Reuters) - A teenage boy charged with fatally shooting eight students and two teachers during a gun rampage at a Houston-area high school had been spurned by one of his victims after making aggressive advances, her mother told a newspaper. Sadie Rodriguez, the mother of Shana Fisher, 16, who was killed in the attack, told the Los Angeles Times that her daughter rejected four months of aggressive advances from Dimitrios Pagourtzis, 17, who is in jail accused of murdering 10 people early on Friday at the high school in Santa Fe. Fisher finally stood up to him and embarrassed him in class, the newspaper quoted her mother as writing in a private message to the Times. “A week later he opens fire on everyone he didn’t like,” she said. “Shana being the first one.” Rodriguez could not independently be reached for comment. If true, it would be the second school shooting in recent months driven by such rejection. Related Coverage Grief and anguish transcend two faiths' prayers after Texas school shooting In March, a 17-year-old Maryland high school student used his father’s gun to fatally shoot a female student with whom he had been in a recently ended relationship. Police said Pagourtzis confessed to Friday’s killings after he was taken into custody, but authorities have offered no motive yet for the massacre, the fourth-deadliest mass shooting at a U.S. public school in modern history. The Santa Fe Independent School District (ISD) denied accounts from some classmates that Pagourtzis had been bullied, including by a football coach. “Administration looked into these claims and confirmed that these reports are untrue,” it said on Saturday in a statement. Classmates at the school, which has some 1,460 students, described Pagourtzis as a quiet loner who played on the football team. He wore a black trench coat to school in the Texas heat on Friday and opened fire with a pistol and shotgun. ‘THE AFTERMATH’ In Santa Fe on Sunday, many churches and businesses had signs outside with messages such as “Santa Fe strong” and “Santa Fe ISD we are here for you.” Mourners hold candles during a vigil in memory of the victims killed in a shooting at Santa Fe High School in League City, Texas, U.S., May 20, 2018. About 100 people attended an emotional service at the Aldersgate United Methodist Church. Service dogs were in a nearby hall to help console grieving victims. Jared Black, one of the students killed, attended a youth group at the church, and many of its members embraced his mother Pam when the family arrived. At a mosque in another Houston suburb, mourners crowded around the coffin of 17-year-old Sabika Sheikh, a Pakistani exchange student who died in the rampage. It was the latest rampage to stoke a long-running national debate over gun ownership, three months after a student-led gun control movement emerged from a mass shooting in Parkland, Florida, which killed 17 teens and educators. Many of those student activists have taken aim at the pro-gun National Rifle Association. Speaking on “Fox News Sunday,” NRA President Oliver North said students should not be afraid to attend class, but that his gun-rights advocacy group did not think the solution was to limit the Second Amendment right to bear arms. “I believe that we can make sure kids are protected without taking away the rights of law-abiding citizens,” North said, calling for metal detectors in schools and more use of the NRA’s offer to schools of free security assessments. Pagourtzis has provided authorities little information about the shootings, his attorney, Nicholas Poehl, said, adding: “Honestly because of his emotional state, I don’t have a lot on that.” Texas’ governor, Greg Abbott, a Republican, told reporters that Pagourtzis obtained the firearms from his father, who had likely acquired them legally. Abbott also said Pagourtzis wanted to commit suicide, citing the suspect’s journals, but lacked the courage to do so. Pagourtzis’ family said in a statement it was “saddened and dismayed” by the shooting and “as shocked as anyone else” by the events. The family said it was cooperating with authorities.
+
+(1) First, you identify all the single words that are morally framed. Identify this step as "STEP 1:" and report each word in a new line starting with *
+(2) Finally, you write a summary of the news article. Please preserve as many morally framed words as possible in your summary. The summary has to be returned after a "SUMMARY:" token and ending with a "END OF SUMMARY." token. The summary should be no longer than 200 words.

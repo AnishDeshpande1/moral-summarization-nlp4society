@@ -1,0 +1,182 @@
+You have to summarize the following text preserving the moral framing that the author gave to it.
+
+Please study the following examples of news articles and their summaries preserving the moral framing:
+
+Example 1 (Political Ideology: Left):
+Here is the news article:
+
+After six months of fighting, the Senate has finally approved a deal on disaster aid, green-lighting $19.1 billion in relief to millions of Americans who have been waiting for help in the wake of devastating hurricanes, wildfires, and floods.
+
+While disaster aid hasn’t always been a political flashpoint, the passage of this package proved especially challenging, given roadblocks thrown up by President Donald Trump.
+Initially, Trump took issue with the additional funding for hurricane-devastated Puerto Rico, spurring months of back-and-forth on the subject.
+Then, he requested $4.5 billion in aid for the border, which further complicated discussions.
+
+The final disaster aid package, much like the funding that passed after the government shutdown earlier this year, does not really address either of Trump’s demands.
+Funding for border aid has been completely stripped out of the deal, and $1.4 billion in aid has been allocated to Puerto Rico.
+(Trump had previously balked at offering any more than $600 million in nutritional assistance.)
+
+The House is expected to pass the legislation on Friday, and Trump has already agreed to sign it, according to Senate Appropriations Chair Richard Shelby, who spoke with the president via phone on Thursday.
+
+Disaster aid is just proving to be the latest battleground where Trump caused major problems by inserting himself into the fight — with little to show for it.
+
+Trump has been a big reason for the delay in disaster relief
+
+Throughout the disaster aid negotiations, the wild card has continued to be Trump.
+
+As Vox’s Tara Golshan reported, Democrats had pushed for additional funding to support Puerto Rico in the wake of Hurricane Maria in 2017, while Trump had sought to limit that aid and actively railed against it.
+His longstanding aversion to helping Puerto Rico came down to allegations he’s made, with no evidence, about the regional government mismanaging funds — and it played a major role in delaying agreement on the package.
+
+Democrats had argued that money to support the island needed to go beyond food stamps, and help bolster infrastructure, given the scale of the destruction.
+As a Washington Post report detailed, residents in Puerto Rico were struggling to get medical care, after a major regional hospital was damaged during the hurricane.
+
+The White House’s additional request for border aid in May wound up emerging as a major sticking point as well.
+Though a chunk of the $4.5 billion ask was for humanitarian aid — both parties have agreed that large numbers of children and family migrants have overwhelmed US immigration resources at the southern border — Democrats opposed $1.1 billion in additional funds that would go to other operational costs like detention beds.
+Lawmakers are expected to consider this request at a later time, now that it’s been taken out of the deal.
+
+On both points, Trump proved to be a big reason that progress on disaster aid had slowed to a halt.
+
+The fallout of this delay is staggering
+
+This delays on disaster aid have had major consequences: It’s now been more than a year since Hurricane Maria hit Puerto Rico, seven months after Hurricane Michael hit Florida, and two months since flooding destroyed towns in Iowa and Missouri.
+
+While lawmakers — and Trump — had been finagling what an appropriations package should look like, millions of people in these regions are waiting on aid.
+As Golshan reported, these disasters have affected Americans nationwide, and Congress was sitting on billions of dollars in money that’s needed to help rebuild housing, improve infrastructure resiliency, and provide nutritional assistance:
+
+At this point, the need for aid touches every part of the country — blue states and red states.
+A mid-March “bomb cyclone” has caused nearly $1.5 billion in damage in Nebraska alone.
+Farmers along the Missouri River in Missouri, Kansas, and Iowa are still trying to see how they can salvage their land.
+Iowa is estimating around a $214 million loss.
+California is still recovering from wildfires.
+And in the South, hurricanes, floods, tornadoes, and late freezes have all taken a toll on the agricultural industry and surrounding businesses.
+
+As a result of this fight, people’s efforts to rebuild were left hanging in the balance while the partisan squabbles continued.
+And the politicization of this fight doesn’t bode well for the next time Americans may need help after a natural disaster.
+
+SUMMARY:
+
+After six months of delay, the Senate has finally approved a $19.1 billion disaster aid package, which will provide relief to millions of Americans affected by hurricanes, wildfires, and floods. The passage of this package was hindered by President Donald Trump's demands, including additional funding for border aid and limiting aid to Puerto Rico. Despite his efforts, the final package does not include funding for border aid and allocates $1.4 billion to Puerto Rico. Trump's actions caused significant delays, with devastating consequences for those waiting for aid. The delay has affected people nationwide, with millions waiting for help to rebuild housing, improve infrastructure, and receive nutritional assistance. The politicization of disaster aid has serious implications for future natural disasters. Thankfully, the package is expected to pass the House and be signed by Trump, providing much-needed relief to those affected.
+
+END OF SUMMARY.
+
+Example 2 (Political Ideology: Center):
+Here is the news article:
+
+Larry Summers, the outgoing chairman of the National Economic Council, just told a group of reporters that failure to pass a package like the tax deal announced by President Obama this week “would significantly increase the risk” of a double-dip recession.
+
+Mr. Summers made the remarks at a briefing with the White House press secretary Robert Gibbs and David Axelrod, the president’s top political adviser.
+The administration has been pushing back hard against criticism from fellow Democrats that the president has caved too much to Republicans.
+
+In brief remarks after meeting with President Bronislaw Komorowski of Poland, Mr. Obama on Wednesday emphatically disputed that Democrats generally feel betrayed by his deal with Congressional Republicans on the tax cuts, saying that “the more who look at it, the more will say this makes sense.”
+
+“I just think it’s very important for Congress to examine the agreement, look at the facts, have a thorough debate, but get this done.
+The American people are watching, and they’re expecting action on our parts,” Mr. Obama said.
+“I don’t think we need to translate that.”
+
+In a joint appearance at the White House with Mr. Komorowski, Mr. Obama said that “economists across the country have upwardly revised their forecasts for growth” after the tax deal was announced on Monday night.
+
+Vice President Joseph R. Biden Jr. planned to return to Capitol Hill this afternoon to meet with House Democrats as President Obama and the White House sought to quell the uproar among liberals about the tax deal.
+
+Officials said Mr. Biden will travel to the Hill around 4:30 p.m. in an attempt to sell the compromise Mr. Obama announced this week.
+It will be the second time in two days that Mr. Biden has served as the liaison-in-chief for the White House.
+
+Mr. Biden’s visit and the president’s comments come as the administration’s message machine started churning out statements of support.
+
+To counter condemnations from some Democrats in Congress, the White House circulated a series of e-mails quoting endorsements from private-sector economic forecasters, liberal as well as conservative analysts, and Democratic officeholders, including an obscure freshman House member, Representative Gary Peters of Michigan.
+
+By noon, the White House press office had released supportive comments from Antonio Villaraigosa, the mayor of Los Angeles, and Mr. Peters.
+The Democratic National Committee alerted reporters that Jennifer Granholm, the Democratic governor of Michigan, also supports the deal.
+
+John Podesta, a former chief of staff to President Bill Clinton and a close ally of Mr. Obama, issued a statement calling the tax deal “a steep price” but saying the president was “right to choose helping working Americans over a December conflagration.” 
+The Democratic National Committee also sent that statement around to reporters.
+
+David Axelrod, the president’s chief political adviser, said on CNN’s “American Morning” that middle-class Americans were “going to get screwed” if their tax cuts were not extended at the end of the year.
+
+The administration was quick to highlight comments from Mark Zandi, chief economist for Moody’sEconomy.com, projecting that the Obama tax deal would increase economic growth next year by 1.25 percentage points and create 1.6 million jobs.
+Macroeconomic Advisors, Deutsche Bank and Goldman Sachs projected smaller increases but no less than at least 0.5 percentage point.
+That is on top of projections that currently are in the range of 2 percent to 3 percent.
+
+But the public relations offensive is being met with public expressions of outrage from Mr. Obama’s base, including the most liberal members of Congress and spokesmen for interest groups on the left.
+
+Close to three dozen House Democrats have signed a letter from Representative Peter Welch, Democrat of Vermont, calling the tax deal “fiscally irresponsible” and “grossly unfair.”
+The letter says Mr. Obama “should not back down. Nor should we.”
+
+Mr. Biden’s visit with the House Democrats is likely to be as contentious as the one that he led with their Senate colleagues on Tuesday — if not more so.
+
+Despite the closed-door lunchtime meeting, Senate aides told The Times afterward that about 30 Democratic senators remained “firmly opposed” to the president’s negotiated deal after hearing from the vice president.
+
+In the House, Democratic lawmakers said Wednesday morning that the sense of disappointment with the president remained strong.
+
+“I don’t think it was preordained that if we had a deadlock, they would have won it,” said Representative Barney Frank, Democrat of Massachusetts, in an interview on MSNBC.
+“I’m not going to vote for it.
+I don’t feel that I should be coerced.”
+
+SUMMARY:
+
+The Obama administration is facing strong criticism from fellow Democrats over the tax deal with Congressional Republicans, with many feeling betrayed by the president's compromise. However, Larry Summers, the outgoing chairman of the National Economic Council, warned that failure to pass the package would significantly increase the risk of a double-dip recession. President Obama emphasized the importance of passing the deal, citing economists' upwardly revised forecasts for growth and the potential creation of 1.6 million jobs. The administration is pushing back against criticism, circulating endorsements from private-sector economic forecasters, liberal analysts, and Democratic officeholders. Despite this, many House Democrats remain strongly opposed to the deal, calling it "fiscally irresponsible" and "grossly unfair." The moral framing of the article suggests that the administration is prioritizing economic growth and job creation over the concerns of its liberal base, and that failure to pass the deal would have serious consequences for the economy.
+
+END OF SUMMARY.
+
+Example 3 (Political Ideology: Right):
+Here is the news article:
+
+Last week, President Donald Trump erupted with fury over a series of public revelations of private facts — some top-secret and some office gossip — that painted him and his White House in a bad light.
+The president ordered the FBI to investigate some of these so-called leaks and his own White House counsel to investigate others.
+
+There are numerous issues related to the leaking of government information.
+They include the leaking of classified information, the leaking of confidential communications and the publishing of leaked material.
+
+Here is the back story.
+
+It is a felony to reveal classified information to any person who lacks a classified clearance, as some in the intelligence community have recently done to embarrass, control, intimidate or infuriate the president.
+The National Security Agency employs over 60,000 domestic spies, but they work in compartmentalized areas.
+Thus, not all of them have access to all the data collected by all of their colleagues.
+Only about 100 spies have access to the top-secret data that was leaked about the president.
+
+When members of the intelligence community leaked lurid allegations about the future president's alleged behavior in a Moscow hotel room, which he has vehemently denied, and when some leaked the partial transcripts of telephone conversations between retired Lt. Gen. Michael Flynn and the Russian ambassador to the U.S. — shortly before Flynn became the president's national security adviser — and when some leaked an intelligence report that contradicted the president's publicly stated conclusions on the likelihood of dangerous people immigrating to the U.S. from the seven predominately Muslim countries named in the president's now enjoined temporary travel ban, one can understand the presidential anger.
+
+And leaks are a two-sided coin.
+Adding to Trump's woes caused by too much revealing is the other side of that coin — too much concealing.
+This comes into play when one has a duty to reveal.
+That duty arises from the legal obligation of spies to pass on to their superiors — and ultimately to the president — all of the material information they have acquired about America's friends and enemies.
+
+Selectively concealing and revealing this type of intelligence data, thereby manipulating the presidential judgment, when one has a duty to reveal substantially all of it is a form of interference with a governmental function — namely, the president's exercise of his judgment — and that is a felony.
+
+As if all this were not enough for a young presidency to deal with, Trump finds himself with a White House staff leaking to the press Oval Office gossip about confidential conversations from within the White House that the participants in those conversations had every reason to believe would not be made public.
+This resulted in the temporary seizure of government-issued cellphones held by a dozen or so staffers so their bosses could learn whether any had spoken to the press.
+The cellphones episode was itself leaked, apparently by a participant not happy with it.
+
+What's going on here?
+
+These events are either the growing pains of a new presidential administration, still partially staffed by those loyal to former President Barack Obama, or the product of sinister forces from people attempting to exercise their own judgment about America's foes by frustrating and manipulating the judgment of the president — whom the voters elected to exercise the constitutional powers to make those judgment calls.
+The latter situation would be perilous, as it would mean we have unelected, unaccountable, and unnamed people pulling the levers of power in the field of national security.
+
+The leaks of confidential communications from within the White House may be a pain in the neck for the president, but they are not criminal.
+And generally, a boss can look at an employee's cellphone, as long as the employer of the boss and the employee owns the phone — except when the employer is the government.
+The Fourth Amendment insulates government employees from governmental reach into its employees' cellphones.
+Absent an employee's waiving his Fourth Amendment rights, the government may not seize work-related (governmental) or personal phones without a search warrant.
+
+Can the media publish these leaks?
+
+In a word, yes.
+The media may publish anything that is of material interest to the public, notwithstanding its level of secrecy or how it was acquired.
+The First Amendment — which the courts have construed to treat the media as the eyes and ears of the public — protects absolutely the publication by the media of leaked data, whether gossip or top-secret, that the public wants to hear.
+
+The courts have also ruled that everything about the president is of material public interest — meaning no criminal or civil action can be taken against the media for the publication of any leaked materials that reflect on the president as a person or as a government official.
+When The New York Times published a probably stolen copy of Trump's tax returns, it did so with impunity.
+
+One can see why Trump rails against the press.
+Yet he has taken an oath to preserve, protect and defend the very constitutional principles that protect and liberate a free press from the anger of the government, no matter how well-grounded that anger may be.
+One of his predecessors who was savaged by the press, Thomas Jefferson, wrote that accountability and transparency in government are of such overriding value that he'd prefer newspapers without a government to a government without newspapers.
+
+SUMMARY:
+
+President Trump's anger over recent leaks of private facts and classified information is understandable, but it raises important moral questions. Leaking classified information is a felony, and concealing information that should be revealed to the president is also a form of interference with a governmental function. However, the president's attempts to investigate and punish leakers may be misguided. The media has a constitutional right to publish leaked information, including gossip and top-secret data, as long as it is of material public interest. The president's oath to preserve, protect, and defend the Constitution means he must respect this right, even if it causes him personal discomfort. The real concern is not the leaks themselves, but whether they are part of a sinister effort to manipulate the president's judgment or exercise power without accountability. Ultimately, transparency and accountability in government are essential values that must be upheld.
+
+END OF SUMMARY.
+
+Now, here is the target news article to summarize:
+Here is the news article:
+
+WASHINGTON (Reuters) - U.S. Treasury Secretary Steven Mnuchin failed to meet a final congressional deadline on Tuesday for turning over President Donald Trump’s tax returns to lawmakers, setting the stage for a possible court battle between Congress and the administration. U.S. Treasury Secretary Steven Mnuchin testifies before a House Financial Services Committee hearing on the "State of the International Financial System" on Capitol Hill in Washington, U.S., April 9, 2019. The outcome, which was widely expected, could prompt House Ways and Means Committee Chairman Richard Neal to subpoena Trump’s tax records as the opening salvo to a legal fight that may ultimately have to be settled by the U.S. Supreme Court. Neal set a final 5 p.m. (2100 GMT) deadline for the Internal Revenue Service and Treasury to provide six years of Trump’s individual and business tax records. But the deadline passed without the panel receiving the documents. After the deadline lapsed, Mnuchin released a letter to Neal in which he pledged to make “a final decision” on whether to provide Trump’s tax records by May 6. It was the second time the administration had missed a House deadline for the tax returns since Neal requested them on April 3. “Secretary Mnuchin notified me that once again, the IRS will miss the deadline for my ... request. I plan to consult with counsel about my next steps,” Neal said in a statement. In his letter, Mnuchin said he was still consulting with the Justice Department about Neal’s request, which he termed “unprecedented.” “The department cannot act upon your request unless and until it is determined to be consistent with the law,” the Treasury secretary told Neal. Democrats want Trump’s returns as part of their investigations of possible conflicts of interest posed by his continued ownership of extensive business interests, even as he serves the public as president. Republicans have condemned the request as a political “fishing expedition” by Democrats. Trump broke with a decades-old precedent by refusing to release his tax returns as a presidential candidate in 2016 or since being elected, saying he could not do so while his taxes were being audited. But his former personal lawyer, Michael Cohen, told a House panel in February that he did not believe Trump’s taxes were under audit. Cohen said the president feared that releasing his returns could lead to an audit and IRS tax penalties. ‘NOT UP TO THE PRESIDENT’ Earlier on Tuesday, the White House said Trump was unlikely to hand over his tax returns. “As I understand it, the president’s pretty clear: Once he’s out of audit, he’ll think about doing it, but he’s not inclined to do so at this time,” White House spokesman Hogan Gidley told Fox News in an interview. “This is not up to the president. We did not ask him,” said a Democratic committee aide, who cited a law saying the Treasury secretary “shall furnish” taxpayer data upon request from an authorized lawmaker. Neal informed IRS Commissioner Charles Rettig earlier this month that failure to comply with the deadline would be viewed as a denial. Legal experts said House Democrats could vote to hold Mnuchin or Rettig in contempt of Congress if they ignored a subpoena, as a pretext to suing in federal court to obtain Trump’s returns. Experts say administration officials could ultimately risk financial penalties and even jail time by defying the committee. As Ways and Means chairman, Neal is the only lawmaker in the House of Representatives authorized to request taxpayer information under federal law. Democrats say they are confident of succeeding in any legal fight over Trump’s tax returns. “Secretary Mnuchin is again choosing to violate the law to keep Trump’s records hidden away. This administration’s contempt for rule of law is without peer,” Representative Bill Pascrell, who has been leading the Democratic push for Trump’s tax records, said in a statement on Twitter. “I stand beside @RepRichardNeal as he continues the crusade to impose plain oversight on this corrupt administration.” Despite the law’s clarity, Democrats have long acknowledged that the effort would likely result in a legal battle that could end up with the Supreme Court. “If the IRS does not comply with the request, it is likely that Chairman Neal will subpoena the returns,” Representative Judy Chu, a Democratic member of the Ways and Means Committee, told Reuters. “If they do not comply with that (subpoena), a legal battle will begin to defend the right of oversight in Congress,” she said.
+
+The summary has to be returned after a "SUMMARY:" token and ending with a "END OF SUMMARY." token. The summary should be no longer than 200 words.

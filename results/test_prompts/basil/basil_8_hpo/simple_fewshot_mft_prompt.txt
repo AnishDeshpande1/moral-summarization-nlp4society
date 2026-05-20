@@ -1,0 +1,184 @@
+You have to summarize the following text preserving the moral framing that the author gave to it, with particular focus on the specific moral foundations highlighted in the text.
+
+Please study the following examples of news articles and their summaries preserving the moral framing:
+
+Example 1 (Political Ideology: Left, Moral Foundations: Care/Harm):
+Here is the news article:
+
+Obama’s team is spinning the Republican National Convention as a complete miss.
+Obama's new challenge: Disappointment
+
+The watchword of the Republican National Convention in Tampa was disappointment — as in President Barack Obama has been one.
+
+You can hammer Obama on health care.
+Mock his golf outings.
+Demand to see his birth certificate and Harvard transcript, and call him a European socialist bent on turning the American Dream into a Belgian nightmare.
+He’ll throw his head back and laugh at you like a Bond villain.
+
+But tell voters he’s not the man America fell in love with in 2008 — and pine, however disingenuously, about his unfulfilled potential — and a shiver runs through his Chicago campaign headquarters.
+
+Obama’s team was spinning the convention as a complete miss, arguing that Republicans didn’t lay a glove on their man.
+Yet what emerged from Tampa was a subtle, clever shift in GOP messaging, a much more dangerous strategy for Obama than the kitchen-sink attacks that preceded the gathering.
+Republicans posed — rhetorically — as Obama 2008 voters, lamenting his unfulfilled expectations as if they had been with him all along instead of trying to block him at every turn.
+
+Both sides recognize the power of the disappointment theme: that the hope Obama offered for mending the economy, transforming the political process and even saving the earth has faded.
+
+“President Obama promised to begin to slow the rise of the oceans and heal the planet,” Mitt Romney said in accepting the Republican presidential nomination Thursday.
+“My promise is to help you and your family.”
+
+Or, as Sen. Marco Rubio put it, “Our problem with President Obama isn’t that he’s a bad person.
+Our problem is that he’s a bad president.”
+
+If Republicans landed a punch on Obama, it was the kind of strategic body blow that a skillful pugilist deploys to gain better position for the rest of the fight.
+
+No roundhouse, no jaw-splitter, no knockout.
+It was the kind of shot aimed at subtly shifting momentum and softening up the opponent in a way that may not be evident to the casual observer.
+
+Republicans honed their tone.
+
+The shrill hyperbole, petty critiques of Obama’s every move and Party of No intransigence disappeared into the heavy Tampa air.
+Surely, some of that will rain back down across other parts of the country during the closing months of the campaign, particularly as super PACs and other outside groups intensify their own lines of attack against Obama.
+
+There was plenty of tough criticism in Tampa — more mockery of Obama’s “you didn’t build that” line, more comparisons of his record to Jimmy Carter’s.
+But there were times — prime time, in particular — that the Republican convention looked and sounded like a Democratic gathering.
+
+An appealing young vice-presidential candidate, Paul Ryan, called his mom his role model and vowed to protect Medicare for seniors.
+
+Cuban-American Florida Sen. Marco Rubio and Mexican-American New Mexico Gov. Susana Martinez spoke of the unique opportunities that the United States afforded them to rise into leadership positions.
+
+SUMMARY:
+
+The Republican National Convention in Tampa was a strategic success, as it subtly shifted the messaging to target President Obama's unfulfilled expectations and promises. By posing as disappointed 2008 Obama voters, Republicans cleverly landed a body blow on the President's campaign. The tone was honed to be more measured, abandoning shrill hyperbole and petty critiques. Instead, they focused on the disappointment theme, lamenting Obama's failure to deliver on his promises to mend the economy, transform politics, and save the earth. The convention featured appealing speakers, including Paul Ryan, Marco Rubio, and Susana Martinez, who spoke of the American Dream and protecting Medicare. This strategic shift in messaging poses a greater threat to Obama's campaign than previous attacks.
+
+END OF SUMMARY.
+
+Example 2 (Political Ideology: Center, Moral Foundations: Authority/Subversion, Care/Harm, Fairness/Cheating):
+Here is the news article:
+
+WASHINGTON (Reuters) - U.S. Treasury Secretary Steven Mnuchin failed to meet a final congressional deadline on Tuesday for turning over President Donald Trump’s tax returns to lawmakers, setting the stage for a possible court battle between Congress and the administration.
+
+U.S. Treasury Secretary Steven Mnuchin testifies before a House Financial Services Committee hearing on the "State of the International Financial System" on Capitol Hill in Washington, U.S., April 9, 2019.
+
+The outcome, which was widely expected, could prompt House Ways and Means Committee Chairman Richard Neal to subpoena Trump’s tax records as the opening salvo to a legal fight that may ultimately have to be settled by the U.S. Supreme Court.
+
+Neal set a final 5 p.m. (2100 GMT) deadline for the Internal Revenue Service and Treasury to provide six years of Trump’s individual and business tax records.
+But the deadline passed without the panel receiving the documents.
+
+After the deadline lapsed, Mnuchin released a letter to Neal in which he pledged to make “a final decision” on whether to provide Trump’s tax records by May 6.
+It was the second time the administration had missed a House deadline for the tax returns since Neal requested them on April 3.
+
+“Secretary Mnuchin notified me that once again, the IRS will miss the deadline for my ... request.
+I plan to consult with counsel about my next steps,” Neal said in a statement.
+
+In his letter, Mnuchin said he was still consulting with the Justice Department about Neal’s request, which he termed “unprecedented.”
+
+“The department cannot act upon your request unless and until it is determined to be consistent with the law,” the Treasury secretary told Neal.
+
+Democrats want Trump’s returns as part of their investigations of possible conflicts of interest posed by his continued ownership of extensive business interests, even as he serves the public as president.
+
+Republicans have condemned the request as a political “fishing expedition” by Democrats.
+
+Trump broke with a decades-old precedent by refusing to release his tax returns as a presidential candidate in 2016 or since being elected, saying he could not do so while his taxes were being audited.
+
+But his former personal lawyer, Michael Cohen, told a House panel in February that he did not believe Trump’s taxes were under audit.
+Cohen said the president feared that releasing his returns could lead to an audit and IRS tax penalties.
+
+‘NOT UP TO THE PRESIDENT’
+
+Earlier on Tuesday, the White House said Trump was unlikely to hand over his tax returns.
+“As I understand it, the president’s pretty clear: Once he’s out of audit, he’ll think about doing it, but he’s not inclined to do so at this time,” White House spokesman Hogan Gidley told Fox News in an interview.
+
+“This is not up to the president.
+We did not ask him,” said a Democratic committee aide, who cited a law saying the Treasury secretary “shall furnish” taxpayer data upon request from an authorized lawmaker.
+
+Neal informed IRS Commissioner Charles Rettig earlier this month that failure to comply with the deadline would be viewed as a denial.
+
+Legal experts said House Democrats could vote to hold Mnuchin or Rettig in contempt of Congress if they ignored a subpoena, as a pretext to suing in federal court to obtain Trump’s returns.
+Experts say administration officials could ultimately risk financial penalties and even jail time by defying the committee.
+
+As Ways and Means chairman, Neal is the only lawmaker in the House of Representatives authorized to request taxpayer information under federal law.
+Democrats say they are confident of succeeding in any legal fight over Trump’s tax returns.
+
+“Secretary Mnuchin is again choosing to violate the law to keep Trump’s records hidden away.
+This administration’s contempt for rule of law is without peer,” Representative Bill Pascrell, who has been leading the Democratic push for Trump’s tax records, said in a statement on Twitter.
+
+“I stand beside @RepRichardNeal as he continues the crusade to impose plain oversight on this corrupt administration.”
+
+Despite the law’s clarity, Democrats have long acknowledged that the effort would likely result in a legal battle that could end up with the Supreme Court.
+
+“If the IRS does not comply with the request, it is likely that Chairman Neal will subpoena the returns,” Representative Judy Chu, a Democratic member of the Ways and Means Committee, told Reuters.
+
+“If they do not comply with that (subpoena), a legal battle will begin to defend the right of oversight in Congress,” she said.
+
+SUMMARY:
+
+U.S. Treasury Secretary Steven Mnuchin has failed to meet the deadline to provide President Donald Trump's tax returns to Congress, setting the stage for a potential court battle. This move is seen as a violation of the law and a contempt for the rule of law. Democrats have been seeking Trump's tax returns as part of their investigations into possible conflicts of interest posed by his continued ownership of business interests while serving as president. Mnuchin has claimed that the request is "unprecedented" and that he is still consulting with the Justice Department. However, Democrats argue that the law is clear and that Mnuchin is obligated to provide the tax returns. The failure to comply with the deadline may lead to a subpoena and ultimately, a legal battle that could end up in the Supreme Court. Democrats are confident of succeeding in any legal fight, citing the clarity of the law.
+
+END OF SUMMARY.
+
+Example 3 (Political Ideology: Right, Moral Foundations: Authority/Subversion, Loyalty/Betrayal):
+Here is the news article:
+
+Outgoing White House economic adviser Larry Summers warned Wednesday that failure to pass a new tax cut compromise would significantly raise the risk of a double-dip recession.
+
+"To pass this bill in the next couple of weeks would materially increase the risk that the economy would stall out and we would have a double dip," he told reporters at the White House.
+
+Summers added that he thinks Congress will pass the deal President Obama struck with Republicans, an agreement that has come under withering criticism from liberal Democrats over the two-year extension of tax cuts for the rich as well as the middle class.
+
+Summers said that he doesn't think that Congress would take a step that "materially increases the risk that this economy will stall out."
+
+Positive reviews coming in from economists, Summers said, show the deal is the right thing to do.
+
+Sen. Jon Kyl, the No. 2 Republican in the Senate, told reporters that a tax cut bill could be on the Senate floor as early as Thursday.
+
+But, in a surprise move, Senate Democrats, meeting behind closed doors to discuss the tax deal, have asked the administration for "changes" to the bill, according to Sen Dick Durbin, D-Ill., the No. 2 Democrat in the chamber.
+Durbin would not detail what those changes are, deferring to Senate Majority Leader Harry Reid, D-Nev.
+
+Kyl said an official analysis and price tag, referred to as a "score," from the Joint Committee on Taxation (JCT) are not yet ready, but that the Senate could move to the bill anyway.
+
+Vice President Biden traveled to the Capitol Wednesday for a private meeting with House Democrats who are resisting the deal, saying it gives away too much to the wealthy.
+
+Some Democrats are unhappy that Obama agreed to extend expiring tax cuts not just for the middle class but also for higher earners, and that he agreed to impose a lower estate tax on wealthy heirs.
+Both provisions are seen by many Democrats as giveaways to the rich that will do little to help the economy.
+
+In return, Democrats would get extended jobless benefits for people who have been unemployed for long stretches.
+Workers would also see their share of Social Security payroll taxes cut by nearly a third for the coming year, a boost in take-home pay meant to encourage spending and aid the economy.
+
+Liberals are going as far as trying to prevent outgoing House Speaker Nancy Pelosi from bringing the tax cut compromise to the floor.
+
+Reps. Peter DeFazio of Oregon, and Jim McDermott and Jay Inslee of Washington state are crafting a letter to share with the House Democratic Caucus that would try to block the bill from seeing the light of day.
+They're hoping to get 60 signatures on their letter and then force a vote in the caucus.
+
+"There does not seem to be a majority of the Democrats who support the deal negotiated by Vice President Biden," he told Fox News.
+"So we want to have a record vote in the caucus on a resolution that says this resolution should not go to the floor without a majority of Democratic votes."
+
+DeFazio said House Democrats aren't going to keep rubber-stamping deals they don't like.
+
+"All through this administration, the White House has been a spear carrier for the president," he said.
+"They sent something over, the speaker has jammed it through and then Obama has negotiated with the Senate.
+And they're trying to get us to jam it through again.
+And a number of us are just saying that's enough."
+
+Obama rejected claims that he betrayed Democrats by cutting a deal with Republicans.
+Speaking to reporters at a joint appearance with Polish President Bronislaw Komorowski, Obama said economists predict higher job growth in 2011 and 2012 if Congress passes the agreement and urged lawmakers to examine the details of the deal and "get this done."
+
+But House Democrats are not listening.
+
+"So far, the response has not been very good," Pelosi said.
+She called the estate tax provision "a bridge too far."
+
+SUMMARY:
+
+Outgoing White House economic adviser Larry Summers warned that failure to pass the new tax cut compromise would significantly raise the risk of a double-dip recession. Despite criticism from liberal Democrats, Summers believes Congress will pass the deal, which extends tax cuts for the rich and middle class. Senate Democrats, however, are seeking changes to the bill, and House Democrats are resisting the deal, saying it gives away too much to the wealthy. Vice President Biden met with House Democrats to try to sway them, but many are unhappy with the provisions, including the extension of expiring tax cuts for higher earners and the lower estate tax on wealthy heirs. Liberals are even trying to prevent the bill from coming to the floor. The deal's supporters argue it will boost the economy, but critics see it as a giveaway to the rich. The moral framing of this issue is clear: is it right to prioritize the wealthy over the needs of the economy and the unemployed?
+
+END OF SUMMARY.
+
+Now, here is the target news article to summarize:
+Here is the news article:
+
+Senior White House officials significantly raised the stakes on congressional Democrats in their efforts to get a deal passed on the Bush tax cuts, warning on Wednesday that inaction would "significantly increase the risk" of a double dip recession. It wasn't quite the metaphorical flare of mushroom cloud imagery, but outgoing senior economic adviser Larry Summers offered a fairly dire assessment of the stakes in the tax cut debate. "If they [Democrats] don't pass this bill in the next couple weeks it will materially increase the risk that the economy would stall out and we would have a double dip," he told a gathering of reporters at an off camera briefing. A double dip recession? "What I said it would significantly increase the risk," Summers replied. The message was hardly subtle. But it certainly was debatable. Summers himself, downplayed the significance of continuing the Bush tax cuts back in September -- though he was speaking, then, about the rates for the rich and the tax cut deal, at that point in time, did not include money for a 13-month extension of unemployment insurance or other tax incentives to help lower income workers. Asked whether the country would find itself dipping towards the economic doldrums if Congress waited a month or two to get a tax cut package passed, Rob Shapiro, a former commerce official in the Clinton White House and a proponent of the current tax cut deal, offered more sober-minded analysis. "The wait would not cause a double dip," he said. "A double dip would come out of the reality of a relatively contractionary fiscal policy... I do think the deal that they announced is stimulative. And it ought to boost growth by some increment... But the issue is, that the deal certainly is not enough to lift the economy to a different place. Will we see what happened with the large stimulus happen here, which is once the stimulus is over the economy returns to slow growth? That's the danger. And I keep on saying this, the single most important thing they can do to avert that is to stabilize housing prices." Stabilizing the housing market, however, is not on the current congressional docket. And on Wednesday, the White House began a robust process of selling the deal to Democrats -- skeptical, as they are, about an extension of Bush tax cuts for the wealthy and a generous revision of the estate tax. There were few carrots to go along with the sticks. Asked, for instance, if the White House would be willing to revise the informal compromise to bring more Democratic lawmakers on board, White House Press Secretary Robert Gibbs said any changes would be fine, so long as they didn't result in decreased support. Then he cautioned: "The physics and the blood and the sweat that might be involved in that, I'm not entirely sure I would put it quite as simply as that." If anything, the pitch being offered from the administration to the rest of the party was: take the package now or risk being blamed for an economic downturn. "I guess the question back for those who ask [why not fight for more] is where does this go, what is the end game and what are the consequences of playing it?" said senior adviser David Axelrod. "Do they have a sense of how this ends and how long will that take, because as Larry said there are real consequences to that. Just as the forecasts went up on the basis of this agreement they will go down if this agreement fails. That we know. We know that on January 1 people's taxes will go up, we know that at the end of this month 2 million people will lose their unemployment insurance. And so there are real consequences to that decision. We, I think we all stipulate, the president did, no one likes those provisions that they dislike but on the other side of the ledger are significant things that will help people and help the economy. And what we know for sure is that without any of it we are facing a really difficult situation." Added Gibbs: "I think you would really have to ask somebody who says... lets have some eight week fight and on February the 15th come in and say, alright, now we are ready to make a compromise, who on earth, who on earth thinks that that is somehow going to be a fundamentally better agreement than the one we are looking at right now? No one I have ever talked to."
+
+For this target article, the author's moral framing heavily relies on the following Moral Foundation dimensions: Authority/Subversion, Care/Harm.
+Please pay special attention to preserving the moral framing related to these specific dimensions (Authority/Subversion, Care/Harm) in your summary.
+
+The summary has to be returned after a "SUMMARY:" token and ending with a "END OF SUMMARY." token. The summary should be no longer than 200 words.

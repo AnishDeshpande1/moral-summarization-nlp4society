@@ -1,0 +1,186 @@
+You have to summarize the following text preserving the moral framing that the author gave to it, with particular focus on the specific moral foundations highlighted in the text.
+
+Please study the following examples of news articles and their summaries preserving the moral framing:
+
+Example 1 (Political Ideology: Left, Moral Foundations: Authority/Subversion, Care/Harm, Fairness/Cheating):
+Here is the news article:
+
+Obama Gun Control Proposals Unveiled, Marking Biggest Legislative Effort In A Generation
+
+WASHINGTON -- In a bold and potentially historic attempt to stem the increase in mass gun violence, President Barack Obama unveiled on Wednesday the most sweeping effort at gun control policy reform in a generation.
+
+"This is our first task as a society: keeping our children safe.
+This is how we will be judged," Obama said.
+“We can’t put this off any longer."
+
+The proposal, which comes at the end of a month-long review process spearheaded by Vice President Joe Biden, is broken down into four key subsections: law enforcement, the availability of dangerous firearms and ammunition, school safety and mental health.
+
+In an effort to touch on all four of those elements, the president recommended requiring criminal background checks for all gun sales; reinstating the assault weapons ban; restoring a 10-round limit on ammunition magazines; eliminating armor-piercing bullets; providing mental health services in schools; allocating funds to hire more police officers; and instituting a federal gun trafficking statute, among other policies.
+The cost of the package, senior officials estimated, would be roughly $500 million, some of which could come from already budgeted funds.
+
+Because these recommendations require congressional approval, the administration is supplementing its proposal with 23 executive actions that will be taken immediately.
+Those actions include requiring federal agencies to hand over relevant data for a background check system; providing law enforcement officials, first responders and school officials with better training for active shooting situations; directing the Centers for Disease Control to research the causes and prevention of gun violence; and many more.
+
+"I intend to use whatever weight this office holds to make them a reality," said the president, speaking about his full set of recommendations.
+"If there's even one life that can be saved, then we've got an obligation to try."
+
+The approach is so sweeping that what would have otherwise been a headline-grabbing announcement received second billing.
+The president on Wednesday will nominate Byron Todd Jones, the acting director of the Bureau of Alcohol, Tobacco, Firearms and Explosives, to take over the post permanently.
+
+In total, the proposal goes beyond what most gun control advocates were hoping for at the start of Biden's review process, during which he held 22 different meetings with 229 different organizations and 31 elected officials.
+
+"This is a monumental moment.
+It's a long time coming and we're thrilled the president's putting the full weight of his office behind this," said Josh Horowitz, executive director of the Coalition to Stop Gun Violence.
+"We're ready to push this thing through."
+
+But putting together ideas is the easy part.
+Selling them on the Hill will take a bit of legislative craft.
+
+Seasoned political observers have questioned whether it makes more sense to break the package into separate bills or push for one comprehensive proposal.
+A senior administration official said that the president's proposal shouldn't be considered finalized legislative language, but rather a series of recommendations for Congress to consider.
+The president would be working with lawmakers to move the process forward, the official added, and would be trying to build up public opinion as well.
+
+"I will put everything I've got into this and so will Joe [Biden].
+But I tell you, the only way we can change is if the American people demand it," said Obama.
+"We are going to need voices in those areas and congressional districts where the tradition of gun ownership is strong."
+
+"It can't just be the usual suspects," he continued.
+"This will not happen unless the American people demand it."
+
+The gun-rights lobby has already signaled that it will try to block the administration's effort.
+A spokesman for the National Rifle Association did not immediately respond to requests for comment on the president's proposal.
+But the organization has already harshly criticized the Obama administration for overreach.
+
+"It is unfortunate that this administration continues to insist on pushing failed solutions to our nation's most pressing problems," the NRA said after meeting with Biden last week.
+"We will not allow law-abiding gun owners to be blamed for the acts of criminals and madmen."
+
+The group continued its offensive this week, launching an advertising campaign attacking Obama as an "elitist hypocrite" for opposing the NRA's widely-criticized proposal, made after the Newtown, Conn. shooting, to place armed guards in all of the nation's schools.
+
+But that attack appeared a bit premature.
+As part of its policy recommendations, the White House called on Congress to act on an old administration proposal to spend $4 billion to keep 15,000 cops on the streets.
+In addition, the president is proposing a new initiative that would incentivize police departments to hire more school resource officers and encourage schools to hire more mental health professionals.
+The president's plan also calls on Congress to allocate resources to help schools, other educational institutions and houses of worship develop emergency management plans.
+
+The White House proposals, even officials there admit, are not a cure-all for mass shootings.
+Among the suggested recommendations on the gun-policy front, only the ban on high-capacity magazines could have had a tangible impact on the shooting in Newtown, and it's unclear what, exactly, the effect would have been.
+
+Moreover, the administration is pointedly not going after those weapons and ammunition magazines that are currently and lawfully owned.
+The proposal would instead affect the future production and sale of military-style weapons or high-capacity magazines.
+
+"We are not going to go after existing stock of weapons or magazines," said a senior administration official.
+"We are going to limit it to the manufacturing of assault weapons and clips going forward."
+
+The White House nevertheless insists that its package of proposals has teeth.
+It would provide law enforcement with the mechanisms needed to go after the illegal transfer of weapons and help prevent those weapons from falling into the wrong hands.
+It would also stem the use of military-style weapons -- the White House says its proposal would improve on the 1994 Assault Weapons Ban, which was riddled with loopholes -- and give schools and communities resources to address violence when it occurs.
+
+The question, in some respects, is not what's missing from the set of ideas, but what took the administration so long to get to this point.
+
+"It is not as though we had this whole policy paper sitting on the shelf somewhere," said a senior administration official.
+"[We worked] 24/7 for the past month.
+And we met with a lot of groups and we learned a lot of ideas that came as a result of this process.
+We tried to be as comprehensive as possible.
+We are hoping that as the process goes on and as the debate goes on, we might come up with some other ideas."
+
+SUMMARY:
+
+President Barack Obama unveiled a sweeping gun control proposal, marking the biggest legislative effort in a generation. The proposal aims to stem the increase in mass gun violence, with Obama emphasizing that "keeping our children safe" is the society's first task. The plan includes requiring criminal background checks for all gun sales, reinstating the assault weapons ban, and providing mental health services in schools. The administration is supplementing its proposal with 23 executive actions, including requiring federal agencies to hand over relevant data for a background check system. The approach is so sweeping that it goes beyond what most gun control advocates were hoping for. While the gun-rights lobby has signaled opposition, Obama vowed to use the full weight of his office to make the proposals a reality, urging the American people to demand change. The proposal is a monumental moment in the effort to reduce gun violence, and its success will depend on public opinion and legislative craft.
+
+END OF SUMMARY.
+
+Example 2 (Political Ideology: Center, Moral Foundations: Authority/Subversion, Care/Harm):
+Here is the news article:
+
+This video was produced in collaboration with The New York Times.
+
+Admild, an undocumented immigrant from Haiti, was feeling sick as he approached the deportation plane that was going to take him back to the country he had fled in fear.
+Two weeks before that day in May, while being held at an Immigration and Customs Enforcement detention facility in Louisiana, he had tested positive for the coronavirus — and he was still showing symptoms.
+
+He disclosed his condition to an ICE official at the airport, who sent him to a nurse.
+
+“She just gave me Tylenol,” said Admild, who feared reprisals if his last name was published.
+Not long after, he was back on the plane before landing in Port-au-Prince, one of more than 40,000 immigrants deported from the United States since March, according to ICE records.
+
+Even as lockdowns and other measures have been taken around the world to prevent the spread of the coronavirus, ICE has continued to detain people, move them from state to state and deport them.
+
+An investigation by The New York Times in collaboration with The Marshall Project reveals how unsafe conditions and scattershot testing helped turn ICE into a domestic and global spreader of the virus — and how pressure from the Trump administration led countries to take in sick deportees.
+
+We spoke to more than 30 immigrant detainees who described cramped and unsanitary detention centers where social distancing was near impossible and protective gear almost nonexistent.
+“It was like a time bomb,” said Yudanys, a Cuban immigrant held in Louisiana.
+
+At least four deportees interviewed by The Times, from India, Haiti, Guatemala and El Salvador, tested positive for the virus shortly after arriving from the United States.
+
+So far, ICE has confirmed at least 3,000 coronavirus-positive detainees in its detention centers, though testing has been limited.
+
+We tracked over 750 domestic ICE flights since March, carrying thousands of detainees to different centers, including some who said they were sick.
+Kanate, a refugee from Kyrgyzstan, was moved from the Pike County Correctional Facility in Pennsylvania to the Prairieland Detention Facility in Texas despite showing Covid-19 symptoms.
+He was confirmed to have the virus just a few days later.
+
+“I was panicking,” he said.
+“I thought that I will die here in this prison.”
+
+We also tracked over 200 deportation flights carrying migrants, some of them ill with coronavirus, to other countries from March through June.
+Under pressure from the Trump administration and with promises of humanitarian aid, some countries have fully cooperated with deportations.
+
+El Salvador and Honduras have accepted more than 6,000 deportees since March.
+In April, President Trump praised the presidents of both countries for their cooperation and said he would send ventilators to help treat the sickest of their coronavirus patients.
+
+So far, the governments of 11 countries have confirmed that deportees returned home with Covid-19.
+
+When asked about the agency’s role in spreading the virus by moving and deporting sick detainees, ICE said it took precautions and followed guidelines of the Centers for Disease Control and Prevention.
+As of last week, ICE said that it was still able to test only a sampling of immigrants before sending them home.
+Yet deportation flights continue.
+
+SUMMARY:
+
+The US Immigration and Customs Enforcement (ICE) has been criticized for its role in spreading the coronavirus globally. Despite lockdowns and safety measures worldwide, ICE has continued to detain, move, and deport immigrants, many of whom have tested positive for COVID-19. An investigation by The New York Times and The Marshall Project reveals that ICE detention centers have been hotbeds of infection, with cramped and unsanitary conditions, limited testing, and inadequate protective gear. Detainees have been moved from state to state, and deported to their home countries, often while still symptomatic. At least 3,000 detainees have tested positive for the virus, and many countries have accepted deportees who were infected. The Trump administration has pressured countries to cooperate with deportations, promising humanitarian aid. This morally reprehensible practice has put countless lives at risk, both in the US and abroad. ICE's actions have been a "time bomb" waiting to unleash the virus globally.
+
+END OF SUMMARY.
+
+Example 3 (Political Ideology: Right, Moral Foundations: Authority/Subversion, Fairness/Cheating, Loyalty/Betrayal):
+Here is the news article:
+
+'Jail!' Trump slams 'crooked' Hillary aide Huma, calls on 'Deep State' DOJ to act
+
+President Trump went after "Crooked" Hillary Clinton aide Huma Abedin on Tuesday, appearing to call on the “Deep State” Justice Department to look at potential security issues in her handling of classified material after a recent email dump.
+
+“Crooked Hillary Clinton’s top aide, Huma Abedin, has been accused of disregarding basic security protocols.
+She put Classified Passwords into the hands of foreign agents.
+Remember sailors pictures on the submarine?
+Jail!” Trump tweeted early Tuesday.
+“Deep State Justice Dept must finally act?
+Also on Comey & others.”
+
+Trump was referring to U.S. Navy Sailor Kristian Saucier, who was put in prison for taking unauthorized photos inside a nuclear submarine.
+He seemed to suggest a double standard is at play, compared with the lack of punishment for Clinton and her aides.
+
+The president’s tweet comes after the State Department, in a Friday news dump, released a batch of emails from Abedin’s account that were discovered by the FBI on a laptop belonging to her estranged husband, Anthony Weiner.
+At least four of the documents were marked “classified.”
+
+Abedin also forwarded sensitive State Department emails to her personal Yahoo email account before every Yahoo account was hacked, first reported by the Daily Caller.
+Abedin also sent passwords for her government laptop to her Yahoo account on Aug. 24, 2009.
+
+In 2013, Yahoo was hacked, and the company said in a statement that “all Yahoo user accounts were affected” by the theft.
+
+Former FBI Director James Comey, who led the Clinton email investigation, said during a congressional hearing last year that he believed Abedin forwarded emails to Weiner for him to print out so that she could give them to Clinton.
+
+Abedin’s emails shook the 2016 presidential race, as Comey told Congress on Oct. 28, 2016, just days before the election, that the FBI had found more of Clinton’s messages on Weiner’s laptop as they investigated a sexting case against him.
+
+The discovery of those records reopened the case against Clinton, several months after Comey said he wasn’t recommending any charges be filed in the case.
+Comey at the time said Clinton was “extremely careless” in her handling of classified emails on her private server.
+
+SUMMARY:
+
+President Trump is calling for the "Deep State" Justice Department to take action against Huma Abedin, a top aide to Hillary Clinton, for her alleged mishandling of classified material. Trump tweeted that Abedin "put Classified Passwords into the hands of foreign agents" and suggested she should be jailed for her actions. He compared Abedin's situation to that of U.S. Navy Sailor Kristian Saucier, who was imprisoned for taking unauthorized photos on a submarine. Trump's tweet comes after the release of a batch of emails from Abedin's account, which included at least four classified documents. Abedin had also forwarded sensitive State Department emails to her personal Yahoo email account, which was later hacked. Trump is implying a double standard, as Abedin and Clinton have not faced punishment for their actions, while others have been held accountable.
+
+END OF SUMMARY.
+
+Now, here is the target news article to summarize:
+Here is the news article:
+
+Many of the so-called ‘holds’ in the Priority Enforcement Program intended to expedite deportation of ‘criminal aliens’ have past arrests but no convictions A program intended to prioritize the deportation of immigrants who officials call “the worst of the worst” is missing its target, according to a new report. An analysis of requests by federal officials for local jails to keep immigrants suspected of violating US immigration law in custody found half of the so-called “holds” were placed on people who had been arrested but actually had no criminal conviction. Some had been picked up during traffic violations, or had their charges dropped. But their arrest triggered a process that ended with their federal immigration detention, and in many cases led to deportation proceedings. US and Mexico's mass deportations have fueled humanitarian crisis, report says Just one quarter had committed the most serious types of offenses, such as murder or sexual assault, according to the Transactional Records Access Clearinghouse, which is based at Syracuse University and obtained the records through an open records request. The most common conviction was for drunk driving, followed by miscellaneous assaults and simple traffic offenses. This comes as Immigration and Customs Enforcement (ICE) claims it has narrowed the criteria it used under a started in 2008 called Secure Communities that contributed to a record number of deportations under Barack Obama. Under the program, federal officials ask local jails to hold undocumented immigrants they arrest in custody so that they can be transferred to federal immigration detention centers. In November 2014, Homeland Security director Jeh Johnson said a new program called the Priority Enforcement Program (PEP) would focus on “criminal aliens” convicted of felonies or several misdemeanor offenses. In fact, the most recent data shows ICE now targets people with no criminal record at a slightly higher rate than before. ICE said it could not comment on an analysis performed by an external organization. But spokeswoman Sarah Rodriquez said the agency “continues to make significant strides … through PEP to ensure a common-sense approach that focuses enforcement resources on convicted criminals and individuals who threaten public safety and national security”. The agency says it also tries to consider “important community policing needs”. But here too, it may be be falling short. “The policies they are implementing are not keeping anyone secure,” said Maria Sotomayor, an undocumented immigrant who lives in Philadelphia, and who met with Johnson in May when he tried unsuccessfully to convince the city to implement the PEP program, which would have ended its “sanctuary city” policy that keeps ICE and police separate. “I told him that because of these detainers, an immigrant who is a victim of a crime will think many times before calling the police to make a report because we could get picked up too,” recalled Sotomayor. Before PEP was officially implemented last year, at least 377 local law enforcement agencies were refusing to honor some or all requests to hold immigrants in detention from ICE. The agency says 17 of the 25 jurisdictions with the highest number of declined detainers are now participating in the program. Unauthorized immigration in the US About 11.3 million people live in the US without legal papers, down from a peak of about 12.2 million in 2007. Net unauthorized immigration has been roughly even since 2010. According to 2012 figures, there are about 8 million unauthorized migrants either working or looking for work, or 5.1% of the labor force. Since 2009, more Mexicans have been leaving the US than entering, likely due to a slow economic recovery since the recession and stricter border enforcement. Barack Obama has deported more than 2.5 million people, more than any other president. His executive orders protect at least 1.2 million people from deportations. Meanwhile, immigration advocates have sued to obtain more details how the PEP program actually differs from its predecessor. “We suspect this PEP program was just a name change,” said Jessica Bansel, legal director of the National Day Laborers Organizing Network. For example, while ICE can now ask local jails to simply inform them when an immigrant is in custody, not to detain them, Bansel noted the agency also has two new detainer forms that are specifically designed to request custody of a person who recently entered the country illegally, but has not been convicted of a crime and is not a security risk. “This sort of makes the whole thing a joke,” said Bansel.
+
+For this target article, the author's moral framing heavily relies on the following Moral Foundation dimensions: Authority/Subversion, Care/Harm, Fairness/Cheating.
+Please pay special attention to preserving the moral framing related to these specific dimensions (Authority/Subversion, Care/Harm, Fairness/Cheating) in your summary.
+
+The summary has to be returned after a "SUMMARY:" token and ending with a "END OF SUMMARY." token. The summary should be no longer than 200 words.

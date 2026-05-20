@@ -1,0 +1,19 @@
+You have to summarize the following text preserving the moral framing that the author gave to it.
+
+Here is the news article:
+
+Christian leaders are responding with love, concern and warnings of civil disobedience in the aftermath of the Supreme Court's historical decision on marriage. The high court has declared that same-sex couples have a constitutional right to marry anywhere in the United States. They have already had the right in 36 states and the District of Columbia. Now, the remaining 14 states will no longer be allowed to uphold their definitions of traditional marriage. Former governor and presidential candidate Mike Huckabee tweeted that the ruling is "an out-of-control act of unconstitutional judicial tyranny." Bob Vander Plaats, a conservative activist in Iowa, told supporters the court "succumbed to demands to invent a new constitutional 'right' never imagined by our Founders." What impact with the gay marriage ruling have on religious liberty? CBN News spoke with Austin Nimocks of the Alliance Defending Freedom for his perspective. Rev. Albert Mohler, the president of the Southern Baptist Theological Seminary, admonished followers in a tweet, "the challenge for Christians now is to speak the truth in love and to speak love in truth. Love of neighbor means we cannot lie about marriage." Many Christian leaders believe the ruling will create a restricted role for people of faith in American society. "The Supreme Court has stripped all Americans of our freedom to debate and decide marriage policy through the democratic process," Jim Campbell, of the Alliance Defending Freedom Senior Legal Counsel, said. "The freedom to democratically address the most pressing social issues of the day is the heart of liberty." Many faith leaders believe the Supreme Court ruling recognizing gay marriage will put religious liberty will be at risk. In the weeks before the ruling came down, the Southern Baptist Convention partnered with the Alliance Defending Freedom to provide guidance for churches and other faith-based institutions called Protecting Your Ministry. CBN News interviewed Dr. Russell Moore about the booklet earlier this month. Rev. Samuel Rodriguez says the decision "serves as a defacto and legal catalyst for the marginalization of Americans who embrace a biblical worldview." Many leaders, such as Liberty Counsel's Mat Staver, have already called for civil disobedience in response to such a ruling. Others individuals and organizations are studying the ruling to determine the best ways to respond.
+
+The author used the following morally framed words in the article:
+* act
+* tyranny
+* succumbed
+* invent
+* speak
+* love
+* create
+* stripped
+* put
+* marginalization
+
+Please preserve as many morally framed words as possible in your summary. The summary has to be returned after a "SUMMARY:" token and ending with a "END OF SUMMARY." token. The summary should be no longer than 200 words.

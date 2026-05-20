@@ -1,0 +1,52 @@
+You have to summarize the following text preserving the moral framing that the author gave to it.
+
+Here is the news article:
+
+Lynette Lederman says she does not want the president to visit Pittsburgh and will rely on local political leadership A former president of the synagogue in Pittsburgh where 11 people were murdered on Saturday has said Donald Trump would not be welcome in the city and labelled the president a “purveyor of hate speech”. 'Stop the words of hate,' Pittsburgh rabbi urges US leaders as survivors speak Lynette Lederman, of the Tree of Life Synagogue in Squirrel Hill, told CNN on Monday she would rely on local political leadership in the aftermath of the mass shooting and did not want the president to visit the city. “We have people who stand by us, who believe in values – not just Jewish – but believe in values, and those are not the values of this president and I do not welcome him to Pittsburgh,” she said. The comments followed an open letter signed by a coalition of local Jewish leaders and published by the Pittsburgh chapter of Bend The Arc, a progressive advocacy group, that also called for the president to avoid the city. “President Trump, you are not welcome in Pittsburgh until you fully denounce white nationalism,” the letter states. Trump, who labelled the shooting an “evil antisemitic attack”, is set to visit Pittsburgh on Tuesday, the White House confirmed on Monday afternoon. As the administration continues to face criticism over the president’s polarizing rhetoric in the aftermath of the Pittsburgh shooting and a series of attempted bombings against prominent Democrats and critics of Trump last week, Trump used Twitter again on Monday morning to label the media as “the true Enemy of the People”. “There is great anger in our Country caused in part by inaccurate, and even fraudulent, reporting of the news. The Fake News Media, the true Enemy of the People, must stop the open & obvious hostility & report the news accurately & fairly,” Trump tweeted, shortly after Lederman spoke to CNN. The 11 victims of the shooting were named as suspected gunman Robert Bowers was charged with 29 federal crimes, including 11 counts of murdering victims exercising their religious beliefs. The shooter, who traded gunfire with law enforcement officers during the massacre, was released from hospital on Monday and is expected in court later in the day . The victims, eight men and three women, ranged in age from 54 to 97 and included a husband and wife, two brothers, professors, a dentist and a physician. The Anti-Defamation League [ADL] said the shooting was the most deadly attack against Jewish people in America and came amid an increase in antisemitic attacks in the US. The ADL reported a 57% rise in reported incidents of antisemitic harassment and violence in 2017. “We are seeing an environment in which antisemitism has moved from the margins to the mainstream as political candidates and people in public life literally repeat the rhetoric of white supremacists,” Jonathan Greenblatt, ADL chief executive, told ABC News on Sunday. As the faith leadership in Squirrel Hill prepared funeral arrangements for those killed, the Tree of Life rabbi Jeffrey Myers told CNN on Monday he would welcome the president to the city. “I don’t really foist blame upon any person,” Myers said. “Hate does not know religion, race, creed political party – it’s not a political issue in any way shape or form. Hate does not know any of those things, it exists in all people.” Squirrel Hill: mourners find 'safety in solidarity' as they grieve after shooting He added: “The president of the United States is always welcome to come. I’m a citizen, he’s my president. He’s certainly welcome.” A number of fundraising efforts have driven financial support to the grieving community. A crowdfunding campaign called Muslims Unite for Pittsburgh Synagogue has raised more than $90,000 while a fundraiser led by a graduate student in Washington had taken in nearly $545,000 by Monday morning. Three congregations were conducting Sabbath services at Tree of Life when the attack began on Saturday morning. The shooter is accused of tearing through the building with an AR-15 assault style rifle and three handguns, shouting antisemitic slurs. He also appears to have posted antisemitic rants on social media shortly before the attack. According to law enforcement officials speaking anonymously to the Associated Press, the suspect purchased all of his firearms legally and was licensed to carry firearms. The suspect, who had worked as a long-haul trucker, injured six other people, including four police officers as they exchanged gunfire. He had no previous criminal record, authorities said.
+
+The author used the following morally framed words in the article:
+* purveyor
+* speech
+* stop
+* hate
+* shooting
+* stand
+* believe
+* values
+* denounce
+* nationalism
+* antisemitic
+* attack
+* rhetoric
+* bombings
+* enemy
+* inaccurate
+* fraudulent
+* hostility
+* accurately
+* fairly
+* murdering
+* gunfire
+* massacre
+* deadly
+* attacks
+* rise
+* incidents
+* harassment
+* violence
+* antisemitism
+* repeat
+* supremacists
+* killed
+* safety
+* solidarity
+* efforts
+* support
+* campaign
+* fundraiser
+* services
+* tearing
+* rants
+* injured
+
+Please preserve as many morally framed words as possible in your summary. The summary has to be returned after a "SUMMARY:" token and ending with a "END OF SUMMARY." token. The summary should be no longer than 200 words.

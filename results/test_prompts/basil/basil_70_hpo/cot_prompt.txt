@@ -1,0 +1,8 @@
+You have to summarize the following text preserving the moral framing that the author gave to it.
+
+Here is the news article:
+
+WASHINGTON – Five hundred and eighty-four days after descending his Trump Tower escalator to announce his candidacy, Donald J. Trump took the oath of office Friday to become the 45th president of the United States. Chief Justice John Roberts administered the 38-word oath at 12:00 p.m., capping Trump’s unlikely journey from New York City real estate developer and reality TV star to the nation’s highest office. Trump won the Republican nomination against a crowded field of 16 other candidates, many far more experienced in politics. But he was able to capitalize on a primary voting base that was angry at the establishment GOP for not more aggressively fighting President Barack Obama’s policies. He trailed Democratic nominee Hillary Clinton in the general election nearly the entire way. In the final month of the race, he was helped by the near daily release of internal Democratic Party emails stolen by Russian hackers as well as by FBI Director James Comey’s decision to reopen, briefly, the probe into Clinton’s use of a private email server. Trump wound up winning Wisconsin, Michigan and Pennsylvania by a total of 78,000 votes. Clinton had counted on winning all three.
+
+(1) First, you identify all the single words that are morally framed. Identify this step as "STEP 1:" and report each word in a new line starting with *
+(2) Finally, you write a summary of the news article. Please preserve as many morally framed words as possible in your summary. The summary has to be returned after a "SUMMARY:" token and ending with a "END OF SUMMARY." token. The summary should be no longer than 200 words.

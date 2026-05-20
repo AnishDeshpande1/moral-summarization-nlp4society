@@ -1,0 +1,162 @@
+You have to summarize the following text preserving the moral framing that the author gave to it.
+
+Please study the following examples of news articles, their moral word extraction, and summaries preserving the moral framing:
+
+Example 1 (Political Ideology: Left):
+Here is the news article:
+
+Republican presidential candidate Rick Perry pledges to end "[President Barack] Obama's war on religion" in a new television ad airing in Iowa, railing against open service of gays and lesbians in the military and the prohibition against prayer in public schools.
+
+"I'm not ashamed to admit I'm a Christian," says Perry.
+"But you don't need to be in the pews every Sunday to know that there's something wrong in this country when gays can serve openly in the military but our kids can't openly celebrate Christmas or pray in school."
+
+"As president, I'll end Obama's war on religion and I'll fight against liberal attacks on our religious heritage," the Texas governor continues.
+"Faith made America strong. It can make her strong again."
+
+Perry has recently stepped up his attacks on Obama for cultural issues.
+In a statement released Tuesday, he decried the Obama administration’s decision to use foreign aid to promote rights for gays and lesbians abroad.
+
+"This is just the most recent example of an administration at war with people of faith in this country," he said.
+"Investing tax dollars promoting a lifestyle many Americas of faith find so deeply objectionable is wrong.
+President Obama has again mistaken America's tolerance for different lifestyles with an endorsement of those lifestyles."
+
+Politico reported Tuesday that Perry bought $1 million in broadcast television time ahead of the Jan. 3 caucuses.
+The Dallas Morning Newsrecently reported that his presidential campaign plans to bring "more than 600 influential Texans" to Iowa in December.
+However, Perry netted just six percent support among likely Republican caucus-goers, according to a Des Moines Register poll released Saturday.
+
+STEP 1:
+* ashamed
+* wrong
+* faith
+* heritage
+* strong
+* objectionable
+* tolerance
+* endorsement
+
+SUMMARY:
+Republican presidential candidate Rick Perry is pledging to end what he calls "[President Barack] Obama's war on religion" in a new TV ad airing in Iowa. Perry, a self-proclaimed Christian, claims that Obama's administration is at war with people of faith, citing the open service of gays and lesbians in the military and the prohibition against prayer in public schools as examples. Perry argues that it's "wrong" that kids can't openly celebrate Christmas or pray in school, while gays can serve openly in the military. He vows to "fight against liberal attacks on our religious heritage" and claims that "faith made America strong. It can make her strong again." Perry has also criticized Obama's decision to use foreign aid to promote rights for gays and lesbians abroad, calling it "wrong" and an "endorsement" of a lifestyle many Americans of faith find "objectionable." END OF SUMMARY.
+
+Example 2 (Political Ideology: Center):
+Here is the news article:
+
+Obama Willing to Use Executive Orders on Guns
+
+WASHINGTON — President Obama this week will embrace a comprehensive plan to reduce gun violence that will call for major legislation to expand background checks for gun purchases and lay out 19 separate actions the president could take by invoking the power of his office, lawmakers who were briefed on the plan said Monday.
+
+Lawmakers and other officials said that the president could use a public event as soon as Wednesday to signal his intention to engage in the biggest Congressional fight over guns in nearly two decades, focusing on the heightened background checks and including efforts to ban assault weapons and their high-capacity clips.
+But given the difficulty of pushing new rules through a bitterly divided Congress, Mr. Obama will also promise to act on his own to reduce gun violence wherever possible.
+
+Actions the president could take on his own are likely to include imposing new limits on guns imported from overseas, compelling federal agencies to improve sharing of mental health records and directing the Centers for Disease Control and Prevention to conduct research on gun violence, according to those briefed on the effort.
+
+White House aides believe Mr. Obama can also ratchet up enforcement of existing laws, including tougher prosecution of people who lie on their background checks.
+
+At a news conference on Monday, exactly one month after the school massacre in Newtown, Conn., Mr. Obama said a task force led by Vice President Joseph R. Biden Jr. had “presented me now with a list of sensible, common-sense steps that can be taken to make sure that the kinds of violence we saw at Newtown doesn’t happen again.
+He added: “My starting point is not to worry about the politics.
+My starting point is to focus on what makes sense, what works.”
+
+The administration’s strategy reflects the uncertainty of gun politics in America and the desire by White House officials to address the Connecticut shooting while also confronting the broader deficiencies in the country’s criminal justice and mental health systems.
+
+By proposing to use the independent power of his office, Mr. Obama is inviting political attacks by gun owners who have already expressed fear that he will abuse that authority to restrict their rights.
+Representative Steve Stockman, Republican of Texas, threatened Monday to file articles of impeachment if the president seeks to regulate guns with executive orders.
+“I will seek to thwart this action by any means necessary,” Mr. Stockman said in a statement.
+
+White House officials and Democratic lawmakers said that there are clear limits to what the president can and cannot do, and that Mr. Obama has no plans to push beyond what he would need Congressional authority to accomplish.
+
+On Capitol Hill, Mr. Obama’s legislative effort will face intense opposition from gun rights groups, including the National Rifle Association, and the lawmakers they support with millions of dollars at election time and who see gun rights as a defining issue in their districts.
+But Mr. Obama’s allies see a rare opening for tighter gun rules after Congress has shied away from the politically charged issue for years.
+
+“He’s putting together a pretty comprehensive list of what could be done to make a difference in this area,” said Representative Mike Thompson of California, who is heading a Democratic task force in the House.
+“There’s some huge, huge holes in the process that are set up to keep communities safe.
+We need to close those holes.”
+
+Representative Jackie Speier, Democrat of California, said Vice President Biden had informed lawmakers during a two-hour briefing on Monday that there are “19 independent steps that the president can take by executive order.”
+Ms. Speier said the executive action is part of the “most comprehensive gun safety effort in a generation.”
+
+Rahm Emanuel, the mayor of Chicago and Mr. Obama’s former chief of staff, joined the debate on Monday and said that the president should “clear the table” by doing whatever he can administratively so small issues do not get in the way of the bigger legislative fights over access to guns.
+
+“Don’t allow a side issue to derail these things,” Mr. Emanuel said during a discussion about gun policy.
+While many gun control advocates are eager to harness what they believe is a ripe moment in American life for new and robust restrictions on the kinds of guns that were used in Newtown, there is an emerging consensus on Capitol Hill and among gun education groups that improving the system of background check legislation that currently exempts private gun sales and gun shows is the most viable legislative route to pursue.
+
+“The assault-weapons ban is a low priority relative to the other measures the Biden task force is considering,” Matt Bennett, a spokesman for Third Way, a left-leaning research group, said after hearing from Mr. Biden last week.
+“Political capital in the gun debate only goes so far.
+We think it should be spent on things that would have the greatest impact on gun violence, like universal background checks and cracking down on gun trafficking.”
+
+Any efforts to get gun legislation through Congress will require an enormous and ceaseless pressure campaign by the administration.
+Mr. Obama and Mr. Biden are likely to keep up the pressure on lawmakers with public events in the weeks and months ahead, according to those familiar with the White House strategy.
+
+Scores of senators, including many Democrats, will be wary of voting on any effort to curb access to guns or ammunition.
+Senator Harry Reid of Nevada, the Democratic leader, is a longtime supporter of gun rights.
+Still, gun legislation is likely to begin in the Senate because the House is controlled by Republicans, many of whom oppose new restrictions on guns.
+
+With fiscal issues continuing to dominate the political calendar for the next several weeks, White House officials and lawmakers say the gun safety effort is likely to be debated in separate pieces of legislation that could be introduced over time.
+In coming weeks, Senator Charles E. Schumer, Democrat of New York, will reintroduce a measure that would require every gun buyer, with limited exceptions, to undergo a background check and would force states to feed all relevant data into the background check system so those with criminal convictions and the mentally ill could be flagged.
+
+STEP 1:
+* sensible
+* common-sense
+* fear
+* restrict
+* abuse
+* authority
+* rights
+* comprehensive
+* huge
+* safe
+* clear
+* ripe
+* robust
+* viable
+* low
+* priority
+* capital
+* greatest
+* impact
+
+SUMMARY:
+President Obama is willing to use executive orders to reduce gun violence, focusing on expanded background checks, banning assault weapons, and improving mental health records. Despite potential political attacks, Obama is committed to taking "sensible, common-sense steps" to prevent future tragedies like the Newtown massacre. The administration's strategy acknowledges the uncertainty of gun politics in America and the need to address broader deficiencies in the criminal justice and mental health systems. While some lawmakers and gun rights groups may oppose the measures, Obama's allies see a rare opportunity for tighter gun rules. The president's plan includes 19 separate actions he can take by invoking executive power, including imposing new limits on imported guns and directing the Centers for Disease Control and Prevention to conduct research on gun violence. END OF SUMMARY.
+
+Example 3 (Political Ideology: Right):
+Here is the news article:
+
+WASHINGTON – Legally married same-sex couples will now be allowed to file federal joint tax returns, the IRS and Treasury Department announced Thursday.
+The ruling allows homosexual couples to receive the same tax benefits that heterosexual couples do when filing jointly.
+
+Thursday’s announcement comes on the heels of a historic decision by the U.S. Supreme Court, which overturned a part of the Defense of Marriage Act earlier this year.
+
+Questions were raised following the high court’s decision on how the federal government would treat same-sex couples whose home states don’t recognize gay marriage.
+
+The rules issued Thursday said the policies would affect all legally married gay couples regardless of where they live.
+The rules, though, would not apply to domestic partnerships and civil unions.
+
+"Today's ruling provides certainty and clear, coherent tax filing guidance for all legally married same-sex couples nationwide.
+It provides access to benefits, responsibilities and protections under federal tax law that all Americans deserve," Treasury Secretary Jacob Lew said in a written statement.
+
+Human Rights Campaign President Chad Griffin said that, because of today’s ruling, “committed and loving gay and lesbian married couples will now be treated equally under our nation’s federal tax laws, regardless of what state they call home.”
+
+He added, “These families finally have access to crucial tax benefits and protections previously denied to them under the discriminatory Defense of Marriage Act.”
+
+Not everyone was on board with the decision.
+
+Brian Brown, president of the National Organization of Marriage, believes that giving same sex couples the right to file jointly “continues a pattern of lawlessness” across the country.
+
+"The Obama administration is intent on forcing same-sex 'marriage' on an unwilling public," Brown said in a written statement.
+"Congress alone has the responsibility of determining federal tax law."
+
+STEP 1:
+* discriminatory
+* lawlessness
+* unwilling
+* forcing
+
+SUMMARY:
+The IRS and Treasury Department have announced that legally married same-sex couples can now file federal joint tax returns, providing them with the same tax benefits as heterosexual couples. This ruling comes after the U.S. Supreme Court's historic decision to overturn part of the Defense of Marriage Act. The new rules will affect all legally married gay couples, regardless of their state of residence, but will not apply to domestic partnerships and civil unions. Treasury Secretary Jacob Lew hailed the decision, saying it provides "certainty and clear, coherent tax filing guidance" and access to benefits and protections that "all Americans deserve." However, opponents like Brian Brown of the National Organization of Marriage condemned the decision, calling it "lawlessness" and claiming the Obama administration is "forcing same-sex'marriage' on an unwilling public." Despite this, the ruling marks a significant step towards equality for same-sex couples, finally granting them access to "crucial tax benefits and protections previously denied to them under the discriminatory Defense of Marriage Act."
+END OF SUMMARY.
+
+Now, here is the target news article to summarize:
+Here is the news article:
+
+President Obama warned Uganda Sunday over its plans to further criminalize homosexuality, saying it would "complicate our valued relationship." Defending gay rights around the world, as he has done at home, Obama said a bill that President Yoweri Museveni has pledged to sign will mark a "step backward" for all Ugandans and reflect poorly on the country's commitment to protect the human rights of its people. It also would represent a serious setback for anyone committed to freedom, justice and equal rights, Obama said. Obama said the United States stands for the protection of fundamental freedoms and universal human rights and believes people everywhere should be treated equally. "That is why I am so deeply disappointed that Uganda will shortly enact legislation that would criminalize homosexuality," Obama said in a written statement issued from Southern California, where he was spending the weekend. "The Anti-Homosexuality Bill in Uganda, once law, will be more than an affront and a danger to the gay community in Uganda. It will be a step backward for all Ugandans and reflect poorly on Uganda's commitment to protecting the human rights of its people. It also will mark a serious setback for all those around the world who share a commitment to freedom, justice and equal rights." "Enacting this legislation will complicate our valued relationship with Uganda," he said, adding that the U.S. has conveyed that message to Museveni. Homosexuality already is illegal in Uganda under a colonial-era law that criminalizes sex acts "against the order of nature." Museveni said last week that he plans to sign the new legislation, which has alarmed rights activists because it prescribes life imprisonment for acts of "aggravated homosexuality." Those acts are defined as sex acts where one of the partners is infected with HIV, sex with minors or the disabled and repeated sexual offenses among consenting adults. It was unclear when Museveni will sign the bill. Ugandan lawmakers passed it in December and Museveni since has been under heavy pressure to enact it. The measure enjoys broad support among Christian clerics and lawmakers who say it is needed to deter Western homosexuals from "recruiting" Ugandan children. Susan Rice, the U.S. national security adviser, said Sunday on Twitter that she spoke "at length" with Museveni on Saturday night and urged him not to sign the bill. The United States is Uganda's largest donor, sending more than $400 million in aid annually in recent years. If Museveni signs the bill, the U.S. is expected to review its relationship with the country with an eye on finding ways to register disappointment over the law. Uganda is one of many sub-Saharan African countries where homosexuals face severe discrimination, if not jail terms. Nigeria last month increased penalties against gays there. Obama has made support for gay rights a hallmark of his presidency. He supports same-sex marriage and his administration eliminated the Clinton-era ban on openly gay service in the military. For his State of the Union address last month, Obama included basketball player Jason Collins, the first male athlete on a major U.S. sports team to announce that he is gay, among guests chosen to sit with first lady Michelle Obama. Obama has said Collins' announcement marked a moment of progress for gays. Obama also welcomed last week's announcement by a University of Missouri football player and NFL hopeful that he is gay. The president also has spoken out against a Russian law banning gay propaganda, and included prominent gay athletes on the U.S. delegations to the opening and closing ceremonies at the Sochi Olympics.
+
+(1) First, you identify all the single words that are morally framed. Identify this step as "STEP 1:" and report each word in a new line starting with *
+(2) Finally, you write a summary of the news article. Please preserve as many morally framed words as possible in your summary. The summary has to be returned after a "SUMMARY:" token and ending with a "END OF SUMMARY." token. The summary should be no longer than 200 words.

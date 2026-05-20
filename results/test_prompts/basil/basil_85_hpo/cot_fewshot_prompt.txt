@@ -1,0 +1,166 @@
+You have to summarize the following text preserving the moral framing that the author gave to it.
+
+Please study the following examples of news articles, their moral word extraction, and summaries preserving the moral framing:
+
+Example 1 (Political Ideology: Left):
+Here is the news article:
+
+Trump cited a segment on the TV news show Fox & Friends in response to former president: ‘Obama had 32 mass shootings during his reign’
+
+Donald Trump has hit back at Barack Obama after the former president said Americans must “soundly reject language” from any leader who “feeds a climate of fear and hatred or normalises racist sentiments” in his first public statement since mass shootings in Texas and Ohio that left 31 people dead.
+
+Obama’s statement did not mention Trump directly, but told Americans “we are not helpless” in the face of the country’s high frequency of mass shootings.
+
+“And until all of us stand up and insist on holding public officials accountable for changing our gun laws, these tragedies will keep happening,” Obama wrote.
+
+On Tuesday, Trump cited a segment on the TV news show Fox & Friends in response, quoting host Brian Kilmeade as saying: “Did George Bush ever condemn President Obama after Sandy Hook President Obama had 32 mass shootings during his reign.
+Not many people said Obama is out of Control.
+Mass shootings were happening before the President even thought about running for Pres.”
+
+Trump has faced fierce criticism for identifying video games, the internet and mental illness – but not guns – as the cause of the slaughter that left at least 31 dead and 53 injured in less than 24 hours over the weekend.
+
+He has also been accused of emboldening white nationalists through his racist statements.
+The suspect in the El Paso attack posted a racist, anti-immigrant screed featuring language used by Trump shortly before the rampage, investigators say.
+El Paso, a city on the border of Texas and Mexico, has a majority Hispanic population.
+
+Trump is expected to visit El Paso and the scene of Sunday’s shooting, in Dayton, Ohio on Wednesday.
+Beto O’Rourke, the 2020 presidential candidate and former El Paso congressman, was among the Democrats who opposed the visit.
+
+“This president, who helped create the hatred that made Saturday’s tragedy possible, should not come to El Paso,” O’Rourke tweeted.
+“We do not need more division.
+We need to heal.
+He has no place here.”
+
+Americans mourn victims of mass shootings – in pictures
+
+The shooting at a busy Walmart store in El Paso on Saturday killed 22 people, and a second shooting outside a crowded bar in Dayton early on Sunday killed nine people.
+The motive of the Dayton shooter, who died in the attack, is not yet clear.
+His 22 year-old sister was killed in the massacre.
+
+Obama, like many presidents before him, has exercised caution to avoid pointed criticism of his successor.
+But his comments on Monday left little doubt that his call to reject the normalisation of racism referred to Trump, who has spoken disparagingly about immigrants, calling them rapists and murderers, and has decried an “invasion” at the southern border.
+
+Trump has previously tempered his criticism of white supremacy, though he said in scripted remarks to the country on Monday that the US “must condemn racism, bigotry and white supremacy”.
+He also said he had directed the FBI to examine steps to identify and address domestic terrorism.
+
+Obama noted that the El Paso shooting followed a trend of “troubled individuals who embrace ideologies and see themselves obligated to act violently to preserve white supremacy”.
+He advised Americans to also denounce the language of “leaders who demonise those who don’t look like us, or suggest that other people, including immigrants, threaten our way of life, or refer to other people as subhuman”.
+
+Such language had “been at the root of most human tragedy throughout history”, Obama added, and had “no place in our politics and our public life”.
+
+Trump has spent the past month stoking racial resentments, tweeting that four US congresswomen of colour should “go back” to their countries, holding a rally where the crowd chanted “send her back!” and deriding the majority African American district that contains part of Baltimore as “a disgusting, rat and rodent infested mess”.
+
+STEP 1:
+* fear
+* hatred
+* racist
+* helpless
+* tragedy
+* control
+* racism
+* white
+* nationalists
+* division
+* heal
+* hatred
+* invasion
+* bigotry
+* white
+* supremacy
+* demonise
+* subhuman
+* tragedy
+
+SUMMARY:
+Former President Barack Obama called on Americans to "soundly reject language" that feeds a climate of fear and hatred, following the mass shootings in Texas and Ohio that left 31 people dead. Obama's statement did not mention President Trump directly, but urged Americans to hold public officials accountable for changing gun laws. Trump responded by citing a Fox & Friends segment, which quoted Obama's presidency as having 32 mass shootings. Trump has faced criticism for not addressing guns as the cause of the slaughter, and for emboldening white nationalists through his racist statements. Obama's comments were seen as a direct rebuke of Trump's language, which has been at the root of most human tragedy throughout history. Trump's visit to El Paso and Dayton was met with opposition from Democrats, who argued that he had no place there. END OF SUMMARY.
+
+Example 2 (Political Ideology: Center):
+Here is the news article:
+
+Donald J. Trump has dropped plans to moderate a presidential debate, but don’t expect him to fade quietly from the political scene.
+
+In fact, Republicans may have gotten more than they bargained for by shunning him.
+Mr. Trump’s statement on Tuesday that he was bowing out of the Newsmax debate seemed certain to open the door to another round of “I just might …” threats from the real estate mogul.
+
+“It is very important to me that the right Republican candidate be chosen to defeat the failed and very destructive Obama administration,” Mr. Trump said in his statement.
+“But if that Republican, in my opinion, is not the right candidate, I am not willing to give up my right to run as an independent candidate.”
+
+Mr. Trump drew considerable criticism from the Republican establishment for moderating a presidential debate while openly saying that he might still run if he was displeased with the candidates.
+Rather than go ahead with the debate and declare that he will not run — Mr. Trump has flirted with running for president several times since the 1980s but has always decided not to follow through — he chose to drop the debate.
+
+“I must leave all of my options open because, above all else, we must make America great again!” he said.
+
+Mr. Trump was facing a potentially awkward task: moderating a debate that only two candidates said they would attend.
+Newt Gingrich and Rick Santorum were the only two Republicans who agreed to participate.
+Mitt Romney, Rick Perry, Michele Bachmann, Jon M. Huntsman Jr. and Ron Paul all declined, putting a big dent in Mr. Trump’s self-proclaimed status as Republican kingmaker.
+
+Mr. Trump issued the following exclamation-point laden statement through his lawyer, Michael Cohen.
+
+STEP 1:
+* failed
+* destructive
+* right
+* important
+* willing
+* great
+
+SUMMARY:
+Donald Trump has dropped his plans to moderate a presidential debate, but he's not going away quietly. In a statement, Trump emphasized the importance of choosing the "right" Republican candidate to defeat the "failed" and "destructive" Obama administration. However, he threatened to run as an independent candidate if he's not pleased with the chosen candidate, saying "I must leave all of my options open because, above all else, we must make America great again!" Trump's decision comes after facing criticism from the Republican establishment for considering a presidential run while moderating a debate. The debate itself was facing a setback, with only two candidates, Newt Gingrich and Rick Santorum, agreeing to participate. Trump's move may have opened the door to another round of threats to run as an independent candidate. END OF SUMMARY.
+
+Example 3 (Political Ideology: Right):
+Here is the news article:
+
+President Trump on Saturday took aim at social media tech giants for “discriminating” against Republicans and conservatives -- saying that “too many voices are being destroyed” and promising that his administration would not allow it to happen.
+
+“Who is making the choices, because I can already tell you that too many mistakes are being made. 
+Let everybody participate, good & bad, and we will all just have to figure it out!” he said at the end of a lengthy post on Twitter.
+
+Both Facebook and Twitter have been under fire for allegedly censoring accounts, while ignoring rules violations by liberal and left-wing users. 
+Trump in the past has referred to alleged “shadow banning” by Twitter as “discriminatory and illegal.”
+
+Trump uses Twitter on a daily basis, and his campaign was credited for its use of Facebook as one of the ways it secured its victory in November 2016.
+
+While conservatives have complained for years about what they say is discrimination by the tech giants, the controversy escalated last month when Vice News reported the issue, saying that accounts from top Republicans including GOP Chairwoman Ronna McDaniel were being given limited visibility on Twitter. 
+Twitter at the time said it was an algorithmic glitch that has since been fixed.
+
+"We do not shadow ban. 
+You are always able to see the tweets from accounts you follow (although you may have to do more work to find them, like go directly to their profile). 
+And we certainly don’t shadow ban based on political viewpoints or ideology," the tech giant said in a statement.
+
+"We do rank tweets and search results. 
+We do this because Twitter is most useful when it’s immediately relevant. 
+These ranking models take many signals into consideration to best organize tweets for timely relevance," the statement said. 
+"We must also address bad-faith actors who intend to manipulate or detract from healthy conversation."
+
+A Facebook executive apologized last month for mistreating Diamond and Silk -- two pro-Trump personalities who have long claimed they are being censored by the platform, but the company has also denied being biased against conservatives.
+
+“We badly mishandled our communications with them,” Monika Bickert, head of Global Policy Management at Facebook, said at a House Judiciary Committee hearing.
+
+But that has done little to calm the controversy, and Trump on Saturday accused social media sites of “closing down the opinions of many people on the right, while at the same time doing nothing to others.”
+
+"Too many voices are being destroyed, some good & some bad, and that cannot be allowed to happen," he tweeted.
+
+He went on to call censorship “a dangerous thing” and then took a swipe at CNN and MSNBC, saying that while they are “fake,” he does not demand that offending content be taken off air.
+
+“If you are weeding out Fake News, there is nothing so Fake as CNN & MSNBC, & yet I do not ask that their sick behavior be removed,” he tweeted. 
+“I get used to it and watch with a grain of salt, or don’t watch at all..”
+
+
+STEP 1:
+* discriminatory
+* illegal
+* bad
+* fake
+* sick
+* dangerous
+
+SUMMARY:
+President Trump accused social media giants of "discriminating" against Republicans and conservatives, claiming that "too many voices are being destroyed" and promising that his administration would not allow it to happen. He argued that "bad" and "good" voices should be allowed to participate, and that it's up to individuals to "figure it out." Trump has previously referred to alleged "shadow banning" by Twitter as "discriminatory and illegal." The controversy escalated last month when top Republicans, including GOP Chairwoman Ronna McDaniel, claimed their accounts were being given limited visibility on Twitter. Trump called censorship "a dangerous thing" and took a swipe at CNN and MSNBC, saying they are "fake" but he doesn't demand that their content be removed. He emphasized that he can "get used to it" and watch with a "grain of salt." END OF SUMMARY.
+
+Now, here is the target news article to summarize:
+Here is the news article:
+
+President Donald Trump used Twitter to tear into social media companies Saturday morning, claiming they were “totally discriminating against Republican/Conservative voices.” But he does have a solution. Sort of. And it involves both sides. Trump tweeted that “too many voices are being destroyed, some good and some bad, and that cannot be allowed to happen.” So, he added: “Let everybody participate, good & bad, and we will all just have to figure it out!” Trump accused social media giants of “closing down the opinions of many people on the RIGHT, while at the same time doing nothing to others.” “Censorship is a very dangerous thing & impossible to police,” he added, before embarking on a now familiar rant about “fake news” CNN and MSNBC — which he admitted to sometimes watching, but “just with a grain of salt.” Trump did not reference any person in particular in his tirade against the tech companies, although a host of them have in recent weeks banned conspiracy theorist Alex Jones and his website Infowars from their platforms.
+
+(1) First, you identify all the single words that are morally framed. Identify this step as "STEP 1:" and report each word in a new line starting with *
+(2) Finally, you write a summary of the news article. Please preserve as many morally framed words as possible in your summary. The summary has to be returned after a "SUMMARY:" token and ending with a "END OF SUMMARY." token. The summary should be no longer than 200 words.

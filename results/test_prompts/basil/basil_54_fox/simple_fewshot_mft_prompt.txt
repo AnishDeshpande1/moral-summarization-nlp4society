@@ -1,0 +1,157 @@
+You have to summarize the following text preserving the moral framing that the author gave to it, with particular focus on the specific moral foundations highlighted in the text.
+
+Please study the following examples of news articles and their summaries preserving the moral framing:
+
+Example 1 (Political Ideology: Left, Moral Foundations: Authority/Subversion, Sanctity/Degradation):
+Here is the news article:
+
+Republican presidential candidate Rick Perry pledges to end "[President Barack] Obama's war on religion" in a new television ad airing in Iowa, railing against open service of gays and lesbians in the military and the prohibition against prayer in public schools.
+
+"I'm not ashamed to admit I'm a Christian," says Perry.
+"But you don't need to be in the pews every Sunday to know that there's something wrong in this country when gays can serve openly in the military but our kids can't openly celebrate Christmas or pray in school."
+
+"As president, I'll end Obama's war on religion and I'll fight against liberal attacks on our religious heritage," the Texas governor continues.
+"Faith made America strong. It can make her strong again."
+
+Perry has recently stepped up his attacks on Obama for cultural issues.
+In a statement released Tuesday, he decried the Obama administration’s decision to use foreign aid to promote rights for gays and lesbians abroad.
+
+"This is just the most recent example of an administration at war with people of faith in this country," he said.
+"Investing tax dollars promoting a lifestyle many Americas of faith find so deeply objectionable is wrong.
+President Obama has again mistaken America's tolerance for different lifestyles with an endorsement of those lifestyles."
+
+Politico reported Tuesday that Perry bought $1 million in broadcast television time ahead of the Jan. 3 caucuses.
+The Dallas Morning Newsrecently reported that his presidential campaign plans to bring "more than 600 influential Texans" to Iowa in December.
+However, Perry netted just six percent support among likely Republican caucus-goers, according to a Des Moines Register poll released Saturday.
+
+SUMMARY:
+
+Republican presidential candidate Rick Perry has launched a new TV ad in Iowa, accusing President Obama of waging a "war on religion". Perry vows to end this perceived war, citing the open service of gays and lesbians in the military and the prohibition on prayer in public schools as examples of religious oppression. He claims that faith made America strong and can do so again. Perry has also criticized the Obama administration's decision to use foreign aid to promote gay and lesbian rights abroad, calling it an attack on people of faith. The ad is part of a larger effort by Perry to appeal to conservative voters, with his campaign planning to bring over 600 influential Texans to Iowa in December. Despite this, Perry currently polls at just 6% among likely Republican caucus-goers.
+
+END OF SUMMARY.
+
+Example 2 (Political Ideology: Center, Moral Foundations: Fairness/Cheating):
+Here is the news article:
+
+Obama Team To Make Important, If Symbolic, Choice On Gay Marriage
+
+The Obama administration faces tricky political and legal questions on the subject of gay marriage.
+By the end of this month, the federal government is expected to file not just one but two briefs in a pair of same-sex marriage cases at the U.S. Supreme Court.
+
+But it is the Proposition 8 case from California that poses the thornier questions for the administration — questions so difficult that the president himself is expected to make the final decision on what arguments the Justice Department will make in the Supreme Court.
+
+Prop 8, as it is known, is the California ballot initiative banning same-sex marriage.
+It was narrowly approved by state voters in 2008.
+A federal district court struck down the law as unconstitutional discrimination in 2010.
+A federal appeals court later agreed, but on narrower grounds.
+Because there was a period of time in which same-sex couples could legally marry in California, the court said, it was unconstitutional for the state, through the ballot initiative, to take away a fundamental right it had previously granted.
+
+The state, under both Republican and Democratic governors, has declined to defend the measure in court.
+So its ban on gay marriage is being defended by the sponsors of the initiative.
+
+The Obama administration is not required to file any brief in the case because it does not directly involve federal law.
+But administration sources say the government will file a brief.
+Still unresolved is what the brief will say.
+And in this case, much more than most, there are numerous legal routes that the government can take.
+
+The ultimate question — the one perhaps most people want an answer to but may not get — is whether same-sex couples have a constitutional right to marry.
+A Supreme Court decision that says yes to that would invalidate laws in some 30 states.
+But there are many legal avenues short of such a far-reaching argument that would invalidate Proposition 8 in California and leave laws in other states intact.
+
+What makes this even dicier is that President Obama has changed his position, seemingly a lot, over the past eight months.
+In May, in an ABC interview, he for the first time endorsed same-sex marriage from a personal point of view, but he went on to say that the decision on legalizing gay marriage should be left to the states, where marriage matters are traditionally governed.
+
+"It is important for me to go ahead and affirm that I think same-sex couples should be able to get married.
+And I continue to believe that this is an issue that is going to be worked out at the local level, because historically this has not been a federal issue," he said.
+
+But eight months later at his inauguration, the president seemed to take a more expansive view.
+"Our journey is not complete until our gay brothers and sisters are treated like anyone else under the law.
+For if we are truly created equal, then surely the love we commit to one another must be equal as well," Obama said.
+
+That language suggests the president believes in a more basic constitutional right to marry, analogous to the right enunciated in a unanimous 1967 Supreme Court ruling that struck down laws barring interracial marriage.
+In that case, ironically, the federal government took no position in the Supreme Court.
+
+So what will Obama do now that he faces similar questions in a case about sexual orientation, not race?
+
+His administration could make a bold, full-throated defense of the right to marry, an argument that Obama seemed to suggest at his inaugural.
+Or it could argue a number of lesser positions: That California, having extended the right to marry to gay couples for a window of time, could not revoke the right.
+Or that California, like some other states, has a law extending all rights to same-sex couples, except the right to marry, and that such a distinction amounts to discrimination.
+Or it could argue that since the state is not defending the law, the case does not belong in court at all — that the sponsors of the initiative have no legal standing in court.
+
+For the gay community, and for those advocating traditional marriage between a man and a woman, the position the government takes in this case is hugely important — if nothing else, as a symbol.
+Both sides have made formal presentations at the Justice Department urging the administration to take their side.
+But the deadline has already passed for a brief siding with Proposition 8 supporters, leaving only the question of what a brief on the other side will say.
+
+Same-sex marriage advocates are holding their collective breath for now and maintaining a pretty studied public silence, hoping to avoid the impression that the gay community is pressuring the administration.
+
+Still, lawyers who argue regularly before the court are not so sure that the administration's brief, whatever it says, will make a big difference to the justices.
+
+"I'm never going to tell you that the solicitor general's position doesn't matter," says former Bush administration Solicitor General Paul Clement.
+But in this case, he says, "I think it matters less."
+
+Clement was hired by the House Republican leadership to defend the constitutionality of the Defense of Marriage Act, or DOMA, in a case that is paired with the Proposition 8 case in the Supreme Court.
+The reason he thinks the administration's brief in the Proposition 8 case matters less, he says, is "because we already know what their position is on DOMA and one can extrapolate."
+
+In the DOMA case, the Obama administration argues that the federal law is unconstitutional because it bars federal benefits to legally married same-sex couples — benefits that go automatically to legally married heterosexual couples.
+
+Supreme Court advocate Tom Goldstein, founder of SCOTUSblog, makes a different point — that sometimes Supreme Court briefs are aimed at more than one audience.
+He notes that in a truly historic case like this one, "I think part of what's going on ... is a statement about what is morally right and wrong.
+And so I think it could matter to Americans much more than it matters to the Supreme Court."
+
+SUMMARY:
+
+The Obama administration faces a crucial decision on gay marriage as it prepares to file two briefs in same-sex marriage cases at the U.S. Supreme Court. The Proposition 8 case from California poses thorny questions, with the president himself expected to make the final decision on the Justice Department's arguments. The administration could take a bold stance, arguing for a constitutional right to marry, or opt for lesser positions, such as arguing that California's revocation of same-sex marriage rights is unconstitutional. The decision is symbolic, with both sides of the debate urging the administration to take their side. While some lawyers believe the administration's brief may not significantly influence the justices, others argue that it could make a moral statement about what is right and wrong. The president's evolving stance on gay marriage, from supporting state-level decisions to suggesting a more basic constitutional right, adds complexity to the issue.
+
+END OF SUMMARY.
+
+Example 3 (Political Ideology: Right, Moral Foundations: Authority/Subversion, Care/Harm):
+Here is the news article:
+
+NRA urges states to allow more armed officers in schools
+
+The National Rifle Association called Tuesday for state legislatures to allow more school personnel to carry weapons on school grounds once they've gone through extensive training, as part of a set of recommendations that capped a weeks-long review in the wake of the Newtown mass shooting.
+
+The NRA initially took criticism from Democrats for focusing so closely on school security, and rejecting gun control measures, following the Connecticut shooting in which 26 people were killed.
+NRA CEO Wayne LaPierre in December called for armed officers to be installed in every school in the country.
+
+Former Arkansas Rep. Asa Hutchinson, who led the NRA's review, appeared to ease off slightly on the call for armed officers in every school -- he said it's "important" for every school to have at least one, but acknowledged these decisions are "locally made" based on unique budget circumstances.
+
+Hutchinson, though, did call for the creation of a 40-60 hour training program for armed officers.
+To accompany that, his group proposed a "model" state law that would allow certain personnel who have undergone this training to carry weapons on school grounds.
+
+"This is not talking about all teachers," he said.
+"Teachers should teach."
+
+The 225-page report also called for states to require schools to conduct a safety assessment and for a pilot program to be created assessing mental health as a pre-indicator for violence.
+
+Mark Mattioli, the father of one Newtown shooting victim, also spoke after Hutchinson's announcement to applaud the review effort.
+
+The review comes as Congress and a number of state legislatures pursue gun control legislation.
+While a few have focused on school security -- South Dakota has already approved legislation allowing for teachers to be armed -- many have concentrated on enacting or expanding assault weapons bans, strengthening background checks and passing other measures to restrict access to firearms.
+Connecticut, the home of the Sandy Hook school shooting, is the latest to advance a sweeping gun control proposal -- lawmakers announced a deal Monday on a package that is likely to win approval.
+
+But LaPierre in December argued that improving school security is paramount.
+He argued that if banks and members of Congress can have protection, schools across America should be afforded the same security.
+
+"It's now time for us to assume responsibly for our schools," he said.
+"The only way to stop a monster from killing our kids is to be permanently involved and invested in a plan of absolute protection."
+
+He added: "The only thing that stops a bad guy with a gun is a good guy with a gun."
+
+SUMMARY:
+
+The National Rifle Association (NRA) has released a report recommending that states allow more school personnel to carry weapons on school grounds, provided they undergo extensive training. The report, led by former Arkansas Rep. Asa Hutchinson, proposes a 40-60 hour training program for armed officers and a "model" state law to enable certain personnel to carry weapons on school grounds. The NRA's CEO, Wayne LaPierre, has argued that improving school security is paramount, stating that schools should have the same level of protection as banks and members of Congress. LaPierre believes that "the only thing that stops a bad guy with a gun is a good guy with a gun." The report's recommendations come as Congress and state legislatures pursue gun control legislation, with some focusing on school security and others on enacting or expanding assault weapons bans and strengthening background checks.
+
+The NRA's stance has been met with criticism from Democrats, who argue that the organization is rejecting gun control measures. However, the report's emphasis on school security and the need for "absolute protection" reflects a moral framing that prioritizes the safety of children and the importance of taking responsibility for their protection.
+
+END OF SUMMARY.
+
+Now, here is the target news article to summarize:
+Here is the news article:
+
+Arkansas Republican Gov. Asa Hutchinson on Wednesday urged state lawmakers to change a controversial religious freedom bill sent to his desk a day earlier, in the face of criticism that it could allow businesses and others to discriminate based on sexual orientation. Hutchinson had initially said he planned to sign the bill but backed off as his state, overnight, became the new focal point of a nationwide backlash over such legislation. Indiana for days has faced similar criticism for a related religious freedom bill. During a press conference in the state capital of Little Rock, Hutchinson said he wants to strike the "right balance." The governor, amid calls by critics to veto the bill, made clear he still supports the intent of the legislation -- which prohibits state and local governments from infringing upon someone's religious beliefs without a compelling interest. But he said he wants changes made so it more closely mirrors a 1993 federal law. "I asked that changes be made in the legislation," Hutchinson said, urging state lawmakers to "recall" the bill -- or pass additional legislation -- to "remedy" the issue. The announcement reflects the intense debate in state capitals across the country where such legislation is being considered. Backers say the intent was to simply replicate the 1993 federal law and similar laws in place in 19 other states. But when Indiana passed a slightly more expansive version which critics said could allow discrimination by businesses, Indiana lawmakers and Gov. Mike Pence later vowed to "clarify" the language in response to complaints. Hutchinson, too, said the country is clearly split on how to balance religious traditions with non-discrimination. At its heart, he said, "this bill is not really complicated." But he cited a "generational gap." As evidence, the governor said even his own son had signed a petition urging him to veto the bill. Hutchinson's chief complaint was that some provisions do not "precisely mirror" the federal law, and he wants that addressed. He said he's also working on an executive order to address the issue of tolerance. Echoing the reaction to Indiana's law, Hutchinson has faced pressure from the state's top employers, including retail giant Wal-Mart, which complained that the measure was discriminatory and would stifle economic development. Little Rock's mayor, the city's Chamber of Commerce and Arkansas-based data services company Acxiom all urged the governor to reject the measure in recent days. The Human Rights Campaign, the nation's largest lesbian, gay, bisexual and transgender rights group, has run ads in Silicon Valley targeting technology firms Hutchinson hopes to attract to the state. Prior to the passage Tuesday of the Arkansas bill, the White House repeated its opposition to the Indiana law. "This kind of public outcry ... is indicative of how this piece of legislation flies in the face of values that people all across America strongly support," said White House Press Secretary Josh Earnest. "Governor Pence falsely tried to suggest the law is the same as the 1993 law. That is not true." Earnest also said the Indiana law was a "significant expansion" of current law.
+
+For this target article, the author's moral framing heavily relies on the following Moral Foundation dimensions: Authority/Subversion, Fairness/Cheating.
+Please pay special attention to preserving the moral framing related to these specific dimensions (Authority/Subversion, Fairness/Cheating) in your summary.
+
+The summary has to be returned after a "SUMMARY:" token and ending with a "END OF SUMMARY." token. The summary should be no longer than 200 words.

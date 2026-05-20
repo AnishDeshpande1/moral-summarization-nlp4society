@@ -1,0 +1,153 @@
+You have to summarize the following text preserving the moral framing that the author gave to it.
+
+Please study the following examples of news articles and their summaries preserving the moral framing:
+
+Example 1 (Political Ideology: Left):
+Here is the news article:
+
+First Step Act, a landmark bill which would reduce drug crime sentences, saw support from both progressives and law-and-order conservatives
+
+A sweeping bill seeking to reform the criminal justice system has cleared the Senate, in a legislative victory for both progressive advocates and law-and-order conservatives that would give judges more discretion when sentencing some drug offenders and would boost prisoner rehabilitation efforts.
+
+The First Step Act, which passed 87-12, attracted support from both sides of the aisle, as well as from public figures such as Patricia Arquette, Mark Cuban, Kim Kardashian West and Kanye West.
+Donald Trump supported the iteration of the bill that passed in the House in May, and the most current version that will need to return to the House for another vote (which it is expected to pass), before it reaches his desk for a signature later this week.
+
+I went to prison for 19 years.
+Here is why I didn't become a statistic.
+
+The sweeping bill addresses concerns that the nation’s war on drugs had led to the imprisonment of too many Americans for non-violent crimes without adequately preparing them for their return to society.
+
+“America is the greatest Country in the world and my job is to fight for ALL citizens, even those who have made mistakes,” Trump tweeted.
+“Congratulations to the Senate on the bi-partisan passing of a historic Criminal Justice Reform Bill.”
+
+The president continued: “This will keep our communities safer, and provide hope and a second chance, to those who earn it.
+In addition to everything else, billions of dollars will be saved.
+I look forward to signing this into law!”
+
+The act would reduce mandatory minimum sentences for a number of drug-related crimes, allow judges to circumvent federal mandatory minimum sentences for non-violent offenders when they see fit, expand rehabilitative opportunities for federal prisoners, and ban some correctional practices criticized as inhumane, such as the shackling of pregnant women.
+The act would give elderly and terminally ill inmates a path home and invest tens of millions in re-entry programming.
+
+The act would end so-called “three strikes” mandatory life sentences for defendants facing a third drug conviction, except for those with a prior “serious violent felony”.
+The “stacking” regulations that make it illegal to posses a firearm while committing a crime, even if the firearm is not used, would also no longer come into play.
+
+The bill would also retroactively extend the 2010 Fair Sentencing Act, a move that could affect thousands of drug offenders serving disproportionately long sentences for crack cocaine versus the powder variant.
+As many as 4,000 people currently serving long sentences could be eligible for release, according to some advocates.
+
+Jessica Jackson Sloan, the national director for #cut5o, a criminal justice reform advocacy group, applauded the Republican judiciary committee chairman, Chuck Grassley, and Dick Durbin, the Senate Democratic whip, for “leading their respective parties to consensus on one of the most important challenges our country faces – unwinding the catastrophic harm of the incarceration industry”.
+
+“Tonight, we stand as neither Republican or Democrats but as people seeking to take the first step of many to criminal justice reform,” she said.
+
+Grassley hailed a “big bipartisan victory”, saying: “Historic criminal justice reform happens once in a generation.”
+
+Cory Booker, the New Jersey senator and possible Democratic presidential hopeful for 2020, said the nation’s prisons were full of Americans who are struggling with mental illness and addiction and who are overwhelmingly poor.
+
+He said the nation’s criminal justice system “feeds on certain communities and not on others” and added that the bill represents a step toward “healing” for those communities.
+
+“Let’s make no mistake, this legislation, which is one small step, will affect thousands and thousands of lives,” Booker said.
+
+The ACLU, which initially opposed the House version of the legislation, tweeted that the First Step Act was “by no means perfect – but we’re in the midst of a mass incarceration crisis and the time to act is now.
+We’re glad to see common sense prevail in the Senate voting to move this bill closer to the finish line.”
+
+The bill would affect only federal prisoners, who make up less than 10% of the country’s prison population.
+
+SUMMARY:
+
+The First Step Act, a landmark criminal justice reform bill, has passed the Senate with overwhelming bipartisan support. The bill aims to address concerns that the war on drugs has led to the imprisonment of too many Americans for non-violent crimes without adequately preparing them for their return to society. The act would reduce mandatory minimum sentences for drug-related crimes, give judges more discretion, and expand rehabilitative opportunities for federal prisoners. It would also ban inhumane correctional practices, provide a path home for elderly and terminally ill inmates, and invest in re-entry programming. The bill represents a crucial step towards healing and redemption for communities disproportionately affected by the criminal justice system. As President Trump tweeted, "This will keep our communities safer, and provide hope and a second chance, to those who earn it." The bill's passage is a moral victory, recognizing that America's incarceration industry has caused catastrophic harm and that it's time to take the first step towards reform.
+
+END OF SUMMARY.
+
+Example 2 (Political Ideology: Center):
+Here is the news article:
+
+The San Francisco Board of Supervisors passed a resolution Tuesday that declares the National Rifle Association a "domestic terrorist organization."
+
+After connecting the NRA to an "epidemic of gun violence" in the U.S., the resolution urges San Francisco to distance itself from the organization by examining local vendors' and contractors' ties to the NRA.
+It also says the local government should avoid doing business with the NRA or organizations associated with it.
+
+"The National Rifle Association spreads propaganda that misinforms and aims to deceive the public about the dangers of gun violence," the resolution reads.
+
+While supervisors will be examining San Francisco's connections to the NRA, the resolution is also meant to pave the way for similar legislation at the local, state or federal level, Supervisor Catherine Stefani, who sponsored the resolution, told USA TODAY on Wednesday.
+
+The designation of domestic terrorist organization is justified because the NRA's opposition to gun control is "standing in the way of saving lives,” Stefani said.
+
+She said the resolution calls the “absolutely disgraceful" organization "out for what they really are.”
+
+The resolution says 100 Americans are killed daily by gun violence, making the U.S.'s gun homicide rate 25 times higher than any other "high-income" country.
+
+Guns:Walmart to no longer sell certain ammunition, ask customers to stop open carry in stores
+
+Texas shootings:Visitors at El Paso memorial ask how many more have to die after latest Texas shooting
+
+The resolution passed unanimously, according to Daniel Herzstein, a spokesperson for Stefani's office.
+
+The NRA condemned the resolution in a statement sent to USA TODAY Wednesday.
+"This is just another worthless and disgusting 'soundbite remedy' to the violence epidemic gripping our nation," spokeswoman Amy Hunter said in an emailed statement.
+
+"This is a reckless assault on a law-abiding organization, its members, and the freedoms they all stand for.
+We remain undeterred - guided by our values and belief in those who want to find real solutions to gun violence," the statement says.
+
+This is the second high-profile condemnation the NRA has issued this week.
+On Tuesday, the NRA said Walmart's decision to stop selling certain ammunition would hurt business and "not make us any safer."
+
+In the wake of recent mass shootings in California, Ohio and two in Texas, national attention has again grown on the issue of gun violence.
+
+Senate Majority Leader Mitch McConnell, R-Ky., has faced particular pressure to take up gun control legislation, but has maintained that President Donald Trump should support legislation before the Senate considers it.
+
+Trump's discussions about gun background checks with Wayne LaPierre, NRA head, made national headlines in August.
+
+SUMMARY:
+
+The San Francisco Board of Supervisors has passed a resolution declaring the National Rifle Association (NRA) a "domestic terrorist organization" due to its role in perpetuating an "epidemic of gun violence" in the US. The resolution urges the city to distance itself from the NRA by examining local vendors' and contractors' ties to the organization and avoiding business with it. Supervisor Catherine Stefani, who sponsored the resolution, justified the designation, stating that the NRA's opposition to gun control is "standing in the way of saving lives." The resolution highlights the alarming statistic that 100 Americans are killed daily by gun violence, making the US's gun homicide rate 25 times higher than any other high-income country. The NRA has condemned the resolution, calling it a "reckless assault" on the organization and its members. This move is seen as a step towards paving the way for similar legislation at the local, state, or federal level.
+
+END OF SUMMARY.
+
+Example 3 (Political Ideology: Right):
+Here is the news article:
+
+Israeli Prime Minister Benjamin Netanyahu has said he’ll steer clear of the American presidential election, but he stars in a new ad set to air in the key battleground state of Florida that aims to make Iran a major campaign issue.
+
+Netanyahu, who has a famously frosty relationship with President Obama, mentions neither Obama nor Republican challenger Mitt Romney, with whom Netanyahu worked in the mid-1970s at Boston Consulting Group.
+His words are taken from a recent news conference, in which he expressed frustration at the Obama administration’s failure to establish “red lines” for reining in Iran and its rogue nuclear weapons program.
+
+"The fact is that every day that passes, Iran gets closer and closer to a nuclear bomb,” Netanyahu says.
+“The world tells Israel, wait, there's still time.
+And I say wait for what?
+Wait until when?"
+
+A voice-over at the end of the ad underscores the prime minister's message: "The world needs American strength, not apologies."
+
+The ad, paid for by nonprofit conservative advocacy group Secure America Now, could have a powerful influence in heavily-Jewish markets, including Miami.
+Florida is considered a toss-up in recent polling, and its 29 electoral votes could swing the election.
+
+“Sizable majorities in both states believe that Iran will share nuclear weapons with terrorists,” said Jeri Thompson, advisory board member for Secure America Now.
+“Support for Israel remains strong.
+In short, (Netanyahu's) a powerful messenger with a powerful message who the American people believe.”
+
+The ad, reportedly to air in Miami, West Palm Beach and Fort Myers, is costing Secure America $1 million, the organization confirmed to Fox News.
+
+A Fox News poll released Wednesday shows Obama leading Romney, 49 percent to 44 percent, in Florida.
+
+Meanwhile, Haaretz reported that the Republican Jewish Coalition has launched a separate $5 million TV advertising blitz aimed at Jewish voters in swing states.
+That campaign started Wednesday and runs through Nov. 5 in cable and broadcast TV markets in Florida, Nevada, Ohio and Pennsylvania.
+
+"This ad highlights the 'buyer's remorse' felt by many in the Jewish community, who voted for Obama four years ago but are now disillusioned with his economic policies and his policies toward Israel,” the coalition's executive director, Matt Brooks, said in a written statement Wednesday.
+“These ads, and the stories of the people in them, give voice to the nagging doubts that many Jewish voters feel about President Obama.
+To underscore that point, numerous polls have shown an erosion in Jewish support for the president."
+
+Netanyahu also made an appearance on NBC's "Meet the Press" last Sunday, urging Obama to take a tougher line with Iran over its nuclear program.
+
+"President Obama has said that he is determined to prevent Iran from getting nuclear weapons," he said on the Sunday morning show.
+"If you're determined to prevent Iran from getting nuclear weapons, it means you'll act before they get nuclear weapons."
+
+SUMMARY:
+
+Israeli Prime Minister Benjamin Netanyahu is starring in a new ad in Florida, a key battleground state, aiming to make Iran a major campaign issue in the American presidential election. Netanyahu's message is clear: the world needs American strength, not apologies, and Iran's nuclear program is a pressing issue that requires immediate action. The ad, paid for by Secure America Now, highlights Netanyahu's frustration with the Obama administration's failure to establish "red lines" for reining in Iran. Netanyahu's words are a powerful reminder that every day that passes, Iran gets closer to a nuclear bomb. The ad's message resonates with Jewish voters, who are increasingly disillusioned with Obama's economic policies and his stance on Israel. As the election approaches, Netanyahu's voice adds weight to the debate, urging the US to take a tougher line with Iran.
+
+END OF SUMMARY.
+
+Now, here is the target news article to summarize:
+Here is the news article:
+
+It is clear that the proposals for US action on climate change are domestic. But the EU is concerned that they will not even be sufficient to reduce US emissions. The "intensity target" proposed allows for further increases in absolute emissions and is not sufficient to effectively fight climate change. On the contrary, the Kyoto Protocol requires most industrialised countries to achieve absolute emission reductions, while they still foresee to have growing economies. The Climate Change Convention of 1992, to which the US is a Party, requires industrialised countries to stabilise their greenhouse gas emissions at 1990 levels. Achieving this would only be a first step towards stabilising global greenhouse gas concentrations at a level that would prevent dangerous climate change. This is the ultimate objective of the Convention to which the US has subscribed. However, the new plan does not lead to such a stabilisation, but instead will lead to the increase of absolute emission levels. Over the past years, greenhouse gas emissions intensity in relation to GDP has been falling in the US. The Bush plan is based on a prolongation of this trend thereby in effect foreseeing little more than continuation on a "business-as-usual" path. Current emission projections for the US indicate an increase of 39% above 1990 levels in 2012. While the intensity improvements may reduce this to around 33%, this is still a very substantial increase in absolute emissions. The EU is concerned about the purely voluntary nature of the actions proposed. Furthermore, a review of the effectiveness of the measures will not take place before 2012. It is striking that the approach which is considered beneficial for other air pollutants, namely to implement cap-and-trade programmes, is not extended to CO2 emissions from the power sector. The EU is of the opinion that a cap-and-trade system is a cost-effective measure to reduce emissions which combines a guaranteed environmental result with the flexibility to reduce emissions where it is least costly. By 2005, the EU intends to implement a cap-and-trade system covering 46% of all CO2 emissions in 2010. The EU welcomes the fact that the Bush administration has now completed its policy review and has put forward what the US intends to do in terms of domestic climate change policy. The proposals by President Bush may represent a first step in the right direction, where also economic operators in the US are asked to contribute to emission control. However, mandatory monitoring and reporting of emissions at company level would be necessary to adequately assess whether the proposals by President Bush represent an effort comparable to the ones under the Kyoto Protocol. The EU is determined to proceed with ratification of the Kyoto Protocol by June 2002 in view of entry into force by the time of the World Summit on Sustainable Development. The EU will continue on its current path of emission reduction and is optimistic that other major players, notably Japan and Russia, will join us in these efforts. The EU will further examine and assess the proposals by President Bush in the weeks to come and is willing to continue the dialogue with the US on this basis.
+
+The summary has to be returned after a "SUMMARY:" token and ending with a "END OF SUMMARY." token. The summary should be no longer than 200 words.

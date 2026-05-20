@@ -1,0 +1,141 @@
+You have to summarize the following text preserving the moral framing that the author gave to it, with particular focus on the specific moral foundations highlighted in the text.
+
+Please study the following examples of news articles and their summaries preserving the moral framing:
+
+Example 1 (Political Ideology: Left, Moral Foundations: Authority/Subversion, Sanctity/Degradation):
+Here is the news article:
+
+Republican presidential candidate Rick Perry pledges to end "[President Barack] Obama's war on religion" in a new television ad airing in Iowa, railing against open service of gays and lesbians in the military and the prohibition against prayer in public schools.
+
+"I'm not ashamed to admit I'm a Christian," says Perry.
+"But you don't need to be in the pews every Sunday to know that there's something wrong in this country when gays can serve openly in the military but our kids can't openly celebrate Christmas or pray in school."
+
+"As president, I'll end Obama's war on religion and I'll fight against liberal attacks on our religious heritage," the Texas governor continues.
+"Faith made America strong. It can make her strong again."
+
+Perry has recently stepped up his attacks on Obama for cultural issues.
+In a statement released Tuesday, he decried the Obama administration’s decision to use foreign aid to promote rights for gays and lesbians abroad.
+
+"This is just the most recent example of an administration at war with people of faith in this country," he said.
+"Investing tax dollars promoting a lifestyle many Americas of faith find so deeply objectionable is wrong.
+President Obama has again mistaken America's tolerance for different lifestyles with an endorsement of those lifestyles."
+
+Politico reported Tuesday that Perry bought $1 million in broadcast television time ahead of the Jan. 3 caucuses.
+The Dallas Morning Newsrecently reported that his presidential campaign plans to bring "more than 600 influential Texans" to Iowa in December.
+However, Perry netted just six percent support among likely Republican caucus-goers, according to a Des Moines Register poll released Saturday.
+
+SUMMARY:
+
+Republican presidential candidate Rick Perry has launched a new TV ad in Iowa, accusing President Obama of waging a "war on religion". Perry vows to end this perceived war, citing the open service of gays and lesbians in the military and the prohibition on prayer in public schools as examples of religious oppression. He claims that faith made America strong and can do so again. Perry has also criticized the Obama administration's decision to use foreign aid to promote gay and lesbian rights abroad, calling it an attack on people of faith. The ad is part of a larger effort by Perry to appeal to conservative voters, with his campaign planning to bring over 600 influential Texans to Iowa in December. Despite this, Perry currently polls at just 6% among likely Republican caucus-goers.
+
+END OF SUMMARY.
+
+Example 2 (Political Ideology: Center, Moral Foundations: Authority/Subversion, Care/Harm, Fairness/Cheating):
+Here is the news article:
+
+WASHINGTON — All same-sex couples who are legally married will be recognized as such for federal tax purposes, even if the state where they live does not recognize their union, the Treasury Department and the Internal Revenue Service said Thursday.
+
+It is the broadest federal rule change to come out of the landmark Supreme Court decision in June that struck down the 1996 Defense of Marriage Act, and a sign of how quickly the government is moving to treat gay couples in the same way that it does straight couples.
+
+The June decision found that same-sex couples were entitled to federal benefits, but left open the question of how Washington would actually administer them.
+The Treasury Department answered some of those questions on Thursday.
+As of the 2013 tax year, same-sex spouses who are legally married will not be able to file federal tax returns as if either were single.
+Instead, they must file together as “married filing jointly” or individually as “married filing separately.”
+
+Their address or the location of their wedding does not matter, as long as the marriage is legal: a same-sex couple who marry in Albany, N.Y., and move to Alabama are treated the same as a same-sex couple who marry and live in Massachusetts.
+
+“Today’s ruling provides certainty and clear, coherent tax-filing guidance for all legally married same-sex couples nationwide,” Treasury Secretary Jacob J. Lew said.
+“This ruling also assures legally married same-sex couples that they can move freely throughout the country knowing that their federal filing status will not change.”
+
+Gay and civil rights groups praised the ruling.
+“Committed and loving gay and lesbian married couples will now be treated equally under our nation’s federal tax laws, regardless of what state they call home,” said Chad Griffin, the president of the Human Rights Campaign.
+“These families finally have access to crucial tax benefits and protections previously denied to them under the discriminatory Defense of Marriage Act.”
+
+But the Treasury decision could have ramifications for many gay couples’ tax liabilities, said Roberton Williams of the nonpartisan Tax Policy Center in Washington.
+Couples with similar incomes often pay the “marriage penalty,” with their tax liability as a couple being much higher than it would be if they were single.
+
+At the same time, same-sex couples will also be able to file amended returns for certain prior tax years, meaning that many couples might be eligible for refunds.
+Couples do not have to file amended returns if they do not want to, a senior Treasury official said, meaning that couples who might pay the marriage penalty would not owe back taxes.
+
+But the ruling creates complications for same-sex couples who live in any of the 37 states that do not recognize their marriages.
+Previously, such couples filed federal and state tax returns as individuals.
+Now, they will have to file their federal returns as other married couples do, but may be required to file their state returns as individuals.
+
+“There’s going to be a cumbersome workaround,” said Nanette Lee Miller of Marcum L.L.P., a public accounting firm.
+She sees it as a paperwork bother more than a financial issue.
+
+States might also respond to the federal ruling with changes of their own.
+“Most state income tax regimes begin with federal taxable income as the starting point,” Marvin Kirsner, a tax lawyer at Greenberg Traurig, said in an e-mail.
+“These state taxing authorities will have to figure out how to deal with a same-sex married couple who file a joint income tax return for federal tax purposes.” He added,
+
+“We will need to see guidance from each nonrecognition state to see how this will be handled.”
+
+The rule change is likely to provide a small increase for federal revenue, as more same-sex couples pay the marriage penalty, Mr. Williams said, describing it as a “rounding error.”
+But it would be partly offset by new federal spending on benefits for same-sex spouses.
+
+The ruling applies to all legal marriages made in the United States or foreign countries.
+But it does not extend to civil unions, registered domestic partnerships or other legal relationships, the Treasury said.
+
+The Treasury ruling is one of many that are starting to emerge from all corners of the federal government as Washington changes regulations to conform with the Supreme Court decision.
+
+Separately, the Health and Human Services Department said Thursday that Medicare would extend certain key benefits to same-sex spouses, “clarifying that all beneficiaries in private Medicare plans have access to equal coverage when it comes to care in a nursing home where their spouse lives.”
+
+But federal agencies are not moving in lock step.
+Instead, they are creating a patchwork of regulations affecting gay and lesbian couples — and may be raising questions about discrimination and fairness in the way that federal benefits are distributed.
+
+Medicare and Treasury officials have said they would use a “place of celebration” standard for determining whether gay couples are eligible for benefits.
+That means same-sex couples would receive benefits as long as they are legally married, regardless of where they live.
+
+But the Social Security Administration is now using a “place of residence” standard in determining spousal benefits, and a gay couple in Alabama might not receive the same benefits as a gay couple in New York until final determinations are made or Congress acts.
+The Obama administration has pushed federal agencies to ensure the Supreme Court’s ruling is carried out quickly and smoothly.
+
+“It would be nice if they were consistent,” Ms. Miller said.
+Creating federal regulations is a process and could change, she said.
+
+SUMMARY:
+
+In a landmark move, the Treasury Department and the Internal Revenue Service announced that all same-sex couples who are legally married will be recognized as such for federal tax purposes, regardless of the state they live in. This ruling provides certainty and clear guidance for all legally married same-sex couples nationwide, ensuring they can move freely throughout the country without changing their federal filing status. Gay and civil rights groups praised the ruling, stating that it treats committed and loving gay and lesbian married couples equally under federal tax laws. However, the decision may have ramifications for many gay couples' tax liabilities, and creates complications for same-sex couples who live in states that do not recognize their marriages. The ruling is part of a broader effort by the Obama administration to ensure that federal agencies conform to the Supreme Court's decision to strike down the Defense of Marriage Act.
+
+END OF SUMMARY.
+
+Example 3 (Political Ideology: Right, Moral Foundations: Care/Harm):
+Here is the news article:
+
+Call it Cheney versus Cheney.
+
+Mary Cheney, one of ex-Vice President Dick Cheney’s two daughters, has taken to Facebook to blast her older sibling, Elizabeth, a Wyoming Senate candidate, for the latter’s stance on same-sex marriage, The New York Times is reporting.
+
+Mary Cheney, openly lesbian and married to Heather Poe since 2012, reportedly posted to her personal page on the social media site: “For the record, I love my sister, but she is dead wrong on the issue of marriage.
+
+“Freedom means freedom for everyone.
+That means that all families — regardless of how they look or how they are made — all families are entitled to the same rights, privileges and protections as every other.”
+
+The Times reports Liz Cheney on Friday first articulated her position on the controversial subject, saying it should be something for voters to decide on a state-by-state basis, and not a matter for “judges” or “legislators.”
+
+“I am not pro-gay marriage,” Liz Cheney reportedly said.
+“I believe the issue of marriage must be decided by the states, and by the people in the states, not by judges and not even by legislators, but by the people themselves.”
+
+Her sister replied by pulling no punches.
+
+“It’s not something to be decided by a show of hands,” Mary Cheney reportedly wrote on her personal Facebook page, concluding her internecine post by saying, “Please like and share if you agree.”
+
+Elizabeth Cheney declared in July she plans to challenge incumbent Senator Mike Enzi, also a Republican, in the state’s Republican primary.
+The election is slated for 2014.
+
+Former Vice President Cheney has publicly voiced support for same-sex marriage and, mirroring Elizabeth’s stance, has reportedly said the matter should be decided on a state-by-state basis.
+
+SUMMARY:
+
+In a rare display of sibling disagreement, Mary Cheney, an openly lesbian woman, has publicly criticized her sister Elizabeth Cheney, a Wyoming Senate candidate, for her stance on same-sex marriage. Mary Cheney took to Facebook to express her disagreement, stating that "freedom means freedom for everyone" and that all families deserve the same rights and protections. Elizabeth Cheney, on the other hand, believes that the issue of marriage should be decided by the states and their people, rather than by judges or legislators. Mary Cheney countered that it's not something to be decided by a "show of hands." The disagreement is particularly notable given that their father, former Vice President Dick Cheney, has publicly voiced support for same-sex marriage and also believes it should be decided on a state-by-state basis. The moral framing of this story highlights the importance of standing up for what is right, even if it means disagreeing with family members.
+
+END OF SUMMARY.
+
+Now, here is the target news article to summarize:
+Here is the news article:
+
+WASHINGTON – Legally married same-sex couples will now be allowed to file federal joint tax returns, the IRS and Treasury Department announced Thursday. The ruling allows homosexual couples to receive the same tax benefits that heterosexual couples do when filing jointly. Thursday’s announcement comes on the heels of a historic decision by the U.S. Supreme Court, which overturned a part of the Defense of Marriage Act earlier this year. Questions were raised following the high court’s decision on how the federal government would treat same-sex couples whose home states don’t recognize gay marriage. The rules issued Thursday said the policies would affect all legally married gay couples regardless of where they live. The rules, though, would not apply to domestic partnerships and civil unions. "Today's ruling provides certainty and clear, coherent tax filing guidance for all legally married same-sex couples nationwide. It provides access to benefits, responsibilities and protections under federal tax law that all Americans deserve," Treasury Secretary Jacob Lew said in a written statement. Human Rights Campaign President Chad Griffin said that, because of today’s ruling, “committed and loving gay and lesbian married couples will now be treated equally under our nation’s federal tax laws, regardless of what state they call home.” He added, “These families finally have access to crucial tax benefits and protections previously denied to them under the discriminatory Defense of Marriage Act.” Not everyone was on board with the decision. Brian Brown, president of the National Organization of Marriage, believes that giving same sex couples the right to file jointly “continues a pattern of lawlessness” across the country. "The Obama administration is intent on forcing same-sex 'marriage' on an unwilling public," Brown said in a written statement. "Congress alone has the responsibility of determining federal tax law."
+
+For this target article, the author's moral framing heavily relies on the following Moral Foundation dimensions: Fairness/Cheating.
+Please pay special attention to preserving the moral framing related to these specific dimensions (Fairness/Cheating) in your summary.
+
+The summary has to be returned after a "SUMMARY:" token and ending with a "END OF SUMMARY." token. The summary should be no longer than 200 words.

@@ -1,0 +1,235 @@
+You have to summarize the following text preserving the moral framing that the author gave to it, with particular focus on the specific moral foundations highlighted in the text.
+
+Please study the following examples of news articles, their moral word extraction, and summaries preserving the moral framing:
+
+Example 1 (Political Ideology: Left, Moral Foundations: Care/Harm):
+Here is the news article:
+
+Obama’s team is spinning the Republican National Convention as a complete miss.
+Obama's new challenge: Disappointment
+
+The watchword of the Republican National Convention in Tampa was disappointment — as in President Barack Obama has been one.
+
+You can hammer Obama on health care.
+Mock his golf outings.
+Demand to see his birth certificate and Harvard transcript, and call him a European socialist bent on turning the American Dream into a Belgian nightmare.
+He’ll throw his head back and laugh at you like a Bond villain.
+
+But tell voters he’s not the man America fell in love with in 2008 — and pine, however disingenuously, about his unfulfilled potential — and a shiver runs through his Chicago campaign headquarters.
+
+Obama’s team was spinning the convention as a complete miss, arguing that Republicans didn’t lay a glove on their man.
+Yet what emerged from Tampa was a subtle, clever shift in GOP messaging, a much more dangerous strategy for Obama than the kitchen-sink attacks that preceded the gathering.
+Republicans posed — rhetorically — as Obama 2008 voters, lamenting his unfulfilled expectations as if they had been with him all along instead of trying to block him at every turn.
+
+Both sides recognize the power of the disappointment theme: that the hope Obama offered for mending the economy, transforming the political process and even saving the earth has faded.
+
+“President Obama promised to begin to slow the rise of the oceans and heal the planet,” Mitt Romney said in accepting the Republican presidential nomination Thursday.
+“My promise is to help you and your family.”
+
+Or, as Sen. Marco Rubio put it, “Our problem with President Obama isn’t that he’s a bad person.
+Our problem is that he’s a bad president.”
+
+If Republicans landed a punch on Obama, it was the kind of strategic body blow that a skillful pugilist deploys to gain better position for the rest of the fight.
+
+No roundhouse, no jaw-splitter, no knockout.
+It was the kind of shot aimed at subtly shifting momentum and softening up the opponent in a way that may not be evident to the casual observer.
+
+Republicans honed their tone.
+
+The shrill hyperbole, petty critiques of Obama’s every move and Party of No intransigence disappeared into the heavy Tampa air.
+Surely, some of that will rain back down across other parts of the country during the closing months of the campaign, particularly as super PACs and other outside groups intensify their own lines of attack against Obama.
+
+There was plenty of tough criticism in Tampa — more mockery of Obama’s “you didn’t build that” line, more comparisons of his record to Jimmy Carter’s.
+But there were times — prime time, in particular — that the Republican convention looked and sounded like a Democratic gathering.
+
+An appealing young vice-presidential candidate, Paul Ryan, called his mom his role model and vowed to protect Medicare for seniors.
+
+Cuban-American Florida Sen. Marco Rubio and Mexican-American New Mexico Gov. Susana Martinez spoke of the unique opportunities that the United States afforded them to rise into leadership positions.
+
+STEP 1:
+* disappointment
+* disingenuously
+* clever
+* dangerous
+* bad
+* good
+* shrill
+* petty
+* intransigence
+* appealing
+* unique
+
+SUMMARY:
+The Republican National Convention in Tampa was deemed a success by the GOP, despite Obama's team spinning it as a complete miss. Republicans cleverly shifted their messaging, adopting a more subtle and dangerous strategy that focused on disappointment. They posed as Obama 2008 voters, lamenting his unfulfilled expectations and promising a more humble, achievable agenda. Mitt Romney and Sen. Marco Rubio delivered speeches that were more in line with Democratic values, touting the unique opportunities afforded by the United States. The tone was appealing, with a focus on protecting Medicare for seniors and honoring role models. The GOP's new approach is a strategic body blow to Obama's campaign, softening him up for the rest of the fight. END OF SUMMARY.
+
+Example 2 (Political Ideology: Center, Moral Foundations: Authority/Subversion, Care/Harm, Fairness/Cheating):
+Here is the news article:
+
+WASHINGTON — With the announcement on Saturday that the U.S. and Russia have reached an agreement on securing Syria's chemical weapons stockpile, the American threat of U.S. military action was effectively taken off the table.
+
+After more than two weeks of saber-rattling — and an unsuccessful effort by President Obama to win congressional and public support for a limited military strike — it was a last-minute diplomatic push led by the Russians that saved the day.
+
+But the Obama administration is wading into the deal — which will undoubtedly be scrutinized by a Congress that is distrustful of Russian President Vladimir Putin and Syrian President Bashar Assad — with eyes wide open.
+
+"The international community expects the Assad regime to live up to its public commitments," Obama said in a statement Saturday afternoon.
+"While we have made important progress, much more work remains to be done."
+
+Secretary of State John Kerry was even more blunt about U.S. caution.
+
+"We have committed to a standard that says verify and verify," Kerry said at news conference in Geneva, where he and his Russian counterpart, Sergey Lavrov, announced the framework of the agreement to secure and destroy the Syrian chemical weapons stockpile.
+
+In previous comments, Obama has made clear that trusting the Russians and Assad will not be easy.
+
+The president's relationship with Putin is famously tense, with the two sparring over Syria policy and Putin's decision to give temporary asylum to former National Security Agency contractor Edward Snowden after he leaked a treasure trove of classified information on U.S. intelligence surveillance practices.
+
+And the Russian president didn't engender any American confidence when he penned a commentary in The New York Times earlier this week in which he slammed Obama for speaking of American exceptionalism in making his case for military action against Syria and made the dubious claim that the rebels were responsible for chemical attacks against it own people.
+
+"We are not just going to take Russia and Assad's word for it.
+We need to see concrete actions to demonstrate that Assad is serious about giving up his chemical weapons," Obama said in his weekly radio address that aired Saturday morning and was taped ahead of the deal being announced.
+
+Among the fine details of the deal, which was hatched out over three days by Kerry and Lavrov, are: Syria's chemical weapons stockpile must be removed or destroyed by 2014, international inspections will begin by November, and the Syrians will offer full disclosure of its arsenal within a week.
+
+The two sides also agreed that any potential violations by the Syrians would be taken to the United Nations Security Council — where the Russians have veto power — for response.
+
+That element of the deal allows both sides to claim that they stood their ground on potential use of force for further violations by the Assad regime.
+Putin said it was unrealistic for the Americans to call on Assad to hand over weapons when facing the threat of military action, while Obama has refused to cede his authority to take such action.
+
+If the framework is implemented, it would meet Obama's goals of taking away the Assad regime's ability to conduct another chemical attack.
+But the White House will have a harder time making its case that it truly held Assad responsible for carrying out the brutal Aug. 21 attack that killed 1,400 Syrian civilians on the outskirts of Damascus.
+
+Sen. Bob Corker of Tennessee, the top Republican on the Senate Foreign Relations Committee, said that under the terms of agreement "Syria's willingness to follow through is very much an open question."
+
+The deal is far from perfect, and requires the administration to take a leap of faith in trusting the Syrians and Russians to keep their part of the deal.
+
+But for Obama, it offered the best way out of his unpopular call for military action.
+
+"Obama is a winner on this substantively, but the optics on this are bad," said Jim Walsh, an expert on international security at the Massachusetts Institute of Technology's security studies program.
+"Syria doesn't get bombed, and Assad is happy about that.
+The Russians are winners because they look like they are birthing a diplomatic solution to what was going to be another war in the Middle East.
+
+"Obama is not going to get credit for this because of his critics at home, but on the substance it is a win," Walsh added.
+
+After the last two weeks, the White House will take it.
+
+STEP 1:
+* trust
+* distrustful
+* caution
+* tense
+* dubious
+* exceptionalism
+* serious
+* responsible
+* unrealistic
+* brutal
+* willingness
+* leap of faith
+* unpopular
+* winners
+* happy
+* critics
+
+SUMMARY:
+The US and Russia have reached an agreement to secure Syria's chemical weapons stockpile, effectively taking the threat of US military action off the table. The deal was led by the Russians and requires Syria to remove or destroy its chemical weapons by 2014, with international inspections beginning in November. The US is approaching the deal with "eyes wide open" and "caution," given the distrustful relationship between President Obama and Russian President Putin. Obama has made it clear that trusting the Russians and Assad will not be easy, and that the US needs to see "concrete actions" to demonstrate that Assad is "serious" about giving up his chemical weapons. While the deal is far from perfect, it offers the best way out of Obama's unpopular call for military action, and is a "win" for the administration, even if the optics are bad. END OF SUMMARY.
+
+Example 3 (Political Ideology: Right, Moral Foundations: Authority/Subversion, Care/Harm, Fairness/Cheating, Loyalty/Betrayal):
+Here is the news article:
+
+For years, commentators have attempted to peg down just what the Obama Doctrine is.
+His allies have labeled the Obama Doctrine a form of realism about the limits of American power.
+His critics have labeled the Obama Doctrine “leading from behind.”
+
+In 2009, President Obama came up with his own definition of an Obama Doctrine: “we’re only one nation… the problems that we confront, whether it’s drug cartels, climate change, terrorism, you name it, can’t be solved just by one country.” But Obama has also, at certain points, claimed to champion unilateralism in the service of human rights and internationalism in the service of diplomacy.
+
+The Obama Doctrine has been difficult to pin down because there does not seem to be a common thread uniting his disparate policies – muscular interventionism in Libya, pushy paternalism with regard to Israel, eager abdication with regard to Syria and Ukraine.
+
+But with Obama’s latest decision to launch airstrikes against the Islamic State in the Levant (ISIL or ISIS), the Obama Doctrine has now come into focus: pretend to give a damn about suffering of innocents when it hits the headlines, ignore it the rest of the time.
+
+Because Obama doesn’t truly care.
+At all.
+He is a master emotional manipulator, capable of achieving effective posturing when it comes to the suffering of innocents.
+That’s why the media constantly swoon at his “tone” and his “attitude” during his press conferences.
+They repeatedly praise his “anger” or his “determination.” But they rarely ask just what he’s doing to fight evil.
+
+Any deployment of power will be short-term and ineffective.
+Obama will do all he can for innocents up until the moment when he doesn’t have to do so.
+Then he’ll leave them to die.
+
+That was certainly the case in Egypt, where Obama expressed extraordinary optimism about the ouster of Hosni Mubarak, then promptly allowed the Muslim Brotherhood to take over.
+He has since spent efforts attempting to undercut the Egyptian military, which launched a popularly-supported coup against Mohamed Morsi.
+
+It has been the case in Iran, where Obama belatedly denounced the treatment of democracy protesters, then did nothing as they were shot in the streets.
+
+It has been the case in Ukraine, where Vladimir Putin has annexed Crimea and invaded eastern Ukraine.
+Obama has expressed outrage; Putin has scoffed, and his rebel forces have shot down a passenger airliner, to approximately zero effective action from the West.
+
+It has been the case in Nigeria, where after expressing upset over Boko Haram’s kidnapping of innocent girls and ensuring that the State Department endorse the “power of hashtag,” the Obama administration has done precisely nothing.
+
+It has been the case in Syria, where Obama assured the world that should dictator Bashar Assad cross a red line with use of weapons of mass destruction, there would be consequences.
+There were none.
+Assad, who Obama said should go, just signed onto another seven-year term.
+In sum total, the number of dead in Syria now approaches 200,000.
+
+Now, Obama has done the same in Iraq.
+He will drop a few bombs.
+He will bluster.
+Then the world’s attention will turn to some other crisis, and Obama will blithely move on, leaving erstwhile allies to die.
+
+This is no groundbreaking revelation.
+President Obama has always cared far more about appearances than realities.
+He bobs like a cork on the waves of crisis, skipping to and fro, always carefully attuning his public emotions to achieve the most sympathetic effect.
+If brief shows of force are necessary, Obama is unafraid to engage in them.
+But he is unwilling to make any commitment to taking the lasting action that actually effects change.
+To do that, he would have to lead rather than follow.
+
+He would have to care.
+
+Barack Obama is an emotional pro and a foreign policy dilettante.
+And that is an extraordinarily dangerous combination.
+Popularity is the Obama Doctrine.
+Ironically, the end result is massive unpopularity – it turns out that world events require prolonged and sustained action rather than posturing.
+More importantly, the end result is massive casualties.
+
+STEP 1:
+* realism
+* leading
+* unilateralism
+* internationalism
+* muscular
+* pushy
+* paternalism
+* eager
+* abdication
+* master
+* manipulator
+* evil
+* anger
+* determination
+* optimism
+* belatedly
+* outrage
+* scoffed
+* ineffective
+* upset
+* ensured
+* powerless
+* bluster
+* blithely
+* unwilling
+* dilettante
+* dangerous
+* popularity
+* unpopularity
+* massive
+* casualties
+
+SUMMARY:
+The Obama Doctrine is a facade, pretending to care about suffering innocents only when it hits the headlines. In reality, President Obama is a master emotional manipulator, using his "tone" and "attitude" to sway the media and public opinion. His foreign policy is marked by short-term, ineffective deployments of power, followed by abandonment of those in need. This has been the case in Egypt, Iran, Ukraine, Nigeria, Syria, and now Iraq. Obama's unwillingness to take lasting action and lead has resulted in massive casualties and unpopularity. His doctrine is one of popularity, not principle, and is driven by a desire to appear strong rather than actually effecting change. END OF SUMMARY.
+
+Now, here is the target news article to summarize:
+Here is the news article:
+
+(CNN) -- The period since September 11, 2001, will never be described by any historian as a golden age of U.S. foreign policy. I know. I have just written a history on it, and it's not pretty. Since 9/11 attack, the United States has swung unsettlingly from one set of flawed policies to another. First, the unilateralist excess of the first term of the Bush administration; its signature error was the invasion of Iraq. Then, the reactive swing of Barack Obama, toward disengagement and dithering. In a tragic irony, a war in Iraq may someday also be seen as the enduring symbol of his errors. Some of the nation's problems come from nearly 15 years of a heightened sense of vulnerability. We're frayed and on edge and have let dysfunctional politics get ahead of national interests. But others are tied to human errors that can be fixed. The genius of the U.S. system is that it is built to change. Obama finds himself at the end of a string of errors of judgment and execution. These have contributed to damaged relations or crises ranging from those in Syria and Iraq to Libya to Egypt and Israel, from Ukraine to Afghanistan to Africa. They include crises at our own borders and strained relations with our allies over NSA eavesdropping. But Obama is not condemned to further errors. What he does need to produce constructive change however, is a quality rare and vital in any leader: the ability to recognize when one has made mistakes. Who to turn to as a model? The best example may well be George W. Bush himself. Because whatever mistakes Bush made in office -- and they were many -- in his second term, Bush recognized the urgent need for change and instituted a sweeping reordering of his administration, its policies and priorities. He replaced his chief of staff, secretaries of state, defense and Treasury, as well as his national security adviser, and he modified the role of the powerful vice president. He also changed his own engagement on key issues like Iraq, instituting weekly conference calls with his leaders on the ground. And he rewrote key policies, launching the surge in Iraq, initiating the "light footprint" approach to fighting terror later adopted by Obama and responding to the financial crisis. In region after region, the results were better, including on social issues like fighting AIDS in Africa, in relations with allies, in results in war zones or in deals like the India nuclear accord. He also actively sought to bring new, outside perspectives into his second term team, a stark contrast to the Obama approach. Cabinet secretaries in Bush's second term, such as Defense Secretary Robert Gates (later Obama's defense secretary) or Treasury Secretary Henry Paulson or new military commanders he appointed had not been part of his inner circle. Bush's willingness to admit errors and embrace change may have stemmed from his own failures and struggles earlier in life: as a congressional candidate, in the oil business, as a baseball team owner and even with alcohol. To get ahead, he had to acknowledge his shortcomings and fix them. He also turned this ability to see his way through tough times into a plus in another important role he embraced, that of a kind of coach-in-chief. Obama is seen as aloof from his Cabinet. All the Bush Cabinet members with whom I spoke told a strikingly different story. Ambassador James Jeffrey, who served as deputy national security adviser to Bush and then as Obama's Iraq ambassador, tells a story of one top Bush economic official having a moment of crisis and doubt in the darkest days of the financial catastrophe. Jeffrey listened as Bush bucked up his aide, restoring his confidence, telling him he was the best person for the job, letting him know he would back him on key decisions. This was in stark contrast to the White House-centric Obama approach that has left Cabinet officers feeling sidelined. It is easy to dismiss such stories when viewed in the context of politics or the very real, and in some cases historically significant, errors of the Bush years. Still, if President Obama is to begin to grow in office, he would be wise to look beyond politically inspired caricatures to see what worked for the man who occupied the Oval Office before him. Obama has his own life experience, of course. He will never be like Bush, in ways both good and bad. But what he may see is that at a moment of comparable foreign policy strains and dysfunctions, Bush was not content to give up or to punt to the future or play the blame game. He knew that in the American system, big change is sometimes needed and that it would never happen unless he did what no one else could do: Stand up to himself -- the President of the United States -- and demand he admit his mistakes and lead administration-wide change from within.
+
+(1) First, you identify all the single words that are morally framed, focusing especially on the dimensions of Authority/Subversion, Care/Harm, Fairness/Cheating. Identify this step as "STEP 1:" and report each word in a new line starting with *
+(2) Finally, you write a summary of the news article. Please preserve as many morally framed words as possible, particularly focusing on the moral dimensions of Authority/Subversion, Care/Harm, Fairness/Cheating in your summary. The summary has to be returned after a "SUMMARY:" token and ending with a "END OF SUMMARY." token. The summary should be no longer than 200 words.

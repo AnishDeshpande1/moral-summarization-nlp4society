@@ -1,0 +1,190 @@
+You have to summarize the following text preserving the moral framing that the author gave to it.
+
+Please study the following examples of news articles and their summaries preserving the moral framing:
+
+Example 1 (Political Ideology: Left):
+Here is the news article:
+
+Obama Gun Control Proposals Unveiled, Marking Biggest Legislative Effort In A Generation
+
+WASHINGTON -- In a bold and potentially historic attempt to stem the increase in mass gun violence, President Barack Obama unveiled on Wednesday the most sweeping effort at gun control policy reform in a generation.
+
+"This is our first task as a society: keeping our children safe.
+This is how we will be judged," Obama said.
+“We can’t put this off any longer."
+
+The proposal, which comes at the end of a month-long review process spearheaded by Vice President Joe Biden, is broken down into four key subsections: law enforcement, the availability of dangerous firearms and ammunition, school safety and mental health.
+
+In an effort to touch on all four of those elements, the president recommended requiring criminal background checks for all gun sales; reinstating the assault weapons ban; restoring a 10-round limit on ammunition magazines; eliminating armor-piercing bullets; providing mental health services in schools; allocating funds to hire more police officers; and instituting a federal gun trafficking statute, among other policies.
+The cost of the package, senior officials estimated, would be roughly $500 million, some of which could come from already budgeted funds.
+
+Because these recommendations require congressional approval, the administration is supplementing its proposal with 23 executive actions that will be taken immediately.
+Those actions include requiring federal agencies to hand over relevant data for a background check system; providing law enforcement officials, first responders and school officials with better training for active shooting situations; directing the Centers for Disease Control to research the causes and prevention of gun violence; and many more.
+
+"I intend to use whatever weight this office holds to make them a reality," said the president, speaking about his full set of recommendations.
+"If there's even one life that can be saved, then we've got an obligation to try."
+
+The approach is so sweeping that what would have otherwise been a headline-grabbing announcement received second billing.
+The president on Wednesday will nominate Byron Todd Jones, the acting director of the Bureau of Alcohol, Tobacco, Firearms and Explosives, to take over the post permanently.
+
+In total, the proposal goes beyond what most gun control advocates were hoping for at the start of Biden's review process, during which he held 22 different meetings with 229 different organizations and 31 elected officials.
+
+"This is a monumental moment.
+It's a long time coming and we're thrilled the president's putting the full weight of his office behind this," said Josh Horowitz, executive director of the Coalition to Stop Gun Violence.
+"We're ready to push this thing through."
+
+But putting together ideas is the easy part.
+Selling them on the Hill will take a bit of legislative craft.
+
+Seasoned political observers have questioned whether it makes more sense to break the package into separate bills or push for one comprehensive proposal.
+A senior administration official said that the president's proposal shouldn't be considered finalized legislative language, but rather a series of recommendations for Congress to consider.
+The president would be working with lawmakers to move the process forward, the official added, and would be trying to build up public opinion as well.
+
+"I will put everything I've got into this and so will Joe [Biden].
+But I tell you, the only way we can change is if the American people demand it," said Obama.
+"We are going to need voices in those areas and congressional districts where the tradition of gun ownership is strong."
+
+"It can't just be the usual suspects," he continued.
+"This will not happen unless the American people demand it."
+
+The gun-rights lobby has already signaled that it will try to block the administration's effort.
+A spokesman for the National Rifle Association did not immediately respond to requests for comment on the president's proposal.
+But the organization has already harshly criticized the Obama administration for overreach.
+
+"It is unfortunate that this administration continues to insist on pushing failed solutions to our nation's most pressing problems," the NRA said after meeting with Biden last week.
+"We will not allow law-abiding gun owners to be blamed for the acts of criminals and madmen."
+
+The group continued its offensive this week, launching an advertising campaign attacking Obama as an "elitist hypocrite" for opposing the NRA's widely-criticized proposal, made after the Newtown, Conn. shooting, to place armed guards in all of the nation's schools.
+
+But that attack appeared a bit premature.
+As part of its policy recommendations, the White House called on Congress to act on an old administration proposal to spend $4 billion to keep 15,000 cops on the streets.
+In addition, the president is proposing a new initiative that would incentivize police departments to hire more school resource officers and encourage schools to hire more mental health professionals.
+The president's plan also calls on Congress to allocate resources to help schools, other educational institutions and houses of worship develop emergency management plans.
+
+The White House proposals, even officials there admit, are not a cure-all for mass shootings.
+Among the suggested recommendations on the gun-policy front, only the ban on high-capacity magazines could have had a tangible impact on the shooting in Newtown, and it's unclear what, exactly, the effect would have been.
+
+Moreover, the administration is pointedly not going after those weapons and ammunition magazines that are currently and lawfully owned.
+The proposal would instead affect the future production and sale of military-style weapons or high-capacity magazines.
+
+"We are not going to go after existing stock of weapons or magazines," said a senior administration official.
+"We are going to limit it to the manufacturing of assault weapons and clips going forward."
+
+The White House nevertheless insists that its package of proposals has teeth.
+It would provide law enforcement with the mechanisms needed to go after the illegal transfer of weapons and help prevent those weapons from falling into the wrong hands.
+It would also stem the use of military-style weapons -- the White House says its proposal would improve on the 1994 Assault Weapons Ban, which was riddled with loopholes -- and give schools and communities resources to address violence when it occurs.
+
+The question, in some respects, is not what's missing from the set of ideas, but what took the administration so long to get to this point.
+
+"It is not as though we had this whole policy paper sitting on the shelf somewhere," said a senior administration official.
+"[We worked] 24/7 for the past month.
+And we met with a lot of groups and we learned a lot of ideas that came as a result of this process.
+We tried to be as comprehensive as possible.
+We are hoping that as the process goes on and as the debate goes on, we might come up with some other ideas."
+
+SUMMARY:
+
+President Barack Obama unveiled a sweeping gun control proposal, marking the biggest legislative effort in a generation. The proposal aims to stem the increase in mass gun violence, with Obama emphasizing that "keeping our children safe" is the society's first task. The plan includes requiring criminal background checks for all gun sales, reinstating the assault weapons ban, and providing mental health services in schools. The administration is supplementing its proposal with 23 executive actions, including requiring federal agencies to hand over relevant data for a background check system. The approach is so sweeping that it goes beyond what most gun control advocates were hoping for. While the gun-rights lobby has signaled opposition, Obama vowed to use the full weight of his office to make the proposals a reality, urging the American people to demand change. The proposal is a monumental moment in the effort to reduce gun violence, and its success will depend on public opinion and legislative craft.
+
+END OF SUMMARY.
+
+Example 2 (Political Ideology: Center):
+Here is the news article:
+
+Report Sees Guns as Path to Safety in Schools
+
+WASHINGTON — With the Senate set to debate gun control this month, a National Rifle Association task force released a 225-page report on Tuesday that called for armed police officers, security guards or staff members in every American school, and urged states to loosen gun restrictions to allow trained teachers and administrators to carry weapons.
+
+Asa Hutchinson, a former Republican congressman from Arkansas who led the task force, unveiled the report at a packed news conference with unusually heavy security, including a bomb-sniffing yellow Labrador retriever.
+A dozen officers in plain clothes and uniforms stood watch as he spoke; one warned photographers to “remain stationary” during the event.
+
+Among the study’s central conclusions is that “the presence of armed security personnel adds a layer of security and diminishes response time” in a shooting, Mr. Hutchinson said.
+He cited a 1997 Mississippi case in which an assistant principal ran to his truck to retrieve a .45-caliber semiautomatic pistol and subdued a gunman who had killed two students.
+
+The recommendations — which also included expanding the police presence in schools — drew immediate criticism from gun control advocates and many Democrats, who have been fighting to tighten gun restrictions after the massacre at Sandy Hook Elementary School in Newtown, Conn., in December.
+
+“Arming the teacher is merely a response to the last tragedy,” said Representative Mike Thompson, a California Democrat who is chairman of a House task force on gun violence.
+“The one before that was in a shopping mall in Oregon, and the one before that was in a movie theater in Colorado.
+I don’t think the proper response is to arm all the projectionists in the movie theaters or all the vendors in the mall.”
+
+After the Newtown shooting, Wayne LaPierre, the rifle association’s executive director, announced that it would devise a plan to put armed guards in every school.
+Technically, Mr. Hutchison’s task force is independent of the rifle association, even though it paid for the study, and Mr. LaPierre was not present on Tuesday.
+But critics see no distinction between the two.
+
+Marian Wright Edelman, president of the Children’s Defense Fund, an advocacy group here, criticized the study as “nothing more than a continuation of the N.R.A.’s attempts to prey on America’s fears, saturate our schools with more guns and turn them into armed fortresses.”
+
+But the report did get support from at least one Newtown parent: Mark Mattioli, whose 6-year-old son, James, was killed.
+
+“I think politics needs to be set aside here, and I hope this doesn’t lead to name-calling,” said Mr. Mattioli, who joined Mr. Hutchinson at the news conference.
+“This is a recommendation for solutions, real solutions that will make our kids safer.
+That’s what we need.”
+
+At least one state, Indiana, is considering the idea of armed officers at schools.
+On Tuesday, a proposal that would require public and charter schools to have an armed “protection officer” on school property during class hours passed a State House committee.
+
+The task force panel called on the Departments of Homeland Security, Education and Justice to coordinate school safety efforts and provide grant money for schools to assess their ability to prevent and respond to attacks.
+It recommended that officers or employees who are armed take a 40- to 60-hour training course to be developed by the rifle association based on a model the task force has designed.
+
+The group also called on states to require schools to develop security plans.
+
+But how and whether the task force recommendations will be put into effect — and the cost — was unclear.
+
+The timing of Tuesday’s announcement was not a coincidence: Congress will wrap up its spring recess after this week and is expected to consider gun legislation after lawmakers return.
+President Obama has called for tough new controls on gun ownership, but the prospects for such legislation are murky — a testimony to the rifle association’s prowess as a lobbying force.
+
+A plan to revive and revamp a ban on assault weapons, which expired in 2004, is almost certain to be defeated.
+Mr. Obama is pushing for a measure that would impose mandatory background checks for gun buyers, and the Senator Harry Reid, Democrat of Nevada, the majority leader, has promised to present a bill that would expand background checks to the floor for a vote.
+
+SUMMARY:
+
+A National Rifle Association (NRA) task force has released a report recommending that armed police officers, security guards, or staff members be present in every American school to ensure safety. The report also suggests that states loosen gun restrictions to allow trained teachers and administrators to carry weapons. Critics argue that this approach is misguided and would lead to more guns in schools, rather than addressing the root causes of gun violence. The report's recommendations have been met with opposition from gun control advocates and Democrats, who believe that tightening gun restrictions is the more effective way to prevent tragedies like the Sandy Hook massacre. The NRA's proposal has been criticized as an attempt to exploit fear and promote a culture of gun proliferation. However, some, like Mark Mattioli, a Newtown parent who lost his son in the tragedy, support the report's recommendations as a necessary step towards making schools safer. END OF SUMMARY.
+
+Example 3 (Political Ideology: Right):
+Here is the news article:
+
+A group of 14 Wisconsin parents has filed a lawsuit against a local school district for its policy allowing teachers to address their children by their preferred "gender identity" without notifying them first.
+
+Wisconsin Institute for Law and Liberty (WILL), a conservative law firm, filed the 19-page lawsuit on Tuesday on behalf of the parent's group against the Madison Metropolitan School District (MMSD).
+The 14 parents were not named in the document.
+
+The lawsuit alleges that MMSD's transgender policy is unconstitutional because it prohibits teachers and staff from informing parents that their children want to switch sexes.
+
+"This action seeks to vindicate parents' fundamental and constitutional right to direct the upbringing of their children," the lawsuit argues.
+"The Madison Metropolitan School District has violated this important right by adopting a policy designed to circumvent parental involvement in a pivotal decision affecting their children's health and future.
+The policy enables children, of any age, to socially transition to a different gender identity at school without parental notice or consent."
+
+While parental consent is needed before a child's name can be changed legally in the district's official records, the school district policy announced in 2018 says students can be called by their preferred name and gender pronouns without parental permission.
+
+The policy states that the district is committed to affirming each student's self-designated gender identity and the district will strive to "disrupt the gender binary" with books and lessons stating that everyone has the right to choose their gender.
+
+The school policy allows students to pick new names and pronouns they can use at school regardless of whether they have a parent's permission.
+All teachers and district staff must refer to students by their chosen names and pronouns even though the names aren't official in district systems.
+
+The parents argue the policy violates the state constitution's due process clause, which protects parents' right to raise their children according to the parents' beliefs.
+
+"Madison schools have adopted policies that violate constitutionally recognized parental rights.
+A public school district should not, and cannot, make decisions reserved for parents," WILL President and General Counsel Rick Esenberg said in a statement.
+
+District spokesman Tim LeMonds said Tuesday that the district had not been served with the lawsuit and could not comment until it had a chance to review it.
+But LeMonds said the district stands by its guidance on transgender and nonbinary students.
+
+The lawsuit also argues that keeping parents in the dark about their children's sexuality interferes with parents' right to guide their children through life-altering decisions and provide professional help their children may urgently need.
+
+"There is no compelling government interest in keeping secret from parents that their child is dealing with gender dysphoria," the lawsuit reads.
+
+The parents also argue that the policy violates the state constitution's religious freedom guarantee.
+
+All of the parents say they believe God intended humans to be male and female, and the district's choice to hide students' gender struggles interferes with their right to guide their children in accordance with their religious beliefs
+
+SUMMARY:
+
+A group of 14 Wisconsin parents has filed a lawsuit against the Madison Metropolitan School District (MMSD) over its policy allowing teachers to address students by their preferred "gender identity" without notifying parents. The parents argue that this policy is unconstitutional, violating their fundamental right to direct their children's upbringing and make decisions about their health and well-being. The policy enables students to socially transition to a different gender identity at school without parental notice or consent, which the parents believe interferes with their right to guide their children through life-altering decisions and provide necessary professional help. The lawsuit also claims that the policy violates the state constitution's religious freedom guarantee, as the parents believe God intended humans to be male and female. The parents are seeking to vindicate their constitutional right to raise their children according to their beliefs.
+
+END OF SUMMARY.
+
+Now, here is the target news article to summarize:
+Here is the news article:
+
+NRA urges states to allow more armed officers in schools The National Rifle Association called Tuesday for state legislatures to allow more school personnel to carry weapons on school grounds once they've gone through extensive training, as part of a set of recommendations that capped a weeks-long review in the wake of the Newtown mass shooting. The NRA initially took criticism from Democrats for focusing so closely on school security, and rejecting gun control measures, following the Connecticut shooting in which 26 people were killed. NRA CEO Wayne LaPierre in December called for armed officers to be installed in every school in the country. Former Arkansas Rep. Asa Hutchinson, who led the NRA's review, appeared to ease off slightly on the call for armed officers in every school -- he said it's "important" for every school to have at least one, but acknowledged these decisions are "locally made" based on unique budget circumstances. Hutchinson, though, did call for the creation of a 40-60 hour training program for armed officers. To accompany that, his group proposed a "model" state law that would allow certain personnel who have undergone this training to carry weapons on school grounds. "This is not talking about all teachers," he said. "Teachers should teach." The 225-page report also called for states to require schools to conduct a safety assessment and for a pilot program to be created assessing mental health as a pre-indicator for violence. Mark Mattioli, the father of one Newtown shooting victim, also spoke after Hutchinson's announcement to applaud the review effort. The review comes as Congress and a number of state legislatures pursue gun control legislation. While a few have focused on school security -- South Dakota has already approved legislation allowing for teachers to be armed -- many have concentrated on enacting or expanding assault weapons bans, strengthening background checks and passing other measures to restrict access to firearms. Connecticut, the home of the Sandy Hook school shooting, is the latest to advance a sweeping gun control proposal -- lawmakers announced a deal Monday on a package that is likely to win approval. But LaPierre in December argued that improving school security is paramount. He argued that if banks and members of Congress can have protection, schools across America should be afforded the same security. "It's now time for us to assume responsibly for our schools," he said. "The only way to stop a monster from killing our kids is to be permanently involved and invested in a plan of absolute protection." He added: "The only thing that stops a bad guy with a gun is a good guy with a gun."
+
+The summary has to be returned after a "SUMMARY:" token and ending with a "END OF SUMMARY." token. The summary should be no longer than 200 words.

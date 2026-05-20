@@ -1,0 +1,12 @@
+You have to summarize the following text preserving the moral framing that the author gave to it.Here is the news article:
+
+Iowa Democratic Rep. Bruce Braley is under fire after a video surfaced Tuesday of him mocking Sen. Chuck Grassley, R-Iowa, as a “farmer from Iowa who never went to law school” — in the middle of Braley’s campaign for Senate in the state known for its agriculture industry. Braley apologized for the remarks in a written statement after the video was released. He said he “respects” Grassley and proclaimed his support for Iowa’s farmers. “I have tremendous respect for Iowa farmers and appreciate how important they are to our state, and I’m grateful to have the support of hundreds of farmers across Iowa,” he said. The video, which was posted online by the conservative super PAC America Rising, apparently shows Braley speaking to a group of lawyers at a fundraiser in Texas. Braley says if elected to the Senate to replace retiring Democratic Sen. Tom Harkin, he would want to serve on the Senate Judiciary Committee. He said Grassley, though, would likely become chairman of that committee if Republicans take the Senate. “To put this in stark contrast, if you help me win this race you may have someone with your background, your experience, your voice, someone who’s been literally fighting tort reform for thirty years, in a visible or public way, on the Senate Judiciary Committee,” he said. “Or, you might have a farmer from Iowa who never went to law school, never practiced law, serving as the next chair of the Senate Judiciary Committee.” A spokesperson for Grassley fired back Tuesday, telling FoxNews.com that by Braley’s logic he, as a trial lawyer, would not be eligible to speak out on a number of policy issues like agriculture, energy or health care. The spokesperson also touted Grassley’s “strong record” on the judiciary committee. “Alongside that, Sen. Grassley’s one of only two working family farmers in the United States Senate, where he brings Iowa common sense to work for ag, anti-trust, transportation, environmental, energy, trade, health care, communications, national security, and tax policy that works for all of America,” the aide said.
+
+The author used the following morally framed words in the article:
+* mocking
+* help
+* fighting
+* tort
+* reform
+
+Please preserve as many morally framed words as possible in your summary. The summary has to be returned after a "SUMMARY:" token and ending with a "END OF SUMMARY." token. The summary should be no longer than 200 words.

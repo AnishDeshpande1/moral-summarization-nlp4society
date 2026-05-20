@@ -1,0 +1,273 @@
+You have to summarize the following text preserving the moral framing that the author gave to it.
+
+Please study the following examples of news articles, their moral word extraction, and summaries preserving the moral framing:
+
+Example 1 (Political Ideology: Left):
+Here is the news article:
+
+Obama’s team is spinning the Republican National Convention as a complete miss.
+Obama's new challenge: Disappointment
+
+The watchword of the Republican National Convention in Tampa was disappointment — as in President Barack Obama has been one.
+
+You can hammer Obama on health care.
+Mock his golf outings.
+Demand to see his birth certificate and Harvard transcript, and call him a European socialist bent on turning the American Dream into a Belgian nightmare.
+He’ll throw his head back and laugh at you like a Bond villain.
+
+But tell voters he’s not the man America fell in love with in 2008 — and pine, however disingenuously, about his unfulfilled potential — and a shiver runs through his Chicago campaign headquarters.
+
+Obama’s team was spinning the convention as a complete miss, arguing that Republicans didn’t lay a glove on their man.
+Yet what emerged from Tampa was a subtle, clever shift in GOP messaging, a much more dangerous strategy for Obama than the kitchen-sink attacks that preceded the gathering.
+Republicans posed — rhetorically — as Obama 2008 voters, lamenting his unfulfilled expectations as if they had been with him all along instead of trying to block him at every turn.
+
+Both sides recognize the power of the disappointment theme: that the hope Obama offered for mending the economy, transforming the political process and even saving the earth has faded.
+
+“President Obama promised to begin to slow the rise of the oceans and heal the planet,” Mitt Romney said in accepting the Republican presidential nomination Thursday.
+“My promise is to help you and your family.”
+
+Or, as Sen. Marco Rubio put it, “Our problem with President Obama isn’t that he’s a bad person.
+Our problem is that he’s a bad president.”
+
+If Republicans landed a punch on Obama, it was the kind of strategic body blow that a skillful pugilist deploys to gain better position for the rest of the fight.
+
+No roundhouse, no jaw-splitter, no knockout.
+It was the kind of shot aimed at subtly shifting momentum and softening up the opponent in a way that may not be evident to the casual observer.
+
+Republicans honed their tone.
+
+The shrill hyperbole, petty critiques of Obama’s every move and Party of No intransigence disappeared into the heavy Tampa air.
+Surely, some of that will rain back down across other parts of the country during the closing months of the campaign, particularly as super PACs and other outside groups intensify their own lines of attack against Obama.
+
+There was plenty of tough criticism in Tampa — more mockery of Obama’s “you didn’t build that” line, more comparisons of his record to Jimmy Carter’s.
+But there were times — prime time, in particular — that the Republican convention looked and sounded like a Democratic gathering.
+
+An appealing young vice-presidential candidate, Paul Ryan, called his mom his role model and vowed to protect Medicare for seniors.
+
+Cuban-American Florida Sen. Marco Rubio and Mexican-American New Mexico Gov. Susana Martinez spoke of the unique opportunities that the United States afforded them to rise into leadership positions.
+
+STEP 1:
+* disappointment
+* disingenuously
+* clever
+* dangerous
+* bad
+* good
+* shrill
+* petty
+* intransigence
+* appealing
+* unique
+
+SUMMARY:
+The Republican National Convention in Tampa was deemed a success by the GOP, despite Obama's team spinning it as a complete miss. Republicans cleverly shifted their messaging, adopting a more subtle and dangerous strategy that focused on disappointment. They posed as Obama 2008 voters, lamenting his unfulfilled expectations and promising a more humble, achievable agenda. Mitt Romney and Sen. Marco Rubio delivered speeches that were more in line with Democratic values, touting the unique opportunities afforded by the United States. The tone was appealing, with a focus on protecting Medicare for seniors and honoring role models. The GOP's new approach is a strategic body blow to Obama's campaign, softening him up for the rest of the fight. END OF SUMMARY.
+
+Example 2 (Political Ideology: Center):
+Here is the news article:
+
+WASHINGTON – As House Democrats called for a resolution condemning him for racism, President Donald Trump said Monday that the minority Democratic congresswomen he said should "go back" to other countries are the ones who should apologize.
+
+Trump also denied his comments were racist, telling reporters at the White House that "if you hate our country, if you're not happy here, you can leave" – although most of the Democratic lawmakers he attacked were born in the United States.
+
+Earlier in the morning, Trump tweeted: "When will the Radical Left Congresswomen apologize to our Country, the people of Israel and even to the Office of the President, for the foul language they have used, and the terrible things they have said."
+
+House Speaker Nancy Pelosi, D-Calif., meanwhile, called on lawmakers to pass a resolution condemning Trump's remarks suggesting that some House members should essentially go back to where they came from.
+
+"The House cannot allow the President’s characterization of immigrants to our country to stand," Pelosi said.
+"Our Republican colleagues must join us in condemning the President’s xenophobic tweets."
+
+On Sunday, Trump tweeted of four minority female House members: "Why don’t they go back and help fix the totally broken and crime infested places from which they came.
+Then come back and show us how it is done" – this even though three of the four targets were born in the United States.
+
+Trump's tweets were directed tweets at four Muslim, Hispanic, and black House freshmen members known as "the Squad": Democratic Reps. Alexandria Ocasio-Cortez of New York, Ayanna Pressley of Massachusetts, Rashida Tlaib of Michigan, and Ilhan Omar of Minnesota.
+
+THE 'SQUAD' REACTS:'This is what racism looks like': Congresswomen react to Trump's 'go back' tweetstorm
+
+The first three were born in the United States; Omar came to the United States as a refugee from Somalia before she was a teenager.
+
+Asked if he was concerned about using the language of white nationalists, Trump replied that "it doesn’t concern me because many people agree with me.
+All I’m saying is that if they want to leave they can leave now.
+It doesn’t say leave forever."
+He claimed the congresswomen "hate" the United States and Israel.
+
+Pelosi said Trump's "xenophobic" comments reflect that "his plan to 'Make America Great Again' has always been about making America white again."
+
+"Our diversity is our strength and our unity is our power," Pelosi said.
+
+Pelosi has clashed with the very same House members Trump attacked.
+Ocasio-Cortez, Omar and others say Pelosi and the Democratic leadership have been too cautious on issues ranging from environmental legislation to the proposed impeachment of Trump.
+
+Trump's tweets, however, united the Democrats in condemnation of the president's racial tactics.
+
+"THIS is what racism looks like," Pressley tweeted.
+
+Tlaib responded to Trump by tweeting: "Yo @realDonaldTrump, I am fighting corruption in OUR country.
+I do it every day when I hold your admin accountable as a U.S. Congresswoman.
+Detroit taught me how to fight for the communities you continue to degrade & attack.
+Keep talking, you’ll be out of the WH soon.
+#TickTock."
+
+The tweets are drawing international criticism of Trump.
+
+British Prime Minister Theresa May believes “the language used to refer to these women was completely unacceptable,” her spokesman James Slack told reporters in London on Monday.
+
+Trump, who is seeking re-election in 2020, has indicated he would seek to link members of "The Squad" to Democrats in general.
+In his Monday tweets, he cited their views on the Middle East as a flashpoint.
+
+"It will be interesting to see how it plays out," Trump tweeted.
+"I can tell you that they have made Israel feel abandoned by the U.S."
+
+After a day of near-silence, a rising number of Republicans are speaking out against Trump's attacks on the four House members.
+
+"Those tweets are racist, and xenophobic," said Rep. Will Hurd, R-Texas, whose district includes a large part of the border with Mexico.
+
+Speaking on CNN, Hurd said that this is "also behavior that’s unbecoming of the leader of the free world.
+He should be talking about things that unite, not divide us."
+
+Sen. Pat Toomey, R-Pa., told CNN that Trump was "wrong," and that "the citizenship of all four (House members) is as valid as mine ... We should defeat their ideas on the merits."
+
+Rep. Justin Amash, a Michigan congressman who recently left the Republican Party, tweeted back at Trump: "To tell these American citizens (most of whom were born here) to 'go back' to the “crime infested places from which they came” is racist and disgusting."
+
+STEP 1:
+*xenophobic*
+*racist*
+*racism*
+*xenophobic*
+*hate*
+*unacceptable*
+*racist*
+*xenophobic*
+*disgusting*
+*unbecoming*
+
+SUMMARY:
+President Donald Trump sparked outrage by telling four minority Democratic congresswomen to "go back" to their countries of origin, despite most of them being born in the United States. Trump denied his comments were racist, but House Democrats condemned his xenophobic tweets, saying they reflect a desire to "make America white again." The president's remarks were widely criticized, with many calling them racist and xenophobic. Even some Republicans spoke out against Trump's attacks, with Rep. Will Hurd saying the tweets were "racist, and xenophobic" and Sen. Pat Toomey calling them "wrong." The congresswomen, known as "the Squad," responded by saying Trump's comments were a clear example of racism. The international community also weighed in, with British Prime Minister Theresa May calling the language "completely unacceptable." END OF SUMMARY.
+
+Example 3 (Political Ideology: Right):
+Here is the news article:
+
+President Trump’s immigration compromise package to end the partial government shutdown drew sharp reactions from Democratic and Republican lawmakers alike.
+
+In a televised White House address on Saturday afternoon, Trump offered Democrats a three-year extension of protections for 700,000 Deferred Action for Childhood Arrivals (DACA) recipients, in exchange for the $5.7 billion he has been seeking for a barrier along the nation's southern border with Mexico.
+
+“Our immigration system should be a source of pride ... not a source of shame as it is all over the world,” Trump said in his plea.
+
+The president’s proposal was met with disdain from an array of top Democratic lawmakers.
+Many used the same language in their critiques, accusing Trump of holding the government and federal workers "hostage."
+
+House Speaker Nancy Pelosi, D-Calif., tweeted, “What we didn’t hear from the President was any sympathy for the federal workers who face so much uncertainty because of the chaos of the #TrumpShutdown.”
+
+Before Trump made his announcement, Pelosi had called his anticipated proposal “a non-starter.”
+
+“For one thing, this proposal does not include the permanent solution for the Dreamers and TPS recipients that our country needs and supports.”
+
+For his part, Chuck Schumer, the Senate minority leader, called Trump's proposal "one-sided and ineffective."
+
+"It's clear the President realizes that by closing the government and hurting so many American workers and their families, he has put himself and the country in an untenable position.
+Unfortunately, he keeps putting forward one-sided and ineffective remedies.
+There's only one way out: open the government, Mr. President, and then Democrats and Republicans can have a civil discussion and come up with bipartisan solutions."
+
+Schumer, D-N.Y., concluded, "It was the President who single-handedly took away DACA and TPS protections in the first place – offering some protections back in exchange for the wall is not a compromise but more hostage taking."
+
+House Majority Leader Steny Hoyer shared a similar sentiment, urging Trump and Sen. Mitch McConnell to "stop holding government hostage and end the shutdown" immediately.
+
+“The president must stop holding government hostage and end the shutdown so federal employees can get back to work serving the American people.
+There is no reason for Americans to be shut out of work and without a paycheck while negotiations take place on the best way to secure our borders,” he said.
+
+Hoyer said negotiation can progress after the government reopens.
+
+“With the government open, we can negotiate an agreement to strengthen border security that both sides can support and that is in the best interests of the American people.”
+
+Another leading Dem, Sen. Kristen Gillibrand of New York, who announced her White House bid on Jan. 15 in an episode of "The Late Show with Stephen Colbert," said Trump's offer was a "bad deal."
+
+Gillibrand tweeted: "Trump ordered the end of DACA and TPS.
+Then he shut down the government.
+Now he's holding federal workers hostage, saying he'll temporarily give back what he took away -- only if we give him a pointless, ineffective wall he falsely promised Mexico would pay for.
+This is a bad deal."
+
+Then there was New Jersey Sen. Bob Menendez's response. He bluntly accused Trump of forcing "a pointless shutdown" to pay for the border wall.
+
+"This is about more than 800,000 Americans who are being held hostage by a President who has forced a pointless shutdown to pay for an expensive, ineffective wall.
+This is not about immigration.
+Dreamers and TPS recipients are not bargaining chips.
+It's unacceptable that after taking away DACA protections, eliminating the TPS program for thousands of immigrants and creating a humanitarian crisis at the border, President Trump is offering temporary solutions in exchange for a permanent wall."
+
+The Democratic senator also said "a legitimate negotiation" can proceed after the government is reopened.
+
+Fellow Democratic Sen. Chris Coons of Delaware slammed McConnell for refusing "to meaningfully negotiate with Senate Democrats," but also called Trump's offer "a first step toward comprehensive immigration reform."
+
+"This senseless government shutdown is hurting millions of Americans, and its impacts are only getting worse. The President should re-open the government so that Republicans and Democrats in Congress can work with the White House to find a sensible solution on border security and immigration.
+I am confident that a reasonable compromise can be reached, but not while President Trump continues to keep significant parts of the government shut down and Leader McConnell refuses to meaningfully negotiate with Senate Democrats," he said.
+
+"Some relief for Dreamers and an extension of Temporary Protected Status represent a first step toward comprehensive immigration reform, but more ideas from members of both parties should be taken up and debated.
+Republicans and Democrats stand ready to work toward a solution, but the fact remains that there is no reason to have large parts of the federal government shut down while we debate appropriate border security and immigration policies."
+
+Republican lawmakers, at the opposite end of the reaction spectrum, praised the president for his willingness to negotiate.
+
+Senate Majority Leader McConnell, for instance, commended the president "for taking bipartisan steps toward addressing current immigration issues."
+
+In his statement, he said; “Compromise in divided government means that everyone can’t get everything they want every time.
+The president’s proposal reflects that.
+It strikes a fair compromise by incorporating priorities from both sides of the aisle."
+
+“This bill takes a bipartisan approach to re-opening the closed portions of the federal government.
+It pairs the border security investment that our nation needs with additional immigration measures that both Democrat and Republican members of Congress believe are necessary.
+Unlike the bills that have come from the House over the past few weeks, this proposal could actually resolve this impasse.
+It has the full support of the President and could be signed into law to quickly reopen the government."
+
+Republican Whip Steve Scalise called on Democrats to match Trump's willingness to negotiate.
+
+"The time for political games has long passed.
+Democrats must put their personal dislike of the president aside, end their obstruction, and finally come to the negotiating table.
+It's time Democrats do what is right for the functioning and security of our nation and agree to a deal that opens our government, and includes funding for a border wall and other measures to solve this serious immigration crisis at our southern border," he said in a statement.
+
+Also on the Republican side, Sen. Susan Collins of Maine said she was "hopeful" for a "constructive debate" with Democrats.
+
+“Compromise is not a sign of weakness — it’s a sign of strength, particularly when hundreds of thousands of families are being harmed.
+The Administration, Senate Republicans, and Democrats must now resolve this stalemate before 800,000 federal workers and their families miss yet another paycheck, and our economy is further damaged,” she said.
+
+Sen. Mitt Romney, R-Utah, whose views on the president and his policies have fluctuated, said Trump "put forth a reasonable, good faith proposal that will reopen the government and help secure the border."
+
+He tweeted, "I look forward to voting for it and will work to encourage my Republican and Democratic colleagues to do the same.
+
+Earlier, while speaking in Ogden, Utah, Romney said he did not understand Pelosi's position on border security.
+
+"You (Pelosi) and your fellow Democrats have voted for over 600 miles of border fence in the past, why won't you vote for another few miles now? I don't understand their position, I really don't," the Republican senator said.
+
+Florida Sen. Marco Rubio took a positive view of Trump's proposed deal, like his fellow Republicans.
+He said Trump made "a very reasonable offer" and urged Democrats to work with him.
+
+“The way to end this shutdown is for both sides to make mutual concessions in order to reach an agreement.
+The president has made a very reasonable offer to extend DACA and TPS protections in exchange for the border security measures he supports.
+I hope that instead of choosing the road of endless obstruction, Democrats will decide to work with him to reach an agreement and end the shutdown,” he said.
+
+Likewise, House Republican Leader Kevin McCarthy called the president's immigration offer "reasonable."
+
+McCarthy tweeted: "President Trump has put forward a serious and reasonable offer to reform parts of our broken immigration system and reopen government.
+The moment now turns to Nancy Pelosi and Chuck Schumer. The country is watching."
+
+
+STEP 1:
+* shame
+* hostage
+* chaos
+* ineffective
+* one-sided
+* untenable
+* bad
+* pointless
+* unacceptable
+* senseless
+* legitimate
+* reasonable
+
+SUMMARY:
+President Trump's immigration compromise package to end the partial government shutdown has drawn sharp reactions from Democratic and Republican lawmakers alike. Trump offered Democrats a three-year extension of protections for 700,000 Deferred Action for Childhood Arrivals (DACA) recipients in exchange for the $5.7 billion he has been seeking for a barrier along the nation's southern border with Mexico. However, top Democratic lawmakers accused Trump of holding the government and federal workers "hostage" and criticized his proposal as "one-sided" and "ineffective." They argued that Trump's offer was a "bad deal" and that he was using DACA recipients as "bargaining chips" in a "pointless shutdown." In contrast, Republican lawmakers praised the president for his willingness to negotiate, calling his proposal "reasonable" and a "good faith" effort to reopen the government. END OF SUMMARY.
+
+Now, here is the target news article to summarize:
+Here is the news article:
+
+Former President Obama lashed out at President Trump for ending the Deferred Action for Childhood Arrivals (DACA) amnesty program, which was thought to be on shaky legal ground. Obama ripped Trump as “cruel,” lacking “basic decency” and acting “contrary to our spirit, and to common sense.” The former president claimed DACA recipients “pose no threat” and “are not taking away anything from the rest of us.” (RELATED: Sympathetic Media Scrambles To Trot Out Shiny ‘Dreamers,’ But Forgets All The Nightmares) “To target these young people is wrong – because they have done nothing wrong. It is self-defeating – because they want to start new businesses, staff our labs, serve in our military, and otherwise contribute to the country we love. And it is cruel,” Obama wrote in a lengthy Facebook post, following Attorney General Jeff Sessions’ announcement that the administration would be gradually rolling back the amnesty program. “What if our kid’s science teacher, or our friendly neighbor turns out to be a Dreamer? Where are we supposed to send her? To a country she doesn’t know or remember, with a language she may not even speak?” “Let’s be clear: the action taken today isn’t required legally. It’s a political decision, and a moral question. Whatever concerns or complaints Americans may have about immigration in general, we shouldn’t threaten the future of this group of young people who are here through no fault of their own, who pose no threat, who are not taking away anything from the rest of us,” Obama claimed. “They are that pitcher on our kid’s softball team, that first responder who helps out his community after a disaster, that cadet in ROTC who wants nothing more than to wear the uniform of the country that gave him a chance. Kicking them out won’t lower the unemployment rate, or lighten anyone’s taxes, or raise anybody’s wages.” Obama had previously hinted that he would “weigh in” if Trump took action on DACA, despite longstanding precedent against former presidents criticizing the current president.
+
+(1) First, you identify all the single words that are morally framed. Identify this step as "STEP 1:" and report each word in a new line starting with *
+(2) Finally, you write a summary of the news article. Please preserve as many morally framed words as possible in your summary. The summary has to be returned after a "SUMMARY:" token and ending with a "END OF SUMMARY." token. The summary should be no longer than 200 words.

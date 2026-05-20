@@ -1,0 +1,60 @@
+You have to summarize the following text preserving the moral framing that the author gave to it.
+
+Here is the news article:
+
+Former Defense Secretary Mattis Issues Stunning Rebuke Of Trump Retired Marine Gen. Jim Mattis, who resigned as President Trump's defense secretary nearly a year and a half ago over policy differences, has issued an extraordinary critique of the White House's handling of nationwide unrest, saying Trump has sought to divide Americans and warning against "militarizing our response" to the protests. "When I joined the military, some 50 years ago, I swore an oath to support and defend the Constitution," Mattis said in a statement published in The Atlantic. "Never did I dream that troops taking that same oath would be ordered under any circumstance to violate the Constitutional rights of their fellow citizens —much less to provide a bizarre photo op for the elected commander-in-chief, with military leadership standing alongside," Mattis wrote, referring to a series of events on Monday in which peaceful protesters were physically cleared from around the White House to make way for an appearance by the president, Bible in hand, outside a historic church. Mattis called Monday's actions "an abuse of executive authority." The broadside came on the same day that current Defense Secretary Mark Esper said at a Pentagon briefing that he opposed invoking the Insurrection Act — which allows the president to deploy the military within the United States — something Trump had threatened to do in a televised speech on Monday. Earlier this week, Esper had referred to unrest in the streets as a "battlespace," and Trump urged governors to use law enforcement and the National Guard to "dominate" the protesters. "We must reject any thinking of our cities as a 'battlespace' that our uniformed military is called upon to 'dominate,' " Mattis wrote. "At home, we should use our military only when requested to do so, on very rare occasions, by state governors." It is extraordinarily rare for military leadership to speak out against a sitting president, though Trump has come in for implicit criticism from senior ranks. After Trump said of a Unite the Right rally in Charlottesville, Va., in 2017, which turned deadly, that there were "very fine people on both sides," each of the military service chiefs — as well as the chairman of the Joint Chiefs of Staff – issued statements condemning bigotry. "I can absolutely and unambiguously tell you there is no place — no place — for racism and bigotry in the U.S. military or in the United States as a whole," said Gen. Joe Dunford, the Joint Chiefs of Staff chairman at the time. America’s military, our sons and daughters, will place themselves at risk to protect their fellow citizens. Their job is unimaginably hard overseas; harder at home. Respect them, for they respect you. America is not a battleground. Our fellow citizens are not the enemy. #BeBetter — GEN(R) Martin E. Dempsey (@Martin_Dempsey) June 1, 2020 Just this week, two former Joint Chiefs of Staff chairmen, Gen. Martin Dempsey and Adm. Mike Mullen, condemned the use of the military to quash the demonstrations on Monday. In a tweet, Dempsey said, "America is not a battleground. Our fellow citizens are not the enemy." In the opinion piece in The Atlantic titled "I Cannot Remain Silent," Mullen wrote regarding Trump's photo-op at St. John's Church, "Whatever Trump's goal in conducting his visit, he laid bare his disdain for the rights of peaceful protest in this country, gave succor to the leaders of other countries who take comfort in our domestic strife, and risked further politicizing the men and women of our armed forces." Mattis, who resigned and was then pushed out by Trump in December 2018 over disagreements with the White House's Syria policy, has remained largely silent about the president's job performance since leaving the defense post, telling NPR last year: "I don't discuss sitting presidents." He said he thought that Trump deserved "a period of quiet." However, days of nationwide protest over the death of George Floyd in police custody and the use of National Guard troops in Washington to disperse peaceful demonstrators have led Mattis — "angry and appalled" — to speak up. He said the protesters were only demanding equal justice under the law. "It is a wholesome and unifying demand — one that all of us should be able to get behind," he wrote. "We must not be distracted by a small number of lawbreakers," Mattis wrote, referring to the vandalism and looting that have sometimes occurred along with the largely peaceful protests. "The protests are defined by tens of thousands of people of conscience who are insisting that we live up to our values — our values as people and our values as a nation." Mattis accused the president of pursuing a divisive strategy. "Donald Trump is the first president in my lifetime who does not try to unite the American people— does not even pretend to try. "Instead he tries to divide us. We are witnessing the consequences of three years of this deliberate effort. We are witnessing the consequences of three years without mature leadership," he said. The president responded to the criticism in a tweet, calling Mattis "the world's most overrated General," an insult Trump has fired off in the past. Probably the only thing Barack Obama & I have in common is that we both had the honor of firing Jim Mattis, the world’s most overrated General. I asked for his letter of resignation, & felt great about it. His nickname was “Chaos”, which I didn’t like, & changed to “Mad Dog”... — Donald J. Trump (@realDonaldTrump) June 4, 2020 In Wednesday's statement, Mattis said the country's response to the pandemic showed that "it is not only our troops who are willing to offer the ultimate sacrifice for the safety of the community. Americans in hospitals, grocery stores, post offices, and elsewhere have put their lives on the line in order to serve their fellow citizens and their country." "We must reject and hold accountable those in office who would make a mockery of our Constitution. At the same time, we must remember Lincoln's 'better angels,' and listen to them, as we work to unite," he said.
+
+The author used the following morally framed words in the article:
+* unrest
+* sought
+* divide
+* militarizing
+* oath
+* support
+* defend
+* ordered
+* violate
+* cleared
+* abuse
+* threatened
+* use
+* dominate
+* called
+* deadly
+* bigotry
+* place
+* racism
+* risk
+* protect
+* respect
+* quash
+* disdain
+* rights
+* succor
+* strife
+* risked
+* politicizing
+* death
+* disperse
+* justice
+* unifying
+* demand
+* behind
+* vandalism
+* looting
+* live
+* pursuing
+* try
+* tries
+* effort
+* leadership
+* willing
+* sacrifice
+* safety
+* put
+* serve
+* accountable
+* mockery
+* unite
+
+Please preserve as many morally framed words as possible in your summary. The summary has to be returned after a "SUMMARY:" token and ending with a "END OF SUMMARY." token. The summary should be no longer than 200 words.

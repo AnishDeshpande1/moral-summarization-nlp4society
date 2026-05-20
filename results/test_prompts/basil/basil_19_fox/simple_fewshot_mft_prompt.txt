@@ -1,0 +1,198 @@
+You have to summarize the following text preserving the moral framing that the author gave to it, with particular focus on the specific moral foundations highlighted in the text.
+
+Please study the following examples of news articles and their summaries preserving the moral framing:
+
+Example 1 (Political Ideology: Left, Moral Foundations: Fairness/Cheating):
+Here is the news article:
+
+Donald Trump has announced Tuesday that he is pulling out of his own Dec. 27th debate.
+
+"I have decided not to be the moderator of the Newsmax debate," Trump said in a statement.
+"I believe this would not only have been the most watched debate, but also the most substantive and interesting debate."
+
+Trump said that he was ending the debate because he did not want to "give up my right to run as an independent candidate," which he claimed the Republican Party was asking him to do if he wanted to moderate the debate.
+(Trump made waves by very loudly claiming he was considering running as a Republican earlier in the year.)
+
+The announcement came just eleven days after Trump initially said he was partnering with the conservative magazine to host a forum with the remaining Republican presidential candidates.
+Since then, a majority of those candidates made clear that they would not be turning up, with only Newt Gingrich and Rick Santorum pledging to appear.
+
+Trump also attracted the usual share of public ridicule for his decision to moderate, as well as his pledge to endorse whichever candidate he liked best at the debate.
+
+As the days went on, Trump began making noises about possibly canceling the debate; however, as late as Monday night, he was still saying that the forum was taking place.
+
+SUMMARY:
+
+Donald Trump has announced that he is withdrawing from moderating the December 27th Newsmax debate, citing the Republican Party's alleged demand that he give up his right to run as an independent candidate. This comes just 11 days after Trump initially partnered with the conservative magazine to host a forum with the remaining Republican presidential candidates. However, most candidates declined to participate, with only Newt Gingrich and Rick Santorum agreeing to attend. Trump's decision to moderate was met with public ridicule, particularly his pledge to endorse the candidate he liked best at the debate. Despite initially confirming the debate, Trump began hinting at cancellation and has now officially pulled out. This decision raises questions about Trump's commitment to the democratic process and his willingness to put personal interests above the public's right to informed debate.
+
+END OF SUMMARY.
+
+Example 2 (Political Ideology: Center, Moral Foundations: Care/Harm):
+Here is the news article:
+
+Joe Biden knew Lloyd Bentsen.
+
+Lloyd Bentsen was a friend of Joe Biden’s.
+
+And the vice president made full use of his old Senate colleague’s 1988 debate playbook, shaking his head and scoffing pityingly at Representative Paul D. Ryan, trying to paint his opponent as a latter-day Dan Quayle.
+
+Mr. Ryan was no Dan Quayle, but he did make the mistake of mentioning John F. Kennedy in an argument over whether tax cuts recharge the economy.
+Mr. Biden flashed a Cheshire Cat grin and said to Ryan, after waiting a beat to let the moment sink in, “So, now you’re Jack Kennedy?”
+
+The vice presidential debate on Tuesday was supposed to be a reboot for the Obama campaign after the president’s dismal performance at his debate with the Republican nominee for president, Mitt Romney, last week.
+Mr. Biden, clearly delighted to come to President Obama’s rescue, relished his role, addressing his opponent as “my friend” but dismissing his arguments as “malarkey.”
+He laughed at Mr. Ryan’s remarks so often and so heartily that at times he seemed like a guest at a comedy club roast, not a vice president debating the fate of the nation with his opponent.
+
+It was a sharp and spirited debate, with both candidates delivering some lacerating blows, but Mr. Ryan at times seemed disconcerted by the sheer blowhard intensity Mr. Biden brought to the night.
+Mr. Ryan tried to be respectful, listening to the vice president with a tilted head, choirboy smile and puppy-dog eyes, but he showed his irritation when Mr. Biden kept interrupting to attack his policy on Medicare.
+“I know you’re under duress,” he told the vice president, prompting another belly laugh.
+
+For Mr. Biden especially, the night was his chance to relive past debates and unleash his inner barroom brawler.
+He had to be contained and courteous when he debated Sarah Palin four years ago, lest he look like a bully.
+This time he let loose.
+And unlike the courtly Mr. Bentsen in 1988, Mr. Biden turned his temperature up, singeing the young man across the table with patronizing grins, but mostly withering retorts.
+His interruptive barrage was as relentless as his silent mugging for the camera.
+
+Mr. Ryan held his own, but did look abashed when Mr. Biden mocked him for opposing the Obama stimulus, yet asking for government funds for his own district.
+“On two occasions, we — we — we advocated for constituents who were applying for grants,” Mr. Ryan said stiffly.
+
+“I love that. I love that,” Mr. Biden said.
+“This was such a bad program, and he writes me a letter saying — writes the Department of Energy a letter saying, the reason we need this stimulus — it will create growth and jobs.”
+
+When Mr. Biden went after Mr. Romney’s infamous remark at a private fund-raiser about the “47 percent,” Mr. Ryan reminded the vice president of his own propensity for gaffes.
+“I think the vice president very well knows that sometimes the words don’t come out of your mouth the right way,” he said with a gotcha smile.
+Mr. Biden was not quite as amused.
+
+Mr. Biden was not the only one in the room intent on rectifying his predecessor’s mistakes.
+Martha Raddatz of ABC News was the moderator, and she made a point of speaking forcefully, pushing the candidates to be specific and changing subjects abruptly.
+She seemed determined to be less passive and sleepy than Jim Lehrer of PBS was as moderator of the Obama-Romney debate.
+
+Mr. Ryan made a point of praising Mr. Romney, even trying to soften his image by recounting a time when Mr. Romney gave money and attention to a couple whose children were badly injured in a car accident.
+It wasn’t the best example to use, because it prompted Mr. Biden to describe his own tragedy, when his wife and young daughter were killed in a car crash.
+
+A version of this article appears in print on October 12, 2012, on page A16 of the New York edition with the headline: Night of Withering Ripostes, Mostly Delivered by Biden.
+
+SUMMARY: 
+
+In the vice presidential debate, Joe Biden came out swinging, using his old friend Lloyd Bentsen's 1988 playbook to paint Paul Ryan as a latter-day Dan Quayle. Biden's sharp and spirited performance was a reboot for the Obama campaign after President Obama's dismal debate performance last week. Biden relished his role, addressing Ryan as "my friend" while dismissing his arguments as "malarkey." He laughed at Ryan's remarks, often and heartily, making him seem like a guest at a comedy club roast. Ryan, on the other hand, seemed disconcerted by Biden's blowhard intensity. The debate was marked by Biden's patronizing grins and withering retorts, which left Ryan looking abashed. The moral of the story is that Biden's aggressive and condescending approach paid off, allowing him to dominate the debate and rescue the Obama campaign.
+
+END OF SUMMARY.
+
+Example 3 (Political Ideology: Right, Moral Foundations: Authority/Subversion, Care/Harm, Fairness/Cheating, Loyalty/Betrayal):
+Here is the news article:
+
+President Trump’s immigration compromise package to end the partial government shutdown drew sharp reactions from Democratic and Republican lawmakers alike.
+
+In a televised White House address on Saturday afternoon, Trump offered Democrats a three-year extension of protections for 700,000 Deferred Action for Childhood Arrivals (DACA) recipients, in exchange for the $5.7 billion he has been seeking for a barrier along the nation's southern border with Mexico.
+
+“Our immigration system should be a source of pride ... not a source of shame as it is all over the world,” Trump said in his plea.
+
+The president’s proposal was met with disdain from an array of top Democratic lawmakers.
+Many used the same language in their critiques, accusing Trump of holding the government and federal workers "hostage."
+
+House Speaker Nancy Pelosi, D-Calif., tweeted, “What we didn’t hear from the President was any sympathy for the federal workers who face so much uncertainty because of the chaos of the #TrumpShutdown.”
+
+Before Trump made his announcement, Pelosi had called his anticipated proposal “a non-starter.”
+
+“For one thing, this proposal does not include the permanent solution for the Dreamers and TPS recipients that our country needs and supports.”
+
+For his part, Chuck Schumer, the Senate minority leader, called Trump's proposal "one-sided and ineffective."
+
+"It's clear the President realizes that by closing the government and hurting so many American workers and their families, he has put himself and the country in an untenable position.
+Unfortunately, he keeps putting forward one-sided and ineffective remedies.
+There's only one way out: open the government, Mr. President, and then Democrats and Republicans can have a civil discussion and come up with bipartisan solutions."
+
+Schumer, D-N.Y., concluded, "It was the President who single-handedly took away DACA and TPS protections in the first place – offering some protections back in exchange for the wall is not a compromise but more hostage taking."
+
+House Majority Leader Steny Hoyer shared a similar sentiment, urging Trump and Sen. Mitch McConnell to "stop holding government hostage and end the shutdown" immediately.
+
+“The president must stop holding government hostage and end the shutdown so federal employees can get back to work serving the American people.
+There is no reason for Americans to be shut out of work and without a paycheck while negotiations take place on the best way to secure our borders,” he said.
+
+Hoyer said negotiation can progress after the government reopens.
+
+“With the government open, we can negotiate an agreement to strengthen border security that both sides can support and that is in the best interests of the American people.”
+
+Another leading Dem, Sen. Kristen Gillibrand of New York, who announced her White House bid on Jan. 15 in an episode of "The Late Show with Stephen Colbert," said Trump's offer was a "bad deal."
+
+Gillibrand tweeted: "Trump ordered the end of DACA and TPS.
+Then he shut down the government.
+Now he's holding federal workers hostage, saying he'll temporarily give back what he took away -- only if we give him a pointless, ineffective wall he falsely promised Mexico would pay for.
+This is a bad deal."
+
+Then there was New Jersey Sen. Bob Menendez's response. He bluntly accused Trump of forcing "a pointless shutdown" to pay for the border wall.
+
+"This is about more than 800,000 Americans who are being held hostage by a President who has forced a pointless shutdown to pay for an expensive, ineffective wall.
+This is not about immigration.
+Dreamers and TPS recipients are not bargaining chips.
+It's unacceptable that after taking away DACA protections, eliminating the TPS program for thousands of immigrants and creating a humanitarian crisis at the border, President Trump is offering temporary solutions in exchange for a permanent wall."
+
+The Democratic senator also said "a legitimate negotiation" can proceed after the government is reopened.
+
+Fellow Democratic Sen. Chris Coons of Delaware slammed McConnell for refusing "to meaningfully negotiate with Senate Democrats," but also called Trump's offer "a first step toward comprehensive immigration reform."
+
+"This senseless government shutdown is hurting millions of Americans, and its impacts are only getting worse. The President should re-open the government so that Republicans and Democrats in Congress can work with the White House to find a sensible solution on border security and immigration.
+I am confident that a reasonable compromise can be reached, but not while President Trump continues to keep significant parts of the government shut down and Leader McConnell refuses to meaningfully negotiate with Senate Democrats," he said.
+
+"Some relief for Dreamers and an extension of Temporary Protected Status represent a first step toward comprehensive immigration reform, but more ideas from members of both parties should be taken up and debated.
+Republicans and Democrats stand ready to work toward a solution, but the fact remains that there is no reason to have large parts of the federal government shut down while we debate appropriate border security and immigration policies."
+
+Republican lawmakers, at the opposite end of the reaction spectrum, praised the president for his willingness to negotiate.
+
+Senate Majority Leader McConnell, for instance, commended the president "for taking bipartisan steps toward addressing current immigration issues."
+
+In his statement, he said; “Compromise in divided government means that everyone can’t get everything they want every time.
+The president’s proposal reflects that.
+It strikes a fair compromise by incorporating priorities from both sides of the aisle."
+
+“This bill takes a bipartisan approach to re-opening the closed portions of the federal government.
+It pairs the border security investment that our nation needs with additional immigration measures that both Democrat and Republican members of Congress believe are necessary.
+Unlike the bills that have come from the House over the past few weeks, this proposal could actually resolve this impasse.
+It has the full support of the President and could be signed into law to quickly reopen the government."
+
+Republican Whip Steve Scalise called on Democrats to match Trump's willingness to negotiate.
+
+"The time for political games has long passed.
+Democrats must put their personal dislike of the president aside, end their obstruction, and finally come to the negotiating table.
+It's time Democrats do what is right for the functioning and security of our nation and agree to a deal that opens our government, and includes funding for a border wall and other measures to solve this serious immigration crisis at our southern border," he said in a statement.
+
+Also on the Republican side, Sen. Susan Collins of Maine said she was "hopeful" for a "constructive debate" with Democrats.
+
+“Compromise is not a sign of weakness — it’s a sign of strength, particularly when hundreds of thousands of families are being harmed.
+The Administration, Senate Republicans, and Democrats must now resolve this stalemate before 800,000 federal workers and their families miss yet another paycheck, and our economy is further damaged,” she said.
+
+Sen. Mitt Romney, R-Utah, whose views on the president and his policies have fluctuated, said Trump "put forth a reasonable, good faith proposal that will reopen the government and help secure the border."
+
+He tweeted, "I look forward to voting for it and will work to encourage my Republican and Democratic colleagues to do the same.
+
+Earlier, while speaking in Ogden, Utah, Romney said he did not understand Pelosi's position on border security.
+
+"You (Pelosi) and your fellow Democrats have voted for over 600 miles of border fence in the past, why won't you vote for another few miles now? I don't understand their position, I really don't," the Republican senator said.
+
+Florida Sen. Marco Rubio took a positive view of Trump's proposed deal, like his fellow Republicans.
+He said Trump made "a very reasonable offer" and urged Democrats to work with him.
+
+“The way to end this shutdown is for both sides to make mutual concessions in order to reach an agreement.
+The president has made a very reasonable offer to extend DACA and TPS protections in exchange for the border security measures he supports.
+I hope that instead of choosing the road of endless obstruction, Democrats will decide to work with him to reach an agreement and end the shutdown,” he said.
+
+Likewise, House Republican Leader Kevin McCarthy called the president's immigration offer "reasonable."
+
+McCarthy tweeted: "President Trump has put forward a serious and reasonable offer to reform parts of our broken immigration system and reopen government.
+The moment now turns to Nancy Pelosi and Chuck Schumer. The country is watching."
+
+
+SUMMARY:
+
+President Trump's immigration compromise package to end the partial government shutdown has been met with sharp reactions from Democratic and Republican lawmakers. Trump offered Democrats a three-year extension of protections for 700,000 Deferred Action for Childhood Arrivals (DACA) recipients in exchange for the $5.7 billion he has been seeking for a barrier along the nation's southern border with Mexico. Democratic lawmakers, including House Speaker Nancy Pelosi and Senate Minority Leader Chuck Schumer, have accused Trump of holding the government and federal workers "hostage" and have rejected his proposal, calling it "one-sided" and "ineffective." They argue that Trump is using DACA recipients as "bargaining chips" and that his proposal does not provide a permanent solution for Dreamers and TPS recipients. Republican lawmakers, on the other hand, have praised Trump for his willingness to negotiate and have called on Democrats to match his willingness to find a compromise.
+
+END OF SUMMARY.
+
+Now, here is the target news article to summarize:
+Here is the news article:
+
+Donald Trump announced Tuesday that he is bowing out as the moderator for a Republican presidential debate later this month, after most candidates in the field opted not to attend. Trump said he wanted to make sure there's no "conflict of interest" in case he decides to run as a third-party candidate next year. He cast his decision as a way to keep his options open. He said later on Fox News that he's still considering an independent bid. "I am looking at it, if the Republicans choose the wrong candidate, which is a possibility, and if the economy continues to be bad, which I think it will be," Trump said. The real estate mogul and reality TV star said he wants to make sure Republicans pick the "right" candidate -- he said he still plans to make an endorsement despite his threatened third-party run. Though the Dec. 27 debate technically is sponsored by Newsmax, Trump quickly became the face of it after he was named as moderator. While former House Speaker Newt Gingrich and former Pennsylvania Sen. Rick Santorum agreed to attend early on, other Republican candidates subsequently bowed out. Some expressed concern that Trump, who previously flirted with a possible Republican presidential bid before shelving the idea, would not definitively rule out running as a third-party candidate. Trump on Tuesday specifically cited Republican National Committee Chairman Reince Priebus' concerns about his involvement. He said he does not expect Newsmax to follow through with the debate now that he's out. "We would have done very well. We would have gotten great ratings," Trump said, voicing his trademark confidence. Trump first announced his debate decision in a written statement Tuesday afternoon. "It is very important to me that the right Republican candidate be chosen to defeat the failed and very destructive Obama administration, but if that Republican, in my opinion, is not the right candidate, I am not willing to give up my right to run as an independent candidate," he said. "Therefore, so that there is no conflict of interest within the Republican Party, I have decided not to be the moderator of the Newsmax debate. ... I must leave all of my options open because, above all else, we must make America great again!" Trump went on to praise Gingrich and Santorum for "having the courage, conviction, and confidence" to agree to the debate.
+
+For this target article, the author's moral framing heavily relies on the following Moral Foundation dimensions: Authority/Subversion.
+Please pay special attention to preserving the moral framing related to these specific dimensions (Authority/Subversion) in your summary.
+
+The summary has to be returned after a "SUMMARY:" token and ending with a "END OF SUMMARY." token. The summary should be no longer than 200 words.

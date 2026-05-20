@@ -1,0 +1,225 @@
+You have to summarize the following text preserving the moral framing that the author gave to it.
+
+Please study the following examples of news articles, their moral word extraction, and summaries preserving the moral framing:
+
+Example 1 (Political Ideology: Left):
+Here is the news article:
+
+Donald Trump has blocked the former White House counsel Don McGahn from testifying before Congress about the special counsel report on Russian election interference, prompting sharp criticism and even threats of impeachment.
+
+In a legal opinion released on Monday, the justice department said lawmakers on Capitol Hill cannot compel McGahn, who was subpoenaed by the House judiciary committee, to answer their questions under oath.
+
+“The Department of Justice has provided a legal opinion stating that, based on long-standing, bipartisan, and constitutional precedent, the former counsel to the president cannot be forced to give such testimony, and Mr McGahn has been directed to act accordingly,” the White House press secretary, Sarah Sanders, said in a statement.
+
+Trump must turn over financial records to House, judge rules – live
+
+“This action has been taken in order to ensure that future presidents can effectively execute the responsibilities of the office of the presidency.”
+
+McGahn is a central figure in special counsel Robert Mueller’s report, often standing in the way of Trump’s efforts to obstruct justice.
+According to investigators, McGahn threatened to resign when the president ordered him to have Mueller fired.
+
+McGahn was also dispatched by Trump to convince the former attorney general Jeff Sessions not to recuse himself from overseeing the Russia investigation.
+(Sessions did not heed the president’s demands.)
+
+Travelling to a rally in Pennsylvania, Trump was asked why he was asking McGahn to defy a congressional subpoena.
+“Well, as I understand it, they’re doing that for the office of the presidency, for future presidents,” he replied, according to a pool report.
+“I think it’s a very important precedent.
+And the attorneys say that they’re not doing that for me.
+They’re doing it for the office of the president.
+So we’re talking about the future.”
+
+The White House’s intervention was condemned by Jerry Nadler, the Democratic chairman of the judiciary committee.
+“The Mueller report documents a shocking pattern of obstruction of justice,” he said in a statement.
+“The president acted again and again – perhaps criminally – to protect himself from federal law enforcement.
+
+“Don McGahn personally witnessed the most egregious of these acts.
+President Trump knows this.
+He clearly does not want the American people to hear firsthand about his alleged misconduct, and so he has attempted to block Mr McGahn from speaking in public tomorrow.”
+
+The move is the latest example of the Trump administration’s “disdain for the law”, added Nadler, who said the committee will meet as planned on Tuesday morning and still expects McGahn to appear.
+
+Another Democratic member of the committee, David Cicilline, went further in his criticism, suggesting that impeachment of Trump would be warranted if McGahn did not respond to the subpoena.
+
+“Let me be clear: if Don McGahn doesn’t testify, it is time to open an impeachment inquiry,” he told the MSNBC network.
+“The president has engaged in an ongoing effort to impede our ability find the truth, to collect evidence, to do our work … No one is above the law, including the president of the United States.”
+
+Cicilline admitted he did not know if his view was shared by other members of Democratic leadership but added: “We may well be forced into a position to have to open a formal inquiry in order to facilitate the collection of the evidence that we need to see.”
+
+The justice department’s legal opinion does not prevent McGahn testifying if he so chooses, although it would be potentially at risk to his own career.
+Trump has mused about instructing Republicans to cease dealing with his law firm, Jones Day, the Associated Press reported.
+
+William Barr is acting like Trump's henchman
+
+Matthew Miller, former director of the office of public affairs for the justice department, tweeted: “Just show up and testify, McGahn.
+This isn’t about some garden-variety Congressional-executive branch dispute, but as one of your predecessors described it, a cancer on the presidency.
+Think about your place in history.”
+
+McGahn was subpoenaed by Nadler last month and, under instruction by the White House, failed to meet an initial deadline to appear before the committee.
+Nadler threatened to hold McGahn in contempt of Congress if he did not meet a second deadline of 21 May.
+
+McGahn, who left the White House last year, has increasingly become the subject of Trump’s ire following the release of the redacted Mueller report.
+Last week, the president tweeted he was “never a big fan” of McGahn and suggested it was the former White House counsel, and not Mueller, who was on his chopping block at the time of the investigation.
+
+The Trump administration has repeatedly blocked attempts at oversight by the Democratic-controlled House.
+Last month it instructed the former personnel security director Carl Kline not to testify at a hearing into alleged lapses in White House security clearance procedures.
+Last week the treasury secretary, Steven Mnuchin, refused to comply with a congressional subpoena to hand over Trump’s tax returns.
+
+Nadler’s committee has previously voted to hold the attorney general, William Barr, in contempt for refusing to provide the unredacted Mueller report and underlying evidence to Congress.
+
+STEP 1:
+* obstruction
+* justice
+* criminal
+* misconduct
+* disdain
+* law
+* truth
+* impede
+* above
+* cancer
+* contempt
+
+SUMMARY:
+Donald Trump has blocked former White House counsel Don McGahn from testifying before Congress about the special counsel report on Russian election interference, sparking sharp criticism and even threats of impeachment. The move is the latest example of the Trump administration's "disdain for the law" and an attempt to "impede" the collection of evidence. McGahn is a central figure in the report, having threatened to resign when Trump ordered him to have Mueller fired. Democrats condemned the move, with Jerry Nadler saying it's part of a "shocking pattern of obstruction of justice" and David Cicilline suggesting that impeachment would be warranted if McGahn didn't respond to the subpoena. The Trump administration has repeatedly blocked attempts at oversight, showing a blatant disregard for the "law" and the "truth". END OF SUMMARY.
+
+Example 2 (Political Ideology: Center):
+Here is the news article:
+
+Listening to Michael R. Bloomberg rage about Donald J. Trump in his speech at the Democratic National Convention this week — labeling him a public menace and hinting that he was not quite sane — it would be easy to think that the two billionaires had a rift going back many years.
+
+“Trump says he wants to run the nation like he’s run his business,” Mr. Bloomberg said on Wednesday.
+“God help us.”
+
+But in all their time in New York City, their interactions have been limited, yet cordial, according to people who know both of them.
+
+They existed in different circles of New York’s ultrarich: Mr. Bloomberg is known as a generous philanthropist; Mr. Trump appears to have been flinty in his giving.
+Mr. Bloomberg is a supporter of the arts and aligns himself with Manhattan’s sophisticated cultural scene; Mr. Trump relishes in being crude.
+
+Mr. Bloomberg made his billions in finance and technology; Mr. Trump got his start in real estate before becoming a casino magnate and then a reality-show celebrity.
+Mr. Bloomberg is not overly ostentatious for a man of great wealth; Mr. Trump loves to show off his possessions.
+
+“I’ve been by Mike’s side for 19 years, and I’ve never met Donald Trump,” said Kevin Sheekey, an adviser to Mr. Bloomberg, underscoring the extent to which the men were not close.
+“Trump hasn’t been part of the business, political or charitable community since the Koch administration.
+The only place Mike and Donald would have seen each other is on a golf course or on a TV set.”
+
+On at least a few occasions, Mr. Bloomberg and Mr. Trump met up on the golf links.
+In 2007, when Mr. Bloomberg was in the second of his three terms as mayor, the two played together in a charity event at Trump National Golf Club in the city’s northern suburbs.
+An article in New York magazine described how Mr. Trump, Mr. Bloomberg, the comedian Billy Crystal and the former New York Yankees manager Joe Torre were set to play together in the lead foursome — but could not agree on who would go first.
+
+“How about the mayor starts it off in honor of the city?” Mr. Trump was quoted as saying, playing peacemaker and showing deference to Mr. Bloomberg.
+
+Mr. Bloomberg also appeared twice on Mr. Trump’s reality TV show, “The Apprentice,” in 2004 and 2008, in part as a way to demonstrate support for the show, which was produced in New York.
+
+And the men have a filial connection: acquaintances said that Mr. Bloomberg’s daughter Georgina is friends with Mr. Trump’s daughter Ivanka.
+
+Mr. Trump, an avid user of Twitter, made positive comments about Mr. Bloomberg when he was in office.
+“Mike Bloomberg is doing a great job as mayor of New York City,” he posted in 2012.
+
+In 2013, he praised Mr. Bloomberg’s administration for choosing him to finish a stalled Bronx golf course project, and then wrote on Twitter about a ribbon-cutting with the mayor.
+
+In 2014, Mr. Trump tweeted congratulations at Georgina for winning an equestrian tournament.
+
+But the cordiality dissipated not long after Mr. Trump declared his candidacy.
+Mr. Bloomberg began exploring his own presidential bid, as an independent, in part to block Mr. Trump from being elected.
+And when Mr. Bloomberg ruled out running, he did so because he said he did not want his third-party candidacy to siphon enough votes to help Mr. Trump.
+
+“As a former Republican presidential campaign manager told me, Hillary has some baggage, but Trump is crazy,” said Mr. Sheekey, who was involved in Mr. Bloomberg’s explorative bid.
+“And you can’t fix crazy.”
+
+Mr. Trump, typically, has not shied away from counterattacks.
+In a CNN interview in January, Mr. Trump voiced skepticism that Mr. Bloomberg was worth as much as Forbes magazine estimated and speculated that Mr. Bloomberg’s company, which provides data terminals to financial firms and wealthy individuals, was vulnerable to competitors.
+
+“We used to be friends,” Mr. Trump told CNN.
+“I guess we’re not friends anymore.”
+
+STEP 1:
+* menace
+* sane
+* generous
+* flinty
+* sophisticated
+* crude
+* ostentatious
+* charitable
+* crazy
+
+SUMMARY:
+Michael R. Bloomberg, a generous philanthropist, labeled Donald J. Trump a "public menace" and hinted that he was not quite sane in his speech at the Democratic National Convention. Despite their cordial interactions in the past, Bloomberg's words reveal a deep moral divide between the two billionaires. Bloomberg, a supporter of the arts, aligns himself with Manhattan's sophisticated cultural scene, whereas Trump relishes in being crude. Their differences extend to their business practices, with Bloomberg making his billions in finance and technology, and Trump getting his start in real estate and becoming a casino magnate and reality-show celebrity. The cordiality between them dissipated when Trump declared his candidacy, and Bloomberg began exploring his own presidential bid to block Trump from being elected. Trump, known for his counterattacks, has not shied away from criticizing Bloomberg, but the latter's words suggest that Trump's behavior is "crazy" and cannot be fixed. END OF SUMMARY.
+
+Example 3 (Political Ideology: Right):
+Here is the news article:
+
+President Trump on Monday called the criminal case against former national security adviser Michael Flynn “very unfair,” claiming he and Hillary Clinton both “lied” to the FBI but only Flynn faced consequences.
+
+The president’s comments, made to reporters as he left Washington for a policy announcement in Utah, saw Trump wading deeper into the Flynn investigation even after a weekend tweet landed the White House in hot water.
+
+On Monday, Trump said he feels “badly” for Flynn, who pleaded guilty on Friday to giving false statements to the FBI about his Russia contacts.
+
+“Hillary Clinton lied many times to the FBI, nothing happened to her. Flynn lied and they destroyed his life,” Trump said. 
+
+The president, without offering specifics, said his 2016 Democratic rival “lied many times” during her FBI interview in early July.
+
+“Nothing happened to her. Flynn lied and it’s like they ruined his life. Very unfair,” Trump said, echoing a weekend tweet in which he asked whether a “double standard” was at play.
+
+Clinton was interviewed by FBI agents as part of the investigation into her exclusive use of a private email system while secretary of state. 
+
+After that interview, then-FBI Director James Comey called her actions extremely careless without recommending criminal charges.
+
+Trump also noted over the weekend that Clinton was not recorded or under oath during that interview.
+
+On Sunday, Sen. Lindsey Graham, R-S.C., suggested Trump might want to think twice before tweeting and commenting on the Russia case. 
+
+“You tweet and comment regarding ongoing criminal investigations at your own peril,” he said on CBS’ “Face the Nation.”
+
+This was after Trump’s account tweeted Saturday: “I had to fire General Flynn because he lied to the Vice President and the FBI. 
+
+He has pled guilty to those lies. 
+
+It is a shame because his actions during the transition were lawful. 
+
+There was nothing to hide!”
+
+That tweet immediately caused problems for the White House, as some legal experts said it potentially exposed the president to obstruction of justice allegations – since, according to the tweet, he would have known Flynn lied to agents when he allegedly asked Comey to lay off the Flynn investigation and later fired Comey. 
+
+Trump said earlier this year that he fired Flynn only for lying to Vice President Pence about the issue.
+
+Trump’s personal lawyer John Dowd later said he was the one who wrote that tweet, saying he “did not mean to break news.”
+
+Dowd attempted to explain Sunday that the tweet was referring to then-acting Attorney General Sally Yates telling White House Counsel Don McGahn in January that Flynn had “given the agents the same story he gave the vice president.”
+
+He also said the agents seemed to think Flynn was confused. 
+
+“All the president knew was that the department was not accusing him of lying,” Dowd said.
+
+Trump over the weekend denied that he asked Comey to stop investigating Flynn.
+
+Sen. Dianne Feinstein, D-Calif., the top Democrat on the Senate Judiciary Committee, said on NBC’s “Meet the Press” on Sunday that the panel has begun to see "the putting together of a case of obstruction of justice" against Trump.
+
+Flynn is now cooperating with Special Counsel Robert Mueller’s investigators in the Russia meddling case, though it’s unclear what exactly he might reveal about Trump and his associates.
+
+
+
+STEP 1:
+* unfair
+* lied
+* destroyed
+* ruined
+* extremely
+* careless
+* shame
+* lawful
+* nothing
+* peril
+* obstruction
+* justice
+
+SUMMARY:
+President Trump claimed the criminal case against Michael Flynn is "very unfair" and that Flynn's life was "ruined" because he lied to the FBI, whereas Hillary Clinton "lied many times" and faced no consequences. Trump's comments sparked controversy, with some legal experts suggesting his tweets could be seen as obstruction of justice. Trump's personal lawyer, John Dowd, attempted to clarify the situation, but Senator Dianne Feinstein stated that the Senate Judiciary Committee is building a case of obstruction of justice against Trump. Meanwhile, Flynn is cooperating with Special Counsel Robert Mueller's investigators in the Russia meddling case. Trump's comments have raised questions about a "double standard" and whether he is trying to influence the investigation. END OF SUMMARY.
+
+Now, here is the target news article to summarize:
+Here is the news article:
+
+Michael Cohen’s prepared opening statement for his testimony before the House Oversight Committee Wednesday is out — and wow, is it a doozy. The New York Times obtained Cohen’s statement and posted it online early Wednesday morning. Perhaps Cohen’s most explosive claim is that he heard Roger Stone tell Donald Trump about WikiLeaks founder Julian Assange’s plans to release hacked emails during the presidential campaign — the most direct allegation yet that Trump was in the loop about WikiLeaks’ plans. Special counsel Robert Mueller has been investigating this issue, and has attributed the theft of these emails to Russian intelligence officers. Cohen makes further claims, with varying levels of corroboration, about Trump’s awareness of the Trump Tower Moscow discussions, the potential setup for Donald Trump Jr.’s meeting with a Russian lawyer at Trump Tower in New York, purported racist remarks Trump made in private, and various dirty work Cohen did on Trump’s behalf. According to the opening statement, Cohen also plans to present a copy of a check personally signed by Trump in August 2017 — while Trump was president — to pay Cohen back for the hush money payoff to porn actress Stormy Daniels. Cohen was Trump’s loyal personal attorney and “fixer” for more than a decade before he came under investigation last year and had a bitter falling-out with his former boss. Cohen ended up pleading guilty to financial crimes, bank fraud, campaign finance violations, and lying to Congress. He was sentenced to three years in prison, and he’s scheduled to begin serving that sentence in May. With no further reason to keep Trump’s secrets, Cohen now seems to want to spill all he knows about Trump, under oath. But of course, he’s already admitted lying to Congress in the past, so he’ll be challenged to corroborate his statements. Cohen’s big Russia claim Cohen plans to say that although he does not have “direct evidence that Mr. Trump or his campaign colluded with Russia,” he certainly has his “suspicions.” Most dramatically, Cohen plans to say for the first time publicly that he overheard a call between Trump and Stone on speakerphone in which they discussed WikiLeaks. His account has a few specifics: That this call took place in July 2016, days before the Democratic convention That Roger Stone claimed to Trump that “he had just gotten off the phone with Julian Assange” — an allegation that Stone was directly in touch with WikiLeaks That Stone went on to claim that, per Assange, there would soon be “a massive dump of emails that would damage Hillary Clinton’s campaign” (in Cohen’s phrasing). This would have been shortly before WikiLeaks began posting the Democratic National Committee’s hacked emails — emails that, per Mueller, were hacked by Russian intelligence officers. The question of what, exactly, Stone knew about WikiLeaks’ plans regarding email leaks has been a mystery for some time. And Mueller’s recent indictment of Stone for lying to Congress did not entirely clear up the matter: The special counsel cited emails in which Stone was trying to get in touch with Assange, but didn’t make any definitive claims about what Stone learned. But here, Cohen is claiming that Stone seemed to know something, that Stone claimed to have gotten information to Assange directly, and that Stone was telling Trump himself about all this. (Stone has in the past denied doing all of these things.) Is this “collusion”? The answer may be in the eye of the beholder. Cohen is not alleging that Trump did anything regarding the hacked emails. But this is yet another allegation that someone in Trump’s camp seemed to be aware, to some extent, of Assange’s plans. Of course, so far we only have Cohen’s word on this. On other topics, Cohen’s opening statement claims: Trump encouraged him to publicly make misleading claims about talks to build a Trump Tower in Moscow. Trump “did not directly” tell him to lie to Congress about Trump Tower Moscow (contra a recent BuzzFeed report). Cohen saw Donald Trump Jr. tell his father about setting up a meeting during the campaign (Cohen claims this may be the infamous meeting with a Russian lawyer at Trump Tower, but can’t prove it). Trump once asked Cohen if he “could name a country run by a black person that wasn’t a ‘shithole.”’ Michael Cohen testifies before the House Oversight Committee Michael Cohen – former attorney to President Trump – will answer key questions about Trump's business practices and hush money payments. The hearing promises to be explosive.
+
+(1) First, you identify all the single words that are morally framed. Identify this step as "STEP 1:" and report each word in a new line starting with *
+(2) Finally, you write a summary of the news article. Please preserve as many morally framed words as possible in your summary. The summary has to be returned after a "SUMMARY:" token and ending with a "END OF SUMMARY." token. The summary should be no longer than 200 words.

@@ -1,0 +1,123 @@
+You have to summarize the following text preserving the moral framing that the author gave to it, with particular focus on the specific moral foundations highlighted in the text.
+
+Please study the following examples of news articles and their summaries preserving the moral framing:
+
+Example 1 (Political Ideology: Left, Moral Foundations: Fairness/Cheating):
+Here is the news article:
+
+WASHINGTON – Five hundred and eighty-four days after descending his Trump Tower escalator to announce his candidacy, Donald J. Trump took the oath of office Friday to become the 45th president of the United States.
+
+Chief Justice John Roberts administered the 38-word oath at 12:00 p.m., capping Trump’s unlikely journey from New York City real estate developer and reality TV star to the nation’s highest office.
+
+Trump won the Republican nomination against a crowded field of 16 other candidates, many far more experienced in politics.
+But he was able to capitalize on a primary voting base that was angry at the establishment GOP for not more aggressively fighting President Barack Obama’s policies.
+
+He trailed Democratic nominee Hillary Clinton in the general election nearly the entire way.
+In the final month of the race, he was helped by the near daily release of internal Democratic Party emails stolen by Russian hackers as well as by FBI Director James Comey’s decision to reopen, briefly, the probe into Clinton’s use of a private email server.
+
+Trump wound up winning Wisconsin, Michigan and Pennsylvania by a total of 78,000 votes.
+Clinton had counted on winning all three.
+
+SUMMARY:
+
+Donald Trump, a real estate developer and reality TV star, took the oath of office to become the 45th President of the United States, marking the culmination of his unlikely journey. Trump's victory was fueled by the anger of primary voters towards the establishment GOP, which they felt did not adequately oppose President Obama's policies. Despite trailing Democratic nominee Hillary Clinton in the general election, Trump benefited from the release of stolen Democratic Party emails and FBI Director James Comey's decision to reopen the probe into Clinton's email server. Trump ultimately won the presidency by a narrow margin of 78,000 votes in Wisconsin, Michigan, and Pennsylvania, states Clinton had expected to win.
+
+The moral framing of this article suggests that Trump's victory was, in part, a result of exploiting the anger and frustration of voters towards the political establishment, and that his campaign was aided by external factors such as the release of stolen emails and the actions of the FBI director. This framing implies that Trump's presidency was not solely the result of his own merits, but rather the outcome of a complex interplay of factors.
+
+END OF SUMMARY.
+
+Example 2 (Political Ideology: Center, Moral Foundations: Authority/Subversion, Care/Harm, Fairness/Cheating, Sanctity/Degradation):
+Here is the news article:
+
+The Obama Doctrine is a slightly saltier version of “Don’t Do Stupid Stuff.”
+The Bush Doctrine argued for preventive strikes in the interest of self-defense and national security.
+
+And on Wednesday, in a speech before the Council on Foreign Relations in New York, Senator Marco Rubio, Republican of Florida and a 2016 presidential candidate, will outline his own approach to foreign policy.
+
+The Rubio approach, according to excerpts from his speech provided by his campaign, has three main pillars — ensuring American strength; protecting the American economy in a globalized world; and preserving the moral clarity of America’s core values.
+
+Mr. Rubio’s first priority will be to “adequately fund” the nation’s military.
+“This would be a priority even in times of peace and stability, though the world today is neither,” Mr. Rubio is expected to say.
+
+Mr. Rubio, who sits on the Senate Foreign Relations and Senate Intelligence committees, has used his time in Congress to burnish his foreign policy credits and cast himself as a defense hawk: a position that could help him stand out in a crowded primary field.
+
+In his speech, he will promise to use American power “to oppose any violations of international waters, airspace, cyberspace or outer space,” including the “economic disruption caused when one country invades another,” according to excerpts.
+
+And, Mr. Rubio will offer his greater vision of the country’s broader role in the world.
+
+“As president, I will support the spread of economic and political freedom, reinforce our alliances, resist efforts by large powers to subjugate their smaller neighbors, maintain a robust commitment to transparent and effective foreign assistance programs, and advance the rights of the vulnerable, including women and the religious minorities that are so often persecuted, so that the afflicted peoples of the world know the truth: The American people hear their cries, see their suffering and most of all, desire their freedom,” he is expected to say.
+
+SUMMARY:
+
+Senator Marco Rubio is set to outline his foreign policy approach, which prioritizes American strength, economic protection, and moral clarity. Rubio's doctrine emphasizes the need for a robust military, promising to "adequately fund" the nation's defense even in times of peace. He vows to use American power to defend international waters, airspace, and cyberspace, and to resist large powers' attempts to subjugate smaller neighbors. Rubio's vision also includes promoting economic and political freedom, supporting vulnerable groups such as women and religious minorities, and advancing human rights. His approach is framed as a moral imperative, with Rubio stating that the American people "hear their cries, see their suffering and most of all, desire their freedom." This stance is likely to appeal to conservative voters and distinguish Rubio from his presidential rivals.
+
+END OF SUMMARY.
+
+Example 3 (Political Ideology: Right, Moral Foundations: Authority/Subversion, Care/Harm, Fairness/Cheating, Loyalty/Betrayal):
+Here is the news article:
+
+Donald Trump assumed the nation’s highest office Friday as the 45th president of the United States, vowing in a tough inaugural address to restore prosperity and “fight” for the country “with every breath.”
+
+In a succinct speech heavy on populist themes, the new president told Americans across the country they will “never be ignored again” and promised concrete results.
+
+“The time for empty talk is over. Now arrives the hour of action,” he said.
+
+The president addressed a packed crowd of spectators stretching from the Capitol across the National Mall on a mild but overcast and at-times drizzly day, after taking the oath of office along with Vice President Mike Pence. 
+The speech did not delve into policy details, and rather reprised objectives from his 2016 campaign on trade, immigration and national security.
+
+But the address was stitched together, more broadly, by an appeal for a “new national pride” and a rediscovery of American patriotism, as he described this as a salve for the country’s divisions.
+
+“When you open your heart to patriotism, there is no room for prejudice,” he said.
+
+He also rebuked those who have held power in Washington, saying a small group reaped the rewards of government while “the people did not share” in Washington’s wealth.
+
+The address completes Trump’s remarkable journey from political outsider written off by countless Beltway pundits to the most powerful man in the country.
+His campaign manager Kellyanne Conway noted in an earlier interview with Fox News that Trump was “making history” as a businessman with no prior political or military experience – someone successful in the private sector coming to Washington “owing nobody anything.”
+
+In blunt and unvarnished terms similar to the language used during his nomination acceptance address last summer, Trump on Friday lamented the jobs lost to foreign rivals – he described “rusted out factories scattered like tombstones” across the land – and the crime in America’s cities.
+
+“This American carnage stops right here and stops right now,” Trump said.
+
+Trump cast his presidency as a return to power for the people and vowed never to let them down.
+
+“From this day forward, it’s going to be only America first,” Trump said. 
+“I will fight for you with every breath in my body, and I will never, ever let you down. … 
+We will bring back our jobs, we will bring back our borders, we will bring back our wealth and we will bring back our dreams.”
+
+He also vowed to eradicate Islamic terrorism.
+
+Telling the American people this is “your moment” and “your day,” Trump closed his speech with the promise that started it all: “We will make America great again.”
+
+As Barack and Michelle Obama depart the White House after eight years in office, Trump will immediately be confronted with the challenge of governing, as he attempts to apply his CEO experience to running the nation. 
+His team has vowed a “robust” start to the Trump administration, which could include everything from rescinding controversial Obama actions to renegotiating trade deals to repealing and replacing the Affordable Care Act.
+
+An immediate task for the new administration will be to get Trump’s Cabinet nominees confirmed. 
+His advisers have complained that Democrats are slowing the process, and resisting the kind of swift confirmation the Senate gave many of Obama’s nominees in 2009.
+
+Before he spoke on Friday, throngs of protesters were causing disruptions on the edges of the security zone in Washington. 
+Some blocked checkpoints and forced their temporary closure earlier Friday morning, while elsewhere demonstrators resorted to violence and vandalism. 
+They clashed with police later in the afternoon, amid dozens of arrests.
+
+While dozens of House Democrats boycotted Friday’s ceremonies – a move that fueled disputes with Trump’s team over the weekend – other prominent Democrats and past presidents of both parties were in attendance for the transfer of power. 
+Democratic presidential nominee Hillary Clinton, whose loss to Trump marked one of the biggest upsets in modern political history, attended and tweeted shortly before Trump took the oath that she came to “honor our democracy & its enduring values.”
+
+“I will never stop believing in our country & its future,” she wrote.
+
+Donald and Melania Trump met with the Obamas earlier Friday morning after attending a church service in Washington. 
+The new first family headed later to the parade along Pennsylvania Avenue, before an evening of inaugural balls and other festivities.
+
+SUMMARY:
+
+Donald Trump was inaugurated as the 45th President of the United States, vowing to restore prosperity and "fight" for the country "with every breath." In his inaugural address, he promised concrete results and appealed for a "new national pride" and a rediscovery of American patriotism. He rebuked those who have held power in Washington, saying a small group reaped the rewards of government while "the people did not share" in Washington's wealth. Trump cast his presidency as a return to power for the people and vowed never to let them down. He promised to bring back jobs, borders, wealth, and dreams, and to eradicate Islamic terrorism. The address was heavy on populist themes, with Trump saying "the time for empty talk is over. Now arrives the hour of action." Despite protests and disruptions, the transfer of power was peaceful, with prominent Democrats and past presidents in attendance. Trump's presidency marks a remarkable journey from political outsider to the most powerful man in the country.
+
+END OF SUMMARY.
+
+Now, here is the target news article to summarize:
+Here is the news article:
+
+House Judiciary Committee Chairman Jerrold L. Nadler on Monday put a fine point on Democrats’ impeachment case against President Trump, arguing that the president put himself before the country. “We surely agree that no public official, including and especially the president of the United States, should use his public office for private gain,” he said at the opening of an evidentiary hearing before his committee. Based on the evidence presented, the committee will proceed to write articles of impeachment against Mr. Trump. Mr. Nadler, New York Democrat, called the process a “solemn and serious undertaking” that Congress must engage in to address serious threats to America’s institutions, such as “free and fair elections.” He said both sides should be able to agree on the fact of the case if Republicans would remove “their blinders.” “We agree that no president should put himself before the country,” Mr. Nadler said. “The Constitution and his oath of office, his promise to American citizens, require the country’s president to put the country first.” Mr. Trump has denied wrongdoing and denounced the House impeachment drive as a partisan “sham.” The articles of impeachment are expected to include charges of abuse of power, bribery and obstructing the congressional probe, all of which stem from Mr. Trump asking Ukraine to investigate political rival Joseph R. Biden and his son Hunter. Republicans argue that Mr. Trump’s action, though unconventional, did not cross the line into criminality. They’ve also vouched for the legitimacy of investigating Hunter Biden, who landed a $50,000-a-month job on a Ukraine natural gas company, while his father was the point man for Obama White House policy in that graft-riddled country. The impeachment case stems from a July 25 phone call in which Mr. Trump pressed Ukraine President Volodymyr Zelensky for a “favor” in investigating the Bidens and Ukraine meddling in the 2016 election. A whistleblower, who is believed to be a CIA official assigned to the White House, accused the president of abusing his power for personal gain on the call, including withholding $391 million of U.S. military aid from Ukraine as leverage. A rough transcript of the call the White House released in late September did not show the president present a quid pro quo deal for the investigations, but Democrats have argued the threat was understood and part of an ongoing pressure campaign of “shadow” foreign policy conducted by Mr. Trump’s private lawyer, former New York Mayor Rudolph W. Giuliani. The quid pro quo, a Latin term meaning a transaction of “this for that,” is the crux of the Democrats’ case that Mr. Trump engaged in a bribery or extortion scheme that warrants impeachment. The Judiciary Committee is reviewing evidence gathered by an inquiry led by the Permanent Select Committee on Intelligence. Much of the evidence was presented in two weeks of public hearings last month. The most powerful testimony yet in the inquiry came from Gordon Sondland, the ambassador to the European Union, who said he offered a quid pro quo of a prized White House visit for the newly-elected Mr. Zelensky for the investigations. But Mr. Sondland said he “presumed” that was what Mr. Trump wanted. In his only conversation with the president about it, Mr. Trump told him that there was “no quid pro quo,” Mr. Sondland testified. None of the witnesses in the impeachment inquiry linked the holdup of military assistance to the investigations or provided a reason for the holdup. The aid was delayed for about two months, before the money started to flow to Ukraine on Sept. 11, two days after the Inspector General of the Intelligence Community informed Congress of the whistleblower complaint. Mr. Trump has acknowledged that he wanted an investigation into alleged corruption involving Mr. Biden and his son Hunter, who landed a high-paying job on the board of Ukraine natural gas company Burisma Holdings in 2014. At the time, his father was the point man for Obama White House policy in the country, which is notorious for corruption, especially in the energy industry. The elder Mr. Biden recently boasted of forcing Ukraine leaders to fire the country’s chief prosecutor in spring 2016 by threatening to block a $1 billion U.S. loan guarantee. The prosecutor was widely viewed as not doing enough to combat corruption. But the prosecutor, Viktor Shokin, also had looked into corruption allegations against Burisma and Mykola Zlochevsky, the Ukraine oligarch running the company. Mr. Trump also wanted Ukraine to look into a missing Democratic National Committee server that was hacked by Russia during the 2016 presidential campaigns. An American cybersecurity company called CrowdStrike examined the server to probe the hack but the server disappeared before it got to the FBI. Mr. Trump subscribes to an unsubstantiated theory that the server ended up in Ukraine.
+
+For this target article, the author's moral framing heavily relies on the following Moral Foundation dimensions: Authority/Subversion, Fairness/Cheating, Loyalty/Betrayal.
+Please pay special attention to preserving the moral framing related to these specific dimensions (Authority/Subversion, Fairness/Cheating, Loyalty/Betrayal) in your summary.
+
+The summary has to be returned after a "SUMMARY:" token and ending with a "END OF SUMMARY." token. The summary should be no longer than 200 words.

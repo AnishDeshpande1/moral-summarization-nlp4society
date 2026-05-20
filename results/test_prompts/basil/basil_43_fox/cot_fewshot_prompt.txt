@@ -1,0 +1,126 @@
+You have to summarize the following text preserving the moral framing that the author gave to it.
+
+Please study the following examples of news articles, their moral word extraction, and summaries preserving the moral framing:
+
+Example 1 (Political Ideology: Left):
+Here is the news article:
+
+WASHINGTON ― The White House relayed President Donald Trump’s response late Thursday to bombshell allegations that Alabama GOP Senate nominee Roy Moore sexually molested a 14-year-old girl in 1979.
+
+White House press secretary Sarah Huckabee Sanders, traveling with the president on his trip to Asia, told reporters that Trump “believes that we cannot allow a mere allegation ― in this case, one from many years ago ― to destroy a person’s life” but that if the allegations are true, “Judge Moore will do the right thing and step aside.”
+
+A spokesperson for Vice President Mike Pence said the veep “found the allegations in the story disturbing and believes, if true, this would disqualify anyone from serving in office.”
+
+Moore’s campaign denied the allegations, which The Washington Post first reported, telling the paper the accusations of four women are “the very definition of fake news.”
+The Post reporters talked to more than 30 sources in the course of their investigation.
+
+On Thursday, numerous Republican lawmakers on Capitol Hill called on Moore to drop out of the race ― if the allegations are true.
+
+During his 2016 campaign, Trump dismissed allegations of sexual misconduct against himself from more than a dozen women and threatened to sue some of his accusers.
+He claimed that a 2005 tape of him bragging about sexual assault, which was released last fall, was “locker room talk.”
+
+In September, Moore, a controversial judge in Alabama, won the primary for the special election.
+He beat GOP establishment candidate Sen. Luther Strange (R-Ala.), who was chosen to fill the seat left vacant when Jeff Sessions became Trump’s attorney general.
+
+Trump notably backed Strange over Moore, though many members of his base, including former White House chief strategist Steve Bannon, supported Moore.
+
+But after Moore won, Trump disavowed his endorsement of Strange, deleting tweets in support of him.
+And the day after the primary, the president tweeted in support of Moore, calling him “a really great guy.”
+
+STEP 1:
+* disturbing
+* fake
+* allegations
+* true
+* disqualify
+* right
+* mere
+* destroy
+* disturbing
+
+SUMMARY:
+The White House has responded to the bombshell allegations of sexual molestation against Alabama GOP Senate nominee Roy Moore, with President Trump saying that a "mere allegation" from many years ago should not "destroy a person's life". However, if the allegations are "true", Trump believes Moore will "do the right thing and step aside". Vice President Mike Pence found the allegations "disturbing" and believes they would "disqualify" anyone from serving in office if true. The allegations, which Moore's campaign has denied as "fake news", have led to numerous Republican lawmakers calling on Moore to drop out of the race if they are true. This comes after Trump himself was accused of sexual misconduct by over a dozen women during his 2016 campaign, which he dismissed as "locker room talk". END OF SUMMARY.
+
+Example 2 (Political Ideology: Center):
+Here is the news article:
+
+WASHINGTON — It is a lesson politicians never seem to learn from others’ mistakes: The microphone is always on.
+
+The latest candidate to learn the hard way was Representative Bruce Braley, an Iowa Democrat running for Senate this year.
+Mr. Braley apologized to Senator Charles E. Grassley, Republican of Iowa, and “anyone I may have offended” after video emerged of him warning that “a farmer from Iowa who never went to law school, never practiced law” could become chairman of the Judiciary Committee.
+
+Mr. Braley is not running against Mr. Grassley, who plans to seek a seventh term in 2016.
+But as the ranking Republican on the Judiciary Committee, Mr. Grassley could assume the chairmanship if his party takes control of the Senate this year.
+Mr. Braley, speaking at a January fund-raiser in Corpus Christi, Tex., was explaining why he should go to the Senate instead of his Republican opponent.
+
+America Rising, a conservative political action committee that has vowed to use videos and opposition research to attack Democratic candidates, posted the footage on YouTube on Tuesday.
+Other Republicans quickly criticized Mr. Braley.
+
+Though their numbers are declining, farmers are still a powerful force in the Iowa, which ranks second in the country in total farm sales.
+Mr. Braley’s apology noted his family’s history with Iowa agriculture, including his own stint “doing farm jobs and working a grain elevator.”
+
+In another appeal to Iowa farmers, Joni Ernst, a candidate in the Republican Senate primary on June 3, announced in an ad that she grew up “castrating hogs on an Iowa farm.”
+Ms. Ernst said that qualified her to “cut pork” in Washington.
+
+STEP 1:
+* apologized
+* offended
+* warned
+* criticized
+* powerful
+* qualified
+
+SUMMARY:
+Representative Bruce Braley, an Iowa Democrat running for Senate, apologized for his offensive remarks about Senator Charles E. Grassley, a Republican from Iowa. Braley warned that a farmer from Iowa who never went to law school could become chairman of the Judiciary Committee, implying that Grassley was unqualified for the position. The video of Braley's comments was posted on YouTube by America Rising, a conservative political action committee. Braley's apology noted his family's history with Iowa agriculture, but Republicans quickly criticized him for his remarks. In contrast, Joni Ernst, a Republican Senate candidate, highlighted her experience growing up on an Iowa farm, saying it qualified her to "cut pork" in Washington. The incident serves as a lesson to politicians that the microphone is always on, and careless comments can have consequences. END OF SUMMARY.
+
+Example 3 (Political Ideology: Right):
+Here is the news article:
+
+Republican senators kept up pressure on party Chairman Michael Steele Sunday to better explain -- and publicly apologize for -- his on-camera claim that Afghanistan is a "war of Obama's choosing" and may not be winnable.
+
+The backlash built quickly over the weekend as some prominent conservatives called for Steele's resignation.
+Speaking on "Fox News Sunday," Sen. Jim DeMint, R-S.C., would not go that far but said Steele must apologize to the troops.
+
+"Chairman Steele needs to apologize to our military, all the men and women who've been fighting in Afghanistan," he said.
+"This is America's war.
+It's not Obama's war."
+
+The GOP chairman is known for off-the-cuff and occasionally troublesome comments, but the Afghanistan remarks were too much to bear for some war-supporting Republicans.
+
+DeMint, who said Afghanistan is a war the United States must win, said Steele needs to "refocus" on the November election.
+He called Steele's comments "unacceptable" and "inaccurate."
+
+"We need a chairman who's focused," DeMint said.
+
+Speaking on ABC's "This Week," Sen. John McCain, R-Ariz., said Steele's comments were "wildly inaccurate."
+
+The Arizona Republican said Steele needs to assess whether he can still function in his job and must make "an appropriate decision" about his future.
+
+Trying to quell the furor, Steele issued a statement saying: "There is no question that America must win the war on terror.
+... And, for the sake of the security of the free world, our country must give our troops the support necessary to win this war."
+
+He sent an e-mail to RNC members saying he hoped his statement would "clear up any confusion" caused by his earlier remarks.
+
+That didn't seem to quiet the controversy in the slightest.
+Weekly Standard Editor Bill Kristol, who led the charge of conservatives calling for Steele to step down over the remark, said on "Fox News Sunday" that Steele still needs to go -- though he said Steele tried to convince him otherwise.
+
+"I think it would be better if he went," he said.
+
+STEP 1:
+* unacceptable
+* inaccurate
+* wildly
+* appropriate
+
+SUMMARY:
+Republican senators are calling for party Chairman Michael Steele to apologize for his "unacceptable" and "inaccurate" comments that Afghanistan is a "war of Obama's choosing" and may not be winnable. Sen. Jim DeMint demanded an apology to the troops, stating that Afghanistan is "America's war" and not Obama's. DeMint and Sen. John McCain deemed Steele's remarks "wildly inaccurate" and urged him to "refocus" on the November election. Steele's attempt to clarify his statement did little to quell the controversy, with Weekly Standard Editor Bill Kristol leading the charge for Steele's resignation. Kristol believes it would be "better" if Steele stepped down. The backlash highlights the importance of a chairman who is "focused" and supportive of the troops. Steele's future as chairman remains uncertain.
+
+END OF SUMMARY.
+
+Now, here is the target news article to summarize:
+Here is the news article:
+
+Iowa Democratic Rep. Bruce Braley is under fire after a video surfaced Tuesday of him mocking Sen. Chuck Grassley, R-Iowa, as a “farmer from Iowa who never went to law school” — in the middle of Braley’s campaign for Senate in the state known for its agriculture industry. Braley apologized for the remarks in a written statement after the video was released. He said he “respects” Grassley and proclaimed his support for Iowa’s farmers. “I have tremendous respect for Iowa farmers and appreciate how important they are to our state, and I’m grateful to have the support of hundreds of farmers across Iowa,” he said. The video, which was posted online by the conservative super PAC America Rising, apparently shows Braley speaking to a group of lawyers at a fundraiser in Texas. Braley says if elected to the Senate to replace retiring Democratic Sen. Tom Harkin, he would want to serve on the Senate Judiciary Committee. He said Grassley, though, would likely become chairman of that committee if Republicans take the Senate. “To put this in stark contrast, if you help me win this race you may have someone with your background, your experience, your voice, someone who’s been literally fighting tort reform for thirty years, in a visible or public way, on the Senate Judiciary Committee,” he said. “Or, you might have a farmer from Iowa who never went to law school, never practiced law, serving as the next chair of the Senate Judiciary Committee.” A spokesperson for Grassley fired back Tuesday, telling FoxNews.com that by Braley’s logic he, as a trial lawyer, would not be eligible to speak out on a number of policy issues like agriculture, energy or health care. The spokesperson also touted Grassley’s “strong record” on the judiciary committee. “Alongside that, Sen. Grassley’s one of only two working family farmers in the United States Senate, where he brings Iowa common sense to work for ag, anti-trust, transportation, environmental, energy, trade, health care, communications, national security, and tax policy that works for all of America,” the aide said.
+
+(1) First, you identify all the single words that are morally framed. Identify this step as "STEP 1:" and report each word in a new line starting with *
+(2) Finally, you write a summary of the news article. Please preserve as many morally framed words as possible in your summary. The summary has to be returned after a "SUMMARY:" token and ending with a "END OF SUMMARY." token. The summary should be no longer than 200 words.

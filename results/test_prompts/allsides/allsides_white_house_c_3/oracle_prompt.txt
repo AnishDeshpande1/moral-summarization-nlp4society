@@ -1,0 +1,30 @@
+You have to summarize the following text preserving the moral framing that the author gave to it.
+
+Here is the news article:
+
+WASHINGTON — With the announcement on Saturday that the U.S. and Russia have reached an agreement on securing Syria's chemical weapons stockpile, the American threat of U.S. military action was effectively taken off the table. After more than two weeks of saber-rattling — and an unsuccessful effort by President Obama to win congressional and public support for a limited military strike — it was a last-minute diplomatic push led by the Russians that saved the day. But the Obama administration is wading into the deal — which will undoubtedly be scrutinized by a Congress that is distrustful of Russian President Vladimir Putin and Syrian President Bashar Assad — with eyes wide open. "The international community expects the Assad regime to live up to its public commitments," Obama said in a statement Saturday afternoon. "While we have made important progress, much more work remains to be done." Secretary of State John Kerry was even more blunt about U.S. caution. "We have committed to a standard that says verify and verify," Kerry said at news conference in Geneva, where he and his Russian counterpart, Sergey Lavrov, announced the framework of the agreement to secure and destroy the Syrian chemical weapons stockpile. In previous comments, Obama has made clear that trusting the Russians and Assad will not be easy. The president's relationship with Putin is famously tense, with the two sparring over Syria policy and Putin's decision to give temporary asylum to former National Security Agency contractor Edward Snowden after he leaked a treasure trove of classified information on U.S. intelligence surveillance practices. And the Russian president didn't engender any American confidence when he penned a commentary in The New York Times earlier this week in which he slammed Obama for speaking of American exceptionalism in making his case for military action against Syria and made the dubious claim that the rebels were responsible for chemical attacks against it own people. "We are not just going to take Russia and Assad's word for it. We need to see concrete actions to demonstrate that Assad is serious about giving up his chemical weapons," Obama said in his weekly radio address that aired Saturday morning and was taped ahead of the deal being announced. Among the fine details of the deal, which was hatched out over three days by Kerry and Lavrov, are: Syria's chemical weapons stockpile must be removed or destroyed by 2014, international inspections will begin by November, and the Syrians will offer full disclosure of its arsenal within a week. The two sides also agreed that any potential violations by the Syrians would be taken to the United Nations Security Council — where the Russians have veto power — for response. That element of the deal allows both sides to claim that they stood their ground on potential use of force for further violations by the Assad regime. Putin said it was unrealistic for the Americans to call on Assad to hand over weapons when facing the threat of military action, while Obama has refused to cede his authority to take such action. If the framework is implemented, it would meet Obama's goals of taking away the Assad regime's ability to conduct another chemical attack. But the White House will have a harder time making its case that it truly held Assad responsible for carrying out the brutal Aug. 21 attack that killed 1,400 Syrian civilians on the outskirts of Damascus. Sen. Bob Corker of Tennessee, the top Republican on the Senate Foreign Relations Committee, said that under the terms of agreement "Syria's willingness to follow through is very much an open question." The deal is far from perfect, and requires the administration to take a leap of faith in trusting the Syrians and Russians to keep their part of the deal. But for Obama, it offered the best way out of his unpopular call for military action. "Obama is a winner on this substantively, but the optics on this are bad," said Jim Walsh, an expert on international security at the Massachusetts Institute of Technology's security studies program. "Syria doesn't get bombed, and Assad is happy about that. The Russians are winners because they look like they are birthing a diplomatic solution to what was going to be another war in the Middle East. "Obama is not going to get credit for this because of his critics at home, but on the substance it is a win," Walsh added. After the last two weeks, the White House will take it.
+
+The author used the following morally framed words in the article:
+* push
+* progress
+* secure
+* destroy
+* leaked
+* claim
+* attacks
+* see
+* removed
+* destroyed
+* inspections
+* disclosure
+* violations
+* refused
+* taking
+* attack
+* responsible
+* killed
+* birthing
+* war
+* win
+
+Please preserve as many morally framed words as possible in your summary. The summary has to be returned after a "SUMMARY:" token and ending with a "END OF SUMMARY." token. The summary should be no longer than 200 words.

@@ -1,0 +1,210 @@
+You have to summarize the following text preserving the moral framing that the author gave to it.
+
+Please study the following examples of news articles and their summaries preserving the moral framing:
+
+Example 1 (Political Ideology: Left):
+Here is the news article:
+
+Donald Trump has blocked the former White House counsel Don McGahn from testifying before Congress about the special counsel report on Russian election interference, prompting sharp criticism and even threats of impeachment.
+
+In a legal opinion released on Monday, the justice department said lawmakers on Capitol Hill cannot compel McGahn, who was subpoenaed by the House judiciary committee, to answer their questions under oath.
+
+“The Department of Justice has provided a legal opinion stating that, based on long-standing, bipartisan, and constitutional precedent, the former counsel to the president cannot be forced to give such testimony, and Mr McGahn has been directed to act accordingly,” the White House press secretary, Sarah Sanders, said in a statement.
+
+Trump must turn over financial records to House, judge rules – live
+
+“This action has been taken in order to ensure that future presidents can effectively execute the responsibilities of the office of the presidency.”
+
+McGahn is a central figure in special counsel Robert Mueller’s report, often standing in the way of Trump’s efforts to obstruct justice.
+According to investigators, McGahn threatened to resign when the president ordered him to have Mueller fired.
+
+McGahn was also dispatched by Trump to convince the former attorney general Jeff Sessions not to recuse himself from overseeing the Russia investigation.
+(Sessions did not heed the president’s demands.)
+
+Travelling to a rally in Pennsylvania, Trump was asked why he was asking McGahn to defy a congressional subpoena.
+“Well, as I understand it, they’re doing that for the office of the presidency, for future presidents,” he replied, according to a pool report.
+“I think it’s a very important precedent.
+And the attorneys say that they’re not doing that for me.
+They’re doing it for the office of the president.
+So we’re talking about the future.”
+
+The White House’s intervention was condemned by Jerry Nadler, the Democratic chairman of the judiciary committee.
+“The Mueller report documents a shocking pattern of obstruction of justice,” he said in a statement.
+“The president acted again and again – perhaps criminally – to protect himself from federal law enforcement.
+
+“Don McGahn personally witnessed the most egregious of these acts.
+President Trump knows this.
+He clearly does not want the American people to hear firsthand about his alleged misconduct, and so he has attempted to block Mr McGahn from speaking in public tomorrow.”
+
+The move is the latest example of the Trump administration’s “disdain for the law”, added Nadler, who said the committee will meet as planned on Tuesday morning and still expects McGahn to appear.
+
+Another Democratic member of the committee, David Cicilline, went further in his criticism, suggesting that impeachment of Trump would be warranted if McGahn did not respond to the subpoena.
+
+“Let me be clear: if Don McGahn doesn’t testify, it is time to open an impeachment inquiry,” he told the MSNBC network.
+“The president has engaged in an ongoing effort to impede our ability find the truth, to collect evidence, to do our work … No one is above the law, including the president of the United States.”
+
+Cicilline admitted he did not know if his view was shared by other members of Democratic leadership but added: “We may well be forced into a position to have to open a formal inquiry in order to facilitate the collection of the evidence that we need to see.”
+
+The justice department’s legal opinion does not prevent McGahn testifying if he so chooses, although it would be potentially at risk to his own career.
+Trump has mused about instructing Republicans to cease dealing with his law firm, Jones Day, the Associated Press reported.
+
+William Barr is acting like Trump's henchman
+
+Matthew Miller, former director of the office of public affairs for the justice department, tweeted: “Just show up and testify, McGahn.
+This isn’t about some garden-variety Congressional-executive branch dispute, but as one of your predecessors described it, a cancer on the presidency.
+Think about your place in history.”
+
+McGahn was subpoenaed by Nadler last month and, under instruction by the White House, failed to meet an initial deadline to appear before the committee.
+Nadler threatened to hold McGahn in contempt of Congress if he did not meet a second deadline of 21 May.
+
+McGahn, who left the White House last year, has increasingly become the subject of Trump’s ire following the release of the redacted Mueller report.
+Last week, the president tweeted he was “never a big fan” of McGahn and suggested it was the former White House counsel, and not Mueller, who was on his chopping block at the time of the investigation.
+
+The Trump administration has repeatedly blocked attempts at oversight by the Democratic-controlled House.
+Last month it instructed the former personnel security director Carl Kline not to testify at a hearing into alleged lapses in White House security clearance procedures.
+Last week the treasury secretary, Steven Mnuchin, refused to comply with a congressional subpoena to hand over Trump’s tax returns.
+
+Nadler’s committee has previously voted to hold the attorney general, William Barr, in contempt for refusing to provide the unredacted Mueller report and underlying evidence to Congress.
+
+SUMMARY:
+
+The Trump administration has sparked outrage by blocking former White House counsel Don McGahn from testifying before Congress about the special counsel report on Russian election interference. The Justice Department claims that lawmakers cannot compel McGahn to answer questions under oath, citing "long-standing, bipartisan, and constitutional precedent." Critics argue that this move is a blatant attempt to obstruct justice and protect Trump from accountability. Democratic leaders have condemned the administration's "disdain for the law" and threatened impeachment if McGahn does not respond to the subpoena. The move is seen as a dangerous precedent that undermines the rule of law and the separation of powers. As one expert noted, this is not just a "garden-variety Congressional-executive branch dispute," but a "cancer on the presidency." The administration's repeated attempts to block oversight and stonewall investigations have raised serious concerns about its commitment to transparency and accountability.
+
+END OF SUMMARY.
+
+Example 2 (Political Ideology: Center):
+Here is the news article:
+
+WASHINGTON — The special counsel investigating Russian interference in the 2016 election disputed on Friday a report that said President Trump had directed Michael D. Cohen, his longtime lawyer and fixer, to lie to Congress about his role in negotiations to build a skyscraper in Moscow.
+
+The rare public statement by a spokesman for the special counsel, Robert S. Mueller III, challenged the facts of an article published by BuzzFeed News on Thursday saying that Mr. Cohen had told prosecutors about being pressured by the president before his congressional testimony.
+
+“BuzzFeed’s description of specific statements to the special counsel’s office, and characterization of documents and testimony obtained by this office, regarding Michael Cohen’s congressional testimony are not accurate,” said the spokesman, Peter Carr.
+
+Before Mr. Carr’s statement, the BuzzFeed report led to a flurry of reactions by senior members of Congress who said that the allegations, if true, could be grounds for initiating impeachment proceedings against Mr. Trump.
+
+The president himself responded on Twitter late Friday, calling the special counsel’s statement “a very sad day for journalism, but a great day for our Country!”
+
+A proven effort by Mr. Trump to pressure a witness to commit perjury would be one of the most damning revelations so far in the investigation into Russia’s attempts to sabotage the 2016 presidential election and could be the cornerstone of a case that the president obstructed justice to keep investigators at bay.
+
+Both the White House and lawyers for Mr. Trump vigorously denied the BuzzFeed report even before the special counsel’s office weighed in.
+
+“Two words sum it up better than anything anybody else can say, and that is ’categorically false,’” the White House press secretary, Sarah Huckabee Sanders, told reporters on Friday.
+
+BuzzFeed News maintained that its report was accurate, its editor, Ben Smith, said after Mr. Mueller’s office disputed the account.
+“We stand by our reporting and the sources who informed it, and we urge the Special Counsel to make clear what he’s disputing,” Mr. Smith said on Twitter.
+
+The statement by Mr. Carr, the special counsel’s spokesman, was unusual because it appeared to be the first time he had publicly challenged the facts of a news media account that had generated significant attention for its revelations about the president.
+
+The New York Times has not independently confirmed the BuzzFeed report.
+One person familiar with Mr. Cohen’s testimony to the special counsel’s prosecutors said that Mr. Cohen did not state that the president had pressured him to lie to Congress.
+
+Representative Adam B. Schiff, Democrat of California and chairman of the House Intelligence Committee, said that his panel would investigate the BuzzFeed report and was “already working to secure additional witness testimony and documents related to the Trump Tower Moscow deal and other investigative matters.”
+
+If true, Mr. Schiff said, the allegations “would constitute both the subornation of perjury as well as obstruction of justice.”
+
+Representative Joaquin Castro of Texas, another Democratic member of the House Intelligence Committee, wrote in a tweet that “if the @BuzzFeed story is true, President Trump must resign or be impeached.”
+
+Senator Mark Warner of Virginia, the top Democrat on the Senate Intelligence Committee, told reporters on Friday that the panel expected Mr. Cohen to be back to testify privately in early February.
+
+The report added another jolt to a chaotic week for the White House, which has had to fend off questions about recent revelations that F.B.I. counterintelligence agents began investigating Mr. Trump in 2017 and that Mr. Trump has tried to conceal the details from senior administration officials about his interactions with President Vladimir V. Putin of Russia.
+
+In a December court filing, prosecutors working for Mr. Mueller described how Mr. Cohen had repeatedly lied to Congress both about the length of negotiations over the Trump Tower Moscow deal and about Mr. Trump’s involvement in the project.
+
+Mr. Cohen had told lawmakers that the negotiations ended in January 2016 — before the first presidential primaries — and were never discussed extensively among executives of the Trump Organization.
+In fact, according to prosecutors, the discussions continued as late as June 2016, after Mr. Trump was the presumptive Republican presidential nominee.
+
+They also said Mr. Cohen discussed the progress of the Moscow project with Mr. Trump more frequently than he had told the committee and had briefed members of Mr. Trump’s family about the negotiations.
+
+When he appeared in court to plead guilty to lying to Congress, Mr. Cohen said he had concealed his interactions with Russian officials and the fact that he asked Mr. Trump to travel to Russia to promote the deal because he wanted to support Mr. Trump’s “political messaging.”
+
+That day, Mr. Trump defended his role in the Trump Tower Moscow discussions, brushing aside concerns that he was advancing his business interests at the time he was hoping to become president.
+“There was a good chance that I wouldn’t have won, in which case I would have gotten back into the business, and why should I lose lots of opportunities?” he told reporters.
+
+Mr. Cohen drafted his statement to Congress in August 2017 along with Steven Ryan, his lawyer at the time, according to people familiar with how the testimony was put together.
+Mr. Ryan was working with lawyers for the Trump family as part of a joint defense agreement.
+
+At least one of Mr. Trump’s personal lawyers saw Mr. Cohen’s congressional testimony before he delivered it in August and October 2017, according to people with knowledge of the discussions.
+
+Mr. Cohen initially repeated his false statements about the Moscow tower to prosecutors working for Mr. Mueller after he pleaded guilty in August to campaign finance violations and financial crimes.
+But he corrected himself during subsequent interviews and proved credible, the special counsel’s office said in a December sentencing memo.
+
+Mr. Cohen said he initially lied because he did not want to contradict his congressional testimony, prosecutors said.
+Subsequently, he took care “not to overstate his knowledge or the role of others in the conduct under investigation” and provided “useful information” about his contacts with “persons connected to the White House” in 2017 and 2018, the special counsel’s filing said.
+
+That truthfulness was a departure from Mr. Cohen’s pattern of deception throughout his professional life, according to a separate sentencing memo by federal prosecutors in New York, filed at the same time as Mr. Mueller’s.
+Driven by greed, they said, he “repeatedly used his power and influence for deceptive ends.”
+
+Mr. Cohen was sentenced in December to three years in prison for lying to Congress, campaign finance violations and financial crimes.
+He said he took full responsibility for his crimes, but said he acted out of blind loyalty to Mr. Trump, who he said “led me to choose a path of darkness over light.”
+
+During his nomination hearing this week to become attorney general, William P. Barr was asked if the president would have committed a crime if he had coached a witness to testify falsely — or not to testify at all.
+
+“Yes,” Mr. Barr said. “Under an obstruction statute, yes.”
+
+SUMMARY:
+
+The special counsel, Robert Mueller, disputed a BuzzFeed News report that claimed President Trump directed his lawyer, Michael Cohen, to lie to Congress about his role in negotiations to build a Trump Tower in Moscow. The report sparked outrage, with some lawmakers calling for impeachment proceedings if the allegations were true. However, Mueller's office stated that the report's description of specific statements and documents obtained by the office were "not accurate." The White House and Trump's lawyers also denied the report. The controversy highlights the ongoing investigation into Russian interference in the 2016 election and potential obstruction of justice by Trump. The moral implications are clear: if true, Trump's actions would constitute subornation of perjury and obstruction of justice, which would be a grave breach of trust and a threat to the rule of law.
+
+END OF SUMMARY.
+
+Example 3 (Political Ideology: Right):
+Here is the news article:
+
+The resurgent controversy over the Obama administration's initial story-line on the Benghazi attack underscores State Department concerns about the leadership's failure to act on documented warnings and security incidents.
+
+Draft "talking points" obtained by The Weekly Standard and ABC News depicted efforts by State Department spokeswoman Victoria Nuland in the days after the attack to strip out references to prior attacks in Benghazi.
+According to the excerpts, she argued that the administration should not give Congress ammunition to "beat up" on her department.
+
+During a press conference Monday, President Obama even acknowledged that the country now knows that "clearly (the staff in Benghazi) were not in a position where they were adequately protected."
+
+A review of now-public State Department records as well as a classified State Department cable, first reviewed and reported by Fox News, shows a steady stream of documented warnings to Washington from intelligence and State security officials on the ground in Libya that the Islamist threat was severe and growing.
+
+One of the most significant warnings was an August 2012 State Department classified cable, which has not been made public, that summarized an emergency meeting in Benghazi where the CIA briefed on the significant threat of terrorist activity.
+
+The cable, sent under Ambassador Chris Stevens' signature and marked SECRET, warned the office of Secretary of State Clinton that the CIA advised "ten Islamist militias and AQ training camps (were) within Benghazi."
+
+The cable also warned that the 17 February Brigade, the group charged with protecting the consulate, appeared to be compromised.
+It said "requests to provide a daily police presence have gone unanswered," adding there was also a "lack of host nation security support to the US mission."
+
+In addition to identifying the presence of Al Qaeda and Ansar al-Sharia in Benghazi, the groups ultimately blamed for the assault, a key section of the cable, which remains classified, seemed to foreshadow the attack itself.
+
+"RSO (Regional Security Officer) expressed concerns with the ability to defend Post in the event of a coordinated attack due to limited manpower, security measures, weapons capabilities, host nation support, and the overall size of the compound," it said.
+
+During congressional hearings in January, Clinton was asked whether she had seen the cable by Republican Rep. Michael McCaul.
+Clinton said she had no knowledge of the warning which former diplomatic security agents have told Fox News amounted to a "cry for help."
+
+"Congressman, that cable did not come to my attention," Clinton testified before the House Foreign Affairs committee.
+"I have made it very clear that the security cable did not come to my attention or above the assistant secretary level where the ARB (Accountability Review Board) placed responsibility where, as I think, Ambassador Pickering said the rubber hit the road."
+
+In February, Republican Sen. Lindsey Graham followed up on the classified cable.
+
+After the chairman of the Joint Chiefs of Staff confirmed he knew about the cable which summarized the August emergency meeting in Benghazi, Graham questioned why the military was read in when Clinton apparently was not.
+
+Gen. Martin Dempsey responded: "Well, I don't know that she didn't know about the cable."
+
+Graham said: "She said she didn't. Are you stunned that she didn't?"
+
+Dempsey said: "I would call myself surprised that she didn't."
+
+In addition to attacks in Benghazi on the British ambassador -- which forced the temporary closure of the U.K. operation -- the International Red Cross and United Nations, in the summer of 2012 the group Ansar al-Sharia was so well-established it held an annual conference in Benghazi to promote Islamic law.
+
+Records released by the House oversight committee, including a report from the regional security officer, also documented more than 200 cases of violence in Libya in the year leading up to the attack, specifically between June 2011 and July 2012.
+Another security review, on June 25, 2012, reported a spike in violence with "foreigners also increasingly targeted."
+
+While much has been made of the State Department's failure to respond to repeated security requests for extra help, a former diplomatic security agent and 20-year veteran of the department, who reviewed the publicly available documents on the condition of anonymity, told Fox News the multiple warnings present a compelling argument that State Department leadership was negligent.
+
+The State Department, in a document put out last week, noted that while an internal review found certain senior officials "demonstrated a lack of proactive leadership and management ability" in response to security concerns, there was no specific finding of misconduct.
+
+SUMMARY:
+
+The Obama administration's handling of the Benghazi attack has sparked controversy, with concerns over the State Department's failure to act on documented warnings and security incidents. Classified cables and records reveal a steady stream of warnings from intelligence and security officials on the ground in Libya, highlighting the severe and growing Islamist threat. A significant August 2012 cable warned of Al Qaeda and Ansar al-Sharia's presence in Benghazi, and foreshadowed the attack. Despite this, Secretary of State Clinton claimed she had no knowledge of the warning, which former diplomatic security agents deem a "cry for help." The State Department's internal review found senior officials demonstrated a "lack of proactive leadership and management ability" in response to security concerns, but no misconduct. The administration's failure to prioritize security and protect American lives is a grave moral failure, underscoring a lack of accountability and responsibility.
+
+END OF SUMMARY.
+
+Now, here is the target news article to summarize:
+Here is the news article:
+
+President Trump on Saturday said he appreciates FBI special counsel Robert Mueller releasing a statement disputing parts of a BuzzFeed news report claiming Trump directed Michael Cohen to lie to Congress about the timing of discussions over a proposed Trump Tower project in Moscow. “I thought that the BuzzFeed piece -- and maybe equally as bad the coverage of the BuzzFeed phony story -- it was a total phony story, and I appreciate the special counsel coming out with a statement last night, I think it was appropriate that they did so, I appreciate that,” he told reporters. "I think that the BuzzFeed piece was a disgrace to our country, it was a disgrace to journalism and I think also that the coverage by the mainstream media was disgraceful and I think it's going to take a longtime for the mainstream media to recover its credibility," he went on to say.  "It's lost tremendous credibility." BuzzFeed published the story on Thursday, citing two law enforcement officials who said Cohen -- Trump’s former longtime attorney -- acknowledged to Mueller’s office that he was told to lie to Congress about the potential real-estate deal in Moscow, telling Congress that the negotiations ended months before they did so as to conceal Trump’s involvement. The article said that Cohen’s testimony “marks a significant new frontier: It is the first known example of Trump explicitly telling a subordinate to lie directly about his own dealings with Russia.” BuzzFeed also reported that Trump backed a plan, set up by Cohen, to visit Russia during the presidential campaign, meet Russian President Vladimir Putin in person and begin the negotiations. Mueller’s team is investigating alleged Russian interference in the 2016 election and rarely issues statements about the state of the investigation or disputing reports in the press. But on Friday, after Democrats had called for investigations and hinted at impeachment proceedings, the special counsel’s office took the extraordinary step of releasing a statement disputing the article. “BuzzFeed’s description of specific statements to the special counsel’s office, and characterization of documents and testimony obtained by this office, regarding Michael Cohen’s Congressional testimony are not accurate,” Peter Carr, a spokesman for Mueller’s office, said.  It did not offer further details about what it disputed. BuzzFeed’s editor in chief, Ben Smith, later tweeted that “we stand by our reporting and the sources who informed it, and we urge the Special Counsel to make clear what he’s disputing.” Trump’s team had also denied the claims in the article.  Trump himself said Friday evening that the controversy was “a very sad day for journalism, but a great day for our country.” Trump lawyer Rudy Giuliani on Friday also praised Mueller’s office for “correcting the Buzzfeed false story” and asked the press to take heed that their hysterical desire to destroy this President has gone too far.” In a statement Saturday aftternoon, BuzzFeed spokesman Matt Mittenthal doubled down on the organization's defense of its reporting. “As we’ve re-confirmed our reporting, we’ve seen no indication that any specific aspect of our story is inaccurate.  We remain confident in what we’ve reported, and will share more as we are able," he said. 
+
+The summary has to be returned after a "SUMMARY:" token and ending with a "END OF SUMMARY." token. The summary should be no longer than 200 words.
