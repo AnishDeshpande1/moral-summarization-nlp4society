@@ -1,0 +1,177 @@
+You have to summarize the following text preserving the moral framing that the author gave to it.
+
+Please study the following examples of news articles, their moral word extraction, and summaries preserving the moral framing:
+
+Example 1 (Political Ideology: Left):
+Here is the news article:
+
+WASHINGTON ― The White House relayed President Donald Trump’s response late Thursday to bombshell allegations that Alabama GOP Senate nominee Roy Moore sexually molested a 14-year-old girl in 1979.
+
+White House press secretary Sarah Huckabee Sanders, traveling with the president on his trip to Asia, told reporters that Trump “believes that we cannot allow a mere allegation ― in this case, one from many years ago ― to destroy a person’s life” but that if the allegations are true, “Judge Moore will do the right thing and step aside.”
+
+A spokesperson for Vice President Mike Pence said the veep “found the allegations in the story disturbing and believes, if true, this would disqualify anyone from serving in office.”
+
+Moore’s campaign denied the allegations, which The Washington Post first reported, telling the paper the accusations of four women are “the very definition of fake news.”
+The Post reporters talked to more than 30 sources in the course of their investigation.
+
+On Thursday, numerous Republican lawmakers on Capitol Hill called on Moore to drop out of the race ― if the allegations are true.
+
+During his 2016 campaign, Trump dismissed allegations of sexual misconduct against himself from more than a dozen women and threatened to sue some of his accusers.
+He claimed that a 2005 tape of him bragging about sexual assault, which was released last fall, was “locker room talk.”
+
+In September, Moore, a controversial judge in Alabama, won the primary for the special election.
+He beat GOP establishment candidate Sen. Luther Strange (R-Ala.), who was chosen to fill the seat left vacant when Jeff Sessions became Trump’s attorney general.
+
+Trump notably backed Strange over Moore, though many members of his base, including former White House chief strategist Steve Bannon, supported Moore.
+
+But after Moore won, Trump disavowed his endorsement of Strange, deleting tweets in support of him.
+And the day after the primary, the president tweeted in support of Moore, calling him “a really great guy.”
+
+STEP 1:
+* disturbing
+* fake
+* allegations
+* true
+* disqualify
+* right
+* mere
+* destroy
+* disturbing
+
+SUMMARY:
+The White House has responded to the bombshell allegations of sexual molestation against Alabama GOP Senate nominee Roy Moore, with President Trump saying that a "mere allegation" from many years ago should not "destroy a person's life". However, if the allegations are "true", Trump believes Moore will "do the right thing and step aside". Vice President Mike Pence found the allegations "disturbing" and believes they would "disqualify" anyone from serving in office if true. The allegations, which Moore's campaign has denied as "fake news", have led to numerous Republican lawmakers calling on Moore to drop out of the race if they are true. This comes after Trump himself was accused of sexual misconduct by over a dozen women during his 2016 campaign, which he dismissed as "locker room talk". END OF SUMMARY.
+
+Example 2 (Political Ideology: Center):
+Here is the news article:
+
+Larry Summers, the outgoing chairman of the National Economic Council, just told a group of reporters that failure to pass a package like the tax deal announced by President Obama this week “would significantly increase the risk” of a double-dip recession.
+
+Mr. Summers made the remarks at a briefing with the White House press secretary Robert Gibbs and David Axelrod, the president’s top political adviser.
+The administration has been pushing back hard against criticism from fellow Democrats that the president has caved too much to Republicans.
+
+In brief remarks after meeting with President Bronislaw Komorowski of Poland, Mr. Obama on Wednesday emphatically disputed that Democrats generally feel betrayed by his deal with Congressional Republicans on the tax cuts, saying that “the more who look at it, the more will say this makes sense.”
+
+“I just think it’s very important for Congress to examine the agreement, look at the facts, have a thorough debate, but get this done.
+The American people are watching, and they’re expecting action on our parts,” Mr. Obama said.
+“I don’t think we need to translate that.”
+
+In a joint appearance at the White House with Mr. Komorowski, Mr. Obama said that “economists across the country have upwardly revised their forecasts for growth” after the tax deal was announced on Monday night.
+
+Vice President Joseph R. Biden Jr. planned to return to Capitol Hill this afternoon to meet with House Democrats as President Obama and the White House sought to quell the uproar among liberals about the tax deal.
+
+Officials said Mr. Biden will travel to the Hill around 4:30 p.m. in an attempt to sell the compromise Mr. Obama announced this week.
+It will be the second time in two days that Mr. Biden has served as the liaison-in-chief for the White House.
+
+Mr. Biden’s visit and the president’s comments come as the administration’s message machine started churning out statements of support.
+
+To counter condemnations from some Democrats in Congress, the White House circulated a series of e-mails quoting endorsements from private-sector economic forecasters, liberal as well as conservative analysts, and Democratic officeholders, including an obscure freshman House member, Representative Gary Peters of Michigan.
+
+By noon, the White House press office had released supportive comments from Antonio Villaraigosa, the mayor of Los Angeles, and Mr. Peters.
+The Democratic National Committee alerted reporters that Jennifer Granholm, the Democratic governor of Michigan, also supports the deal.
+
+John Podesta, a former chief of staff to President Bill Clinton and a close ally of Mr. Obama, issued a statement calling the tax deal “a steep price” but saying the president was “right to choose helping working Americans over a December conflagration.” 
+The Democratic National Committee also sent that statement around to reporters.
+
+David Axelrod, the president’s chief political adviser, said on CNN’s “American Morning” that middle-class Americans were “going to get screwed” if their tax cuts were not extended at the end of the year.
+
+The administration was quick to highlight comments from Mark Zandi, chief economist for Moody’sEconomy.com, projecting that the Obama tax deal would increase economic growth next year by 1.25 percentage points and create 1.6 million jobs.
+Macroeconomic Advisors, Deutsche Bank and Goldman Sachs projected smaller increases but no less than at least 0.5 percentage point.
+That is on top of projections that currently are in the range of 2 percent to 3 percent.
+
+But the public relations offensive is being met with public expressions of outrage from Mr. Obama’s base, including the most liberal members of Congress and spokesmen for interest groups on the left.
+
+Close to three dozen House Democrats have signed a letter from Representative Peter Welch, Democrat of Vermont, calling the tax deal “fiscally irresponsible” and “grossly unfair.”
+The letter says Mr. Obama “should not back down. Nor should we.”
+
+Mr. Biden’s visit with the House Democrats is likely to be as contentious as the one that he led with their Senate colleagues on Tuesday — if not more so.
+
+Despite the closed-door lunchtime meeting, Senate aides told The Times afterward that about 30 Democratic senators remained “firmly opposed” to the president’s negotiated deal after hearing from the vice president.
+
+In the House, Democratic lawmakers said Wednesday morning that the sense of disappointment with the president remained strong.
+
+“I don’t think it was preordained that if we had a deadlock, they would have won it,” said Representative Barney Frank, Democrat of Massachusetts, in an interview on MSNBC.
+“I’m not going to vote for it.
+I don’t feel that I should be coerced.”
+
+STEP 1:
+* betrayed
+* caved
+* fiscally
+* irresponsible
+* grossly
+* unfair
+* coerced
+
+SUMMARY:
+Outgoing National Economic Council Chairman Larry Summers warned that failing to pass the tax deal would significantly increase the risk of a double-dip recession. President Obama disputed claims that Democrats feel betrayed by his deal with Congressional Republicans, saying that "the more who look at it, the more will say this makes sense." However, many Democrats remain outraged, calling the deal "fiscally irresponsible" and "grossly unfair." Despite the administration's efforts to sell the compromise, including Vice President Biden's meeting with House Democrats, around 30 Democratic senators and close to three dozen House Democrats remain firmly opposed to the deal. Some, like Representative Barney Frank, feel coerced into voting for it. The White House has countered with endorsements from economic forecasters and Democratic officeholders, but the deal's fate remains uncertain. END OF SUMMARY.
+
+Example 3 (Political Ideology: Right):
+Here is the news article:
+
+The resurgent controversy over the Obama administration's initial story-line on the Benghazi attack underscores State Department concerns about the leadership's failure to act on documented warnings and security incidents.
+
+Draft "talking points" obtained by The Weekly Standard and ABC News depicted efforts by State Department spokeswoman Victoria Nuland in the days after the attack to strip out references to prior attacks in Benghazi.
+According to the excerpts, she argued that the administration should not give Congress ammunition to "beat up" on her department.
+
+During a press conference Monday, President Obama even acknowledged that the country now knows that "clearly (the staff in Benghazi) were not in a position where they were adequately protected."
+
+A review of now-public State Department records as well as a classified State Department cable, first reviewed and reported by Fox News, shows a steady stream of documented warnings to Washington from intelligence and State security officials on the ground in Libya that the Islamist threat was severe and growing.
+
+One of the most significant warnings was an August 2012 State Department classified cable, which has not been made public, that summarized an emergency meeting in Benghazi where the CIA briefed on the significant threat of terrorist activity.
+
+The cable, sent under Ambassador Chris Stevens' signature and marked SECRET, warned the office of Secretary of State Clinton that the CIA advised "ten Islamist militias and AQ training camps (were) within Benghazi."
+
+The cable also warned that the 17 February Brigade, the group charged with protecting the consulate, appeared to be compromised.
+It said "requests to provide a daily police presence have gone unanswered," adding there was also a "lack of host nation security support to the US mission."
+
+In addition to identifying the presence of Al Qaeda and Ansar al-Sharia in Benghazi, the groups ultimately blamed for the assault, a key section of the cable, which remains classified, seemed to foreshadow the attack itself.
+
+"RSO (Regional Security Officer) expressed concerns with the ability to defend Post in the event of a coordinated attack due to limited manpower, security measures, weapons capabilities, host nation support, and the overall size of the compound," it said.
+
+During congressional hearings in January, Clinton was asked whether she had seen the cable by Republican Rep. Michael McCaul.
+Clinton said she had no knowledge of the warning which former diplomatic security agents have told Fox News amounted to a "cry for help."
+
+"Congressman, that cable did not come to my attention," Clinton testified before the House Foreign Affairs committee.
+"I have made it very clear that the security cable did not come to my attention or above the assistant secretary level where the ARB (Accountability Review Board) placed responsibility where, as I think, Ambassador Pickering said the rubber hit the road."
+
+In February, Republican Sen. Lindsey Graham followed up on the classified cable.
+
+After the chairman of the Joint Chiefs of Staff confirmed he knew about the cable which summarized the August emergency meeting in Benghazi, Graham questioned why the military was read in when Clinton apparently was not.
+
+Gen. Martin Dempsey responded: "Well, I don't know that she didn't know about the cable."
+
+Graham said: "She said she didn't. Are you stunned that she didn't?"
+
+Dempsey said: "I would call myself surprised that she didn't."
+
+In addition to attacks in Benghazi on the British ambassador -- which forced the temporary closure of the U.K. operation -- the International Red Cross and United Nations, in the summer of 2012 the group Ansar al-Sharia was so well-established it held an annual conference in Benghazi to promote Islamic law.
+
+Records released by the House oversight committee, including a report from the regional security officer, also documented more than 200 cases of violence in Libya in the year leading up to the attack, specifically between June 2011 and July 2012.
+Another security review, on June 25, 2012, reported a spike in violence with "foreigners also increasingly targeted."
+
+While much has been made of the State Department's failure to respond to repeated security requests for extra help, a former diplomatic security agent and 20-year veteran of the department, who reviewed the publicly available documents on the condition of anonymity, told Fox News the multiple warnings present a compelling argument that State Department leadership was negligent.
+
+The State Department, in a document put out last week, noted that while an internal review found certain senior officials "demonstrated a lack of proactive leadership and management ability" in response to security concerns, there was no specific finding of misconduct.
+
+STEP 1:
+* negligent
+* failure
+* compromised
+* inadequate
+* lack
+* beat
+* failed
+* cry
+* responsibility
+* negligent
+
+SUMMARY:
+The Obama administration's initial story-line on the Benghazi attack has resurfaced, highlighting the State Department's failure to act on documented warnings and security incidents. Draft "talking points" show efforts to strip out references to prior attacks, with spokeswoman Victoria Nuland arguing that the administration should not give Congress "ammunition to beat up" on her department. Classified cables reveal a steady stream of warnings from intelligence and State security officials on the ground in Libya, including a significant warning in August 2012 that summarized an emergency meeting in Benghazi, where the CIA briefed on the severe and growing Islamist threat. The cable warned of inadequate security measures, limited manpower, and a lack of host nation support, foreshadowing the attack. The State Department's leadership has been accused of being negligent, with a former diplomatic security agent arguing that the multiple warnings present a compelling argument for negligence. END OF SUMMARY.
+
+Now, here is the target news article to summarize:
+Here is the news article:
+
+WASHINGTON –- The White House on Wednesday released the full set of emails surrounding the Obama administration’s development of talking points describing the Sept. 11, 2012, attack on the U.S. outpost in Benghazi, Libya, in response to continuing charges from congressional Republicans that there was a massive political “cover-up” of what transpired there. Nothing in the emails supports theories that the talking points were changed in order to influence the 2012 election. In a briefing with reporters at the White House on Wednesday afternoon, senior administration officials used the 100 pages of emails to show that a number of government agencies, not just the State Department, drove many of the changes to the talking points that were ultimately used by U.N. Ambassador Susan Rice. The cache of emails paint a fuller picture than did an email leaked earlier this week, which portrayed a State Department concerned about its public image. Republican lawmakers have argued that the State Department and the White House were attempting to alter the talking points for political reasons and ignored suggestions and language put forward by the CIA. In particular, they pointed to the fact that references to al Qaeda and previous security warnings were removed. But senior administration officials stressed on Wednesday that such language in fact was taken out at the request of the CIA. Critics have said the role of State Department spokeswoman Victoria Nuland in revising the talking points in particular shows an administration trying to protect its reputation as being tough on terrorism. They have criticized Nuland for requesting to remove a line from the final draft noting that there had been "at least five other attacks against foreign interests in Benghazi by unidentified assailants." Nuland said in a Sept. 14 email that she didn't want that information included because it "could be abused by members [of Congress] to beat up the State Department for not paying attention to warnings, so why would we want to feed that either? Concerned ..." But senior administration officials on Wednesday said that Michael J. Morell, then the deputy director of the CIA, also wanted that line removed, separately from Nuland. Morell believed it was irrelevant to the message of the talking points -- what happened in Benghazi -- and unprofessional to include those warnings but not allow State Department officials to include how they had responded to them. Separate from Wednesday's document release, the CIA recently conducted an internal review of how and why the talking points were changed -- a move that also came in response to the continuing questions from Congress. That review showed that many changes were made to the original talking points -- drafted by a senior officer -- over concerns about accuracy, an FBI investigation and other bureaucratic matters. A U.S. intelligence official told The Huffington Post the review was completed "early this year." Senior administration officials, discussing that internal review, relayed that some CIA officials didn't like that the original draft of the talking points said the government "know[s] that Islamic extremists with ties to al-Qa'ida participated in the attack," because at that time it was premature to name those responsible for the attacks. Their concerns at other times were more mundane. For example, CIA officials also decided to change the phrase "attacks in Benghazi ... evolved into a direct assault against the US Consulate" to "demonstrations in Benghazi" because they believed "attacks" and "assault" were synonymous, making the phrase illogical. CIA officers also removed the reference to al Qaeda in order to avoid prejudging the outcome of a FBI investigation into the incident. A reference to another terrorist group, Ansar al-Sharia, was left in, but later removed at the request of the State Department; the CIA agreed with that decision, again so as not to hinder the FBI investigation. The timing of the White House's document release raises its own set of questions. Why, for example, did the administration choose to make the emails public now, after months of enduring criticism and requests for more information? If the material was too sensitive to share publicly months, weeks or days ago, what changed on Wednesday? While the document dump does soften some of the more critical theories that have arisen with respect to the White House's handling of the events in Benghazi, it could also embolden critics who now see an administration willing to accommodate demands for documents. In a response shortly after the emails were made public on Wednesday, Brendan Buck, spokesman for House Speaker John Boehner (R-Ohio), said just that. "The House interim report found that 'senior State Department officials requested the talking points be changed to avoid criticism for ignoring the threat environment in Benghazi' and that those changes were ultimately made," said Buck. "Those findings are confirmed by the emails released today, and they contradict statements made by the White House that it and the State Department only changed one word in the talking points. The seemingly political nature of the State Department’s concerns raises questions about the motivations behind these changes and who at the State Department was seeking them." UPDATE: 9 p.m. -- White House spokesman Eric Schultz said he hoped Wednesday's disclosure would put to rest the Benghazi issue. “Despite the fact that e-mails relating to the Benghazi talking points were made available to members of Congress several months ago, in recent days these e-mails have been selectively and inaccurately read out to the media. To make clear what is and is not in these e-mails, today the White House took the extraordinary step of releasing these e-mails," Schultz said. "You can now see what the Congress has seen -- collectively these emails make clear that the interagency process, including the White House's interactions, were focused on providing the facts as we knew them based on the best information available at the time and protecting an ongoing investigation. After 11 hearings, 25,000 pages of documents, and now this release, we can hopefully spend our time working on what’s important – what we can do together to ensure those serving their nation overseas are better protected than they were last September.”
+
+(1) First, you identify all the single words that are morally framed. Identify this step as "STEP 1:" and report each word in a new line starting with *
+(2) Finally, you write a summary of the news article. Please preserve as many morally framed words as possible in your summary. The summary has to be returned after a "SUMMARY:" token and ending with a "END OF SUMMARY." token. The summary should be no longer than 200 words.

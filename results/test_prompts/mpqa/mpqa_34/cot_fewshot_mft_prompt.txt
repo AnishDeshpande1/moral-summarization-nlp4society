@@ -1,0 +1,145 @@
+You have to summarize the following text preserving the moral framing that the author gave to it, with particular focus on the specific moral foundations highlighted in the text.
+
+Please study the following examples of news articles, their moral word extraction, and summaries preserving the moral framing:
+
+Example 1 (Political Ideology: Left, Moral Foundations: Fairness/Cheating):
+Here is the news article:
+
+President Donald Trump used Twitter to tear into social media companies Saturday morning, claiming they were “totally discriminating against Republican/Conservative voices.”
+
+But he does have a solution. Sort of.
+And it involves both sides.
+
+Trump tweeted that “too many voices are being destroyed, some good and some bad, and that cannot be allowed to happen.” So, he added: “Let everybody participate, good & bad, and we will all just have to figure it out!”
+
+Trump accused social media giants of “closing down the opinions of many people on the RIGHT, while at the same time doing nothing to others.”
+
+“Censorship is a very dangerous thing & impossible to police,” he added, before embarking on a now familiar rant about “fake news” CNN and MSNBC — which he admitted to sometimes watching, but “just with a grain of salt.”
+
+Trump did not reference any person in particular in his tirade against the tech companies, although a host of them have in recent weeks banned conspiracy theorist Alex Jones and his website Infowars from their platforms.
+
+STEP 1:
+* discriminating
+* destroyed
+* bad
+* dangerous
+* fake
+
+SUMMARY:
+President Donald Trump took to Twitter to accuse social media companies of "totally discriminating" against Republican and Conservative voices. He claimed that "too many voices are being destroyed, some good and some bad," and that censorship is a "very dangerous thing" that is "impossible to police." Trump's solution is to "let everybody participate, good & bad, and we will all just have to figure it out!" He also ranted against "fake news" outlets CNN and MSNBC, which he admits to watching "with a grain of salt." The tweets come after several social media companies banned conspiracy theorist Alex Jones and his website Infowars from their platforms. Trump's comments imply that social media companies are unfairly silencing certain voices, and that this "censorship" is a threat to free expression. END OF SUMMARY.
+
+Example 2 (Political Ideology: Center, Moral Foundations: Authority/Subversion, Fairness/Cheating):
+Here is the news article:
+
+WASHINGTON — Susan E. Rice, President Obama’s national security adviser, sharply criticized Prime Minister Benjamin Netanyahu of Israel on Tuesday over his plans to address a joint meeting of Congress next week, saying his actions had hurt his nation’s relationship with the United States.
+
+Mr. Netanyahu’s decision to travel to Washington to deliver the speech two weeks before the Israeli elections has “injected a degree of partisanship, which is not only unfortunate, I think it’s destructive of the fabric of the relationship,” Ms. Rice said in an interview on the PBS television program “Charlie Rose.”
+
+Her comments marked the strongest public rebuke to date by the Obama administration since Mr. Netanyahu accepted an invitation from Speaker John A. Boehner to make his case to Congress against a nuclear deal with Iran, which is a priority of Mr. Obama’s.
+It is also the frankest acknowledgment yet by a top American official of the degree to which the controversy has damaged United States-Israeli relations.
+
+The speech, scheduled for March 3, was arranged by Mr. Boehner and the Israeli ambassador without consulting the White House — a move that Mr. Obama’s team has called a breach of protocol.
+
+The president has said he will not meet with Mr. Netanyahu during his visit to avoid any appearance that he is trying to influence the Israeli elections that are scheduled for mid-March.
+
+The episode is a low point in the tense relationship between Mr. Obama and Mr. Netanyahu and has touched off weeks of mostly anonymous sniping and finger-pointing.
+
+Top administration officials have hinted more openly of their displeasure in recent days.
+
+The White House on Wednesday said that Mr. Obama agreed with Ms. Rice’s assessment, saying he had raised the same concerns several times.
+
+Her comments, said Josh Earnest, the White House press secretary, are “entirely consistent with what the president has already said.”
+
+“Allowing this relationship to be subjected to party politics does weaken the relationship,” Mr. Earnest said.
+
+Mr. Earnest said he did not know whether Mr. Obama and Ms. Rice had talked in advance of the interview about what she would say about Mr. Netanyahu’s visit.
+
+Vice President Joseph R. Biden Jr., who as president of the Senate would be expected to attend, has said he will be traveling abroad.
+Secretary of State John Kerry said Tuesday that he would be in Switzerland negotiating with the Iranians.
+The White House has also not committed to sending a representative next week to the American Israel Public Affairs Committee’s conference, where Mr. Netanyahu is also scheduled to appear.
+
+The Israeli prime minister himself has turned down a request by Democratic senators for a private meeting, Senator Richard J. Durbin, Democrat of Illinois, said Tuesday.
+
+“We offered the prime minister an opportunity to balance the politically divisive invitation from Speaker Boehner with a private meeting with Democrats who are committed to keeping the bipartisan support of Israel strong,” Mr. Durbin said in a statement.
+“His refusal to meet is disappointing to those of us who have stood by Israel for decades.”
+
+In a letter released by Mr. Durbin’s office, Mr. Netanyahu said such a meeting “could compound the misperception of partisanship regarding my upcoming visit.”
+
+Mr. Netanyahu said Tuesday that he was making the trip because it was his obligation to “do everything I can to prevent” a nuclear agreement with Iran.
+
+“Therefore, I will go to Washington to address the American Congress, because the American Congress is likely to be the final brake before the agreement between the major powers and Iran,” he said as he toured a military base in southern Israel.
+
+Ms. Rice demurred when asked whether she believed Mr. Netanyahu was making the speech to gain political favor.
+
+“I’m not going to ascribe motives to the prime minister,” she told Mr. Rose.
+“The point is, we want the relationship between the United States and Israel to be unquestionably strong, immutable, regardless of political seasons in either country, regardless of which party may be in charge in either country.
+
+“We’ve worked very hard to have that,” she said, “and we will work very hard to maintain that.”
+
+STEP 1:
+* unfortunate
+* destructive
+* partisanship
+* breach
+* displeasure
+* sniping
+* finger-pointing
+* weaken
+* disappointing
+* obligation
+
+SUMMARY:
+National Security Adviser Susan E. Rice sharply criticized Israeli Prime Minister Benjamin Netanyahu's plans to address Congress, saying his actions have "injected a degree of partisanship" that is "unfortunate" and "destructive of the fabric of the relationship" between the US and Israel. The controversy has damaged US-Israeli relations, with the White House calling the speech a "breach of protocol". Rice's comments marked the strongest public rebuke to date by the Obama administration. The episode is a "low point" in the tense relationship between Obama and Netanyahu, with top administration officials expressing their "displeasure" and hinting at the "sniping" and "finger-pointing" that has ensued. The White House has emphasized the importance of maintaining a strong and "immutable" relationship between the two countries, regardless of political seasons. END OF SUMMARY.
+
+Example 3 (Political Ideology: Right, Moral Foundations: Authority/Subversion, Care/Harm, Fairness/Cheating):
+Here is the news article:
+
+Likely Democratic presidential nominee Joe Biden is offering his own plan for dealing with the Coronavirus while criticizing the Trump administration's actions.
+
+Biden told Politico he wants far more spending to deal with COVID-19.
+He says one of the ways out of this economic crisis is through a $1 trillion infrastructure program to create new American jobs, along with environmental programs and massive aid for state and local governments.
+
+However, Biden has been quiet about claims from a former staffer named Tara Reade who has publicly accused him of sexual assault in 1993.
+Describing an incident that she says happened while she was serving on Biden's Senate staff, Reade said Biden pushed her against a wall in the basement of a Capitol Hill office building, groped her, and then reached under her skirt and touched her genitals.
+
+She said after telling her supervisors in Biden's office that she had been sexually harassed by the then-senator, her concerns weren't taken seriously and she was eventually told to find another job.
+
+Two of those staffers have said in interviews that they didn't recall Reade or any such incident.
+The third issued an on-the-record statement denying Reade's claim.
+
+Now, Reade's former neighbor is supporting that account.
+Lynda LaCasse says Reade detailed the alleged incident to her in the mid-90s.
+
+"She felt like she was assaulted, and she really didn't feel there was anything she could do," LaCasse told Business Insider.
+
+Late last week, the Intercept unearthed a 1993 video clip that shows a woman Reade says was her mother calling into CNN's "Larry King Live."
+In the clip, an unnamed woman from San Luis Obispo, Calif., tells King that her daughter just left Washington, "after working for a prominent senator, and could not get through with her problems at all, and the only thing she could have done was go to the press, and she chose not to do it out of respect for him."
+
+Last spring, eight women, including Reade, came forward with allegations that Biden made them feel uncomfortable with inappropriate displays of affection.
+Biden acknowledged the complaints and promised to be "more mindful about respecting personal space in the future."
+
+The Associated Press spoke with Reade about those complaints in April 2019.
+During that interview, Reade alleged that Biden rubbed her shoulders and neck and played with her hair and that she was asked by another aide in Biden's Senate office to dress more conservatively and told: "don't be so sexy."
+
+Major media outlets have not asked Biden about the alleged assault.
+When Fox News asked the Biden campaign about the charge, it pointed to a previous statement saying while sexual assault claims should be "diligently reviewed by an independent press," what Reade alleged, "absolutely did not happen."
+
+STEP 1:
+* assault
+* harassed
+* inappropriate
+* uncomfortable
+* respectful
+* diligently
+* absolutely
+
+SUMMARY:
+Democratic presidential nominee Joe Biden has proposed a $1 trillion infrastructure program to create new American jobs and aid state and local governments, while criticizing the Trump administration's actions on COVID-19. However, Biden has been quiet about the sexual assault allegations made by Tara Reade, a former staffer who accused him of groping her and touching her genitals in 1993. Reade claimed that after reporting the incident to her supervisors, her concerns were not taken seriously and she was eventually told to find another job. Despite Biden's previous acknowledgment of making women feel uncomfortable with inappropriate displays of affection, he has denied the assault allegations, saying they "absolutely did not happen." The allegations have sparked a debate on respecting personal space and the importance of diligently reviewing sexual assault claims. END OF SUMMARY.
+
+Now, here is the target news article to summarize:
+Here is the news article:
+
+China criticizes US human rights report BEIJING - China issued its annual report on human rights in the United States on Monday, accusing Washington of turning a blind eye to abuses in its own land while criticizing other countries for theirs. The report by the Information Office of the State Council, China's Cabinet, listed evidence of police abuses, poverty, racial discrimination and lack of personal safety in the United States, the official Xinhua news agency said. It also accused Washington of "wantonly infringing" on the sovereignty of other nations through military operations and stationing US forces overseas, Xinhua said. The report also slammed US President George W. Bush's administration for withdrawing from the Kyoto Protocol on cutting greenhouse gases. China releases the report every year in response to a US State Department report on global human rights conditions, which usually accuses China of widespread abuses. The US report came out last week. "Once again the United States, assuming the role of `world judge of human rights' has distorted human rights conditions in many countries and regions in the world, including China, and accused them of human rights violations, all the while turning a blind eye to its own human rights-related problems," the Chinese report said.
+
+(1) First, you identify all the single words that are morally framed, focusing especially on the dimensions of Authority/Subversion, Care/Harm, Fairness/Cheating. Identify this step as "STEP 1:" and report each word in a new line starting with *
+(2) Finally, you write a summary of the news article. Please preserve as many morally framed words as possible, particularly focusing on the moral dimensions of Authority/Subversion, Care/Harm, Fairness/Cheating in your summary. The summary has to be returned after a "SUMMARY:" token and ending with a "END OF SUMMARY." token. The summary should be no longer than 200 words.

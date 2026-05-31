@@ -1,0 +1,238 @@
+You have to summarize the following text preserving the moral framing that the author gave to it, with particular focus on the specific moral foundations highlighted in the text.
+
+Please study the following examples of news articles, their moral word extraction, and summaries preserving the moral framing:
+
+Example 1 (Political Ideology: Left, Moral Foundations: Authority/Subversion, Fairness/Cheating):
+Here is the news article:
+
+Michael Cohen’s prepared opening statement for his testimony before the House Oversight Committee Wednesday is out — and wow, is it a doozy.
+The New York Times obtained Cohen’s statement and posted it online early Wednesday morning.
+
+Perhaps Cohen’s most explosive claim is that he heard Roger Stone tell Donald Trump about WikiLeaks founder Julian Assange’s plans to release hacked emails during the presidential campaign — the most direct allegation yet that Trump was in the loop about WikiLeaks’ plans.
+Special counsel Robert Mueller has been investigating this issue, and has attributed the theft of these emails to Russian intelligence officers.
+
+Cohen makes further claims, with varying levels of corroboration, about Trump’s awareness of the Trump Tower Moscow discussions, the potential setup for Donald Trump Jr.’s meeting with a Russian lawyer at Trump Tower in New York, purported racist remarks Trump made in private, and various dirty work Cohen did on Trump’s behalf.
+
+According to the opening statement, Cohen also plans to present a copy of a check personally signed by Trump in August 2017 — while Trump was president — to pay Cohen back for the hush money payoff to porn actress Stormy Daniels.
+
+Cohen was Trump’s loyal personal attorney and “fixer” for more than a decade before he came under investigation last year and had a bitter falling-out with his former boss.
+Cohen ended up pleading guilty to financial crimes, bank fraud, campaign finance violations, and lying to Congress.
+He was sentenced to three years in prison, and he’s scheduled to begin serving that sentence in May.
+
+With no further reason to keep Trump’s secrets, Cohen now seems to want to spill all he knows about Trump, under oath.
+But of course, he’s already admitted lying to Congress in the past, so he’ll be challenged to corroborate his statements.
+
+Cohen’s big Russia claim
+
+Cohen plans to say that although he does not have “direct evidence that Mr. Trump or his campaign colluded with Russia,” he certainly has his “suspicions.”
+
+Most dramatically, Cohen plans to say for the first time publicly that he overheard a call between Trump and Stone on speakerphone in which they discussed WikiLeaks.
+His account has a few specifics:
+
+That this call took place in July 2016, days before the Democratic convention
+
+That Roger Stone claimed to Trump that “he had just gotten off the phone with Julian Assange” — an allegation that Stone was directly in touch with WikiLeaks
+
+That Stone went on to claim that, per Assange, there would soon be “a massive dump of emails that would damage Hillary Clinton’s campaign” (in Cohen’s phrasing).
+This would have been shortly before WikiLeaks began posting the Democratic National Committee’s hacked emails — emails that, per Mueller, were hacked by Russian intelligence officers.
+
+The question of what, exactly, Stone knew about WikiLeaks’ plans regarding email leaks has been a mystery for some time.
+And Mueller’s recent indictment of Stone for lying to Congress did not entirely clear up the matter: The special counsel cited emails in which Stone was trying to get in touch with Assange, but didn’t make any definitive claims about what Stone learned.
+
+But here, Cohen is claiming that Stone seemed to know something, that Stone claimed to have gotten information to Assange directly, and that Stone was telling Trump himself about all this.
+(Stone has in the past denied doing all of these things.)
+
+Is this “collusion”?
+The answer may be in the eye of the beholder.
+Cohen is not alleging that Trump did anything regarding the hacked emails.
+But this is yet another allegation that someone in Trump’s camp seemed to be aware, to some extent, of Assange’s plans.
+Of course, so far we only have Cohen’s word on this.
+
+On other topics, Cohen’s opening statement claims:
+
+Trump encouraged him to publicly make misleading claims about talks to build a Trump Tower in Moscow.
+
+Trump “did not directly” tell him to lie to Congress about Trump Tower Moscow (contra a recent BuzzFeed report).
+
+Cohen saw Donald Trump Jr. tell his father about setting up a meeting during the campaign (Cohen claims this may be the infamous meeting with a Russian lawyer at Trump Tower, but can’t prove it).
+
+Trump once asked Cohen if he “could name a country run by a black person that wasn’t a ‘shithole.”’
+
+Michael Cohen testifies before the House Oversight Committee Michael Cohen – former attorney to President Trump – will answer key questions about Trump's business practices and hush money payments.
+The hearing promises to be explosive.
+
+STEP 1:
+* dirty
+* lying
+* bitter
+* suspicious
+* colluded
+* lying
+* misleading
+* shithole
+
+SUMMARY:
+Michael Cohen's prepared opening statement for his testimony before the House Oversight Committee is explosive. Cohen claims he overheard a call between Trump and Roger Stone, where Stone told Trump about WikiLeaks' plans to release hacked emails during the presidential campaign. This is the most direct allegation yet that Trump was in the loop about WikiLeaks' plans. Cohen also alleges that Trump encouraged him to make misleading claims about talks to build a Trump Tower in Moscow and made racist remarks in private, calling a country run by a black person a "shithole." Cohen, who pleaded guilty to financial crimes, bank fraud, campaign finance violations, and lying to Congress, plans to present a copy of a check personally signed by Trump to pay him back for the hush money payoff to porn actress Stormy Daniels. With no further reason to keep Trump's secrets, Cohen now seems to want to spill all he knows about Trump, under oath. However, his credibility will be challenged due to his past lying to Congress. END OF SUMMARY.
+
+Example 2 (Political Ideology: Center, Moral Foundations: Care/Harm, Fairness/Cheating):
+Here is the news article:
+
+Report Sees Guns as Path to Safety in Schools
+
+WASHINGTON — With the Senate set to debate gun control this month, a National Rifle Association task force released a 225-page report on Tuesday that called for armed police officers, security guards or staff members in every American school, and urged states to loosen gun restrictions to allow trained teachers and administrators to carry weapons.
+
+Asa Hutchinson, a former Republican congressman from Arkansas who led the task force, unveiled the report at a packed news conference with unusually heavy security, including a bomb-sniffing yellow Labrador retriever.
+A dozen officers in plain clothes and uniforms stood watch as he spoke; one warned photographers to “remain stationary” during the event.
+
+Among the study’s central conclusions is that “the presence of armed security personnel adds a layer of security and diminishes response time” in a shooting, Mr. Hutchinson said.
+He cited a 1997 Mississippi case in which an assistant principal ran to his truck to retrieve a .45-caliber semiautomatic pistol and subdued a gunman who had killed two students.
+
+The recommendations — which also included expanding the police presence in schools — drew immediate criticism from gun control advocates and many Democrats, who have been fighting to tighten gun restrictions after the massacre at Sandy Hook Elementary School in Newtown, Conn., in December.
+
+“Arming the teacher is merely a response to the last tragedy,” said Representative Mike Thompson, a California Democrat who is chairman of a House task force on gun violence.
+“The one before that was in a shopping mall in Oregon, and the one before that was in a movie theater in Colorado.
+I don’t think the proper response is to arm all the projectionists in the movie theaters or all the vendors in the mall.”
+
+After the Newtown shooting, Wayne LaPierre, the rifle association’s executive director, announced that it would devise a plan to put armed guards in every school.
+Technically, Mr. Hutchison’s task force is independent of the rifle association, even though it paid for the study, and Mr. LaPierre was not present on Tuesday.
+But critics see no distinction between the two.
+
+Marian Wright Edelman, president of the Children’s Defense Fund, an advocacy group here, criticized the study as “nothing more than a continuation of the N.R.A.’s attempts to prey on America’s fears, saturate our schools with more guns and turn them into armed fortresses.”
+
+But the report did get support from at least one Newtown parent: Mark Mattioli, whose 6-year-old son, James, was killed.
+
+“I think politics needs to be set aside here, and I hope this doesn’t lead to name-calling,” said Mr. Mattioli, who joined Mr. Hutchinson at the news conference.
+“This is a recommendation for solutions, real solutions that will make our kids safer.
+That’s what we need.”
+
+At least one state, Indiana, is considering the idea of armed officers at schools.
+On Tuesday, a proposal that would require public and charter schools to have an armed “protection officer” on school property during class hours passed a State House committee.
+
+The task force panel called on the Departments of Homeland Security, Education and Justice to coordinate school safety efforts and provide grant money for schools to assess their ability to prevent and respond to attacks.
+It recommended that officers or employees who are armed take a 40- to 60-hour training course to be developed by the rifle association based on a model the task force has designed.
+
+The group also called on states to require schools to develop security plans.
+
+But how and whether the task force recommendations will be put into effect — and the cost — was unclear.
+
+The timing of Tuesday’s announcement was not a coincidence: Congress will wrap up its spring recess after this week and is expected to consider gun legislation after lawmakers return.
+President Obama has called for tough new controls on gun ownership, but the prospects for such legislation are murky — a testimony to the rifle association’s prowess as a lobbying force.
+
+A plan to revive and revamp a ban on assault weapons, which expired in 2004, is almost certain to be defeated.
+Mr. Obama is pushing for a measure that would impose mandatory background checks for gun buyers, and the Senator Harry Reid, Democrat of Nevada, the majority leader, has promised to present a bill that would expand background checks to the floor for a vote.
+
+STEP 1:
+* safety
+* security
+* tragedy
+* fear
+* prey
+* saturate
+* armed
+* fortress
+* solutions
+* safer
+* politics
+
+SUMMARY:
+A National Rifle Association task force has released a report recommending that armed police officers, security guards, or staff members be present in every American school to ensure "safety" and "security". The report suggests that states loosen gun restrictions to allow trained teachers and administrators to carry weapons, citing a 1997 Mississippi case where an assistant principal subdued a gunman. Critics argue that this approach is a misguided response to "tragedy" and would lead to schools becoming "armed fortresses". Supporters, including a Newtown parent who lost his son, see this as a necessary step to make schools "safer". The report's recommendations have sparked controversy, with some accusing the NRA of trying to "prey" on America's "fears". The debate comes as Congress prepares to consider gun control legislation. END OF SUMMARY.
+
+Example 3 (Political Ideology: Right, Moral Foundations: Authority/Subversion, Care/Harm, Fairness/Cheating, Loyalty/Betrayal):
+Here is the news article:
+
+President Obama has been caught in a web of deception that threatens to ensnarl his re-election bid.
+Multiple emails and diplomatic cables reveal that the administration deliberately deceived the public.
+Libyagate haunts Mr. Obama, relentlessly eroding his credibility and trustworthiness.
+It is a stake aimed at the heart of his presidency.
+
+For nearly two weeks, the Obama team claimed the attack on the U.S. compound in Benghazi resulted from “spontaneous protests” in response to an anti-Muslim video.
+That was false — and Mr. Obama knew it.
+Several senior State Department officials testified at congressional hearings that there were no protests on Sept. 11, 2012.
+In fact, our diplomatic mission had been quiet all day.
+Moreover, the State Department was monitoring the compound practically in real time.
+On video, State Department officials witnessed scores of armed men breach the consulate and begin shooting at our diplomats.
+The officials’ obvious conclusion: It was a terrorist assault.
+Within 24 hours, the CIA’s station chief in Libya also reported jihadists had perpetrated the attack.
+
+The latest evidence, however, is a bombshell: Two hours after the assault began, the State Department sent an email to numerous agencies — including the White House Situation Room — that Ansar al-Sharia, a terrorist group affiliated with al Qaeda, had claimed responsibility.
+The email went directly to the White House’s Executive Office — the president’s inner circle.
+In other words, from nearly the beginning, Mr. Obama knew the Benghazi attack was a terrorist atrocity.
+Yet he insisted on blaming a phantom protest and an obscure YouTube video.
+He misled the public in a desperate attempt to cover up his administration’s colossal failure.
+
+Why?
+The answer is cynical politics.
+One of Mr. Obama’s central campaign narratives is that he killed Osama bin Laden and badly degraded al Qaeda.
+The Benghazi attack, however, directly contradicts the administration’s position.
+Rather than being in retreat, al Qaeda is on the rise.
+Pakistan, Afghanistan, Yemen, Somalia, Mali, Iraq and Libya — the Islamic fascist network has been expanding its safe havens and jihadist activity in every one of these nations.
+
+In particular, Libya has been transformed into a failed Islamist state.
+Contrary to media spin, Mr. Obama’s military intervention in Libya has been a disaster.
+Jihadists roam the countryside, targeting minorities and seeking to impose Shariah law.
+More than 20,000 weapons formerly controlled by late strongman Moammar Gadhafi were stolen by al Qaeda militants.
+The country’s eastern provinces are nearly in open revolt, fueled by a Muslim insurgency.
+In fact, the Benghazi attack occurred for one primary reason: Mr. Obama’s war has made Libya safe for radical Islam.
+Hence, the president feared that the truth about his Libyan intervention would come out.
+The result is that Ambassador J. Christopher Stevens was murdered, along with three other U.S. diplomatic personnel.
+Mr. Obama has American blood on his hands.
+
+The Sept. 11, 2012, terror plot was not the first one.
+The administration engaged in willful blindness to the Islamist reality in Benghazi.
+Our consulate had been attacked in April and June.
+Britain withdrew its diplomatic mission because of the surging violence.
+The Red Cross shut down its operations as well.
+Moreover, American officials repeatedly asked for enhanced security at the compound.
+The requests were denied.
+In his diary and several cables, Stevens complained about the growing jihadist violence that threatened his staff — to no avail.
+They were sacrificed on the altar of Mr. Obama’s multilateral interventionism and political ambitions.
+
+The real tragedy is that perhaps the dead Americans could have been saved.
+The attack lasted more than six hours.
+A U.S. drone was directly over the compound, conducting surveillance.
+American fighter jets and AC-130 gunships were less than 450 miles away.
+A massive, rapid response should have been ordered to defend the consulate.
+Instead, Mr. Obama did nothing.
+The reason: He did not want to violate Libyan “sovereignty” without the permission of the government in Tripoli.
+He abandoned our personnel to be butchered — like sheep — by rampaging Islamists.
+
+The Benghazi atrocity was not simply an assault on Americans.
+It was an act of war against America itself.
+Embassies and consulates are sovereign territory — or at least, they’re supposed to be.
+When jihadists breached our compound, it was the equivalent of storming a government building in Washington, Boston or New York.
+They were invading American soil, shedding American blood on behalf of a holy war against the West.
+Mr. Obama knew it was terrorism, but he refused to order a military response.
+He systematically perpetrated a cover-up and a manipulation campaign.
+For this alone, he deserves to be defeated in November.
+He is unfit to be our president.
+
+STEP 1:
+* Deception
+* False
+* Terrorist
+* Atrocity
+* Cynical
+* Failed
+* Disaster
+* Jihadist
+* Fascist
+* Murdered
+* Blood
+* Willful
+* Blindness
+* Sacrificed
+* Abandoned
+* Butchered
+* Atrocity
+* Unfit
+
+SUMMARY:
+President Obama's administration has been caught in a web of deception, deliberately misleading the public about the Benghazi attack. Despite knowing the truth, Obama insisted on blaming a phantom protest and an obscure YouTube video, covering up his administration's colossal failure. The attack was a terrorist atrocity, and Obama's cynical politics led to the murder of four Americans, including Ambassador J. Christopher Stevens. The president's war in Libya has made the country safe for radical Islam, and his willful blindness to the Islamist reality in Benghazi led to the tragic event. Obama's refusal to order a military response and his subsequent cover-up make him unfit to be president. The Benghazi atrocity was an act of war against America itself, and Obama's deception and failure to act have American blood on his hands. END OF SUMMARY.
+
+Now, here is the target news article to summarize:
+Here is the news article:
+
+The resurgent controversy over the Obama administration's initial story-line on the Benghazi attack underscores State Department concerns about the leadership's failure to act on documented warnings and security incidents. Draft "talking points" obtained by The Weekly Standard and ABC News depicted efforts by State Department spokeswoman Victoria Nuland in the days after the attack to strip out references to prior attacks in Benghazi. According to the excerpts, she argued that the administration should not give Congress ammunition to "beat up" on her department. During a press conference Monday, President Obama even acknowledged that the country now knows that "clearly (the staff in Benghazi) were not in a position where they were adequately protected." A review of now-public State Department records as well as a classified State Department cable, first reviewed and reported by Fox News, shows a steady stream of documented warnings to Washington from intelligence and State security officials on the ground in Libya that the Islamist threat was severe and growing. One of the most significant warnings was an August 2012 State Department classified cable, which has not been made public, that summarized an emergency meeting in Benghazi where the CIA briefed on the significant threat of terrorist activity. The cable, sent under Ambassador Chris Stevens' signature and marked SECRET, warned the office of Secretary of State Clinton that the CIA advised "ten Islamist militias and AQ training camps (were) within Benghazi." The cable also warned that the 17 February Brigade, the group charged with protecting the consulate, appeared to be compromised. It said "requests to provide a daily police presence have gone unanswered," adding there was also a "lack of host nation security support to the US mission." In addition to identifying the presence of Al Qaeda and Ansar al-Sharia in Benghazi, the groups ultimately blamed for the assault, a key section of the cable, which remains classified, seemed to foreshadow the attack itself. "RSO (Regional Security Officer) expressed concerns with the ability to defend Post in the event of a coordinated attack due to limited manpower, security measures, weapons capabilities, host nation support, and the overall size of the compound," it said. During congressional hearings in January, Clinton was asked whether she had seen the cable by Republican Rep. Michael McCaul. Clinton said she had no knowledge of the warning which former diplomatic security agents have told Fox News amounted to a "cry for help." "Congressman, that cable did not come to my attention," Clinton testified before the House Foreign Affairs committee. "I have made it very clear that the security cable did not come to my attention or above the assistant secretary level where the ARB (Accountability Review Board) placed responsibility where, as I think, Ambassador Pickering said the rubber hit the road." In February, Republican Sen. Lindsey Graham followed up on the classified cable. After the chairman of the Joint Chiefs of Staff confirmed he knew about the cable which summarized the August emergency meeting in Benghazi, Graham questioned why the military was read in when Clinton apparently was not. Gen. Martin Dempsey responded: "Well, I don't know that she didn't know about the cable." Graham said: "She said she didn't. Are you stunned that she didn't?" Dempsey said: "I would call myself surprised that she didn't." In addition to attacks in Benghazi on the British ambassador -- which forced the temporary closure of the U.K. operation -- the International Red Cross and United Nations, in the summer of 2012 the group Ansar al-Sharia was so well-established it held an annual conference in Benghazi to promote Islamic law. Records released by the House oversight committee, including a report from the regional security officer, also documented more than 200 cases of violence in Libya in the year leading up to the attack, specifically between June 2011 and July 2012. Another security review, on June 25, 2012, reported a spike in violence with "foreigners also increasingly targeted." While much has been made of the State Department's failure to respond to repeated security requests for extra help, a former diplomatic security agent and 20-year veteran of the department, who reviewed the publicly available documents on the condition of anonymity, told Fox News the multiple warnings present a compelling argument that State Department leadership was negligent. The State Department, in a document put out last week, noted that while an internal review found certain senior officials "demonstrated a lack of proactive leadership and management ability" in response to security concerns, there was no specific finding of misconduct.
+
+(1) First, you identify all the single words that are morally framed, focusing especially on the dimensions of Authority/Subversion, Care/Harm, Fairness/Cheating. Identify this step as "STEP 1:" and report each word in a new line starting with *
+(2) Finally, you write a summary of the news article. Please preserve as many morally framed words as possible, particularly focusing on the moral dimensions of Authority/Subversion, Care/Harm, Fairness/Cheating in your summary. The summary has to be returned after a "SUMMARY:" token and ending with a "END OF SUMMARY." token. The summary should be no longer than 200 words.

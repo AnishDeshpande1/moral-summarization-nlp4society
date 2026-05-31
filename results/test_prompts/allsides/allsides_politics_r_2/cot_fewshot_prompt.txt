@@ -1,0 +1,209 @@
+You have to summarize the following text preserving the moral framing that the author gave to it.
+
+Please study the following examples of news articles, their moral word extraction, and summaries preserving the moral framing:
+
+Example 1 (Political Ideology: Left):
+Here is the news article:
+
+Kathy Griffin Apologizes For Controversial Images Of Bloodied Trump Head
+
+This feels like an “America’s Next Top Model” challenge gone so horribly wrong.
+
+Kathy Griffin has made a career out of shocking her public by telling stories of Lindsay Lohan’s fire crotch and simulating oral sex with Anderson Cooper on CNN, but she took things to a whole new level with a controversial photo shoot.
+
+Shot by celebrity photographer and director Tyler Shields, the comedian stares the camera down in one photo, as she holds what resembles the bloody head of President Donald Trump.
+
+“Kathy is all about pushing the limits and she went above and beyond on this one.
+Now lets just hope she stays out of jail,” a representative for Shields told HuffPost.
+
+In other (and considerably less gory) photos shot by Shields, Griffin poses by the pool in a revealing leather getup as a man holding a camera stands above her.
+
+According to New York Magazine writer Yashar Ali, Griffin claims that the image is an “expression of art” inspired by Trump’s comments about former Fox News correspondent Megyn Kelly having “blood coming out of her eyes” and “out of her — wherever.”
+
+After news of the photo shoot broke, Griffin took to Twitter to explain her motivations behind the image and reiterate that she does not condone violence in any way.
+She does, however, condone “mocking the Mocker in Chief.”
+
+UPDATE - May 30, 10 p.m.: Kathy Griffin issued a formal apology for the controversial images on Twitter.
+
+“I went way too far,” she said in a video on the social media site.
+
+UPDATE - May 30, 5:20 p.m.: Hours after Kathy Griffin’s photo shoot with a fake bloody Donald Trump head made the internet rounds, the official Twitter account for the U.S. Secret Service has issued a statement.
+
+A Secret Service representative confirmed to HuffPost that the following tweets were in direct response to the controversial image.
+
+“On it! @SecretService has a robust protective intelligence division that monitors open source reporting & social media to evaluate threats,” the tweets read.
+“Threats made against @SecretService protectees receive the highest priority of all of our investigations,” with the hashtag #ProtectionNeverRests.
+
+STEP 1:
+* controversial
+* shocking
+* horribly
+* wrong
+* pushing
+* limits
+* gory
+* violence
+* mocking
+* Mocker
+* went
+* too
+* far
+* threats
+* highest
+* priority
+
+SUMMARY:
+Comedian Kathy Griffin has sparked outrage with a controversial photo shoot featuring a bloody head resembling President Donald Trump. The images, taken by celebrity photographer Tyler Shields, have been deemed "horribly wrong" and "shocking." Griffin claims the photo is an "expression of art" inspired by Trump's past comments, but has since issued a formal apology, stating she "went way too far." The comedian maintains she does not condone violence, but rather aims to "mock the Mocker in Chief." The U.S. Secret Service has responded to the incident, confirming they take threats against the President "very seriously" and will investigate with the "highest priority." Griffin's apology has been met with a mix of criticism and understanding, with many calling her actions "wrong" and "inappropriate." END OF SUMMARY.
+
+Example 2 (Political Ideology: Center):
+Here is the news article:
+
+Former Defense Secretary Mattis Issues Stunning Rebuke Of Trump
+
+Retired Marine Gen. Jim Mattis, who resigned as President Trump's defense secretary nearly a year and a half ago over policy differences, has issued an extraordinary critique of the White House's handling of nationwide unrest, saying Trump has sought to divide Americans and warning against "militarizing our response" to the protests.
+
+"When I joined the military, some 50 years ago, I swore an oath to support and defend the Constitution," Mattis said in a statement published in The Atlantic.
+
+"Never did I dream that troops taking that same oath would be ordered under any circumstance to violate the Constitutional rights of their fellow citizens —much less to provide a bizarre photo op for the elected commander-in-chief, with military leadership standing alongside," Mattis wrote, referring to a series of events on Monday in which peaceful protesters were physically cleared from around the White House to make way for an appearance by the president, Bible in hand, outside a historic church.
+
+Mattis called Monday's actions "an abuse of executive authority."
+
+The broadside came on the same day that current Defense Secretary Mark Esper said at a Pentagon briefing that he opposed invoking the Insurrection Act — which allows the president to deploy the military within the United States — something Trump had threatened to do in a televised speech on Monday.
+
+Earlier this week, Esper had referred to unrest in the streets as a "battlespace," and Trump urged governors to use law enforcement and the National Guard to "dominate" the protesters.
+
+"We must reject any thinking of our cities as a 'battlespace' that our uniformed military is called upon to 'dominate,' " Mattis wrote.
+"At home, we should use our military only when requested to do so, on very rare occasions, by state governors."
+
+It is extraordinarily rare for military leadership to speak out against a sitting president, though Trump has come in for implicit criticism from senior ranks.
+
+After Trump said of a Unite the Right rally in Charlottesville, Va., in 2017, which turned deadly, that there were "very fine people on both sides," each of the military service chiefs — as well as the chairman of the Joint Chiefs of Staff – issued statements condemning bigotry.
+
+"I can absolutely and unambiguously tell you there is no place — no place — for racism and bigotry in the U.S. military or in the United States as a whole," said Gen. Joe Dunford, the Joint Chiefs of Staff chairman at the time.
+
+America’s military, our sons and daughters, will place themselves at risk to protect their fellow citizens.
+Their job is unimaginably hard overseas; harder at home.
+Respect them, for they respect you.
+America is not a battleground.
+Our fellow citizens are not the enemy.
+#BeBetter — GEN(R) Martin E. Dempsey (@Martin_Dempsey) June 1, 2020
+
+Just this week, two former Joint Chiefs of Staff chairmen, Gen. Martin Dempsey and Adm. Mike Mullen, condemned the use of the military to quash the demonstrations on Monday.
+In a tweet, Dempsey said, "America is not a battleground.
+Our fellow citizens are not the enemy."
+
+In the opinion piece in The Atlantic titled "I Cannot Remain Silent," Mullen wrote regarding Trump's photo-op at St. John's Church, "Whatever Trump's goal in conducting his visit, he laid bare his disdain for the rights of peaceful protest in this country, gave succor to the leaders of other countries who take comfort in our domestic strife, and risked further politicizing the men and women of our armed forces."
+
+Mattis, who resigned and was then pushed out by Trump in December 2018 over disagreements with the White House's Syria policy, has remained largely silent about the president's job performance since leaving the defense post, telling NPR last year: "I don't discuss sitting presidents."
+He said he thought that Trump deserved "a period of quiet."
+
+However, days of nationwide protest over the death of George Floyd in police custody and the use of National Guard troops in Washington to disperse peaceful demonstrators have led Mattis — "angry and appalled" — to speak up.
+
+He said the protesters were only demanding equal justice under the law.
+
+"It is a wholesome and unifying demand — one that all of us should be able to get behind," he wrote.
+
+"We must not be distracted by a small number of lawbreakers," Mattis wrote, referring to the vandalism and looting that have sometimes occurred along with the largely peaceful protests.
+"The protests are defined by tens of thousands of people of conscience who are insisting that we live up to our values — our values as people and our values as a nation."
+
+Mattis accused the president of pursuing a divisive strategy.
+"Donald Trump is the first president in my lifetime who does not try to unite the American people— does not even pretend to try.
+
+"Instead he tries to divide us.
+We are witnessing the consequences of three years of this deliberate effort.
+We are witnessing the consequences of three years without mature leadership," he said.
+
+The president responded to the criticism in a tweet, calling Mattis "the world's most overrated General," an insult Trump has fired off in the past.
+
+Probably the only thing Barack Obama & I have in common is that we both had the honor of firing Jim Mattis, the world’s most overrated General.
+I asked for his letter of resignation, & felt great about it.
+His nickname was “Chaos”, which I didn’t like, & changed to “Mad Dog”... — Donald J. Trump (@realDonaldTrump) June 4, 2020
+
+In Wednesday's statement, Mattis said the country's response to the pandemic showed that "it is not only our troops who are willing to offer the ultimate sacrifice for the safety of the community.
+Americans in hospitals, grocery stores, post offices, and elsewhere have put their lives on the line in order to serve their fellow citizens and their country."
+
+"We must reject and hold accountable those in office who would make a mockery of our Constitution.
+At the same time, we must remember Lincoln's 'better angels,' and listen to them, as we work to unite," he said.
+
+STEP 1:
+* Unite
+* Divide
+* Abuse
+* Reject
+* Dominate
+* Battlespace
+* Racism
+* Bigotry
+* Respect
+* Enemy
+* Disdain
+* Wholesome
+* Unifying
+* Conscience
+* Values
+* Mature
+* Chaos
+* Mockery
+* Better
+
+SUMMARY:
+Former Defense Secretary Jim Mattis issued a stunning rebuke of President Trump's handling of nationwide unrest, saying Trump has sought to divide Americans and warning against "militarizing our response" to the protests. Mattis called Monday's actions "an abuse of executive authority" and rejected the idea of using the military to "dominate" protesters. He urged Americans to "reject any thinking of our cities as a 'battlespace'" and to respect the Constitutional rights of fellow citizens. Mattis accused Trump of pursuing a divisive strategy, saying "Donald Trump is the first president in my lifetime who does not try to unite the American people— does not even pretend to try." Instead, Trump tries to divide us, and we are witnessing the consequences of three years without mature leadership. Mattis called for Americans to remember Lincoln's "better angels" and work to unite. END OF SUMMARY.
+
+Example 3 (Political Ideology: Right):
+Here is the news article:
+
+'Jail!' Trump slams 'crooked' Hillary aide Huma, calls on 'Deep State' DOJ to act
+
+President Trump went after "Crooked" Hillary Clinton aide Huma Abedin on Tuesday, appearing to call on the “Deep State” Justice Department to look at potential security issues in her handling of classified material after a recent email dump.
+
+“Crooked Hillary Clinton’s top aide, Huma Abedin, has been accused of disregarding basic security protocols.
+She put Classified Passwords into the hands of foreign agents.
+Remember sailors pictures on the submarine?
+Jail!” Trump tweeted early Tuesday.
+“Deep State Justice Dept must finally act?
+Also on Comey & others.”
+
+Trump was referring to U.S. Navy Sailor Kristian Saucier, who was put in prison for taking unauthorized photos inside a nuclear submarine.
+He seemed to suggest a double standard is at play, compared with the lack of punishment for Clinton and her aides.
+
+The president’s tweet comes after the State Department, in a Friday news dump, released a batch of emails from Abedin’s account that were discovered by the FBI on a laptop belonging to her estranged husband, Anthony Weiner.
+At least four of the documents were marked “classified.”
+
+Abedin also forwarded sensitive State Department emails to her personal Yahoo email account before every Yahoo account was hacked, first reported by the Daily Caller.
+Abedin also sent passwords for her government laptop to her Yahoo account on Aug. 24, 2009.
+
+In 2013, Yahoo was hacked, and the company said in a statement that “all Yahoo user accounts were affected” by the theft.
+
+Former FBI Director James Comey, who led the Clinton email investigation, said during a congressional hearing last year that he believed Abedin forwarded emails to Weiner for him to print out so that she could give them to Clinton.
+
+Abedin’s emails shook the 2016 presidential race, as Comey told Congress on Oct. 28, 2016, just days before the election, that the FBI had found more of Clinton’s messages on Weiner’s laptop as they investigated a sexting case against him.
+
+The discovery of those records reopened the case against Clinton, several months after Comey said he wasn’t recommending any charges be filed in the case.
+Comey at the time said Clinton was “extremely careless” in her handling of classified emails on her private server.
+
+STEP 1:
+*Crooked*
+*Jail*
+*Deep*
+*State*
+*Disregarding*
+*Basic*
+*Security*
+*Protocols*
+*Unauthorized*
+*Punishment*
+*Double*
+*Standard*
+*Extremely*
+*Careless*
+
+SUMMARY:
+President Trump slammed "Crooked" Hillary Clinton's top aide Huma Abedin, accusing her of "disregarding basic security protocols" and putting classified passwords into the hands of foreign agents. Trump called on the "Deep State" Justice Department to act, suggesting a "double standard" is at play compared to the punishment of U.S. Navy Sailor Kristian Saucier, who was jailed for taking unauthorized photos inside a nuclear submarine. The president's tweet comes after a recent email dump revealed that Abedin forwarded sensitive State Department emails to her personal Yahoo email account, which was later hacked. Trump implied that Abedin's actions were "extremely careless" and deserving of punishment, unlike Clinton and her aides who were not held accountable. END OF SUMMARY.
+
+Now, here is the target news article to summarize:
+Here is the news article:
+
+Acting Homeland Security Deputy Secretary Ken Cuccinelli was publicly harassed Wednesday by Maryland Gov. Martin O’Malley when the two ran into each other at a bar in Washington, D.C. They crossed paths at an Irish pub, The Dubliner, where they were both attending an event for graduates of Gonzaga College High School. Rather than being able to enjoy his Guinness, however, Cuccinelli was subject to a “passion-laced and shame-invoking tirade” by O’Malley over the Trump administration’s immigration policies. Martin O’Malley just drove Ken Cuccinelli out of the Dubliner in DC w/ a passion-laced and shame-invoking tirade on behalf of immigrant refugee children!!! — Siobhan Houton Arnold (@siobhanphilly) November 27, 2019 O’Malley was so fired up Cuccinelli said his neck veins were “bulging.” “As I walked up to one of the bars among several in The Dubliner to order my Guinness, I heard screaming and cussing behind me to my left, which I did not immediately take notice of other than the fact that it was louder than everything else in the pub,” Cuccinelli said, recalling the incident in a statement to Fox News. “When I turned to look I saw O'Malley and he was obviously screaming at me. For a moment I thought he was trying to be funny, as we've met before, which I thought was strange. It was immediately clear that he was cursing and screaming for real, to the point of veins bulging on his neck.” Cuccinelli said O’Malley “also inspired one or two of his (apparent) buddies to join in the cussing assault.” Attempting to deescalate the situation, Cuccinelli left to go order at a different bar within the pub, but O’Malley followed him. “At which point O'Malley pushed his way through the small group to confront me face to face, still cursing me, the President, and my Italian ancestry and he got right up in my face, bumped up against me and invited me to take a swing at him,” he said, adding that he told O’Malley ‘one of us has to rise above this, and it's obviously not going to be you.’ Cuccinelli then spotted a friend, who is a Democrat, and that person approached the men and “forced some friendly conversation in between Martin and I.” After a brief exchange, Cuccinelli went to another part of the bar to see his high school friends. “Martin's behavior was as sad as it was shocking,” Cuccinelli said in the statement. “I learned on the other side of the pub that Martin's screaming was so loud that people on the other side of the pub heard him. I also learned from others who have known Martin for years that while his behavior was shocking, it was not new to them.” He described some of the criticism from O’Malley as “odd” given that “they applied to President Obama's policies, a fact he clearly did not appreciate me pointing out (without screaming it, btw).” O’Malley seemed to have no regrets about his behavior, telling The Washington Post in a text: “We all let him know how we felt about him putting refugee immigrant kids in cages — certainly not what we were taught by the Jesuits at Gonzaga.” Cuccinelli, O’Malley also told the Post, is “the son of immigrant grandparents who cages children for a fascist president.” This is not the first time a Trump administration official has been publicly harassed, but it is likely the first time it's been done by such a prominent Democrat. Worse still, the left celebrated the harassment. Senior Adviser to Democrat presidential candidate Pete Buttigieg appears to be happy that a Democrat harassed a member of the Trump admin in public to the point where the official had to leave the event A presidential campaign promoting harassment of officials is disgusting https://t.co/B24u8YTaCn pic.twitter.com/g7DK8EqfPl — Ryan Saavedra (@RealSaavedra) November 29, 2019
+
+(1) First, you identify all the single words that are morally framed. Identify this step as "STEP 1:" and report each word in a new line starting with *
+(2) Finally, you write a summary of the news article. Please preserve as many morally framed words as possible in your summary. The summary has to be returned after a "SUMMARY:" token and ending with a "END OF SUMMARY." token. The summary should be no longer than 200 words.

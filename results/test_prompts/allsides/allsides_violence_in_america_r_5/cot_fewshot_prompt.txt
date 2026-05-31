@@ -1,0 +1,222 @@
+You have to summarize the following text preserving the moral framing that the author gave to it.
+
+Please study the following examples of news articles, their moral word extraction, and summaries preserving the moral framing:
+
+Example 1 (Political Ideology: Left):
+Here is the news article:
+
+Obama’s team is spinning the Republican National Convention as a complete miss.
+Obama's new challenge: Disappointment
+
+The watchword of the Republican National Convention in Tampa was disappointment — as in President Barack Obama has been one.
+
+You can hammer Obama on health care.
+Mock his golf outings.
+Demand to see his birth certificate and Harvard transcript, and call him a European socialist bent on turning the American Dream into a Belgian nightmare.
+He’ll throw his head back and laugh at you like a Bond villain.
+
+But tell voters he’s not the man America fell in love with in 2008 — and pine, however disingenuously, about his unfulfilled potential — and a shiver runs through his Chicago campaign headquarters.
+
+Obama’s team was spinning the convention as a complete miss, arguing that Republicans didn’t lay a glove on their man.
+Yet what emerged from Tampa was a subtle, clever shift in GOP messaging, a much more dangerous strategy for Obama than the kitchen-sink attacks that preceded the gathering.
+Republicans posed — rhetorically — as Obama 2008 voters, lamenting his unfulfilled expectations as if they had been with him all along instead of trying to block him at every turn.
+
+Both sides recognize the power of the disappointment theme: that the hope Obama offered for mending the economy, transforming the political process and even saving the earth has faded.
+
+“President Obama promised to begin to slow the rise of the oceans and heal the planet,” Mitt Romney said in accepting the Republican presidential nomination Thursday.
+“My promise is to help you and your family.”
+
+Or, as Sen. Marco Rubio put it, “Our problem with President Obama isn’t that he’s a bad person.
+Our problem is that he’s a bad president.”
+
+If Republicans landed a punch on Obama, it was the kind of strategic body blow that a skillful pugilist deploys to gain better position for the rest of the fight.
+
+No roundhouse, no jaw-splitter, no knockout.
+It was the kind of shot aimed at subtly shifting momentum and softening up the opponent in a way that may not be evident to the casual observer.
+
+Republicans honed their tone.
+
+The shrill hyperbole, petty critiques of Obama’s every move and Party of No intransigence disappeared into the heavy Tampa air.
+Surely, some of that will rain back down across other parts of the country during the closing months of the campaign, particularly as super PACs and other outside groups intensify their own lines of attack against Obama.
+
+There was plenty of tough criticism in Tampa — more mockery of Obama’s “you didn’t build that” line, more comparisons of his record to Jimmy Carter’s.
+But there were times — prime time, in particular — that the Republican convention looked and sounded like a Democratic gathering.
+
+An appealing young vice-presidential candidate, Paul Ryan, called his mom his role model and vowed to protect Medicare for seniors.
+
+Cuban-American Florida Sen. Marco Rubio and Mexican-American New Mexico Gov. Susana Martinez spoke of the unique opportunities that the United States afforded them to rise into leadership positions.
+
+STEP 1:
+* disappointment
+* disingenuously
+* clever
+* dangerous
+* bad
+* good
+* shrill
+* petty
+* intransigence
+* appealing
+* unique
+
+SUMMARY:
+The Republican National Convention in Tampa was deemed a success by the GOP, despite Obama's team spinning it as a complete miss. Republicans cleverly shifted their messaging, adopting a more subtle and dangerous strategy that focused on disappointment. They posed as Obama 2008 voters, lamenting his unfulfilled expectations and promising a more humble, achievable agenda. Mitt Romney and Sen. Marco Rubio delivered speeches that were more in line with Democratic values, touting the unique opportunities afforded by the United States. The tone was appealing, with a focus on protecting Medicare for seniors and honoring role models. The GOP's new approach is a strategic body blow to Obama's campaign, softening him up for the rest of the fight. END OF SUMMARY.
+
+Example 2 (Political Ideology: Center):
+Here is the news article:
+
+WASHINGTON — Susan E. Rice, President Obama’s national security adviser, sharply criticized Prime Minister Benjamin Netanyahu of Israel on Tuesday over his plans to address a joint meeting of Congress next week, saying his actions had hurt his nation’s relationship with the United States.
+
+Mr. Netanyahu’s decision to travel to Washington to deliver the speech two weeks before the Israeli elections has “injected a degree of partisanship, which is not only unfortunate, I think it’s destructive of the fabric of the relationship,” Ms. Rice said in an interview on the PBS television program “Charlie Rose.”
+
+Her comments marked the strongest public rebuke to date by the Obama administration since Mr. Netanyahu accepted an invitation from Speaker John A. Boehner to make his case to Congress against a nuclear deal with Iran, which is a priority of Mr. Obama’s.
+It is also the frankest acknowledgment yet by a top American official of the degree to which the controversy has damaged United States-Israeli relations.
+
+The speech, scheduled for March 3, was arranged by Mr. Boehner and the Israeli ambassador without consulting the White House — a move that Mr. Obama’s team has called a breach of protocol.
+
+The president has said he will not meet with Mr. Netanyahu during his visit to avoid any appearance that he is trying to influence the Israeli elections that are scheduled for mid-March.
+
+The episode is a low point in the tense relationship between Mr. Obama and Mr. Netanyahu and has touched off weeks of mostly anonymous sniping and finger-pointing.
+
+Top administration officials have hinted more openly of their displeasure in recent days.
+
+The White House on Wednesday said that Mr. Obama agreed with Ms. Rice’s assessment, saying he had raised the same concerns several times.
+
+Her comments, said Josh Earnest, the White House press secretary, are “entirely consistent with what the president has already said.”
+
+“Allowing this relationship to be subjected to party politics does weaken the relationship,” Mr. Earnest said.
+
+Mr. Earnest said he did not know whether Mr. Obama and Ms. Rice had talked in advance of the interview about what she would say about Mr. Netanyahu’s visit.
+
+Vice President Joseph R. Biden Jr., who as president of the Senate would be expected to attend, has said he will be traveling abroad.
+Secretary of State John Kerry said Tuesday that he would be in Switzerland negotiating with the Iranians.
+The White House has also not committed to sending a representative next week to the American Israel Public Affairs Committee’s conference, where Mr. Netanyahu is also scheduled to appear.
+
+The Israeli prime minister himself has turned down a request by Democratic senators for a private meeting, Senator Richard J. Durbin, Democrat of Illinois, said Tuesday.
+
+“We offered the prime minister an opportunity to balance the politically divisive invitation from Speaker Boehner with a private meeting with Democrats who are committed to keeping the bipartisan support of Israel strong,” Mr. Durbin said in a statement.
+“His refusal to meet is disappointing to those of us who have stood by Israel for decades.”
+
+In a letter released by Mr. Durbin’s office, Mr. Netanyahu said such a meeting “could compound the misperception of partisanship regarding my upcoming visit.”
+
+Mr. Netanyahu said Tuesday that he was making the trip because it was his obligation to “do everything I can to prevent” a nuclear agreement with Iran.
+
+“Therefore, I will go to Washington to address the American Congress, because the American Congress is likely to be the final brake before the agreement between the major powers and Iran,” he said as he toured a military base in southern Israel.
+
+Ms. Rice demurred when asked whether she believed Mr. Netanyahu was making the speech to gain political favor.
+
+“I’m not going to ascribe motives to the prime minister,” she told Mr. Rose.
+“The point is, we want the relationship between the United States and Israel to be unquestionably strong, immutable, regardless of political seasons in either country, regardless of which party may be in charge in either country.
+
+“We’ve worked very hard to have that,” she said, “and we will work very hard to maintain that.”
+
+STEP 1:
+* unfortunate
+* destructive
+* partisanship
+* breach
+* displeasure
+* sniping
+* finger-pointing
+* weaken
+* disappointing
+* obligation
+
+SUMMARY:
+National Security Adviser Susan E. Rice sharply criticized Israeli Prime Minister Benjamin Netanyahu's plans to address Congress, saying his actions have "injected a degree of partisanship" that is "unfortunate" and "destructive of the fabric of the relationship" between the US and Israel. The controversy has damaged US-Israeli relations, with the White House calling the speech a "breach of protocol". Rice's comments marked the strongest public rebuke to date by the Obama administration. The episode is a "low point" in the tense relationship between Obama and Netanyahu, with top administration officials expressing their "displeasure" and hinting at the "sniping" and "finger-pointing" that has ensued. The White House has emphasized the importance of maintaining a strong and "immutable" relationship between the two countries, regardless of political seasons. END OF SUMMARY.
+
+Example 3 (Political Ideology: Right):
+Here is the news article:
+
+President Trump thinks Alabama Republican Senate candidate Roy Moore “will do the right thing and step aside” if the sexual misconduct allegations against him are true, the White House said in a statement Thursday.
+
+Speaking to reporters following the president’s Asia trip on Air Force One, White House Press Secretary Sarah Sanders also cautioned against a rush to judgment.
+
+“Like most Americans, the president believes we cannot allow a mere allegation, in this case one from many years ago, to destroy a person’s life," Sanders said.
+"However, the president also believes that if these allegations are true, Judge Moore will do the right thing and step aside."
+
+Moore lashed out earlier at what he called "the Obama-Clinton machine's liberal media lapdogs" after The Washington Post reported on a woman's claims that the former judge and staunch social conservative initiated a sexual encounter with her when she was 14.
+
+In a series of tweets Thursday evening, Moore claimed "The forces of evil will lie, cheat, steal –– even inflict physical harm –– if they believe it will silence and shut up Christian conservatives."
+
+Amid calls for him to drop out of the race, Moore added, "Our nation is at a crossroads right now — both spiritually and politically.
+Our children and grandchildren’s futures are on the line.
+So rest assured — I will NEVER GIVE UP the fight!"
+
+The Post story centered on allegations made by Leigh Corfman, now 53.
+She told the newspaper that Moore, then an assistant district attorney, first approached her in 1979 outside a courtroom in Alabama where she was sitting with her mother.
+On another occasion, she said Moore, then 32, took her to his home in the woods and kissed her.
+
+During a subsequent visit, Corfman reportedly claimed he took off her shirt and pants; touched her over her bra and underwear; and guided her hand to his underwear.
+She said the two did not have sexual intercourse, and that she ended up getting dressed and asking Moore to take her home, according to the Post.
+
+“I wanted it over with – I wanted out,” she told the Post, apparently recalling her train of thought at the time.
+Moore did take her home, she said.
+
+The report caused immediate problems for Moore with his own party as he heads into the Dec. 12 election against Democrat Doug Jones.
+Several GOP senators called on him to step aside if the allegations are true – and at least one senator, Arizona’s John McCain, said he should drop out regardless.
+
+Senate Majority Leader Mitch McConnell, R-Ky., who backed Moore’s rival Luther Strange in the GOP primary, said in a statement: "If these allegations are true, he must step aside."
+
+Sen. Cory Gardner, R-Colo., head of the Senate GOP campaign arm, called the allegations “deeply troubling” and said: “If these allegations are found to be true, Roy Moore must drop out of the Alabama special Senate election.”
+
+Jones’ campaign told multiple news outlets: “Roy Moore needs to answer these serious charges.”
+
+But Moore’s campaign issued a statement saying the report is “baseless” and false.
+
+“National liberal organizations know their chosen candidate Doug Jones is in a death spiral, and this is their last ditch Hail Mary,” Moore campaign chairman Bill Armistead said.
+“Judge Roy Moore is winning with a double-digit lead.
+So it is no surprise, with just over four weeks remaining, in a race for the U.S. Senate with national implications, that the Democratic Party and the country’s most liberal newspaper would come up with a fabrication of this kind.
+
+“This garbage is the very definition of fake news and intentional defamation,” he said.
+
+The Post noted that the legal age of consent in the state is 16, and sexual contact by anyone 19 or older with anyone between 12 and 16 years old is considered second-degree sexual abuse.
+
+The statute of limitations, though, has long since passed.
+
+The Post interviewed three other women who were teenagers at the time who claimed Moore pursued them when he was in his 30s, though he did not force them into any type of sexual relationship.
+
+“I have prayed over this,” Corfman told the Post as to why she came forward, “All I know is that I can’t sit back and let this continue, let him continue without the mask being removed.”
+
+Alabama's Republican governor, Kay Ivey, responded: “These allegations are deeply disturbing.
+I will hold judgment until we know the facts.
+The people of Alabama deserve to know the truth and will make their own decisions.”
+
+STEP 1:
+* Evil
+* Lie
+* Cheat
+* Steal
+* Inflict
+* Silenced
+* Shut
+* Christian
+* Conservatives
+* Spiritual
+* Crossroads
+* Futures
+* Never
+* Give
+* Up
+* Fight
+* Troubling
+* Death
+* Spiral
+* Fabrication
+* Garbage
+* Defamation
+* Fake
+* Intentional
+* Disturbing
+* Truth
+
+SUMMARY:
+President Trump believes that if the sexual misconduct allegations against Alabama Republican Senate candidate Roy Moore are true, Moore "will do the right thing and step aside." The allegations, which include claims of sexual encounters with a 14-year-old girl, are "deeply troubling" and have sparked calls for Moore to drop out of the race. Moore has denied the allegations, calling them a "fabrication" and "fake news" aimed at silencing "Christian conservatives." He claims the "forces of evil" are behind the allegations, and vows to "never give up the fight." The White House has cautioned against a rush to judgment, but many GOP senators have called on Moore to step aside if the allegations are true. END OF SUMMARY.
+
+Now, here is the target news article to summarize:
+Here is the news article:
+
+President Obama called the murder of four Marines in Tennessee Thursday “heartbreaking” and pleaded for Americans not to jump to conclusions, but Republicans were already blaming him for what investigators termed domestic terrorism, as the shooting quickly became part of the 2016 presidential campaign. Louisiana Gov. Bobby Jindal, who is seeking the GOP nomination, said the killing appeared to be terrorism, and said Mr. Obama needs confront the dangers posed by the “evil” of jihadists. “This shooting underscores the grave reality of the threat posed to us by radical Islamic terrorism every single day,” the governor said. “It’s time for the White House to wake up and tell the truth and the truth is that radical Islam is at war with us, and we must start by being honest about that.” With the Islamic State holding ground in Iraq and Syria, questions still swirling about the 2012 attack on the U.S. diplomatic post in Benghazi, Libya, and lone-wolf incidents seemingly on the rise at home, terrorism is shaping up to be a major part of the presidential debate, and Mr. Obama’s policies will be at the root of that. The shooting also reignited the debate over guns at military facilities, after officials acknowledged troops at the Naval Reserve center where the murders took place were prohibited from being armed. One advocacy group said the killings should force a change in that policy. The president kept politics out of his own brief remarks Thursday evening. “I speak for the American people in expressing our deepest condolences,” Mr. Obama said. He also asked Americans to wait for more facts about the shooting, and did not use the word “terror” to describe the attack. “We take all shootings very seriously,” he said in the Oval Office, soon after returning from a visit to a federal prison in Oklahoma. “Obviously, when you have an attack on a U.S. military facility, then we have to make sure that we have all the information necessary to make an assessment in terms of how this attack took place, and what further precautions we can take in the future. And as we have more information, we’ll let the public know.” The FBI identified the gunman as 24-year-old Mohammad Youssuf Abdulazeez, a 2012 graduate of the University of Tennessee at Chattanooga, and said he shot at a military recruiting center in Chattanooga before heading to a Navy operations support center seven miles away, where he shot and killed the four Marines before being killed himself. Early news reports said Abdulazeez was born in Kuwait but was a naturalized U.S. citizen. “While it would be premature to speculate on the motives of the shooter at this time, we will conduct a thorough investigation of this tragedy and provide updates as they are available,” the FBI said. But U.S. Attorney Bill Killian told reporters that authorities were treating the shooting as an “act of domestic terrorism.” Rep. Adam Schiff, the ranking Democrat on the House intelligence committee, said he’d been briefed and it was too early to say whether the gunman had ties to al Qaeda or the Islamic State. “We will, of course, be investigating whether these acts were the result of online propaganda or other extremist influence,” he said. Rep. Michael McCaul, chairman of the House Homeland Security Committee, said the attacks are a reminder “that there are people right here in America who are intent on striking from within.” “We must remain vigilant in our efforts to counter the evil and twisted ideology that drives vulnerable minds into unconscionable acts of violence and hate,” he said. The threat from the Islamic State is growing. Federal authorities have charged 62 people with planning attacks on the homeland on behalf of the Islamic State or trying to provide material support to the terror group. Authorities filed charges against 13 people in 2014 and 49 in 2015, according to data compiled by The Washington Times. Of the 49 charged this year, 28 were young men between the ages of 17 and 25, according to the data. About 30 percent were foreign-born individuals who either had permanent residency or had become naturalized citizens. Six of the foreign-born supporters hailed from Bosnia, four of them came from Uzbekistan, one came from Kazakhstan, one was born in Syria and another was born in Iraq. An internal congressional document shows that federal authorities have uncovered more U.S.-based terror plots or attacks in the first half of 2015 than in any year since terrorist drove planes into the New York City World Trade Center towers and the Pentagon on Sept. 11, 2001. Thursday’s shooting bore a resemblance to other gun attacks from earlier in Mr. Obama’s tenure. In 2009, a man did a drive-by shooting of an Army recruiting office in Little Rock, Ark., killing one soldier and wounding another. The shooter was a convert to Islam. Also in 2009, an Army major who’d been in contact with Anwar al-Awlaki, a wanted terrorist suspect, killed 13 people and wounded dozens more in a shooting at Fort Hood in Texas. The Obama administration officially labeled that killing workplace violence. Mr. Jindal on Thursday said that designation is part of the problem. “This is grotesque. You cannot defeat evil until you admit that it exists,” he said. On Capitol Hill, lawmakers were already engaged in a debate over how the federal government confronts violent extremists. Democrats say white supremacists and anti-government extremists have posed more of a danger than radicalized Muslims, and questioned whether the government was putting its efforts in the right place.
+
+(1) First, you identify all the single words that are morally framed. Identify this step as "STEP 1:" and report each word in a new line starting with *
+(2) Finally, you write a summary of the news article. Please preserve as many morally framed words as possible in your summary. The summary has to be returned after a "SUMMARY:" token and ending with a "END OF SUMMARY." token. The summary should be no longer than 200 words.

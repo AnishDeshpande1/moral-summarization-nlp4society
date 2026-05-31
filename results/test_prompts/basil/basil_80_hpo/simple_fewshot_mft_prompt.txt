@@ -1,0 +1,166 @@
+You have to summarize the following text preserving the moral framing that the author gave to it, with particular focus on the specific moral foundations highlighted in the text.
+
+Please study the following examples of news articles and their summaries preserving the moral framing:
+
+Example 1 (Political Ideology: Left, Moral Foundations: Fairness/Cheating):
+Here is the news article:
+
+WASHINGTON – Five hundred and eighty-four days after descending his Trump Tower escalator to announce his candidacy, Donald J. Trump took the oath of office Friday to become the 45th president of the United States.
+
+Chief Justice John Roberts administered the 38-word oath at 12:00 p.m., capping Trump’s unlikely journey from New York City real estate developer and reality TV star to the nation’s highest office.
+
+Trump won the Republican nomination against a crowded field of 16 other candidates, many far more experienced in politics.
+But he was able to capitalize on a primary voting base that was angry at the establishment GOP for not more aggressively fighting President Barack Obama’s policies.
+
+He trailed Democratic nominee Hillary Clinton in the general election nearly the entire way.
+In the final month of the race, he was helped by the near daily release of internal Democratic Party emails stolen by Russian hackers as well as by FBI Director James Comey’s decision to reopen, briefly, the probe into Clinton’s use of a private email server.
+
+Trump wound up winning Wisconsin, Michigan and Pennsylvania by a total of 78,000 votes.
+Clinton had counted on winning all three.
+
+SUMMARY:
+
+Donald Trump, a real estate developer and reality TV star, took the oath of office to become the 45th President of the United States, marking the culmination of his unlikely journey. Trump's victory was fueled by the anger of primary voters towards the establishment GOP, which they felt did not adequately oppose President Obama's policies. Despite trailing Democratic nominee Hillary Clinton in the general election, Trump benefited from the release of stolen Democratic Party emails and FBI Director James Comey's decision to reopen the probe into Clinton's email server. Trump ultimately won the presidency by a narrow margin of 78,000 votes in Wisconsin, Michigan, and Pennsylvania, states Clinton had expected to win.
+
+The moral framing of this article suggests that Trump's victory was, in part, a result of exploiting the anger and frustration of voters towards the political establishment, and that his campaign was aided by external factors such as the release of stolen emails and the actions of the FBI director. This framing implies that Trump's presidency was not solely the result of his own merits, but rather the outcome of a complex interplay of factors.
+
+END OF SUMMARY.
+
+Example 2 (Political Ideology: Center, Moral Foundations: Authority/Subversion):
+Here is the news article:
+
+Donald J. Trump on Tuesday assailed Justice Ruth Bader Ginsburg of the Supreme Court for speaking out on the presidential race, calling her disdainful remarks about his candidacy “highly inappropriate” and suggesting that she owed other justices an apology.
+
+Mr. Trump’s remarks came in a telephone interview with The Times two days after Justice Ginsburg was quoted as saying she was frightened about what the nation would look like if he were elected.
+
+“I can’t imagine what this place would be — I can’t imagine what the country would be — with Donald Trump as our president,” Justice Ginsburg told The Times in an interview published Sunday.
+“For the country, it could be four years.
+For the court, it could be — I don’t even want to contemplate that.”
+She even joked ruefully about moving to New Zealand.
+
+Mr. Trump, the presumptive Republican nominee, said he found those remarks unbefitting a member of the high court.
+
+“I think it’s highly inappropriate that a United States Supreme Court judge gets involved in a political campaign, frankly,” Mr. Trump said.
+“I think it’s a disgrace to the court and I think she should apologize to the court.
+I couldn’t believe it when I saw it.”
+
+He continued: “That she should be saying that?
+It’s so beneath the court for her to be making statements like that.
+It only energizes my base even more.
+And I would hope that she would get off the court as soon as possible.”
+
+Mr. Trump also said he expected to announce his choice of a running mate by Friday, winding down a process that has been closely watched as in all likelihood the most significant decision he will make in his campaign.
+
+“I have five candidates, plus two, two that are unknown to anybody,” Mr. Trump said from Chicago, where he was raising money for his campaign.
+
+“I will be making a decision over the next three- to four-day period of time, and I think it will be a decision that will be a very good decision for a lot of people,” he added.
+
+Mr. Trump said that he was not basing his vice-presidential selection on fund-raising prowess or potential, and indicated that he had had enough experience with many of those he has been considering for the job that their tryouts on the campaign trail would not necessarily be determinative.
+
+“I’ve been with these people for a long time — I know them,” Mr. Trump said, specifically invoking Gov. Chris Christie of New Jersey and Newt Gingrich, the former House speaker.
+“Christie was excellent yesterday and Newt is excellent.” Mr. Trump will appear on Tuesday night in Indiana with Gov. Mike Pence, who has risen in the estimation of many of the nominee’s advisers.
+
+Mr. Trump said his decision was largely coming down to instinct.
+“A lot of is gut. A lot of it is,” he said.
+“My whole life has been about gut.”
+
+He also suggested that he would consider polling in states like heavily Democratic Connecticut, which he again said he believed he could put in play in November.
+
+Asked for quick thoughts about each of the candidates he is known to be considering, Mr. Trump played along.
+
+Governor Christie? “Strong,” he said.
+
+Retired Lt. Gen. Mike Flynn? “A patriot.”
+
+Senator Joni Ernst of Iowa? “A terrific, exciting person.”
+
+Governor Pence? “Solid as a rock.”
+
+And Mr. Gingrich? “Newt is Newt. He’s a good guy.”
+
+SUMMARY:
+
+Donald Trump has criticized Justice Ruth Bader Ginsburg for speaking out against his presidential candidacy, calling her remarks "highly inappropriate" and suggesting that she owes an apology to the Supreme Court. Trump believes that a Supreme Court justice should not get involved in a political campaign, and that Ginsburg's comments were unbefitting of the high court. Trump's remarks come after Ginsburg expressed her concerns about what the country would look like if Trump were elected, even joking about moving to New Zealand. Trump's criticism of Ginsburg is seen as an attempt to undermine her credibility and independence. Meanwhile, Trump also discussed his plans to announce his running mate by Friday, saying that his decision would be based on instinct rather than fundraising prowess.
+
+The moral framing of this article suggests that Trump's criticism of Ginsburg is an attempt to silence and discredit a respected member of the Supreme Court, and that his actions are an affront to the independence and integrity of the judiciary. Trump's behavior is portrayed as inappropriate and disrespectful, and his comments are seen as an attempt to undermine the credibility of a respected public figure.
+
+END OF SUMMARY.
+
+Example 3 (Political Ideology: Right, Moral Foundations: Authority/Subversion, Care/Harm, Fairness/Cheating):
+Here is the news article:
+
+FBI official Peter Strzok, who played a lead role in both the Russian meddling and Hillary Clinton email probes but became a political lightning rod after the revelation of anti-Trump text messages, has been fired.
+
+Strzok attorney Aitan Goelman said in a statement Monday that his client, a 21-year FBI veteran, was fired Friday afternoon, claiming this was a departure from standard practice and politically motivated. 
+Goelman said bureau Deputy Director David Bowdich “overruled” the FBI's Office of Professional Responsibility to remove him. 
+
+“This decision should be deeply troubling to all Americans,” the attorney said. 
+
+The FBI responded: “Mr. Strzok was subject to the standard FBI review and disciplinary process after conduct highlighted in the IG report was referred to the FBI’s Office of Professional Responsibility (OPR). 
+OPR reviewed the investigative materials, as well as the written and oral responses of Mr. Strzok and his counsel, and issued OPR's decision. 
+The Deputy Director, as the senior career FBI official, has the delegated authority to review and modify any disciplinary findings and/or penalty as deemed necessary in the best interest of the FBI.”
+
+Strzok appeared to launch a new Twitter account to fire back, saying he's "deeply saddened" by the decision and linking to a GoFundMe page. 
+
+President Trump and his allies for months, though, have hammered the former FBI agent and cast him as the poster child for anti-Trump bias within the bureau and Justice Department. 
+
+Reacting to the firing, the president tweeted, "finally," while asking whether the Russia case will now be dropped:
+
+"Agent Peter Strzok was just fired from the FBI - finally. 
+The list of bad players in the FBI & DOJ gets longer & longer. 
+Based on the fact that Strzok was in charge of the Witch Hunt, will it be dropped? 
+It is a total Hoax. 
+No Collusion, No Obstruction - I just fight back!"
+
+The president over the weekend had tweeted that Strzok and others have “badly damaged” the FBI’s reputation, referring to them as “clowns and losers!” 
+
+Strzok was removed from the special counsel probe last year after the discovery that he exchanged anti-Trump and other politically charged messages with colleague and lover Lisa Page. 
+
+Judicial Watch Director of Investigations Chris Farrell on how FBI official Peter Strzok requested that he retain his security clearance after being added to special counsel Robert Mueller's team. 
+In June, he was then escorted from his FBI office and lost his security clearance amid the release of a scathing DOJ inspector general report that largely dealt with the DOJ and FBI’s handling of the investigation into Clinton’s private email server but uncovered messages that “appeared to mix political opinion with discussions” about that probe -- namely, between Strzok and Page.   
+
+The IG ultimately found no evidence that the bias among the several FBI agents impacted prosecutorial decisions in the Clinton email probe. 
+But Republicans have repeatedly raised concerns that anti-Trump bias played a role in the start of the investigation into Russian meddling and potential collusion with Trump associates in 2016. 
+
+One Strzok text in particular vowed to "stop" Trump from becoming president. 
+
+In an explosive congressional hearing last month, Strzok sought to clear his name and address the many controversial messages. 
+He claimed his personal opinions did not affect his work.
+But Republicans tore into the FBI official, with House Oversight Committee Chairman Trey Gowdy saying he exhibited "textbook bias." 
+
+Trump's allies cheered the former agent's termination on Monday. 
+
+"Peter Strzok was fired from the FBI because of what his own written words plainly showed: 
+he was willing to use his official FBI position to try and stop President Trump from getting elected. 
+He tarnished the FBI's sterling reputation and severely damaged public trust in an institution where trust is paramount. 
+His conduct should deeply concern every American," House Freedom Caucus Chairman Mark Meadows, R-N.C., said in a statement to Fox News. 
+
+Strzok’s attorney, meanwhile, blasted the bureau on Monday, saying the deputy director “reversed the decision of the career FBI official responsible for employee discipline who concluded, through an independent review process, that a 60-day suspension and demotion from supervisory duties was the appropriate punishment.”
+
+He added, “A lengthy investigation and multiple rounds of Congressional testimony failed to produce a shred of evidence that Special Agent Strzok’s personal views ever affected his work.” 
+
+The Justice Department declined to comment for this report. 
+
+Text messages first emerged last year, showing Strzok and Page discussing 2016 campaign politics and repeatedly blasting Trump. 
+In one message, Strzok called Trump an "idiot." 
+
+Messages continued to trickle out, including some reflecting apparent concern about being too tough on Clinton during the investigation into her private email system use. 
+
+The inspector general report, meanwhile, referred a total of five FBI employees for investigation in connection with politically charged texts, suggesting more disciplinary action could be considered for additional employees. 
+Lisa Page left the bureau earlier this year. 
+
+SUMMARY:
+
+FBI official Peter Strzok, who led investigations into Russian meddling and Hillary Clinton's emails, was fired after 21 years of service. Strzok's attorney claims the decision was politically motivated and a departure from standard practice. The FBI responded that Strzok was subject to a standard review process and the Deputy Director had the authority to review and modify the disciplinary findings. Strzok's firing comes after President Trump and his allies repeatedly attacked him, citing anti-Trump bias within the bureau. Strzok's text messages, including one vowing to "stop" Trump from becoming president, were seen as evidence of bias. Republicans cheered the firing, saying Strzok's conduct damaged the FBI's reputation and public trust. Strzok's attorney argued that there was no evidence his personal views affected his work. The firing raises concerns about the politicization of the FBI and the impact on public trust in institutions.
+
+END OF SUMMARY.
+
+Now, here is the target news article to summarize:
+Here is the news article:
+
+Trump Attacks Justice Department As 'Deep State,' Calls For Jailing Top Clinton Aide WASHINGTON ― President Donald Trump on Tuesday renewed his attack on his “deep state” Justice Department, and said a top aide to 2016 election rival Hillary Clinton should be jailed. Trump, returning to Washington after spending the holidays at his Florida resort, posted an early-morning tweet lashing out at former Clinton aide Huma Abedin, apparently in response to Abedin emails released by the State Department on Friday. The emails, disclosed in response to a Freedom of Information Act lawsuit filed by the conservative group Judicial Watch, were uncovered during the 2016 presidential campaign, according to Politico, part of the FBI’s probe into Clinton’s use of a private email server during her time as secretary of state. Abedin reportedly forwarded State Department emails, including some that contained passwords, to a personal account. Trump and his right-wing allies continue to raise the issue. Trump also said in his tweet that the Justice Department must act on “Comey and others,” a reference to former FBI Director James Comey, who was leading the investigation into whether Trump’s campaign colluded with Russia to influence the election until Trump fired him in May. Trump, in tweets and interviews, has repeatedly sought to undermine his Justice Department and FBI as the Russia probe has intensified. He has criticized Attorney General Jeff Sessions numerous times for recusing himself from supervising the Russia investigation, and claims to have the right to direct government investigations himself. Last week, Trump asserted in a New York Times interview that he had the “absolute right to do what I want to do with the Justice Department.”
+
+For this target article, the author's moral framing heavily relies on the following Moral Foundation dimensions: Authority/Subversion, Fairness/Cheating, Loyalty/Betrayal.
+Please pay special attention to preserving the moral framing related to these specific dimensions (Authority/Subversion, Fairness/Cheating, Loyalty/Betrayal) in your summary.
+
+The summary has to be returned after a "SUMMARY:" token and ending with a "END OF SUMMARY." token. The summary should be no longer than 200 words.

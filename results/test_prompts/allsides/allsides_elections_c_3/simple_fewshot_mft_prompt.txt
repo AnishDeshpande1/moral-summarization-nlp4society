@@ -1,0 +1,146 @@
+You have to summarize the following text preserving the moral framing that the author gave to it, with particular focus on the specific moral foundations highlighted in the text.
+
+Please study the following examples of news articles and their summaries preserving the moral framing:
+
+Example 1 (Political Ideology: Left, Moral Foundations: Fairness/Cheating):
+Here is the news article:
+
+WASHINGTON – Five hundred and eighty-four days after descending his Trump Tower escalator to announce his candidacy, Donald J. Trump took the oath of office Friday to become the 45th president of the United States.
+
+Chief Justice John Roberts administered the 38-word oath at 12:00 p.m., capping Trump’s unlikely journey from New York City real estate developer and reality TV star to the nation’s highest office.
+
+Trump won the Republican nomination against a crowded field of 16 other candidates, many far more experienced in politics.
+But he was able to capitalize on a primary voting base that was angry at the establishment GOP for not more aggressively fighting President Barack Obama’s policies.
+
+He trailed Democratic nominee Hillary Clinton in the general election nearly the entire way.
+In the final month of the race, he was helped by the near daily release of internal Democratic Party emails stolen by Russian hackers as well as by FBI Director James Comey’s decision to reopen, briefly, the probe into Clinton’s use of a private email server.
+
+Trump wound up winning Wisconsin, Michigan and Pennsylvania by a total of 78,000 votes.
+Clinton had counted on winning all three.
+
+SUMMARY:
+
+Donald Trump, a real estate developer and reality TV star, took the oath of office to become the 45th President of the United States, marking the culmination of his unlikely journey. Trump's victory was fueled by the anger of primary voters towards the establishment GOP, which they felt did not adequately oppose President Obama's policies. Despite trailing Democratic nominee Hillary Clinton in the general election, Trump benefited from the release of stolen Democratic Party emails and FBI Director James Comey's decision to reopen the probe into Clinton's email server. Trump ultimately won the presidency by a narrow margin of 78,000 votes in Wisconsin, Michigan, and Pennsylvania, states Clinton had expected to win.
+
+The moral framing of this article suggests that Trump's victory was, in part, a result of exploiting the anger and frustration of voters towards the political establishment, and that his campaign was aided by external factors such as the release of stolen emails and the actions of the FBI director. This framing implies that Trump's presidency was not solely the result of his own merits, but rather the outcome of a complex interplay of factors.
+
+END OF SUMMARY.
+
+Example 2 (Political Ideology: Center, Moral Foundations: Authority/Subversion, Care/Harm, Fairness/Cheating):
+Here is the news article:
+
+WASHINGTON — With the announcement on Saturday that the U.S. and Russia have reached an agreement on securing Syria's chemical weapons stockpile, the American threat of U.S. military action was effectively taken off the table.
+
+After more than two weeks of saber-rattling — and an unsuccessful effort by President Obama to win congressional and public support for a limited military strike — it was a last-minute diplomatic push led by the Russians that saved the day.
+
+But the Obama administration is wading into the deal — which will undoubtedly be scrutinized by a Congress that is distrustful of Russian President Vladimir Putin and Syrian President Bashar Assad — with eyes wide open.
+
+"The international community expects the Assad regime to live up to its public commitments," Obama said in a statement Saturday afternoon.
+"While we have made important progress, much more work remains to be done."
+
+Secretary of State John Kerry was even more blunt about U.S. caution.
+
+"We have committed to a standard that says verify and verify," Kerry said at news conference in Geneva, where he and his Russian counterpart, Sergey Lavrov, announced the framework of the agreement to secure and destroy the Syrian chemical weapons stockpile.
+
+In previous comments, Obama has made clear that trusting the Russians and Assad will not be easy.
+
+The president's relationship with Putin is famously tense, with the two sparring over Syria policy and Putin's decision to give temporary asylum to former National Security Agency contractor Edward Snowden after he leaked a treasure trove of classified information on U.S. intelligence surveillance practices.
+
+And the Russian president didn't engender any American confidence when he penned a commentary in The New York Times earlier this week in which he slammed Obama for speaking of American exceptionalism in making his case for military action against Syria and made the dubious claim that the rebels were responsible for chemical attacks against it own people.
+
+"We are not just going to take Russia and Assad's word for it.
+We need to see concrete actions to demonstrate that Assad is serious about giving up his chemical weapons," Obama said in his weekly radio address that aired Saturday morning and was taped ahead of the deal being announced.
+
+Among the fine details of the deal, which was hatched out over three days by Kerry and Lavrov, are: Syria's chemical weapons stockpile must be removed or destroyed by 2014, international inspections will begin by November, and the Syrians will offer full disclosure of its arsenal within a week.
+
+The two sides also agreed that any potential violations by the Syrians would be taken to the United Nations Security Council — where the Russians have veto power — for response.
+
+That element of the deal allows both sides to claim that they stood their ground on potential use of force for further violations by the Assad regime.
+Putin said it was unrealistic for the Americans to call on Assad to hand over weapons when facing the threat of military action, while Obama has refused to cede his authority to take such action.
+
+If the framework is implemented, it would meet Obama's goals of taking away the Assad regime's ability to conduct another chemical attack.
+But the White House will have a harder time making its case that it truly held Assad responsible for carrying out the brutal Aug. 21 attack that killed 1,400 Syrian civilians on the outskirts of Damascus.
+
+Sen. Bob Corker of Tennessee, the top Republican on the Senate Foreign Relations Committee, said that under the terms of agreement "Syria's willingness to follow through is very much an open question."
+
+The deal is far from perfect, and requires the administration to take a leap of faith in trusting the Syrians and Russians to keep their part of the deal.
+
+But for Obama, it offered the best way out of his unpopular call for military action.
+
+"Obama is a winner on this substantively, but the optics on this are bad," said Jim Walsh, an expert on international security at the Massachusetts Institute of Technology's security studies program.
+"Syria doesn't get bombed, and Assad is happy about that.
+The Russians are winners because they look like they are birthing a diplomatic solution to what was going to be another war in the Middle East.
+
+"Obama is not going to get credit for this because of his critics at home, but on the substance it is a win," Walsh added.
+
+After the last two weeks, the White House will take it.
+
+SUMMARY:
+
+The US and Russia have reached an agreement to secure Syria's chemical weapons stockpile, effectively taking the threat of US military action off the table. The deal, led by the Russians, comes after two weeks of diplomatic efforts and a failed attempt by President Obama to win congressional and public support for a limited military strike. While the agreement is a step forward, the Obama administration is cautious, with eyes wide open, given the distrust of Russian President Vladimir Putin and Syrian President Bashar Assad. The deal requires Syria to remove or destroy its chemical weapons by 2014, with international inspections starting in November. The US is wary of trusting the Russians and Assad, and the agreement's success depends on their commitment to the deal. Despite its imperfections, the deal offers the best way out of the crisis, but its optics are bad, with Assad and the Russians emerging as winners.
+
+END OF SUMMARY.
+
+Example 3 (Political Ideology: Right, Moral Foundations: Authority/Subversion, Care/Harm, Fairness/Cheating):
+Here is the news article:
+
+The resurgent controversy over the Obama administration's initial story-line on the Benghazi attack underscores State Department concerns about the leadership's failure to act on documented warnings and security incidents.
+
+Draft "talking points" obtained by The Weekly Standard and ABC News depicted efforts by State Department spokeswoman Victoria Nuland in the days after the attack to strip out references to prior attacks in Benghazi.
+According to the excerpts, she argued that the administration should not give Congress ammunition to "beat up" on her department.
+
+During a press conference Monday, President Obama even acknowledged that the country now knows that "clearly (the staff in Benghazi) were not in a position where they were adequately protected."
+
+A review of now-public State Department records as well as a classified State Department cable, first reviewed and reported by Fox News, shows a steady stream of documented warnings to Washington from intelligence and State security officials on the ground in Libya that the Islamist threat was severe and growing.
+
+One of the most significant warnings was an August 2012 State Department classified cable, which has not been made public, that summarized an emergency meeting in Benghazi where the CIA briefed on the significant threat of terrorist activity.
+
+The cable, sent under Ambassador Chris Stevens' signature and marked SECRET, warned the office of Secretary of State Clinton that the CIA advised "ten Islamist militias and AQ training camps (were) within Benghazi."
+
+The cable also warned that the 17 February Brigade, the group charged with protecting the consulate, appeared to be compromised.
+It said "requests to provide a daily police presence have gone unanswered," adding there was also a "lack of host nation security support to the US mission."
+
+In addition to identifying the presence of Al Qaeda and Ansar al-Sharia in Benghazi, the groups ultimately blamed for the assault, a key section of the cable, which remains classified, seemed to foreshadow the attack itself.
+
+"RSO (Regional Security Officer) expressed concerns with the ability to defend Post in the event of a coordinated attack due to limited manpower, security measures, weapons capabilities, host nation support, and the overall size of the compound," it said.
+
+During congressional hearings in January, Clinton was asked whether she had seen the cable by Republican Rep. Michael McCaul.
+Clinton said she had no knowledge of the warning which former diplomatic security agents have told Fox News amounted to a "cry for help."
+
+"Congressman, that cable did not come to my attention," Clinton testified before the House Foreign Affairs committee.
+"I have made it very clear that the security cable did not come to my attention or above the assistant secretary level where the ARB (Accountability Review Board) placed responsibility where, as I think, Ambassador Pickering said the rubber hit the road."
+
+In February, Republican Sen. Lindsey Graham followed up on the classified cable.
+
+After the chairman of the Joint Chiefs of Staff confirmed he knew about the cable which summarized the August emergency meeting in Benghazi, Graham questioned why the military was read in when Clinton apparently was not.
+
+Gen. Martin Dempsey responded: "Well, I don't know that she didn't know about the cable."
+
+Graham said: "She said she didn't. Are you stunned that she didn't?"
+
+Dempsey said: "I would call myself surprised that she didn't."
+
+In addition to attacks in Benghazi on the British ambassador -- which forced the temporary closure of the U.K. operation -- the International Red Cross and United Nations, in the summer of 2012 the group Ansar al-Sharia was so well-established it held an annual conference in Benghazi to promote Islamic law.
+
+Records released by the House oversight committee, including a report from the regional security officer, also documented more than 200 cases of violence in Libya in the year leading up to the attack, specifically between June 2011 and July 2012.
+Another security review, on June 25, 2012, reported a spike in violence with "foreigners also increasingly targeted."
+
+While much has been made of the State Department's failure to respond to repeated security requests for extra help, a former diplomatic security agent and 20-year veteran of the department, who reviewed the publicly available documents on the condition of anonymity, told Fox News the multiple warnings present a compelling argument that State Department leadership was negligent.
+
+The State Department, in a document put out last week, noted that while an internal review found certain senior officials "demonstrated a lack of proactive leadership and management ability" in response to security concerns, there was no specific finding of misconduct.
+
+SUMMARY:
+
+The Obama administration's handling of the Benghazi attack has sparked controversy, with concerns over the State Department's failure to act on documented warnings and security incidents. Classified cables and records reveal a steady stream of warnings from intelligence and security officials on the ground in Libya, highlighting the severe and growing Islamist threat. A significant August 2012 cable warned of Al Qaeda and Ansar al-Sharia's presence in Benghazi, and foreshadowed the attack. Despite this, Secretary of State Clinton claimed she had no knowledge of the warning, which former diplomatic security agents deem a "cry for help." The State Department's internal review found senior officials demonstrated a "lack of proactive leadership and management ability" in response to security concerns, but no misconduct. The administration's failure to prioritize security and protect American lives is a grave moral failure, underscoring a lack of accountability and responsibility.
+
+END OF SUMMARY.
+
+Now, here is the target news article to summarize:
+Here is the news article:
+
+Even if hackers don't actually try to tamper with voting Tuesday, the unprecedented amount of cyberattacks this campaign cycle – and the public warnings of possible Election Day digital fraud – has already had a profound impact on American democracy. Consider this: In the wake of widespread hacks against political organizations this summer, a survey from cybersecurity firm Carbon Black found that 38 percent of Americans are "concerned" that the election itself could be hacked, while another 18 percent are "very concerned." Just 11 percent of respondents said they were "not concerned at all." These fears of digital sabotage, apparently, led 1 out of 5 respondents to say they might not even vote. If that's representative of the entire electorate, it means that some 15 million people could stay home Tuesday – as a result of a hacking campaign the Obama administration has blamed on Russia. After an unknown group or person known as Guccifer 2.0 claimed responsibility for the hack on the Democratic National Committee this summer, the Department of Homeland Security and the Office of the Director of National Intelligence blamed senior Russian officials for orchestrating the breach as part of a broader effort to sway American public opinion and undermine trust in the election. But the high-profile accusation didn't quash Guccifer: It resurfaced once again over the weekend to hint at more Election Day tampering: "I will monitor that the elections are held honestly. I also call on other hackers to join me, monitor the elections from inside and inform the US society about the facts of electoral fraud." While election and cybersecurity experts dismissed that claim as hyperbole, it may be a "last-ditch effort" to sway the vote or deter people from heading to the polls, Justin Fier, director for cyber intelligence and analysis with security firm Darktrace, told PCWorld. "His goal during all this time has been public influence." Warnings that voting booths might be hacked have certainly put state election officials on alert for any abnormalities Tuesday. DHS officials say they've spoken to all 50 states about providing help with scanning their systems for risks and offering other services, but wouldn’t detail the assistance specific states had received. But even if foreign hackers can't compromise actual voting systems, the internet campaign to spread fear of vote hacking and manipulation may be enough to have a major impact on public trust. Daniel Chiu, deputy director of the Brent Scowcroft Center on International Security at the Atlantic Council, noted that since Republican candidate Donald Trump and others are claiming the election could be rigged, hackers don't need to actually strike on Tuesday to discredit the vote. "Merely a credible claim of doing so could compel voters to cry foul and undermine the legitimacy of the vote both at home in the US and abroad," said Mr. Chiu. To be sure, successfully compromising voting machines would be difficult, say experts. "The US election landscape is made up of approximately 9,000 different state and local jurisdictions, providing a patchwork of laws, standards, processes, and voting machines," noted Ian Gray, cyber intelligence analyst at the firm Flashpoint, in a blog post today. "This environment is a formidable challenge to any actor – nation-state or not – who seeks to substantially influence or alter the outcome of an election." But that's probably not Russia's aim, he said. "Russia can most likely achieve a more reliable outcome with fewer resources not by attacking the election infrastructure directly, but rather by organizing a disinformation campaign attacking confidence in the election itself." Some experts say that mere reports of possible Election Day hacking on social media, blogs, and in mainstream news outlets could fuel post-election challenges to the results. "If you lose faith in the process, then what? There could be appeals for months," said Ben Johnson, chief security strategist at Carbon Black. "There could be appeals for months. We need to have enough integrity and transparency in the process so people are comfortable that the election wasn't tampered with." State officials are on guard for any potential signs of tampering. "There's a heightened awareness and a heightened concern," said Karen Jackson, Virginia Secretary of Technology. "If you're paying attention to cybersecurity, then election systems are just one of the systems you're paying attention to anyway." The idea of nameless, faceless hackers or foreign spies disrupting the election, clearly, is a major concern on Tuesday. But it's not just a cyberattack that could have an impact, she notes. "Somebody could pull a fire alarm. All of those things have the power to disrupt the voting process."
+
+For this target article, the author's moral framing heavily relies on the following Moral Foundation dimensions: Authority/Subversion, Fairness/Cheating.
+Please pay special attention to preserving the moral framing related to these specific dimensions (Authority/Subversion, Fairness/Cheating) in your summary.
+
+The summary has to be returned after a "SUMMARY:" token and ending with a "END OF SUMMARY." token. The summary should be no longer than 200 words.

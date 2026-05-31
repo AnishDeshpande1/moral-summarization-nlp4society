@@ -1,0 +1,144 @@
+You have to summarize the following text preserving the moral framing that the author gave to it, with particular focus on the specific moral foundations highlighted in the text.
+
+Please study the following examples of news articles, their moral word extraction, and summaries preserving the moral framing:
+
+Example 1 (Political Ideology: Left, Moral Foundations: Authority/Subversion, Sanctity/Degradation):
+Here is the news article:
+
+Republican presidential candidate Rick Perry pledges to end "[President Barack] Obama's war on religion" in a new television ad airing in Iowa, railing against open service of gays and lesbians in the military and the prohibition against prayer in public schools.
+
+"I'm not ashamed to admit I'm a Christian," says Perry.
+"But you don't need to be in the pews every Sunday to know that there's something wrong in this country when gays can serve openly in the military but our kids can't openly celebrate Christmas or pray in school."
+
+"As president, I'll end Obama's war on religion and I'll fight against liberal attacks on our religious heritage," the Texas governor continues.
+"Faith made America strong. It can make her strong again."
+
+Perry has recently stepped up his attacks on Obama for cultural issues.
+In a statement released Tuesday, he decried the Obama administration’s decision to use foreign aid to promote rights for gays and lesbians abroad.
+
+"This is just the most recent example of an administration at war with people of faith in this country," he said.
+"Investing tax dollars promoting a lifestyle many Americas of faith find so deeply objectionable is wrong.
+President Obama has again mistaken America's tolerance for different lifestyles with an endorsement of those lifestyles."
+
+Politico reported Tuesday that Perry bought $1 million in broadcast television time ahead of the Jan. 3 caucuses.
+The Dallas Morning Newsrecently reported that his presidential campaign plans to bring "more than 600 influential Texans" to Iowa in December.
+However, Perry netted just six percent support among likely Republican caucus-goers, according to a Des Moines Register poll released Saturday.
+
+STEP 1:
+* ashamed
+* wrong
+* faith
+* heritage
+* strong
+* objectionable
+* tolerance
+* endorsement
+
+SUMMARY:
+Republican presidential candidate Rick Perry is pledging to end what he calls "[President Barack] Obama's war on religion" in a new TV ad airing in Iowa. Perry, a self-proclaimed Christian, claims that Obama's administration is at war with people of faith, citing the open service of gays and lesbians in the military and the prohibition against prayer in public schools as examples. Perry argues that it's "wrong" that kids can't openly celebrate Christmas or pray in school, while gays can serve openly in the military. He vows to "fight against liberal attacks on our religious heritage" and claims that "faith made America strong. It can make her strong again." Perry has also criticized Obama's decision to use foreign aid to promote rights for gays and lesbians abroad, calling it "wrong" and an "endorsement" of a lifestyle many Americans of faith find "objectionable." END OF SUMMARY.
+
+Example 2 (Political Ideology: Center, Moral Foundations: Care/Harm, Fairness/Cheating):
+Here is the news article:
+
+From his home at Mar-a-Lago, Donald J. Trump stirred up new controversy this week in the Republican presidential primary — and new alarm among party leaders that the front-runner for the nomination will drive away women from candidates running farther down the ballot in the fall.
+
+All week, Mr. Trump has slowly escalated a war of words on Twitter against Senator Ted Cruz of Texas, his main competition in the Republican race, based on an ad by a “super PAC” started by people who want to stop the New York developer from getting the nomination.
+The spot featured an old nude photo shoot of Mr. Trump’s wife Melania Trump, a former model, posing on his jet.
+
+Mr. Cruz has no affiliation with the super PAC, and he has denounced the ad.
+But Mr. Trump has continued to express disbelief.
+After threatening to “spill the beans” on Mr. Cruz’s wife, Heidi Cruz, who suffered a bout of depression years ago, he retweeted a post from someone who made a side-by-side photo comparison of Mrs. Cruz at an unflattering angle, and Mrs. Trump.
+
+On Wednesday, Mr. Cruz repeatedly quoted from the movie “The American President” to defend his wife, as she held an event and faced questions about Mr. Trump’s threats.
+But that was before Mr. Trump’s Twitter post with the pictures of the two women.
+And Mr. Cruz had finally had enough.
+
+Calling Mr. Trump a “sniveling coward,” Mr. Cruz told his rival to “leave Heidi the hell alone.”
+
+It’s useful to remember the news media outrage in 2012 when Todd Akin, running as the Republican nominee for Senate in Missouri, defended what he called “legitimate rape,” a remark that was overwhelmingly offensive to women.
+Under pressure from news outlets, the Republican Party tried to cauterize the wound that Mr. Akin had created by isolating him.
+
+Spouses are generally seen as off limits.
+And the responses to Mr. Trump’s comments among news media critics, over time, have been far more subdued.
+
+STEP 1:
+* controversy
+* alarm
+* war
+* disbelief
+* threatening
+* unflattering
+* defend
+* sniveling
+* coward
+* offensive
+* isolating
+* subdued
+
+SUMMARY:
+Donald Trump, the front-runner for the Republican presidential nomination, has sparked controversy and alarm among party leaders with his recent Twitter attacks on Senator Ted Cruz's wife, Heidi Cruz. Trump's threatening and sniveling behavior has been widely criticized, with many calling him a coward for targeting Mrs. Cruz. The attacks, which included a side-by-side photo comparison of Mrs. Cruz and Trump's wife Melania, have been deemed offensive and unflattering. Cruz has defended his wife, quoting from the movie "The American President" and telling Trump to "leave Heidi the hell alone." The incident has drawn comparisons to the 2012 controversy surrounding Todd Akin's comments on "legitimate rape," which were also widely condemned as offensive. END OF SUMMARY.
+
+Example 3 (Political Ideology: Right, Moral Foundations: Authority/Subversion, Fairness/Cheating):
+Here is the news article:
+
+The House of Representatives on Friday approved a sweeping election reform bill that serves as the touchstone to the House Democratic agenda but has been criticized by civil libertarians and Republicans over First Amendment concerns.
+
+The so-called “HR 1” measure embraced by House Democrats aims to curb big money in politics, make it easier to vote and bolster election security.
+It institutes a public financing system for congressional campaigns, requires presidential candidates to disclose tax returns and makes Election Day a federal holiday.
+
+The House approved the plan 234-193.
+But the measure is not expected to succeed in the Senate, where Majority Leader Mitch McConnell, R-Ky., has said the bill is dead on arrival.
+
+The American Civil Liberties Union, in a recent letter to Congress, encouraged lawmakers to vote against the bill because of “provisions that unconstitutionally impinge on the free speech rights of American citizens and public interest organizations.”
+
+“They will have the effect of harming our public discourse by silencing necessary voices that would otherwise speak out about the public issues of the day,” the ACLU wrote.
+
+One concern of civil libertarians is the bill’s inclusion of the DISCLOSE ACT, which would require all organizations that spend money on elections to disclose donors.
+
+The ACLU said it supports making organizations report spending for public communications like TV ads that expressly call for the election or defeat of a candidate for office, but it worries the DISCLOSE ACT goes beyond that.
+
+“These standards are unclear and entirely subjective, which will lead to confusion and, ultimately, less speech,” the ACLU said.
+
+Republicans called the bill a Democratic power grab that amounts to a federal takeover of elections.
+
+“Now, instead of getting money out of politics, the Democrats on this committee voted to pass a bill that will publicly fund – campaign travel, campaign dinners, and in some cases, the politicians themselves,” Illinois Rep. Rodney Davis wrote in an op-ed for The Hill.
+
+The White House said in a statement that the Democrats' plan would "micromanage" elections that now are run largely by states and would establish "costly and unnecessary program to finance political campaigns."
+
+But House Speaker Nancy Pelosi, D-Calif., said the bill "restores the people's faith that government works for the public interest, the people's interest, not the special interests."
+
+Trying to turn Republicans' words against them, Pelosi said, "Yes it is a power grab -- a power grab on behalf of the people."
+
+House GOP leader Kevin McCarthy of California said the legislation would undermine the integrity of elections by allowing convicted felons to vote, and would apply a one-size-fits-all standard to elections now run by states and local governments.
+
+Democrats called that a mischaracterization.
+
+To Rep. Zoe Lofgren, D-Calif., the bill "grabs power away from the elites and the power brokers and gives it to the people."
+
+She and other Democrats disputed the claim that taxpayers will pay for campaigns, noting that money for political campaigns would come from a surcharge on federal settlements made with banks and corporations that run afoul of the law.
+
+STEP 1:
+* Unconstitutionally
+* Silencing
+* Necessary
+* Power
+* Grab
+* Faith
+* Public
+* Interest
+* Special
+* Integrity
+* Elites
+* Power
+* Brokers
+
+SUMMARY:
+The House of Representatives has approved a sweeping election reform bill, HR 1, which aims to curb big money in politics, make voting easier, and bolster election security. However, the bill has been criticized by civil libertarians and Republicans over First Amendment concerns, with the ACLU arguing that certain provisions would "unconstitutionally impinge" on free speech rights and "silence necessary voices." Republicans have called the bill a "power grab" that would amount to a federal takeover of elections, while Democrats argue it would "restore the people's faith" in government and give power back to the people. The bill would institute a public financing system for congressional campaigns, require presidential candidates to disclose tax returns, and make Election Day a federal holiday. Despite the controversy, the bill is not expected to succeed in the Senate. END OF SUMMARY.
+
+Now, here is the target news article to summarize:
+Here is the news article:
+
+In an appeal to hard-right conservatives, Gov. Rick Perry of Texas is broadcasting a new campaign ad that seems to contrast Christianity with homosexuality, vows to end what he calls “Obama’s war on religion,” and highlights Mr. Perry’s criticism of overturning the “don’t ask, don’t tell” policy for gays serving in the military. “I’m not ashamed to admit that I’m a Christian,” Mr. Perry says in the ad, “but you don’t need to be in the pew every Sunday to know there’s something wrong in this country when gays can serve openly in the military but our kids can’t openly celebrate Christmas or pray in school.” The Perry campaign did not say where the ad would run, but the focus of Mr. Perry’s multimillion-dollar television budget has been in Iowa, where large numbers of Republican caucusgoers describe themselves as Christian evangelicals. The new ad follows Mr. Perry’s statement on Tuesday criticizing the Obama administration’s announcement that the United States would use all the elements of diplomacy, including the possible granting of foreign aid, to promote gay rights around the world and beat back efforts in other nations to criminalize homosexual conduct. “As president, I’ll end Obama’s war on religion,” Mr. Perry also says in the ad. “And I’ll fight against liberal attacks on our religious heritage. Faith made America strong. It can make her strong again.” The Perry ad was denounced by the Log Cabin Republicans, a gay men and lesbian group, which said it was “wrong for Governor Perry to assume being a person of faith does not afford one to support equality.” R. Clarke Cooper, the group’s executive director, said, “Governor Perry is running to be commander-in-chief, not theocrat-in-chief.” He added, “Our nation was built upon individual liberty and individual responsibility, and open service by gay and lesbian servicemembers is directly in line with the vision of our founding fathers.”
+
+(1) First, you identify all the single words that are morally framed, focusing especially on the dimensions of Authority/Subversion, Care/Harm, Fairness/Cheating, Sanctity/Degradation. Identify this step as "STEP 1:" and report each word in a new line starting with *
+(2) Finally, you write a summary of the news article. Please preserve as many morally framed words as possible, particularly focusing on the moral dimensions of Authority/Subversion, Care/Harm, Fairness/Cheating, Sanctity/Degradation in your summary. The summary has to be returned after a "SUMMARY:" token and ending with a "END OF SUMMARY." token. The summary should be no longer than 200 words.

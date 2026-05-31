@@ -1,0 +1,229 @@
+You have to summarize the following text preserving the moral framing that the author gave to it.
+
+Please study the following examples of news articles, their moral word extraction, and summaries preserving the moral framing:
+
+Example 1 (Political Ideology: Left):
+Here is the news article:
+
+(CNN) Alabama Republican Senate candidate Roy Moore says he will sue the Washington Post over its report alleging he pursued sexual relationships with teenagers -- including a 14-year-old -- when he was in his 30s.
+
+"The Washington Post published another attack on my character and reputation because they are desperate to stop my political campaign.
+These attacks said I was with a minor child and are false and untrue -- and for which they will be sued," Moore said Sunday night during a campaign speech in Huntsville, Alabama.
+
+The Washington Post declined to comment Monday morning.
+
+It's not uncommon for public figures to threaten legal action against news organizations but ultimately fail to follow through.
+President Donald Trump threatened to sue The New York Times last year after it published the accounts of two women who claimed Trump touched them inappropriately.
+His lawyers never filed a lawsuit.
+
+More recently, disgraced Hollywood mogul Harvey Weinstein initially threatened to sue the Times after it first reported allegations of sexual misconduct against him, but that suit never materialized
+
+The Washington Post report Thursday was based on interviews with more than 30 people.
+As well as the allegations that Moore had sexual contact with the then 14-year-old when he was aged 32, three other women also told The Post that Moore pursued them when they were between the ages of 16 and 18.
+
+The woman who was 14 years old at the time claimed he took her to his house, undressed down to his underwear and undressed her down to her bra and underwear and touched her and moved her hand to touch his underwear, which could have been sexual offenses due to her age, but the statutes of limitations in effect during that time have passed.
+
+None of the other three women told the Post that Moore sexually harassed, or assaulted them, or forced them into a relationship.
+Alabama's legal age of consent is 16.
+
+Moore has denied the allegations since they were published.
+He called the claims " completely false " Friday when appearing on Sean Hannity's syndicated radio show.
+
+Speaking at a Veterans Day event at the Mid-Alabama Republican Club in Birmingham Saturday, Moore called the allegations "fake news" and "yet another attack on my character and reputation in a desperate attempt to stop my political campaign for the United States Senate."
+
+He added that the alleged incidents happened nearly 40 years ago and called them "very hurtful to me personally -- I have the highest regard for the protection of young children," before adding that he has never provided alcohol to a minor and has "not been guilty of sexual misconduct with anyone."
+
+Moore added that there were ongoing "investigations" looking into the motivations behind the Post article, and promised "revelations" about the story to come in the next few days, though he did not provide further specifics.
+
+A number of Republicans withdrew their endorsements of Moore following the Washington Post article, including the National Republican Senatorial Committee, which severed a joint fundraising agreement that benefits Moore's campaign.
+
+STEP 1:
+* false
+* untrue
+* desperate
+* attack
+* character
+* reputation
+* fake
+* hurtful
+* highest
+* guilty
+* misconduct
+
+SUMMARY:
+Alabama Republican Senate candidate Roy Moore has denied allegations of pursuing sexual relationships with teenagers, including a 14-year-old, when he was in his 30s, calling the claims "completely false" and "fake news". Moore accused The Washington Post of launching a "desperate" attack on his character and reputation to stop his political campaign. The Post's report, based on interviews with over 30 people, alleged that Moore had sexual contact with the 14-year-old and pursued three other women between the ages of 16 and 18. Moore has threatened to sue The Washington Post over the report, which he claims is "hurtful" to him personally. He emphasized his "highest regard for the protection of young children" and denied any "sexual misconduct" with anyone. Several Republicans have withdrawn their endorsements of Moore following the report. END OF SUMMARY.
+
+Example 2 (Political Ideology: Center):
+Here is the news article:
+
+Police respond to the scene of a shooting at a gas station in Springfield, Mo, on Sunday, March 15, 2020.
+Police Chief Paul Williams said Monday morning, a Springfield police officer, three citizens and the gunman were killed.
+
+SPRINGFIELD, Mo. (AP) — A man fired randomly from his vehicle several times while driving through a southwest Missouri city before eventually crashing into a convenience store, where he walked inside, opened fire and left five people dead, including a police officer and himself, police said Monday.
+
+The dead from Sunday night’s shooting include a store employee and two men who were in the store, police said.
+A second officer was injured, along with another person.
+
+The gunman’s motives remain unclear, Springfield police Chief Paul Williams said at a news conference, where his voice broke as he described his officers’ actions.
+
+Williams said police received reports of “multiple shooting calls throughout the city” late Sunday starting in the south and moving north through the city’s east side.
+
+“In essence we had a roving active shooter moving from the south side of the city up,” Williams said.
+
+As officers were responding to those calls, witnesses reported a vehicle crashed into a Kum & Go.
+gas station and convenience store, and the gunman walked inside and began shooting customers and employees, Williams said.
+
+The Kansas City Star reported that the gunman opened fire from inside the store as police arrived, with officers taking cover behind vehicles and shields.
+
+“Advise everybody arriving on the scene, the shooter is shooting out the window,” one officer can be heard saying on audio captured by the online website Broadcastify.com, The Star reported.
+“The officer shot from inside the store outside.
+Take cover behind vehicles.”
+
+The first two officers who arrived were shot.
+Other officers pulled the injured officers from the store and then went inside, finding three people dead.
+The gunman also died, apparently from a self-inflicted gunshot, Williams said.
+Police identified the shooter as 31-year-old Joaquin S. Roman of Springfield.
+
+Officer Christopher Walsh, 32, was shot and killed as he tried to rescue a victim, Williams said.
+He was with the Springfield police for 3 1/2 years, was an Army veteran and was active in the Army reserves.
+
+Walsh, a Springfield native, is survived by a wife and daughter.
+
+“Chris died a hero, rushing in without regard to his own safety to protect members of his community.
+His courageous actions serve as an example to us all,” Wiliams said in a news release.
+
+Police identified the three other men who died as 57-year-old Troy D. Rapp, who was employed by Kum-N-Go, 46-year-old Shannon R. Perkins, who was employed by WCA Waste Corporation, and 22-year-old store customer Matthew J. Hicks-Morris.
+All were from Springfield.
+
+Officer Josiah Overton, whose injuries are not life-threatening, has been with Springfield police for two years, he said.
+
+“Both officers showed significant bravery and were heroic in their actions,” Williams said.
+
+“There are no word to express the shock and sorrow many of us are feeling,” Kum & Go spokesman Aeriel Rubin said, adding “We remain grateful for the courage of our first responders and will do our utmost to support the investigation going forward.”
+
+A Springfield woman said the man fired at her as she was driving home from work about 11:30 p.m. Casey Parrish said the man was driving in front of her and everything seemed normal until she heard what she thought at first was a blown tire.
+Then she saw muzzle flashes from from the driver’s side of the car in front of her, The Springfield News-Leader reported .
+
+Parrish said she did nothing to provoke the shooting and the gunman was driving normally until just before the shots started.
+He fired seven or eight shots as his car was swerving but her car was not hit.
+Parrish said she slowed down and the suspect eventually turned off of Highway 65 away from her.
+When she called 911, she was told officers were investigating similar reports from other locations.
+
+“It was so surreal,” Parrish said.
+
+Williams said it was too early to comment on the impact the shooting had on his department.
+
+“We’re still investigating multiple crime scenes and dealing with grieving the loss of one of our own,” he said.
+
+STEP 1:
+* Hero
+* Courageous
+* Heroic
+* Bravery
+* Courage
+* Grateful
+* Shock
+* Sorrow
+
+SUMMARY:
+A devastating shooting spree occurred in Springfield, Missouri, on Sunday, March 15, 2020, leaving five people dead, including a police officer and the gunman. The officer, Christopher Walsh, 32, died a hero, rushing into the scene without regard to his own safety to protect members of his community. His courageous actions serve as an example to us all. The gunman, Joaquin S. Roman, 31, fired randomly from his vehicle, eventually crashing into a convenience store and opening fire on customers and employees. Two other officers were injured, including Josiah Overton, who showed significant bravery in his actions. The community is left in shock and sorrow, with the police department grieving the loss of one of their own. The investigation is ongoing, with multiple crime scenes being processed. The courage of the first responders is a beacon of hope in this tragic event. END OF SUMMARY.
+
+Example 3 (Political Ideology: Right):
+Here is the news article:
+
+President Obama has been caught in a web of deception that threatens to ensnarl his re-election bid.
+Multiple emails and diplomatic cables reveal that the administration deliberately deceived the public.
+Libyagate haunts Mr. Obama, relentlessly eroding his credibility and trustworthiness.
+It is a stake aimed at the heart of his presidency.
+
+For nearly two weeks, the Obama team claimed the attack on the U.S. compound in Benghazi resulted from “spontaneous protests” in response to an anti-Muslim video.
+That was false — and Mr. Obama knew it.
+Several senior State Department officials testified at congressional hearings that there were no protests on Sept. 11, 2012.
+In fact, our diplomatic mission had been quiet all day.
+Moreover, the State Department was monitoring the compound practically in real time.
+On video, State Department officials witnessed scores of armed men breach the consulate and begin shooting at our diplomats.
+The officials’ obvious conclusion: It was a terrorist assault.
+Within 24 hours, the CIA’s station chief in Libya also reported jihadists had perpetrated the attack.
+
+The latest evidence, however, is a bombshell: Two hours after the assault began, the State Department sent an email to numerous agencies — including the White House Situation Room — that Ansar al-Sharia, a terrorist group affiliated with al Qaeda, had claimed responsibility.
+The email went directly to the White House’s Executive Office — the president’s inner circle.
+In other words, from nearly the beginning, Mr. Obama knew the Benghazi attack was a terrorist atrocity.
+Yet he insisted on blaming a phantom protest and an obscure YouTube video.
+He misled the public in a desperate attempt to cover up his administration’s colossal failure.
+
+Why?
+The answer is cynical politics.
+One of Mr. Obama’s central campaign narratives is that he killed Osama bin Laden and badly degraded al Qaeda.
+The Benghazi attack, however, directly contradicts the administration’s position.
+Rather than being in retreat, al Qaeda is on the rise.
+Pakistan, Afghanistan, Yemen, Somalia, Mali, Iraq and Libya — the Islamic fascist network has been expanding its safe havens and jihadist activity in every one of these nations.
+
+In particular, Libya has been transformed into a failed Islamist state.
+Contrary to media spin, Mr. Obama’s military intervention in Libya has been a disaster.
+Jihadists roam the countryside, targeting minorities and seeking to impose Shariah law.
+More than 20,000 weapons formerly controlled by late strongman Moammar Gadhafi were stolen by al Qaeda militants.
+The country’s eastern provinces are nearly in open revolt, fueled by a Muslim insurgency.
+In fact, the Benghazi attack occurred for one primary reason: Mr. Obama’s war has made Libya safe for radical Islam.
+Hence, the president feared that the truth about his Libyan intervention would come out.
+The result is that Ambassador J. Christopher Stevens was murdered, along with three other U.S. diplomatic personnel.
+Mr. Obama has American blood on his hands.
+
+The Sept. 11, 2012, terror plot was not the first one.
+The administration engaged in willful blindness to the Islamist reality in Benghazi.
+Our consulate had been attacked in April and June.
+Britain withdrew its diplomatic mission because of the surging violence.
+The Red Cross shut down its operations as well.
+Moreover, American officials repeatedly asked for enhanced security at the compound.
+The requests were denied.
+In his diary and several cables, Stevens complained about the growing jihadist violence that threatened his staff — to no avail.
+They were sacrificed on the altar of Mr. Obama’s multilateral interventionism and political ambitions.
+
+The real tragedy is that perhaps the dead Americans could have been saved.
+The attack lasted more than six hours.
+A U.S. drone was directly over the compound, conducting surveillance.
+American fighter jets and AC-130 gunships were less than 450 miles away.
+A massive, rapid response should have been ordered to defend the consulate.
+Instead, Mr. Obama did nothing.
+The reason: He did not want to violate Libyan “sovereignty” without the permission of the government in Tripoli.
+He abandoned our personnel to be butchered — like sheep — by rampaging Islamists.
+
+The Benghazi atrocity was not simply an assault on Americans.
+It was an act of war against America itself.
+Embassies and consulates are sovereign territory — or at least, they’re supposed to be.
+When jihadists breached our compound, it was the equivalent of storming a government building in Washington, Boston or New York.
+They were invading American soil, shedding American blood on behalf of a holy war against the West.
+Mr. Obama knew it was terrorism, but he refused to order a military response.
+He systematically perpetrated a cover-up and a manipulation campaign.
+For this alone, he deserves to be defeated in November.
+He is unfit to be our president.
+
+STEP 1:
+* Deception
+* False
+* Terrorist
+* Atrocity
+* Cynical
+* Failed
+* Disaster
+* Jihadist
+* Fascist
+* Murdered
+* Blood
+* Willful
+* Blindness
+* Sacrificed
+* Abandoned
+* Butchered
+* Atrocity
+* Unfit
+
+SUMMARY:
+President Obama's administration has been caught in a web of deception, deliberately misleading the public about the Benghazi attack. Despite knowing the truth, Obama insisted on blaming a phantom protest and an obscure YouTube video, covering up his administration's colossal failure. The attack was a terrorist atrocity, and Obama's cynical politics led to the murder of four Americans, including Ambassador J. Christopher Stevens. The president's war in Libya has made the country safe for radical Islam, and his willful blindness to the Islamist reality in Benghazi led to the tragic event. Obama's refusal to order a military response and his subsequent cover-up make him unfit to be president. The Benghazi atrocity was an act of war against America itself, and Obama's deception and failure to act have American blood on his hands. END OF SUMMARY.
+
+Now, here is the target news article to summarize:
+Here is the news article:
+
+ST. LOUIS (Reuters) - More than 80 people were arrested on Sunday night as protests in St Louis over the acquittal of a white policeman who had shot a black man turned violent for a third night running. Police in riot gear used pepper spray and arrested the demonstrators who had defied orders to disperse following a larger, peaceful protest. After nightfall, a small group remained and the scene turned to one of disorder, following the pattern of Friday and Saturday. Protesters smashed windows and attempted to block a ramp to an interstate highway, police and witnesses said. Officers tackled some protesters who defied police orders and used pepper spray before starting the mass arrests. At a late-night news conference, Mayor Lyda Krewson noted that “the vast majority of protesters are non-violent,” and blamed the trouble on “a group of agitators.” Acting police commissioner Lawrence O’Toole struck a hard stance, saying: “We’re in control, this is our city and we’re going to protect it.” The protests in St Louis followed the acquittal on Friday of former police officer Jason Stockley, 36, of first-degree murder in the 2011 shooting death of Anthony Lamar Smith, 24. The violence evoked memories of the riots following the 2014 shooting of a black teenager by a white officer in nearby Ferguson, Missouri. Police reported confiscating weapons including handguns and recovered plastic spray bottles containing an unknown chemical that hit officers, who were then decontaminated. “This is no longer a peaceful protest,” St. Louis police said on Twitter earlier. Protesters broke large ceramic flowerpots and threw chunks of the ceramic at storefront windows. Sunday’s gathering was the largest of the three nights with more 1,000 protesters. Police in turn deployed their largest show of force, as officers in riot gear marched through the streets. A protester stands with his hands in the air as police officers dressed in riot gear watch as demonstrators protest the day after the not guilty verdict in the murder trial of Jason Stockley, a former St. Louis police officer, charged with the 2011 shooting of Anthony Lamar Smith, who was black, in St. Louis, Missouri, U.S., September 16, 2017. “Do they think this will make us feel safe?” said Keisha Lee of Ferguson, shaking her head. Police ordered a group of news photographers to stand up against a wall. One, Kenny Bahr, was working on assignment for Reuters and posted the incident live on Facebook until he was placed in handcuffs when he turned off his video. The photographers were released after about 30 minutes. Earlier in the evening a handful of demonstrators threw bottles in response to a police officer making arrests. As people converged on an unmarked police car holding one suspect, an officer drove through the crowd in reverse to escape, police said. No injuries were reported. The protests began on Friday shortly after the acquittal on Friday, when 33 people were arrested and 10 officers injured. Violence flared anew on Saturday night when about 100 protesters, some holding bats or hammers, shattered windows and skirmished with police in riot gear, resulting in at least nine arrests. Sunday’s arrests again followed earlier peaceful, and far larger, protests. More serious clashes broke out in 2014 in Ferguson, a suburb of St. Louis, following the killing of 18-year-old Michael Brown by a white police officer who was not indicted. The Ferguson protests gave rise to Black Lives Matter, a movement that has staged protests across the United States. An informal group known as the Ferguson frontline has organized the protests, focusing on what it describes as institutional racism that has allowed police to be cleared of criminal wrongdoing in several shootings of unarmed black men. “Windows can be replaced. Lives can’t,” said Missy Gunn, a member of Ferguson frontline and mother of three including a college-age son. She said she feared for him every night. Smith was shot in his car after Stockley and his partner chased him following what authorities said was a drug deal. Prosecutors argued that Stockley planted a weapon in Smith’s car, but the judge believed the gun belonged to Smith.
+
+(1) First, you identify all the single words that are morally framed. Identify this step as "STEP 1:" and report each word in a new line starting with *
+(2) Finally, you write a summary of the news article. Please preserve as many morally framed words as possible in your summary. The summary has to be returned after a "SUMMARY:" token and ending with a "END OF SUMMARY." token. The summary should be no longer than 200 words.

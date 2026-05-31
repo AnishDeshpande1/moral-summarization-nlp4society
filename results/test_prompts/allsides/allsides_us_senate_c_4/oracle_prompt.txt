@@ -1,0 +1,37 @@
+You have to summarize the following text preserving the moral framing that the author gave to it.
+
+Here is the news article:
+
+WASHINGTON (Reuters) - Republican senators warned President Donald Trump on Sunday not to fire Special Counsel Robert Mueller, and said the president must let federal investigators looking into Russian meddling in the U.S. election do their jobs. The Republican president has renewed his Twitter attacks on both the Federal Bureau of Investigation and Mueller’s probe since the firing on Friday of the bureau’s former deputy director, Andrew McCabe, two days before he was eligible to retire with a full pension. Republican Senator Jeff Flake, who has criticized Trump harshly, said the president’s latest comments appeared to be aimed at the firing of Mueller. Senator Lindsey Graham, another Republican, said if Trump were to dismiss Mueller, it would mark “the beginning of the end of his presidency.” AshLee Strong, a spokeswoman for Republican House of Representatives Speaker Paul Ryan, said: “As the speaker has always said, Mr. Mueller and his team should be able to do their job.” In an effort to tamp down the chatter, White House lawyer Ty Cobb issued a statement on Sunday night saying Trump was not weighing Mueller’s removal. “In response to media speculation and related questions being posed to the Administration, the White House yet again confirms that the President is not considering or discussing the firing of the Special Counsel, Robert Mueller,” he said. The Republican comments underscored the risks for Trump if he goes too far to thwart the federal probe. “I don’t know what the designs are on Mueller, but it seems to be building toward that (firing him), and I just hope it doesn’t go there, because it can’t. We can’t in Congress accept that,” Flake told CNN’s “State of the Union.” “So I would expect to see considerable pushback in the next couple of days urging the president not to go there.” In a series of tweets over the weekend, Trump accused the FBI leadership of lies, corruption and leaking information. He called the Russia probe a politically motivated witch hunt. “The Mueller probe should never have been started in that there was no collusion and there was no crime,” Trump said on Saturday. On Sunday, he attacked former FBI Director James Comey and McCabe, top officials who were involved in the Russia probe and subsequently fired. FILE PHOTO: FBI Director Robert Mueller testifies before the House Judiciary Committee hearing on Federal Bureau of Investigation oversight on Capitol Hill in Washington, DC, U.S., June 13, 2013. The U.S. intelligence community has concluded that Moscow conducted an influence campaign aimed at swaying the 2016 presidential election to Trump over Democratic candidate Hillary Clinton. Mueller is investigating the Russian meddling and any possible collusion with the Trump campaign. On Saturday, Trump’s personal lawyer John Dowd urged the Justice Department official overseeing Mueller, Rod Rosenstein, to “bring an end to alleged Russia Collusion investigation manufactured by McCabe’s boss James Comey.” Republican U.S. Representative Trey Gowdy criticized Dowd in an interview with “Fox News Sunday.” “I think the president’s attorney, frankly, does him a disservice when he says that and when he frames the investigation that way,” Gowdy said. “If you have an innocent client, Mr. Dowd, act like it.” TRUMP FRUSTRATED White House legislative affairs director Marc Short said the Trump team was fully cooperating in the Mueller investigation and that the president was expressing his growing frustration with how long the probe has lasted. Graham, a co-author of legislation that would make it harder for a president to fire a special counsel, said it was very important that Mueller be allowed to proceed without interference and that many Republicans share this view. “The only reason Mr. Mueller could ever be dismissed is for cause. I see no cause when it comes to Mr. Mueller,” Graham said on CNN. Trump also drew criticism from fellow Republicans on Sunday over the firing of McCabe, who said he believed he was targeted because he corroborated Comey’s claims that Trump tried to pressure Comey into killing the Russia probe. “I don’t like the way it happened. He should’ve been allowed to finish through the weekend,” Senator Marco Rubio said on NBC’s “Meet the Press.” Rubio, who supports the special counsel probe, said the decision to fire McCabe was made before the release of the Justice Department inspector general’s report that Attorney General Jeff Sessions cited in his dismissal. Sessions said the report concluded McCabe leaked information to reporters and misled investigators about his actions. FILE PHOTO: U.S. President Donald Trump speaks about the Iran nuclear deal in the Diplomatic Room of the White House in Washington, October 13, 2017. On Twitter, Michael Bromwich, McCabe’s lawyer, hit back at Trump’s tweets about his client, calling the president’s comments “childish, defamatory, disgusting & false.” “The whole truth will come out in due course,” Bromwich wrote. “But the tweets confirm that he has corrupted the entire process that led to Mr. McCabe’s termination and has rendered it illegitimate.”
+
+The author used the following morally framed words in the article:
+* meddling
+* renewed
+* attacks
+* firing
+* comments
+* dismiss
+* goes
+* thwart
+* building
+* probe
+* attacked
+* fired
+* conducted
+* influence
+* swaying
+* collusion
+* fire
+* interference
+* targeted
+* tried
+* pressure
+* killing
+* leaked
+* misled
+* defamatory
+* corrupted
+* termination
+* rendered
+
+Please preserve as many morally framed words as possible in your summary. The summary has to be returned after a "SUMMARY:" token and ending with a "END OF SUMMARY." token. The summary should be no longer than 200 words.

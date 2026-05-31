@@ -1,0 +1,119 @@
+You have to summarize the following text preserving the moral framing that the author gave to it, with particular focus on the specific moral foundations highlighted in the text.
+
+Please study the following examples of news articles and their summaries preserving the moral framing:
+
+Example 1 (Political Ideology: Left, Moral Foundations: Care/Harm):
+Here is the news article:
+
+Rep. Bruce Braley (D-Iowa), who is running to succeed retiring Sen. Tom Harkin (D-Iowa), faced tough local coverage Tuesday after critical comments he made about Sen. Chuck Grassley (R-Iowa) were made public.
+
+At a January fundraiser in Texas, Braley urged the attorneys present to contribute to his campaign and contrasted his background with Grassley's.
+
+"If you help me win this race, you may have someone with your background, your experience, your voice ... on the Senate Judiciary Committee," Braley said.
+"Or you might have a farmer from Iowa who never went to law school, never practiced law, serving as the next chair of the Senate Judiciary Committee," he continued, referring to Grassley.
+
+Braley's remarks were released Tuesday by America Rising, a conservative political action committee which conducts opposition research on Democrats.
+
+One of the Republican primary field's leading candidates, businessman Mark Jacobs, immediately released a radio ad in an attempt to capitalize on the negative attention focused on Braley.
+
+Both the Des Moines Register and the Quad-City Times featured the backlash over Braley’s comments on their front pages.
+
+Braley apologized to Grassley in person on Tuesday after state Republican Party leaders and a number of Braley's potential Republican general election opponents condemned his remarks.
+
+The representative also posted a statement Tuesday in which he apologized and emphasized that he has farmers in his family.
+
+“I apologize to Sen. Grassley and anyone I may have offended,” Braley wrote.
+“My parents both grew up on Iowa farms during the Great Depression.
+It deeply influenced who they are and who I am, and gave me a profound appreciation for what farmers do for the world.”
+
+Grassley, who owns a farm, often notes in Senate Judiciary Committee hearings that he is the only non-lawyer on the panel, which oversees the judicial nominations process.
+
+Braley went to the University of Iowa's law school and worked as a lawyer in private practice before he was elected to the House of Representatives in 2006.
+His race is one of a handful across the country that will determine control of the Senate.
+
+SUMMARY:
+
+Democratic Rep. Bruce Braley, running for Senate in Iowa, faced backlash for his condescending comments about Republican Sen. Chuck Grassley's farming background. At a fundraiser, Braley implied that Grassley, a farmer, was unqualified to chair the Senate Judiciary Committee, suggesting that his own legal background made him more suitable. The comments were released by a conservative PAC and sparked widespread criticism from state Republican leaders and Braley's opponents. Braley apologized to Grassley in person and released a statement, highlighting his own family's farming roots and expressing appreciation for farmers. The incident highlights the importance of humility and respect for others' backgrounds and experiences. Braley's apology is a step in the right direction, but the incident serves as a reminder to approach political discourse with kindness and empathy.
+
+END OF SUMMARY.
+
+Example 2 (Political Ideology: Center, Moral Foundations: Authority/Subversion, Care/Harm, Fairness/Cheating, Sanctity/Degradation):
+Here is the news article:
+
+In an appeal to hard-right conservatives, Gov. Rick Perry of Texas is broadcasting a new campaign ad that seems to contrast Christianity with homosexuality, vows to end what he calls “Obama’s war on religion,” and highlights Mr. Perry’s criticism of overturning the “don’t ask, don’t tell” policy for gays serving in the military.
+
+“I’m not ashamed to admit that I’m a Christian,” Mr. Perry says in the ad, “but you don’t need to be in the pew every Sunday to know there’s something wrong in this country when gays can serve openly in the military but our kids can’t openly celebrate Christmas or pray in school.”
+
+The Perry campaign did not say where the ad would run, but the focus of Mr. Perry’s multimillion-dollar television budget has been in Iowa, where large numbers of Republican caucusgoers describe themselves as Christian evangelicals.
+
+The new ad follows Mr. Perry’s statement on Tuesday criticizing the Obama administration’s announcement that the United States would use all the elements of diplomacy, including the possible granting of foreign aid, to promote gay rights around the world and beat back efforts in other nations to criminalize homosexual conduct.
+
+“As president, I’ll end Obama’s war on religion,” Mr. Perry also says in the ad.
+“And I’ll fight against liberal attacks on our religious heritage.
+Faith made America strong. It can make her strong again.”
+
+The Perry ad was denounced by the Log Cabin Republicans, a gay men and lesbian group, which said it was “wrong for Governor Perry to assume being a person of faith does not afford one to support equality.”
+
+R. Clarke Cooper, the group’s executive director, said, “Governor Perry is running to be commander-in-chief, not theocrat-in-chief.”
+
+He added, “Our nation was built upon individual liberty and individual responsibility, and open service by gay and lesbian servicemembers is directly in line with the vision of our founding fathers.”
+
+SUMMARY:
+
+Texas Governor Rick Perry has released a new campaign ad that appeals to hard-right conservatives by contrasting Christianity with homosexuality. The ad vows to end what Perry calls "Obama's war on religion" and highlights his criticism of overturning the "don't ask, don't tell" policy for gays serving in the military. Perry claims that it's wrong that gays can serve openly in the military while children can't openly celebrate Christmas or pray in school. The ad is part of Perry's multimillion-dollar television budget, targeting Iowa's Christian evangelicals. The ad has been denounced by the Log Cabin Republicans, a gay men and lesbian group, which argues that being a person of faith does not mean one cannot support equality. The group emphasizes that individual liberty and responsibility are core American values, and open service by gay and lesbian servicemembers aligns with the vision of the founding fathers.
+
+END OF SUMMARY.
+
+Example 3 (Political Ideology: Right, Moral Foundations: Authority/Subversion):
+Here is the news article:
+
+Israeli Prime Minister Benjamin Netanyahu has said he’ll steer clear of the American presidential election, but he stars in a new ad set to air in the key battleground state of Florida that aims to make Iran a major campaign issue.
+
+Netanyahu, who has a famously frosty relationship with President Obama, mentions neither Obama nor Republican challenger Mitt Romney, with whom Netanyahu worked in the mid-1970s at Boston Consulting Group.
+His words are taken from a recent news conference, in which he expressed frustration at the Obama administration’s failure to establish “red lines” for reining in Iran and its rogue nuclear weapons program.
+
+"The fact is that every day that passes, Iran gets closer and closer to a nuclear bomb,” Netanyahu says.
+“The world tells Israel, wait, there's still time.
+And I say wait for what?
+Wait until when?"
+
+A voice-over at the end of the ad underscores the prime minister's message: "The world needs American strength, not apologies."
+
+The ad, paid for by nonprofit conservative advocacy group Secure America Now, could have a powerful influence in heavily-Jewish markets, including Miami.
+Florida is considered a toss-up in recent polling, and its 29 electoral votes could swing the election.
+
+“Sizable majorities in both states believe that Iran will share nuclear weapons with terrorists,” said Jeri Thompson, advisory board member for Secure America Now.
+“Support for Israel remains strong.
+In short, (Netanyahu's) a powerful messenger with a powerful message who the American people believe.”
+
+The ad, reportedly to air in Miami, West Palm Beach and Fort Myers, is costing Secure America $1 million, the organization confirmed to Fox News.
+
+A Fox News poll released Wednesday shows Obama leading Romney, 49 percent to 44 percent, in Florida.
+
+Meanwhile, Haaretz reported that the Republican Jewish Coalition has launched a separate $5 million TV advertising blitz aimed at Jewish voters in swing states.
+That campaign started Wednesday and runs through Nov. 5 in cable and broadcast TV markets in Florida, Nevada, Ohio and Pennsylvania.
+
+"This ad highlights the 'buyer's remorse' felt by many in the Jewish community, who voted for Obama four years ago but are now disillusioned with his economic policies and his policies toward Israel,” the coalition's executive director, Matt Brooks, said in a written statement Wednesday.
+“These ads, and the stories of the people in them, give voice to the nagging doubts that many Jewish voters feel about President Obama.
+To underscore that point, numerous polls have shown an erosion in Jewish support for the president."
+
+Netanyahu also made an appearance on NBC's "Meet the Press" last Sunday, urging Obama to take a tougher line with Iran over its nuclear program.
+
+"President Obama has said that he is determined to prevent Iran from getting nuclear weapons," he said on the Sunday morning show.
+"If you're determined to prevent Iran from getting nuclear weapons, it means you'll act before they get nuclear weapons."
+
+SUMMARY:
+
+Israeli Prime Minister Benjamin Netanyahu is starring in a new ad in Florida, a key battleground state, aiming to make Iran a major campaign issue in the American presidential election. Netanyahu's message is clear: the world needs American strength, not apologies, and Iran's nuclear program is a pressing issue that requires immediate action. The ad, paid for by Secure America Now, highlights Netanyahu's frustration with the Obama administration's failure to establish "red lines" for reining in Iran. Netanyahu's words are a powerful reminder that every day that passes, Iran gets closer to a nuclear bomb. The ad's message resonates with Jewish voters, who are increasingly disillusioned with Obama's economic policies and his stance on Israel. As the election approaches, Netanyahu's voice adds weight to the debate, urging the US to take a tougher line with Iran.
+
+END OF SUMMARY.
+
+Now, here is the target news article to summarize:
+Here is the news article:
+
+Down in the polls, Texas Gov. Rick Perry is on the attack, claiming in a new TV ad that President Obama is waging a "War on Religion," and he's the GOP candidate that can defend faith in America. "I'm not ashamed to admit that I'm a Christian, but you don't need to be in the pew every Sunday to know there's something wrong in this country when gays can serve openly in the military but our kids can't openly celebrate Christmas or pray in school. As President, I'll end Obama's war on religion. And I'll fight against liberal attacks on our religious heritage," says Perry in the new ad titled "Strong." The ad is a state-wide buy in Iowa that starts Wednesday. Perry ties his faith to his conservative stands on social issues, and the campaign has zeroed in on gay marriage and social issues recently, releasing several statements laying out its argument that Obama is attacking the fundamentals social conservative believe in. The arguments range from President Obama directing the Justice Department to stop arguing for the Defense of Marriage Act, to less substantive examples like Obama leaving God out of his Thanksgiving speech this year. In one emailed statement, Perry stated, "just when you thought Barack Obama couldn't get any more out of touch with America's values, AP reports his administration wants to make foreign aid decisions based on gay rights. This administration's war on traditional American values must stop. This is just the most recent example of an administration at war with people of faith in this country. Investing tax dollars promoting a lifestyle many Americas of faith find so deeply objectionable is wrong. "Perry is referring to a presidential memorandum released by the White House, in which Obama has directed all agencies working abroad ensure U.S. diplomacy and aid programs "promote and protect" the rights of gays and lesbians. Perry is a Methodist. He has never shied away from his faith during this campaign, and in earlier appeal to key evangelical voters, he released another ad in Iowa describing himself as a "man of faith." This latest ad "Strong" ends with Perry claiming, "faith made America strong. It can make her strong again."
+
+For this target article, the author's moral framing heavily relies on the following Moral Foundation dimensions: Authority/Subversion, Fairness/Cheating, Sanctity/Degradation.
+Please pay special attention to preserving the moral framing related to these specific dimensions (Authority/Subversion, Fairness/Cheating, Sanctity/Degradation) in your summary.
+
+The summary has to be returned after a "SUMMARY:" token and ending with a "END OF SUMMARY." token. The summary should be no longer than 200 words.

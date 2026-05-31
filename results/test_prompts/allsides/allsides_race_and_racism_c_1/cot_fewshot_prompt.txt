@@ -1,0 +1,276 @@
+You have to summarize the following text preserving the moral framing that the author gave to it.
+
+Please study the following examples of news articles, their moral word extraction, and summaries preserving the moral framing:
+
+Example 1 (Political Ideology: Left):
+Here is the news article:
+
+The inspiring rise of a new generation protesting against racial injustice is driving a new era of change in America, like the generation that emerged 60 years ago to build the civil rights movement of that time.
+
+July 16, 1960 is marked in my memory: that is the day I joined seven other friends to walk into the whites-only Greenville Library, and to be arrested for violating the segregation laws.
+
+That was more than five years after the 1954 Brown v. Board Supreme Court decision that declared “separate but equal” — the lie that justified segregation — a violation of the U.S. Constitution.
+Yet in Greenville, South Carolina, where I grew up, nothing had changed.
+
+We still lived in a segregated bubble.
+The public library, the buses, the schools, the pool — all were still segregated.
+There were no Black police officers, or firemen, no Black elected officials.
+Even the graveyard was segregated.
+Our options were limited.
+For example, graduating from high school, I could not even apply to Furman or to Clemson or to the University of South Carolina.
+I went to the University of Illinois on a football scholarship.
+
+When I returned from Christmas vacation in 1959, I could not use the public library to do my assignments.
+The Blacks-only library did not have the book I needed; the white library did, but I could not walk in the door.
+I vowed that I would not accept that when I came home in the summer.
+
+Protests were beginning to spread, as a young generation decided to burst the bubble of segregation and claim their rights under the Constitution.
+Students in Nashville and Greensboro and elsewhere were beginning the sit-ins.
+The July demonstration at the library was a turning point in my life, as demonstrations were for many across the South.
+
+We met with fierce resistance.
+We were denounced as outside agitators, tarred as socialists or communists, and suffered from violent opposition from private vigilantes and uniformed police officers.
+
+But the movement kept building and would not go back.
+In 1964, we won the Public Accommodations Act, that declared an end to segregated public facilities.
+In 1965, we won the Voting Rights Act, propelled in part by the horrible spectacle of the police riot on the Edmund Pettus Bridge in Selma, Alabama.
+Personally, I started working With Dr. King in 1965.
+
+The barriers that we struck down opened the way for a new South.
+Industries and modern companies like CNN would come to the South.
+As universities desegregated, so did athletic fields.
+Professional teams like the Atlanta Braves could be built.
+African Americans began to win elections at the state, local and national level.
+
+We broke the chains of legal apartheid in the United States and transformed the country.
+Yet, as we have witnessed time and again, we did not end racism in this country.
+We did not succeed in breaking the biased institutional structures that still enforce racial injustice — from red-lined neighborhoods to savagely unequal schools to wage and hiring discrimination to a dangerously discriminatory criminal justice system.
+Dr. King’s drive for economic equality as the next stage of the civil rights movement was cut short by his assassination.
+
+Now a new generation is emerging to challenge these injustices.
+The demonstrations in the aftermath of George Floyd’s murder have been the largest in our history.
+
+On opinion surveys, a stunning 15 million to 26 million Americans report that they have participated in demonstrations for Black lives in 2,500 places from small towns to big cities.
+Forty percent of the counties in the country have witnessed protests.
+White participation has far exceeded that in the first civil rights movement.
+
+And already politicians have begun to respond — reforming police practices, banning choke holds.
+Mississippi legislators voted to retire the state flag with its Confederate battle emblem.
+
+This new generation of protest holds great promise for America.
+Despite its breadth and depth, it will face great resistance — and not simply from a Donald Trump desperate to discredit it for his political purposes.
+Entrenched interests will resist change.
+The movement is focused on reforming areas — criminal injustice, economic inequalities, basic economic and political rights — that threaten the privileged and the powerful.
+
+Yet what we learned 60 years ago is that when people move, change is possible.
+Then the powerful forces of segregation that seemed overwhelming could not withstand the moral force of a generation not willing to put up with glaring injustice silently.
+Now this generation has an opportunity to make America better, and the lives and options of millions are at stake in their struggle.
+This is a time for anyone with a conscience and a pulse to join this extraordinary movement.
+
+STEP 1:
+* injustice
+* segregation
+* lie
+* violation
+* rights
+* limited
+* fierce
+* resistance
+* denounced
+* violent
+* horrible
+* spectacle
+* riot
+* apartheid
+* biased
+* discriminatory
+* biased
+* savagely
+* unequal
+* discriminatory
+* assassination
+* injustices
+* biased
+* discriminatory
+* reforming
+* banning
+* desperate
+* discredit
+* entrench
+* resist
+* privileged
+* powerful
+* glaring
+* silently
+* conscience
+* pulse
+* extraordinary
+
+SUMMARY:
+A new generation of protesters is driving change in America, reminiscent of the civil rights movement 60 years ago. The author, who was part of the 1960s movement, recalls the injustices of segregation, including being arrested for violating segregation laws at a whites-only library. Despite the progress made, including the Public Accommodations Act and Voting Rights Act, racial injustice persists, with biased institutional structures enforcing discrimination. A new generation is emerging to challenge these injustices, with the largest demonstrations in history, including 15 million to 26 million Americans participating in protests for Black lives. The movement holds great promise for America, but will face resistance from entrenched interests. It's a time for anyone with a conscience to join the extraordinary movement and make America better. END OF SUMMARY.
+
+Example 2 (Political Ideology: Center):
+Here is the news article:
+
+A man pulled out a shotgun inside a North Texas church on Sunday and opened fire, killing two people, authorities said.
+It could have been far worse.
+
+Two congregants, both volunteer members of the church's security team, drew their weapons and confronted the gunman, fatally shooting him and saving an "untold number of lives" at West Freeway Church of Christ in White Settlement, a town of about 17,000 people near Fort Worth.
+
+Their actions, described as "heroic" by the Texas Department of Public Safety, brought a quick end to an attack that remained under investigation on Sunday night.
+Authorities have not provided information about a possible motive.
+
+Officials have not released the names of the victims or the gunman, whom FBI Special Agent in Charge Matthew DeSarno said had roots in the area but is “relatively transient."
+
+“This team responded quickly and within six seconds, the shooting was over.
+Two of the parishioners who were volunteers of the security force drew their weapons and took out the killer immediately, saving untold number of lives,” said Texas Lt. Gov.
+Dan Patrick, who also hailed the state’s gun laws.
+
+“We lost two great men today," Britt Farmer, the church's senior minister said, "but it could have been a lot worse.”
+
+'Nothing is going to stop us being Jewish':New York community rallies after anti-Semitic 'terrorism' attack
+
+There were more than 240 parishioners in the church at the time of the shooting, authorities said, and the service was being livestreamed to countless homes.
+
+MedStar Mobile Healthcare confirmed two fatalities — one at the scene and another on the way to the hospital.
+Hours later, FBI spokesman Jason Wandel confirmed the death of the third person.
+
+All of the victims were male.
+
+"It’s tragic and it’s a terrible situation, especially during the holiday season,” said Jeoff Williams, a regional director with the Texas Department of Public Safety.
+“We have a couple of heroic parishioners who stopped short of just anything that you can even imagine, saved countless lives."
+
+Licensed handgun owners can legally carry loaded weapons into Texas churches that do not have posted signs banning weapons.
+Church security became a major issue in the state after a gunman walked into a church in Sutherland Springs two years ago and fatally shot 26 people and wounded 20 others.
+
+“It was the most scariest thing," Isabel Arreola told CBS11 News.
+"You feel like your life is flashing before you."
+
+In a livestream of the church service, the gunman can be seen getting up from a pew and talking to someone at the back of the church before pulling out a gun and opening fire.
+Parishioners can then be heard screaming and seen ducking under pews or running as papers fly to the floor.
+
+Mike Tinius, a church elder, told The New York Times that one of those killed was a security guard and friend who responded to the shooter.
+Tinius said that he didn’t know the gunman and that the shooting appeared to be random.
+
+The security guard “was trying to do what he needed to do to protect the rest of us,” Tinius said.
+“It’s extremely upsetting to see anyone committing violence."
+
+Gov. Greg Abbott issued a statement of condemnation for the "evil act of violence" at a place of worship.
+
+"I am grateful for the church members who acted quickly to take down the shooter and help prevent further loss of life," Abbott said.
+"Cecilia and I ask all Texans to join us in praying for the White Settlement community and for all those affected by this horrible tragedy."
+
+The shooting took place hours after a knife-wielding attacker stabbed five people during a Hanukkah celebration in a rabbi's home outside New York City.
+New York Gov. Andrew Cuomo called the attack "an act of domestic terrorism" and directed the state police hate crimes task force to investigate.
+
+STEP 1:
+* heroic
+* tragic
+* terrible
+* evil
+* heroic
+* tragic
+* horrific
+* extremely
+* upsetting
+* evil
+* domestic
+* terrorism
+
+SUMMARY:
+A tragic and terrible shooting occurred at West Freeway Church of Christ in White Settlement, Texas, on Sunday, killing two people and injuring others. The heroic actions of two volunteer security team members, who drew their weapons and fatally shot the gunman, brought a quick end to the attack and saved an "untold number of lives." The Texas Department of Public Safety described their actions as "heroic." The gunman, who had roots in the area but was "relatively transient," opened fire during a livestreamed service, causing chaos and panic among the 240 parishioners. The shooting was condemned by Gov. Greg Abbott as an "evil act of violence" at a place of worship. The community is left to mourn the loss of two great men, but it could have been much worse. END OF SUMMARY.
+
+Example 3 (Political Ideology: Right):
+Here is the news article:
+
+Robert E. Lee monument in Richmond, Va.
+
+Secession was a traitorous act that threatened to destroy the American nation, and the South’s leaders don’t deserve to be given a place of honor.
+
+In the wave of cancellations sweeping America, Confederate statues have been particularly hard hit.
+
+They have been graffitied, assaulted, and torn down, while authorities rush to remove them.
+
+For his part, President Donald Trump has been a steadfast defender of the statues and other forms of recognition of the Confederacy.
+He has come out in favor of preserving the names of military bases named after Confederate generals and pointedly said that we should build on our heritage rather than tear it down.
+
+Conservatives tend to think the same way.
+They reflexively oppose politically correct campaigns to destroy anything giving offense.
+
+They fear where the slippery slope of woke iconoclasm will lead — first it’s Jefferson Davis, ultimately George Washington.
+
+They value tradition and worry we are trashing part of our history.
+
+This impulse, though, is a mistake.
+Confederate statues and symbols deserve to be reevaluated, and often mothballed.
+
+The statues are an unnecessary affront to black citizens, who shouldn’t have to see defenders of chattel slavery put on a pedestal, literally.
+
+It is impossible to evaluate these monuments without considering the context of why they were created.
+Many of them were erected as part of the push to enshrine a dishonest, prettied-up version of the Confederacy.
+
+Finally, learning about, say, Robert E. Lee doesn’t require staring up at a 60-foot-tall statue of him on a major Richmond, Va., thoroughfare.
+
+We should make distinctions, of course.
+Big statues in prominent public spaces erected to make a point about the supposed glories of the Confederacy should be transferred elsewhere (ideally to museums or battlefields).
+But this should be done lawfully, not via mob action.
+
+The Confederate flag should be shunned, as a symbol of a viciously flawed cause.
+
+Direct commemorations of the Confederate war dead — obelisks with lists of names, Confederate cemeteries — should be preserved to mark the human cost of a terrible conflict.
+
+The bases are a harder case, since their names have themselves entered the American military tradition.
+But as the source of those names becomes more widely known, it’s going to be harder to ask African-American soldiers willing to sacrifice life and limb for their country to look past them.
+
+The Richmond statue of Lee, which Virginia governor Ralph Northam has said is coming down, has long been a point of contention.
+Its 1890 unveiling was a key moment in the creation of a cult of Lee as a man of “moral strength and moral beauty,” as a speaker put it that day.
+
+Frederick Douglass appropriately scorned this movement.
+“It would seem,” he wrote sarcastically, “that the soldier who kills the most men in battle, even in a bad cause, is the greatest Christian, and entitled to the highest place in heaven.”
+
+The apotheosis of Lee was an element of a Lost Cause mythology that maintained that the Civil War wasn’t truly about slavery, only Southern states defending their legitimate prerogatives.
+
+Alexander Stephens, the vice president of the Confederacy, would have scoffed at this.
+In his notorious Cornerstone Speech in 1861, he said the new government was built on “the great truth” of slavery.
+
+The theory of states’ rights that the Confederacy used to justify secession wasn’t meant to preserve our constitutional scheme, but to demolish it.
+The idea had been developed by former vice president John C. Calhoun of South Carolina, who believed the country had set off on an erroneous, nationalist path from the very beginning.
+
+Besides, the South supported states’ rights only to the extent that they were useful in protecting slavery.
+It insisted, after all, on a federal Fugitive Slave Act.
+
+Secession was a traitorous act that threatened to destroy the American nation, to create a rump republic built on slavery, and to make impossible the subsequent rise of the United States to a world power.
+Its leaders don’t deserve to be given a place of honor in our landscape denied to worthier men.
+Confederate statues shouldn’t be vandalized, but they should go.
+
+STEP 1:
+* traitorous
+* defenders
+* woke
+* iconoclasm
+* dishonest
+* prettied-up
+* viciously
+* flawed
+* terrible
+* moral
+* Christian
+* entitled
+* bad
+* legitimate
+* erroneous
+* nationalist
+* erroneous
+* useful
+* worthier
+
+SUMMARY:
+The removal of Confederate statues and symbols is a necessary step in reevaluating the country's heritage. These monuments were erected to enshrine a dishonest and prettied-up version of the Confederacy, and their presence is an unnecessary affront to black citizens. The Confederate flag is a symbol of a viciously flawed cause and should be shunned. Direct commemorations of the Confederate war dead should be preserved, but big statues in prominent public spaces should be transferred to museums or battlefields. Secession was a traitorous act that threatened to destroy the American nation, and its leaders don't deserve a place of honor. Confederate statues shouldn't be vandalized, but they should be removed and reevaluated. It's time to make distinctions and acknowledge the human cost of a terrible conflict. END OF SUMMARY.
+
+Now, here is the target news article to summarize:
+Here is the news article:
+
+FILE - In this March 7, 1965, file photo, a state trooper swings a billy club at John Lewis, right foreground, chairman of the Student Nonviolent Coordinating Committee, to break up a civil rights voting march in Selma, Ala. Lewis sustained a fractured skull. Lewis, who carried the struggle against racial discrimination from Southern battlegrounds of the 1960s to the halls of Congress, died Friday, July 17, 2020. SELMA, Ala. (AP) — John Lewis saw the line of Alabama state troopers a few hundred yards away as he led hundreds of marchers to the apex of the Edmund Pettus Bridge in Selma on March 7, 1965. Armed with gas canisters and nightsticks, the troopers were flanked by horse-riding members of the sheriff’s posse. A crowd of whites milled around nearby. Lewis, who died Friday at age 80, was just 25 at the time. He had been leading voting rights demonstrations for months in the notoriously racist town, and he and the others were trying to take a message of freedom to segregationist Gov. George C. Wallace in Montgomery. So, rather than stopping, Lewis put another foot forward. That seminal step propelled him on to a global stage as a hero of the U.S. civil rights movement. The ensuing confrontation helped lead to the passage of the federal Voting Rights Act. With fellow civil rights activist Hosea Williams at his side, Lewis finally stopped a few feet away from the phalanx of troopers commanded by Maj. John Cloud of the Alabama Department of Public Safety. Other marchers stopped behind them, shifting their feet uncomfortably on the bridge shoulder. Williams asked Cloud whether they could talk. There would be none of that, said Cloud. Acting on Wallace’s order, he said the march was illegal and gave the group two minutes to leave. Seconds later, Cloud unleashed a spasm of state-sanctioned violence that shocked the nation for its sheer brutality. “Troopers, here, advance toward the group. See that they disperse,” he said through a bullhorn. Lewis stood motionless with his hands in the pockets of his raincoat, a knapsack on his back. Archival film footage and photos show a line of roughly two dozen troopers wearing gas masks as they approach the long, peaceful line led by Lewis. A trooper jabbed the butt of a nightstick toward Lewis and officers quickly pushed into the group. Feet became tangled and bodies hit both the grass roadside and the asphalt road. Screams rang out. Lewis, in sworn court testimony five days later before U.S. District Judge Frank M. Johnson Jr., recalled being knocked to the ground. A state trooper standing upright hit him once in the head with a nightstick; Lewis shielded his head with a hand. The trooper hit Lewis again as he tried to get up. The officer was never publicly identified; Lewis testified he didn’t know who it was, and a gas mask shielded the man’s identity. Others were beaten even worse as whites cheered from nearby. Amelia Boynton Robinson, who was in the line behind Lewis, was tear-gassed and beaten so badly she had to be carried away unconscious. Others were clubbed by the sheriff’s posse members on horseback. Lewis testified he never lost consciousness, but he also didn’t remember how he got back to a church where he was taken before being admitted to a hospital. He got out in time for a hearing before Johnson, who overturned Wallace’s order and ruled demonstrators could march to Montgomery. Lewis was just a few feet away from the Rev. Martin Luther King Jr. at the front of more than 3,000 marchers when they left Selma on March 21, 1965, for the epic 52-mile walk to Montgomery. Wallace, who had vowed “segregation forever” during his 1963 inaugural and served four terms as governor, refused to meet with them. Lewis outlived other key players in what came to be known as Bloody Sunday by many years. He addressed a throng atop the bridge in March, after his cancer diagnosis, to mark the 55th commemoration of the day. “Speak up, speak out, get in the way,” said Lewis, who appeared frail but spoke in a strong voice. “Get in good trouble, necessary trouble, and help redeem the soul of America.” Wallace died in 1998, five years after Cloud, and Judge Johnson died in 1999. Hosea Williams, the other march leader who was beside Lewis that day on the bridge, died in 2000. Robinson, who recovered from her injuries and crossed the Selma bridge with Lewis and then-President Barack Obama during the 50th anniversary commemoration, died in 2015.
+
+(1) First, you identify all the single words that are morally framed. Identify this step as "STEP 1:" and report each word in a new line starting with *
+(2) Finally, you write a summary of the news article. Please preserve as many morally framed words as possible in your summary. The summary has to be returned after a "SUMMARY:" token and ending with a "END OF SUMMARY." token. The summary should be no longer than 200 words.

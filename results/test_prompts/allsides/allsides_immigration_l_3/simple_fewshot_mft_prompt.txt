@@ -1,0 +1,149 @@
+You have to summarize the following text preserving the moral framing that the author gave to it, with particular focus on the specific moral foundations highlighted in the text.
+
+Please study the following examples of news articles and their summaries preserving the moral framing:
+
+Example 1 (Political Ideology: Left, Moral Foundations: Authority/Subversion, Care/Harm):
+Here is the news article:
+
+WASHINGTON ― President Donald Trump’s offer to Democrats over the weekend seeking to trade temporary protections for some immigrants in exchange for funding for a wall on the U.S.-Mexico border received positive coverage from some outlets, including being called a “compromise” and a move by Trump “toward the center.”
+
+But the latest details in the proposal, which Senate Republicans unveiled Monday in a bill they plan to vote on this week, make the offer appear less of a compromise and more of a wish list for immigration hard-liners like White House adviser Stephen Miller.
+
+Trump is offering a three-year extension for the Obama-era Deferred Action for Childhood Arrivals program, which protects from deportation hundreds of thousands of immigrants brought to the U.S. as kids.
+The offer would also give a three-year extension to 300,000 people from El Salvador, Haiti, Nicaragua and Honduras who are living in the U.S. under the temporary protected status program.
+
+Democrats rejected the offer before Trump even announced it on Saturday, however, maintaining that it didn’t go nearly far enough and that the president ought to reopen the government before any negotiations over the border proceed.
+
+But the GOP bill incorporating his offer would also gut existing asylum laws for children and trafficking victims from Central America, ban asylum for minors who present themselves at ports of entry, gut the concept of temporary protected status for future cases and expand immigration detention ― all measures making it more likely to be dead on arrival in the Senate.
+
+“Given the poison pills stuffed into a proposal that was supposed to entice Democrats we can now say the Trump ‘offer’ isn’t about getting to a deal but about shifting blame.
+So obvious. So predictable. So pathetic,” Frank Sharry, the executive director of the immigration advocacy group America’s Voice, tweeted on Tuesday.
+
+The bill would ban asylum for Central American minors, including those who arrive at the border with their parents, unless the minors apply for asylum in their home country.
+It would also cap the number of Central American minors who are allowed to apply for asylum each year at 50,000 and limit the number of asylum applications that could be granted per year to 15,000.
+
+The administration has for months tried to reduce the number of people seeking asylum in the U.S. as part of a broader effort to stem the flow of Central American migrants crossing the border from Mexico.
+Trump’s administrative attempts to curtail the asylum process have faced legal challenges in two federal courts, however, prompting this week’s legislative fix.
+
+“This bill includes the most extreme changes on asylum that I’ve ever seen,” Kerri Talbot, the director of federal advocacy at the group Immigration Hub, said on a press call on Tuesday.
+
+Under the GOP bill, minors who apply for asylum would face much stiffer consequences for filing an application found to be frivolous ― including permanent ineligibility for future protections.
+
+The bill’s changes to asylum law alarmed immigration activists online, as well some on the right, including attorney and conservative writer Gabriel Malor.
+
+Trump’s efforts to win over Democratic support on the bill ― which will require at least 60 votes to pass in the Senate ― hit even more trouble on Tuesday after the Supreme Court once again did not act on the administration’s effort to end DACA.
+The move essentially left protections for Dreamers in place for at least the next several months ― giving Democrats less incentive to agree to Trump’s offer of protections to DACA recipients.
+
+SUMMARY:
+
+President Trump's recent offer to Democrats, touted as a "compromise," has been exposed as a thinly veiled attempt to push a hard-line immigration agenda. The proposal, which would provide temporary protections for some immigrants in exchange for funding a border wall, has been criticized for its draconian measures. These include gutting existing asylum laws, banning asylum for Central American minors, and expanding immigration detention. The bill would also punish minors who file frivolous asylum applications with permanent ineligibility for future protections. Immigration activists and even some conservatives have denounced the proposal as an attempt to shift blame rather than genuinely negotiate. The Supreme Court's decision to leave DACA protections in place has further weakened Trump's bargaining power, making it clear that his "offer" is little more than a cynical ploy to appease his base.
+
+END OF SUMMARY.
+
+Example 2 (Political Ideology: Center, Moral Foundations: Care/Harm, Fairness/Cheating):
+Here is the news article:
+
+WASHINGTON — President Trump on Monday said the F.B.I. ruined the life of his former national security adviser and said his Democratic opponent for president, Hillary Clinton, suffered no consequences after she lied “many times” to the F.B.I.
+
+Michael T. Flynn, Mr. Trump’s first national security adviser, pleaded guilty on Friday to lying to the F.B.I. when he was questioned early this year about his conversations with the Russian ambassador.
+He was the fourth person charged in the investigation of Robert S. Mueller III, the special counsel appointed to lead an inquiry into Russia’s influence on the 2016 election and possible ties to Trump associates.
+
+As he left for Utah on Monday, the president said he felt “very badly” for Mr. Flynn, whom he fired in February for lying to the vice president about the content of these conversations.
+
+Mr. Trump’s comments Monday on Mr. Flynn come at a time when the special counsel investigation is focusing intensely on the president’s inner circle.
+Mr. Trump once encouraged Mr. Flynn to seek an immunity deal.
+Presidents typically do not weigh in on federal investigations to avoid appearing to influence the outcome.
+
+“I feel badly for General Flynn,” Mr. Trump said on Monday. “I feel very badly.
+He’s led a very strong life and I feel very badly.
+Hillary Clinton lied many times to the F.B.I. Nothing happened to her.
+Flynn lied and they destroyed his life.”
+
+Mr. Trump did not cite specifically what Mrs. Clinton said that he considered a lie.
+
+Mrs. Clinton gave a voluntary interview to the bureau in July 2016 during its investigation into whether she or her aides broke the law by corresponding through a private email server set up for her use as secretary of state.
+A few days later, the F.B.I. director at the time, James B. Comey, recommended no charges be filed against her in the matter.
+
+SUMMARY:
+
+President Trump has expressed sympathy for his former national security adviser, Michael Flynn, who pleaded guilty to lying to the FBI about his conversations with the Russian ambassador. Trump feels "very badly" for Flynn, whom he fired in February for lying to the vice president. The president contrasted Flynn's fate with that of his Democratic opponent, Hillary Clinton, who he claims lied "many times" to the FBI but faced no consequences. Trump's comments come as the special counsel investigation into Russia's influence on the 2016 election and possible ties to Trump associates is intensifying its focus on his inner circle.
+
+The moral framing of this article suggests that Trump is attempting to deflect attention from his own administration's scandals by pointing fingers at his political opponents. By claiming that Clinton lied to the FBI with impunity, Trump is implying that the justice system is unfair and biased against him and his associates. This narrative is problematic, as it seeks to undermine the integrity of the FBI and the special counsel investigation, and perpetuates a culture of blame-shifting and dishonesty.
+
+END OF SUMMARY.
+
+Example 3 (Political Ideology: Right, Moral Foundations: Authority/Subversion, Care/Harm, Sanctity/Degradation):
+Here is the news article:
+
+President Trump called the Las Vegas attack an "act of pure evil" Monday morning, in a somber address to the American people following the mass shooting now considered the deadliest in modern U.S. history.
+
+The attack left 58 people dead and 515 hospitalized.
+
+The president announced he will visit Las Vegas on Wednesday to meet with law enforcement, first responders and families of victims.
+He also ordered the flag be flown at half-staff at the White House and other federal buildings to honor those who died.
+
+“It was an act of pure evil,” Trump said.
+
+In a unifying, faith-focused speech from the Diplomatic Room at the White House, the president offered his prayers through this “very dark period.”
+
+“To the families of the victims, we are praying for you and we are here for you and we ask God to help see you through this very dark period,” the president said.
+“Scripture teaches us the Lord is close to the broken hearted and saves those who are crushed in spirit.
+We seek comfort in those words for we know that God lives in the hearts of those who grieve.”
+
+The president called upon “the bonds that unite us,” including faith, family and shared values.
+
+“Our unity cannot be shattered by evil.
+Our bonds cannot be broken by violence,” Trump said.
+“In times such as these, I know we are searching for some kind of meaning in the chaos, light in the darkness.
+The answers do not come easy.”
+
+'Our unity cannot be shattered by evil.' — President Donald Trump
+
+He added: “But we can take solace knowing that even the darkest space can be illuminated by a single ray of hope.”
+
+Trump said that he and the first lady “pray for the entire nation.”
+
+“We pray for the day when evil is banished and the innocent are safe from hatred and from fear,” Trump said.
+
+White House Press Secretary Sarah Sanders said Monday that the president has spoken with the Nevada Gov.
+Brian Sandoval, Las Vegas Mayor Carolyn Goodman, and Las Vegas Metropolitan Police Department's Sheriff Joe Lombardo.
+
+The president first addressed the deadly attack early Monday morning on Twitter.
+
+“My warmest condolences and sympathies to the victims and families of the terrible Las Vegas shooting.
+God bless you!” Trump tweeted.
+
+The suspect, who was killed, was identified as 64-year-old Stephen Paddock, a local resident.
+Authorities also said they were “confident” Paddock’s roommate, Marilou Danley, had been located.
+Officials previously described Danley as a person of interest.
+
+Authorities said one on-duty officer was in critical condition and another was wounded in the shooting.
+Two off-duty police officers attending the concert were killed.
+
+“This was obviously well-planned, they waited for a major, open air event, and obtained a room facing it,” retired FBI special agent and former national FBI spokesman John Iannarelli, who drove past the scene of the event just moments before the shooting took place, told Fox News.
+“I can see the flashing blue police lights from my hotel window.”
+
+“They were well-trained,” Iannarelli said, noting the use of automatic weapons.
+“That’s not an easy task.”
+
+Iannarelli also said “it is too early to tell” what the motive was.
+“Is this a lone wolf inspired by others?
+This is exactly the type of attack the U.S. has been fearing would come to our shores.”
+
+Officials did not immediately reveal a motive.
+
+First lady Melania Trump also offered her condolences on Twitter Monday morning.
+
+"My heart and prayers goes out to victims, families & loved ones! #PrayForLasVegas," she tweeted.
+
+SUMMARY: President Trump condemned the Las Vegas attack as an "act of pure evil" that left 58 people dead and 515 hospitalized. In a somber address, he offered prayers and condolences to the victims' families, quoting scripture to emphasize the importance of unity and faith in the face of darkness. Trump emphasized that "our unity cannot be shattered by evil" and that even in the darkest times, hope can illuminate the way. He also announced plans to visit Las Vegas to meet with law enforcement, first responders, and victims' families. The president's speech was a call to national unity and a reminder that evil cannot break the bonds that unite Americans. END OF SUMMARY.
+
+Now, here is the target news article to summarize:
+Here is the news article:
+
+Homeland security secretary Kirstjen Nielsen said American soldiers have “no intention” of shooting migrants who try to cross into the US from Mexico – at least for the time being – but they will all be apprehended, as Donald Trump moves towards a plan to close the border. The Trump administration on Thursday announced it is planning to dispatch at least 800 active duty troops to the southern border, at the direction of a president who has sought to transform fears about immigration into electoral gains in the November midterms, as a caravan of thousands of migrants makes its way through Mexico. The US defense secretary, Jim Mattis, is expected to sign an order sending the troops to the border, bolstering national guard forces already there. And on Thursday evening, in an interview with Fox News while visiting the border in Arizona, Nielsen said: “We do not have any intention right now to shoot at people, but they will be apprehended, however.” The government is weighing an order to deny even asylum applications at a fortified border, by asserting emergency powers that would almost certainly face challenges in the US courts, the Washington Post reported. Nielsen added: “But I also take my officer and agent, their own person safety, extraordinarily seriously. They do have the ability of force to defend themselves.” The action comes as Donald Trump has spent recent days calling attention to the caravan of Central Americans, many fleeing violence or extortion by gangs and grinding poverty, including thousands of parents with babies or older relatives, slowly making their way by foot into southern Mexico, but still more than 1,000 miles from US soil. Many are aware they are not welcome by the Trump administration but have no idea how their journey is stoking an election cycle political firestorm in the US and inspiring drastic plans from the government. Where is the migrant caravan from – and what will happen to it at the border? Trump, who made fear about immigrants a major theme of his 2016 election campaign, has been eager to make it a top issue heading into the 6 November midterm elections, which will determine control of Congress. The president and senior White House officials have long believed the issue is key to turning out his base of supporters. Late on Thursday, the New York Times and Politico reported that Trump was considering an executive action – aimed at the caravan of people currently travelling through Mexico – to bar migrantsentirely. The additional troops would provide logistical and other support to the border patrol, said the US official, who spoke on condition of anonymity to discuss a plan that had not been finalized and formally announced. It’s not unusual for the national guard to help with border security. Active duty troops, however, are rarely deployed within the US except for domestic emergencies like hurricanes or floods. Trump has used the caravan to bolster his election-season warnings that the US is being infiltrated by illegal immigrants “pouring across the border”, whom he has painted with a sinister brush. He has claimed, without any apparent basis in fact, that “Middle Easterners” were among the group. At rallies and on Twitter, Trump has tried to portray the Democrats as pro-illegal immigration, even claiming, with no evidence, that Democrats organized the caravan. He tweeted Thursday: “Democrat inspired laws make it tough for us to stop people at the border” and said he was using the military to respond to what he called a “National Emergency”. Most of the migrants in the group are Hondurans, seeking to escape poverty and violence, and include families with children. The caravan swelled to about 7,000 people after crossing the Mexican border on 19 October, but sickness, fear and police harassment have whittled down its numbers. 'God will decide if we make it': Central American caravan presses northward Read more Trump tweeted a direct message to the migrants Thursday, urging them to return home. “To those in the Caravan, turnaround [sic],” he wrote. “We are not letting people into the United States illegally. Go back to your Country and if you want, apply for citizenship like millions of others are doing!” The migrants have largely been disconnected from news reports about them. When asked about Trump’s tweets, they have generally responded that he should stop attacking them and said they would keep heading north. Candy Guillermo, a 37-year-old migrant in the caravan, said she and the children in group would be considered a threat. “Trump should be more humanitarian,” she said. “We only want to give our kids a better future.” Migrants who do reach the US border can claim asylum under US and international law. Those who clear an initial screening are often released until their cases are decided in immigration court, which can take several years. ﻿
+
+For this target article, the author's moral framing heavily relies on the following Moral Foundation dimensions: Authority/Subversion, Care/Harm, Fairness/Cheating.
+Please pay special attention to preserving the moral framing related to these specific dimensions (Authority/Subversion, Care/Harm, Fairness/Cheating) in your summary.
+
+The summary has to be returned after a "SUMMARY:" token and ending with a "END OF SUMMARY." token. The summary should be no longer than 200 words.

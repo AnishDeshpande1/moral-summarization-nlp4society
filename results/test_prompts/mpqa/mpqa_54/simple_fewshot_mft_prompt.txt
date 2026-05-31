@@ -1,0 +1,176 @@
+You have to summarize the following text preserving the moral framing that the author gave to it, with particular focus on the specific moral foundations highlighted in the text.
+
+Please study the following examples of news articles and their summaries preserving the moral framing:
+
+Example 1 (Political Ideology: Left, Moral Foundations: Authority/Subversion, Care/Harm):
+Here is the news article:
+
+Having failed to lead the best-prepared nation in the world against one pandemic, Donald Trump has made it more vulnerable to another.
+He has, for example, frayed international bonds further by trying to pull the U.S. out of the World Health Organization.
+Whether he has the legal authority to do so is still unclear, but even if the threat is empty, “some of the effects will be immediate,” says Loyce Pace, the president of the Global Health Council.
+U.S. officials and experts will start disengaging from international institutions, and that might encourage other nations to follow suit.
+
+This won’t just harm the WHO at the time when it is most needed, but will also further diminish America’s already damaged international standing.
+A country that has badly mishandled its own outbreak, that has bought up the world’s stock of important drugs, and that has petulantly withdrawn from global alliances is less likely to receive warnings or support if a new crisis emerges.
+
+There is an optimistic scenario if a second virus begins to spread: The new pathogen finds it harder to move around an alert world, is rapidly detected wherever it arrives, and fizzles out because cautious citizens have their guard up.
+
+As long as people stay vigilant against the current pandemic—keeping their distance, wearing masks, avoiding indoor crowds—they should theoretically be guarded against a second respiratory virus.
+It used to be common for measles and pertussis to interfere with each other, so that if one spiked, the other would subside.
+That might be because kids who got one disease would stay home, reducing their risk of the other.
+“It’s nothing to do with a vaccine or the immune system,” says Sarah Cobey, an immunologist at the University of Chicago.
+“It’s just people being careful.”
+
+The same tests that are being used to diagnose COVID-19 could also be tweaked to cover the new pathogen.
+One company is already developing a fast “multiplex” test that could look for four respiratory viruses—the new coronavirus, two types of flu, and respiratory syncytial virus (RSV)—in a single nasal swab.
+And if the new pathogen is a flu strain, existing vaccines could be tweaked to protect against it.
+That would still take several months, but the existence of a seasonal flu vaccine offers an invaluable head start.
+
+Read: We don’t even have a COVID-19 vaccine, and the conspiracies are here
+
+This future is easier to imagine in countries like South Korea, New Zealand, and Germany, which have successfully controlled COVID-19.
+It seems less likely in nations like the U.S., Brazil, Russia, and India, which are stretched and struggling.
+
+In such places, COVID-19 would effectively cloak the spread of any new respiratory virus with similar symptoms, which “could have a chance to take off before we realized it had,” Cameron said.
+A new virus would also be harder to spot because “all the resources we would normally use to detect potential viruses of concern have been redirected for COVID-19,” says Lauren Sauer, who works on disaster preparedness at Johns Hopkins Medicine.
+She means everything from physical equipment like swabs and storage tubes, to health-care workers who administer and process tests, to public-health experts who analyze the data or conduct contact tracing.
+These are either running out or burning out.
+A second respiratory virus would further tax the same resources that the U.S. has already failed to adequately marshal for COVID-19.
+
+SUMMARY:
+
+Donald Trump's mishandling of the COVID-19 pandemic has made the US more vulnerable to another pandemic. His attempt to withdraw from the World Health Organization has frayed international bonds and may encourage other nations to follow suit, ultimately harming the WHO and America's international standing. The US's failure to control its own outbreak, hoarding of important drugs, and withdrawal from global alliances will make it less likely to receive warnings or support if a new crisis emerges. While a second virus may be harder to detect in countries like the US, Brazil, Russia, and India, which are struggling to control COVID-19, a more optimistic scenario exists in countries like South Korea, New Zealand, and Germany, which have successfully controlled the pandemic. The moral of the story is that a country's failure to take responsibility for its own pandemic response can have far-reaching consequences, making it more vulnerable to future health crises.
+
+END OF SUMMARY.
+
+Example 2 (Political Ideology: Center, Moral Foundations: Authority/Subversion, Care/Harm, Fairness/Cheating):
+Here is the news article:
+
+WASHINGTON — With the announcement on Saturday that the U.S. and Russia have reached an agreement on securing Syria's chemical weapons stockpile, the American threat of U.S. military action was effectively taken off the table.
+
+After more than two weeks of saber-rattling — and an unsuccessful effort by President Obama to win congressional and public support for a limited military strike — it was a last-minute diplomatic push led by the Russians that saved the day.
+
+But the Obama administration is wading into the deal — which will undoubtedly be scrutinized by a Congress that is distrustful of Russian President Vladimir Putin and Syrian President Bashar Assad — with eyes wide open.
+
+"The international community expects the Assad regime to live up to its public commitments," Obama said in a statement Saturday afternoon.
+"While we have made important progress, much more work remains to be done."
+
+Secretary of State John Kerry was even more blunt about U.S. caution.
+
+"We have committed to a standard that says verify and verify," Kerry said at news conference in Geneva, where he and his Russian counterpart, Sergey Lavrov, announced the framework of the agreement to secure and destroy the Syrian chemical weapons stockpile.
+
+In previous comments, Obama has made clear that trusting the Russians and Assad will not be easy.
+
+The president's relationship with Putin is famously tense, with the two sparring over Syria policy and Putin's decision to give temporary asylum to former National Security Agency contractor Edward Snowden after he leaked a treasure trove of classified information on U.S. intelligence surveillance practices.
+
+And the Russian president didn't engender any American confidence when he penned a commentary in The New York Times earlier this week in which he slammed Obama for speaking of American exceptionalism in making his case for military action against Syria and made the dubious claim that the rebels were responsible for chemical attacks against it own people.
+
+"We are not just going to take Russia and Assad's word for it.
+We need to see concrete actions to demonstrate that Assad is serious about giving up his chemical weapons," Obama said in his weekly radio address that aired Saturday morning and was taped ahead of the deal being announced.
+
+Among the fine details of the deal, which was hatched out over three days by Kerry and Lavrov, are: Syria's chemical weapons stockpile must be removed or destroyed by 2014, international inspections will begin by November, and the Syrians will offer full disclosure of its arsenal within a week.
+
+The two sides also agreed that any potential violations by the Syrians would be taken to the United Nations Security Council — where the Russians have veto power — for response.
+
+That element of the deal allows both sides to claim that they stood their ground on potential use of force for further violations by the Assad regime.
+Putin said it was unrealistic for the Americans to call on Assad to hand over weapons when facing the threat of military action, while Obama has refused to cede his authority to take such action.
+
+If the framework is implemented, it would meet Obama's goals of taking away the Assad regime's ability to conduct another chemical attack.
+But the White House will have a harder time making its case that it truly held Assad responsible for carrying out the brutal Aug. 21 attack that killed 1,400 Syrian civilians on the outskirts of Damascus.
+
+Sen. Bob Corker of Tennessee, the top Republican on the Senate Foreign Relations Committee, said that under the terms of agreement "Syria's willingness to follow through is very much an open question."
+
+The deal is far from perfect, and requires the administration to take a leap of faith in trusting the Syrians and Russians to keep their part of the deal.
+
+But for Obama, it offered the best way out of his unpopular call for military action.
+
+"Obama is a winner on this substantively, but the optics on this are bad," said Jim Walsh, an expert on international security at the Massachusetts Institute of Technology's security studies program.
+"Syria doesn't get bombed, and Assad is happy about that.
+The Russians are winners because they look like they are birthing a diplomatic solution to what was going to be another war in the Middle East.
+
+"Obama is not going to get credit for this because of his critics at home, but on the substance it is a win," Walsh added.
+
+After the last two weeks, the White House will take it.
+
+SUMMARY:
+
+The US and Russia have reached an agreement to secure Syria's chemical weapons stockpile, effectively taking the threat of US military action off the table. The deal, led by the Russians, comes after two weeks of diplomatic efforts and a failed attempt by President Obama to win congressional and public support for a limited military strike. While the agreement is a step forward, the Obama administration is cautious, with eyes wide open, given the distrust of Russian President Vladimir Putin and Syrian President Bashar Assad. The deal requires Syria to remove or destroy its chemical weapons by 2014, with international inspections starting in November. The US is wary of trusting the Russians and Assad, and the agreement's success depends on their commitment to the deal. Despite its imperfections, the deal offers the best way out of the crisis, but its optics are bad, with Assad and the Russians emerging as winners.
+
+END OF SUMMARY.
+
+Example 3 (Political Ideology: Right, Moral Foundations: Authority/Subversion, Care/Harm, Fairness/Cheating):
+Here is the news article:
+
+Obama urges new restrictions on assault weapons, magazines as part of gun control plan
+
+President Obama called Wednesday for a new and tougher assault-weapons ban and a 10-round limit on magazines, as part of a comprehensive plan to curb gun violence that includes 23 steps he took without congressional action.
+
+Already facing stiff opposition from gun-rights advocates and Republican lawmakers, the president called on Congress to pass several major changes to the country's current gun laws -- some of which are already being considered like the restrictions on semi-automatic weapons and high-capacity magazines.
+
+Obama called as well for legislation to bar the possession and importation of armor-piercing bullets and to require criminal background checks for nearly all gun sales.
+The president, speaking at the White House, said he would use "whatever weight this office holds" to get the proposals passed.
+
+"If there's even one life that can be saved, then we've got an obligation to try," Obama said.
+"When it comes to protecting the most vulnerable among us, we must act now.
+... Let's do the right thing."
+
+The president was joined by four children who wrote to the White House about gun violence following the Connecticut mass shooting in which 20 children were killed.
+Though the administration faced some criticism for involving children in the program, they were positioned off to the side while Obama spoke.
+
+Despite discussions earlier about addressing the pervasive violence in the entertainment and video game industries, the president's plan did not address those issues in depth.
+The plan, though, does call for a range of measures to improve access to mental health services and improve safety at America's schools.
+
+The president, immediately after making his remarks, signed nearly two-dozen executive actions -- a step that has stirred objections from lawmakers who have warned Obama not to overstep his bounds.
+
+Unilaterally, Obama on Wednesday directed federal agencies to share information with the federal background check system; proposed new rules to let law enforcement run full background checks before returning a seized gun; ordered the Centers for Disease Control to research causes of gun violence; required law enforcement to trace guns from criminal investigations; and took other steps.
+Plus Obama is nominating ATF Acting Director Todd Jones to officially lead the agency
+
+The most controversial elements of the president's plan, though, continue to be the proposals he wants Congress to pass.
+
+The call for universal background checks would extend to gun shows and private sales, with "limited" exemptions for "certain transfers" among family members and other situations.
+The administration plans to give private sellers guidance on how to run background checks as soon as possible.
+
+Plus the president wants to commit $4 billion to hiring more police officers, and to pass new gun trafficking laws to explicitly prohibit straw purchasing.
+
+The plan was already earning a mixed response from lawmakers.
+
+Sen. Marco Rubio, R-Fla., accused Obama of trying to "undermine Americans' constitutional right to bear arms" without doing enough to focus on keeping guns out of the hands of criminals and the mentally ill.
+
+"Nothing the president is proposing would have stopped the massacre at Sandy Hook.
+President Obama is targeting the 2nd Amendment rights of law-abiding citizens instead of seriously addressing the real underlying causes of such violence," he said.
+
+Senate Democratic Leader Harry Reid said "all options should be on the table."
+
+Texas Gov. Rick Perry, in a written statement, said: "Guns require a finger to pull the trigger.
+The sad young man who did that in Newtown was clearly haunted by demons and no gun law could have saved the children in Sandy Hook Elementary from his terror."
+
+Gun-rights groups say the effort to impose more gun control measures is misguided, noting in particular that most killings in America are committed with handguns and not the assault weapons the administration intends to target.
+Some local officials have vowed to resist federal action.
+
+The National Rifle Association also plans to launch a major ad campaign.
+The group's first ad called Obama an "elitist hypocrite" for his daughters' security detail.
+Obama has been critical of the NRA's plan to install armed security in every school.
+
+The White House plan does address school security, urging Congress to help schools complete emergency plans; proposing an initiative to help schools hire up to 1,000 resource officers and mental health professionals; and proposing new training for teachers to recognize mental health issues among young people.
+Obama also plans to beef up mental health coverage via executive action.
+
+House Speaker John Boehner declined to weigh in on the merits of the president's proposals Wednesday.
+
+"House committees of jurisdiction will review these recommendations.
+And if the Senate passes a bill, we will also take a look at that," Boehner spokesman Michael Steel said.
+
+SUMMARY:
+
+President Obama unveiled a comprehensive plan to curb gun violence, calling for a new assault-weapons ban, a 10-round limit on magazines, and 23 executive actions to strengthen gun control laws. He urged Congress to pass legislation to bar armor-piercing bullets, require criminal background checks for nearly all gun sales, and commit $4 billion to hiring more police officers. Obama emphasized the moral obligation to act, saying "if there's even one life that can be saved, then we've got an obligation to try." He was joined by four children who wrote to the White House about gun violence following the Connecticut mass shooting. While some lawmakers and gun-rights advocates oppose the plan, Obama vowed to use his office's "whatever weight" to get it passed, arguing that it's a moral imperative to protect the most vulnerable among us. The plan also addresses mental health services, school safety, and research on gun violence causes.
+
+END OF SUMMARY.
+
+Now, here is the target news article to summarize:
+Here is the news article:
+
+Following the end of the Cold War, the United States has become the world's sole superpower and the trend of pragmatism in its foreign policy has become clearer and clearer. Pragmatism is, in the first place, the United States' traditional policy. After coming to power, unilateralism and pragmatism have become Bush's main foreign policy line. Alternate use of and complementary nature of pragmatism and unilateralism constitute the characteristics of the Bush administration's diplomacy. Once coming to power, Bush insisted on deploying the National Missile Defense System [NMD]. The international community and even US western allies, including US neighbor Canada, have consistently opposed the plan. Despite the opposition, Bush went it alone. One of the main US diplomatic goals for this year is to persuade the international community to accept the NMD and Russia to agree to revise the Anti-Ballistic Missile Treaty [AMD] by flashing a carrot on a stick. At one time, he said the new US missile defense system would not pose a threat to the international security and would not trigger an arms race; on another occasion, he stated the Anti-Ballistic Missile Treaty signed by the Soviet Union and the United States in 1972 was "a product of the Cold War era," and thus has lost its binding force. He even claimed that to develop the NMD, the United States would be even prepared to scrap the ABM. Over the past year, Bush increased funds for research and testing for the N!MD and accelerated the test frequency of the anti-missile system Even after the adoption of the resolution on "maintaining and abiding by the "Anti-Ballistic Missile Treaty" on 29 November at the 56th United Nations General Assembly, the United States still persisted in carrying out a fifth missile interception test. In a word, the US development of the NMD is for the purpose of "attacking other countries and at the same time preventing other countries from attacking it," thereby genuinely securing its status of being the "sole super power." The Sino-US plane collision event that occurred on 1 April can best illustrate the US alternate application of the "two-isms" in its diplomacy. In the plane collision event, if one goes by the US logic, only the US spy plane is permitted to spy at other people's doorsteps; the host, on the other hand, does not even have the right to look after its doors and to protect its yard. The responsibility for the event, in which a Chinese plane crashed and a Chinese pilot perished, lies completely with the US side. The US side not only refused to apologize to China but also claimed that "US crew members were detained by the Chinese side." It was only because of it being deterred by the Chinese Government's firm position and due to the fact that the US crew members were still in China that the United States was compelled to offer an apology. But after the Chinese side released all the US crew members, major US political figures changed their stance immediately and threatened to use human rights, trade, and Olympics hosting issues to "retaliate" against China. Since coming to power, Bush, proceeding from the US immediate interests, has also adopted the pragmatism and unilateralism position with regard to international treaties. This March, catering to the interests of the US oil and coal barons who have made large political donations to the Republican Party, Bush announced, without prior consultations with its allies, that the United States would not enforce the "Kyoto Protocol" which is aimed at reducing greenhouse gas emissions in the world. This announcement was met with unanimous condemnation by the international media. In July, the Bush administration decided to let the "Comprehensive Test Ban Treaty" "freeze" in the Senate. Hard on the heels of that decision, the US negotiation representative Marie Chevrier announced in Geneva that the Bush administration would not support the implementation of the "Biological Weapons Convention" and that the United States strongly objected to the concrete enforcement plan of this convention. The Bush administration either refuses to sign, ratify, or implement international treaties or asks for their revision. It only wants the international treaties that benefit the US security and economy and globalization. It does not want anything to do with the international treaties, mechanisms, and organizations that restrict or prevent US freedom. It does not want anything to do with countries and organizations that do not follow its orders or that always cause troubles to it. After the 11 September attacks on the United States, the international community strongly condemned the terrorist acts and expressed sympathy and support to the American people. Supported by the world, the United States launched the "war against terrorism" of this century. Bush stressed that the war is not only the "US war" but also a "world war." The United States views itself as a "major force of anti-terrorism," for in the world only the United States has the capability to carry out the global war against terrorism. Bush said, "Either you are with us or you are with the terrorists" and "any nation that continues to harbor or support terrorism will be regarded by the United States as a hostile regime." The United States wants all the countries in the world to stand behind it in the fight against terrorism and decides which country is its enemy or friend on the basis of that country's attitude toward it. It is in fact like using multilateral diplomacy to enhance US unilateralism. But the United States obviously practices pragmatism in its treatment of Pakistan -- a frontline state in the fight against Pakistan. Before the 11 September event, the United States kept its distance from Pakistan and imposed sanctions on it. But after declaring a war against terrorism the United States not only drew Pakistan to its side but also provided aid to it. Whether the United States will continue to treat Pakistan in a responsible manner, it is anybody's guess.
+
+For this target article, the author's moral framing heavily relies on the following Moral Foundation dimensions: Authority/Subversion, Care/Harm, Fairness/Cheating.
+Please pay special attention to preserving the moral framing related to these specific dimensions (Authority/Subversion, Care/Harm, Fairness/Cheating) in your summary.
+
+The summary has to be returned after a "SUMMARY:" token and ending with a "END OF SUMMARY." token. The summary should be no longer than 200 words.

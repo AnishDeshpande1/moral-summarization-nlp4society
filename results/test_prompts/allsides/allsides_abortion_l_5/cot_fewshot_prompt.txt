@@ -1,0 +1,229 @@
+You have to summarize the following text preserving the moral framing that the author gave to it.
+
+Please study the following examples of news articles, their moral word extraction, and summaries preserving the moral framing:
+
+Example 1 (Political Ideology: Left):
+Here is the news article:
+
+The “compromise” immigration bill released Thursday night by Republicans in the House of Representatives is set to come to the House floor next week, alongside a more conservative alternative.
+It’s a sweeping plan that covers everything from border security (including a promise of $25 billion for Trump’s border wall); to a way for immigrants who are facing the loss of their protections under the Deferred Action for Childhood Arrivals (DACA) program to apply for legal status and ultimately (possibly) green cards and citizenship; to cuts to legal family-based immigration that are partially offset by expanding permanent employer-based immigration.
+
+But House Speaker Paul Ryan and others are emphasizing a different aspect of the bill.
+They claim it would prevent the Trump administration from separating children from their parents at the US-Mexico border — a practice the administration made widespread in early May and that has resulted in the separation of hundreds of families a week.
+
+They’re lying.
+
+The Republican bill doesn’t outlaw family separation.
+It doesn’t stop the Trump administration from choosing to prosecute asylum seekers who enter the US between ports of entry (official border crossings) for illegal entry, which results in parents being sent into criminal custody without their children.
+And it doesn’t even force the government not to separate parents who do present themselves legally for asylum from their children — something that has also been happening, though isn’t as widespread.
+
+What the House bill does is get rid of the extra legal protections that children and families have in immigration detention: a requirement that children be kept in the “least restrictive” conditions possible, and that they not be detained any longer than necessary.
+This means that if the family is kept together, their parents must be released with them.
+The Trump administration calls those protections “loopholes,” and blames them for “forcing” the administration to keep asylum-seekers in custody by separating families.
+
+If the House bill passed, the Trump administration probably would stop separating families.
+Instead, it would be able to keep children and parents in ICE detention until their cases were resolved — that is, they could be in held in detention indefinitely.
+
+The House bill allows kids and families to be detained by ICE indefinitely — which is what Trump has wanted all along
+
+The Republican summary of the new bill (as reported by Leigh Ann Caldwell of NBC) claims that it ends family separation: “Accompanied alien minors apprehended at the border must not be separated from their parent or legal guardian while in DHS custody.”
+
+There is no language like that in the bill.
+
+What exists, however, in a section called “Clarification of Standards for Family Detention,” is a provision allowing ICE to detain immigrant children who come to the US with their parents or guardians in the same way it would detain adults:
+
+There exists no presumption that an alien child who is not an unaccompanied alien child should not be detained, and all such determinations shall be in the discretion of the Secretary of Homeland Security.
+
+That sentence would overrule a court agreement that’s been in place for the past 20 years, called the Flores agreement, that puts strict limitations on when the government can keep children in immigration detention.
+The Flores agreement requires that kids be released “without unnecessary delay,” and that they are kept in the meantime in the “least restrictive” conditions possible.
+
+Courts have interpreted that agreement to mean that ICE can’t detain families for more than 20 days in most cases.
+
+The Flores agreement doesn’t require the government to separate families.
+It just requires the government not to indefinitely detain children.
+But the Trump administration has decided to maximize the detention of asylum seekers, including parents, to prevent people from disappearing into the US as unauthorized immigrants after they’re released.
+(This is the so-called “catch and release” policy Trump has railed against.)
+
+Rather than release parents with their children, therefore, the administration is separating families so the parents can be detained while the children (sent to the custody of HHS as “unaccompanied alien children”) are ultimately placed with sponsors.
+
+The House bill allows the administration to keep families in immigration detention indefinitely.
+It doesn’t even specify that there are any additional conditions on how children can be detained — there’s nothing preventing the Trump administration from simply putting children in existing ICE detention centers for adults, rather than expanding detention centers designed for families.
+
+Nothing in the bill requires ICE to keep parents and children together in detention.
+In fact, the mechanism that the Trump administration has generally been using to separate families — referring parents into the custody of the Department of Justice for prosecution — isn’t even addressed in the bill.
+
+The only reason the House bill could possibly end the separation of families would be if the Trump administration decided that because they now didn’t have to release children from detention, they would stop prosecuting parents, and they would make an effort to keep families together in ICE detention.
+
+But even then, that just means that children would be held in facilities that are essentially jails with their parents for months, or even years, until they ultimately received legal status — or, more likely, until they were finally deported.
+
+STEP 1:
+* lying
+* widespread
+* illegal
+* loopholes
+* forcing
+* indefinitely
+* catch
+* release
+* maximize
+* unauthorized
+* railed
+* separating
+* widespread
+
+SUMMARY:
+The House Republicans' new "compromise" immigration bill is a sweeping plan that covers border security, DACA, and legal family-based immigration. However, House Speaker Paul Ryan and others are misleadingly claiming that it would prevent the Trump administration from separating children from their parents at the US-Mexico border. In reality, the bill doesn't outlaw family separation, and instead, it allows the Trump administration to detain children and parents indefinitely in ICE detention centers. The bill gets rid of the extra legal protections that children and families have in immigration detention, which the Trump administration calls "loopholes". This means that if the family is kept together, their parents must be released with them, but the Trump administration would rather detain families indefinitely. The bill is a thinly veiled attempt to maximize the detention of asylum seekers, including parents, and to prevent people from disappearing into the US as unauthorized immigrants. END OF SUMMARY.
+
+Example 2 (Political Ideology: Center):
+Here is the news article:
+
+Obama Team To Make Important, If Symbolic, Choice On Gay Marriage
+
+The Obama administration faces tricky political and legal questions on the subject of gay marriage.
+By the end of this month, the federal government is expected to file not just one but two briefs in a pair of same-sex marriage cases at the U.S. Supreme Court.
+
+But it is the Proposition 8 case from California that poses the thornier questions for the administration — questions so difficult that the president himself is expected to make the final decision on what arguments the Justice Department will make in the Supreme Court.
+
+Prop 8, as it is known, is the California ballot initiative banning same-sex marriage.
+It was narrowly approved by state voters in 2008.
+A federal district court struck down the law as unconstitutional discrimination in 2010.
+A federal appeals court later agreed, but on narrower grounds.
+Because there was a period of time in which same-sex couples could legally marry in California, the court said, it was unconstitutional for the state, through the ballot initiative, to take away a fundamental right it had previously granted.
+
+The state, under both Republican and Democratic governors, has declined to defend the measure in court.
+So its ban on gay marriage is being defended by the sponsors of the initiative.
+
+The Obama administration is not required to file any brief in the case because it does not directly involve federal law.
+But administration sources say the government will file a brief.
+Still unresolved is what the brief will say.
+And in this case, much more than most, there are numerous legal routes that the government can take.
+
+The ultimate question — the one perhaps most people want an answer to but may not get — is whether same-sex couples have a constitutional right to marry.
+A Supreme Court decision that says yes to that would invalidate laws in some 30 states.
+But there are many legal avenues short of such a far-reaching argument that would invalidate Proposition 8 in California and leave laws in other states intact.
+
+What makes this even dicier is that President Obama has changed his position, seemingly a lot, over the past eight months.
+In May, in an ABC interview, he for the first time endorsed same-sex marriage from a personal point of view, but he went on to say that the decision on legalizing gay marriage should be left to the states, where marriage matters are traditionally governed.
+
+"It is important for me to go ahead and affirm that I think same-sex couples should be able to get married.
+And I continue to believe that this is an issue that is going to be worked out at the local level, because historically this has not been a federal issue," he said.
+
+But eight months later at his inauguration, the president seemed to take a more expansive view.
+"Our journey is not complete until our gay brothers and sisters are treated like anyone else under the law.
+For if we are truly created equal, then surely the love we commit to one another must be equal as well," Obama said.
+
+That language suggests the president believes in a more basic constitutional right to marry, analogous to the right enunciated in a unanimous 1967 Supreme Court ruling that struck down laws barring interracial marriage.
+In that case, ironically, the federal government took no position in the Supreme Court.
+
+So what will Obama do now that he faces similar questions in a case about sexual orientation, not race?
+
+His administration could make a bold, full-throated defense of the right to marry, an argument that Obama seemed to suggest at his inaugural.
+Or it could argue a number of lesser positions: That California, having extended the right to marry to gay couples for a window of time, could not revoke the right.
+Or that California, like some other states, has a law extending all rights to same-sex couples, except the right to marry, and that such a distinction amounts to discrimination.
+Or it could argue that since the state is not defending the law, the case does not belong in court at all — that the sponsors of the initiative have no legal standing in court.
+
+For the gay community, and for those advocating traditional marriage between a man and a woman, the position the government takes in this case is hugely important — if nothing else, as a symbol.
+Both sides have made formal presentations at the Justice Department urging the administration to take their side.
+But the deadline has already passed for a brief siding with Proposition 8 supporters, leaving only the question of what a brief on the other side will say.
+
+Same-sex marriage advocates are holding their collective breath for now and maintaining a pretty studied public silence, hoping to avoid the impression that the gay community is pressuring the administration.
+
+Still, lawyers who argue regularly before the court are not so sure that the administration's brief, whatever it says, will make a big difference to the justices.
+
+"I'm never going to tell you that the solicitor general's position doesn't matter," says former Bush administration Solicitor General Paul Clement.
+But in this case, he says, "I think it matters less."
+
+Clement was hired by the House Republican leadership to defend the constitutionality of the Defense of Marriage Act, or DOMA, in a case that is paired with the Proposition 8 case in the Supreme Court.
+The reason he thinks the administration's brief in the Proposition 8 case matters less, he says, is "because we already know what their position is on DOMA and one can extrapolate."
+
+In the DOMA case, the Obama administration argues that the federal law is unconstitutional because it bars federal benefits to legally married same-sex couples — benefits that go automatically to legally married heterosexual couples.
+
+Supreme Court advocate Tom Goldstein, founder of SCOTUSblog, makes a different point — that sometimes Supreme Court briefs are aimed at more than one audience.
+He notes that in a truly historic case like this one, "I think part of what's going on ... is a statement about what is morally right and wrong.
+And so I think it could matter to Americans much more than it matters to the Supreme Court."
+
+STEP 1:
+* equal
+* right
+* equal
+* morally
+* right
+* wrong
+
+SUMMARY:
+The Obama administration is facing a crucial decision on gay marriage, with the President himself expected to make the final call on the Justice Department's arguments in the Proposition 8 case at the U.S. Supreme Court. The case poses a moral dilemma, as the administration must decide whether to take a bold stance on the constitutional right to marry, or argue lesser positions. The President's previous statements on the issue have been ambiguous, but his inaugural address suggested a more expansive view, stating that "our gay brothers and sisters are treated like anyone else under the law." The administration's brief will carry significant symbolic weight, as it will be seen as a statement on what is morally right and wrong. Same-sex marriage advocates are holding their breath, hoping the administration will take a strong stance in favor of equality and right. The outcome of this case could have far-reaching implications, potentially invalidating laws in 30 states. END OF SUMMARY.
+
+Example 3 (Political Ideology: Right):
+Here is the news article:
+
+Outgoing White House economic adviser Larry Summers warned Wednesday that failure to pass a new tax cut compromise would significantly raise the risk of a double-dip recession.
+
+"To pass this bill in the next couple of weeks would materially increase the risk that the economy would stall out and we would have a double dip," he told reporters at the White House.
+
+Summers added that he thinks Congress will pass the deal President Obama struck with Republicans, an agreement that has come under withering criticism from liberal Democrats over the two-year extension of tax cuts for the rich as well as the middle class.
+
+Summers said that he doesn't think that Congress would take a step that "materially increases the risk that this economy will stall out."
+
+Positive reviews coming in from economists, Summers said, show the deal is the right thing to do.
+
+Sen. Jon Kyl, the No. 2 Republican in the Senate, told reporters that a tax cut bill could be on the Senate floor as early as Thursday.
+
+But, in a surprise move, Senate Democrats, meeting behind closed doors to discuss the tax deal, have asked the administration for "changes" to the bill, according to Sen Dick Durbin, D-Ill., the No. 2 Democrat in the chamber.
+Durbin would not detail what those changes are, deferring to Senate Majority Leader Harry Reid, D-Nev.
+
+Kyl said an official analysis and price tag, referred to as a "score," from the Joint Committee on Taxation (JCT) are not yet ready, but that the Senate could move to the bill anyway.
+
+Vice President Biden traveled to the Capitol Wednesday for a private meeting with House Democrats who are resisting the deal, saying it gives away too much to the wealthy.
+
+Some Democrats are unhappy that Obama agreed to extend expiring tax cuts not just for the middle class but also for higher earners, and that he agreed to impose a lower estate tax on wealthy heirs.
+Both provisions are seen by many Democrats as giveaways to the rich that will do little to help the economy.
+
+In return, Democrats would get extended jobless benefits for people who have been unemployed for long stretches.
+Workers would also see their share of Social Security payroll taxes cut by nearly a third for the coming year, a boost in take-home pay meant to encourage spending and aid the economy.
+
+Liberals are going as far as trying to prevent outgoing House Speaker Nancy Pelosi from bringing the tax cut compromise to the floor.
+
+Reps. Peter DeFazio of Oregon, and Jim McDermott and Jay Inslee of Washington state are crafting a letter to share with the House Democratic Caucus that would try to block the bill from seeing the light of day.
+They're hoping to get 60 signatures on their letter and then force a vote in the caucus.
+
+"There does not seem to be a majority of the Democrats who support the deal negotiated by Vice President Biden," he told Fox News.
+"So we want to have a record vote in the caucus on a resolution that says this resolution should not go to the floor without a majority of Democratic votes."
+
+DeFazio said House Democrats aren't going to keep rubber-stamping deals they don't like.
+
+"All through this administration, the White House has been a spear carrier for the president," he said.
+"They sent something over, the speaker has jammed it through and then Obama has negotiated with the Senate.
+And they're trying to get us to jam it through again.
+And a number of us are just saying that's enough."
+
+Obama rejected claims that he betrayed Democrats by cutting a deal with Republicans.
+Speaking to reporters at a joint appearance with Polish President Bronislaw Komorowski, Obama said economists predict higher job growth in 2011 and 2012 if Congress passes the agreement and urged lawmakers to examine the details of the deal and "get this done."
+
+But House Democrats are not listening.
+
+"So far, the response has not been very good," Pelosi said.
+She called the estate tax provision "a bridge too far."
+
+STEP 1:
+* warned
+* risk
+* criticism
+* right
+* surprise
+* giveaways
+* unhappy
+* betrayal
+* rejected
+* enough
+* bridge
+
+SUMMARY:
+Outgoing White House economic adviser Larry Summers warned that failure to pass a new tax cut compromise would significantly raise the risk of a double-dip recession. He believes that Congress will pass the deal President Obama struck with Republicans, despite withering criticism from liberal Democrats over the two-year extension of tax cuts for the rich as well as the middle class. Summers thinks it's the right thing to do, citing positive reviews from economists. However, Senate Democrats have asked for "changes" to the bill, and House Democrats are resisting the deal, saying it gives away too much to the wealthy and is a "bridge too far." Vice President Biden met with House Democrats to address their concerns, but many are unhappy with the deal, feeling it's a betrayal of Democratic values. Obama rejected claims of betrayal, urging lawmakers to examine the details of the deal and "get this done." END OF SUMMARY.
+
+Now, here is the target news article to summarize:
+Here is the news article:
+
+Washington (CNN) The GOP-controlled House of Representatives passed legislation on Thursday banning all taxpayer money for abortions. But that bill was a backup, after another proposal to ban so-called "late -term" abortions was suddenly yanked the late Wednesday night because of blow back from moderate Republicans who argued it was too extreme. The bill barring federal taxpayer funds was approved in the last Congress. On Thursday it passed 242-179, with three Democrats joining virtually all House Republicans to support the bill. GOP Rep. Richard Hanna of New York was the one Republican who voted against it. Earlier on Thursday, the White House promised to veto the legislation if it ended up on the President's desk. The vote came as tens of thousands of anti-abortion rights activists descended on the National Mall for the annual "March for Life." Thursday's event coincides with the 42nd anniversary the of the Supreme Court's Roe v. Wade decision which upheld a woman's access to abortion based on privacy rights in the Constitution. Republican leaders initially planned to pass the "Pain Capable Unborn Child Protection Act," a bill banning abortion procedures for women who are beyond 20 weeks into their pregnancy. A similar version of that bill was approved by the House in 2013. But a bloc of female GOP members - led by North Carolina Rep Renee Ellmers - opposed a provision in the bill that provided an exception for women who are raped, but required that that they show evidence they filed a police report in order to have access to an abortion. These members argued the vast majority of rapes go unreported, and some are the result of incest. Some male members agreed that provision shouldn't be included, and urged leaders to strip it out. "I'm pro-life," Florida GOP Congressman Carlos Curbelo told reporters on Thursday. But he added, "I'm certainly not going to ever put myself in the position where I'm telling any woman that their account of a rape is valid or not." House Democratic leader Nancy Pelosi needled the GOP about the internal spat, saying, "They didn't even have their act together." And she criticized the GOP for spending time on the abortion debate instead of debating measures focused on job creation. "They're putting a bill on the floor that undermines the health of America's women. The bill is worse than the bill they pulled from the floor yesterday," Pelosi said in a news conference. "That affected thousands of women, maybe, this affects millions of women. It not only affects their health, it affects the personal decisions of how they spend their own money for health insurance." Religious activists pushing for more abortion restrictions were unhappy with the Republican leadership's decision to cancel the vote on that measure. "I have nothing but respect for the speaker but this was not the best moment for the House Republicans by far -- and happening on the day on the March for life," Dr. Russell Moore, president of the Southern Baptist Convention's Ethics and Religious Liberty Commission, told CNN. The late-night decision to pull the bill was a unusual win for more centrist members, who argued that the bill sent the wrong message - especially to women and young people - at a time that the party was working to expand its support ahead of the 2016 national election. "This appeared to be messaging bill, and the message that was being sent was not a very good one," Republican Rep Charlie Dent of Pennsylvania said, noting that the bill was not going anywhere in the Senate. "I would prefer that our party spent less time focusing on these very contentious social issues, because that distracts us from broader economic messages where I think we have much greater appeal to the larger public," he said. Since Republicans took control of the House in 2011, House Speaker John Boehner has tangled with conservatives on a range of bills, and in some cases their opposition has thwarted Boehner's legislative agenda. After the 2014 midterm election, the GOP conference now has 246 members, including 22 female members. The willingness of many of these members, and those who represent competitive districts, to challenge their leaders may complicate future legislation. "There is a growing sentiment in the conference that we want to move legislation that can make a difference for the American people and not take an infinite number of symbolic votes that might be good for a campaign ad or get people riled up," Curbelo told CNN. North Carolina Republican Rep. Richard Hudson, who said he wasn't involved in the discussions about the bill, said, "None of us saw it coming." JUST WATCHED Court strikes down abortion buffer zones Replay More Videos ... MUST WATCH Court strikes down abortion buffer zones 01:11 He pointed out that members voted on the same bill last year, and said, "Now there is a concern, then there wasn't." Much of the criticism from anti-abortion rights groups centered on Ellmers. Moore said activists at the Match for Life took notice of the North Carolina Republican's role. "I've heard the name Renee Ellmers once every 20 seconds this morning on the mall," he said. She issued a statement after Thursday's vote saying she still was still discussing bringing the 20-week abortion bill ban bill back to the floor. "Our goal is to find a way to get this legislation in its best possible form," she said. Rep. Trent Franks of Arizona, the author of the bill that didn't get a vote, told reporters he was "disappointed" and said he was confident the measure would have passed. He said he didn't question his leaders commitment to fighting for anti-abortion rights bills and said he had their "word of honor" the House would eventually hold a vote on it.
+
+(1) First, you identify all the single words that are morally framed. Identify this step as "STEP 1:" and report each word in a new line starting with *
+(2) Finally, you write a summary of the news article. Please preserve as many morally framed words as possible in your summary. The summary has to be returned after a "SUMMARY:" token and ending with a "END OF SUMMARY." token. The summary should be no longer than 200 words.

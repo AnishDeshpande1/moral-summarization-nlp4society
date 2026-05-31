@@ -1,0 +1,163 @@
+You have to summarize the following text preserving the moral framing that the author gave to it, with particular focus on the specific moral foundations highlighted in the text.
+
+Please study the following examples of news articles, their moral word extraction, and summaries preserving the moral framing:
+
+Example 1 (Political Ideology: Left, Moral Foundations: Authority/Subversion, Sanctity/Degradation):
+Here is the news article:
+
+Republican presidential candidate Rick Perry pledges to end "[President Barack] Obama's war on religion" in a new television ad airing in Iowa, railing against open service of gays and lesbians in the military and the prohibition against prayer in public schools.
+
+"I'm not ashamed to admit I'm a Christian," says Perry.
+"But you don't need to be in the pews every Sunday to know that there's something wrong in this country when gays can serve openly in the military but our kids can't openly celebrate Christmas or pray in school."
+
+"As president, I'll end Obama's war on religion and I'll fight against liberal attacks on our religious heritage," the Texas governor continues.
+"Faith made America strong. It can make her strong again."
+
+Perry has recently stepped up his attacks on Obama for cultural issues.
+In a statement released Tuesday, he decried the Obama administration’s decision to use foreign aid to promote rights for gays and lesbians abroad.
+
+"This is just the most recent example of an administration at war with people of faith in this country," he said.
+"Investing tax dollars promoting a lifestyle many Americas of faith find so deeply objectionable is wrong.
+President Obama has again mistaken America's tolerance for different lifestyles with an endorsement of those lifestyles."
+
+Politico reported Tuesday that Perry bought $1 million in broadcast television time ahead of the Jan. 3 caucuses.
+The Dallas Morning Newsrecently reported that his presidential campaign plans to bring "more than 600 influential Texans" to Iowa in December.
+However, Perry netted just six percent support among likely Republican caucus-goers, according to a Des Moines Register poll released Saturday.
+
+STEP 1:
+* ashamed
+* wrong
+* faith
+* heritage
+* strong
+* objectionable
+* tolerance
+* endorsement
+
+SUMMARY:
+Republican presidential candidate Rick Perry is pledging to end what he calls "[President Barack] Obama's war on religion" in a new TV ad airing in Iowa. Perry, a self-proclaimed Christian, claims that Obama's administration is at war with people of faith, citing the open service of gays and lesbians in the military and the prohibition against prayer in public schools as examples. Perry argues that it's "wrong" that kids can't openly celebrate Christmas or pray in school, while gays can serve openly in the military. He vows to "fight against liberal attacks on our religious heritage" and claims that "faith made America strong. It can make her strong again." Perry has also criticized Obama's decision to use foreign aid to promote rights for gays and lesbians abroad, calling it "wrong" and an "endorsement" of a lifestyle many Americans of faith find "objectionable." END OF SUMMARY.
+
+Example 2 (Political Ideology: Center, Moral Foundations: Authority/Subversion, Care/Harm):
+Here is the news article:
+
+A man pulled out a shotgun inside a North Texas church on Sunday and opened fire, killing two people, authorities said.
+It could have been far worse.
+
+Two congregants, both volunteer members of the church's security team, drew their weapons and confronted the gunman, fatally shooting him and saving an "untold number of lives" at West Freeway Church of Christ in White Settlement, a town of about 17,000 people near Fort Worth.
+
+Their actions, described as "heroic" by the Texas Department of Public Safety, brought a quick end to an attack that remained under investigation on Sunday night.
+Authorities have not provided information about a possible motive.
+
+Officials have not released the names of the victims or the gunman, whom FBI Special Agent in Charge Matthew DeSarno said had roots in the area but is “relatively transient."
+
+“This team responded quickly and within six seconds, the shooting was over.
+Two of the parishioners who were volunteers of the security force drew their weapons and took out the killer immediately, saving untold number of lives,” said Texas Lt. Gov.
+Dan Patrick, who also hailed the state’s gun laws.
+
+“We lost two great men today," Britt Farmer, the church's senior minister said, "but it could have been a lot worse.”
+
+'Nothing is going to stop us being Jewish':New York community rallies after anti-Semitic 'terrorism' attack
+
+There were more than 240 parishioners in the church at the time of the shooting, authorities said, and the service was being livestreamed to countless homes.
+
+MedStar Mobile Healthcare confirmed two fatalities — one at the scene and another on the way to the hospital.
+Hours later, FBI spokesman Jason Wandel confirmed the death of the third person.
+
+All of the victims were male.
+
+"It’s tragic and it’s a terrible situation, especially during the holiday season,” said Jeoff Williams, a regional director with the Texas Department of Public Safety.
+“We have a couple of heroic parishioners who stopped short of just anything that you can even imagine, saved countless lives."
+
+Licensed handgun owners can legally carry loaded weapons into Texas churches that do not have posted signs banning weapons.
+Church security became a major issue in the state after a gunman walked into a church in Sutherland Springs two years ago and fatally shot 26 people and wounded 20 others.
+
+“It was the most scariest thing," Isabel Arreola told CBS11 News.
+"You feel like your life is flashing before you."
+
+In a livestream of the church service, the gunman can be seen getting up from a pew and talking to someone at the back of the church before pulling out a gun and opening fire.
+Parishioners can then be heard screaming and seen ducking under pews or running as papers fly to the floor.
+
+Mike Tinius, a church elder, told The New York Times that one of those killed was a security guard and friend who responded to the shooter.
+Tinius said that he didn’t know the gunman and that the shooting appeared to be random.
+
+The security guard “was trying to do what he needed to do to protect the rest of us,” Tinius said.
+“It’s extremely upsetting to see anyone committing violence."
+
+Gov. Greg Abbott issued a statement of condemnation for the "evil act of violence" at a place of worship.
+
+"I am grateful for the church members who acted quickly to take down the shooter and help prevent further loss of life," Abbott said.
+"Cecilia and I ask all Texans to join us in praying for the White Settlement community and for all those affected by this horrible tragedy."
+
+The shooting took place hours after a knife-wielding attacker stabbed five people during a Hanukkah celebration in a rabbi's home outside New York City.
+New York Gov. Andrew Cuomo called the attack "an act of domestic terrorism" and directed the state police hate crimes task force to investigate.
+
+STEP 1:
+* heroic
+* tragic
+* terrible
+* evil
+* heroic
+* tragic
+* horrific
+* extremely
+* upsetting
+* evil
+* domestic
+* terrorism
+
+SUMMARY:
+A tragic and terrible shooting occurred at West Freeway Church of Christ in White Settlement, Texas, on Sunday, killing two people and injuring others. The heroic actions of two volunteer security team members, who drew their weapons and fatally shot the gunman, brought a quick end to the attack and saved an "untold number of lives." The Texas Department of Public Safety described their actions as "heroic." The gunman, who had roots in the area but was "relatively transient," opened fire during a livestreamed service, causing chaos and panic among the 240 parishioners. The shooting was condemned by Gov. Greg Abbott as an "evil act of violence" at a place of worship. The community is left to mourn the loss of two great men, but it could have been much worse. END OF SUMMARY.
+
+Example 3 (Political Ideology: Right, Moral Foundations: Fairness/Cheating, Loyalty/Betrayal):
+Here is the news article:
+
+Glenn Beck Rips Progressivism at CPAC
+
+Fox News host Glenn Beck, armed with his trademark chalkboard, blamed "progressivism" for America's problems Saturday in his keynote speech that brought the annual Conservative Political Action Conference to a close.
+
+The chalkboard, a prop that he uses frequently on his top-rated show, brought the audience to its feet.
+Beck wrote "Progressivism" on it to underscore his belief in what America is suffering from.
+
+When Beck asked what America is suffering from, someone shouted "President Obama," though Beck, an outspoken critic of the president, said it's "not that simple."
+
+Beck rejected the notion that the Republican Party should expand its tent to include progressives.
+
+"What is this? A circus?" he said, drawing laughter.
+"America is not a clown show.
+America is an idea that sets people free."
+
+Opening up about his troubled past, Beck told the crowd, "People need to understand that life is not fair.
+The bad guy sometimes wins."
+
+The speech capped three days of panel discussions and high-profile speakers, including numerous politicians mentioned as contenders for the 2012 Republican presidential nomination.
+But for a lot of the CPAC attendees, Beck was the reason they came, as he is seen as a leader in the new conservative movement.
+
+The speech comes after a year in which Beck's growing popularity as a Fox News host coincided with the rise of the Tea Party Movement and populist rage directed at Washington.
+Beck also launched the 9/12 Project, which sets forth nine values and 12 principles that he believes the country was founded upon.
+The project inspired a major march in Washington in September.
+
+"This is how is America should be," said Cynthia Burgiss, 22, a student at the University of Dayton in Ohio who attended the 9/12 march in D.C. this year.
+"People of every race, political affiliation, religion came together for different reasons."
+
+She was at CPAC to see Beck and called him a "relatable ... everyday guy."
+
+"None of this would have happened without Glenn," she said.
+
+STEP 1:
+* Progressivism (negative framing)
+* Free (positive framing)
+* Fair (positive framing)
+* Bad (negative framing)
+* Leader (positive framing)
+* Right (implied positive framing)
+
+SUMMARY:
+At the Conservative Political Action Conference, Fox News host Glenn Beck delivered a keynote speech blaming "progressivism" for America's problems. With his trademark chalkboard, Beck emphasized that America is suffering from the ideologies of progressivism, which he believes restricts freedom. He rejected the idea of expanding the Republican Party's tent to include progressives, saying "America is not a clown show. America is an idea that sets people free." Beck, a leader in the new conservative movement, shared his troubled past, acknowledging that "life is not fair" and "the bad guy sometimes wins." The speech capped off three days of panel discussions and high-profile speakers, with many attendees drawn to CPAC specifically to see Beck. His 9/12 Project, which promotes nine values and 12 principles, has inspired a grassroots movement and a major march in Washington. For many, Beck represents a relatable, everyday guy who embodies the right values. END OF SUMMARY.
+
+Now, here is the target news article to summarize:
+Here is the news article:
+
+NFL superstar quarterback Drew Brees was broadsided by the LGBT lobby over his support of an innocuous program advocating for children to bring their Bibles to school and live their Christian faith out publicly. Brees has been outspoken about his Christian faith and how it has guided his life. In the video promotion he recorded for the program, Brees talked about one of his favorite Bible scriptures, and encouraged kids to talk about their Christian faith. Shout-Out from Drew Brees "I want to encourage you to live out your faith on Bring Your Bible to School Day, and share God's love with friends," Brees said. "You're not alone." Allies of the LGBTQ agenda excoriated Brees on social media. Robert Littal of Black Sports Online called the group "a known racist discriminatory religious cult," and, "an Anti-Gay Religious Cult That Believes in Conversion Therapy & Fights Against Any Anti-Discrimination Laws." Deadspin ran the headline "Drew Brees appears in video for gay conversion therapy sickos, doesn't understand what the big deal is," for the story. Others on Twitter accused Brees of being a "bigot" and aligned with a "hateful group." Brees responded to the online furor through a video on his Instagram trying to clear the air and saying that he was falsely smeared by a deceptive article on the story. Brees said that he lived by the credo to "love all, respect all, and accept all." "What I did was I filmed a video recently that was encouraging kids to bring their Bibles to school for national Bring your Bible to School Day," said Brees. "So I'm not sure why the negativity spread, or why people tried to rope me into certain negativity," he added. "I do not support any groups that discriminate, or that have their own agendas that are trying to promote inequality. OK? So hopefully that has set the record straight, and we can all move on, because that is not what I stand for."
+
+(1) First, you identify all the single words that are morally framed, focusing especially on the dimensions of Care/Harm, Fairness/Cheating, Sanctity/Degradation. Identify this step as "STEP 1:" and report each word in a new line starting with *
+(2) Finally, you write a summary of the news article. Please preserve as many morally framed words as possible, particularly focusing on the moral dimensions of Care/Harm, Fairness/Cheating, Sanctity/Degradation in your summary. The summary has to be returned after a "SUMMARY:" token and ending with a "END OF SUMMARY." token. The summary should be no longer than 200 words.

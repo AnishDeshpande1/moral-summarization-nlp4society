@@ -1,0 +1,37 @@
+You have to summarize the following text preserving the moral framing that the author gave to it.
+
+Here is the news article:
+
+WASHINGTON - Representative Paul D. Ryan’s budget blueprint assumes the same amount of Medicare savings as President Obama’s health care law, even though Mitt Romney and Mr. Ryan have said those cuts would be devastating to millions of older Americans on Medicare As the partisan brawl over Medicare continued on Tuesday and threatened to become the focus of the race, the Obama campaign said that Mr. Ryan’s budget plan — broadly endorsed by Mr. Romney — “would end Medicare as we know it” and shift costs to beneficiaries. The Republicans hit back on Tuesday with a television commercial asserting that the Romney-Ryan Medicare plan was better for older Americans. “You paid into Medicare for years, every paycheck,” the advertisement says. “Now when you need it, Obama has cut $716 billion from Medicare. Why? To pay for Obamacare. So now the money you paid for your guaranteed health care is going to a massive new government program that’s not for you.” Lis Smith, a spokeswoman for the Obama campaign, said, “Mitt Romney’s Medicare ad is dishonest and hypocritical.” The savings, she said, “do not cut a single guaranteed Medicare benefit.” In an interview with Fox News on Tuesday, Mr. Ryan said he welcomed the back and forth. “This is a debate we want to have,” he said. “We’re the ones who are offering a plan to save Medicare, to protect Medicare, to strengthen Medicare.” With 50 million beneficiaries, Medicare is a major concern for both parties. The current fight centers on changes in the program made in the new health law, the Affordable Care Act, passed in 2010 without Republican votes. Mr. Obama would use the savings to help offset the cost of covering the uninsured, as well as to improve the financial condition of the Medicare trust fund. Mr. Ryan says he would use the money to shore up Medicare and to help reduce budget deficits. Republicans won control of the House in 2010 partly by arguing that Democrats had raided Medicare to pay for Mr. Obama’s health care law. Democrats hope to deflect such attacks this year by pointing out that Mr. Ryan’s budget plan, approved twice by the House, includes similar savings — roughly $700 billion from 2013 to 2022, according to the Congressional Budget Office. Those savings have a complicated history. Mr. Ryan’s budget plan was approved in March by the House Budget Committee, of which he is chairman. Before the vote, committee members discussed the budget plan and the Medicare provisions in detail. Representative Allyson Y. Schwartz, Democrat of Pennsylvania, asked whether the savings in the Affordable Care Act — “sometimes referred to as cuts to Medicare” — were part of Mr. Ryan’s budget. Austin Smythe, the panel’s Republican staff director, said: “We assume those savings. We devote them to solvency of Medicare and to deficit reduction, instead of covering the expansions.” At another point, Mr. Smythe said, “We assume the repeal of all of the expansions in the Affordable Care Act.” Those expansions, he said, include subsidies to help low- and middle-income people buy private insurance. Democrats said that repeal of the new law would also wipe out new Medicare benefits, like additional coverage of prescription drugs and preventive services. The House approved the Ryan budget plan on March 29 by a vote of 228 to 191, with all but 10 Republicans voting for it. Mr. Romney has offered a Medicare proposal similar to Mr. Ryan’s. But the Romney campaign said Tuesday that Mr. Romney would restore the money being squeezed out of Medicare by the 2010 health law. “Mitt Romney and Paul Ryan have always been fully committed to repealing Obamacare, ending President Obama’s $716 billion raid on Medicare, and tackling the serious fiscal challenges our country faces,” said Lanhee Chen, the policy director for the Romney campaign. “A Romney-Ryan administration will restore the funding to Medicare.” The Ryan plan, like any budget resolution, specifies levels of spending, savings and revenues, based on certain policy assumptions. But, as Mr. Smythe pointed out, “the committees of jurisdiction determine the details” in separate legislation. Mr. Ryan and Mr. Obama would impose similar overall constraints on Medicare spending, stipulating that average spending per beneficiary should not grow faster than the economy, measured by the per capita output of goods and services, plus one-half of one percentage point. However, they would achieve the goal in different ways. Mr. Ryan and Mr. Romney would limit the government’s current open-ended financial commitment to Medicare. The government would contribute a fixed amount of money on behalf of each beneficiary, and future beneficiaries could use the money to buy private insurance or to help pay for coverage under the traditional Medicare program. The new health care law, by contrast, will reduce projected Medicare payments to health maintenance organizations, hospitals and many other health care providers. As a backstop, to ensure savings, the law creates a Medicare cost control board. Cuts recommended by the board would take effect automatically unless Congress voted to block or change them. Mr. Romney and Mr. Ryan would abolish the panel, which they describe as a tool for rationing health care.
+
+The author used the following morally framed words in the article:
+* devastating
+* end
+* shift
+* better
+* cut
+* pay
+* going
+* dishonest
+* hypocritical
+* save
+* protect
+* strengthen
+* offset
+* covering
+* improve
+* shore
+* reduce
+* raided
+* solvency
+* repeal
+* wipe
+* restore
+* squeezed
+* repealing
+* ending
+* raid
+* tackling
+* rationing
+
+Please preserve as many morally framed words as possible in your summary. The summary has to be returned after a "SUMMARY:" token and ending with a "END OF SUMMARY." token. The summary should be no longer than 200 words.

@@ -1,0 +1,176 @@
+You have to summarize the following text preserving the moral framing that the author gave to it.
+
+Please study the following examples of news articles, their moral word extraction, and summaries preserving the moral framing:
+
+Example 1 (Political Ideology: Left):
+Here is the news article:
+
+Glenn Beck CPAC 2010 Speech VIDEO: Republicans Don't Need A Big Tent
+
+Bombastic conservative talk show host Glenn Beck closed a three-day conservative conference on Saturday by demanding that Republicans get their own house in order before re-trying their hand at governance.
+
+In a winding speech that touched as much on his personal turmoil as his policies and politics, Beck had the packed auditorium at CPAC captivated from the start.
+Using hand gestures, multiple impersonations and his infamous chalkboard, he took the usual swipes at Democrats.
+"Progressivism," he declared, "is eating the Constitution."
+Moreover, it "was designed to eat the Constitution."
+
+But the nearly hour-long address was spent not bemoaning his ideological foes, but rather demanding purity among his likely allies.
+If last year's CPAC keynote speech - delivered by radio host Rush Limbaugh - was defined by urging President Barack Obama to fail, Beck's stood out for his demand that conservatism succeed.
+
+"Dick Cheney a couple days ago... says it is going to be a good year for conservative ideas," he declared at one point, wiping the sweat from his brow.
+"It is going to be a very good year.
+But it is not enough just to not suck as much as the other side."
+
+And who, exactly, sucked as much as the other side?
+Beck didn't really name names - save for a swipe at one Republican (presumably Sen. John McCain) for admiring another Republican, Teddy Roosevelt -- the latter of whom Beck accused of launching the modern progressive movement.
+But the message was clear: supporting anything that closely resembled the Democratic agenda would no longer fly with the modern GOP.
+
+"I have not heard people in the Republican Party admit yet that they have a problem," he said.
+"I haven't seen the Come-To-Jesus moment from Republicans yet."
+
+"One party will tax and spend," he added at another point.
+'One party won't tax and will spend.
+It is both of them together."
+
+The plea was made all the more effective by the intertwining of Beck's own story of struggle and redemption.
+Pointing to his time as a recovering alcoholic, the Fox News host urged the GOP to embark on a 12-step program of recovery.
+"Hello, my name is the Republican Party, and I got a problem.
+I'm addicted to spending and big government," he declared, reading out the apology he wanted lawmakers to deliver.
+Reflecting on his own lack of formal education, he railed against government handouts - extending the logic to argue against a right to health care.
+
+The crowd was enthralled, even as Beck took them down winding tales of Calvin Coolidge, the Statute of Liberty and the supposed great middle class explosion of the 1920s.
+
+But was the message what the conservative movement needed to hear?
+Tradition dictates that political parties out of power do what they can to expand their coalition.
+Elections, after all, are won when candidates broaden their appeal to the voters responsible for electing them.
+For Beck and the surrounding CPAC crowd, however, ideological purity was the path to redemption and recovery.
+
+All we've heard, the Fox News host complained, is "we need a big tent. We need a big tent. Can we get a bigger tent? How can we get a big tent?
+What is this the circus? America is not a clown show. America is not a circus.
+America is an idea. America is an idea that sets people free."
+
+STEP 1:
+* purity
+* turmoil
+* infamous
+* foes
+* succeed
+* suck
+* problem
+* redemption
+* recovery
+* addiction
+* apology
+* enthralled
+* supposed
+* great
+* tradition
+* redemption
+* recovery
+* purity
+* idea
+* free
+
+SUMMARY:
+Conservative talk show host Glenn Beck delivered a speech at CPAC 2010, urging Republicans to focus on ideological purity rather than trying to expand their coalition. Beck demanded that Republicans get their own house in order, acknowledging that they have a problem with spending and big government. He argued that "progressivism" is eating the Constitution and that the GOP needs a "Come-To-Jesus moment" to admit their mistakes. Beck's speech was a call to redemption and recovery, using his own personal story of struggle and redemption as an example. He rejected the idea of a "big tent" and instead emphasized the importance of America as an idea that sets people free. Beck's message was clear: the GOP needs to focus on its core values rather than trying to appeal to a broader audience. END OF SUMMARY.
+
+Example 2 (Political Ideology: Center):
+Here is the news article:
+
+Representative Bob Etheridge, Democrat of North Carolina, issued an apology on Monday for grabbing a young man by the hand, arm and neck – as a video camera rolled – as the man tried to ask him whether he supports President Obama’s agenda.
+
+“I deeply and profoundly regret my reaction and I apologize to all involved,” Mr. Etheridge said in a statement. 
+“Throughout my many years of service to the people of North Carolina, I have always tried to treat people from all viewpoints with respect. 
+No matter how intrusive and partisan our politics can become, this does not justify a poor response.”
+
+He added, “I have and I will always work to promote a civil public discourse.”
+
+A young man, dressed in a jacket and tie, approached the congressman on a sidewalk, saying: “Hi, Congressman. How are you? Do you fully support the Obama agenda?”
+
+Mr. Etheridge, a seven-term House member, can be seen on the video repeatedly asking the young man to identify himself. 
+After a few seconds, the congressman grabs the camera and the young man.
+
+“Tell me who you are,” Mr. Etheridge said. “Tell me who you are.”
+
+The young man is not identified in the video, which was made last week. 
+A second person accompanying him pulled out another camera to record the congressman’s actions. 
+The video received widespread attention on Monday after it was posted on the Web site of Andrew Breitbart, a conservative Web publisher and former editor of The Drudge Report. 
+It was circulated by the National Republican Congressional Committee.
+
+“Bob Etheridge has lost it,” said Jon Thompson, a Republican spokesman. 
+“His conduct is unbecoming of a member of Congress.”
+
+Mr. Etheridge, who represents a conservative district south of Raleigh, faces a re-election challenge, but his race is not among the top Republican targets in the country. 
+He won two years ago by 36 percentage points, and Mr. Obama carried his district by 6 percent.
+
+Vice President Joseph R. Biden Jr. resumed the White House campaign for gun control on Tuesday by reporting on executive action taken unilaterally by the administration and pressing Congress to take up legislation again.
+
+STEP 1:
+* regret
+* apologize
+* respect
+* civil
+* poor
+* unbecoming
+* lost
+
+SUMMARY:
+Representative Bob Etheridge, a Democrat from North Carolina, issued an apology for his regretful reaction to a young man's question about supporting President Obama's agenda. In a video, Etheridge can be seen grabbing the man by the hand, arm, and neck, and repeatedly asking him to identify himself. Etheridge deeply regrets his poor response and apologizes to all involved, stating that he has always tried to treat people with respect, regardless of their viewpoints. He emphasized the importance of promoting a civil public discourse. The video, which was posted on a conservative Web site, has received widespread attention and has been circulated by the National Republican Congressional Committee, with a Republican spokesman calling Etheridge's conduct "unbecoming of a member of Congress" and saying he has "lost it." END OF SUMMARY.
+
+Example 3 (Political Ideology: Right):
+Here is the news article:
+
+President Trump on Saturday took aim at social media tech giants for “discriminating” against Republicans and conservatives -- saying that “too many voices are being destroyed” and promising that his administration would not allow it to happen.
+
+“Who is making the choices, because I can already tell you that too many mistakes are being made. 
+Let everybody participate, good & bad, and we will all just have to figure it out!” he said at the end of a lengthy post on Twitter.
+
+Both Facebook and Twitter have been under fire for allegedly censoring accounts, while ignoring rules violations by liberal and left-wing users. 
+Trump in the past has referred to alleged “shadow banning” by Twitter as “discriminatory and illegal.”
+
+Trump uses Twitter on a daily basis, and his campaign was credited for its use of Facebook as one of the ways it secured its victory in November 2016.
+
+While conservatives have complained for years about what they say is discrimination by the tech giants, the controversy escalated last month when Vice News reported the issue, saying that accounts from top Republicans including GOP Chairwoman Ronna McDaniel were being given limited visibility on Twitter. 
+Twitter at the time said it was an algorithmic glitch that has since been fixed.
+
+"We do not shadow ban. 
+You are always able to see the tweets from accounts you follow (although you may have to do more work to find them, like go directly to their profile). 
+And we certainly don’t shadow ban based on political viewpoints or ideology," the tech giant said in a statement.
+
+"We do rank tweets and search results. 
+We do this because Twitter is most useful when it’s immediately relevant. 
+These ranking models take many signals into consideration to best organize tweets for timely relevance," the statement said. 
+"We must also address bad-faith actors who intend to manipulate or detract from healthy conversation."
+
+A Facebook executive apologized last month for mistreating Diamond and Silk -- two pro-Trump personalities who have long claimed they are being censored by the platform, but the company has also denied being biased against conservatives.
+
+“We badly mishandled our communications with them,” Monika Bickert, head of Global Policy Management at Facebook, said at a House Judiciary Committee hearing.
+
+But that has done little to calm the controversy, and Trump on Saturday accused social media sites of “closing down the opinions of many people on the right, while at the same time doing nothing to others.”
+
+"Too many voices are being destroyed, some good & some bad, and that cannot be allowed to happen," he tweeted.
+
+He went on to call censorship “a dangerous thing” and then took a swipe at CNN and MSNBC, saying that while they are “fake,” he does not demand that offending content be taken off air.
+
+“If you are weeding out Fake News, there is nothing so Fake as CNN & MSNBC, & yet I do not ask that their sick behavior be removed,” he tweeted. 
+“I get used to it and watch with a grain of salt, or don’t watch at all..”
+
+
+STEP 1:
+* discriminatory
+* illegal
+* bad
+* fake
+* sick
+* dangerous
+
+SUMMARY:
+President Trump accused social media giants of "discriminating" against Republicans and conservatives, claiming that "too many voices are being destroyed" and promising that his administration would not allow it to happen. He argued that "bad" and "good" voices should be allowed to participate, and that it's up to individuals to "figure it out." Trump has previously referred to alleged "shadow banning" by Twitter as "discriminatory and illegal." The controversy escalated last month when top Republicans, including GOP Chairwoman Ronna McDaniel, claimed their accounts were being given limited visibility on Twitter. Trump called censorship "a dangerous thing" and took a swipe at CNN and MSNBC, saying they are "fake" but he doesn't demand that their content be removed. He emphasized that he can "get used to it" and watch with a "grain of salt." END OF SUMMARY.
+
+Now, here is the target news article to summarize:
+Here is the news article:
+
+Glenn Beck Rips Progressivism at CPAC Fox News host Glenn Beck, armed with his trademark chalkboard, blamed "progressivism" for America's problems Saturday in his keynote speech that brought the annual Conservative Political Action Conference to a close. The chalkboard, a prop that he uses frequently on his top-rated show, brought the audience to its feet. Beck wrote "Progressivism" on it to underscore his belief in what America is suffering from. When Beck asked what America is suffering from, someone shouted "President Obama," though Beck, an outspoken critic of the president, said it's "not that simple." Beck rejected the notion that the Republican Party should expand its tent to include progressives. "What is this? A circus?" he said, drawing laughter. "America is not a clown show. America is an idea that sets people free." Opening up about his troubled past, Beck told the crowd, "People need to understand that life is not fair. The bad guy sometimes wins." The speech capped three days of panel discussions and high-profile speakers, including numerous politicians mentioned as contenders for the 2012 Republican presidential nomination. But for a lot of the CPAC attendees, Beck was the reason they came, as he is seen as a leader in the new conservative movement. The speech comes after a year in which Beck's growing popularity as a Fox News host coincided with the rise of the Tea Party Movement and populist rage directed at Washington. Beck also launched the 9/12 Project, which sets forth nine values and 12 principles that he believes the country was founded upon. The project inspired a major march in Washington in September. "This is how is America should be," said Cynthia Burgiss, 22, a student at the University of Dayton in Ohio who attended the 9/12 march in D.C. this year. "People of every race, political affiliation, religion came together for different reasons." She was at CPAC to see Beck and called him a "relatable ... everyday guy." "None of this would have happened without Glenn," she said.
+
+(1) First, you identify all the single words that are morally framed. Identify this step as "STEP 1:" and report each word in a new line starting with *
+(2) Finally, you write a summary of the news article. Please preserve as many morally framed words as possible in your summary. The summary has to be returned after a "SUMMARY:" token and ending with a "END OF SUMMARY." token. The summary should be no longer than 200 words.

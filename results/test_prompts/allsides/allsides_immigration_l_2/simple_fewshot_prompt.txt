@@ -1,0 +1,182 @@
+You have to summarize the following text preserving the moral framing that the author gave to it.
+
+Please study the following examples of news articles and their summaries preserving the moral framing:
+
+Example 1 (Political Ideology: Left):
+Here is the news article:
+
+Obama Gun Control Proposals Unveiled, Marking Biggest Legislative Effort In A Generation
+
+WASHINGTON -- In a bold and potentially historic attempt to stem the increase in mass gun violence, President Barack Obama unveiled on Wednesday the most sweeping effort at gun control policy reform in a generation.
+
+"This is our first task as a society: keeping our children safe.
+This is how we will be judged," Obama said.
+“We can’t put this off any longer."
+
+The proposal, which comes at the end of a month-long review process spearheaded by Vice President Joe Biden, is broken down into four key subsections: law enforcement, the availability of dangerous firearms and ammunition, school safety and mental health.
+
+In an effort to touch on all four of those elements, the president recommended requiring criminal background checks for all gun sales; reinstating the assault weapons ban; restoring a 10-round limit on ammunition magazines; eliminating armor-piercing bullets; providing mental health services in schools; allocating funds to hire more police officers; and instituting a federal gun trafficking statute, among other policies.
+The cost of the package, senior officials estimated, would be roughly $500 million, some of which could come from already budgeted funds.
+
+Because these recommendations require congressional approval, the administration is supplementing its proposal with 23 executive actions that will be taken immediately.
+Those actions include requiring federal agencies to hand over relevant data for a background check system; providing law enforcement officials, first responders and school officials with better training for active shooting situations; directing the Centers for Disease Control to research the causes and prevention of gun violence; and many more.
+
+"I intend to use whatever weight this office holds to make them a reality," said the president, speaking about his full set of recommendations.
+"If there's even one life that can be saved, then we've got an obligation to try."
+
+The approach is so sweeping that what would have otherwise been a headline-grabbing announcement received second billing.
+The president on Wednesday will nominate Byron Todd Jones, the acting director of the Bureau of Alcohol, Tobacco, Firearms and Explosives, to take over the post permanently.
+
+In total, the proposal goes beyond what most gun control advocates were hoping for at the start of Biden's review process, during which he held 22 different meetings with 229 different organizations and 31 elected officials.
+
+"This is a monumental moment.
+It's a long time coming and we're thrilled the president's putting the full weight of his office behind this," said Josh Horowitz, executive director of the Coalition to Stop Gun Violence.
+"We're ready to push this thing through."
+
+But putting together ideas is the easy part.
+Selling them on the Hill will take a bit of legislative craft.
+
+Seasoned political observers have questioned whether it makes more sense to break the package into separate bills or push for one comprehensive proposal.
+A senior administration official said that the president's proposal shouldn't be considered finalized legislative language, but rather a series of recommendations for Congress to consider.
+The president would be working with lawmakers to move the process forward, the official added, and would be trying to build up public opinion as well.
+
+"I will put everything I've got into this and so will Joe [Biden].
+But I tell you, the only way we can change is if the American people demand it," said Obama.
+"We are going to need voices in those areas and congressional districts where the tradition of gun ownership is strong."
+
+"It can't just be the usual suspects," he continued.
+"This will not happen unless the American people demand it."
+
+The gun-rights lobby has already signaled that it will try to block the administration's effort.
+A spokesman for the National Rifle Association did not immediately respond to requests for comment on the president's proposal.
+But the organization has already harshly criticized the Obama administration for overreach.
+
+"It is unfortunate that this administration continues to insist on pushing failed solutions to our nation's most pressing problems," the NRA said after meeting with Biden last week.
+"We will not allow law-abiding gun owners to be blamed for the acts of criminals and madmen."
+
+The group continued its offensive this week, launching an advertising campaign attacking Obama as an "elitist hypocrite" for opposing the NRA's widely-criticized proposal, made after the Newtown, Conn. shooting, to place armed guards in all of the nation's schools.
+
+But that attack appeared a bit premature.
+As part of its policy recommendations, the White House called on Congress to act on an old administration proposal to spend $4 billion to keep 15,000 cops on the streets.
+In addition, the president is proposing a new initiative that would incentivize police departments to hire more school resource officers and encourage schools to hire more mental health professionals.
+The president's plan also calls on Congress to allocate resources to help schools, other educational institutions and houses of worship develop emergency management plans.
+
+The White House proposals, even officials there admit, are not a cure-all for mass shootings.
+Among the suggested recommendations on the gun-policy front, only the ban on high-capacity magazines could have had a tangible impact on the shooting in Newtown, and it's unclear what, exactly, the effect would have been.
+
+Moreover, the administration is pointedly not going after those weapons and ammunition magazines that are currently and lawfully owned.
+The proposal would instead affect the future production and sale of military-style weapons or high-capacity magazines.
+
+"We are not going to go after existing stock of weapons or magazines," said a senior administration official.
+"We are going to limit it to the manufacturing of assault weapons and clips going forward."
+
+The White House nevertheless insists that its package of proposals has teeth.
+It would provide law enforcement with the mechanisms needed to go after the illegal transfer of weapons and help prevent those weapons from falling into the wrong hands.
+It would also stem the use of military-style weapons -- the White House says its proposal would improve on the 1994 Assault Weapons Ban, which was riddled with loopholes -- and give schools and communities resources to address violence when it occurs.
+
+The question, in some respects, is not what's missing from the set of ideas, but what took the administration so long to get to this point.
+
+"It is not as though we had this whole policy paper sitting on the shelf somewhere," said a senior administration official.
+"[We worked] 24/7 for the past month.
+And we met with a lot of groups and we learned a lot of ideas that came as a result of this process.
+We tried to be as comprehensive as possible.
+We are hoping that as the process goes on and as the debate goes on, we might come up with some other ideas."
+
+SUMMARY:
+
+President Barack Obama unveiled a sweeping gun control proposal, marking the biggest legislative effort in a generation. The proposal aims to stem the increase in mass gun violence, with Obama emphasizing that "keeping our children safe" is the society's first task. The plan includes requiring criminal background checks for all gun sales, reinstating the assault weapons ban, and providing mental health services in schools. The administration is supplementing its proposal with 23 executive actions, including requiring federal agencies to hand over relevant data for a background check system. The approach is so sweeping that it goes beyond what most gun control advocates were hoping for. While the gun-rights lobby has signaled opposition, Obama vowed to use the full weight of his office to make the proposals a reality, urging the American people to demand change. The proposal is a monumental moment in the effort to reduce gun violence, and its success will depend on public opinion and legislative craft.
+
+END OF SUMMARY.
+
+Example 2 (Political Ideology: Center):
+Here is the news article:
+
+This video was produced in collaboration with The New York Times.
+
+Admild, an undocumented immigrant from Haiti, was feeling sick as he approached the deportation plane that was going to take him back to the country he had fled in fear.
+Two weeks before that day in May, while being held at an Immigration and Customs Enforcement detention facility in Louisiana, he had tested positive for the coronavirus — and he was still showing symptoms.
+
+He disclosed his condition to an ICE official at the airport, who sent him to a nurse.
+
+“She just gave me Tylenol,” said Admild, who feared reprisals if his last name was published.
+Not long after, he was back on the plane before landing in Port-au-Prince, one of more than 40,000 immigrants deported from the United States since March, according to ICE records.
+
+Even as lockdowns and other measures have been taken around the world to prevent the spread of the coronavirus, ICE has continued to detain people, move them from state to state and deport them.
+
+An investigation by The New York Times in collaboration with The Marshall Project reveals how unsafe conditions and scattershot testing helped turn ICE into a domestic and global spreader of the virus — and how pressure from the Trump administration led countries to take in sick deportees.
+
+We spoke to more than 30 immigrant detainees who described cramped and unsanitary detention centers where social distancing was near impossible and protective gear almost nonexistent.
+“It was like a time bomb,” said Yudanys, a Cuban immigrant held in Louisiana.
+
+At least four deportees interviewed by The Times, from India, Haiti, Guatemala and El Salvador, tested positive for the virus shortly after arriving from the United States.
+
+So far, ICE has confirmed at least 3,000 coronavirus-positive detainees in its detention centers, though testing has been limited.
+
+We tracked over 750 domestic ICE flights since March, carrying thousands of detainees to different centers, including some who said they were sick.
+Kanate, a refugee from Kyrgyzstan, was moved from the Pike County Correctional Facility in Pennsylvania to the Prairieland Detention Facility in Texas despite showing Covid-19 symptoms.
+He was confirmed to have the virus just a few days later.
+
+“I was panicking,” he said.
+“I thought that I will die here in this prison.”
+
+We also tracked over 200 deportation flights carrying migrants, some of them ill with coronavirus, to other countries from March through June.
+Under pressure from the Trump administration and with promises of humanitarian aid, some countries have fully cooperated with deportations.
+
+El Salvador and Honduras have accepted more than 6,000 deportees since March.
+In April, President Trump praised the presidents of both countries for their cooperation and said he would send ventilators to help treat the sickest of their coronavirus patients.
+
+So far, the governments of 11 countries have confirmed that deportees returned home with Covid-19.
+
+When asked about the agency’s role in spreading the virus by moving and deporting sick detainees, ICE said it took precautions and followed guidelines of the Centers for Disease Control and Prevention.
+As of last week, ICE said that it was still able to test only a sampling of immigrants before sending them home.
+Yet deportation flights continue.
+
+SUMMARY:
+
+The US Immigration and Customs Enforcement (ICE) has been criticized for its role in spreading the coronavirus globally. Despite lockdowns and safety measures worldwide, ICE has continued to detain, move, and deport immigrants, many of whom have tested positive for COVID-19. An investigation by The New York Times and The Marshall Project reveals that ICE detention centers have been hotbeds of infection, with cramped and unsanitary conditions, limited testing, and inadequate protective gear. Detainees have been moved from state to state, and deported to their home countries, often while still symptomatic. At least 3,000 detainees have tested positive for the virus, and many countries have accepted deportees who were infected. The Trump administration has pressured countries to cooperate with deportations, promising humanitarian aid. This morally reprehensible practice has put countless lives at risk, both in the US and abroad. ICE's actions have been a "time bomb" waiting to unleash the virus globally.
+
+END OF SUMMARY.
+
+Example 3 (Political Ideology: Right):
+Here is the news article:
+
+Law enforcement in San Francisco will no longer be cooperating with Immigration and Customs Enforcement, per a directive by San Francisco’s newly elected sheriff.
+
+Paul Miyamoto, who was elected to be the top law enforcer in San Francisco in November 2019, declared to a local media outlet Tuesday that his department will not help with federal immigration enforcement.
+While San Francisco has long opposed most cooperation with ICE, the announcement further cements the progressive city’s status as a sanctuary jurisdiction.
+
+“Our department is not involved in immigration enforcement,” Miyamoto, the first Asian American sheriff of San Francisco, told KTVU Fox 2.
+“We feel that is a federal matter, and our realm of interest is public safety, and you can’t really have a safe community if the community members are afraid to come to us to report crimes.”
+
+Namely, his department will not honor immigration detainers lodged by federal agents.
+If an illegal alien in San Francisco is placed into local custody for an unrelated crime, and ICE asks that the individual be transferred into the agency’s custody, that request will simply be ignored.
+
+Miyamoto argues that the policy promotes public safety, despite that there are many documented cases of illegal aliens committing additional crimes after they have been released from local custody.
+
+The directive appears somewhat redundant given that authorities all across California have already been greatly prohibited in how they can work with ICE.
+Having been in effect since January 2018, the California Values Act bars state and local agencies from honoring ICE detainer requests, making it impossible for illegal aliens to be directly transferred into the agency’s custody.
+
+While giving his latest State of the Union address earlier in February, President Donald Trump specifically highlighted California as an example of the dangers of sanctuary policy.
+The president invited as his guest the brother of a man who was killed by an illegal alien.
+That particular alien had been arrested by local authorities and had an ICE detainer placed on him, but because of the California Values Act law, he was released back into the public.
+
+The Trump administration took its opposition to California’s sanctuary policies a monumental step farther this month when the Department of Justice announced a complaint against a state law that prohibits the operation of private detention facilities.
+Attorney General William Barr said at the time that the law was intended to forbid the detention of aliens in the state.
+
+San Francisco Mayor London Breed, a Democrat, declared that the city was being unfairly targeted by the Trump administration, but she remained adamant about the city’s protection of illegal aliens.
+
+“We’re being targeted on so many levels,” Breed said.
+“But, the fact is we’re a strong city, we’re a resilient city and we will fight against those attacks and we will protect the people of this city.”
+
+SUMMARY:
+
+San Francisco's newly elected sheriff, Paul Miyamoto, has announced that the city's law enforcement will no longer cooperate with Immigration and Customs Enforcement (ICE). This move further solidifies San Francisco's status as a sanctuary jurisdiction, prioritizing public safety over federal immigration enforcement. Miyamoto argues that the policy promotes public safety, as community members are more likely to report crimes if they are not afraid of being deported. Despite documented cases of illegal aliens committing additional crimes after being released from local custody, the sheriff's department will not honor ICE detainer requests. This directive is in line with California's Values Act, which prohibits state and local agencies from working with ICE. The Trump administration has strongly opposed California's sanctuary policies, with President Trump highlighting the dangers of such policies and the Department of Justice filing a complaint against a state law that prohibits private detention facilities. San Francisco Mayor London Breed remains committed to protecting illegal aliens, vowing to fight against the Trump administration's attacks.
+
+END OF SUMMARY.
+
+Now, here is the target news article to summarize:
+Here is the news article:
+
+This past Friday, the deputy director of U.S. Immigration and Customs Enforcement came to Chicago to announce a major problem: Chicago-area ICE arrests fell dramatically in 2019. The reason? Local officials refused to play ball. Since becoming mayor, one of the things I’m most proud of is our unequivocal support of Chicago’s immigrant and refugee communities. It’s a position directly drawn from our belief that our nation’s strength lies in our diversity, and that the values which have made us a beacon of hope are sacred and need to be protected. It’s for that reason that at Wednesday’s City Council meeting we passed the Accountability on Communication and Transparency Ordinance, which is designed to bolster our Welcoming City Ordinance — a policy first established by Mayor Harold Washington in 1985 and enhanced by my predecessors ever since. In it, we are enshrining in the municipal code mandates from my previous executive actions. Namely, we will prohibit ICE from accessing Chicago Police Department databases. Additionally, we will make clear that ICE cannot turn to CPD for assistance with immigration enforcement operations. And if ICE does request assistance for any purposes, a CPD supervisor must first confirm that ICE is being truthful and the request will not support immigration enforcement. We also will establish reporting requirements to both my office and the Inspector General regarding the police department’s compliance with the Welcoming City Ordinance, and provide legal guidance to public facilities on how to protect immigrant patrons in the event they are targeted for ICE raids. The ordinance will in no way inhibit our law enforcement agencies’ ability to go after individuals suspected of committing serious or violent crimes. Nor does it conflict with our agreement with federal authorities that — in special and rare occasions — allows appointed officers to assist in investigating criminal enterprises, such as counter-terrorism, human trafficking and money laundering, with full knowledge that their assistance will be terminated if any action undertaken is inconsistent with city policies. In other words, it cannot encompass immigration enforcement. If this sounds familiar, it’s because it is. This past summer, when President Donald Trump was doing everything he could to scare undocumented families into the shadows, we undertook these measures in the form of executive actions. The difference now is that we’re codifying them into law, making for one of the largest expansions of immigrant protections in Chicago since the Welcoming City Ordinance first was adopted over 30 years ago. All of which brings us to Friday’s ICE press conference. As the ICE deputy director noted, it’s because of our lack of cooperation that ICE was unable to reach its arrest goal. He’s right. And that’s a good thing. Credit for that is shared among city and state leaders, as well as with countless local advocates — whether through the TRUST Act passed in Springfield, the vital services provided by Chicago’s immigration attorneys, or the hundreds of Community Navigators supported by our Legal Protection Fund who have been doing the Lord’s work of going into communities to educate and empower our undocumented immigrant families about their rights. Yet, as proud as we are, it shouldn’t have to be this way. Cities like Chicago shouldn’t have to butt heads with federal agencies to keep their families safe and communities whole. The reason we’ve had to work so diligently to educate residents about their rights is because the current administration has politized ICE into a cynical campaign against immigrants and refugees. Our protection actions also ensure we have the vital community trust needed for the effectiveness of our local police. Make no mistake, immigration policy is complicated. There are no easy answers. But the national debate — if you can call it that — hasn’t been about immigration policy so much as about immigrants themselves. And for all the policy complexities, what isn’t complicated is the principle that no one should be demonized for who they are. Chicago’s immigrants come from every corner of the globe — always have. As they have since our earliest days, they help build our city, drive our economy, and create the talent pool that gives us our competitive edge. We as a nation should be crafting immigration policy based on welcoming our newest residents with clear pathways to citizenship, not fear of arrests. The fact that children right here in Chicago are afraid of coming home from school and finding their parents missing is an indictment of where we are as a country today. As we move forward, we will continue to protect our communities, strengthen our status as a Welcoming City, and fight for the best of who we are. For unity and inclusion, equity and opportunity. For standing up for our neighbors and calling out division and demonization for what they are. It’s those values that have endowed our heritage for generations, served as the foundation for our incredible success, and will ensure Chicago remains the best city in the world to call home.
+
+The summary has to be returned after a "SUMMARY:" token and ending with a "END OF SUMMARY." token. The summary should be no longer than 200 words.

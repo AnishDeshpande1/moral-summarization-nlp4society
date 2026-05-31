@@ -1,0 +1,165 @@
+You have to summarize the following text preserving the moral framing that the author gave to it.
+
+Please study the following examples of news articles, their moral word extraction, and summaries preserving the moral framing:
+
+Example 1 (Political Ideology: Left):
+Here is the news article:
+
+Former Mexican President Vicente Fox on Wednesday harshly criticized current President Enrique Peña Nieto for inviting Republican presidential candidate Donald Trump to meet with him south of the border, just hours before he is due to give a widely anticipated speech on immigration in Arizona.
+
+“He is not welcome to Mexico,” Fox said in an interview on CNN.
+“By 130 million people, we don’t like him, we don’t want him. We reject his message.”
+
+Trump tweeted Tuesday that he had accepted an invitation to meet Peña Nieto in private.
+An invitation had also been extended to his Democratic opponent, Hillary Clinton, but the former secretary of state’s campaign said she was looking forward to speaking with him at the “appropriate time.”
+
+Trump has spent more than a year railing against Mexico and its leaders, promising the country would pay for the construction of a wall on the border it shares with the U.S., as well as fear-mongering about “rapists” and drug dealers that are coming across it.
+
+The surprise meeting abroad with a foreign leader will be Trump’s first as a presidential nominee, and is not without risks to his candidacy.
+Mitt Romney’s trip to Israel during the 2012 presidential campaign, for example, did not go over well.
+Peña Nieto’s approval rating fell to a record low earlier this year amid several corruption scandals.
+He, too, may seize on the meeting as an opportunity to bolster his image with Mexicans.
+
+In his interview on CNN, Fox warned Peña Nieto would be viewed like “a traitor” if he does not stand up to the GOP nominee.
+
+“Trump is using Mexico, using President Peña to boost his sinking poll numbers,” Fox said.
+“I think the President Peña is taking an enormous political risk by hosting Trump.
+If he’s gone soft on Trump, it will hurt him greatly.
+He will even be considered like a traitor because we don’t accept to be offended like we just heard, and it should not happen.
+He comes here with a smile on his face.
+I think this is a big mistake on part of President Peña.”
+
+“It’s a very opportunistic move and I hope U.S. public opinion, U.S. citizens can see this and finally, and finally see what is behind Trump, this false prophet that is just cheating everybody,” he added.
+“It’s a desperate move and I don’t see how it can work at all.”
+
+Earlier this year, Fox railed against Trump in an expletive-laden outburst, promising that Mexico would “never pay for that fucking wall.”
+He later apologized, and even invited Trump “to come to Mexico and to learn about the real Mexico.”
+
+Trump noted so helpfully in a tweet Wednesday morning.
+
+“Former President Vicente Fox, who is railing against my visit to Mexico today, also invited me when he apologized for using the “f bomb.””
+
+Fox tweeted his own recollection in response:
+
+“, I invited you to come and apologize to all Mexicans.
+Stop lying! Mexico is not yours to play with, show some respect.”
+
+STEP 1:
+* traitor
+* offended
+* false
+* prophet
+* cheating
+* desperate
+* lying
+* respect
+
+SUMMARY:
+Former Mexican President Vicente Fox strongly criticized current President Enrique Peña Nieto for inviting Republican presidential candidate Donald Trump to meet with him in Mexico. Fox stated that Trump is "not welcome to Mexico" and that the Mexican people "reject his message." Fox warned that if Peña Nieto does not stand up to Trump, he will be viewed as a "traitor" and that Trump is using the meeting to "boost his sinking poll numbers." Fox called Trump's actions "opportunistic" and "desperate," and accused him of "cheating" and being a "false prophet." Fox also tweeted that Trump should "show some respect" to Mexico. The meeting is seen as a risky move for both Trump and Peña Nieto, with the potential to hurt their approval ratings. END OF SUMMARY.
+
+Example 2 (Political Ideology: Center):
+Here is the news article:
+
+Israel and Middle East policy have a tendency of surfacing in presidential politics in rather combustible ways.
+And a new advertisement that will run in areas of Florida with large Jewish populations attempts to stoke anxiety over American policies in the region, using a news clip of Prime Minister Benjamin Netanyahu of Israel warning of the risks of a nuclear Iran.
+
+“The fact is that every day that passes, Iran gets closer and closer to nuclear arms,” Mr. Netanyahu is shown saying.
+
+For dramatic effect, a soundtrack fit for an episodic drama like “Homeland” plays as the prime minister continues.
+“The world tells Israel, ‘Wait. There’s still time.’
+And I say wait for what?
+Wait until when?”
+Then an unseen announcer concludes: “The world needs American strength, not apologies.”
+
+That line is a not-so-veiled swipe at President Obama.
+Mitt Romney and other Republicans have criticized his foreign policy as apologetic, toward volatile countries like Iran.
+
+The group that produced the ad, Secure America Now, is run by two longtime Republican strategists, Nelson Warfield ? and John ?McLaughlin, and ?Pat Caddell, a former aide to Jimmy Carter who is now a Fox News contributor.
+They have reserved $500,000 of airtime in Fort Myers, West Palm Beach and Miami.
+
+A senior Israeli official said the government was not consulted on the ad and did not approve it.
+
+STEP 1:
+* anxiety
+* dramatic
+* volatile
+* apologetic
+* strength
+* swipe
+
+SUMMARY:
+A new advertisement in Florida, targeting areas with large Jewish populations, aims to stoke anxiety over American policies in the Middle East. The ad features Prime Minister Benjamin Netanyahu warning of the risks of a nuclear Iran, with a dramatic soundtrack. Netanyahu's message is clear: "Wait for what? Wait until when?" implying that the world is being too apologetic towards Iran. The ad concludes with the line "The world needs American strength, not apologies," a not-so-veiled swipe at President Obama's foreign policy. The group behind the ad, Secure America Now, is run by Republican strategists and has reserved $500,000 of airtime. Interestingly, the Israeli government was not consulted on the ad and did not approve it. The ad's message is clear: American strength is needed, not apologies.
+
+END OF SUMMARY.
+
+Example 3 (Political Ideology: Right):
+Here is the news article:
+
+We must reopen our economy — unlike the mainstream media and political elites who would like you to believe the coronavirus lockdown is a health-versus-the economy issue, the lockdown is actually a health-versus-health issue too.
+
+There are serious health consequences of keeping the American economy shut down, whether its suicide rates spiking, cardiac procedures not being received, cancer screenings declining, or children going without their routine vaccinations.
+Not to mention the widening economic disparity between the rich and the poor, which has its own health implications as well.
+
+Yes, there are risks associated with reopening the economy, but we now have the hospital beds and testing available to mitigate these risks.
+The whole idea behind “flattening the curve,” of which most Americans happily obliged, was to ensure localities had these important resources.
+Now that they do, the goal-posts have somehow been moved to “stay-at-home until we find a cure,” which would not only devastate our economy, but our nation’s health as well.
+
+Just take into consideration the following statistics since the nation went into lockdown:
+
+• In April, the Substance Abuse and Mental Health Services Administration hotline saw a 1,000 percent increase in text messages related to the coronavirus lockdown.
+
+• Screenings for cervical, colon and breast cancer have decreased between 86 percent and 94 percent during the lockdown period.
+
+• Over 80,000 diagnoses of five common cancers in the United States are projected to be missed or delayed during the period of early March to June.
+
+• Nearly 75,000 Americans could die from drug or alcohol abuse and suicide as a result of COVID-19.
+
+• Over 5,000 people called the National Domestic Violence hotline since mid-March and cited coronavirus as a trigger.
+
+• Childhood vaccination efforts nearly ground to a halt between March 13 — when the national emergency was declared — and April 19.
+
+Moreover, the L.A. Times reported the economic devastation the pandemic has had on the ultra-poor could ultimately kill more people than the virus itself.
+
+“The U.N. predicts the coronavirus could push an additional 130 million people to the brink of starvation by the end of 2020.
+World Vision, an international Christian aid organization, warns that 30 million children are at risk of dying,” the newspaper reported.
+
+In the United States alone, one in five people who were working in February reported losing a job or being furloughed in March or the beginning of April, and this disproportionally affected low-income workers.
+Nearly 40 percent of former workers living in a household earning $40,000 or less lost work, compared with 13 percent in those making more than $100,000, Federal Reserve data showed.
+
+Everything from life expectancy to infant mortality and obesity — can be linked to the level of economic inequality within a given population and greater economic inequality appears to lead to worse health outcomes, according to the Institute of Policy Studies.
+
+It’s time to ease up restrictions and manage this virus prudently.
+
+State and local officials need to make responsible decisions on how and when to reopen based on scientific data, yet many of them are not.
+
+In almost half of the reported counties within the U.S., there has not been a single coronavirus death, and 62 percent of all coronavirus cases come in just 2 percent of the reported counties, according to Health and Human Services Secretary Alex Azar.
+Meaning, there are wide swathes of this country that are safe to reopen.
+There is no one-size-fits-all when it comes to reopening but reopen we must.
+
+Scientists, doctors and political figures are calling the shots for the working class, yet they have less at stake — most are still getting paid and have the privilege of working from home.
+Yet, many average Americans simply do not and must continue to put food on their table and support their families amid the backdrop of this pandemic.
+
+Americans understand there’s risk involved in reopening — all they’re asking for is the choice to take that risk safely and responsibly.
+Instead of judgment from the ruling class, there should be sympathy and respect for these workers, who have everything at stake, from their personal health to their economic livelihoods.
+
+• Kelly Sadler is the communications director for America First Policies, a non-profit organization dedicated to promoting policy initiatives that put America First and a former special assistant to President Trump.
+
+STEP 1:
+* responsible
+* devastate
+* happily
+* devastate
+* respectfully
+* sympathy
+* respect
+
+SUMMARY:
+The lockdown is not just a health-versus-economy issue, but a health-versus-health issue. While there are risks associated with reopening the economy, the consequences of keeping it shut down are severe. Suicide rates are spiking, cardiac procedures are being delayed, and cancer screenings are declining. The economic disparity between the rich and poor is widening, with devastating health implications. It's time to ease up restrictions and manage the virus prudently. State and local officials must make responsible decisions on how and when to reopen based on scientific data. The working class, who have everything at stake, deserve sympathy and respect for their desire to take calculated risks to support their families. It's time to reopen the economy, not just to save the economy, but to save lives. END OF SUMMARY.
+
+Now, here is the target news article to summarize:
+Here is the news article:
+
+Foreign firms furiously lobby in Argentina BUENOS AIRES -- Foreign multinational companies trying to avoid billions in losses furiously lobbied Argentine lawmakers and the new government ahead of today's final vote on emergency legislation to devalue the peso and end the country's decade-old currency parity with the U.S. dollar. U.S. and other foreign banks, telecommunications, transport and energy companies are expected collectively to lose billions of dollars if lawmakers approve President Eduardo Duhalde's controversial economic package. Presidential spokesman Eduardo Amadeo said Duhalde was stunned by the intense efforts to reverse the package. Amadeo said the president told him, ``I have never had so many calls in my life from all the groups saying they don't want us to touch them.'' The economic package nonetheless was passed by Argentina's lower house late Saturday night and is expected to gain easy passage through the Senate today. The most frantic lobbying Saturday came from banks, phone companies and petroleum firms from Spain. Analysts estimate they stand collectively to lose more than $3 billion. The companies are worried by Duhalde's proposal to devalue the peso and scrap a policy known as convertibility that kept the peso's worth the same as a U.S. dollar. It attracted much foreign investment in the 1990s because companies were promised that their profits in pesos would always be worth the same in dollars. But the rock-solid link between the peso and dollar made Argentine exports overpriced abroad and manufacturers moved next door to Brazil, where it is half as expensive to operate. Argentina is now broke. The government cannot pay pensioners or state workers. To prevent a run on the banking system, it has maintained a $250-per-week limit on cash withdrawals. Many political analysts fear a return to street violence when the devaluation measure passes and companies seek to avoid losses by raising prices for food and medicine. On Saturday, Congress began debating an emergency package that would grant vast special powers over the economy to Duhalde, Argentina's fifth president in less than three weeks. He has announced that Argentina cannot pay its creditors the $132 billion they are owed. His package of legislation seeks -- at the expense of foreign and domestic companies -- to ease the pain on an increasingly angry middle class, the largest in South America. MOST DEBT IN DOLLARS More than 80 percent of personal debt in Argentina is in dollars, and most of that debt is held by the middle class. To help them, Duhalde proposes converting mortgages, car loans and other consumer debt under $100,000 into pesos. If the Argentine peso is also devalued about 30 percent, as is expected, a car loan of $10,000 would be worth about $7,000. Foreign banks control almost half of the deposits in Argentina. They want the dollar value of debt to remain constant, no matter what the devaluation of the peso. Duhalde does not agree and has resisted the lobbying, his aides said. But to help banks make up losses, he plans to take gas exports and direct that money to shoring up banks. Foreign companies are also trying to reverse a portion of the emergency package that proposes to end a decade of billing in dollars at the gas pump, or for fixed and cellular phone services, water and power bills and the like. For foreign companies, especially those from Spain that have invested heavily throughout Latin America, the issue goes beyond how Argentina resolves its crisis. They fear that if Argentina can break promises made in contracts, other nations may try to do the same in less dire times. ``If it is successful in Argentina, it could become a reference,'' said Eduardo Curia, an independent economist in Buenos Aires. CONTINUING EFFECT ``It's a ripple effect. It doesn't just hit the initial direct investment in Argentina but all those suppliers throughout the chain of supply that can be impacted,'' said Meril Markely, a Houston-based director of tax and accounting services in South America for KPMG. Foreign companies that took over former state transportation, phone and energy companies want -- but appear unlikely to get -- some form of indexing so they can raise their prices to compensate for what is expected to be a widening gap between the peso and dollar. U.S. companies had investments totaling more than $16 billion in Argentina through 1999, according to the State Department. Much of the investment is in petroleum and gas, telecommunications and energy.
+
+(1) First, you identify all the single words that are morally framed. Identify this step as "STEP 1:" and report each word in a new line starting with *
+(2) Finally, you write a summary of the news article. Please preserve as many morally framed words as possible in your summary. The summary has to be returned after a "SUMMARY:" token and ending with a "END OF SUMMARY." token. The summary should be no longer than 200 words.

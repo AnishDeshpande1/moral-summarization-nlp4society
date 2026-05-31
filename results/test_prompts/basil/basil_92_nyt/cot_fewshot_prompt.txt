@@ -1,0 +1,212 @@
+You have to summarize the following text preserving the moral framing that the author gave to it.
+
+Please study the following examples of news articles, their moral word extraction, and summaries preserving the moral framing:
+
+Example 1 (Political Ideology: Left):
+Here is the news article:
+
+He is also investigating corruption allegations involving Hunter Biden, son of the presumtive Democratic presidential nominee, stemming from the younger Biden’s role on the board of the Ukrainian gas company Burisma.
+Trump and congressional Republicans have claimed the former vice president sought to shield his son from a Ukrainian-led investigation into Burisma — though Biden denies the allegation.
+
+In both instances, Democrats have accused Johnson of abusing his power, misusing the Senate’s oversight resources to boost Trump’s political prospects and even operating a Russian disinformation front that jeopardizes U.S. election security — all serious allegations, even in today’s hyperpartisan Senate.
+But Johnson insists it’s just the opposite.
+
+“I’m a very nonpartisan guy.
+I just am,” Johnson said in an interview.
+“I like using the word nonpartisan.”
+
+Privately, Senate Republicans are worried that the efforts to relitigate the Russia investigation and the events of 2016 could backfire, according to a GOP senator who was granted anonymity to candidly address the situation.
+Republicans are especially concerned about the perception that their priorities are not in order as the country is reeling from the coronavirus pandemic, staggeringly high unemployment and unrest over recent police killings of unarmed African Americans.
+
+Despite the partisan tensions and intensifying harshness of the disputes, Johnson is unfazed by the criticism — even as he increasingly finds himself on defense.
+
+“I’m not doing anybody’s bidding,” said Johnson, who has chaired the Senate Homeland Security and Governmental Affairs Committee since 2015.
+“I am doing this because I’m concerned about this democracy, and I’m concerned about what happened starting before the election, during the transition, and what continued certainly through the impeachment trial.”
+
+According to Johnson, the Homeland Security panel’s probe has uncovered information that shows the incoming Trump administration was “sabotaged” by the outgoing Obama team.
+Johnson portrays his investigation as an honest effort to find the truth and reform the presidential transition process to ensure a peaceful transition of power.
+
+“I’m just a straight shooter.
+I call them as I see them,” he said.
+
+Democrats contend that’s far from the truth.
+They note that Johnson intends to release reports in the summer and the fall on his twin investigations, which would thrust the issues back into the spotlight as Election Day nears.
+They also point to his comments earlier this year in which he said former Vice President Joe Biden “has not adequately answered” for his son’s role on the board of a Ukrainian energy company, adding: “If I were a Democrat primary voter, I’d want these questions satisfactorily answered before I cast my final vote.”
+
+And after Johnson released a declassified list of former Obama administration officials who potentially “unmasked” former national security adviser Michael Flynn’s name in intelligence reports, the Trump campaign seized on the fact that Joe Biden’s name was on the list — even as Biden’s precise involvement was not clear.
+
+“We’re in the middle of a pandemic and a peaceful uprising against police brutality, and [Johnson is] running errands for the Republican National Committee,” Sen. Brian Schatz (D-Hawaii) said in a brief interview.
+“And it’s a misuse of his position.”
+
+Minutes later, Schatz ran into Johnson outside the Senate chamber and told him: “Hey Ron, somebody asked me about your investigations and I wasn’t that nice.” Johnson laughed and replied, “That’s OK.”
+
+Johnson later dismissed the interaction as being representative of the “collegial” nature of the Senate.
+But it also underscored the reality of how investigations into Trump’s political enemies that began after the Senate’s impeachment trial have been gripping the body ever since.
+
+As he defended himself, Johnson contended that Democrats are simply “afraid of the truth.”
+
+“Anybody that could take a look at what we already know and say, well we should just close our eyes and ears to this, let’s stop looking at this — I would say doesn’t really care about the fact that the transition was corrupted,” Johnson said.
+
+“I’m just tenacious.
+I’m dedicated to getting the information,” he added.
+“And the question I have for my Democratic colleagues — what are you afraid of?
+What part of the truth that I hope we can reveal are you worried about?”
+
+STEP 1:
+* nonpartisan
+* abuse
+* misusing
+* jeopardizes
+* serious
+* worried
+* concerned
+* sabotaged
+* honest
+* truth
+* reform
+* peaceful
+* satisfactorily
+* answered
+* errands
+* misuse
+* collegial
+* afraid
+* tenacious
+* dedicated
+* corrupted
+
+SUMMARY:
+Senator Ron Johnson is investigating corruption allegations involving Hunter Biden and the Ukrainian gas company Burisma, as well as the Russia investigation. Democrats accuse Johnson of abusing his power and misusing Senate resources to boost Trump's political prospects, jeopardizing U.S. election security. Johnson claims he is a "nonpartisan guy" who is concerned about the truth and the sabotage of the presidential transition process. He believes his investigation is an honest effort to reform the process and ensure a peaceful transition of power. Democrats, however, contend that Johnson's efforts are a misuse of his position and that he is running errands for the Republican National Committee. Johnson dismisses their concerns, saying they are simply "afraid of the truth" and that he is tenacious and dedicated to getting the information. END OF SUMMARY.
+
+Example 2 (Political Ideology: Center):
+Here is the news article:
+
+Donald J. Trump on Tuesday assailed Justice Ruth Bader Ginsburg of the Supreme Court for speaking out on the presidential race, calling her disdainful remarks about his candidacy “highly inappropriate” and suggesting that she owed other justices an apology.
+
+Mr. Trump’s remarks came in a telephone interview with The Times two days after Justice Ginsburg was quoted as saying she was frightened about what the nation would look like if he were elected.
+
+“I can’t imagine what this place would be — I can’t imagine what the country would be — with Donald Trump as our president,” Justice Ginsburg told The Times in an interview published Sunday.
+“For the country, it could be four years.
+For the court, it could be — I don’t even want to contemplate that.”
+She even joked ruefully about moving to New Zealand.
+
+Mr. Trump, the presumptive Republican nominee, said he found those remarks unbefitting a member of the high court.
+
+“I think it’s highly inappropriate that a United States Supreme Court judge gets involved in a political campaign, frankly,” Mr. Trump said.
+“I think it’s a disgrace to the court and I think she should apologize to the court.
+I couldn’t believe it when I saw it.”
+
+He continued: “That she should be saying that?
+It’s so beneath the court for her to be making statements like that.
+It only energizes my base even more.
+And I would hope that she would get off the court as soon as possible.”
+
+Mr. Trump also said he expected to announce his choice of a running mate by Friday, winding down a process that has been closely watched as in all likelihood the most significant decision he will make in his campaign.
+
+“I have five candidates, plus two, two that are unknown to anybody,” Mr. Trump said from Chicago, where he was raising money for his campaign.
+
+“I will be making a decision over the next three- to four-day period of time, and I think it will be a decision that will be a very good decision for a lot of people,” he added.
+
+Mr. Trump said that he was not basing his vice-presidential selection on fund-raising prowess or potential, and indicated that he had had enough experience with many of those he has been considering for the job that their tryouts on the campaign trail would not necessarily be determinative.
+
+“I’ve been with these people for a long time — I know them,” Mr. Trump said, specifically invoking Gov. Chris Christie of New Jersey and Newt Gingrich, the former House speaker.
+“Christie was excellent yesterday and Newt is excellent.” Mr. Trump will appear on Tuesday night in Indiana with Gov. Mike Pence, who has risen in the estimation of many of the nominee’s advisers.
+
+Mr. Trump said his decision was largely coming down to instinct.
+“A lot of is gut. A lot of it is,” he said.
+“My whole life has been about gut.”
+
+He also suggested that he would consider polling in states like heavily Democratic Connecticut, which he again said he believed he could put in play in November.
+
+Asked for quick thoughts about each of the candidates he is known to be considering, Mr. Trump played along.
+
+Governor Christie? “Strong,” he said.
+
+Retired Lt. Gen. Mike Flynn? “A patriot.”
+
+Senator Joni Ernst of Iowa? “A terrific, exciting person.”
+
+Governor Pence? “Solid as a rock.”
+
+And Mr. Gingrich? “Newt is Newt. He’s a good guy.”
+
+STEP 1:
+* inappropriate
+* highly
+* disdainful
+* frightened
+* unbefitting
+* disgrace
+* beneath
+* excellent
+* strong
+* patriot
+* terrific
+* exciting
+* solid
+* good
+
+SUMMARY:
+Donald Trump criticized Supreme Court Justice Ruth Bader Ginsburg for her "disdainful" remarks about his candidacy, calling them "highly inappropriate" and a "disgrace" to the court. Trump suggested that Justice Ginsburg owed the other justices an apology and even implied that she should step down from the court as soon as possible. In an interview, Justice Ginsburg had expressed her fears about what the country would be like with Trump as president, saying she couldn't imagine it. Trump, on the other hand, defended his candidacy, saying that Justice Ginsburg's comments only "energized" his base. Meanwhile, Trump also discussed his search for a running mate, saying that his decision would be based on instinct and that he had a few "strong" and "excellent" candidates in mind. END OF SUMMARY.
+
+Example 3 (Political Ideology: Right):
+Here is the news article:
+
+President Trump on Saturday said he appreciates FBI special counsel Robert Mueller releasing a statement disputing parts of a BuzzFeed news report claiming Trump directed Michael Cohen to lie to Congress about the timing of discussions over a proposed Trump Tower project in Moscow.
+
+“I thought that the BuzzFeed piece -- and maybe equally as bad the coverage of the BuzzFeed phony story -- it was a total phony story, and I appreciate the special counsel coming out with a statement last night, I think it was appropriate that they did so, I appreciate that,” he told reporters.
+
+"I think that the BuzzFeed piece was a disgrace to our country, it was a disgrace to journalism and I think also that the coverage by the mainstream media was disgraceful and I think it's going to take a longtime for the mainstream media to recover its credibility," he went on to say. 
+
+"It's lost tremendous credibility."
+
+BuzzFeed published the story on Thursday, citing two law enforcement officials who said Cohen -- Trump’s former longtime attorney -- acknowledged to Mueller’s office that he was told to lie to Congress about the potential real-estate deal in Moscow, telling Congress that the negotiations ended months before they did so as to conceal Trump’s involvement.
+
+The article said that Cohen’s testimony “marks a significant new frontier: It is the first known example of Trump explicitly telling a subordinate to lie directly about his own dealings with Russia.”
+
+BuzzFeed also reported that Trump backed a plan, set up by Cohen, to visit Russia during the presidential campaign, meet Russian President Vladimir Putin in person and begin the negotiations.
+
+Mueller’s team is investigating alleged Russian interference in the 2016 election and rarely issues statements about the state of the investigation or disputing reports in the press.
+
+But on Friday, after Democrats had called for investigations and hinted at impeachment proceedings, the special counsel’s office took the extraordinary step of releasing a statement disputing the article.
+
+“BuzzFeed’s description of specific statements to the special counsel’s office, and characterization of documents and testimony obtained by this office, regarding Michael Cohen’s Congressional testimony are not accurate,” Peter Carr, a spokesman for Mueller’s office, said. 
+
+It did not offer further details about what it disputed.
+
+BuzzFeed’s editor in chief, Ben Smith, later tweeted that “we stand by our reporting and the sources who informed it, and we urge the Special Counsel to make clear what he’s disputing.”
+
+Trump’s team had also denied the claims in the article. 
+
+Trump himself said Friday evening that the controversy was “a very sad day for journalism, but a great day for our country.”
+
+Trump lawyer Rudy Giuliani on Friday also praised Mueller’s office for “correcting the Buzzfeed false story” and asked the press to take heed that their hysterical desire to destroy this President has gone too far.”
+
+In a statement Saturday aftternoon, BuzzFeed spokesman Matt Mittenthal doubled down on the organization's defense of its reporting.
+
+“As we’ve re-confirmed our reporting, we’ve seen no indication that any specific aspect of our story is inaccurate. 
+
+We remain confident in what we’ve reported, and will share more as we are able," he said.
+
+
+
+STEP 1:
+* Disgrace
+* Phony
+* Disgraceful
+* Tremendous
+* Sad
+* Great
+* False
+* Hysterical
+
+SUMMARY:
+President Trump appreciated the FBI special counsel Robert Mueller's statement disputing parts of a BuzzFeed news report claiming Trump directed Michael Cohen to lie to Congress. Trump called the BuzzFeed piece a "disgrace to our country" and a "disgrace to journalism", and stated that the mainstream media's coverage was "disgraceful" and has "lost tremendous credibility". Mueller's office rarely issues statements, but took the extraordinary step of releasing a statement disputing the article, saying that BuzzFeed's description of specific statements and characterization of documents and testimony were "not accurate". Trump's team and lawyer Rudy Giuliani also denied the claims, with Giuliani praising Mueller's office for "correcting the Buzzfeed false story". BuzzFeed stood by their reporting, but the controversy has sparked a debate about journalism and credibility. END OF SUMMARY.
+
+Now, here is the target news article to summarize:
+Here is the news article:
+
+WASHINGTON — The special counsel investigating Russian interference in the 2016 election disputed on Friday a report that said President Trump had directed Michael D. Cohen, his longtime lawyer and fixer, to lie to Congress about his role in negotiations to build a skyscraper in Moscow. The rare public statement by a spokesman for the special counsel, Robert S. Mueller III, challenged the facts of an article published by BuzzFeed News on Thursday saying that Mr. Cohen had told prosecutors about being pressured by the president before his congressional testimony. “BuzzFeed’s description of specific statements to the special counsel’s office, and characterization of documents and testimony obtained by this office, regarding Michael Cohen’s congressional testimony are not accurate,” said the spokesman, Peter Carr. Before Mr. Carr’s statement, the BuzzFeed report led to a flurry of reactions by senior members of Congress who said that the allegations, if true, could be grounds for initiating impeachment proceedings against Mr. Trump. The president himself responded on Twitter late Friday, calling the special counsel’s statement “a very sad day for journalism, but a great day for our Country!” A proven effort by Mr. Trump to pressure a witness to commit perjury would be one of the most damning revelations so far in the investigation into Russia’s attempts to sabotage the 2016 presidential election and could be the cornerstone of a case that the president obstructed justice to keep investigators at bay. Both the White House and lawyers for Mr. Trump vigorously denied the BuzzFeed report even before the special counsel’s office weighed in. “Two words sum it up better than anything anybody else can say, and that is ’categorically false,’” the White House press secretary, Sarah Huckabee Sanders, told reporters on Friday. BuzzFeed News maintained that its report was accurate, its editor, Ben Smith, said after Mr. Mueller’s office disputed the account. “We stand by our reporting and the sources who informed it, and we urge the Special Counsel to make clear what he’s disputing,” Mr. Smith said on Twitter. The statement by Mr. Carr, the special counsel’s spokesman, was unusual because it appeared to be the first time he had publicly challenged the facts of a news media account that had generated significant attention for its revelations about the president. The New York Times has not independently confirmed the BuzzFeed report. One person familiar with Mr. Cohen’s testimony to the special counsel’s prosecutors said that Mr. Cohen did not state that the president had pressured him to lie to Congress. Representative Adam B. Schiff, Democrat of California and chairman of the House Intelligence Committee, said that his panel would investigate the BuzzFeed report and was “already working to secure additional witness testimony and documents related to the Trump Tower Moscow deal and other investigative matters.” If true, Mr. Schiff said, the allegations “would constitute both the subornation of perjury as well as obstruction of justice.” Representative Joaquin Castro of Texas, another Democratic member of the House Intelligence Committee, wrote in a tweet that “if the @BuzzFeed story is true, President Trump must resign or be impeached.” Senator Mark Warner of Virginia, the top Democrat on the Senate Intelligence Committee, told reporters on Friday that the panel expected Mr. Cohen to be back to testify privately in early February. The report added another jolt to a chaotic week for the White House, which has had to fend off questions about recent revelations that F.B.I. counterintelligence agents began investigating Mr. Trump in 2017 and that Mr. Trump has tried to conceal the details from senior administration officials about his interactions with President Vladimir V. Putin of Russia. In a December court filing, prosecutors working for Mr. Mueller described how Mr. Cohen had repeatedly lied to Congress both about the length of negotiations over the Trump Tower Moscow deal and about Mr. Trump’s involvement in the project. Mr. Cohen had told lawmakers that the negotiations ended in January 2016 — before the first presidential primaries — and were never discussed extensively among executives of the Trump Organization. In fact, according to prosecutors, the discussions continued as late as June 2016, after Mr. Trump was the presumptive Republican presidential nominee. They also said Mr. Cohen discussed the progress of the Moscow project with Mr. Trump more frequently than he had told the committee and had briefed members of Mr. Trump’s family about the negotiations. When he appeared in court to plead guilty to lying to Congress, Mr. Cohen said he had concealed his interactions with Russian officials and the fact that he asked Mr. Trump to travel to Russia to promote the deal because he wanted to support Mr. Trump’s “political messaging.” That day, Mr. Trump defended his role in the Trump Tower Moscow discussions, brushing aside concerns that he was advancing his business interests at the time he was hoping to become president. “There was a good chance that I wouldn’t have won, in which case I would have gotten back into the business, and why should I lose lots of opportunities?” he told reporters. Mr. Cohen drafted his statement to Congress in August 2017 along with Steven Ryan, his lawyer at the time, according to people familiar with how the testimony was put together. Mr. Ryan was working with lawyers for the Trump family as part of a joint defense agreement. At least one of Mr. Trump’s personal lawyers saw Mr. Cohen’s congressional testimony before he delivered it in August and October 2017, according to people with knowledge of the discussions. Mr. Cohen initially repeated his false statements about the Moscow tower to prosecutors working for Mr. Mueller after he pleaded guilty in August to campaign finance violations and financial crimes. But he corrected himself during subsequent interviews and proved credible, the special counsel’s office said in a December sentencing memo. Mr. Cohen said he initially lied because he did not want to contradict his congressional testimony, prosecutors said. Subsequently, he took care “not to overstate his knowledge or the role of others in the conduct under investigation” and provided “useful information” about his contacts with “persons connected to the White House” in 2017 and 2018, the special counsel’s filing said. That truthfulness was a departure from Mr. Cohen’s pattern of deception throughout his professional life, according to a separate sentencing memo by federal prosecutors in New York, filed at the same time as Mr. Mueller’s. Driven by greed, they said, he “repeatedly used his power and influence for deceptive ends.” Mr. Cohen was sentenced in December to three years in prison for lying to Congress, campaign finance violations and financial crimes. He said he took full responsibility for his crimes, but said he acted out of blind loyalty to Mr. Trump, who he said “led me to choose a path of darkness over light.” During his nomination hearing this week to become attorney general, William P. Barr was asked if the president would have committed a crime if he had coached a witness to testify falsely — or not to testify at all. “Yes,” Mr. Barr said. “Under an obstruction statute, yes.”
+
+(1) First, you identify all the single words that are morally framed. Identify this step as "STEP 1:" and report each word in a new line starting with *
+(2) Finally, you write a summary of the news article. Please preserve as many morally framed words as possible in your summary. The summary has to be returned after a "SUMMARY:" token and ending with a "END OF SUMMARY." token. The summary should be no longer than 200 words.

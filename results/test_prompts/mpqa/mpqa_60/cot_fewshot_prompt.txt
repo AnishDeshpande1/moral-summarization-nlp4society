@@ -1,0 +1,166 @@
+You have to summarize the following text preserving the moral framing that the author gave to it.
+
+Please study the following examples of news articles, their moral word extraction, and summaries preserving the moral framing:
+
+Example 1 (Political Ideology: Left):
+Here is the news article:
+
+Obama’s team is spinning the Republican National Convention as a complete miss.
+Obama's new challenge: Disappointment
+
+The watchword of the Republican National Convention in Tampa was disappointment — as in President Barack Obama has been one.
+
+You can hammer Obama on health care.
+Mock his golf outings.
+Demand to see his birth certificate and Harvard transcript, and call him a European socialist bent on turning the American Dream into a Belgian nightmare.
+He’ll throw his head back and laugh at you like a Bond villain.
+
+But tell voters he’s not the man America fell in love with in 2008 — and pine, however disingenuously, about his unfulfilled potential — and a shiver runs through his Chicago campaign headquarters.
+
+Obama’s team was spinning the convention as a complete miss, arguing that Republicans didn’t lay a glove on their man.
+Yet what emerged from Tampa was a subtle, clever shift in GOP messaging, a much more dangerous strategy for Obama than the kitchen-sink attacks that preceded the gathering.
+Republicans posed — rhetorically — as Obama 2008 voters, lamenting his unfulfilled expectations as if they had been with him all along instead of trying to block him at every turn.
+
+Both sides recognize the power of the disappointment theme: that the hope Obama offered for mending the economy, transforming the political process and even saving the earth has faded.
+
+“President Obama promised to begin to slow the rise of the oceans and heal the planet,” Mitt Romney said in accepting the Republican presidential nomination Thursday.
+“My promise is to help you and your family.”
+
+Or, as Sen. Marco Rubio put it, “Our problem with President Obama isn’t that he’s a bad person.
+Our problem is that he’s a bad president.”
+
+If Republicans landed a punch on Obama, it was the kind of strategic body blow that a skillful pugilist deploys to gain better position for the rest of the fight.
+
+No roundhouse, no jaw-splitter, no knockout.
+It was the kind of shot aimed at subtly shifting momentum and softening up the opponent in a way that may not be evident to the casual observer.
+
+Republicans honed their tone.
+
+The shrill hyperbole, petty critiques of Obama’s every move and Party of No intransigence disappeared into the heavy Tampa air.
+Surely, some of that will rain back down across other parts of the country during the closing months of the campaign, particularly as super PACs and other outside groups intensify their own lines of attack against Obama.
+
+There was plenty of tough criticism in Tampa — more mockery of Obama’s “you didn’t build that” line, more comparisons of his record to Jimmy Carter’s.
+But there were times — prime time, in particular — that the Republican convention looked and sounded like a Democratic gathering.
+
+An appealing young vice-presidential candidate, Paul Ryan, called his mom his role model and vowed to protect Medicare for seniors.
+
+Cuban-American Florida Sen. Marco Rubio and Mexican-American New Mexico Gov. Susana Martinez spoke of the unique opportunities that the United States afforded them to rise into leadership positions.
+
+STEP 1:
+* disappointment
+* disingenuously
+* clever
+* dangerous
+* bad
+* good
+* shrill
+* petty
+* intransigence
+* appealing
+* unique
+
+SUMMARY:
+The Republican National Convention in Tampa was deemed a success by the GOP, despite Obama's team spinning it as a complete miss. Republicans cleverly shifted their messaging, adopting a more subtle and dangerous strategy that focused on disappointment. They posed as Obama 2008 voters, lamenting his unfulfilled expectations and promising a more humble, achievable agenda. Mitt Romney and Sen. Marco Rubio delivered speeches that were more in line with Democratic values, touting the unique opportunities afforded by the United States. The tone was appealing, with a focus on protecting Medicare for seniors and honoring role models. The GOP's new approach is a strategic body blow to Obama's campaign, softening him up for the rest of the fight. END OF SUMMARY.
+
+Example 2 (Political Ideology: Center):
+Here is the news article:
+
+WASHINGTON — It is a lesson politicians never seem to learn from others’ mistakes: The microphone is always on.
+
+The latest candidate to learn the hard way was Representative Bruce Braley, an Iowa Democrat running for Senate this year.
+Mr. Braley apologized to Senator Charles E. Grassley, Republican of Iowa, and “anyone I may have offended” after video emerged of him warning that “a farmer from Iowa who never went to law school, never practiced law” could become chairman of the Judiciary Committee.
+
+Mr. Braley is not running against Mr. Grassley, who plans to seek a seventh term in 2016.
+But as the ranking Republican on the Judiciary Committee, Mr. Grassley could assume the chairmanship if his party takes control of the Senate this year.
+Mr. Braley, speaking at a January fund-raiser in Corpus Christi, Tex., was explaining why he should go to the Senate instead of his Republican opponent.
+
+America Rising, a conservative political action committee that has vowed to use videos and opposition research to attack Democratic candidates, posted the footage on YouTube on Tuesday.
+Other Republicans quickly criticized Mr. Braley.
+
+Though their numbers are declining, farmers are still a powerful force in the Iowa, which ranks second in the country in total farm sales.
+Mr. Braley’s apology noted his family’s history with Iowa agriculture, including his own stint “doing farm jobs and working a grain elevator.”
+
+In another appeal to Iowa farmers, Joni Ernst, a candidate in the Republican Senate primary on June 3, announced in an ad that she grew up “castrating hogs on an Iowa farm.”
+Ms. Ernst said that qualified her to “cut pork” in Washington.
+
+STEP 1:
+* apologized
+* offended
+* warned
+* criticized
+* powerful
+* qualified
+
+SUMMARY:
+Representative Bruce Braley, an Iowa Democrat running for Senate, apologized for his offensive remarks about Senator Charles E. Grassley, a Republican from Iowa. Braley warned that a farmer from Iowa who never went to law school could become chairman of the Judiciary Committee, implying that Grassley was unqualified for the position. The video of Braley's comments was posted on YouTube by America Rising, a conservative political action committee. Braley's apology noted his family's history with Iowa agriculture, but Republicans quickly criticized him for his remarks. In contrast, Joni Ernst, a Republican Senate candidate, highlighted her experience growing up on an Iowa farm, saying it qualified her to "cut pork" in Washington. The incident serves as a lesson to politicians that the microphone is always on, and careless comments can have consequences. END OF SUMMARY.
+
+Example 3 (Political Ideology: Right):
+Here is the news article:
+
+National Security Adviser Susan Rice warned that Israeli Prime Minister Benjamin Netanyahu’s upcoming Capitol Hill address will be a “destructive” force in long-standing U.S.-Israel relations, adding more political acrimony to the already contentious visit.
+
+Netanyahu was invited by House Speaker John Boehner, the leader of the Republican-controlled chamber, without him first conferring with the White House or State Department.
+
+Such a move is generally considered a diplomatic no-no, but Boehner says he wanted to bring in Netanyahu to address the nuclear threat from Iran amid ongoing negotiations between Washington and Tehran.
+The visit, though, has further challenged the strained relationship between President Obama and Netanyahu.
+
+"It's destructive to the fabric of the relationship," Rice said Tuesday on PBS’s the “Charlie Rose” show.
+“It’s always been bipartisan. We need to keep it that way."
+
+Rice's statements were among the Obama administration's toughest on Netanyahu's speech, set for March 3.
+To date, administration officials had maintained a more low-key stance, voicing concerns about the visit while saying Obama would not meet with his Israeli counterpart strictly out of a desire not to influence Israel's tight elections.
+
+But tensions are rising on all sides.
+
+Rice's comments came as Netanyahu turned down an invitation to meet privately with leading Senate Democrats during his trip to Washington, saying such a session could "compound the misperception of partisanship" surrounding his visit.
+
+Netanyahu told Sens. Dick Durbin, of Illinois, and Dianne Feinstein, of California, that he regrets the invitation has been perceived by some to be political or partisan.
+
+"I can assure you that my sole intention in accepting it was to voice Israel's grave concerns about a potential nuclear agreement with Iran that could threaten the survival of my country," he told the senators in a letter.
+
+U.S. officials suggest Netanyahu’s trip is aimed primarily at derailing a nuclear deal with Iran, a signature Obama foreign policy objective.
+
+While Netanyahu has long been skeptical of the negotiations, his opposition has increased over what he sees as Obama's willingness to make concessions that would leave Iran on the brink of being able to build a nuclear weapon.
+U.S. and Iranian officials reported progress in negotiations this week on a deal that would clamp down on Tehran's nuclear activities for at least 10 years but then slowly ease restrictions.
+Israeli officials warned this week that such a deal would allow Iran to become a nuclear threshold state.
+
+Vice President Biden won't attend the Netanyahu speech.
+And more than a half-dozen House and Senate Democrats also have said they will skip the event, calling it an affront to Obama and the administration as they negotiate with Iran over its nuclear program.
+
+But Republican Sen. Lindsey Graham, R-S.C., called Biden’s absence “appalling and unacceptable.”
+
+"I don’t know where Joe Biden will be or what he will be doing, but I can’t believe it’s more important than being in the chamber and listening to our best ally in the region -- Israel -- about the biggest threat to mankind, a nuclear-armed Iran. ...
+It shows complete disrespect, it shows they’re more worried about the politics in Israel than receiving information about a common threat," Graham, R-S.C., said Tuesday night on Fox News' "On the Record with Greta Van Susteren."
+
+Durbin said he regretted that Netanyahu could not meet with the Democrats.
+
+"We offered the prime minister an opportunity to balance the politically divisive invitation from Speaker Boehner." Durbin said.
+"His refusal to meet is disappointing to those of us who have stood by Israel for decades."
+
+STEP 1:
+* destructive
+* bipartisan
+* strained
+* toughest
+* regrets
+* misperception
+* partisanship
+* derailing
+* skeptical
+* concessions
+* affront
+* appalling
+* unacceptable
+* disrespect
+* disappointing
+
+SUMMARY:
+National Security Adviser Susan Rice warned that Israeli Prime Minister Benjamin Netanyahu's upcoming Capitol Hill address will be a "destructive" force in long-standing U.S.-Israel relations, adding more political acrimony to the already "strained" relationship between President Obama and Netanyahu. The visit, orchestrated by House Speaker John Boehner without consulting the White House or State Department, has been deemed a "diplomatic no-no" and has sparked concerns of "partisanship" surrounding the event. Netanyahu's refusal to meet with leading Senate Democrats has been met with "disappointment" and "regrets" from lawmakers who have historically stood by Israel. Meanwhile, Vice President Biden and several Democrats have announced they will skip the event, calling it an "affront" to Obama and the administration as they negotiate with Iran over its nuclear program. Republican Sen. Lindsey Graham, on the other hand, deemed Biden's absence "appalling and unacceptable," showing "disrespect" to Israel. END OF SUMMARY.
+
+Now, here is the target news article to summarize:
+Here is the news article:
+
+Many fear violence after Zimbabwe vote HARARE, Zimbabwe Wellington Chinyama sat down in a barber's chair, unfolded his newspaper and without glancing up asked the young man trimming his hair the question that seems to be on virtually everyone's mind here: "So Joseph, have you prepared yourself for Zimbabwe's civil war?" As Zimbabweans go to the polls this weekend to re-elect or oust Robert Mugabe, the only leader the country has ever known, the question of who will win the election seems almost secondary to how the loser and his followers will respond. Surveys show the challenger, Morgan Tsvangirai, a trade union leader, ahead of Mugabe. But a surge in political violence and accusations that the governing party changed election laws to rig the vote have fanned widespread concerns among Zimbabweans, election monitors and foreign diplomats that neither political party nor their supporters are prepared to accept the final tally. "It does not take a vivid imagination to envision a scenario on the ground where either rioters or the military take to the streets in the days to come," an African diplomat said. Most disturbing are pronouncements by senior government officials and military leaders that they would not allow this former British colony to be led by Tsvangirai and his political party, the Movement for Democratic Change. In a television interview broadcast the other day, Didymus Mutasa, a spokesman for Mugabe's ruling ZANU-PF party, said that he and other veterans of the country's independence war found the prospect of a Tsvangirai government intolerable. "People have said being ruled by the MDC is being ruled by Ian Smith," Mutasa said, referring to the prime minister of white-ruled Rhodesia, as the country was known before gaining independence in 1980. "Under these circumstances, if there were to be a coup, we would support it very definitely." At least 34 people have died in political violence this year, almost all of them supporters of the Movement for Democratic Change. State Department officials this week accused Mugabe's government of numerous human rights violations during the election campaign, an allegation vehemently denied by ZANU-PF officials. A newspaper reported that Mugabe had put the armed forces on "high alert" and had recalled soldiers from neighboring Congo, where they have been deployed in that country's civil war. Police Commissioner Augustine Chihuri denied the reports. Many Zimbabweans see this weekend's election as a contest between immovable forces: a 78-year-old autocrat desperate to remain in power and an opposition party dominated by restless young citizens weary of government corruption, food shortages and unemployment. "If Mugabe announces that he has won the election, I think that people will not believe it and will storm the castle," said Sibongile Mbuyiso, an opposition supporter. "But if the MDC wins, I believe Mugabe will announce martial law, throw Tsvangirai in jail for plotting to kill him and send the army into the streets." Government officials last month charged Tsvangirai and two other officials of his party with high treason for allegedly plotting to assassinate Mugabe. That charge is based largely on a heavily edited videotape in which Tsvangirai refers to the "elimination" of Mugabe. Tsvangirai was responding to a question posed by a Canadian publicist with whom he was meeting and who subsequently signed a contract with ZANU-PF. Political analysts say the charges may have laid the groundwork for Mugabe to jail Tsvangirai as a last-ditch effort to stay in power should he lose the election. But that outcome is certainly not a foregone conclusion. Opposition officials say that 22 of their polling agents have been abducted in the past week, and a surge in violent attacks in swing districts could persuade enough opposition supporters to vote for ZANU-PF to ensure Mugabe's victory. In addition, governing party officials have revised election laws and procedures in a manner that could change the outcome of the vote, according to independent election observers. ZANU-PF officials have told election observers that they intend to increase the number of polling stations in rural areas believed to be their strongholds and reduce the number of stations in urban areas, where there is strong support for the opposition. Observers say that could produce long voting lines and discourage some Tsvangirai supporters from casting ballots. ZANU-PF election officials also plan to use civil service employees to monitor the vote-counting and bar independent monitors from nonprofit organizations from assisting in such routine tasks as transporting ballot boxes to counting stations. A residency requirement introduced last month bans registered voters from casting ballots if they cannot provide leases or utility bills in their names. That, according to foreign diplomats and Tsvangirai supporters, could disenfranchise hundreds of thousands of young opposition supporters who live with their parents. "Clearly, Mugabe is doing everything he can to steal this election," said John Makumbe, a political science professor at the University of Zimbabwe. Tsvangirai said at a news conference Thursday night that if he won the election, he would not prosecute Mugabe. That could ease pressure on Mugabe to remain in power to avoid prosecution for his government's attack in the 1980s in Matabeleland, the home of the Ndebele tribe, which at the time posed the most significant threat to his leadership. An estimate of the number of people killed in the operation ranges from 10,000 to 20,000.
+
+(1) First, you identify all the single words that are morally framed. Identify this step as "STEP 1:" and report each word in a new line starting with *
+(2) Finally, you write a summary of the news article. Please preserve as many morally framed words as possible in your summary. The summary has to be returned after a "SUMMARY:" token and ending with a "END OF SUMMARY." token. The summary should be no longer than 200 words.

@@ -1,0 +1,153 @@
+You have to summarize the following text preserving the moral framing that the author gave to it.
+
+Please study the following examples of news articles and their summaries preserving the moral framing:
+
+Example 1 (Political Ideology: Left):
+Here is the news article:
+
+WASHINGTON ― The White House relayed President Donald Trump’s response late Thursday to bombshell allegations that Alabama GOP Senate nominee Roy Moore sexually molested a 14-year-old girl in 1979.
+
+White House press secretary Sarah Huckabee Sanders, traveling with the president on his trip to Asia, told reporters that Trump “believes that we cannot allow a mere allegation ― in this case, one from many years ago ― to destroy a person’s life” but that if the allegations are true, “Judge Moore will do the right thing and step aside.”
+
+A spokesperson for Vice President Mike Pence said the veep “found the allegations in the story disturbing and believes, if true, this would disqualify anyone from serving in office.”
+
+Moore’s campaign denied the allegations, which The Washington Post first reported, telling the paper the accusations of four women are “the very definition of fake news.”
+The Post reporters talked to more than 30 sources in the course of their investigation.
+
+On Thursday, numerous Republican lawmakers on Capitol Hill called on Moore to drop out of the race ― if the allegations are true.
+
+During his 2016 campaign, Trump dismissed allegations of sexual misconduct against himself from more than a dozen women and threatened to sue some of his accusers.
+He claimed that a 2005 tape of him bragging about sexual assault, which was released last fall, was “locker room talk.”
+
+In September, Moore, a controversial judge in Alabama, won the primary for the special election.
+He beat GOP establishment candidate Sen. Luther Strange (R-Ala.), who was chosen to fill the seat left vacant when Jeff Sessions became Trump’s attorney general.
+
+Trump notably backed Strange over Moore, though many members of his base, including former White House chief strategist Steve Bannon, supported Moore.
+
+But after Moore won, Trump disavowed his endorsement of Strange, deleting tweets in support of him.
+And the day after the primary, the president tweeted in support of Moore, calling him “a really great guy.”
+
+SUMMARY:
+
+The White House has responded to allegations of sexual misconduct against Alabama GOP Senate nominee Roy Moore, with President Trump's press secretary saying that a mere allegation should not destroy a person's life, but if true, Moore should step aside. Vice President Mike Pence also found the allegations disturbing and believes they would disqualify anyone from serving in office if true. However, Moore's campaign has denied the allegations, calling them "fake news." This response is hypocritical, considering Trump's own history of dismissing allegations of sexual misconduct against himself and threatening to sue his accusers. The allegations against Moore are particularly disturbing, as they involve a 14-year-old girl. Many Republican lawmakers have called on Moore to drop out of the race if the allegations are true. The president's own moral character is called into question by his support for Moore, despite having previously backed Moore's opponent in the primary.
+
+END OF SUMMARY.
+
+Example 2 (Political Ideology: Center):
+Here is the news article:
+
+Larry Summers, the outgoing chairman of the National Economic Council, just told a group of reporters that failure to pass a package like the tax deal announced by President Obama this week “would significantly increase the risk” of a double-dip recession.
+
+Mr. Summers made the remarks at a briefing with the White House press secretary Robert Gibbs and David Axelrod, the president’s top political adviser.
+The administration has been pushing back hard against criticism from fellow Democrats that the president has caved too much to Republicans.
+
+In brief remarks after meeting with President Bronislaw Komorowski of Poland, Mr. Obama on Wednesday emphatically disputed that Democrats generally feel betrayed by his deal with Congressional Republicans on the tax cuts, saying that “the more who look at it, the more will say this makes sense.”
+
+“I just think it’s very important for Congress to examine the agreement, look at the facts, have a thorough debate, but get this done.
+The American people are watching, and they’re expecting action on our parts,” Mr. Obama said.
+“I don’t think we need to translate that.”
+
+In a joint appearance at the White House with Mr. Komorowski, Mr. Obama said that “economists across the country have upwardly revised their forecasts for growth” after the tax deal was announced on Monday night.
+
+Vice President Joseph R. Biden Jr. planned to return to Capitol Hill this afternoon to meet with House Democrats as President Obama and the White House sought to quell the uproar among liberals about the tax deal.
+
+Officials said Mr. Biden will travel to the Hill around 4:30 p.m. in an attempt to sell the compromise Mr. Obama announced this week.
+It will be the second time in two days that Mr. Biden has served as the liaison-in-chief for the White House.
+
+Mr. Biden’s visit and the president’s comments come as the administration’s message machine started churning out statements of support.
+
+To counter condemnations from some Democrats in Congress, the White House circulated a series of e-mails quoting endorsements from private-sector economic forecasters, liberal as well as conservative analysts, and Democratic officeholders, including an obscure freshman House member, Representative Gary Peters of Michigan.
+
+By noon, the White House press office had released supportive comments from Antonio Villaraigosa, the mayor of Los Angeles, and Mr. Peters.
+The Democratic National Committee alerted reporters that Jennifer Granholm, the Democratic governor of Michigan, also supports the deal.
+
+John Podesta, a former chief of staff to President Bill Clinton and a close ally of Mr. Obama, issued a statement calling the tax deal “a steep price” but saying the president was “right to choose helping working Americans over a December conflagration.” 
+The Democratic National Committee also sent that statement around to reporters.
+
+David Axelrod, the president’s chief political adviser, said on CNN’s “American Morning” that middle-class Americans were “going to get screwed” if their tax cuts were not extended at the end of the year.
+
+The administration was quick to highlight comments from Mark Zandi, chief economist for Moody’sEconomy.com, projecting that the Obama tax deal would increase economic growth next year by 1.25 percentage points and create 1.6 million jobs.
+Macroeconomic Advisors, Deutsche Bank and Goldman Sachs projected smaller increases but no less than at least 0.5 percentage point.
+That is on top of projections that currently are in the range of 2 percent to 3 percent.
+
+But the public relations offensive is being met with public expressions of outrage from Mr. Obama’s base, including the most liberal members of Congress and spokesmen for interest groups on the left.
+
+Close to three dozen House Democrats have signed a letter from Representative Peter Welch, Democrat of Vermont, calling the tax deal “fiscally irresponsible” and “grossly unfair.”
+The letter says Mr. Obama “should not back down. Nor should we.”
+
+Mr. Biden’s visit with the House Democrats is likely to be as contentious as the one that he led with their Senate colleagues on Tuesday — if not more so.
+
+Despite the closed-door lunchtime meeting, Senate aides told The Times afterward that about 30 Democratic senators remained “firmly opposed” to the president’s negotiated deal after hearing from the vice president.
+
+In the House, Democratic lawmakers said Wednesday morning that the sense of disappointment with the president remained strong.
+
+“I don’t think it was preordained that if we had a deadlock, they would have won it,” said Representative Barney Frank, Democrat of Massachusetts, in an interview on MSNBC.
+“I’m not going to vote for it.
+I don’t feel that I should be coerced.”
+
+SUMMARY:
+
+The Obama administration is facing strong criticism from fellow Democrats over the tax deal with Congressional Republicans, with many feeling betrayed by the president's compromise. However, Larry Summers, the outgoing chairman of the National Economic Council, warned that failure to pass the package would significantly increase the risk of a double-dip recession. President Obama emphasized the importance of passing the deal, citing economists' upwardly revised forecasts for growth and the potential creation of 1.6 million jobs. The administration is pushing back against criticism, circulating endorsements from private-sector economic forecasters, liberal analysts, and Democratic officeholders. Despite this, many House Democrats remain strongly opposed to the deal, calling it "fiscally irresponsible" and "grossly unfair." The moral framing of the article suggests that the administration is prioritizing economic growth and job creation over the concerns of its liberal base, and that failure to pass the deal would have serious consequences for the economy.
+
+END OF SUMMARY.
+
+Example 3 (Political Ideology: Right):
+Here is the news article:
+
+The resurgent controversy over the Obama administration's initial story-line on the Benghazi attack underscores State Department concerns about the leadership's failure to act on documented warnings and security incidents.
+
+Draft "talking points" obtained by The Weekly Standard and ABC News depicted efforts by State Department spokeswoman Victoria Nuland in the days after the attack to strip out references to prior attacks in Benghazi.
+According to the excerpts, she argued that the administration should not give Congress ammunition to "beat up" on her department.
+
+During a press conference Monday, President Obama even acknowledged that the country now knows that "clearly (the staff in Benghazi) were not in a position where they were adequately protected."
+
+A review of now-public State Department records as well as a classified State Department cable, first reviewed and reported by Fox News, shows a steady stream of documented warnings to Washington from intelligence and State security officials on the ground in Libya that the Islamist threat was severe and growing.
+
+One of the most significant warnings was an August 2012 State Department classified cable, which has not been made public, that summarized an emergency meeting in Benghazi where the CIA briefed on the significant threat of terrorist activity.
+
+The cable, sent under Ambassador Chris Stevens' signature and marked SECRET, warned the office of Secretary of State Clinton that the CIA advised "ten Islamist militias and AQ training camps (were) within Benghazi."
+
+The cable also warned that the 17 February Brigade, the group charged with protecting the consulate, appeared to be compromised.
+It said "requests to provide a daily police presence have gone unanswered," adding there was also a "lack of host nation security support to the US mission."
+
+In addition to identifying the presence of Al Qaeda and Ansar al-Sharia in Benghazi, the groups ultimately blamed for the assault, a key section of the cable, which remains classified, seemed to foreshadow the attack itself.
+
+"RSO (Regional Security Officer) expressed concerns with the ability to defend Post in the event of a coordinated attack due to limited manpower, security measures, weapons capabilities, host nation support, and the overall size of the compound," it said.
+
+During congressional hearings in January, Clinton was asked whether she had seen the cable by Republican Rep. Michael McCaul.
+Clinton said she had no knowledge of the warning which former diplomatic security agents have told Fox News amounted to a "cry for help."
+
+"Congressman, that cable did not come to my attention," Clinton testified before the House Foreign Affairs committee.
+"I have made it very clear that the security cable did not come to my attention or above the assistant secretary level where the ARB (Accountability Review Board) placed responsibility where, as I think, Ambassador Pickering said the rubber hit the road."
+
+In February, Republican Sen. Lindsey Graham followed up on the classified cable.
+
+After the chairman of the Joint Chiefs of Staff confirmed he knew about the cable which summarized the August emergency meeting in Benghazi, Graham questioned why the military was read in when Clinton apparently was not.
+
+Gen. Martin Dempsey responded: "Well, I don't know that she didn't know about the cable."
+
+Graham said: "She said she didn't. Are you stunned that she didn't?"
+
+Dempsey said: "I would call myself surprised that she didn't."
+
+In addition to attacks in Benghazi on the British ambassador -- which forced the temporary closure of the U.K. operation -- the International Red Cross and United Nations, in the summer of 2012 the group Ansar al-Sharia was so well-established it held an annual conference in Benghazi to promote Islamic law.
+
+Records released by the House oversight committee, including a report from the regional security officer, also documented more than 200 cases of violence in Libya in the year leading up to the attack, specifically between June 2011 and July 2012.
+Another security review, on June 25, 2012, reported a spike in violence with "foreigners also increasingly targeted."
+
+While much has been made of the State Department's failure to respond to repeated security requests for extra help, a former diplomatic security agent and 20-year veteran of the department, who reviewed the publicly available documents on the condition of anonymity, told Fox News the multiple warnings present a compelling argument that State Department leadership was negligent.
+
+The State Department, in a document put out last week, noted that while an internal review found certain senior officials "demonstrated a lack of proactive leadership and management ability" in response to security concerns, there was no specific finding of misconduct.
+
+SUMMARY:
+
+The Obama administration's handling of the Benghazi attack has sparked controversy, with concerns over the State Department's failure to act on documented warnings and security incidents. Classified cables and records reveal a steady stream of warnings from intelligence and security officials on the ground in Libya, highlighting the severe and growing Islamist threat. A significant August 2012 cable warned of Al Qaeda and Ansar al-Sharia's presence in Benghazi, and foreshadowed the attack. Despite this, Secretary of State Clinton claimed she had no knowledge of the warning, which former diplomatic security agents deem a "cry for help." The State Department's internal review found senior officials demonstrated a "lack of proactive leadership and management ability" in response to security concerns, but no misconduct. The administration's failure to prioritize security and protect American lives is a grave moral failure, underscoring a lack of accountability and responsibility.
+
+END OF SUMMARY.
+
+Now, here is the target news article to summarize:
+Here is the news article:
+
+(CNN) – House Speaker John Boehner called on President Obama to release emails that he says show how the White House wanted to change the Benghazi attack "talking points." Secretary of State John Kerry, meanwhile, vowed Thursday to "leave no stone unturned" in looking into the matter and answering questions about the attack. At a press conference Thursday, Boehner said he wants the White House to unveil emails to the public that House committees saw privately in their Benghazi investigation. "The White House continues to claim it only made stylistic changes to talking points used by (U.S. Ambassador to the United Nations) Susan Rice, ignoring the fact that seniors White House officials directed the changes being made to those talking points," Boehner said. House Republican leaders last month released a report on the September 11, 2012 attack on the U.S. diplomatic compound, which left the U.S. ambassador to Libya and three other Americans dead. The report claimed White House and State Department personnel deliberately altered talking points put together by the intelligence community about what transpired in Libya to remove any references to extremist groups linked to al Qaeda. This was done, the report concludes, to avoid embarrassing the State Department for missing any early warnings. Days after the attack, Rice used the talking points on several Sunday morning news shows and said the attack originated from a protest outside of the compound. The intelligence community later said the violence was actually a terrorist attack. Obama administration officials previously acknowledged that they did alter the talking points in an effort to preserve classified information and avoid any impact on the FBI investigation of the attack. But the House GOP report indicated that House committees reviewed email traffic about those draft talking points and found no evidence that anyone within the administration raised any red flags about securing classified information. Boehner also called Thursday for the disclosure of an email from a top State Department official from the day after the attack. The email, Boehner said, refers to "Islamic terrorists" as carrying out the attack. "A senior State Department official emailed her superiors that the Libyan ambassador, she had told the Libyan ambassador, the attack was conducted by Islamic terrorists. The State Department would not allow our committees to keep copies of this email when it was reviewed," Boehner said. At Wednesday's House hearing on Benghazi, Republican Rep. Trey Gowdy of South Carolina read an excerpt from the email, sent from Beth Jones, the acting Assistant Secretary for Near Eastern Affairs at the State Department. "'I spoke to the Libyan ambassador and emphasized the importance of Libyan leaders continuing to make strong statements'," he read aloud, adding that the email was sent the day after Benghazi and several days before Rice's television appearance. "'When he said his government suspected that former Gadhafi regime elements carried out the attacks I told him that the group that conducted the attacks, Ansar al-Sharia, is affiliated with Islamic terrorists.' Let me say that again…she told him, the State Department on September 12th, days before our ambassador went on national television, is telling the ambassador to Libya the group that conducted the attacks Ansar al-Sharia is affiliated with Islamic terrorists." The State Department has maintained that they've been defining the violence as a terrorist attack since September 12. State Department officials were surprised to hear Rice describing it as a spontaneous attack that came from a demonstration. Speaking from Rome, Secretary Kerry, who assumed his position after the Benghazi attack, said he is determined to get answers to questions and put the issue "to bed." "And if there is any culpability in any area that is appropriate to be handled in some way with some discipline it will be appropriately handled," he said at a press conference. "I am confident that any recent, uh, recent evidence will be a component of that consideration. So let's wait until we get back to the United States and I get a chance to catch up to the full measure of what took place."
+
+The summary has to be returned after a "SUMMARY:" token and ending with a "END OF SUMMARY." token. The summary should be no longer than 200 words.

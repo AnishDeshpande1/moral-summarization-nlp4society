@@ -1,0 +1,117 @@
+You have to summarize the following text preserving the moral framing that the author gave to it, with particular focus on the specific moral foundations highlighted in the text.
+
+Please study the following examples of news articles and their summaries preserving the moral framing:
+
+Example 1 (Political Ideology: Left, Moral Foundations: Authority/Subversion, Care/Harm):
+Here is the news article:
+
+WASHINGTON ― President Donald Trump’s offer to Democrats over the weekend seeking to trade temporary protections for some immigrants in exchange for funding for a wall on the U.S.-Mexico border received positive coverage from some outlets, including being called a “compromise” and a move by Trump “toward the center.”
+
+But the latest details in the proposal, which Senate Republicans unveiled Monday in a bill they plan to vote on this week, make the offer appear less of a compromise and more of a wish list for immigration hard-liners like White House adviser Stephen Miller.
+
+Trump is offering a three-year extension for the Obama-era Deferred Action for Childhood Arrivals program, which protects from deportation hundreds of thousands of immigrants brought to the U.S. as kids.
+The offer would also give a three-year extension to 300,000 people from El Salvador, Haiti, Nicaragua and Honduras who are living in the U.S. under the temporary protected status program.
+
+Democrats rejected the offer before Trump even announced it on Saturday, however, maintaining that it didn’t go nearly far enough and that the president ought to reopen the government before any negotiations over the border proceed.
+
+But the GOP bill incorporating his offer would also gut existing asylum laws for children and trafficking victims from Central America, ban asylum for minors who present themselves at ports of entry, gut the concept of temporary protected status for future cases and expand immigration detention ― all measures making it more likely to be dead on arrival in the Senate.
+
+“Given the poison pills stuffed into a proposal that was supposed to entice Democrats we can now say the Trump ‘offer’ isn’t about getting to a deal but about shifting blame.
+So obvious. So predictable. So pathetic,” Frank Sharry, the executive director of the immigration advocacy group America’s Voice, tweeted on Tuesday.
+
+The bill would ban asylum for Central American minors, including those who arrive at the border with their parents, unless the minors apply for asylum in their home country.
+It would also cap the number of Central American minors who are allowed to apply for asylum each year at 50,000 and limit the number of asylum applications that could be granted per year to 15,000.
+
+The administration has for months tried to reduce the number of people seeking asylum in the U.S. as part of a broader effort to stem the flow of Central American migrants crossing the border from Mexico.
+Trump’s administrative attempts to curtail the asylum process have faced legal challenges in two federal courts, however, prompting this week’s legislative fix.
+
+“This bill includes the most extreme changes on asylum that I’ve ever seen,” Kerri Talbot, the director of federal advocacy at the group Immigration Hub, said on a press call on Tuesday.
+
+Under the GOP bill, minors who apply for asylum would face much stiffer consequences for filing an application found to be frivolous ― including permanent ineligibility for future protections.
+
+The bill’s changes to asylum law alarmed immigration activists online, as well some on the right, including attorney and conservative writer Gabriel Malor.
+
+Trump’s efforts to win over Democratic support on the bill ― which will require at least 60 votes to pass in the Senate ― hit even more trouble on Tuesday after the Supreme Court once again did not act on the administration’s effort to end DACA.
+The move essentially left protections for Dreamers in place for at least the next several months ― giving Democrats less incentive to agree to Trump’s offer of protections to DACA recipients.
+
+SUMMARY:
+
+President Trump's recent offer to Democrats, touted as a "compromise," has been exposed as a thinly veiled attempt to push a hard-line immigration agenda. The proposal, which would provide temporary protections for some immigrants in exchange for funding a border wall, has been criticized for its draconian measures. These include gutting existing asylum laws, banning asylum for Central American minors, and expanding immigration detention. The bill would also punish minors who file frivolous asylum applications with permanent ineligibility for future protections. Immigration activists and even some conservatives have denounced the proposal as an attempt to shift blame rather than genuinely negotiate. The Supreme Court's decision to leave DACA protections in place has further weakened Trump's bargaining power, making it clear that his "offer" is little more than a cynical ploy to appease his base.
+
+END OF SUMMARY.
+
+Example 2 (Political Ideology: Center, Moral Foundations: Care/Harm):
+Here is the news article:
+
+WASHINGTON — It is a lesson politicians never seem to learn from others’ mistakes: The microphone is always on.
+
+The latest candidate to learn the hard way was Representative Bruce Braley, an Iowa Democrat running for Senate this year.
+Mr. Braley apologized to Senator Charles E. Grassley, Republican of Iowa, and “anyone I may have offended” after video emerged of him warning that “a farmer from Iowa who never went to law school, never practiced law” could become chairman of the Judiciary Committee.
+
+Mr. Braley is not running against Mr. Grassley, who plans to seek a seventh term in 2016.
+But as the ranking Republican on the Judiciary Committee, Mr. Grassley could assume the chairmanship if his party takes control of the Senate this year.
+Mr. Braley, speaking at a January fund-raiser in Corpus Christi, Tex., was explaining why he should go to the Senate instead of his Republican opponent.
+
+America Rising, a conservative political action committee that has vowed to use videos and opposition research to attack Democratic candidates, posted the footage on YouTube on Tuesday.
+Other Republicans quickly criticized Mr. Braley.
+
+Though their numbers are declining, farmers are still a powerful force in the Iowa, which ranks second in the country in total farm sales.
+Mr. Braley’s apology noted his family’s history with Iowa agriculture, including his own stint “doing farm jobs and working a grain elevator.”
+
+In another appeal to Iowa farmers, Joni Ernst, a candidate in the Republican Senate primary on June 3, announced in an ad that she grew up “castrating hogs on an Iowa farm.”
+Ms. Ernst said that qualified her to “cut pork” in Washington.
+
+SUMMARY:
+
+In a cautionary tale of the dangers of unguarded comments, Representative Bruce Braley, an Iowa Democrat running for Senate, was forced to apologize after a video emerged of him making disparaging remarks about farmers. At a January fundraiser, Braley warned that a farmer from Iowa without a law degree could become chairman of the Judiciary Committee, implying that such a person would be unqualified for the role. The video was posted online by a conservative political action committee, and Braley's comments were quickly criticized by Republicans. Braley apologized, citing his own family's history with Iowa agriculture, but the incident serves as a reminder that politicians should always assume the microphone is on. The episode also highlights the importance of appealing to Iowa's powerful farming community, as evidenced by Republican candidate Joni Ernst's ad touting her farm upbringing as qualification to "cut pork" in Washington. 
+
+END OF SUMMARY.
+
+Example 3 (Political Ideology: Right, Moral Foundations: Fairness/Cheating, Loyalty/Betrayal):
+Here is the news article:
+
+Glenn Beck Rips Progressivism at CPAC
+
+Fox News host Glenn Beck, armed with his trademark chalkboard, blamed "progressivism" for America's problems Saturday in his keynote speech that brought the annual Conservative Political Action Conference to a close.
+
+The chalkboard, a prop that he uses frequently on his top-rated show, brought the audience to its feet.
+Beck wrote "Progressivism" on it to underscore his belief in what America is suffering from.
+
+When Beck asked what America is suffering from, someone shouted "President Obama," though Beck, an outspoken critic of the president, said it's "not that simple."
+
+Beck rejected the notion that the Republican Party should expand its tent to include progressives.
+
+"What is this? A circus?" he said, drawing laughter.
+"America is not a clown show.
+America is an idea that sets people free."
+
+Opening up about his troubled past, Beck told the crowd, "People need to understand that life is not fair.
+The bad guy sometimes wins."
+
+The speech capped three days of panel discussions and high-profile speakers, including numerous politicians mentioned as contenders for the 2012 Republican presidential nomination.
+But for a lot of the CPAC attendees, Beck was the reason they came, as he is seen as a leader in the new conservative movement.
+
+The speech comes after a year in which Beck's growing popularity as a Fox News host coincided with the rise of the Tea Party Movement and populist rage directed at Washington.
+Beck also launched the 9/12 Project, which sets forth nine values and 12 principles that he believes the country was founded upon.
+The project inspired a major march in Washington in September.
+
+"This is how is America should be," said Cynthia Burgiss, 22, a student at the University of Dayton in Ohio who attended the 9/12 march in D.C. this year.
+"People of every race, political affiliation, religion came together for different reasons."
+
+She was at CPAC to see Beck and called him a "relatable ... everyday guy."
+
+"None of this would have happened without Glenn," she said.
+
+SUMMARY:
+
+Glenn Beck, a Fox News host, delivered a keynote speech at the Conservative Political Action Conference (CPAC), blaming "progressivism" for America's problems. Beck used his trademark chalkboard to emphasize his point, writing "Progressivism" on it to illustrate the root of America's suffering. He rejected the idea of the Republican Party expanding to include progressives, saying "America is not a clown show. America is an idea that sets people free." Beck also opened up about his troubled past, stating that "life is not fair" and "the bad guy sometimes wins." The speech capped off three days of panel discussions and high-profile speakers, with many attendees attending specifically to see Beck, who is seen as a leader in the new conservative movement. Beck's popularity has coincided with the rise of the Tea Party Movement and populist rage directed at Washington. His 9/12 Project, which promotes nine values and 12 principles, inspired a major march in Washington in September. END OF SUMMARY.
+
+Now, here is the target news article to summarize:
+Here is the news article:
+
+Canadarm2 lays track for space railway SubHead:  'A unique and highly complex robot working in an extremely hostile environment': Improved mobility CAPE CANAVERAL, Fla. - The first railway in outer space was ready to roll yesterday after astronauts from the space shuttle Atlantis prepped it for its inaugural run. The rail car, installed outside the International Space Station on the crew's first spacewalk, will have a top speed of just three centimetres per second, but ground controllers may not open up the throttle all the way in their first test today anyway. The rail car is part of the 13-metre-long S-0 truss, the centerpiece of what is to be a 120-metre girder running the length of the space station. The completed girder will support thousands of square metres of solar panels generating power for use throughout the station. In a spacewalk lasting more than six hours, astronauts Steve Smith and Rex Walheim, the same team that mounted the new truss segment on to the station last Thursday, released launch restraints on the rail car, which rode to space in the shuttle's cargo bay. NASA said the Mobile Transporter, as the rail car is officially known, was ready for its first test today. "As far as speed is concerned, it's probably going to be in the fractions of an inch velocity -- on the order of a tenth of an inch per second," said Ben Sellari, the launch package manager at Mission Control. The small trolley is designed to roll the station's Canadarm2 robotic arm from one construction site to another as work progresses on the station over the next several years. Captain Marc Garneau, president of the Canadian Space Agency, said Canadarm2 has so far performed flawlessly in its pivotal role installing the truss segment. The massive robotic arm, Canada's contribution to the multi-national space station, lifted the truss segment out and away from the shuttle's cargo bay and attached it on the station's laboratory module. The arm was then used for the first time to move the spacewalking astronauts to different work sites around the newly installed truss. Teams of engineers from the CSA and MD Robotics, the Brampton-based company that built the arm, were monitoring its work closely from the ground. An anomaly was detected on one of its joints several weeks ago, but the Canadian engineers successfully bypassed the problem area. "Canadarm2 is a unique and highly complex robot working in an extremely hostile environment," said Capt. Garneau. "Problems are bound to occur and are part of the normal course of space activities ... [but] Canadarm2 operations went smoothly and flawlessly yesterday." The 18-metre arm, which is powerful enough to lift entire station modules, was also rewired so it could draw power through the S-0 truss. Eight more truss segments will be added on future missions. And a handcar will be added to the rail system so astronauts can move more easily along the truss, which will be longer than a football field.
+
+For this target article, the author's moral framing heavily relies on the following Moral Foundation dimensions: General Morality.
+Please pay special attention to preserving the moral framing related to these specific dimensions (General Morality) in your summary.
+
+The summary has to be returned after a "SUMMARY:" token and ending with a "END OF SUMMARY." token. The summary should be no longer than 200 words.

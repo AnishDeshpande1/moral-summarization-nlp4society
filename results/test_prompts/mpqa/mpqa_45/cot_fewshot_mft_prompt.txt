@@ -1,0 +1,188 @@
+You have to summarize the following text preserving the moral framing that the author gave to it, with particular focus on the specific moral foundations highlighted in the text.
+
+Please study the following examples of news articles, their moral word extraction, and summaries preserving the moral framing:
+
+Example 1 (Political Ideology: Left, Moral Foundations: Fairness/Cheating):
+Here is the news article:
+
+President Donald Trump used Twitter to tear into social media companies Saturday morning, claiming they were “totally discriminating against Republican/Conservative voices.”
+
+But he does have a solution. Sort of.
+And it involves both sides.
+
+Trump tweeted that “too many voices are being destroyed, some good and some bad, and that cannot be allowed to happen.” So, he added: “Let everybody participate, good & bad, and we will all just have to figure it out!”
+
+Trump accused social media giants of “closing down the opinions of many people on the RIGHT, while at the same time doing nothing to others.”
+
+“Censorship is a very dangerous thing & impossible to police,” he added, before embarking on a now familiar rant about “fake news” CNN and MSNBC — which he admitted to sometimes watching, but “just with a grain of salt.”
+
+Trump did not reference any person in particular in his tirade against the tech companies, although a host of them have in recent weeks banned conspiracy theorist Alex Jones and his website Infowars from their platforms.
+
+STEP 1:
+* discriminating
+* destroyed
+* bad
+* dangerous
+* fake
+
+SUMMARY:
+President Donald Trump took to Twitter to accuse social media companies of "totally discriminating" against Republican and Conservative voices. He claimed that "too many voices are being destroyed, some good and some bad," and that censorship is a "very dangerous thing" that is "impossible to police." Trump's solution is to "let everybody participate, good & bad, and we will all just have to figure it out!" He also ranted against "fake news" outlets CNN and MSNBC, which he admits to watching "with a grain of salt." The tweets come after several social media companies banned conspiracy theorist Alex Jones and his website Infowars from their platforms. Trump's comments imply that social media companies are unfairly silencing certain voices, and that this "censorship" is a threat to free expression. END OF SUMMARY.
+
+Example 2 (Political Ideology: Center, Moral Foundations: Authority/Subversion, Fairness/Cheating):
+Here is the news article:
+
+WASHINGTON — Susan E. Rice, President Obama’s national security adviser, sharply criticized Prime Minister Benjamin Netanyahu of Israel on Tuesday over his plans to address a joint meeting of Congress next week, saying his actions had hurt his nation’s relationship with the United States.
+
+Mr. Netanyahu’s decision to travel to Washington to deliver the speech two weeks before the Israeli elections has “injected a degree of partisanship, which is not only unfortunate, I think it’s destructive of the fabric of the relationship,” Ms. Rice said in an interview on the PBS television program “Charlie Rose.”
+
+Her comments marked the strongest public rebuke to date by the Obama administration since Mr. Netanyahu accepted an invitation from Speaker John A. Boehner to make his case to Congress against a nuclear deal with Iran, which is a priority of Mr. Obama’s.
+It is also the frankest acknowledgment yet by a top American official of the degree to which the controversy has damaged United States-Israeli relations.
+
+The speech, scheduled for March 3, was arranged by Mr. Boehner and the Israeli ambassador without consulting the White House — a move that Mr. Obama’s team has called a breach of protocol.
+
+The president has said he will not meet with Mr. Netanyahu during his visit to avoid any appearance that he is trying to influence the Israeli elections that are scheduled for mid-March.
+
+The episode is a low point in the tense relationship between Mr. Obama and Mr. Netanyahu and has touched off weeks of mostly anonymous sniping and finger-pointing.
+
+Top administration officials have hinted more openly of their displeasure in recent days.
+
+The White House on Wednesday said that Mr. Obama agreed with Ms. Rice’s assessment, saying he had raised the same concerns several times.
+
+Her comments, said Josh Earnest, the White House press secretary, are “entirely consistent with what the president has already said.”
+
+“Allowing this relationship to be subjected to party politics does weaken the relationship,” Mr. Earnest said.
+
+Mr. Earnest said he did not know whether Mr. Obama and Ms. Rice had talked in advance of the interview about what she would say about Mr. Netanyahu’s visit.
+
+Vice President Joseph R. Biden Jr., who as president of the Senate would be expected to attend, has said he will be traveling abroad.
+Secretary of State John Kerry said Tuesday that he would be in Switzerland negotiating with the Iranians.
+The White House has also not committed to sending a representative next week to the American Israel Public Affairs Committee’s conference, where Mr. Netanyahu is also scheduled to appear.
+
+The Israeli prime minister himself has turned down a request by Democratic senators for a private meeting, Senator Richard J. Durbin, Democrat of Illinois, said Tuesday.
+
+“We offered the prime minister an opportunity to balance the politically divisive invitation from Speaker Boehner with a private meeting with Democrats who are committed to keeping the bipartisan support of Israel strong,” Mr. Durbin said in a statement.
+“His refusal to meet is disappointing to those of us who have stood by Israel for decades.”
+
+In a letter released by Mr. Durbin’s office, Mr. Netanyahu said such a meeting “could compound the misperception of partisanship regarding my upcoming visit.”
+
+Mr. Netanyahu said Tuesday that he was making the trip because it was his obligation to “do everything I can to prevent” a nuclear agreement with Iran.
+
+“Therefore, I will go to Washington to address the American Congress, because the American Congress is likely to be the final brake before the agreement between the major powers and Iran,” he said as he toured a military base in southern Israel.
+
+Ms. Rice demurred when asked whether she believed Mr. Netanyahu was making the speech to gain political favor.
+
+“I’m not going to ascribe motives to the prime minister,” she told Mr. Rose.
+“The point is, we want the relationship between the United States and Israel to be unquestionably strong, immutable, regardless of political seasons in either country, regardless of which party may be in charge in either country.
+
+“We’ve worked very hard to have that,” she said, “and we will work very hard to maintain that.”
+
+STEP 1:
+* unfortunate
+* destructive
+* partisanship
+* breach
+* displeasure
+* sniping
+* finger-pointing
+* weaken
+* disappointing
+* obligation
+
+SUMMARY:
+National Security Adviser Susan E. Rice sharply criticized Israeli Prime Minister Benjamin Netanyahu's plans to address Congress, saying his actions have "injected a degree of partisanship" that is "unfortunate" and "destructive of the fabric of the relationship" between the US and Israel. The controversy has damaged US-Israeli relations, with the White House calling the speech a "breach of protocol". Rice's comments marked the strongest public rebuke to date by the Obama administration. The episode is a "low point" in the tense relationship between Obama and Netanyahu, with top administration officials expressing their "displeasure" and hinting at the "sniping" and "finger-pointing" that has ensued. The White House has emphasized the importance of maintaining a strong and "immutable" relationship between the two countries, regardless of political seasons. END OF SUMMARY.
+
+Example 3 (Political Ideology: Right, Moral Foundations: Authority/Subversion, Care/Harm, Fairness/Cheating):
+Here is the news article:
+
+President Obama on Saturday urged Americans to remain optimistic about race relations in the immediate aftermath of two black males being fatally shot by police officers, then a gunman apparently retaliating by killing five Dallas law-enforcement officials, saying, “We cannot let the actions of a few define all of us.”
+
+The president spoke two days after a black male killed the five officers, amid several days of protests across the country about a new wave of black males dying at the hands of police.
+
+Still, Obama insisted that race relations in the United States have not reached a new low nor have regressed to the point of 1960’s rioting, as some have argued.
+
+“That’s just not true,” said the president, speaking in Warsaw, Poland, at the end of his final NATO summit.
+
+Obama also said that he has revived the task force formed after a white police officer fatally shot unarmed black teen Michael Brown two years ago in Ferguson, Mo., and that he’ll soon bring members to the White House.
+(The shooting resulted in weeks of violent and destructive protests.)
+
+The task force will include police officers, community and civil rights activists and others who will talk about next steps.
+
+"So as tough, as hard, as depressing as the loss of life was this week, we've got a foundation to build on," said the president, who argued that violent crime in the U.S. has decreased over the “past five, 10, 15 years.”
+
+In a wide-ranging press conference that included such topics as Brexit, ISIS and NATO, Obama also renewed his commitment to stopping gun violence.
+
+“I am going to keep on talking about the fact that we cannot eliminate all racial tension overnight, but we can make it harder” for people to carry out their anger with weapons, he said.
+
+Obama called the Dallas sniper, Micah Johnson, a black Army veteran, “a demented individual” just like Muslim Omar Mateen, who fatally shot 49 people and wounded 53 others last month inside a gay nightclub in Orlando, Fla.
+
+“They don’t speak for all of us,” said the president, who mentioned neither by name.
+“That’s not who we are.”
+
+Officials have said that Johnson, before being killed in a police standoff, said he "wanted to kill white people, especially white officers.”
+
+Obama declined to answer a reporter’s question about whether the Dallas sniper attack was a hate crime, saying, “It’s very hard to interpret the motives of this shooter, as we have seen in a host of mass shootings.”
+
+The president spoke sympathetically of police officers in gun-filled communities who have "very little margin of error" when deciding how to engage with people on the street who may well be armed, whether they mean harm or not.
+"Police have a really difficult time in communities where they know guns are everywhere," he said.
+
+"If you care about the safety of our police officers, then you can't set aside the gun issue and pretend it's irrelevant," he said.
+
+Citing laws allowing the carrying of guns in Texas, he said that even some of the Dallas protesters who staged a peaceful rally before the sniper attack were armed.
+He also cited the presence of an apparently legally owned gun in the car where motorist Philando Castile was shot dead during a traffic stop in suburban St. Paul, Minnesota.
+
+Obama also tried to calm public anxiety about personal safety, saying violent crime is actually down in the U.S.
+
+Reflecting on the prospect of serving two full terms leading a nation at war, Obama said it's important to recognize that U.S. military operations today are fundamentally different to when he came into office.
+
+He said U.S. military forces are not involved in active combat, but train and assist forces in nations such as Iraq and Afghanistan.
+He said an exception to that rule is direct attacks against the Islamic State group.
+
+Obama acknowledged that confronting what he describes as "non-state actors," such as the Islamic State group is something the United States will have to grapple with for years to come.
+
+He said his goal has been to partner with countries so that they can eliminate terrorist threats, but as seen in Afghanistan, that takes time.
+
+Obama said the United Kingdom and the European Union must make sure that Britain's exit from the 28-nation bloc is as sensible and orderly as possible.
+
+He said he has to assume that Britain's decision "is going to stick," but how the process unfolds is up to both sides, and it's important that neither one harden its position in a way that damages economies at home or worldwide.
+
+The U.S., he said, will continue to be close friends and commercial partners with both.
+He said: "In good times and in bad, Europe can count on the United States -- always."
+
+Obama said he would not call himself a big booster of globalization, adding it carries a danger of increased inequality in which workers may have less leverage.
+But, he said, it's here to stay.
+
+STEP 1:
+* optimistic
+* depressing
+* tough
+* hard
+* demented
+* hate
+* sympathetically
+* difficult
+* care
+* safety
+* irrelevant
+* calm
+* anxious
+* violent
+* fundamentally
+* different
+* sensible
+* orderly
+* damaging
+* bad
+* good
+* booster
+* danger
+
+SUMMARY:
+President Obama urged Americans to remain optimistic about race relations despite recent tragic events, emphasizing that "we cannot let the actions of a few define all of us." He acknowledged the tough and depressing loss of life, but insisted that race relations have not regressed to the 1960s. Obama revived a task force to discuss next steps, including police officers, community, and civil rights activists. He argued that violent crime has decreased over the past 15 years and that gun violence can be addressed. The president sympathetically recognized the difficult decisions police officers face in gun-filled communities. He also called for a sensible and orderly Brexit process, warning against damaging economies. Throughout, Obama emphasized the importance of care, safety, and calm in the face of anxiety and violence. END OF SUMMARY.
+
+Now, here is the target news article to summarize:
+Here is the news article:
+
+5:14pm Sat May 4th, 2002 -- Thirty-two non-governmental organisations [NGOs] today said they have suspended all engagements with the Malaysian Human Rights Commission or Suhakam for 100 days since April 24 - when the latest appointments to the commission took effect. Speaking on behalf of the NGOs , human rights organisation, Hakam president Ramdas Tikamdas said the boycott was to protest the government's poor response to Suhakam's numerous recommendations thus far. "The NGOs note with deep concern that the government has largely ignored Suhakam's maiden report and its freedom of assembly report. "Whereas the Kesas report, submitted after a public inquiry, earned the disdain and wrath of the Prime Minister (Dr Mahathir Mohamad) who summarily dismissed it as a product of `western biased'," he said during a press conference at the Selangor Chinese Assembly Hall in Kuala Lumpur. The Kesas report irked Mahathir after it found the police guilty of using excessive force during a mass anti-government gathering along the Kesas highway on Nov 5, 2000. The NGOs stressed the government has also failed to respect or recognise Suhakam's recommendations and also lamented the decline of human rights in Malaysia. Ramdas said the government's failure to adhere to the commission's recommendations creates the impression that Suhakam is nothing but "a mere public relations tool". "Over the last two years, the state of human rights in Malaysia has deteriorated with increasing numbers of people detained without trial under the Internal Security Act, with blanket police ban on assemblies, with restrictions to the right of free speech and expression and with further restrictive amendments to the election laws, all of which have further denied our democratic space," he added. The NGOs also noted that the government has yet to show its commitment and respect for universal human rights principles by ratifying the international instruments of human rights, namely the International Covenant on Civil and Political Rights, the International Covenant on Economic, Social and Cultural Rights and the Covenant Against Torture. Controversial appointments Meanwhile, another concern raised was Suhakam's independence following the appointment of former attorney-general Abu Talib Othman as its new chairperson and the decision not to renew the appointments of three commissioners, Anuar Zainal Abidin, Prof Mehrun Siraj and Dr Salleh Mohd Nor. Ramdas said it was perceived that Anuar and Mehrun, instrumental behind the scathing Kesas report, were dropped for performing their duties without fear or favour. "The fact that three commissioners have now been axed is a clear signal to other commissioners that their tenure is dependent on whether or not they have pleased the executive. "This clearly undermines the independence of the Commission and will erode public's confidence on it." On the other hand, the NGOs said there is nothing in the public records which shows that Abu Talib was committed to protecting civil liberties and advancing human rights. Claiming that there was "nothing personal", the NGOs said their concern was based on his defense of the 1987 'Ops Lalang' where more than 100 people were detained under the ISA [Internal Security Act]. They added that Abu Talib, during his tenure as AG [attorney general], was also instrumental for the impeachment of then Lord President Salleh Abas and five Supreme Court judges in 1988. The NGOs also expressed concern over the appointment of five new commissioners which has led to Suhakam being made up mostly of retired civil servants. The new commissioners are retired Treasury deputy secretary-general Ramon Navaratnam, permanent representative to the United Nations Hasmy Agam, Institute of Islamic Understanding Malaysia (Ikim) director-general Dr Abdul Monir Yaacob, retired Education director-general Asiah Abu Samah and retired National Population and Family Development Board director-general Dr Raj Abdul Karim. "Our concern is whether persons used to the role of policy implementors can objectively assess and critique executive policies which impinge on human rights," said Ramdas. Elaborating further on the boycott, Ramdas said the NGOs will not hold any dialogues, send any memorandums or complaints to Suhakam. "In the meantime, we will monitor the commissioners in the discharge of their statutory duties in respect of the pending complaints and inquires," he said. "We will also note to what extent Suhakam will monitor the government's compliance with previous recommendations on various human rights issues contained in its maiden report to the Parliament as well as its other reports," he added. Ramdas said Suhakam's performance will be judged not on the number of statements issued or reports produced but on the improvement of human rights in Malaysia. "When the bill (Suhakam Act ) was tabled in the parliament, our Foreign Affairs Minister (Syed Hamid Albar) promised that this would be a positive development in protecting and promoting human rights in Malaysia. "We are now looking at Suhakam as an institution to fulfill this promise," he stressed. According to Ramdas the NGOs will meet again after the 100-day period to review their position. Apart from Hakam, other notable NGOs involved in the boycott are the Malaysian Trades Union Congress (MTUC), Suaram, Amesty International's Malaysian chapter, Jamaah Islah Malaysia (Jim) and Sisters in Islam (SIS). Boycott unfair In a related development, Suhakam commissioner Prof Hamdan Adnan told malaysiakini that he was disappointed with the boycott which he described as "unfair". Instead of resorting to such measures, the commissioner said the NGOs should work with Suhakam for the advancement of human rights in this country. He added the boycott could create the impression that the NGOs were acting out of self interest and are not honest about championing human rights. "This action shows that the NGOs themselves do not acknowledge Suhakam and do not want to work with us," said Hamdan.
+
+(1) First, you identify all the single words that are morally framed, focusing especially on the dimensions of Authority/Subversion, Care/Harm, Fairness/Cheating, Loyalty/Betrayal, Sanctity/Degradation. Identify this step as "STEP 1:" and report each word in a new line starting with *
+(2) Finally, you write a summary of the news article. Please preserve as many morally framed words as possible, particularly focusing on the moral dimensions of Authority/Subversion, Care/Harm, Fairness/Cheating, Loyalty/Betrayal, Sanctity/Degradation in your summary. The summary has to be returned after a "SUMMARY:" token and ending with a "END OF SUMMARY." token. The summary should be no longer than 200 words.

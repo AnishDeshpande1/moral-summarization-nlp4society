@@ -1,0 +1,173 @@
+You have to summarize the following text preserving the moral framing that the author gave to it, with particular focus on the specific moral foundations highlighted in the text.
+
+Please study the following examples of news articles, their moral word extraction, and summaries preserving the moral framing:
+
+Example 1 (Political Ideology: Left, Moral Foundations: Authority/Subversion, Fairness/Cheating):
+Here is the news article:
+
+Controversial Arizona Sheriff Joe Arpaio announced on Tuesday he will officially endorse Texas Governor Rick Perry for the Republican presidential nomination, which could give Perry something of a credibility boost on immigration and border issues.
+
+Arpaio is a hardliner on immigration, leading a push in Maricopa County for more enforcement.
+He is famous for pushing worksite raids and creating a "Tent City," a military-style holding ground for inmates, now in its eighteenth year.
+
+His endorsement of Perry comes after the candidate was criticized for his immigration platform, which rests on the idea that deportation of all 11 million undocumented immigrants in the country is impractical and unlikely.
+Perry also opposes a full border fence, although he calls for more enforcement along the southwest border with Mexico.
+
+"The federal government has failed on border crime and border enforcement, and no candidate for president has done more to secure the border than Governor Rick Perry," Arpaio said in a statement.
+"I have been watching Governor Perry and Texas closely and know his border surge operations with state, local and federal law enforcement officials have helped shut down the illegal trafficking of weapons, drugs and people.
+I'm endorsing Rick Perry because we need a tough-on-crime president who will champion and fund full-time border security operations from Brownsville to San Diego.
+Governor Perry has a superior border security record and plan to make our border and our nation safer."
+
+Perry said in a statement that if elected president, he would "secure the border within a year."
+As Texas governor, he directed funds to enforcement along the border and requested more National Guard troops from President Barack Obama.
+
+"Sheriff Arpaio knows the struggle border states face as Washington politicians and bureaucrats fail time and again to properly secure our nation's southern boundary with Mexico," Perry said in a statement.
+"I am honored to have Sheriff Arpaio's support for my presidential campaign and our shared goals of fighting border crime with more personnel, border fencing and surveillance.
+A secure border is vital to protecting America's national security, public safety and jobs.
+As president, I will secure the border within a year putting thousands more federal boots on the ground, strategic fencing and aerial resources to fight border crime and make our states and nation safer."
+
+Arpaio endorsed Mitt Romney in 2008, choosing him over eventual nominee and fellow Arizonan John McCain.
+He held a joint press conference with Herman Cain in October after the two met to discuss immigration enforcement.
+
+STEP 1:
+* tough
+* failed
+* superior
+* secure
+* vital
+* fighting
+* safer
+
+SUMMARY:
+Controversial Arizona Sheriff Joe Arpaio has endorsed Texas Governor Rick Perry for the Republican presidential nomination, citing Perry's "superior border security record and plan" to make the nation "safer". Arpaio, a hardliner on immigration, praises Perry's efforts to "secure the border" and "fight border crime" with increased personnel, fencing, and surveillance. Perry's plan aims to "secure the border within a year", which Arpaio believes is vital to protecting America's national security, public safety, and jobs. The endorsement could boost Perry's credibility on immigration and border issues, despite criticism for his stance on deporting undocumented immigrants. Arpaio's support is significant, given his reputation for being "tough-on-crime" and his experience in leading a push for more enforcement in Maricopa County. END OF SUMMARY.
+
+Example 2 (Political Ideology: Center, Moral Foundations: Care/Harm, Fairness/Cheating):
+Here is the news article:
+
+Report Sees Guns as Path to Safety in Schools
+
+WASHINGTON — With the Senate set to debate gun control this month, a National Rifle Association task force released a 225-page report on Tuesday that called for armed police officers, security guards or staff members in every American school, and urged states to loosen gun restrictions to allow trained teachers and administrators to carry weapons.
+
+Asa Hutchinson, a former Republican congressman from Arkansas who led the task force, unveiled the report at a packed news conference with unusually heavy security, including a bomb-sniffing yellow Labrador retriever.
+A dozen officers in plain clothes and uniforms stood watch as he spoke; one warned photographers to “remain stationary” during the event.
+
+Among the study’s central conclusions is that “the presence of armed security personnel adds a layer of security and diminishes response time” in a shooting, Mr. Hutchinson said.
+He cited a 1997 Mississippi case in which an assistant principal ran to his truck to retrieve a .45-caliber semiautomatic pistol and subdued a gunman who had killed two students.
+
+The recommendations — which also included expanding the police presence in schools — drew immediate criticism from gun control advocates and many Democrats, who have been fighting to tighten gun restrictions after the massacre at Sandy Hook Elementary School in Newtown, Conn., in December.
+
+“Arming the teacher is merely a response to the last tragedy,” said Representative Mike Thompson, a California Democrat who is chairman of a House task force on gun violence.
+“The one before that was in a shopping mall in Oregon, and the one before that was in a movie theater in Colorado.
+I don’t think the proper response is to arm all the projectionists in the movie theaters or all the vendors in the mall.”
+
+After the Newtown shooting, Wayne LaPierre, the rifle association’s executive director, announced that it would devise a plan to put armed guards in every school.
+Technically, Mr. Hutchison’s task force is independent of the rifle association, even though it paid for the study, and Mr. LaPierre was not present on Tuesday.
+But critics see no distinction between the two.
+
+Marian Wright Edelman, president of the Children’s Defense Fund, an advocacy group here, criticized the study as “nothing more than a continuation of the N.R.A.’s attempts to prey on America’s fears, saturate our schools with more guns and turn them into armed fortresses.”
+
+But the report did get support from at least one Newtown parent: Mark Mattioli, whose 6-year-old son, James, was killed.
+
+“I think politics needs to be set aside here, and I hope this doesn’t lead to name-calling,” said Mr. Mattioli, who joined Mr. Hutchinson at the news conference.
+“This is a recommendation for solutions, real solutions that will make our kids safer.
+That’s what we need.”
+
+At least one state, Indiana, is considering the idea of armed officers at schools.
+On Tuesday, a proposal that would require public and charter schools to have an armed “protection officer” on school property during class hours passed a State House committee.
+
+The task force panel called on the Departments of Homeland Security, Education and Justice to coordinate school safety efforts and provide grant money for schools to assess their ability to prevent and respond to attacks.
+It recommended that officers or employees who are armed take a 40- to 60-hour training course to be developed by the rifle association based on a model the task force has designed.
+
+The group also called on states to require schools to develop security plans.
+
+But how and whether the task force recommendations will be put into effect — and the cost — was unclear.
+
+The timing of Tuesday’s announcement was not a coincidence: Congress will wrap up its spring recess after this week and is expected to consider gun legislation after lawmakers return.
+President Obama has called for tough new controls on gun ownership, but the prospects for such legislation are murky — a testimony to the rifle association’s prowess as a lobbying force.
+
+A plan to revive and revamp a ban on assault weapons, which expired in 2004, is almost certain to be defeated.
+Mr. Obama is pushing for a measure that would impose mandatory background checks for gun buyers, and the Senator Harry Reid, Democrat of Nevada, the majority leader, has promised to present a bill that would expand background checks to the floor for a vote.
+
+STEP 1:
+* safety
+* security
+* tragedy
+* fear
+* prey
+* saturate
+* armed
+* fortress
+* solutions
+* safer
+* politics
+
+SUMMARY:
+A National Rifle Association task force has released a report recommending that armed police officers, security guards, or staff members be present in every American school to ensure "safety" and "security". The report suggests that states loosen gun restrictions to allow trained teachers and administrators to carry weapons, citing a 1997 Mississippi case where an assistant principal subdued a gunman. Critics argue that this approach is a misguided response to "tragedy" and would lead to schools becoming "armed fortresses". Supporters, including a Newtown parent who lost his son, see this as a necessary step to make schools "safer". The report's recommendations have sparked controversy, with some accusing the NRA of trying to "prey" on America's "fears". The debate comes as Congress prepares to consider gun control legislation. END OF SUMMARY.
+
+Example 3 (Political Ideology: Right, Moral Foundations: Care/Harm, Fairness/Cheating):
+Here is the news article:
+
+Support for gun rights is higher than it’s been in decades, according to the latest data from the Pew Research Center that signals a stunning turnaround in how Americans feel about the issue just two years after the Newtown school shooting.
+
+Pew found that 52 percent of Americans say Second Amendment rights are more important than gun control — up 7 percentage points from just after the December 2012 Sandy Hook Elementary School shooting that left 20 schoolchildren and six faculty dead.
+
+That’s the highest approval rating in two decades, and it’s being driven in part by changing attitudes among black Americans, who are increasingly likely to view guns as good for public safety.
+
+Pew found 54 percent of blacks now say firearms protect people from being victims of crimes, compared to 41 percent who say they are a public safety risk.
+Just two years ago, only 29 percent of blacks said guns were a public safety boon.
+
+“Over the past two years, blacks’ views on this measure have changed dramatically,” Pew researchers said.
+
+The changes are all the more stunning given the direction the debate appeared to be going two years ago, when 20-year-old gunman Adam Lanza killed his mother, then drove to the elementary school where he fatally shot 26 people, then turned the gun on himself to commit suicide.
+
+President Obama called for major new restrictions on gun rights in the wake of the shooting, asking Congress to enact a bill to subject more gun purchases to background checks and to ban high-capacity ammunition magazines and military-style rifles.
+But gun rights supporters rallied, blocking those efforts in the Senate and leaving the matter stalled.
+
+Some states acted in lieu of federal action, but Democrats on Capitol Hill said Wednesday they remain committed to imposing new restrictions.
+
+“It is imperative that we act,” House Minority Leader Nancy Pelosi said at an event to commemorate the Newtown shooting.
+“We must stick with this.”
+
+Gun control supporters said other polling still shows strong support for specific changes.
+Requiring universal background checks garners support of about 90 percent of Americans, while support for limits on rifles and ammunition magazines hovers just above 50 percent.
+
+Ladd Everitt, a spokesman for the Coalition to Stop Gun Violence, said Pew’s findings reflect a sharp partisan divide on the issue, but also said the wording of the survey might have influenced the results.
+The survey asked whether it was more important to “control gun ownership” or “protect the right of Americans to own guns.”
+
+“The notion of having ‘rights’ is certainly going to be more appealing than the notion of being ‘controlled,’ no matter what topic you are asking respondents about,” he said in an email.
+“We’d be curious to see how the polling would look if Pew Research asked respondents if they believed they had ‘a right to be free from gun violence in their communities through the enactment of sensible gun legislation.’”
+
+Specific wording aside, Pew’s research suggested a shift over time.
+Support for gun control peaked at 66 percent in the late 1990s, or about the time of the 1999 shooting at Columbine High School in Littleton, Colorado, and has dropped 20 percentage points since then.
+
+The recent shift has also happened across nearly all demographic lines.
+
+When posed a choice between supporting gun rights or gun controls, men and women, old and young, white and black and Republican and Democrat all saw their preference for Second Amendment rights increase over the last two years.
+
+African-Americans’ support for gun rights rose from 24 percent to 34 percent, and whites’ backing rose from 53 percent to 61 percent.
+Only Hispanics saw a drop in their support for gun rights, slipping 2 percentage points to 25 percent, or lower than blacks’ level of support.
+
+While Democrats still generally back gun controls, with just 28 percent supporting gun rights, majorities of both Republicans and independents say the Second Amendment trumps their desire for more controls.
+
+STEP 1:
+* rights
+* control
+* protect
+* victims
+* risk
+* boon
+* safety
+* restrictions
+* imperative
+* commit
+
+SUMMARY:
+A recent Pew Research Center survey reveals a significant shift in Americans' attitudes towards gun ownership, with 52% prioritizing Second Amendment rights over gun control, a 7-point increase from 2012. This change is driven in part by a dramatic shift among black Americans, who now view guns as a public safety boon, with 54% believing firearms protect people from being victims of crimes. In contrast, only 29% held this view two years ago. Despite President Obama's call for major new restrictions on gun rights after the Newtown school shooting, gun rights supporters rallied, blocking efforts in the Senate. While Democrats remain committed to imposing new restrictions, Pew's findings reflect a sharp partisan divide on the issue. The survey's wording may have influenced the results, but the shift over time is clear, with support for gun control dropping 20 percentage points since the late 1990s. END OF SUMMARY.
+
+Now, here is the target news article to summarize:
+Here is the news article:
+
+Scene inside West Freeway Church of Christ in Texas, where a gunman opened fire on parishioners. Yes, good guys with guns can save lives. They just did in the West Freeway Church of Christ. The same weekend that Orthodox Jews in Monsey, N.Y., were fighting off another knife-wielding anti-Semite thug with chairs and coffee tables — they were fortunate that the perpetrator hadn’t brought a firearm, like the killer who targeted a yeshiva in Jersey City only a few weeks earlier — Jack Wilson, a 71-year-old congregant and security volunteer at West Freeway Church of Christ in White Settlement, Texas, took mere seconds to stop a potential mass murderer. Earlier in the year, to the dismay of the usual suspects, Texas governor Greg Abbott had signed a bill making it explicitly legal for Texans with concealed-carry licenses to bring their weapons into places of worship. These kinds of protections allowed Wilson to achieve something that no gun laws now being pursued nationally by Democrats has ever accomplished: He stopped a mass shooter. My guess is that Wilson, a former deputy sheriff, is the kind of guy who probably wouldn’t have broken the law and carried a firearm into church had it been illegal to do so. The killer, on the other hand, I’m wholly certain, would have been undeterred by any laws. Yet allowing people who pass ongoing criminal-background checks and take state-mandated training courses to bring their guns to a church or a school is a move that generates tremendous hostility among gun-control advocates. We must “do something” about gun violence, but we’ve learned that, in the liberal vernacular, that’s nothing more than a euphemism for “do something to inhibit law-abiding citizens from owning guns.” Even when Abbott signed the law that clarified the right of people to enter churches with concealed firearms unless otherwise prohibited, it was framed as something nefarious by the media. “Texas loosens firearm laws hours after the state’s latest mass shooting left five dead,” one CNN piece noted after the Walmart shooting in El Paso in September, as if clarifying the constitutional right to protect oneself from bigoted killers is somehow helping the bigoted killers. Democratic-party front-runner Joe Biden called the Texas law “irrational.” Now, if you don’t even believe that trained and licensed safety-conscious Americans should be allowed to protect themselves, their community, and their family in a place of worship, then you’re not a moderate, you just don’t believe in the Second Amendment or the right to self-defense — what John Adams, quoting Blackstone, referred to as “the primary canon in the law of nature.” There is, of course, no panacea for the problem of deranged people shooting up churches and schools. The argument, however, that guns rarely stop these events is highly misleading when one considers that most high-profile mass shootings happen in gun-free zones, and concealed carriers are some of the most law-abiding citizens in the country. It is also impossible to quantify how often the presence of good guys with guns dissuades murders. Shooters prefer soft targets. We also know that while having a gun in the hands of a citizen may not stop most murderers, it can sometimes mitigate the damage they inflict. Two incidents come to mind: the shooting at First Baptist Church of Sutherland Spring, Texas, where Stephen Willeford grabbed his AR-15 and shot the mass killer before he could do more damage, and the case of Jeanne Assam, a congregant security volunteer at the New Life Church in Colorado Springs, who in 2007 dropped a murderer who had already killed four people in two churches. While the chances of being caught up in a mass shooting, despite what you may have heard, is incredibly rare, there is virtually no downside in allowing congregations to govern their own security. No one is forcing a church to arm itself. The Mormon Church, for instance, has banned firearms from all its places of worship. Yet some states are compelling millions of Americans to sit there defenseless. In New York, where Orthodox Jews have increasingly become the target of violence, there are no Assams or Willefords or Wilsons allowed. Draconian laws make it virtually impossible for normal people to practice their right to self-defense. Using history as a precedent, Jews should find this kind of limitation especially offensive. One of the greatest triumphs of the state of Israel, and the chief reason so many anti-Semites detest it with such ferocity, is that Jews finally stopped asking for permission to exist and picked up guns to defend themselves. The United States is perhaps the only other place in the world where Jews are also blessed — or should be — with an inherent right to self-protection. It was the great Zionist Ze’ev Jabotinsky who implored his people to arm in the early 20th century. “Better to have a gun and not need it than to need it and not have it,” was one of his slogans. This notion was once widely embraced in the United States. Apparently, it still is in Texas.
+
+(1) First, you identify all the single words that are morally framed, focusing especially on the dimensions of Authority/Subversion, Care/Harm, Fairness/Cheating. Identify this step as "STEP 1:" and report each word in a new line starting with *
+(2) Finally, you write a summary of the news article. Please preserve as many morally framed words as possible, particularly focusing on the moral dimensions of Authority/Subversion, Care/Harm, Fairness/Cheating in your summary. The summary has to be returned after a "SUMMARY:" token and ending with a "END OF SUMMARY." token. The summary should be no longer than 200 words.

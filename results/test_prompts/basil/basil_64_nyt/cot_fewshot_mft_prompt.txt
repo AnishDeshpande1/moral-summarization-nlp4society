@@ -1,0 +1,208 @@
+You have to summarize the following text preserving the moral framing that the author gave to it, with particular focus on the specific moral foundations highlighted in the text.
+
+Please study the following examples of news articles, their moral word extraction, and summaries preserving the moral framing:
+
+Example 1 (Political Ideology: Left, Moral Foundations: Care/Harm):
+Here is the news article:
+
+Obama’s team is spinning the Republican National Convention as a complete miss.
+Obama's new challenge: Disappointment
+
+The watchword of the Republican National Convention in Tampa was disappointment — as in President Barack Obama has been one.
+
+You can hammer Obama on health care.
+Mock his golf outings.
+Demand to see his birth certificate and Harvard transcript, and call him a European socialist bent on turning the American Dream into a Belgian nightmare.
+He’ll throw his head back and laugh at you like a Bond villain.
+
+But tell voters he’s not the man America fell in love with in 2008 — and pine, however disingenuously, about his unfulfilled potential — and a shiver runs through his Chicago campaign headquarters.
+
+Obama’s team was spinning the convention as a complete miss, arguing that Republicans didn’t lay a glove on their man.
+Yet what emerged from Tampa was a subtle, clever shift in GOP messaging, a much more dangerous strategy for Obama than the kitchen-sink attacks that preceded the gathering.
+Republicans posed — rhetorically — as Obama 2008 voters, lamenting his unfulfilled expectations as if they had been with him all along instead of trying to block him at every turn.
+
+Both sides recognize the power of the disappointment theme: that the hope Obama offered for mending the economy, transforming the political process and even saving the earth has faded.
+
+“President Obama promised to begin to slow the rise of the oceans and heal the planet,” Mitt Romney said in accepting the Republican presidential nomination Thursday.
+“My promise is to help you and your family.”
+
+Or, as Sen. Marco Rubio put it, “Our problem with President Obama isn’t that he’s a bad person.
+Our problem is that he’s a bad president.”
+
+If Republicans landed a punch on Obama, it was the kind of strategic body blow that a skillful pugilist deploys to gain better position for the rest of the fight.
+
+No roundhouse, no jaw-splitter, no knockout.
+It was the kind of shot aimed at subtly shifting momentum and softening up the opponent in a way that may not be evident to the casual observer.
+
+Republicans honed their tone.
+
+The shrill hyperbole, petty critiques of Obama’s every move and Party of No intransigence disappeared into the heavy Tampa air.
+Surely, some of that will rain back down across other parts of the country during the closing months of the campaign, particularly as super PACs and other outside groups intensify their own lines of attack against Obama.
+
+There was plenty of tough criticism in Tampa — more mockery of Obama’s “you didn’t build that” line, more comparisons of his record to Jimmy Carter’s.
+But there were times — prime time, in particular — that the Republican convention looked and sounded like a Democratic gathering.
+
+An appealing young vice-presidential candidate, Paul Ryan, called his mom his role model and vowed to protect Medicare for seniors.
+
+Cuban-American Florida Sen. Marco Rubio and Mexican-American New Mexico Gov. Susana Martinez spoke of the unique opportunities that the United States afforded them to rise into leadership positions.
+
+STEP 1:
+* disappointment
+* disingenuously
+* clever
+* dangerous
+* bad
+* good
+* shrill
+* petty
+* intransigence
+* appealing
+* unique
+
+SUMMARY:
+The Republican National Convention in Tampa was deemed a success by the GOP, despite Obama's team spinning it as a complete miss. Republicans cleverly shifted their messaging, adopting a more subtle and dangerous strategy that focused on disappointment. They posed as Obama 2008 voters, lamenting his unfulfilled expectations and promising a more humble, achievable agenda. Mitt Romney and Sen. Marco Rubio delivered speeches that were more in line with Democratic values, touting the unique opportunities afforded by the United States. The tone was appealing, with a focus on protecting Medicare for seniors and honoring role models. The GOP's new approach is a strategic body blow to Obama's campaign, softening him up for the rest of the fight. END OF SUMMARY.
+
+Example 2 (Political Ideology: Center, Moral Foundations: Authority/Subversion, Care/Harm):
+Here is the news article:
+
+Hillary Clinton and her running mate, Sen. Tim Kaine of Virginia, speak to reporters on board the Clinton campaign plane on Saturday.
+
+PITTSBURGH—Hillary Clinton on Saturday drew a contrast between how she and Republican rival Donald Trump would conduct their first 100 days in office, zeroing in on his contention that he would sue the women who have accused him of making unwanted sexual advances.
+
+Speaking to reporters on her campaign plane Saturday night, Mrs. Clinton and her running mate, Sen. Tim Kaine of Virginia, said Mr. Trump seemed less intent on governing than on avenging personal grievances.
+
+Earlier on Saturday, Mr. Trump spoke at the Civil War battlefield in Gettysburg, Pa., where he laid out his agenda for the first 100 days of his presidency and threatened to sue his accusers after the election.
+
+The remark got the attention of the Clinton campaign, which has been trying to make inroads among college-educated women who normally vote Republican.
+
+“Our opponent, Donald Trump, went to Gettysburg, one of the most extraordinary places in American history,” Mrs. Clinton said, “and basically said if he’s president he will spend his time suing women who have made charges against him based on his behavior.”
+
+By contrast, she said, “Tim and I are going to keep talking about what we want to do if we’re given the great honor of serving as president and vice president.
+We’ll get to work the day after the election and do everything possible to be prepared on Jan. 20 to start doing the business of the American people.”
+
+Mr. Kaine, who was accompanying Mrs. Clinton to a late-night rally in Philadelphia, added that Mr. Trump “seemed most personally invested in…all of the scores that he needs to settle with people he’s mad at.”
+
+The pair had just come from a rally at a local high school in Pittsburgh.
+Both campaigns have made Pennsylvania a particular focus.
+Analysts believe that a Clinton victory in the state would cut off one possible path by which Mr. Trump could reach the needed threshold of 270 electoral votes.
+
+Speaking to 1,800 people at the Pittsburgh rally, Mrs. Clinton touched on a theme she has emphasized in recent days: that Mr. Trump is a danger to America’s democratic traditions.
+She has faulted him for saying during Wednesday’s presidential debate that he might not concede the election in the event of a defeat.
+
+Failing to accept election results, however disappointing, is the difference between “leadership and dictatorship,” Mrs. Clinton said Saturday, adding that Mr. Trump shows a troubling disregard for constitutional freedoms and protections.
+
+She also referred to the GOP presidential nominee’s contention that she should be jailed for using a private email system while she was secretary of state.
+
+“Every time he says he wants to jail his opponent—meaning me—I think to myself, ‘We don’t do that in America.
+We actually have laws and courts and an independent judiciary,’” she said.
+
+Mrs. Clinton spent part of the 37-minute address making a case for Democratic Senate candidate Katie McGinty, who is challenging incumbent Pennsylvania Republican Pat Toomey.
+
+Democrats believe Mr. Toomey’s defeat is central to retaking control of the Senate and providing Mrs. Clinton with a friendlier Congress should she win in November.
+Mr. Toomey leads by about two points in the Real Clear Politics average of polls.
+
+In devoting time to Ms. McGinty’s campaign, Mrs. Clinton showed she is thinking about down-ballot races that would affect her policy agenda should she win on Nov. 8.
+
+“Katie will help us break through the gridlock—actually make a difference in people’s lives,” Mrs. Clinton said.
+
+STEP 1:
+* avenging
+* grievances
+* extraordinary
+* honor
+* danger
+* dictatorship
+* troubling
+* disregard
+* laws
+* courts
+* independent
+* friendlier
+
+SUMMARY:
+Hillary Clinton contrasted her approach to governance with Donald Trump's, highlighting his intention to sue women who accused him of sexual misconduct. Clinton emphasized that Trump seems more intent on avenging personal grievances than governing, whereas she and her running mate, Tim Kaine, are focused on preparing to serve the American people. Clinton warned that Trump's behavior is a danger to America's democratic traditions, citing his refusal to accept election results and his disregard for constitutional freedoms and protections. She also criticized Trump's suggestion that she should be jailed, stating that "we don't do that in America" and that we have laws, courts, and an independent judiciary. Clinton's remarks aimed to appeal to college-educated women who normally vote Republican. END OF SUMMARY.
+
+Example 3 (Political Ideology: Right, Moral Foundations: Authority/Subversion, Fairness/Cheating):
+Here is the news article:
+
+Supreme Court Justice Ruth Bader Ginsburg faced a growing and bipartisan backlash Wednesday -- including a call from Donald Trump to resign -- as she doubled down on her criticism of the presumptive GOP nominee, calling him a “faker” who is unqualified to be president.
+
+Even political figures and newspaper editorial writers who might agree with the comments swiftly said they were out of line for a high court justice.
+
+And Trump himself lashed out on Twitter, saying:
+
+Justice Ginsburg of the U.S. Supreme Court has embarrassed all by making very dumb political statements about me.
+Her mind is shot - resign!
+
+The liberal icon justice had kicked off the storm with comments to The New York Times published Saturday.
+“I can’t imagine what this place would be — I can’t imagine what the country would be -- with Donald Trump as our president.
+For the country, it could be four years.
+For the court, it could be -- I don’t even want to contemplate that,” she said.
+
+She doubled down late Monday, telling CNN: “He is a faker.”
+
+"He has no consistency about him.
+He says whatever comes into his head at the moment.
+He really has an ego.
+... How has he gotten away with not turning over his tax returns?
+The press seems to be very gentle with him on that," she said.
+
+Trump swiftly responded Tuesday, telling the Times it was “highly inappropriate that a United States Supreme Court judge gets involved in a political campaign.”
+
+“I think it’s a disgrace to the court and I think she should apologize to the court.
+I couldn’t believe it when I saw it,” the presumptive Republican nominee said.
+
+Trump’s criticisms were echoed by Republican congressional leaders.
+Senate Majority Leader Mitch McConnell said Tuesday Ginsburg’s comments were “totally inappropriate.”
+
+"It raises a level of skepticism that the American people have from time to time about just how objective the Supreme Court is, whether they're over there to call the balls and strikes, or weigh in on one side or another," he said.
+
+House Speaker Paul Ryan used similar language at a CNN event Tuesday.
+
+"For someone on the Supreme Court who is going to be calling balls and strikes in the future based upon whatever the next president and Congress does, that strikes me as inherently biased and out of the realm," Ryan said.
+
+Ginsburg’s comments also left Democratic lawmakers squirming.
+
+“We all know that the justices on the Supreme Court have political views.
+I’m not sure we’re well served by them airing them out in the open,” Sen. Chris Murphy, D-Conn., told Politico.
+
+“She may have got out over her skis a little bit and more forthright and political than she should have been.
+It’s very unusual,” Senate Minority Whip Dick Durbin, D-Ill., told the outlet.
+
+Mainstream media outlets also joined in the chorus of criticism.
+
+“However valid her comments may have been, though, and however in keeping with her known political bent, they were still much, much better left unsaid by a member of the Supreme Court,” The Washington Post’s editorial board said Tuesday.
+“Politicization, real or perceived, undermines public faith in the impartiality of the courts.”
+
+The board noted the Code of Conduct for U.S. judges says that a “judge should not ... publicly endorse or oppose a candidate for public office.”
+
+The New York Times also chimed in: “Washington is more than partisan enough without the spectacle of a Supreme Court justice flinging herself into the mosh pit."
+
+Wednesday morning brought some relief for the under-fire justice, with Vermont Sen. Bernie Sanders giving qualified support for her comments.
+While the Democratic presidential candidate declined to comment on whether her comments were appropriate, he said on ABC he agrees Trump is a "total opportunist" and said "the record is quite clear that he lies just a whole lot of the time."
+
+STEP 1:
+* dumb
+* embarrassed
+* inappropriate
+* disgrace
+* skeptical
+* biased
+* forthright
+* unusual
+* politicization
+* impartiality
+* spectacle
+* opportunist
+* lies
+
+SUMMARY:
+Supreme Court Justice Ruth Bader Ginsburg faced a bipartisan backlash for her criticism of Donald Trump, calling him a "faker" who is unqualified to be president. Trump responded, saying Ginsburg's comments were "dumb" and "inappropriate", and that she should "resign" because her mind is "shot". Many politicians and newspaper editorial writers, including Republicans and Democrats, agreed that her comments were out of line for a high court justice, citing concerns about politicization and impartiality. Even those who agreed with her views said she should not have aired them publicly. The criticism was so widespread that it raised questions about the court's impartiality and the politicization of the judiciary. Only Senator Bernie Sanders offered qualified support, calling Trump a "total opportunist" who "lies just a whole lot of the time". END OF SUMMARY.
+
+Now, here is the target news article to summarize:
+Here is the news article:
+
+Donald J. Trump on Tuesday assailed Justice Ruth Bader Ginsburg of the Supreme Court for speaking out on the presidential race, calling her disdainful remarks about his candidacy “highly inappropriate” and suggesting that she owed other justices an apology. Mr. Trump’s remarks came in a telephone interview with The Times two days after Justice Ginsburg was quoted as saying she was frightened about what the nation would look like if he were elected. “I can’t imagine what this place would be — I can’t imagine what the country would be — with Donald Trump as our president,” Justice Ginsburg told The Times in an interview published Sunday. “For the country, it could be four years. For the court, it could be — I don’t even want to contemplate that.” She even joked ruefully about moving to New Zealand. Mr. Trump, the presumptive Republican nominee, said he found those remarks unbefitting a member of the high court. “I think it’s highly inappropriate that a United States Supreme Court judge gets involved in a political campaign, frankly,” Mr. Trump said. “I think it’s a disgrace to the court and I think she should apologize to the court. I couldn’t believe it when I saw it.” He continued: “That she should be saying that? It’s so beneath the court for her to be making statements like that. It only energizes my base even more. And I would hope that she would get off the court as soon as possible.” Mr. Trump also said he expected to announce his choice of a running mate by Friday, winding down a process that has been closely watched as in all likelihood the most significant decision he will make in his campaign. “I have five candidates, plus two, two that are unknown to anybody,” Mr. Trump said from Chicago, where he was raising money for his campaign. “I will be making a decision over the next three- to four-day period of time, and I think it will be a decision that will be a very good decision for a lot of people,” he added. Mr. Trump said that he was not basing his vice-presidential selection on fund-raising prowess or potential, and indicated that he had had enough experience with many of those he has been considering for the job that their tryouts on the campaign trail would not necessarily be determinative. “I’ve been with these people for a long time — I know them,” Mr. Trump said, specifically invoking Gov. Chris Christie of New Jersey and Newt Gingrich, the former House speaker. “Christie was excellent yesterday and Newt is excellent.” Mr. Trump will appear on Tuesday night in Indiana with Gov. Mike Pence, who has risen in the estimation of many of the nominee’s advisers. Mr. Trump said his decision was largely coming down to instinct. “A lot of is gut. A lot of it is,” he said. “My whole life has been about gut.” He also suggested that he would consider polling in states like heavily Democratic Connecticut, which he again said he believed he could put in play in November. Asked for quick thoughts about each of the candidates he is known to be considering, Mr. Trump played along. Governor Christie? “Strong,” he said. Retired Lt. Gen. Mike Flynn? “A patriot.” Senator Joni Ernst of Iowa? “A terrific, exciting person.” Governor Pence? “Solid as a rock.” And Mr. Gingrich? “Newt is Newt. He’s a good guy.”
+
+(1) First, you identify all the single words that are morally framed, focusing especially on the dimensions of Authority/Subversion. Identify this step as "STEP 1:" and report each word in a new line starting with *
+(2) Finally, you write a summary of the news article. Please preserve as many morally framed words as possible, particularly focusing on the moral dimensions of Authority/Subversion in your summary. The summary has to be returned after a "SUMMARY:" token and ending with a "END OF SUMMARY." token. The summary should be no longer than 200 words.

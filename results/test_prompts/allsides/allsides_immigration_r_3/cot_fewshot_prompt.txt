@@ -1,0 +1,230 @@
+You have to summarize the following text preserving the moral framing that the author gave to it.
+
+Please study the following examples of news articles, their moral word extraction, and summaries preserving the moral framing:
+
+Example 1 (Political Ideology: Left):
+Here is the news article:
+
+This past Friday, the deputy director of U.S. Immigration and Customs Enforcement came to Chicago to announce a major problem: Chicago-area ICE arrests fell dramatically in 2019.
+
+The reason?
+Local officials refused to play ball.
+
+Since becoming mayor, one of the things I’m most proud of is our unequivocal support of Chicago’s immigrant and refugee communities.
+It’s a position directly drawn from our belief that our nation’s strength lies in our diversity, and that the values which have made us a beacon of hope are sacred and need to be protected.
+
+It’s for that reason that at Wednesday’s City Council meeting we passed the Accountability on Communication and Transparency Ordinance, which is designed to bolster our Welcoming City Ordinance — a policy first established by Mayor Harold Washington in 1985 and enhanced by my predecessors ever since.
+
+In it, we are enshrining in the municipal code mandates from my previous executive actions.
+Namely, we will prohibit ICE from accessing Chicago Police Department databases.
+Additionally, we will make clear that ICE cannot turn to CPD for assistance with immigration enforcement operations.
+And if ICE does request assistance for any purposes, a CPD supervisor must first confirm that ICE is being truthful and the request will not support immigration enforcement.
+
+We also will establish reporting requirements to both my office and the Inspector General regarding the police department’s compliance with the Welcoming City Ordinance, and provide legal guidance to public facilities on how to protect immigrant patrons in the event they are targeted for ICE raids.
+
+The ordinance will in no way inhibit our law enforcement agencies’ ability to go after individuals suspected of committing serious or violent crimes.
+Nor does it conflict with our agreement with federal authorities that — in special and rare occasions — allows appointed officers to assist in investigating criminal enterprises, such as counter-terrorism, human trafficking and money laundering, with full knowledge that their assistance will be terminated if any action undertaken is inconsistent with city policies.
+
+In other words, it cannot encompass immigration enforcement.
+
+If this sounds familiar, it’s because it is.
+This past summer, when President Donald Trump was doing everything he could to scare undocumented families into the shadows, we undertook these measures in the form of executive actions.
+The difference now is that we’re codifying them into law, making for one of the largest expansions of immigrant protections in Chicago since the Welcoming City Ordinance first was adopted over 30 years ago.
+
+All of which brings us to Friday’s ICE press conference.
+As the ICE deputy director noted, it’s because of our lack of cooperation that ICE was unable to reach its arrest goal.
+
+He’s right.
+And that’s a good thing.
+
+Credit for that is shared among city and state leaders, as well as with countless local advocates — whether through the TRUST Act passed in Springfield, the vital services provided by Chicago’s immigration attorneys, or the hundreds of Community Navigators supported by our Legal Protection Fund who have been doing the Lord’s work of going into communities to educate and empower our undocumented immigrant families about their rights.
+
+Yet, as proud as we are, it shouldn’t have to be this way.
+Cities like Chicago shouldn’t have to butt heads with federal agencies to keep their families safe and communities whole.
+
+The reason we’ve had to work so diligently to educate residents about their rights is because the current administration has politized ICE into a cynical campaign against immigrants and refugees.
+Our protection actions also ensure we have the vital community trust needed for the effectiveness of our local police.
+
+Make no mistake, immigration policy is complicated.
+There are no easy answers.
+But the national debate — if you can call it that — hasn’t been about immigration policy so much as about immigrants themselves.
+And for all the policy complexities, what isn’t complicated is the principle that no one should be demonized for who they are.
+
+Chicago’s immigrants come from every corner of the globe — always have.
+As they have since our earliest days, they help build our city, drive our economy, and create the talent pool that gives us our competitive edge.
+
+We as a nation should be crafting immigration policy based on welcoming our newest residents with clear pathways to citizenship, not fear of arrests.
+The fact that children right here in Chicago are afraid of coming home from school and finding their parents missing is an indictment of where we are as a country today.
+
+As we move forward, we will continue to protect our communities, strengthen our status as a Welcoming City, and fight for the best of who we are.
+For unity and inclusion, equity and opportunity.
+For standing up for our neighbors and calling out division and demonization for what they are.
+
+It’s those values that have endowed our heritage for generations, served as the foundation for our incredible success, and will ensure Chicago remains the best city in the world to call home.
+
+STEP 1:
+* sacred
+* unequivocal
+* beacon
+* hope
+* truthfulness
+* protection
+* inclusivity
+* unity
+* equity
+* opportunity
+* division
+* demonization
+
+SUMMARY:
+Chicago's mayor proudly announced that the city's arrests by U.S. Immigration and Customs Enforcement (ICE) have dramatically fallen in 2019 due to local officials' refusal to cooperate. This is a result of the city's "unequivocal support" for immigrant and refugee communities, which is rooted in the belief that diversity is a strength and that sacred values need to be protected. The city has passed the Accountability on Communication and Transparency Ordinance, which prohibits ICE from accessing police databases and ensures that ICE cannot use local police for immigration enforcement. This move is a major expansion of immigrant protections and a testament to the city's commitment to being a "Welcoming City". The mayor emphasizes that immigration policy should be based on welcoming new residents, not fear and demonization. END OF SUMMARY.
+
+Example 2 (Political Ideology: Center):
+Here is the news article:
+
+WASHINGTON – As House Democrats called for a resolution condemning him for racism, President Donald Trump said Monday that the minority Democratic congresswomen he said should "go back" to other countries are the ones who should apologize.
+
+Trump also denied his comments were racist, telling reporters at the White House that "if you hate our country, if you're not happy here, you can leave" – although most of the Democratic lawmakers he attacked were born in the United States.
+
+Earlier in the morning, Trump tweeted: "When will the Radical Left Congresswomen apologize to our Country, the people of Israel and even to the Office of the President, for the foul language they have used, and the terrible things they have said."
+
+House Speaker Nancy Pelosi, D-Calif., meanwhile, called on lawmakers to pass a resolution condemning Trump's remarks suggesting that some House members should essentially go back to where they came from.
+
+"The House cannot allow the President’s characterization of immigrants to our country to stand," Pelosi said.
+"Our Republican colleagues must join us in condemning the President’s xenophobic tweets."
+
+On Sunday, Trump tweeted of four minority female House members: "Why don’t they go back and help fix the totally broken and crime infested places from which they came.
+Then come back and show us how it is done" – this even though three of the four targets were born in the United States.
+
+Trump's tweets were directed tweets at four Muslim, Hispanic, and black House freshmen members known as "the Squad": Democratic Reps. Alexandria Ocasio-Cortez of New York, Ayanna Pressley of Massachusetts, Rashida Tlaib of Michigan, and Ilhan Omar of Minnesota.
+
+THE 'SQUAD' REACTS:'This is what racism looks like': Congresswomen react to Trump's 'go back' tweetstorm
+
+The first three were born in the United States; Omar came to the United States as a refugee from Somalia before she was a teenager.
+
+Asked if he was concerned about using the language of white nationalists, Trump replied that "it doesn’t concern me because many people agree with me.
+All I’m saying is that if they want to leave they can leave now.
+It doesn’t say leave forever."
+He claimed the congresswomen "hate" the United States and Israel.
+
+Pelosi said Trump's "xenophobic" comments reflect that "his plan to 'Make America Great Again' has always been about making America white again."
+
+"Our diversity is our strength and our unity is our power," Pelosi said.
+
+Pelosi has clashed with the very same House members Trump attacked.
+Ocasio-Cortez, Omar and others say Pelosi and the Democratic leadership have been too cautious on issues ranging from environmental legislation to the proposed impeachment of Trump.
+
+Trump's tweets, however, united the Democrats in condemnation of the president's racial tactics.
+
+"THIS is what racism looks like," Pressley tweeted.
+
+Tlaib responded to Trump by tweeting: "Yo @realDonaldTrump, I am fighting corruption in OUR country.
+I do it every day when I hold your admin accountable as a U.S. Congresswoman.
+Detroit taught me how to fight for the communities you continue to degrade & attack.
+Keep talking, you’ll be out of the WH soon.
+#TickTock."
+
+The tweets are drawing international criticism of Trump.
+
+British Prime Minister Theresa May believes “the language used to refer to these women was completely unacceptable,” her spokesman James Slack told reporters in London on Monday.
+
+Trump, who is seeking re-election in 2020, has indicated he would seek to link members of "The Squad" to Democrats in general.
+In his Monday tweets, he cited their views on the Middle East as a flashpoint.
+
+"It will be interesting to see how it plays out," Trump tweeted.
+"I can tell you that they have made Israel feel abandoned by the U.S."
+
+After a day of near-silence, a rising number of Republicans are speaking out against Trump's attacks on the four House members.
+
+"Those tweets are racist, and xenophobic," said Rep. Will Hurd, R-Texas, whose district includes a large part of the border with Mexico.
+
+Speaking on CNN, Hurd said that this is "also behavior that’s unbecoming of the leader of the free world.
+He should be talking about things that unite, not divide us."
+
+Sen. Pat Toomey, R-Pa., told CNN that Trump was "wrong," and that "the citizenship of all four (House members) is as valid as mine ... We should defeat their ideas on the merits."
+
+Rep. Justin Amash, a Michigan congressman who recently left the Republican Party, tweeted back at Trump: "To tell these American citizens (most of whom were born here) to 'go back' to the “crime infested places from which they came” is racist and disgusting."
+
+STEP 1:
+*xenophobic*
+*racist*
+*racism*
+*xenophobic*
+*hate*
+*unacceptable*
+*racist*
+*xenophobic*
+*disgusting*
+*unbecoming*
+
+SUMMARY:
+President Donald Trump sparked outrage by telling four minority Democratic congresswomen to "go back" to their countries of origin, despite most of them being born in the United States. Trump denied his comments were racist, but House Democrats condemned his xenophobic tweets, saying they reflect a desire to "make America white again." The president's remarks were widely criticized, with many calling them racist and xenophobic. Even some Republicans spoke out against Trump's attacks, with Rep. Will Hurd saying the tweets were "racist, and xenophobic" and Sen. Pat Toomey calling them "wrong." The congresswomen, known as "the Squad," responded by saying Trump's comments were a clear example of racism. The international community also weighed in, with British Prime Minister Theresa May calling the language "completely unacceptable." END OF SUMMARY.
+
+Example 3 (Political Ideology: Right):
+Here is the news article:
+
+A group of 14 Wisconsin parents has filed a lawsuit against a local school district for its policy allowing teachers to address their children by their preferred "gender identity" without notifying them first.
+
+Wisconsin Institute for Law and Liberty (WILL), a conservative law firm, filed the 19-page lawsuit on Tuesday on behalf of the parent's group against the Madison Metropolitan School District (MMSD).
+The 14 parents were not named in the document.
+
+The lawsuit alleges that MMSD's transgender policy is unconstitutional because it prohibits teachers and staff from informing parents that their children want to switch sexes.
+
+"This action seeks to vindicate parents' fundamental and constitutional right to direct the upbringing of their children," the lawsuit argues.
+"The Madison Metropolitan School District has violated this important right by adopting a policy designed to circumvent parental involvement in a pivotal decision affecting their children's health and future.
+The policy enables children, of any age, to socially transition to a different gender identity at school without parental notice or consent."
+
+While parental consent is needed before a child's name can be changed legally in the district's official records, the school district policy announced in 2018 says students can be called by their preferred name and gender pronouns without parental permission.
+
+The policy states that the district is committed to affirming each student's self-designated gender identity and the district will strive to "disrupt the gender binary" with books and lessons stating that everyone has the right to choose their gender.
+
+The school policy allows students to pick new names and pronouns they can use at school regardless of whether they have a parent's permission.
+All teachers and district staff must refer to students by their chosen names and pronouns even though the names aren't official in district systems.
+
+The parents argue the policy violates the state constitution's due process clause, which protects parents' right to raise their children according to the parents' beliefs.
+
+"Madison schools have adopted policies that violate constitutionally recognized parental rights.
+A public school district should not, and cannot, make decisions reserved for parents," WILL President and General Counsel Rick Esenberg said in a statement.
+
+District spokesman Tim LeMonds said Tuesday that the district had not been served with the lawsuit and could not comment until it had a chance to review it.
+But LeMonds said the district stands by its guidance on transgender and nonbinary students.
+
+The lawsuit also argues that keeping parents in the dark about their children's sexuality interferes with parents' right to guide their children through life-altering decisions and provide professional help their children may urgently need.
+
+"There is no compelling government interest in keeping secret from parents that their child is dealing with gender dysphoria," the lawsuit reads.
+
+The parents also argue that the policy violates the state constitution's religious freedom guarantee.
+
+All of the parents say they believe God intended humans to be male and female, and the district's choice to hide students' gender struggles interferes with their right to guide their children in accordance with their religious beliefs
+
+STEP 1:
+* unconstitutional
+* fundamental
+* right
+* pivotal
+* important
+* circumvent
+* violated
+* affirming
+* disrupt
+* recognized
+* reserved
+* interferes
+* compelling
+* secret
+* religious
+* freedom
+* intended
+* interferes
+
+SUMMARY:
+A group of 14 Wisconsin parents has filed a lawsuit against the Madison Metropolitan School District (MMSD) over its policy allowing teachers to address their children by their preferred "gender identity" without notifying them first. The parents argue that the policy is unconstitutional and violates their fundamental right to direct the upbringing of their children. They claim that the policy circumvents parental involvement in a pivotal decision affecting their children's health and future. The policy enables children to socially transition to a different gender identity at school without parental notice or consent, which the parents believe interferes with their right to guide their children through life-altering decisions and provide professional help their children may urgently need. The lawsuit also argues that the policy violates the state constitution's religious freedom guarantee, as the parents believe God intended humans to be male and female.
+END OF SUMMARY.
+
+Now, here is the target news article to summarize:
+Here is the news article:
+
+Last week, New York City's Commission on Human Rights declared that using the term "illegal alien" pejoratively to describe an undocumented person violates laws designed to protect employees and tenants from discrimination, and could result in fines of up to $250,000. But the city's interpretation of the law is so broad that it may very well be unconstitutional under the First Amendment. Perceived immigration status has long been a protected category under the New York City Human Rights Law, and the commission has now issued guidance that "use of the term 'illegal alien,' among others, when used with intent to demean, humiliate, or harass a person, is illegal under the law." It's important to note that this guidance does not affect all kinds of speech: The law covers workplace harassment, tenants' rights, and public accommodation. Merely calling someone an illegal alien on the street, or threatening to call Immigration and Customs Enforcement on them, would not be illegal. The courts have, of course, held that anti-discrimination ordinances can survive scrutiny, even if they appear to limit the free speech rights of employers and landlords. But NYC is going further here. The 30-page guidance notes, for instance, that "the severity or pervasiveness of the harassment is only relevant to damages. Even an employer's single comment made in circumstances where that comment would signal discriminatory views about one's immigration status or national origin may be enough to constitute harassment." That's a problem, and one that might push the guidance into unconstitutional territory. Government decrees to prohibit free speech in the name of anti-harassment or anti-discrimination must come with certain limiting conditions to survive a First Amendment test. "The Supreme Court requires that conduct be not just unwelcome, but also severe or pervasive enough to make the work environment both subjectively and objectively hostile, before it is legally considered harassment under federal law," wrote Hans Bader, an attorney and former official in the Department of Education's Office for Civil Rights. "Even the 'severe or pervasive' standard found in federal law is not sufficiently protective of speech, so it is alarming that New York City has eliminated that modest limit on liability." Bader's entire post on the subject is worth reading in full. The government cannot simply prohibit people from making politically incorrect statements about undocumented people—it must limit the scope of anti-discrimination mandates in order to satisfy the broad free speech guarantees enjoyed by all people.
+
+(1) First, you identify all the single words that are morally framed. Identify this step as "STEP 1:" and report each word in a new line starting with *
+(2) Finally, you write a summary of the news article. Please preserve as many morally framed words as possible in your summary. The summary has to be returned after a "SUMMARY:" token and ending with a "END OF SUMMARY." token. The summary should be no longer than 200 words.

@@ -1,0 +1,22 @@
+You have to summarize the following text preserving the moral framing that the author gave to it.
+
+Here is the news article:
+
+In an appeal to hard-right conservatives, Gov. Rick Perry of Texas is broadcasting a new campaign ad that seems to contrast Christianity with homosexuality, vows to end what he calls “Obama’s war on religion,” and highlights Mr. Perry’s criticism of overturning the “don’t ask, don’t tell” policy for gays serving in the military. “I’m not ashamed to admit that I’m a Christian,” Mr. Perry says in the ad, “but you don’t need to be in the pew every Sunday to know there’s something wrong in this country when gays can serve openly in the military but our kids can’t openly celebrate Christmas or pray in school.” The Perry campaign did not say where the ad would run, but the focus of Mr. Perry’s multimillion-dollar television budget has been in Iowa, where large numbers of Republican caucusgoers describe themselves as Christian evangelicals. The new ad follows Mr. Perry’s statement on Tuesday criticizing the Obama administration’s announcement that the United States would use all the elements of diplomacy, including the possible granting of foreign aid, to promote gay rights around the world and beat back efforts in other nations to criminalize homosexual conduct. “As president, I’ll end Obama’s war on religion,” Mr. Perry also says in the ad. “And I’ll fight against liberal attacks on our religious heritage. Faith made America strong. It can make her strong again.” The Perry ad was denounced by the Log Cabin Republicans, a gay men and lesbian group, which said it was “wrong for Governor Perry to assume being a person of faith does not afford one to support equality.” R. Clarke Cooper, the group’s executive director, said, “Governor Perry is running to be commander-in-chief, not theocrat-in-chief.” He added, “Our nation was built upon individual liberty and individual responsibility, and open service by gay and lesbian servicemembers is directly in line with the vision of our founding fathers.”
+
+The author used the following morally framed words in the article:
+* contrast
+* war
+* admit
+* celebrate
+* pray
+* end
+* fight
+* attacks
+* strong
+* being
+* support
+* equality
+* liberty
+
+Please preserve as many morally framed words as possible in your summary. The summary has to be returned after a "SUMMARY:" token and ending with a "END OF SUMMARY." token. The summary should be no longer than 200 words.

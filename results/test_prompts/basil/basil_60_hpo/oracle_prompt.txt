@@ -1,0 +1,14 @@
+You have to summarize the following text preserving the moral framing that the author gave to it.
+
+Here is the news article:
+
+Former Mexican President Vicente Fox says Mexico will not pay for a wall along the U.S. border, despite what GOP presidential hopeful Donald Trump may claim. Fox said, as a taxpayer, he’s not willing to fund Trump’s big idea. “I’m not going to pay for that fucking wall,” Fox told Fusion’s Jorge Ramos in an interview airing Thursday. “He should pay [for] it. He’s got the money.” The GOP front-runner, who has made many outrageous comments about Latinos including calling Mexican immigrants "criminals" and "rapists," insists he'll coerce Mexico into paying for a wall to keep undocumented migrants out of the U.S. if he's elected. (The real estate mogul estimates the price tag at around $8 billion.) Fox, however, isn't worried that Trump will actually win the presidency. "Democracy cannot pick crazy people that doesn't know what's going on in the world today," he said. Ramos pointed out that Trump likely won among Hispanics during Tuesday’s Nevada caucus -- a statistic that has a few caveats. "I'd like to know who those Hispanics are," Fox said. "They're followers of a false prophet." Felipe Calderon, who was president of Mexico from 2006 to 2012, has also dismissed Trump's idea. "Mexican people, we are not going to pay any single cent for such a stupid wall," he said earlier this month. "And it's going to be completely useless. ... If this guy pretends that closing the borders to anywhere either for trade [or] for people is going to provide prosperity to the United States, he is completely crazy."
+
+The author used the following morally framed words in the article:
+* calling
+* coerce
+* wall
+* useless
+* closing
+
+Please preserve as many morally framed words as possible in your summary. The summary has to be returned after a "SUMMARY:" token and ending with a "END OF SUMMARY." token. The summary should be no longer than 200 words.

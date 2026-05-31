@@ -1,0 +1,201 @@
+You have to summarize the following text preserving the moral framing that the author gave to it.
+
+Please study the following examples of news articles, their moral word extraction, and summaries preserving the moral framing:
+
+Example 1 (Political Ideology: Left):
+Here is the news article:
+
+Obama’s team is spinning the Republican National Convention as a complete miss.
+Obama's new challenge: Disappointment
+
+The watchword of the Republican National Convention in Tampa was disappointment — as in President Barack Obama has been one.
+
+You can hammer Obama on health care.
+Mock his golf outings.
+Demand to see his birth certificate and Harvard transcript, and call him a European socialist bent on turning the American Dream into a Belgian nightmare.
+He’ll throw his head back and laugh at you like a Bond villain.
+
+But tell voters he’s not the man America fell in love with in 2008 — and pine, however disingenuously, about his unfulfilled potential — and a shiver runs through his Chicago campaign headquarters.
+
+Obama’s team was spinning the convention as a complete miss, arguing that Republicans didn’t lay a glove on their man.
+Yet what emerged from Tampa was a subtle, clever shift in GOP messaging, a much more dangerous strategy for Obama than the kitchen-sink attacks that preceded the gathering.
+Republicans posed — rhetorically — as Obama 2008 voters, lamenting his unfulfilled expectations as if they had been with him all along instead of trying to block him at every turn.
+
+Both sides recognize the power of the disappointment theme: that the hope Obama offered for mending the economy, transforming the political process and even saving the earth has faded.
+
+“President Obama promised to begin to slow the rise of the oceans and heal the planet,” Mitt Romney said in accepting the Republican presidential nomination Thursday.
+“My promise is to help you and your family.”
+
+Or, as Sen. Marco Rubio put it, “Our problem with President Obama isn’t that he’s a bad person.
+Our problem is that he’s a bad president.”
+
+If Republicans landed a punch on Obama, it was the kind of strategic body blow that a skillful pugilist deploys to gain better position for the rest of the fight.
+
+No roundhouse, no jaw-splitter, no knockout.
+It was the kind of shot aimed at subtly shifting momentum and softening up the opponent in a way that may not be evident to the casual observer.
+
+Republicans honed their tone.
+
+The shrill hyperbole, petty critiques of Obama’s every move and Party of No intransigence disappeared into the heavy Tampa air.
+Surely, some of that will rain back down across other parts of the country during the closing months of the campaign, particularly as super PACs and other outside groups intensify their own lines of attack against Obama.
+
+There was plenty of tough criticism in Tampa — more mockery of Obama’s “you didn’t build that” line, more comparisons of his record to Jimmy Carter’s.
+But there were times — prime time, in particular — that the Republican convention looked and sounded like a Democratic gathering.
+
+An appealing young vice-presidential candidate, Paul Ryan, called his mom his role model and vowed to protect Medicare for seniors.
+
+Cuban-American Florida Sen. Marco Rubio and Mexican-American New Mexico Gov. Susana Martinez spoke of the unique opportunities that the United States afforded them to rise into leadership positions.
+
+STEP 1:
+* disappointment
+* disingenuously
+* clever
+* dangerous
+* bad
+* good
+* shrill
+* petty
+* intransigence
+* appealing
+* unique
+
+SUMMARY:
+The Republican National Convention in Tampa was deemed a success by the GOP, despite Obama's team spinning it as a complete miss. Republicans cleverly shifted their messaging, adopting a more subtle and dangerous strategy that focused on disappointment. They posed as Obama 2008 voters, lamenting his unfulfilled expectations and promising a more humble, achievable agenda. Mitt Romney and Sen. Marco Rubio delivered speeches that were more in line with Democratic values, touting the unique opportunities afforded by the United States. The tone was appealing, with a focus on protecting Medicare for seniors and honoring role models. The GOP's new approach is a strategic body blow to Obama's campaign, softening him up for the rest of the fight. END OF SUMMARY.
+
+Example 2 (Political Ideology: Center):
+Here is the news article:
+
+WASHINGTON — It is a lesson politicians never seem to learn from others’ mistakes: The microphone is always on.
+
+The latest candidate to learn the hard way was Representative Bruce Braley, an Iowa Democrat running for Senate this year.
+Mr. Braley apologized to Senator Charles E. Grassley, Republican of Iowa, and “anyone I may have offended” after video emerged of him warning that “a farmer from Iowa who never went to law school, never practiced law” could become chairman of the Judiciary Committee.
+
+Mr. Braley is not running against Mr. Grassley, who plans to seek a seventh term in 2016.
+But as the ranking Republican on the Judiciary Committee, Mr. Grassley could assume the chairmanship if his party takes control of the Senate this year.
+Mr. Braley, speaking at a January fund-raiser in Corpus Christi, Tex., was explaining why he should go to the Senate instead of his Republican opponent.
+
+America Rising, a conservative political action committee that has vowed to use videos and opposition research to attack Democratic candidates, posted the footage on YouTube on Tuesday.
+Other Republicans quickly criticized Mr. Braley.
+
+Though their numbers are declining, farmers are still a powerful force in the Iowa, which ranks second in the country in total farm sales.
+Mr. Braley’s apology noted his family’s history with Iowa agriculture, including his own stint “doing farm jobs and working a grain elevator.”
+
+In another appeal to Iowa farmers, Joni Ernst, a candidate in the Republican Senate primary on June 3, announced in an ad that she grew up “castrating hogs on an Iowa farm.”
+Ms. Ernst said that qualified her to “cut pork” in Washington.
+
+STEP 1:
+* apologized
+* offended
+* warned
+* criticized
+* powerful
+* qualified
+
+SUMMARY:
+Representative Bruce Braley, an Iowa Democrat running for Senate, apologized for his offensive remarks about Senator Charles E. Grassley, a Republican from Iowa. Braley warned that a farmer from Iowa who never went to law school could become chairman of the Judiciary Committee, implying that Grassley was unqualified for the position. The video of Braley's comments was posted on YouTube by America Rising, a conservative political action committee. Braley's apology noted his family's history with Iowa agriculture, but Republicans quickly criticized him for his remarks. In contrast, Joni Ernst, a Republican Senate candidate, highlighted her experience growing up on an Iowa farm, saying it qualified her to "cut pork" in Washington. The incident serves as a lesson to politicians that the microphone is always on, and careless comments can have consequences. END OF SUMMARY.
+
+Example 3 (Political Ideology: Right):
+Here is the news article:
+
+Even for a Congress known to battle over every little detail, reading the U.S. Constitution aloud sounded like a simple exercise.
+
+Turned out it wasn't.
+
+Newly sworn members of the House reading aloud the country's founding document on Thursday didn't recite every verse and article of the document because Republicans decided that the obsolete parts can be skipped since they've been superseded by amendment.
+
+For instance, lawmakers did not read the 18th Amendment, which imposed prohibition on liquor in 1919.
+However, they did read the 21st Amendment, which repealed prohibition in 1933 and is still in force.
+
+Republicans also left out the part about counting slaves and Native Americans as three-fifths of a person.
+
+Portions of the U.S. Constitution are never deleted, just amended, as has been done 27 times in history.
+But all the original decisions remain in the Constitution, including in the copies authorized by Congress' Joint Committee on Printing and used in Thursday's reading.
+
+And that was the point of contention for Democratic lawmakers who complained that exempting parts of the document from the reading undermines the objective of the exercise.
+
+"This is very emotional for me," Rep. Jesse Jackson Jr., D-Ill., said on the floor before the reading began.
+
+"Given the struggle of African Americans, given the struggle of women, given the struggle of others to create a more perfect document, to hear that those elements of the Constitution that have been dedacted (sic) by amendment are no less serious, no less part of our ongoing struggle to improve the country and our desire to continue to improve the Constitution, many of us don't want that to be lost upon the reading of our sacred document," he said.
+
+Rep. Jay Inslee, D-Wash., commented that the original document has been changed through amendment, leaving the the reader to interpret the operative language.
+
+"I think it would be helpful to the members if you would explain to us how the determinations of what to read has been made or not made so that we all be on the same page as to congressional intent," he said to Rep. Bob Goodlatte, R-Va., who presided over the reading.
+
+Rep. Elijah Cummings, D-Md., questioned the reading of the "amended" Constitution.
+
+"To not read the full document, including all the text that was later amended, is to fail to acknowledge the struggle our nation has constantly fought, within and without, to 'keep' our Republic," he said in a written statement.
+
+"It is a failure to show Americans that while we seek a more perfect union, we do so from imperfect beginnings, through an imperfect history, with an imperfect government created by an imperfect document," he added.
+"We fail to show the American people that imperfection is not to be feared and that our ability to constantly improve on what the Founders gave us is a blessing, not a reason for divisiveness."
+
+Other lawmakers decried the exercise altogether, saying the Constitution is a living document that shouldn't be followed to the letter.
+
+"They are reading it like a sacred text," Rep. Jerrold Nadler, D-N.Y., the former chairman of the House Judiciary subcommittee on the Constitution, Civil Rights and Civil Liberties, told The Washington Post.
+
+Nadler derided what he called the "ritualistic reading" as "total nonsense" and "propaganda" intended to give Republicans claim to the document.
+He argued that the Founders were not "demigods" and that the document's needs for amendments to abolish slavery and other injustices showed it was "highly imperfect."
+
+"You are not supposed to worship your Constitution," he told the newspaper.
+"You are supposed to govern your government by it."
+
+But for all those who described the exercise as political waste -- including Vanity Fair magazine, which estimated it as costing more than $1 million -- supporters noted that it was an historic moment -- the first time the U.S. Constitution had been read on the U.S. House floor.
+
+"I think that this is a very symbolic showing to the American people and reminder to the members of congress that we are a government of laws not of men and that this Constitution is the foundation for all of our laws," Goodlatte said.
+
+And backers said that it wouldn't hurt to try to live by the aspirations of the Founding Fathers.
+
+"I don't think the Constitution is propaganda.
+I think it's a valuable exercise and an important moment in this Congress for us to read the Constitution," said Rep. Steve Israel, D-N.Y.
+"But I do think that you can't just read it like a speech and then leave skid marks on it in your legislative record."
+
+Historian Alan Brinkley of Columbia University told Fox News the reading may be "a bit of theater," but it is "not insignificant given that many Republicans have decided -- implausibly, in my opinion -- that the Constitution is the vehicle that can reduce the size of government."
+
+But Roger Pilon of the Cato Institute said Congress needs to re-read the Constitution to be reminded how out of control government has become.
+
+"Today the Congress regulates our lives and redistributes our wealth in ways that would shock the Founders," he said.
+"The Constitution, they wrote that to ensure limited government and they meant for most of us to live our lives free from government, in the private sector, planning and living our own lives, not as dependents on government goods and services."
+
+Pilon added that the Founders never intended for the Constitution to be viewed as fluid advice.
+
+"When liberals tell today that the Constitution is essentially a blank slate to be filled by transient majorities, nothing could be further from the truth.
+If that were so, it would never have been ratified in the first place," he said.
+
+As the Constitution was being read inside the lower chamber, Nadler and others gathered outside the Capitol to push for passage of the Equal Rights Amendment, a perennial effort to update the document with a statement on women.
+
+"John Boehner and his cronies are holding up the U.S. Constitution as a sacred, perfect document.
+But we know the Constitution is far from perfect because it does not guarantee women's equality," NOW President Terry O'Neill said in a statement.
+
+STEP 1:
+* sacred
+* imperfect
+* struggle
+* imperfect
+* blessing
+* divisiveness
+* ritualistic
+* nonsense
+* propaganda
+* demigods
+* highly
+* imperfect
+* worship
+* symbolic
+* historic
+* valuable
+* important
+* implausible
+* insignificant
+* shocking
+* transient
+* perfect
+
+SUMMARY:
+The reading of the U.S. Constitution aloud on the House floor sparked controversy as Republicans skipped obsolete parts, including those that counted slaves and Native Americans as three-fifths of a person. Democratic lawmakers argued that this undermined the exercise's objective, as it failed to acknowledge the nation's "struggle" to improve the document. Rep. Elijah Cummings said it was a "failure to show Americans that imperfection is not to be feared" and that the ability to constantly improve the document is a "blessing". Others, like Rep. Jerrold Nadler, deemed the exercise "total nonsense" and "propaganda", arguing that the Constitution is a "living document" that shouldn't be followed to the letter. Despite criticisms, supporters saw the reading as a "symbolic" and "historic" moment, reminding Congress that the Constitution is the foundation of all laws. END OF SUMMARY.
+
+Now, here is the target news article to summarize:
+Here is the news article:
+
+WASHINGTON - And on the second day of Republican rule, the House read the Constitution. Those wondering whether the reading would be dramatic found out on Thursday as volunteers gave voice to the seven articles and 27 amendments that make up the nation’s governing document. Republicans have made strict adherence to the Constitution a key tenet of their effort to reduce the size of the federal government. The House GOP will reportedly make it a requirement that all new bills put forth in the legislative body include “a statement by the lawmaker who wrote it citing the constitutional authority to enact the proposed legislation.” The Washington Post reported last week that reading the founding document in full appears to be a first in the chamber’s 221-year history: “Call it the tea party-ization of Congress. ... These are two standout changes on a long list of new rules Republicans will institute in the House when they assume the majority on Jan. 5. After handing out pocket-size Constitutions at rallies, after studying the document article by article and after demanding that Washington return to its founding principles, tea party activists have something new to applaud. A pillar of their grass-roots movement will become a staple in the bureaucracy that governs Congress.” Politics Daily recently reported: “Beyond its symbolic power, however, it is unclear what impact the new rule will have upon the nation. Under axiomatic legal precedent, virtually all congressional action is presumed valid anyway, at least initially. Moreover, by taking their oaths of office, lawmakers swear to abide by the Constitution, and virtually all legislation is vetted for constitutional support on some level by government lawyers before it makes it to committee or to the floor of the House. It is also quite obvious, from 223 years of legal and political debate on the topic, that the text of the Constitution itself, including those portions that deal with legislative power, is susceptible to many different (and often evolving) views and interpretations, a practical reality that would likely render most “Constitutional Authority Statements” controversial and contentious.” According to Peter Keating at Vanity Fair, $1.1 million is the estimated cost of GOP plans to read the document on the House floor.  “The amount I get is nearly $1.1 million. $1,071,872.87, to be exact, though of course this is more back-of-the-envelope than exact. When one chamber of Congress is in session but not working, we the people still have to pay for members’ salaries and expenses, and for their police protection, and for keeping their lights and phones and coffee machines on.” “We always hear members of Congress talking about swearing an oath to represent their constituents, when in reality the only oath we take is to the Constitution,” explained newly-minted Speaker John Boehner to the Post. “On November 2nd, voters called for an end to reckless spending and a renewed commitment to the Constitution,” said Rep. Michele Bachmann (R-Minn.), who has emerged a prominent voice of the Tea Party movement, to the Post. “These new rules show that Republicans are serious about respecting the Constitution.” Also on Thursday, the House is to take up its first spending cut measure, a proposed 5 percent trim in the budgets of leadership, rank-and-file member and committee offices. Republicans have estimated that this will save $35 million over the next nine months.
+
+(1) First, you identify all the single words that are morally framed. Identify this step as "STEP 1:" and report each word in a new line starting with *
+(2) Finally, you write a summary of the news article. Please preserve as many morally framed words as possible in your summary. The summary has to be returned after a "SUMMARY:" token and ending with a "END OF SUMMARY." token. The summary should be no longer than 200 words.

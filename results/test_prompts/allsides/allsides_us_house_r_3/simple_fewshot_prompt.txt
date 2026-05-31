@@ -1,0 +1,250 @@
+You have to summarize the following text preserving the moral framing that the author gave to it.
+
+Please study the following examples of news articles and their summaries preserving the moral framing:
+
+Example 1 (Political Ideology: Left):
+Here is the news article:
+
+He is also investigating corruption allegations involving Hunter Biden, son of the presumtive Democratic presidential nominee, stemming from the younger Biden’s role on the board of the Ukrainian gas company Burisma.
+Trump and congressional Republicans have claimed the former vice president sought to shield his son from a Ukrainian-led investigation into Burisma — though Biden denies the allegation.
+
+In both instances, Democrats have accused Johnson of abusing his power, misusing the Senate’s oversight resources to boost Trump’s political prospects and even operating a Russian disinformation front that jeopardizes U.S. election security — all serious allegations, even in today’s hyperpartisan Senate.
+But Johnson insists it’s just the opposite.
+
+“I’m a very nonpartisan guy.
+I just am,” Johnson said in an interview.
+“I like using the word nonpartisan.”
+
+Privately, Senate Republicans are worried that the efforts to relitigate the Russia investigation and the events of 2016 could backfire, according to a GOP senator who was granted anonymity to candidly address the situation.
+Republicans are especially concerned about the perception that their priorities are not in order as the country is reeling from the coronavirus pandemic, staggeringly high unemployment and unrest over recent police killings of unarmed African Americans.
+
+Despite the partisan tensions and intensifying harshness of the disputes, Johnson is unfazed by the criticism — even as he increasingly finds himself on defense.
+
+“I’m not doing anybody’s bidding,” said Johnson, who has chaired the Senate Homeland Security and Governmental Affairs Committee since 2015.
+“I am doing this because I’m concerned about this democracy, and I’m concerned about what happened starting before the election, during the transition, and what continued certainly through the impeachment trial.”
+
+According to Johnson, the Homeland Security panel’s probe has uncovered information that shows the incoming Trump administration was “sabotaged” by the outgoing Obama team.
+Johnson portrays his investigation as an honest effort to find the truth and reform the presidential transition process to ensure a peaceful transition of power.
+
+“I’m just a straight shooter.
+I call them as I see them,” he said.
+
+Democrats contend that’s far from the truth.
+They note that Johnson intends to release reports in the summer and the fall on his twin investigations, which would thrust the issues back into the spotlight as Election Day nears.
+They also point to his comments earlier this year in which he said former Vice President Joe Biden “has not adequately answered” for his son’s role on the board of a Ukrainian energy company, adding: “If I were a Democrat primary voter, I’d want these questions satisfactorily answered before I cast my final vote.”
+
+And after Johnson released a declassified list of former Obama administration officials who potentially “unmasked” former national security adviser Michael Flynn’s name in intelligence reports, the Trump campaign seized on the fact that Joe Biden’s name was on the list — even as Biden’s precise involvement was not clear.
+
+“We’re in the middle of a pandemic and a peaceful uprising against police brutality, and [Johnson is] running errands for the Republican National Committee,” Sen. Brian Schatz (D-Hawaii) said in a brief interview.
+“And it’s a misuse of his position.”
+
+Minutes later, Schatz ran into Johnson outside the Senate chamber and told him: “Hey Ron, somebody asked me about your investigations and I wasn’t that nice.” Johnson laughed and replied, “That’s OK.”
+
+Johnson later dismissed the interaction as being representative of the “collegial” nature of the Senate.
+But it also underscored the reality of how investigations into Trump’s political enemies that began after the Senate’s impeachment trial have been gripping the body ever since.
+
+As he defended himself, Johnson contended that Democrats are simply “afraid of the truth.”
+
+“Anybody that could take a look at what we already know and say, well we should just close our eyes and ears to this, let’s stop looking at this — I would say doesn’t really care about the fact that the transition was corrupted,” Johnson said.
+
+“I’m just tenacious.
+I’m dedicated to getting the information,” he added.
+“And the question I have for my Democratic colleagues — what are you afraid of?
+What part of the truth that I hope we can reveal are you worried about?”
+
+SUMMARY:
+
+Senator Ron Johnson is investigating corruption allegations involving Hunter Biden, son of the presumptive Democratic presidential nominee, and claims that the Obama administration "sabotaged" the incoming Trump administration during the presidential transition. Johnson denies accusations of abusing his power and misusing Senate resources to boost Trump's political prospects, insisting he is a "nonpartisan guy" seeking the truth. Democrats, however, accuse Johnson of operating a Russian disinformation front that jeopardizes U.S. election security and prioritizing partisan investigations over pressing national issues like the coronavirus pandemic and police brutality. Johnson's probe has uncovered information that he claims shows the transition was "corrupted," and he plans to release reports in the summer and fall, which Democrats argue will thrust the issues back into the spotlight as Election Day nears.
+
+END OF SUMMARY.
+
+Example 2 (Political Ideology: Center):
+Here is the news article:
+
+WASHINGTON (Reuters) - U.S. Democrats on Monday sought to bolster the case for impeaching President Donald Trump, describing his pressuring of Ukraine to investigate a political rival as a “clear and present danger” to free and fair elections and national security.
+
+In a raucous hearing that could lay the groundwork for a vote later this week on formal impeachment charges in the House of Representatives Judiciary Committee, the top Democrat on the panel said there was extensive proof of Trump’s wrongdoing.
+
+“The evidence shows that Donald J. Trump, the president of the United States, has put himself before his country.
+He has violated his most basic responsibilities to the people.
+He has broken his oath,” Representative Jerrold Nadler said in an opening statement.
+
+Republicans fired back, peppering the hearing with objections, points of order and other parliamentary maneuvers, forcing Nadler to gavel them into silence.
+The proceedings were briefly disrupted by a man who shouted that Democrats were committing treason before he was led away by police.
+
+“Presumption has now become the standard instead of truth,” said Representative Doug Collins, the ranking Republican on the panel.
+“They’re desperate to have an impeachment vote on this president.”
+
+The hearing on Monday was a key step before determining charges, known as articles of impeachment, that the full Democratic-controlled House is likely to vote on before Christmas.
+
+If Trump is impeached, a trial would be held in the Republican-controlled Senate, where a two-thirds majority of those present would be needed to vote to remove the president from office.
+A conviction is considered unlikely.
+
+The heart of the impeachment battle, which has divided Americans, is whether Trump abused his power by pressuring Ukraine to investigate former Vice President Joe Biden, who is seeking the Democratic nomination to face Trump in the 2020 election, and then obstructed Congress’ investigation.
+
+Trump denies wrongdoing and has called the probe a hoax.
+
+The House Judiciary panel is expected to vote by the end of the week on whether to send formal charges to the full House.
+
+That would set up an inevitable clash with the White House and its Republican allies, who have branded the impeachment inquiry a fanciful but not factual effort by Democrats to unseat a president who has done nothing to merit removal from office.
+
+No current House Republican has come out in favor of impeaching Trump.
+
+The White House has refused to participate in the hearings in the House, including those before the Judiciary Committee, because it says the process is unfair.
+
+White House spokeswoman Stephanie Grisham tweeted during Monday’s testimony that there was no evidence of wrongdoing by Trump and that “there’s no obstruction whatsoever.”
+
+In a letter to Collins, Nadler denied Republicans’ request for eight witnesses to appear before the inquiry.
+
+FILE PHOTO: U.S. President Donald Trump delivers remarks at the Israeli American Council National Summit in Hollywood, Florida, U.S., December 7, 2019.
+
+‘BALONEY’
+
+It has been 20 years since Americans last witnessed impeachment proceedings, when Republicans brought charges against Democratic President Bill Clinton arising from a sexual relationship he had with a White House intern.
+He was acquitted in the Senate.
+
+After weeks of investigation into Trump’s request that Ukraine investigate Biden and his businessman son, Hunter Biden, the committee is focused on two articles charging Trump with abuse of power and obstruction of Congress.
+
+Democrats have accused Trump of abusing his power by withholding $391 million in security aid to Ukraine - a vulnerable U.S. ally facing Russian aggression - and holding back a coveted White House meeting with Ukrainian President Volodymyr Zelenskiy as leverage to pressure Kiev into investigating the Bidens.
+
+But they appeared to back away from basing one of the articles of impeachment on former Special Counsel Robert Mueller’s report on Russian interference in the 2016 U.S. elections.
+Some Democrats believe Trump’s campaign colluded with Moscow, an allegation that has been denied by Trump and was not established by Mueller’s probe.
+
+Daniel Goldman, the majority counsel for the House Intelligence Committee, picked up on Democrats’ argument that leaving Trump in office would open the door to further undermining of the U.S. electoral process.
+
+“Trump’s persistent and continuing effort to coerce a foreign country to help him cheat to win an election is a clear and present danger to our free and fair elections and to our national security,” Goldman said during Monday’s hearing.
+
+Stephen Castor, a Republican attorney, said the inquiry had uncovered no direct evidence of impeachable offenses and that Democrats’ case boiled down to a small part of Trump’s July 25 phone call with Zelenskiy.
+It was during that call that Trump sought investigations of the Bidens and a debunked theory that Ukraine, not Russia, interfered in the 2016 U.S. election.
+
+“To impeach a president who 63 million people voted for over eight lines in a call transcript is baloney.
+Democrats seek to impeach president Trump ... because they disagree with his policies,” Castor said.
+
+Separately, the U.S. Justice Department’s internal watchdog said on Monday it found numerous errors but no evidence of political bias by the FBI in opening a probe into contacts between Trump’s presidential campaign and Russia in 2016.
+
+Democrats intend to decide which articles to bring forward after Monday’s hearing, which also showcased the findings of a 300-page report by Intelligence Committee Democrats that levels allegations of sweeping abuse of power against Trump.
+
+Republicans have their own, 110-page report, which argues that the inquiry has relied on “unelected bureaucrats” who “fundamentally disagreed with President Trump’s style, world view and decisions” but presented no evidence amounting to an impeachable offense.
+
+SUMMARY:
+
+US Democrats are pushing for President Donald Trump's impeachment, citing his pressure on Ukraine to investigate a political rival as a "clear and present danger" to free and fair elections and national security. The House Judiciary Committee hearing was marked by partisan clashes, with Republicans accusing Democrats of desperation and treason. Democrats argue that Trump abused his power by withholding aid to Ukraine and obstructing Congress' investigation, violating his oath and putting his interests above the country's. Republicans claim there is no evidence of wrongdoing and that the inquiry is unfair and biased. The committee is expected to vote on formal impeachment charges by the end of the week, which would set up a clash with the White House and Republican allies. The moral framing of the article emphasizes the gravity of Trump's actions, portraying him as a threat to democratic values and national security.
+
+END OF SUMMARY.
+
+Example 3 (Political Ideology: Right):
+Here is the news article:
+
+President Trump’s immigration compromise package to end the partial government shutdown drew sharp reactions from Democratic and Republican lawmakers alike.
+
+In a televised White House address on Saturday afternoon, Trump offered Democrats a three-year extension of protections for 700,000 Deferred Action for Childhood Arrivals (DACA) recipients, in exchange for the $5.7 billion he has been seeking for a barrier along the nation's southern border with Mexico.
+
+“Our immigration system should be a source of pride ... not a source of shame as it is all over the world,” Trump said in his plea.
+
+The president’s proposal was met with disdain from an array of top Democratic lawmakers.
+Many used the same language in their critiques, accusing Trump of holding the government and federal workers "hostage."
+
+House Speaker Nancy Pelosi, D-Calif., tweeted, “What we didn’t hear from the President was any sympathy for the federal workers who face so much uncertainty because of the chaos of the #TrumpShutdown.”
+
+Before Trump made his announcement, Pelosi had called his anticipated proposal “a non-starter.”
+
+“For one thing, this proposal does not include the permanent solution for the Dreamers and TPS recipients that our country needs and supports.”
+
+For his part, Chuck Schumer, the Senate minority leader, called Trump's proposal "one-sided and ineffective."
+
+"It's clear the President realizes that by closing the government and hurting so many American workers and their families, he has put himself and the country in an untenable position.
+Unfortunately, he keeps putting forward one-sided and ineffective remedies.
+There's only one way out: open the government, Mr. President, and then Democrats and Republicans can have a civil discussion and come up with bipartisan solutions."
+
+Schumer, D-N.Y., concluded, "It was the President who single-handedly took away DACA and TPS protections in the first place – offering some protections back in exchange for the wall is not a compromise but more hostage taking."
+
+House Majority Leader Steny Hoyer shared a similar sentiment, urging Trump and Sen. Mitch McConnell to "stop holding government hostage and end the shutdown" immediately.
+
+“The president must stop holding government hostage and end the shutdown so federal employees can get back to work serving the American people.
+There is no reason for Americans to be shut out of work and without a paycheck while negotiations take place on the best way to secure our borders,” he said.
+
+Hoyer said negotiation can progress after the government reopens.
+
+“With the government open, we can negotiate an agreement to strengthen border security that both sides can support and that is in the best interests of the American people.”
+
+Another leading Dem, Sen. Kristen Gillibrand of New York, who announced her White House bid on Jan. 15 in an episode of "The Late Show with Stephen Colbert," said Trump's offer was a "bad deal."
+
+Gillibrand tweeted: "Trump ordered the end of DACA and TPS.
+Then he shut down the government.
+Now he's holding federal workers hostage, saying he'll temporarily give back what he took away -- only if we give him a pointless, ineffective wall he falsely promised Mexico would pay for.
+This is a bad deal."
+
+Then there was New Jersey Sen. Bob Menendez's response. He bluntly accused Trump of forcing "a pointless shutdown" to pay for the border wall.
+
+"This is about more than 800,000 Americans who are being held hostage by a President who has forced a pointless shutdown to pay for an expensive, ineffective wall.
+This is not about immigration.
+Dreamers and TPS recipients are not bargaining chips.
+It's unacceptable that after taking away DACA protections, eliminating the TPS program for thousands of immigrants and creating a humanitarian crisis at the border, President Trump is offering temporary solutions in exchange for a permanent wall."
+
+The Democratic senator also said "a legitimate negotiation" can proceed after the government is reopened.
+
+Fellow Democratic Sen. Chris Coons of Delaware slammed McConnell for refusing "to meaningfully negotiate with Senate Democrats," but also called Trump's offer "a first step toward comprehensive immigration reform."
+
+"This senseless government shutdown is hurting millions of Americans, and its impacts are only getting worse. The President should re-open the government so that Republicans and Democrats in Congress can work with the White House to find a sensible solution on border security and immigration.
+I am confident that a reasonable compromise can be reached, but not while President Trump continues to keep significant parts of the government shut down and Leader McConnell refuses to meaningfully negotiate with Senate Democrats," he said.
+
+"Some relief for Dreamers and an extension of Temporary Protected Status represent a first step toward comprehensive immigration reform, but more ideas from members of both parties should be taken up and debated.
+Republicans and Democrats stand ready to work toward a solution, but the fact remains that there is no reason to have large parts of the federal government shut down while we debate appropriate border security and immigration policies."
+
+Republican lawmakers, at the opposite end of the reaction spectrum, praised the president for his willingness to negotiate.
+
+Senate Majority Leader McConnell, for instance, commended the president "for taking bipartisan steps toward addressing current immigration issues."
+
+In his statement, he said; “Compromise in divided government means that everyone can’t get everything they want every time.
+The president’s proposal reflects that.
+It strikes a fair compromise by incorporating priorities from both sides of the aisle."
+
+“This bill takes a bipartisan approach to re-opening the closed portions of the federal government.
+It pairs the border security investment that our nation needs with additional immigration measures that both Democrat and Republican members of Congress believe are necessary.
+Unlike the bills that have come from the House over the past few weeks, this proposal could actually resolve this impasse.
+It has the full support of the President and could be signed into law to quickly reopen the government."
+
+Republican Whip Steve Scalise called on Democrats to match Trump's willingness to negotiate.
+
+"The time for political games has long passed.
+Democrats must put their personal dislike of the president aside, end their obstruction, and finally come to the negotiating table.
+It's time Democrats do what is right for the functioning and security of our nation and agree to a deal that opens our government, and includes funding for a border wall and other measures to solve this serious immigration crisis at our southern border," he said in a statement.
+
+Also on the Republican side, Sen. Susan Collins of Maine said she was "hopeful" for a "constructive debate" with Democrats.
+
+“Compromise is not a sign of weakness — it’s a sign of strength, particularly when hundreds of thousands of families are being harmed.
+The Administration, Senate Republicans, and Democrats must now resolve this stalemate before 800,000 federal workers and their families miss yet another paycheck, and our economy is further damaged,” she said.
+
+Sen. Mitt Romney, R-Utah, whose views on the president and his policies have fluctuated, said Trump "put forth a reasonable, good faith proposal that will reopen the government and help secure the border."
+
+He tweeted, "I look forward to voting for it and will work to encourage my Republican and Democratic colleagues to do the same.
+
+Earlier, while speaking in Ogden, Utah, Romney said he did not understand Pelosi's position on border security.
+
+"You (Pelosi) and your fellow Democrats have voted for over 600 miles of border fence in the past, why won't you vote for another few miles now? I don't understand their position, I really don't," the Republican senator said.
+
+Florida Sen. Marco Rubio took a positive view of Trump's proposed deal, like his fellow Republicans.
+He said Trump made "a very reasonable offer" and urged Democrats to work with him.
+
+“The way to end this shutdown is for both sides to make mutual concessions in order to reach an agreement.
+The president has made a very reasonable offer to extend DACA and TPS protections in exchange for the border security measures he supports.
+I hope that instead of choosing the road of endless obstruction, Democrats will decide to work with him to reach an agreement and end the shutdown,” he said.
+
+Likewise, House Republican Leader Kevin McCarthy called the president's immigration offer "reasonable."
+
+McCarthy tweeted: "President Trump has put forward a serious and reasonable offer to reform parts of our broken immigration system and reopen government.
+The moment now turns to Nancy Pelosi and Chuck Schumer. The country is watching."
+
+
+SUMMARY:
+
+President Trump's immigration compromise package to end the partial government shutdown has been met with sharp reactions from Democratic and Republican lawmakers. Trump offered Democrats a three-year extension of protections for 700,000 Deferred Action for Childhood Arrivals (DACA) recipients in exchange for the $5.7 billion he has been seeking for a barrier along the nation's southern border with Mexico. Democratic lawmakers, including House Speaker Nancy Pelosi and Senate Minority Leader Chuck Schumer, have accused Trump of holding the government and federal workers "hostage" and have rejected his proposal, calling it "one-sided" and "ineffective." They argue that Trump is using DACA recipients as "bargaining chips" and that his proposal does not provide a permanent solution for Dreamers and TPS recipients. Republican lawmakers, on the other hand, have praised Trump for his willingness to negotiate and have called on Democrats to match his willingness to find a compromise.
+
+END OF SUMMARY.
+
+Now, here is the target news article to summarize:
+Here is the news article:
+
+House Republicans on Wednesday stormed the secure room where lawmakers have been conducting the impeachment probe against President Trump, upending a scheduled deposition as they demanded fairness from the Democrats running the show. The move enraged Democrats, who said as part of their protest the Republican lawmakers carried electronics into the secure area, creating a potential security lapse. They demanded the 30 or so Republican protesters face ethics charges. GOP lawmakers brushed those complaints aside, saying the hearing they disrupted, involving Defense Department official Laura Cooper, was not classified, and saying Democrats have broken the rules of fairness by shutting them out of the impeachment process. “House Democrats are bypassing constitutional norms and basic standards of due process with their impeachment obsession,” said Rep. Mark Walker, North Carolina Republican. “The president is not above justice. But, as you know, neither is he below it.” Another Republican, Rep. Debbie Lesko of Arizona, was more direct. “This is an outrage,” she said. The Democrats’ impeachment inquiry into Mr. Trump’s communications with Ukraine over former Vice President Joseph R. Biden, a political opponent, is not following any of the precedents for impeachment proceedings. Mr. Trump’s lawyers have been denied the chance to see evidence or call their own witnesses, and Republicans have been denied subpoena power. The work of the impeachment committees has been restricted, even from some Republican members of those committees. Wednesday’s protest involved lawmakers who aren’t on the impeachment committees but who say under House rules they have a right to see what’s going on. Democrats counter that Republicans on the committees can participate and ask questions, and that is good enough. “This investigation is being conducted by the Intelligence Committee, and members of the Republican side were there if they chose to be during the depositions and they certainly were permitted to ask whatever questions they wanted to,” said Rep. Val Demmings Florida Democrat. “They have access to transcripts and information that were available.” House Intelligence Committee Chairman Adam B. Schiff, California Democrat, threatened to bring ethics charges against the Republican protesters, and Homeland Security Committee Chairman Bennie G. Thompson asked the sergeant at arms to probe the breach of the room, known as a Sensitive Compartmented Information Facility or SCIF. Rep. Eric Swalwell, California Democrat, said the problem was that lawmakers brought in electronic devices, which are usually banned. “And they not only brought in their unauthorized device, they may have brought in the Russian and Chinese with electronics in a secure space,” Mr. Swalwell said. Ms. Schiff shut down the questioning of Ms. Cooper during the GOP protest, which turned into an hours-long sit-in. Ms. Cooper ultimately did testify, five hours after she was scheduled to begin. Members on both sides were mum on the details of what she said. Her testimony comes a day after a former U.S. diplomat to Ukraine told lawmakers that Mr. Trump made the release of military aid to Ukraine contingent on that country probing Mr. Biden and his son Hunter, who was on the board of directors of Ukrainian energy company Burisma. That diplomat, William Taylor, said he uncovered an “irregular” backchannel managed by Mr. Trump’s personal attorney Rudolph W. Giuliani to push Ukraine into investigating the Bidens and 2016 election interference. Republicans said Mr. Taylor’s testimony was “contradicted” by other witnesses who said there was no quid pro quo. “Much of what Mr. Taylor said yesterday was second- and third-hand information,” said House Majority Leader Kevin McCarthy, California Republican. In the wake of Mr. Taylor’s testimony, the committees leading the impeachment probe issued a new demand for State Department documents, including text messages from witnesses and any memos regarding efforts to press Ukraine to open investigations. Meanwhile, three Democratic senators filed a Freedom of Information Act request with the Justice Department for documents related to Ukraine. And a federal judge ordered the State Department to begin releasing Ukraine-related documents within 30 days. Those documents include communications between Mr. Giuliani and Secretary of State Mike Pompeo. U.S. District Judge Christopher Cooper, an Obama appointee, issued the ruling in response to a Freedom of Information Act request by American Oversight, a left-leaning government watchdog organization.
+
+The summary has to be returned after a "SUMMARY:" token and ending with a "END OF SUMMARY." token. The summary should be no longer than 200 words.

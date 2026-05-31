@@ -1,0 +1,202 @@
+You have to summarize the following text preserving the moral framing that the author gave to it.
+
+Please study the following examples of news articles, their moral word extraction, and summaries preserving the moral framing:
+
+Example 1 (Political Ideology: Left):
+Here is the news article:
+
+Rep. Bruce Braley (D-Iowa), who is running to succeed retiring Sen. Tom Harkin (D-Iowa), faced tough local coverage Tuesday after critical comments he made about Sen. Chuck Grassley (R-Iowa) were made public.
+
+At a January fundraiser in Texas, Braley urged the attorneys present to contribute to his campaign and contrasted his background with Grassley's.
+
+"If you help me win this race, you may have someone with your background, your experience, your voice ... on the Senate Judiciary Committee," Braley said.
+"Or you might have a farmer from Iowa who never went to law school, never practiced law, serving as the next chair of the Senate Judiciary Committee," he continued, referring to Grassley.
+
+Braley's remarks were released Tuesday by America Rising, a conservative political action committee which conducts opposition research on Democrats.
+
+One of the Republican primary field's leading candidates, businessman Mark Jacobs, immediately released a radio ad in an attempt to capitalize on the negative attention focused on Braley.
+
+Both the Des Moines Register and the Quad-City Times featured the backlash over Braley’s comments on their front pages.
+
+Braley apologized to Grassley in person on Tuesday after state Republican Party leaders and a number of Braley's potential Republican general election opponents condemned his remarks.
+
+The representative also posted a statement Tuesday in which he apologized and emphasized that he has farmers in his family.
+
+“I apologize to Sen. Grassley and anyone I may have offended,” Braley wrote.
+“My parents both grew up on Iowa farms during the Great Depression.
+It deeply influenced who they are and who I am, and gave me a profound appreciation for what farmers do for the world.”
+
+Grassley, who owns a farm, often notes in Senate Judiciary Committee hearings that he is the only non-lawyer on the panel, which oversees the judicial nominations process.
+
+Braley went to the University of Iowa's law school and worked as a lawyer in private practice before he was elected to the House of Representatives in 2006.
+His race is one of a handful across the country that will determine control of the Senate.
+
+STEP 1:
+* critical
+* tough
+* negative
+* backlash
+* condemned
+* apologized
+* offended
+* profound
+* appreciation
+
+SUMMARY:
+Rep. Bruce Braley (D-Iowa) faced tough local coverage after critical comments he made about Sen. Chuck Grassley (R-Iowa) were made public. Braley's remarks, which were released by a conservative political action committee, were seen as negative and sparked backlash from state Republican Party leaders and his potential Republican general election opponents. Braley apologized to Grassley in person and posted a statement, emphasizing his profound appreciation for farmers and expressing regret for any offense caused. The incident has put Braley's campaign in a critical spotlight, with his opponents seeking to capitalize on the negative attention. The race is one of a handful across the country that will determine control of the Senate. END OF SUMMARY.
+
+Example 2 (Political Ideology: Center):
+Here is the news article:
+
+Donald J. Trump on Tuesday assailed Justice Ruth Bader Ginsburg of the Supreme Court for speaking out on the presidential race, calling her disdainful remarks about his candidacy “highly inappropriate” and suggesting that she owed other justices an apology.
+
+Mr. Trump’s remarks came in a telephone interview with The Times two days after Justice Ginsburg was quoted as saying she was frightened about what the nation would look like if he were elected.
+
+“I can’t imagine what this place would be — I can’t imagine what the country would be — with Donald Trump as our president,” Justice Ginsburg told The Times in an interview published Sunday.
+“For the country, it could be four years.
+For the court, it could be — I don’t even want to contemplate that.”
+She even joked ruefully about moving to New Zealand.
+
+Mr. Trump, the presumptive Republican nominee, said he found those remarks unbefitting a member of the high court.
+
+“I think it’s highly inappropriate that a United States Supreme Court judge gets involved in a political campaign, frankly,” Mr. Trump said.
+“I think it’s a disgrace to the court and I think she should apologize to the court.
+I couldn’t believe it when I saw it.”
+
+He continued: “That she should be saying that?
+It’s so beneath the court for her to be making statements like that.
+It only energizes my base even more.
+And I would hope that she would get off the court as soon as possible.”
+
+Mr. Trump also said he expected to announce his choice of a running mate by Friday, winding down a process that has been closely watched as in all likelihood the most significant decision he will make in his campaign.
+
+“I have five candidates, plus two, two that are unknown to anybody,” Mr. Trump said from Chicago, where he was raising money for his campaign.
+
+“I will be making a decision over the next three- to four-day period of time, and I think it will be a decision that will be a very good decision for a lot of people,” he added.
+
+Mr. Trump said that he was not basing his vice-presidential selection on fund-raising prowess or potential, and indicated that he had had enough experience with many of those he has been considering for the job that their tryouts on the campaign trail would not necessarily be determinative.
+
+“I’ve been with these people for a long time — I know them,” Mr. Trump said, specifically invoking Gov. Chris Christie of New Jersey and Newt Gingrich, the former House speaker.
+“Christie was excellent yesterday and Newt is excellent.” Mr. Trump will appear on Tuesday night in Indiana with Gov. Mike Pence, who has risen in the estimation of many of the nominee’s advisers.
+
+Mr. Trump said his decision was largely coming down to instinct.
+“A lot of is gut. A lot of it is,” he said.
+“My whole life has been about gut.”
+
+He also suggested that he would consider polling in states like heavily Democratic Connecticut, which he again said he believed he could put in play in November.
+
+Asked for quick thoughts about each of the candidates he is known to be considering, Mr. Trump played along.
+
+Governor Christie? “Strong,” he said.
+
+Retired Lt. Gen. Mike Flynn? “A patriot.”
+
+Senator Joni Ernst of Iowa? “A terrific, exciting person.”
+
+Governor Pence? “Solid as a rock.”
+
+And Mr. Gingrich? “Newt is Newt. He’s a good guy.”
+
+STEP 1:
+* inappropriate
+* highly
+* disdainful
+* frightened
+* unbefitting
+* disgrace
+* beneath
+* excellent
+* strong
+* patriot
+* terrific
+* exciting
+* solid
+* good
+
+SUMMARY:
+Donald Trump criticized Supreme Court Justice Ruth Bader Ginsburg for her "disdainful" remarks about his candidacy, calling them "highly inappropriate" and a "disgrace" to the court. Trump suggested that Justice Ginsburg owed the other justices an apology and even implied that she should step down from the court as soon as possible. In an interview, Justice Ginsburg had expressed her fears about what the country would be like with Trump as president, saying she couldn't imagine it. Trump, on the other hand, defended his candidacy, saying that Justice Ginsburg's comments only "energized" his base. Meanwhile, Trump also discussed his search for a running mate, saying that his decision would be based on instinct and that he had a few "strong" and "excellent" candidates in mind. END OF SUMMARY.
+
+Example 3 (Political Ideology: Right):
+Here is the news article:
+
+Supreme Court Justice Ruth Bader Ginsburg faced a growing and bipartisan backlash Wednesday -- including a call from Donald Trump to resign -- as she doubled down on her criticism of the presumptive GOP nominee, calling him a “faker” who is unqualified to be president.
+
+Even political figures and newspaper editorial writers who might agree with the comments swiftly said they were out of line for a high court justice.
+
+And Trump himself lashed out on Twitter, saying:
+
+Justice Ginsburg of the U.S. Supreme Court has embarrassed all by making very dumb political statements about me.
+Her mind is shot - resign!
+
+The liberal icon justice had kicked off the storm with comments to The New York Times published Saturday.
+“I can’t imagine what this place would be — I can’t imagine what the country would be -- with Donald Trump as our president.
+For the country, it could be four years.
+For the court, it could be -- I don’t even want to contemplate that,” she said.
+
+She doubled down late Monday, telling CNN: “He is a faker.”
+
+"He has no consistency about him.
+He says whatever comes into his head at the moment.
+He really has an ego.
+... How has he gotten away with not turning over his tax returns?
+The press seems to be very gentle with him on that," she said.
+
+Trump swiftly responded Tuesday, telling the Times it was “highly inappropriate that a United States Supreme Court judge gets involved in a political campaign.”
+
+“I think it’s a disgrace to the court and I think she should apologize to the court.
+I couldn’t believe it when I saw it,” the presumptive Republican nominee said.
+
+Trump’s criticisms were echoed by Republican congressional leaders.
+Senate Majority Leader Mitch McConnell said Tuesday Ginsburg’s comments were “totally inappropriate.”
+
+"It raises a level of skepticism that the American people have from time to time about just how objective the Supreme Court is, whether they're over there to call the balls and strikes, or weigh in on one side or another," he said.
+
+House Speaker Paul Ryan used similar language at a CNN event Tuesday.
+
+"For someone on the Supreme Court who is going to be calling balls and strikes in the future based upon whatever the next president and Congress does, that strikes me as inherently biased and out of the realm," Ryan said.
+
+Ginsburg’s comments also left Democratic lawmakers squirming.
+
+“We all know that the justices on the Supreme Court have political views.
+I’m not sure we’re well served by them airing them out in the open,” Sen. Chris Murphy, D-Conn., told Politico.
+
+“She may have got out over her skis a little bit and more forthright and political than she should have been.
+It’s very unusual,” Senate Minority Whip Dick Durbin, D-Ill., told the outlet.
+
+Mainstream media outlets also joined in the chorus of criticism.
+
+“However valid her comments may have been, though, and however in keeping with her known political bent, they were still much, much better left unsaid by a member of the Supreme Court,” The Washington Post’s editorial board said Tuesday.
+“Politicization, real or perceived, undermines public faith in the impartiality of the courts.”
+
+The board noted the Code of Conduct for U.S. judges says that a “judge should not ... publicly endorse or oppose a candidate for public office.”
+
+The New York Times also chimed in: “Washington is more than partisan enough without the spectacle of a Supreme Court justice flinging herself into the mosh pit."
+
+Wednesday morning brought some relief for the under-fire justice, with Vermont Sen. Bernie Sanders giving qualified support for her comments.
+While the Democratic presidential candidate declined to comment on whether her comments were appropriate, he said on ABC he agrees Trump is a "total opportunist" and said "the record is quite clear that he lies just a whole lot of the time."
+
+STEP 1:
+* dumb
+* embarrassed
+* inappropriate
+* disgrace
+* skeptical
+* biased
+* forthright
+* unusual
+* politicization
+* impartiality
+* spectacle
+* opportunist
+* lies
+
+SUMMARY:
+Supreme Court Justice Ruth Bader Ginsburg faced a bipartisan backlash for her criticism of Donald Trump, calling him a "faker" who is unqualified to be president. Trump responded, saying Ginsburg's comments were "dumb" and "inappropriate", and that she should "resign" because her mind is "shot". Many politicians and newspaper editorial writers, including Republicans and Democrats, agreed that her comments were out of line for a high court justice, citing concerns about politicization and impartiality. Even those who agreed with her views said she should not have aired them publicly. The criticism was so widespread that it raised questions about the court's impartiality and the politicization of the judiciary. Only Senator Bernie Sanders offered qualified support, calling Trump a "total opportunist" who "lies just a whole lot of the time". END OF SUMMARY.
+
+Now, here is the target news article to summarize:
+Here is the news article:
+
+KANSAS CITY, Mo. — Leaders of the country's largest civil rights organization accused tea party activists on Tuesday of tolerating bigotry and approved a resolution condemning racism within the political movement. The resolution was adopted during the annual convention in Kansas City of the National Association for the Advancement of Colored People, spokesman Chris Fleming said. Tea party organizers disputed claims of racism and called on the NAACP to withdraw the resolution. Debate was mostly closed to the public, but the final version "calls on the tea party and all people of good will to repudiate the racist element and activities within the tea party," said Hilary Shelton, director of the NAACP's Washington bureau. "I hope it will empower the tea party to actually look at itself and see that there are those who are noticing things that I think most tea partiers don't want," he said. Sarah Palin, a vocal tea party supporter, said in a statement late Tuesday that she was "saddened by the NAACP's claim that patriotic Americans ... are somehow 'racists.'" The former Alaska governor said claims that tea party activists "judge people by the color of their skin" were false and appalling. The final wording won't be released until the NAACP's national board of directors approves the resolution during its meeting in October. But the original called for the NAACP to "educate its membership and the community that this movement is not just about higher taxes and limited government." It said something could evolve "and become more dangerous for that small percentage of people that really think our country has been taken away from them." "We felt the time had come to stand up and say, 'It's time for the tea party to be responsible members of this democracy and make sure they don't tolerate bigots or bigotry among their members,'" NAACP President Ben Jealous said ahead of the debate. "We don't have a problem with the tea party's existence. We have an issue with their acceptance and welcoming of white supremacists into their organizations," he said. Tea party activist Alex Poulter, who co-founded a Kansas City-area group called Political Chips, also disputed the allegations. He said the movement is made up of a "diverse group of folks who are upset with what is going on with this country." Poulter said he has seen no evidence of racism within the movement. "It's unfounded, but people are running with these accusations like they are true," he said. A group called the St. Louis Tea Party issued its own resolution Tuesday calling on the NAACP to withdraw the proposal. Though not affiliated with either major political party, tea party activists espouse a political philosophy of less government, a free market, lower taxes, individual rights and political activism. The group has faced occasional claims of racism, most notably in March near the end of the bitter health care debate. U.S. Reps. John Lewis, Andre Carson and Emanuel Cleaver said some demonstrators, many of them tea party activists, yelled a racial epithet as the black congressmen walked from House office buildings to the Capitol. Cleaver, D-Mo., also said he was spit on. A white lawmaker said he also heard the epithets, but conservative activists said the lawmakers were lying. "They are pulling people together and focusing on the negative, and then it's hard to make anything positive out of that," said Anita L. Russell, president of the Kansas City, Mo., branch of the NAACP, which introduced the resolution. "And then these groups, these extremist groups, are looking for something, and they are latching on to this."
+
+(1) First, you identify all the single words that are morally framed. Identify this step as "STEP 1:" and report each word in a new line starting with *
+(2) Finally, you write a summary of the news article. Please preserve as many morally framed words as possible in your summary. The summary has to be returned after a "SUMMARY:" token and ending with a "END OF SUMMARY." token. The summary should be no longer than 200 words.

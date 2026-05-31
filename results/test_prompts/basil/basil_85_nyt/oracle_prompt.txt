@@ -1,0 +1,32 @@
+You have to summarize the following text preserving the moral framing that the author gave to it.
+
+Here is the news article:
+
+BERKELEY HEIGHTS, N.J. — President Trump said on Saturday that conservative voices were being unfairly censored on social media, hinting that he might intervene if his allies’ accounts continued to be shut down. “Social Media is totally discriminating against Republican/Conservative voices,” Mr. Trump wrote on Twitter, saying that “censorship is a very dangerous thing.” “Speaking loudly and clearly for the Trump Administration, we won’t let that happen,” he added. Social media companies, facing pressure from lawmakers and users over their role in the rise of misinformation and partisan division, have promised to step up their enforcement practices. They have banned a number of pages and accounts in recent weeks for being involved in activity intended to disrupt the midterm elections, and almost all of the major platforms removed content from Alex Jones, the far-right conspiracy theorist, this month over what they called hateful and violent speech. After the content from Mr. Jones and his website, Infowars, was removed, he issued a plea to Mr. Trump to block the companies’ actions and “come out before the midterms and make the censorship the big issue.” In the same video appeal, Mr. Jones urged Mr. Trump to “point out that the communist Chinese have penetrated and infiltrated” the American election system and are “way, way worse than the Russians.” Minutes after his tweets on Saturday morning about social media, the president — who has long had an affinity for conspiracy theories — appeared to do just that. “All of the fools that are so focused on looking only at Russia should start also looking in another direction, China,” Mr. Trump wrote. “But in the end, if we are smart, tough and well prepared, we will get along with everyone! Mr. Trump’s tweets on Saturday, sent from his golf club in Bedminster, N.J., were not the first time he has accused social media companies of discriminating against Republicans. Last month, he joined with prominent conservatives who have seized on the heightened enforcement of guidelines and the concept of shadow banning on Twitter — making social media posts invisible to everyone except the posters themselves — as proof of biased attacks on their views. Twitter has said that it does not shadow ban users, although it has struggled to define what its policies against hate speech are. In the case of Mr. Jones, it did not initially join the other major platforms in removing his content, and has since taken relatively minor steps against him. Mr. Jones has had his posts and videos on his personal account and on Infowars severely restricted or removed by Apple, Facebook, Google and Spotify. Twitter, which initially said Mr. Jones and Infowars had not violated its policies, later suspended the two accounts for a week for violating rules against inciting violence. In his tweets on Saturday, Mr. Trump urged social media companies to “let everybody participate, good & bad,” saying that while networks like CNN and MSNBC might be “fake news,” he does not “ask that their sick behavior be removed.” Yet Mr. Trump has waged relentless attacks on news coverage that he does not like, and has long expressed hostility toward traditional press freedoms. He has vowed to “open up” the nation’s libel laws, even though those statutes are in fact state, not federal, laws. 
+
+The author used the following morally framed words in the article:
+* discriminating
+* censorship
+* dangerous
+* let
+* division
+* disrupt
+* hateful
+* violent
+* come
+* point
+* penetrated
+* infiltrated
+* smart
+* tough
+* prepared
+* speech
+* violating
+* inciting
+* violence
+* participate
+* fake
+* attacks
+* hostility
+
+Please preserve as many morally framed words as possible in your summary. The summary has to be returned after a "SUMMARY:" token and ending with a "END OF SUMMARY." token. The summary should be no longer than 200 words.

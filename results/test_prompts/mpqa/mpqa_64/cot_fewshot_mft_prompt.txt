@@ -1,0 +1,131 @@
+You have to summarize the following text preserving the moral framing that the author gave to it, with particular focus on the specific moral foundations highlighted in the text.
+
+Please study the following examples of news articles, their moral word extraction, and summaries preserving the moral framing:
+
+Example 1 (Political Ideology: Left, Moral Foundations: Authority/Subversion, Care/Harm, Fairness/Cheating):
+Here is the news article:
+
+New details have emerged about Sunday’s mass shooting at the First Baptist Church in Sutherland Springs, Texas, which killed 26 people, including children, elderly people and a pregnant woman.
+
+The suspected shooter was a 26-year-old white man named Devin Patrick Kelley from New Braunfels, Texas.
+Kelley enlisted in the U.S. Air Force in 2010.
+In 2012, he was court-martialed on charges he repeatedly hit, kicked and choked his wife, pointed a loaded gun at her and attacked his 18-month-old stepson with such force that it broke the toddler’s skull.
+
+Kelley was confined for a year and then thrown out of the Air Force with a bad conduct discharge in 2014.
+But on Monday, the Air Force admitted it had failed to report Kelley’s domestic violence court-martial to a federal database, meaning Kelley had no problem buying a Ruger AR-556 assault-style rifle at an Academy Sports + Outdoors store in San Antonio, Texas, in 2016.
+
+He reportedly used this gun to massacre the 26 people on Sunday.
+On Monday, authorities also said Kelley appears to have carried out the massacre because of a domestic dispute he had with his mother-in-law, who was a member of the First Baptist Church but was not present on Sunday.
+This is a spokesperson for the Texas Department of Public Safety.
+
+Freeman Martin: “One thing everybody wants to know is why did this happen.
+It’s a senseless crime, but we can tell you that there was a domestic situation going on within this family.
+The suspect’s mother-in-law attended this church.
+We know that he had made threatening—she had received threatening texts from him.
+And we can’t go into details about that domestic situation, that is continuing to be vetted and thoroughly investigated.
+But we want to get that out there, that this was not racially motivated.
+It wasn’t over religious beliefs.
+There was a domestic situation going on within the family.”
+
+On Monday, seven activists from the group Gays Against Guns were arrested during a die-in protest on Capitol Hill to demand stricter gun control.
+We’ll have more on Sunday’s shooting massacre after headlines.
+
+STEP 1:
+* senseless
+* threatening
+* bad
+
+SUMMARY:
+A mass shooting at the First Baptist Church in Sutherland Springs, Texas, killed 26 people, including children, elderly people, and a pregnant woman. The suspected shooter, Devin Patrick Kelley, had a history of domestic violence, having been court-martialed for assaulting his wife and stepson. Despite being confined for a year and receiving a bad conduct discharge from the Air Force, Kelley was able to purchase a gun due to the Air Force's failure to report his domestic violence court-martial to a federal database. Authorities believe Kelley carried out the massacre due to a domestic dispute with his mother-in-law, who was a member of the church. The crime is described as "senseless" and motivated by a "domestic situation" rather than racial or religious beliefs. The tragedy has sparked calls for stricter gun control, with activists from Gays Against Guns arrested during a die-in protest on Capitol Hill.
+END OF SUMMARY.
+
+Example 2 (Political Ideology: Center, Moral Foundations: Authority/Subversion, Care/Harm, Fairness/Cheating):
+Here is the news article:
+
+One of the nation’s largest and oldest civil rights groups passed a resolution Tuesday calling for Tea Party groups to weed “racist elements” out of their ranks.
+
+Delegates at the annual convention of the National Association for the Advancement of Colored People approved the measure Tuesday in Kansas City.
+
+Benjamin Todd Jealous, the president of the N.A.A.C.P., said the resolution was not an attempt to label the entire Tea Party movement as racist.
+But he said the groups needed to do more to distance themselves from known hate groups that actively encourage their members to join the Tea Party.
+
+“To this point, we have avoided calling them out and demanding them to be responsible,” Mr. Jealous said.
+“Now we’re saying that with increased public attention, increased power, comes the responsibility to act responsibly.”
+
+He added: “Knowing that the consequence of silence is violence in these times, we’re saying stand up and say enough is enough.
+They need to make clear that there is no place for the bigots in the Tea Party movement.”
+
+The resolution did not go over well with Tea Party groups and their supporters.
+
+Sarah Palin, the 2008 Republican vice presidential nominee, weighed in to defend the Tea Party movement on Monday when the resolution was proposed.
+On Fox News’ “Hannity,” she called on the Obamas to rebuke the N.A.A.C.P. and “set the record the straight.”
+
+The St. Louis Tea Party Coalition issued its own resolution against the N.A.A.C.P., accusing the civil rights body of acting as a “partisan political attack dog” and calling on the Internal Revenue Service to review the group’s tax-exempt status.
+
+The Tea Party movement has been beset with allegations of racism since black members of Congress preparing to vote on health care legislation accused protesters of hurling racial epithets, and in one instance, spitting on a congressman.
+
+Tea Party groups say there is no racism within the movement.
+
+STEP 1:
+* racist
+* hate
+* responsible
+* silence
+* violence
+* bigots
+* partisan
+
+SUMMARY:
+The National Association for the Advancement of Colored People (NAACP) has passed a resolution calling on Tea Party groups to expel "racist elements" from their ranks. NAACP President Benjamin Todd Jealous emphasized that the resolution is not meant to label the entire Tea Party movement as "racist," but rather to urge them to distance themselves from known "hate groups" that encourage their members to join the Tea Party. Jealous stressed that with increased power comes the "responsibility to act responsibly" and to condemn "bigots" within their ranks. The resolution was met with opposition from Tea Party groups and supporters, including Sarah Palin, who defended the Tea Party movement and accused the NAACP of being a "partisan political attack dog." The controversy highlights ongoing allegations of "racism" within the Tea Party movement, which its supporters deny. END OF SUMMARY.
+
+Example 3 (Political Ideology: Right, Moral Foundations: Authority/Subversion):
+Here is the news article:
+
+Republican senators kept up pressure on party Chairman Michael Steele Sunday to better explain -- and publicly apologize for -- his on-camera claim that Afghanistan is a "war of Obama's choosing" and may not be winnable.
+
+The backlash built quickly over the weekend as some prominent conservatives called for Steele's resignation.
+Speaking on "Fox News Sunday," Sen. Jim DeMint, R-S.C., would not go that far but said Steele must apologize to the troops.
+
+"Chairman Steele needs to apologize to our military, all the men and women who've been fighting in Afghanistan," he said.
+"This is America's war.
+It's not Obama's war."
+
+The GOP chairman is known for off-the-cuff and occasionally troublesome comments, but the Afghanistan remarks were too much to bear for some war-supporting Republicans.
+
+DeMint, who said Afghanistan is a war the United States must win, said Steele needs to "refocus" on the November election.
+He called Steele's comments "unacceptable" and "inaccurate."
+
+"We need a chairman who's focused," DeMint said.
+
+Speaking on ABC's "This Week," Sen. John McCain, R-Ariz., said Steele's comments were "wildly inaccurate."
+
+The Arizona Republican said Steele needs to assess whether he can still function in his job and must make "an appropriate decision" about his future.
+
+Trying to quell the furor, Steele issued a statement saying: "There is no question that America must win the war on terror.
+... And, for the sake of the security of the free world, our country must give our troops the support necessary to win this war."
+
+He sent an e-mail to RNC members saying he hoped his statement would "clear up any confusion" caused by his earlier remarks.
+
+That didn't seem to quiet the controversy in the slightest.
+Weekly Standard Editor Bill Kristol, who led the charge of conservatives calling for Steele to step down over the remark, said on "Fox News Sunday" that Steele still needs to go -- though he said Steele tried to convince him otherwise.
+
+"I think it would be better if he went," he said.
+
+STEP 1:
+* unacceptable
+* inaccurate
+* wildly
+* appropriate
+
+SUMMARY:
+Republican senators are calling for party Chairman Michael Steele to apologize for his "unacceptable" and "inaccurate" comments that Afghanistan is a "war of Obama's choosing" and may not be winnable. Sen. Jim DeMint demanded an apology to the troops, stating that Afghanistan is "America's war" and not Obama's. DeMint and Sen. John McCain deemed Steele's remarks "wildly inaccurate" and urged him to "refocus" on the November election. Steele's attempt to clarify his statement did little to quell the controversy, with Weekly Standard Editor Bill Kristol leading the charge for Steele's resignation. Kristol believes it would be "better" if Steele stepped down. The backlash highlights the importance of a chairman who is "focused" and supportive of the troops. Steele's future as chairman remains uncertain.
+
+END OF SUMMARY.
+
+Now, here is the target news article to summarize:
+Here is the news article:
+
+Regular British troops will not be sent to fight the Taliban, Robin Cook signalled tonight. His remarks came as the militia began talks on surrendering its spiritual home of Kandahar after Northern Alliance troops finally entered Kunduz. SAS [Special Air Service] soldiers and their American counterparts are fighting alongside the Alliance as they have swept across large swathes Afghanistan. But Commons Leader Mr Cook said: "If you look back over the past month there has been no situation in which we have put British troops into the ground civil war and I don't myself imagine that's going to change." British troops remained on 48 hour stand-by but the situation was "better than anybody could have hoped for", according to Mr Cook. "We will continue obviously to keep the situation under review, but frankly, I think we should welcome the fact that their presence has not been needed in Afghanistan. This is not a reverse, it's actually an advance," he added. News of the Kandahar negotiations came after the Taliban control crumbled in their final northern stronghold of Kunduz following mass surrender. The city's top Taliban commander was among thousands of Afghan and foreign troops who gave themselves up after days of talks interspersed with fighting. However, night fell before the Alliance could secure the city, increasing the danger of militants fighting back. Hours after the vanguard entered from the west, a tank column halted its advance from the east, fearing hostile fire. The surrender took days to hammer out, primarily because hard core Taliban and foreign troops from Usama Bin Ladin's al-Qa'ida terror network did not want to give up. The fall of Kunduz leaves Kandahar as the Taliban's last major stronghold following the rapid collapse of their regime across the majority of the country. Hundreds of foreign fighters captured in the siege of the northern city were killed in a prison riot at a fortress outside Mazar-e-Sharif, the Northern Alliance said. But that did not stop Taliban commanders discussing the surrender of Kandahar, following calls from 70 Afghan tribal leaders for them to avert bloodshed. "There are some talks and negotiations going on there (in Kandahar) with the Taliban to surrender themselves," Gen Mohammed Zaer Azimi said in Herat. Ruud Lubbers, the United Nations Commissioner for Refugees, said Afghanistan was not yet secure for aid agencies to operate in and "not enough" food had been taken into the country. "It is not at all a secure environment," he told the programme. "So although our international staff went back to Kabul and hope to go back to the other places ... one cannot say it is safe in the country and secure enough. "So there is quite a job to be done in creating a secure environment for humanitarian assistance." His concerns echoed those voiced by leading charity Oxfam, which said instability across the country was hampering aid efforts. But the Prime Minister's official spokesman today said Tony Blair was pleased with the progress that had been made on the military, diplomatic and humanitarian fronts. "The situation obviously remains fluid from hour to hour but it seems to be going in the right direction," the spokesman said. The campaign so far showed Alliance military success was the best way of getting food in, he said. He again stressed that Britain would need to see evidence before it became involved in military action in other countries. "In terms of the war on terrorism we have always said this is a multi-faceted campaign but equally we have also said any future military action would have to be based on evidence," he said. "This campaign is not over. We are still in the middle of fighting the war in Afghanistan."
+
+(1) First, you identify all the single words that are morally framed, focusing especially on the dimensions of Authority/Subversion, Care/Harm. Identify this step as "STEP 1:" and report each word in a new line starting with *
+(2) Finally, you write a summary of the news article. Please preserve as many morally framed words as possible, particularly focusing on the moral dimensions of Authority/Subversion, Care/Harm in your summary. The summary has to be returned after a "SUMMARY:" token and ending with a "END OF SUMMARY." token. The summary should be no longer than 200 words.

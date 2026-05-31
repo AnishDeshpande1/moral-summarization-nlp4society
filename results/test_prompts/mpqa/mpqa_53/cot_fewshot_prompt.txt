@@ -1,0 +1,160 @@
+You have to summarize the following text preserving the moral framing that the author gave to it.
+
+Please study the following examples of news articles, their moral word extraction, and summaries preserving the moral framing:
+
+Example 1 (Political Ideology: Left):
+Here is the news article:
+
+Vision benefits are among those that will now be available to same-sex spouses.
+Benefits open to same-sex spouses
+
+The same-sex spouses of federal employees can begin applying for benefits including health insurance and retirement accounts immediately, the Obama administration said Friday, two days after the Supreme Court overturned a key provision of the Defense of Marriage Act.
+
+The Office of Personnel Management offered the guidance in a letter to the heads of executive departments and agencies, detailing access to many of the benefits to which legally married same-sex spouses will now have the same access heterosexual married couples do, including health, life, dental, vision and long-term care insurance.
+
+The memo, signed by acting director Elaine Kaplan, does not go into detail about the benefits available to same-sex couples who marry in one state but live in another where those unions are not legal.
+By omitting a specific reference to state laws, and repeating that benefits will be available to all legally married couples, OPM appears to be making the case that couples will have access to the listed benefits regardless of the state in which they live.
+
+President Barack Obama said Thursday that, “speaking as a president, not a lawyer,” he believes couples married in one state should be treated as married in all 50 states, but that his administration is working on the legalities of making that reality.
+
+In a statement Friday, the president applauded the expansion of access to federal benefits.
+“This is a critical first step toward implementing this week’s landmark Supreme Court decision declaring that all married couples — gay and straight — should be treated equally under federal law,” he said.
+“Thousands of gays and lesbians serve our country every day in the federal government.
+They, and their spouses and children, deserve the same respect and protection as every other family.
+
+Under the president’s direction, the Justice Department is leading the implementation of the repeal of Section 3 of DOMA.
+After the high court’s Wednesday ruling, Defense Secretary Chuck Hagel also said that the Pentagon will move quickly to expand benefits to same-sex couples.
+
+Attorney General Eric Holder welcomed Friday’s announcement.
+“Americans in same-sex marriages are entitled to equal protection and equal treatment under the law,” he said in a statement.
+“By extending health insurance and other important benefits to federal employees and their families, regardless of whether they are in same-sex or opposite-sex marriages, the Obama administration is making real the promise of this important decision.”
+
+The changes announced Friday “will make a meaningful, positive difference in the lives of many,” Holder said.
+“As the president directed, the Department of Justice will continue to coordinate with other federal agencies to implement this ruling as swiftly and smoothly as possible.
+I look forward to sharing additional information as it becomes available..”
+
+STEP 1:
+* equal
+* respect
+* protection
+* equal
+* entitled
+* equal
+* promise
+* meaningful
+* positive
+* swiftly
+* smoothly
+
+SUMMARY:
+The Obama administration has announced that same-sex spouses of federal employees can now apply for benefits, including health insurance and retirement accounts, immediately following the Supreme Court's overturn of the Defense of Marriage Act. This move is a "critical first step" towards implementing the landmark decision, ensuring that all married couples, gay and straight, are treated equally under federal law. President Obama believes that couples married in one state should be treated as married in all 50 states, and his administration is working on the legalities of making this a reality. The expansion of access to federal benefits is a step towards providing equal respect and protection to all families, regardless of sexual orientation. The Justice Department will continue to coordinate with other federal agencies to implement this ruling as swiftly and smoothly as possible. This change will make a meaningful, positive difference in the lives of many. END OF SUMMARY.
+
+Example 2 (Political Ideology: Center):
+Here is the news article:
+
+Israel and Middle East policy have a tendency of surfacing in presidential politics in rather combustible ways.
+And a new advertisement that will run in areas of Florida with large Jewish populations attempts to stoke anxiety over American policies in the region, using a news clip of Prime Minister Benjamin Netanyahu of Israel warning of the risks of a nuclear Iran.
+
+“The fact is that every day that passes, Iran gets closer and closer to nuclear arms,” Mr. Netanyahu is shown saying.
+
+For dramatic effect, a soundtrack fit for an episodic drama like “Homeland” plays as the prime minister continues.
+“The world tells Israel, ‘Wait. There’s still time.’
+And I say wait for what?
+Wait until when?”
+Then an unseen announcer concludes: “The world needs American strength, not apologies.”
+
+That line is a not-so-veiled swipe at President Obama.
+Mitt Romney and other Republicans have criticized his foreign policy as apologetic, toward volatile countries like Iran.
+
+The group that produced the ad, Secure America Now, is run by two longtime Republican strategists, Nelson Warfield ? and John ?McLaughlin, and ?Pat Caddell, a former aide to Jimmy Carter who is now a Fox News contributor.
+They have reserved $500,000 of airtime in Fort Myers, West Palm Beach and Miami.
+
+A senior Israeli official said the government was not consulted on the ad and did not approve it.
+
+STEP 1:
+* anxiety
+* dramatic
+* volatile
+* apologetic
+* strength
+* swipe
+
+SUMMARY:
+A new advertisement in Florida, targeting areas with large Jewish populations, aims to stoke anxiety over American policies in the Middle East. The ad features Prime Minister Benjamin Netanyahu warning of the risks of a nuclear Iran, with a dramatic soundtrack. Netanyahu's message is clear: "Wait for what? Wait until when?" implying that the world is being too apologetic towards Iran. The ad concludes with the line "The world needs American strength, not apologies," a not-so-veiled swipe at President Obama's foreign policy. The group behind the ad, Secure America Now, is run by Republican strategists and has reserved $500,000 of airtime. Interestingly, the Israeli government was not consulted on the ad and did not approve it. The ad's message is clear: American strength is needed, not apologies.
+
+END OF SUMMARY.
+
+Example 3 (Political Ideology: Right):
+Here is the news article:
+
+Arkansas Republican Gov. Asa Hutchinson on Wednesday urged state lawmakers to change a controversial religious freedom bill sent to his desk a day earlier, in the face of criticism that it could allow businesses and others to discriminate based on sexual orientation.
+
+Hutchinson had initially said he planned to sign the bill but backed off as his state, overnight, became the new focal point of a nationwide backlash over such legislation.
+Indiana for days has faced similar criticism for a related religious freedom bill.
+
+During a press conference in the state capital of Little Rock, Hutchinson said he wants to strike the "right balance."
+The governor, amid calls by critics to veto the bill, made clear he still supports the intent of the legislation -- which prohibits state and local governments from infringing upon someone's religious beliefs without a compelling interest.
+But he said he wants changes made so it more closely mirrors a 1993 federal law.
+
+"I asked that changes be made in the legislation," Hutchinson said, urging state lawmakers to "recall" the bill -- or pass additional legislation -- to "remedy" the issue.
+
+The announcement reflects the intense debate in state capitals across the country where such legislation is being considered.
+Backers say the intent was to simply replicate the 1993 federal law and similar laws in place in 19 other states.
+But when Indiana passed a slightly more expansive version which critics said could allow discrimination by businesses, Indiana lawmakers and Gov. Mike Pence later vowed to "clarify" the language in response to complaints.
+
+Hutchinson, too, said the country is clearly split on how to balance religious traditions with non-discrimination.
+
+At its heart, he said, "this bill is not really complicated."
+But he cited a "generational gap."
+As evidence, the governor said even his own son had signed a petition urging him to veto the bill.
+
+Hutchinson's chief complaint was that some provisions do not "precisely mirror" the federal law, and he wants that addressed.
+He said he's also working on an executive order to address the issue of tolerance.
+
+Echoing the reaction to Indiana's law, Hutchinson has faced pressure from the state's top employers, including retail giant Wal-Mart, which complained that the measure was discriminatory and would stifle economic development.
+Little Rock's mayor, the city's Chamber of Commerce and Arkansas-based data services company Acxiom all urged the governor to reject the measure in recent days.
+
+The Human Rights Campaign, the nation's largest lesbian, gay, bisexual and transgender rights group, has run ads in Silicon Valley targeting technology firms Hutchinson hopes to attract to the state.
+
+Prior to the passage Tuesday of the Arkansas bill, the White House repeated its opposition to the Indiana law.
+
+"This kind of public outcry ... is indicative of how this piece of legislation flies in the face of values that people all across America strongly support," said White House Press Secretary Josh Earnest.
+"Governor Pence falsely tried to suggest the law is the same as the 1993 law.
+That is not true."
+
+Earnest also said the Indiana law was a "significant expansion" of current law.
+
+STEP 1:
+* discriminatory
+* backlash
+* criticism
+* compelling
+* infringing
+* veto
+* remedy
+* intense
+* debate
+* complicated
+* generational
+* gap
+* tolerance
+* discriminatory
+* stifle
+* reject
+* opposition
+* strongly
+* support
+* falsely
+* significant
+* expansion
+
+SUMMARY:
+Arkansas Governor Asa Hutchinson has urged state lawmakers to change a controversial religious freedom bill, which critics argue could allow businesses to discriminate against individuals based on sexual orientation. The bill, which prohibits state and local governments from infringing upon someone's religious beliefs without a compelling interest, has faced intense backlash and criticism. Hutchinson wants to strike the "right balance" and has asked for changes to be made to the legislation to more closely mirror a 1993 federal law. The governor has faced pressure from top employers, including Wal-Mart, and the Human Rights Campaign, who argue that the measure is discriminatory and would stifle economic development. The White House has also repeated its opposition to the Indiana law, calling it a "significant expansion" of current law. END OF SUMMARY.
+
+Now, here is the target news article to summarize:
+Here is the news article:
+
+Amman -- Jordan, bound by environmental clauses in the Free Trade Agreement (FTA) with the US, is currently mulling over signing the Kyoto Protocol on global warming even though Washington turned down the protocol six months ago. Having clauses on the protection of environmental and labour rights in the body of the FTA does not stop the government from signing environmental agreements refused by the US, according to Minister of Municipal and Rural Affairs and the Environment Abdul Razzaq Tbeishat. He explained to The Jordan Times that "in Jordan, we conclusively believe that development cannot be achieved unless the environment is protected." Certain steps have to be taken with regard to this objective -- including signing the Kyoto deal, he said. He announced the government's intentions to sign the Kyoto treaty on Sunday during a workshop on climate change, organised by the ministry and the United Nations Development Programme (UNDP). In 1992, Jordan signed the UN Climate Change Convention that compels nations to curb global warming, which is blamed on gases produced by factories and cars that burn fuel. The Kyoto climate treaty is another international effort to limit greenhouse gases and fight global warming. Asked whether signing the Kyoto Protocol will affect Jordan and US efforts to upgrade the Kingdom's environmental framework, Tbeishat said that signing the protocol will have a "positive" outcome on Jordan. He explained that both the US and Jordan have different issues to deal with on a national level, including environmental issues. "In the US, they have their own circumstances," the minister said. "But here, we are a developing country and we care about having clean industry...the whole world knows our position, [which is] to achieve sustainable development." The Kyoto Protocol was agreed upon by 160 countries under the United Nations Framework Convention on Climate Change (UNFCCC). The convention was created in 1992, and adopted in Kyoto, Japan, in 1997. Under the agreement, industrialised nations must reduce their emissions of greenhouse gases by an average of 5.2 per cent (from 1990 levels) from between 2008 to 2012. After the Clinton administration signed the Kyoto Protocol in November 1998, the new Bush administration overturned the decision last April, as the US was facing a faltering economy and rising energy prices.
+
+(1) First, you identify all the single words that are morally framed. Identify this step as "STEP 1:" and report each word in a new line starting with *
+(2) Finally, you write a summary of the news article. Please preserve as many morally framed words as possible in your summary. The summary has to be returned after a "SUMMARY:" token and ending with a "END OF SUMMARY." token. The summary should be no longer than 200 words.

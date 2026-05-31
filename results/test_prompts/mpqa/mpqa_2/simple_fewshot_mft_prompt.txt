@@ -1,0 +1,141 @@
+You have to summarize the following text preserving the moral framing that the author gave to it, with particular focus on the specific moral foundations highlighted in the text.
+
+Please study the following examples of news articles and their summaries preserving the moral framing:
+
+Example 1 (Political Ideology: Left, Moral Foundations: Fairness/Cheating):
+Here is the news article:
+
+President Donald Trump used Twitter to tear into social media companies Saturday morning, claiming they were “totally discriminating against Republican/Conservative voices.”
+
+But he does have a solution. Sort of.
+And it involves both sides.
+
+Trump tweeted that “too many voices are being destroyed, some good and some bad, and that cannot be allowed to happen.” So, he added: “Let everybody participate, good & bad, and we will all just have to figure it out!”
+
+Trump accused social media giants of “closing down the opinions of many people on the RIGHT, while at the same time doing nothing to others.”
+
+“Censorship is a very dangerous thing & impossible to police,” he added, before embarking on a now familiar rant about “fake news” CNN and MSNBC — which he admitted to sometimes watching, but “just with a grain of salt.”
+
+Trump did not reference any person in particular in his tirade against the tech companies, although a host of them have in recent weeks banned conspiracy theorist Alex Jones and his website Infowars from their platforms.
+
+SUMMARY:
+
+President Trump took to Twitter to accuse social media companies of discriminating against Republican and conservative voices, claiming they are "closing down" opinions on the right while doing nothing to others. He warned that censorship is "very dangerous" and impossible to police, and suggested that all voices, both good and bad, should be allowed to participate. Trump's rant also targeted "fake news" outlets CNN and MSNBC, which he admits to watching with a grain of salt. The tweets come after several tech companies banned conspiracy theorist Alex Jones and his website Infowars from their platforms. Trump's solution is to let all voices be heard, and let people figure it out for themselves. This approach raises concerns about the spread of misinformation and the responsibility of social media companies to regulate harmful content.
+
+END OF SUMMARY.
+
+Example 2 (Political Ideology: Center, Moral Foundations: Authority/Subversion, Care/Harm, Fairness/Cheating, Sanctity/Degradation):
+Here is the news article:
+
+The Obama Doctrine is a slightly saltier version of “Don’t Do Stupid Stuff.”
+The Bush Doctrine argued for preventive strikes in the interest of self-defense and national security.
+
+And on Wednesday, in a speech before the Council on Foreign Relations in New York, Senator Marco Rubio, Republican of Florida and a 2016 presidential candidate, will outline his own approach to foreign policy.
+
+The Rubio approach, according to excerpts from his speech provided by his campaign, has three main pillars — ensuring American strength; protecting the American economy in a globalized world; and preserving the moral clarity of America’s core values.
+
+Mr. Rubio’s first priority will be to “adequately fund” the nation’s military.
+“This would be a priority even in times of peace and stability, though the world today is neither,” Mr. Rubio is expected to say.
+
+Mr. Rubio, who sits on the Senate Foreign Relations and Senate Intelligence committees, has used his time in Congress to burnish his foreign policy credits and cast himself as a defense hawk: a position that could help him stand out in a crowded primary field.
+
+In his speech, he will promise to use American power “to oppose any violations of international waters, airspace, cyberspace or outer space,” including the “economic disruption caused when one country invades another,” according to excerpts.
+
+And, Mr. Rubio will offer his greater vision of the country’s broader role in the world.
+
+“As president, I will support the spread of economic and political freedom, reinforce our alliances, resist efforts by large powers to subjugate their smaller neighbors, maintain a robust commitment to transparent and effective foreign assistance programs, and advance the rights of the vulnerable, including women and the religious minorities that are so often persecuted, so that the afflicted peoples of the world know the truth: The American people hear their cries, see their suffering and most of all, desire their freedom,” he is expected to say.
+
+SUMMARY:
+
+Senator Marco Rubio is set to outline his foreign policy approach, which prioritizes American strength, economic protection, and moral clarity. Rubio's doctrine emphasizes the need for a robust military, promising to "adequately fund" the nation's defense even in times of peace. He vows to use American power to defend international waters, airspace, and cyberspace, and to resist large powers' attempts to subjugate smaller neighbors. Rubio's vision also includes promoting economic and political freedom, supporting vulnerable groups such as women and religious minorities, and advancing human rights. His approach is framed as a moral imperative, with Rubio stating that the American people "hear their cries, see their suffering and most of all, desire their freedom." This stance is likely to appeal to conservative voters and distinguish Rubio from his presidential rivals.
+
+END OF SUMMARY.
+
+Example 3 (Political Ideology: Right, Moral Foundations: Authority/Subversion, Care/Harm, Sanctity/Degradation):
+Here is the news article:
+
+New York – In his first major foreign policy speech since launching his presidential campaign, U.S. Sen. Marco Rubio said if elected, he would prioritize a strong military, take aggressive steps to fight nations that undermine global commerce and ensure that U.S. is a world moral leader.
+
+The Florida Republican, who delivered his speech at the Council on Foreign Relations in Manhattan on Wednesday, said that the United States was losing its place as a world military and moral power because of what he depicted as the Obama administration’s overly cautious responses to crises overseas.
+
+“Since the end of the Cold War, the threats facing America have changed, but the need for American strength has not,” Rubio said.
+“It has only grown more pressing as the world has grown more interconnected.”
+
+“It takes forethought to design and many years to build the capabilities we may need at a moment’s notice," the 43-year-old said.
+"So to restore American strength, my first priority will be to adequately fund our military.
+This would be a priority even in times of peace and stability, though the world today is neither peaceful nor stable.”
+
+Rubio repeated his characterization of Obama as a president so concerned with softening any perception other nations has of the United States as a bully that he erred in acting in the other extreme, eager to acquiesce to foreign governments that have thumbed their noses at the U.S. and international laws.
+
+“[Obama] demonstrated a disregard for our moral purpose that at times flirted with disdain,” said Rubio, the son of Cuban immigrants.
+“He criticized America for having ‘arrogance’ and the audacity to ‘dictate our terms’ to other nations.
+From his reset with Russia, to his open hand to Iran, to his unreciprocated opening to Cuba, he has embraced regimes that systematically oppose every principle our nation has long championed.”
+
+Rubio also said that the United States must move decisively when aggressive nations such as China and Iran attempt to undermine the economic interests of the United States as well as other nations.
+
+"Russia, China, Iran or any other nation that attempts to block global commerce will know to expect a response from my administration.”
+
+The Democratic National Committee issued a brief statement shortly after Rubio's speech:
+
+“Okay. So here’s Rubio’s alleged ‘new’ foreign policy.
+Troops in the Middle East permanently.
+A Cuba policy that is stuck in the Cold War.
+Unwillingness to even start a discussion of a two state solution.
+Keeping Guantanamo Bay open.
+No plan forward on Iran."
+
+And it ended with: “Neoconservative meets Cold War: that’s the Rubio doctrine.”
+
+Rubio’s foreign policy agenda – often hawkish in approach – has been a hallmark of his service in the Senate, and now in his campaign.
+He says that as a member of Senate Foreign Relations Committee, and the Senate Committee on Intelligence, he is privy to information that form the basis of his decision on how the United States must approach foreign policy.
+
+Rubio said Obama "wasted no time stripping parts from the engine of American strength," and cast former Secretary of State Hillary Clinton as his loyal deputy.
+
+"[Clinton] was the chief architect of a foreign policy that was a disaster," he said during an interview with Charlie Rose following the speech.
+
+"We simply cannot afford to elect as our next president one of the leading agents of this administration's foreign policy — a leader from yesterday whose tenure as secretary of state was ineffective at best and dangerously negligent at worst," Rubio said, according to the prepared text of remarks he was to deliver at the Council on Foreign Relations in New York.
+
+He even has taken tougher stances on foreign policy than some of his Republican colleagues, who have softened their views on diplomatic relations with Cuba – to which Rubio objects – and how to handle the nuclear talks with Iran.
+
+Some in the GOP have called for spending cuts in military spending, with which he disagrees.
+
+As he often has in Senate hearings, Rubio assailed Obama for stressing dialogues and diplomacy over ironclad dealings with heads of foreign governments that have been openly hostile to the United States, and which continue to exercise oppression against political dissidents.
+
+“The world is at its safest when America is at its strongest,” Rubio said.
+“When America has the mightiest Army, Navy, Air Force, Marine Corps, Coast Guard, and intelligence community in the world, the result is more peace, not more conflict.”
+
+Rubio said, after his speech, in a question-and-answer session with TV host Charlie Rose, that "Obama has embraced regimes that systematically opposed our principles."
+
+Rose asked Rubio what he though of Pope Francis's embrace of diplomatic relations between the U.S. and Cuba.
+
+Rubio said his priorities and those of the pope's are by necessity different.
+
+He defended keeping the embargo.
+
+He said having anything to do with Cuba is to avail oneself of properties stolen from Cubans by the Cuban government during the revolution.
+
+Rubio said the embargo is not to blame for Cuba's failed economy.
+
+He said the rest of the world does not have an embargo against Cuba.
+So why, he asked, does Cuba not have Toyotas or modern goods from other nations?
+
+As for Iran, Rubio said it cannot be trusted.
+
+"Iran has always had a secret component to its nuclear program," he said.
+"They know once international sanctions are lifted, they can never be reimposed."
+
+SUMMARY:
+
+Senator Marco Rubio delivered a major foreign policy speech, emphasizing the need for a strong military and aggressive steps to combat nations that undermine global commerce. He criticized the Obama administration's cautious responses to crises, accusing them of eroding America's moral leadership. Rubio vowed to prioritize military funding, even in times of peace, to restore American strength. He also warned that nations like China and Iran will face consequences if they attempt to undermine the US's economic interests. Rubio's speech was marked by a hawkish tone, with a focus on American exceptionalism and a willingness to take decisive action. He also took aim at Democratic rivals, including Hillary Clinton, accusing them of being "loyal deputies" of the Obama administration's failed foreign policy. Rubio's stance on Cuba and Iran was uncompromising, with a strong emphasis on maintaining the embargo and distrusting Iran's nuclear program.
+
+END OF SUMMARY.
+
+Now, here is the target news article to summarize:
+Here is the news article:
+
+China Disapproves Use of 'Axis of Evil' in International Relations Chinese Foreign Ministry spokesman Kong Quan said Friday that China disapproves of the use of such words as the "axis of evil" in international relations. Kong made the remark when asked to comment on the different views given by the New York Times and the Washington Post recentlyon a statement by the U.S. leader describing the Democratic People's Republic of Korea, Iran and Iraq as the "axis of evil" nations. "We disapprove of the use of such words in international relations," said Kong, who also made the same comment when answering related questions earlier. China has noticed that U.S. public opinion and general public do not agree to the wording of "axis of evil," he said, pointing out that the consequences are bound to be serious if the logic of the wording is followed. China always holds that anti-terrorism campaigns should be based on irrefutable evidence, and anti-terrorism attacks should not be expanded arbitrarily, said Kong. He stressed that handling state-to-state relations should follow the purposes and principles of the United Nations Charter, the Five Principles of Peaceful Co-existence, and the principle that all countries should be treated on an equal footing. This is the only manner that is conducive to safeguarding long-term peace and stability in the world and related regions.
+
+For this target article, the author's moral framing heavily relies on the following Moral Foundation dimensions: Authority/Subversion, Care/Harm, Fairness/Cheating.
+Please pay special attention to preserving the moral framing related to these specific dimensions (Authority/Subversion, Care/Harm, Fairness/Cheating) in your summary.
+
+The summary has to be returned after a "SUMMARY:" token and ending with a "END OF SUMMARY." token. The summary should be no longer than 200 words.

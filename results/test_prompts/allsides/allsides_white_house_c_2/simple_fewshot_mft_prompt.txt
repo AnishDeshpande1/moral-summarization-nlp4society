@@ -1,0 +1,161 @@
+You have to summarize the following text preserving the moral framing that the author gave to it, with particular focus on the specific moral foundations highlighted in the text.
+
+Please study the following examples of news articles and their summaries preserving the moral framing:
+
+Example 1 (Political Ideology: Left, Moral Foundations: Authority/Subversion, Care/Harm, Fairness/Cheating):
+Here is the news article:
+
+(CNN) -- The period since September 11, 2001, will never be described by any historian as a golden age of U.S. foreign policy.
+I know. I have just written a history on it, and it's not pretty.
+
+Since 9/11 attack, the United States has swung unsettlingly from one set of flawed policies to another.
+First, the unilateralist excess of the first term of the Bush administration; its signature error was the invasion of Iraq.
+Then, the reactive swing of Barack Obama, toward disengagement and dithering.
+In a tragic irony, a war in Iraq may someday also be seen as the enduring symbol of his errors.
+
+Some of the nation's problems come from nearly 15 years of a heightened sense of vulnerability.
+We're frayed and on edge and have let dysfunctional politics get ahead of national interests.
+But others are tied to human errors that can be fixed.
+The genius of the U.S. system is that it is built to change.
+
+Obama finds himself at the end of a string of errors of judgment and execution.
+These have contributed to damaged relations or crises ranging from those in Syria and Iraq to Libya to Egypt and Israel, from Ukraine to Afghanistan to Africa.
+They include crises at our own borders and strained relations with our allies over NSA eavesdropping.
+
+But Obama is not condemned to further errors.
+What he does need to produce constructive change however, is a quality rare and vital in any leader: the ability to recognize when one has made mistakes.
+
+Who to turn to as a model?
+
+The best example may well be George W. Bush himself.
+Because whatever mistakes Bush made in office -- and they were many -- in his second term, Bush recognized the urgent need for change and instituted a sweeping reordering of his administration, its policies and priorities.
+
+He replaced his chief of staff, secretaries of state, defense and Treasury, as well as his national security adviser, and he modified the role of the powerful vice president.
+He also changed his own engagement on key issues like Iraq, instituting weekly conference calls with his leaders on the ground.
+And he rewrote key policies, launching the surge in Iraq, initiating the "light footprint" approach to fighting terror later adopted by Obama and responding to the financial crisis.
+In region after region, the results were better, including on social issues like fighting AIDS in Africa, in relations with allies, in results in war zones or in deals like the India nuclear accord.
+
+He also actively sought to bring new, outside perspectives into his second term team, a stark contrast to the Obama approach.
+Cabinet secretaries in Bush's second term, such as Defense Secretary Robert Gates (later Obama's defense secretary) or Treasury Secretary Henry Paulson or new military commanders he appointed had not been part of his inner circle.
+
+Bush's willingness to admit errors and embrace change may have stemmed from his own failures and struggles earlier in life: as a congressional candidate, in the oil business, as a baseball team owner and even with alcohol.
+To get ahead, he had to acknowledge his shortcomings and fix them.
+
+He also turned this ability to see his way through tough times into a plus in another important role he embraced, that of a kind of coach-in-chief.
+Obama is seen as aloof from his Cabinet.
+All the Bush Cabinet members with whom I spoke told a strikingly different story.
+
+Ambassador James Jeffrey, who served as deputy national security adviser to Bush and then as Obama's Iraq ambassador, tells a story of one top Bush economic official having a moment of crisis and doubt in the darkest days of the financial catastrophe.
+Jeffrey listened as Bush bucked up his aide, restoring his confidence, telling him he was the best person for the job, letting him know he would back him on key decisions.
+This was in stark contrast to the White House-centric Obama approach that has left Cabinet officers feeling sidelined.
+
+It is easy to dismiss such stories when viewed in the context of politics or the very real, and in some cases historically significant, errors of the Bush years.
+Still, if President Obama is to begin to grow in office, he would be wise to look beyond politically inspired caricatures to see what worked for the man who occupied the Oval Office before him.
+
+Obama has his own life experience, of course.
+He will never be like Bush, in ways both good and bad.
+But what he may see is that at a moment of comparable foreign policy strains and dysfunctions, Bush was not content to give up or to punt to the future or play the blame game.
+
+He knew that in the American system, big change is sometimes needed and that it would never happen unless he did what no one else could do: Stand up to himself -- the President of the United States -- and demand he admit his mistakes and lead administration-wide change from within.
+
+SUMMARY:
+
+The article reflects on the US foreign policy since 9/11, criticizing the unilateralist excess of the Bush administration and the reactive disengagement of the Obama administration. The author argues that the nation's problems stem from a heightened sense of vulnerability and human errors that can be fixed. The article suggests that Obama can learn from George W. Bush's ability to recognize mistakes and institute change. Bush's second term saw a sweeping reordering of his administration, policies, and priorities, which led to better results in various regions. The author praises Bush's willingness to admit errors and bring in new perspectives, contrasting it with Obama's aloofness from his Cabinet. The article concludes that Obama can grow in office by learning from Bush's example, recognizing mistakes, and leading administration-wide change.
+
+END OF SUMMARY.
+
+Example 2 (Political Ideology: Center, Moral Foundations: Authority/Subversion, Care/Harm):
+Here is the news article:
+
+Israel and Middle East policy have a tendency of surfacing in presidential politics in rather combustible ways.
+And a new advertisement that will run in areas of Florida with large Jewish populations attempts to stoke anxiety over American policies in the region, using a news clip of Prime Minister Benjamin Netanyahu of Israel warning of the risks of a nuclear Iran.
+
+“The fact is that every day that passes, Iran gets closer and closer to nuclear arms,” Mr. Netanyahu is shown saying.
+
+For dramatic effect, a soundtrack fit for an episodic drama like “Homeland” plays as the prime minister continues.
+“The world tells Israel, ‘Wait. There’s still time.’
+And I say wait for what?
+Wait until when?”
+Then an unseen announcer concludes: “The world needs American strength, not apologies.”
+
+That line is a not-so-veiled swipe at President Obama.
+Mitt Romney and other Republicans have criticized his foreign policy as apologetic, toward volatile countries like Iran.
+
+The group that produced the ad, Secure America Now, is run by two longtime Republican strategists, Nelson Warfield ? and John ?McLaughlin, and ?Pat Caddell, a former aide to Jimmy Carter who is now a Fox News contributor.
+They have reserved $500,000 of airtime in Fort Myers, West Palm Beach and Miami.
+
+A senior Israeli official said the government was not consulted on the ad and did not approve it.
+
+SUMMARY:
+
+A new political ad is stirring controversy in Florida, targeting Jewish populations and stoking anxiety over American policies in the Middle East. The ad features Prime Minister Benjamin Netanyahu warning of the dangers of a nuclear Iran, with a dramatic soundtrack and an unseen announcer concluding that "The world needs American strength, not apologies." This is a clear swipe at President Obama's foreign policy, which has been criticized by Republicans like Mitt Romney as apologetic towards volatile countries like Iran. The ad is produced by Secure America Now, a group run by Republican strategists and a former Jimmy Carter aide turned Fox News contributor. Notably, the Israeli government was not consulted on the ad and did not approve it. The ad's message is clear: American strength and leadership are needed to counter the threats of Iran, and President Obama's approach is seen as weak and ineffective.
+
+END OF SUMMARY.
+
+Example 3 (Political Ideology: Right, Moral Foundations: Care/Harm, Fairness/Cheating):
+Here is the news article:
+
+Last week, President Donald Trump erupted with fury over a series of public revelations of private facts — some top-secret and some office gossip — that painted him and his White House in a bad light.
+The president ordered the FBI to investigate some of these so-called leaks and his own White House counsel to investigate others.
+
+There are numerous issues related to the leaking of government information.
+They include the leaking of classified information, the leaking of confidential communications and the publishing of leaked material.
+
+Here is the back story.
+
+It is a felony to reveal classified information to any person who lacks a classified clearance, as some in the intelligence community have recently done to embarrass, control, intimidate or infuriate the president.
+The National Security Agency employs over 60,000 domestic spies, but they work in compartmentalized areas.
+Thus, not all of them have access to all the data collected by all of their colleagues.
+Only about 100 spies have access to the top-secret data that was leaked about the president.
+
+When members of the intelligence community leaked lurid allegations about the future president's alleged behavior in a Moscow hotel room, which he has vehemently denied, and when some leaked the partial transcripts of telephone conversations between retired Lt. Gen. Michael Flynn and the Russian ambassador to the U.S. — shortly before Flynn became the president's national security adviser — and when some leaked an intelligence report that contradicted the president's publicly stated conclusions on the likelihood of dangerous people immigrating to the U.S. from the seven predominately Muslim countries named in the president's now enjoined temporary travel ban, one can understand the presidential anger.
+
+And leaks are a two-sided coin.
+Adding to Trump's woes caused by too much revealing is the other side of that coin — too much concealing.
+This comes into play when one has a duty to reveal.
+That duty arises from the legal obligation of spies to pass on to their superiors — and ultimately to the president — all of the material information they have acquired about America's friends and enemies.
+
+Selectively concealing and revealing this type of intelligence data, thereby manipulating the presidential judgment, when one has a duty to reveal substantially all of it is a form of interference with a governmental function — namely, the president's exercise of his judgment — and that is a felony.
+
+As if all this were not enough for a young presidency to deal with, Trump finds himself with a White House staff leaking to the press Oval Office gossip about confidential conversations from within the White House that the participants in those conversations had every reason to believe would not be made public.
+This resulted in the temporary seizure of government-issued cellphones held by a dozen or so staffers so their bosses could learn whether any had spoken to the press.
+The cellphones episode was itself leaked, apparently by a participant not happy with it.
+
+What's going on here?
+
+These events are either the growing pains of a new presidential administration, still partially staffed by those loyal to former President Barack Obama, or the product of sinister forces from people attempting to exercise their own judgment about America's foes by frustrating and manipulating the judgment of the president — whom the voters elected to exercise the constitutional powers to make those judgment calls.
+The latter situation would be perilous, as it would mean we have unelected, unaccountable, and unnamed people pulling the levers of power in the field of national security.
+
+The leaks of confidential communications from within the White House may be a pain in the neck for the president, but they are not criminal.
+And generally, a boss can look at an employee's cellphone, as long as the employer of the boss and the employee owns the phone — except when the employer is the government.
+The Fourth Amendment insulates government employees from governmental reach into its employees' cellphones.
+Absent an employee's waiving his Fourth Amendment rights, the government may not seize work-related (governmental) or personal phones without a search warrant.
+
+Can the media publish these leaks?
+
+In a word, yes.
+The media may publish anything that is of material interest to the public, notwithstanding its level of secrecy or how it was acquired.
+The First Amendment — which the courts have construed to treat the media as the eyes and ears of the public — protects absolutely the publication by the media of leaked data, whether gossip or top-secret, that the public wants to hear.
+
+The courts have also ruled that everything about the president is of material public interest — meaning no criminal or civil action can be taken against the media for the publication of any leaked materials that reflect on the president as a person or as a government official.
+When The New York Times published a probably stolen copy of Trump's tax returns, it did so with impunity.
+
+One can see why Trump rails against the press.
+Yet he has taken an oath to preserve, protect and defend the very constitutional principles that protect and liberate a free press from the anger of the government, no matter how well-grounded that anger may be.
+One of his predecessors who was savaged by the press, Thomas Jefferson, wrote that accountability and transparency in government are of such overriding value that he'd prefer newspapers without a government to a government without newspapers.
+
+SUMMARY:
+
+President Trump's anger over recent leaks of private facts and classified information is understandable, but it raises important moral questions. Leaking classified information is a felony, and concealing information that should be revealed to the president is also a form of interference with a governmental function. However, the president's attempts to investigate and punish leakers may be misguided. The media has a constitutional right to publish leaked information, including gossip and top-secret data, as long as it is of material public interest. The president's oath to preserve, protect, and defend the Constitution means he must respect this right, even if it causes him personal discomfort. The real concern is not the leaks themselves, but whether they are part of a sinister effort to manipulate the president's judgment or exercise power without accountability. Ultimately, transparency and accountability in government are essential values that must be upheld.
+
+END OF SUMMARY.
+
+Now, here is the target news article to summarize:
+Here is the news article:
+
+WASHINGTON — The Trump administration said Friday it is putting new economic sanctions on Iranian individuals and companies, citing the Tehran government's recent missile tests and support for rebels in Yemen. “Iran’s continued support for terrorism and development of its ballistic missile program poses a threat to the region, to our partners worldwide, and to the United States," said John E. Smith, acting director of the Treasury Department's Office of Foreign Assets Control. Asked about Iran by reporters, Trump said simply: "They're not behaving." The sanctions — which have been in the pipeline for months — said nothing about the Iranian nuclear deal, which Trump attacked during the campaign but has shown no signs of voiding. Smith did say that "we will continue to actively apply all available tools, including financial sanctions, to address this behavior.” The sanctions affect 13 Iranian individuals and 12 companies, freezing any property or funds they may have under U.S. jurisdiction. The Treasury Department also said that "U.S. jurisdiction are blocked, and U.S. persons are generally prohibited from engaging in transactions" with those on the sanctions list. Trump signaled the sanctions with an early morning tweet: "Iran is playing with fire — they don't appreciate how "kind" President Obama was to them. Not me!" In announcing earlier this week the administration had put Iran "on notice," Trump and aides cited a recent ballistic missile test as well as supporting a rebel group in Yemen known as the Houthis. The Treasury Department said in a statement that "this action reflects the United States’ commitment to enforcing sanctions on Iran with respect to its ballistic missile program and destabilizing activities in the region." Iran has denied that its missile tests violate United Nations regulations and generally mocked the president over his criticism. “This is not the first time when an inexperienced man is threatening Iran,” Ali Akbar Velayati, senior adviser to supreme leader Ayatollah Ali Khamenei, told the Tasnim news agency this week. “The new administration of America will realize that threatening Iran will not work, and empty and baseless ranting should be stopped.” The financial restrictions are outside the scope of the nuclear agreement in which the United States and allies drew down sanctions on Iran as it agreed to give up the means to make nuclear weapons. While Trump has questioned whether the agreement can be verified, the Treasury Department said these new sanctions deal with Iran's missile activity and alleged support for terrorist groups. The agreement dealt only with nuclear-related sanctions; other restrictions involving Iranian financial transactions remain. The sanctioned individuals and companies have been linked to Iran's missile program and/or proxies for terrorist activity, such as the Houthis, officials said. They have been identified through an ongoing review of Iranian activity that goes back to the Obama administration. The Treasury Department is being led by Acting Secretary Adam J. Szubin, a holdover from the Obama administration who has been involved in sanction activity. Trump's nominee to lead the department, Steve Mnuchin, is awaiting Senate confirmation. "These kinds of sanctions don't happen quickly," White House spokesman Sean Spicer said, but were triggered by an Iranian missile test and terrorist activities. Officials declined to say whether Trump plans to kill the Iranian nuclear deal — or somehow force Iran to walk away from it — but pledged to keep their eye on the regime. Calling Iran "the world’s leading state sponsor of terrorism," national security adviser Michael Flynn said that "the international community has been too tolerant of Iran’s bad behavior .. The Trump Administration will no longer tolerate Iran’s provocations that threaten our interests." Lawmakers generally applauded the sanctions, but questioned some of the administration's sabre-rattling toward Iran. "I urge the Administration to bring clarity to their overall strategy towards Iran," said Sen. Mark Warner, D-Va., "and to refrain from ambiguous rhetoric — or provocative tweets — that will exacerbate efforts to confront those challenges.”
+
+For this target article, the author's moral framing heavily relies on the following Moral Foundation dimensions: Authority/Subversion, Care/Harm, Fairness/Cheating.
+Please pay special attention to preserving the moral framing related to these specific dimensions (Authority/Subversion, Care/Harm, Fairness/Cheating) in your summary.
+
+The summary has to be returned after a "SUMMARY:" token and ending with a "END OF SUMMARY." token. The summary should be no longer than 200 words.

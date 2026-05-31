@@ -1,0 +1,206 @@
+You have to summarize the following text preserving the moral framing that the author gave to it.
+
+Please study the following examples of news articles, their moral word extraction, and summaries preserving the moral framing:
+
+Example 1 (Political Ideology: Left):
+Here is the news article:
+
+Having failed to lead the best-prepared nation in the world against one pandemic, Donald Trump has made it more vulnerable to another.
+He has, for example, frayed international bonds further by trying to pull the U.S. out of the World Health Organization.
+Whether he has the legal authority to do so is still unclear, but even if the threat is empty, “some of the effects will be immediate,” says Loyce Pace, the president of the Global Health Council.
+U.S. officials and experts will start disengaging from international institutions, and that might encourage other nations to follow suit.
+
+This won’t just harm the WHO at the time when it is most needed, but will also further diminish America’s already damaged international standing.
+A country that has badly mishandled its own outbreak, that has bought up the world’s stock of important drugs, and that has petulantly withdrawn from global alliances is less likely to receive warnings or support if a new crisis emerges.
+
+There is an optimistic scenario if a second virus begins to spread: The new pathogen finds it harder to move around an alert world, is rapidly detected wherever it arrives, and fizzles out because cautious citizens have their guard up.
+
+As long as people stay vigilant against the current pandemic—keeping their distance, wearing masks, avoiding indoor crowds—they should theoretically be guarded against a second respiratory virus.
+It used to be common for measles and pertussis to interfere with each other, so that if one spiked, the other would subside.
+That might be because kids who got one disease would stay home, reducing their risk of the other.
+“It’s nothing to do with a vaccine or the immune system,” says Sarah Cobey, an immunologist at the University of Chicago.
+“It’s just people being careful.”
+
+The same tests that are being used to diagnose COVID-19 could also be tweaked to cover the new pathogen.
+One company is already developing a fast “multiplex” test that could look for four respiratory viruses—the new coronavirus, two types of flu, and respiratory syncytial virus (RSV)—in a single nasal swab.
+And if the new pathogen is a flu strain, existing vaccines could be tweaked to protect against it.
+That would still take several months, but the existence of a seasonal flu vaccine offers an invaluable head start.
+
+Read: We don’t even have a COVID-19 vaccine, and the conspiracies are here
+
+This future is easier to imagine in countries like South Korea, New Zealand, and Germany, which have successfully controlled COVID-19.
+It seems less likely in nations like the U.S., Brazil, Russia, and India, which are stretched and struggling.
+
+In such places, COVID-19 would effectively cloak the spread of any new respiratory virus with similar symptoms, which “could have a chance to take off before we realized it had,” Cameron said.
+A new virus would also be harder to spot because “all the resources we would normally use to detect potential viruses of concern have been redirected for COVID-19,” says Lauren Sauer, who works on disaster preparedness at Johns Hopkins Medicine.
+She means everything from physical equipment like swabs and storage tubes, to health-care workers who administer and process tests, to public-health experts who analyze the data or conduct contact tracing.
+These are either running out or burning out.
+A second respiratory virus would further tax the same resources that the U.S. has already failed to adequately marshal for COVID-19.
+
+STEP 1:
+* failed
+* vulnerable
+* frayed
+* damaged
+* badly
+* petulantly
+* withdrawn
+* cautious
+* vigilant
+* careful
+* struggling
+* stretched
+* failed
+* inadequately
+
+SUMMARY:
+Donald Trump's mishandling of the COVID-19 pandemic has made the US more vulnerable to another pandemic. His attempts to pull out of the World Health Organization have frayed international bonds, further damaging America's already damaged international standing. A country that has badly mishandled its own outbreak and petulantly withdrawn from global alliances is less likely to receive warnings or support if a new crisis emerges. In contrast, countries like South Korea, New Zealand, and Germany, which have successfully controlled COVID-19, are better prepared to handle a new respiratory virus. However, in countries like the US, Brazil, Russia, and India, which are stretched and struggling, a new virus could spread undetected, cloaked by the ongoing COVID-19 pandemic. END OF SUMMARY.
+
+Example 2 (Political Ideology: Center):
+Here is the news article:
+
+Joe Biden knew Lloyd Bentsen.
+
+Lloyd Bentsen was a friend of Joe Biden’s.
+
+And the vice president made full use of his old Senate colleague’s 1988 debate playbook, shaking his head and scoffing pityingly at Representative Paul D. Ryan, trying to paint his opponent as a latter-day Dan Quayle.
+
+Mr. Ryan was no Dan Quayle, but he did make the mistake of mentioning John F. Kennedy in an argument over whether tax cuts recharge the economy.
+Mr. Biden flashed a Cheshire Cat grin and said to Ryan, after waiting a beat to let the moment sink in, “So, now you’re Jack Kennedy?”
+
+The vice presidential debate on Tuesday was supposed to be a reboot for the Obama campaign after the president’s dismal performance at his debate with the Republican nominee for president, Mitt Romney, last week.
+Mr. Biden, clearly delighted to come to President Obama’s rescue, relished his role, addressing his opponent as “my friend” but dismissing his arguments as “malarkey.”
+He laughed at Mr. Ryan’s remarks so often and so heartily that at times he seemed like a guest at a comedy club roast, not a vice president debating the fate of the nation with his opponent.
+
+It was a sharp and spirited debate, with both candidates delivering some lacerating blows, but Mr. Ryan at times seemed disconcerted by the sheer blowhard intensity Mr. Biden brought to the night.
+Mr. Ryan tried to be respectful, listening to the vice president with a tilted head, choirboy smile and puppy-dog eyes, but he showed his irritation when Mr. Biden kept interrupting to attack his policy on Medicare.
+“I know you’re under duress,” he told the vice president, prompting another belly laugh.
+
+For Mr. Biden especially, the night was his chance to relive past debates and unleash his inner barroom brawler.
+He had to be contained and courteous when he debated Sarah Palin four years ago, lest he look like a bully.
+This time he let loose.
+And unlike the courtly Mr. Bentsen in 1988, Mr. Biden turned his temperature up, singeing the young man across the table with patronizing grins, but mostly withering retorts.
+His interruptive barrage was as relentless as his silent mugging for the camera.
+
+Mr. Ryan held his own, but did look abashed when Mr. Biden mocked him for opposing the Obama stimulus, yet asking for government funds for his own district.
+“On two occasions, we — we — we advocated for constituents who were applying for grants,” Mr. Ryan said stiffly.
+
+“I love that. I love that,” Mr. Biden said.
+“This was such a bad program, and he writes me a letter saying — writes the Department of Energy a letter saying, the reason we need this stimulus — it will create growth and jobs.”
+
+When Mr. Biden went after Mr. Romney’s infamous remark at a private fund-raiser about the “47 percent,” Mr. Ryan reminded the vice president of his own propensity for gaffes.
+“I think the vice president very well knows that sometimes the words don’t come out of your mouth the right way,” he said with a gotcha smile.
+Mr. Biden was not quite as amused.
+
+Mr. Biden was not the only one in the room intent on rectifying his predecessor’s mistakes.
+Martha Raddatz of ABC News was the moderator, and she made a point of speaking forcefully, pushing the candidates to be specific and changing subjects abruptly.
+She seemed determined to be less passive and sleepy than Jim Lehrer of PBS was as moderator of the Obama-Romney debate.
+
+Mr. Ryan made a point of praising Mr. Romney, even trying to soften his image by recounting a time when Mr. Romney gave money and attention to a couple whose children were badly injured in a car accident.
+It wasn’t the best example to use, because it prompted Mr. Biden to describe his own tragedy, when his wife and young daughter were killed in a car crash.
+
+A version of this article appears in print on October 12, 2012, on page A16 of the New York edition with the headline: Night of Withering Ripostes, Mostly Delivered by Biden.
+
+STEP 1:
+* pityingly
+* malarkey
+* blowhard
+* respectful
+* irritation
+* bully
+* patronizing
+* withering
+* abashed
+* bad
+* infamous
+* gotcha
+
+SUMMARY:
+In the vice presidential debate, Joe Biden came to President Obama's rescue, relishing his role and addressing Paul Ryan as "my friend" while dismissing his arguments as "malarkey." Biden's sharp and spirited debate style was reminiscent of a "blowhard" intensity, leaving Ryan disconcerted. Ryan tried to be "respectful," but showed "irritation" when Biden kept interrupting to attack his policy on Medicare. Biden's "patronizing" grins and "withering" retorts left Ryan looking "abashed." The debate was a chance for Biden to unleash his inner "barroom brawler" and he did so, mocking Ryan for opposing the Obama stimulus while asking for government funds for his own district. The night was filled with "infamous" remarks and "gotcha" moments, but in the end, Biden's "withering ripostes" stole the show. END OF SUMMARY.
+
+Example 3 (Political Ideology: Right):
+Here is the news article:
+
+Republicans on Thursday confronted House Intelligence Committee Chairman Rep. Adam B. Schiff for his two years of leveling conspiracy charges against President Trump, urging him to resign because they “have no faith in your ability to discharge your duties.”
+
+Mr. Schiff, California Democrat, defended himself by listing supposed inappropriate contacts between Trump associates and suspect foreigners.
+But he didn’t list a single instance of Trump people coordinating in Russian election interference, as he did at a hearing on March 20, 2017.
+
+Rep. Devin Nunes of California, the previous chairman and now ranking Republican, and other GOP members signed a letter to Mr. Schiff, who has reopened a Russia probe.
+The letter cited the decision by special counsel Robert Mueller to end his investigation without finding that Trump associates conspired with Russia to interfere in the 2016 election by hacking computers or posting social media broadsides against Democratic nominee Hillary Clinton.
+
+Under Mr. Nunes, the House Permanent Select Committee on Intelligence’s Republican majority also cleared the Trump campaign.
+
+“Your actions both past and present are incompatible with your duty as Chairman of this Committee, which alone in the House of Representatives has the obligation and authority to provide effective oversight of the U.S. intelligence community,” the letter states.
+“As such, we have no faith in your ability to discharge your duties in a manner consistent with your Constitutional responsibility and urge your immediate resignation as Chairman of this Committee.”
+
+Mr. Schiff reacted angrily Thursday as he convened a hearing with four expert witnesses on Russian influence operations and the actions of oligarchs to aid President Vladimir Putin.
+As he stared at Republicans, he began a refrain of “you might think it’s OK” as he listed events such as Donald Trump Jr. meeting with a Russian lawyer who claimed to have dirt on Mrs. Clinton.
+Witnesses say no such information was passed.
+
+He also noted that former campaign chairman Paul Manafort provided some type of polling data to Russia-linked Ukrainian officials and campaign adviser Roger Stone’s brief email exchange with a hacker who turned out to be a Russian intelligence operative.
+
+After the hearing, Mr. Schiff tweeted: “I say this to the President, and his defenders in Congress: You may think it’s okay how Trump and his associates interacted with Russians during the campaign.
+I don’t.
+I think it’s immoral.
+I think it’s unethical.
+I think it’s unpatriotic.
+And yes, I think it’s corrupt.”
+
+House Speaker Nancy Pelosi of California supported and defended Mr. Schiff amid the Republican criticism.
+
+“I’m so proud of the work of Chairman Adam Schiff,” Ms. Pelosi said.
+“I think they’re just scaredy-cats.
+They just don’t know what to do.”
+
+Republicans say that if there were collusion in the election, it was the Clinton campaign paying middleman to collect disinformation on Mr. Trump from the Kremlin and spread it around Washington to the FBI and news media.
+
+The Republican letter said, “Despite these Mueller findings, you continue to proclaim in the media that there is ‘significant evidence of collusion.’ You further have stated you ‘will continue to investigate the counterintelligence issues.
+That is, is the president or people around him compromised in any way by a hostile foreign power.’
+
+“Your willingness to continue to promote a demonstrably false narrative is alarming.
+The findings of the Special Counsel conclusively refute your past and present assertions and have exposed you as having abused your position to knowingly promote false information, having damaged the integrity of this Committee, and undermined faith in U.S. government institutions.”
+
+Rep. Michael R. Turner, Ohio Republican, likened Mr. Schiff to Sen. Joseph McCarthy, the virulent 1950s anti-communist who alleged that a number of U.S. government officials were working with the Soviet Union.
+
+“I believe the chair has abused his power,” Mr. Turner said.
+“He’s misrepresented the information we received in classified sessions.”
+
+“Now Mr. Chairman, when this body understood that McCarthyism was something to be rejected, it for years watched it,” he said.
+“But you are using that playbook.
+In McCarthyism, we had Russia chasing after Russian communists, and now we have Schiff chasing after Russian collusion.”
+
+Mr. Turner said Mr. Schiff is adding prosecutors to the staff, not intelligence analysts.
+It was a reference to former federal mob prosecutor Daniel Goldman, whom Mr. Schiff hired as his chief investigator.
+
+Mr. Goldman has wholeheartedly endorsed the Christopher Steele dossier.
+The Democratic Party-financed document hurls conspiracy charges at Mr. Trump and his associates, based on Kremlin sources.
+
+Mr. Mueller, in effect, rejected the charges.
+Republicans consider it a Kremlin hoax.
+
+STEP 1:
+* immoral
+* unethical
+* unpatriotic
+* corrupt
+* false
+* alarming
+* abused
+* knowingly
+* damaged
+* undermined
+* virulent
+* rejected
+* hoax
+
+SUMMARY:
+House Republicans confronted Rep. Adam Schiff, Chairman of the House Intelligence Committee, urging him to resign due to his "immoral" and "unethical" behavior in leveling conspiracy charges against President Trump. Schiff defended himself, listing supposed inappropriate contacts between Trump associates and suspect foreigners, but failed to provide evidence of Russian election interference. Republicans accused Schiff of promoting a "demonstrably false narrative" and "knowingly" spreading misinformation, which has "damaged" the integrity of the committee and "undermined" faith in U.S. government institutions. Schiff reacted angrily, calling the Republicans' actions "scaredy-cats" and stating that he thinks Trump's interactions with Russians during the campaign are "immoral", "unethical", and "unpatriotic". The controversy highlights the deepening partisan divide in the House. END OF SUMMARY.
+
+Now, here is the target news article to summarize:
+Here is the news article:
+
+Vietnamese Minister of Science, Technology and Environment Chu Tuan Nha told the first Asia-Europe Meeting [ASEM] Environment Ministers' Meeting [ASEM EnMM] in Beijing recently that Vietnam always values environmental protection, including prevention of pollution or degradation, bio-diversity protection, and improvement of the environment in industrial zones and in both urban and rural areas. He said the Vietnamese Government has mobilized all resources and strengthened its international cooperation in addressing environmental issues. He emphasized the importance of bilateral cooperation between the two continents in dealing with environmental issues, noting that this meeting will serve as a foundation for Asia and Europe's future cooperation. The Vietnamese Minister called for the establishment of a cooperation forum on the environment which will be held every two years within the Asia-Europe Environment Cooperation Program. The forum will facilitate the exchange of dialogues on policy and of information and experts on the environment. The ASEM EnMM concluded in Beijing on 17 January with the adoption of a Statement of the Presidium calling for an early implementation of the Kyoto Protocol as well as cooperation and dialogue between ASEM members.
+
+(1) First, you identify all the single words that are morally framed. Identify this step as "STEP 1:" and report each word in a new line starting with *
+(2) Finally, you write a summary of the news article. Please preserve as many morally framed words as possible in your summary. The summary has to be returned after a "SUMMARY:" token and ending with a "END OF SUMMARY." token. The summary should be no longer than 200 words.

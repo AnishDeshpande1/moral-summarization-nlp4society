@@ -1,0 +1,144 @@
+You have to summarize the following text preserving the moral framing that the author gave to it.
+
+Please study the following examples of news articles, their moral word extraction, and summaries preserving the moral framing:
+
+Example 1 (Political Ideology: Left):
+Here is the news article:
+
+WASHINGTON – Five hundred and eighty-four days after descending his Trump Tower escalator to announce his candidacy, Donald J. Trump took the oath of office Friday to become the 45th president of the United States.
+
+Chief Justice John Roberts administered the 38-word oath at 12:00 p.m., capping Trump’s unlikely journey from New York City real estate developer and reality TV star to the nation’s highest office.
+
+Trump won the Republican nomination against a crowded field of 16 other candidates, many far more experienced in politics.
+But he was able to capitalize on a primary voting base that was angry at the establishment GOP for not more aggressively fighting President Barack Obama’s policies.
+
+He trailed Democratic nominee Hillary Clinton in the general election nearly the entire way.
+In the final month of the race, he was helped by the near daily release of internal Democratic Party emails stolen by Russian hackers as well as by FBI Director James Comey’s decision to reopen, briefly, the probe into Clinton’s use of a private email server.
+
+Trump wound up winning Wisconsin, Michigan and Pennsylvania by a total of 78,000 votes.
+Clinton had counted on winning all three.
+
+STEP 1:
+* angry
+* aggressively
+* establishment
+
+SUMMARY:
+Donald J. Trump took the oath of office to become the 45th president of the United States, capping his unlikely journey from real estate developer and reality TV star to the nation's highest office. Trump's victory was fueled by an angry primary voting base that felt the establishment GOP had not fought President Barack Obama's policies aggressively enough. Despite trailing Democratic nominee Hillary Clinton in the general election, Trump was helped by the release of stolen Democratic Party emails and FBI Director James Comey's decision to reopen the probe into Clinton's email server. Trump won Wisconsin, Michigan, and Pennsylvania by a narrow margin of 78,000 votes, defying Clinton's expectations. Trump's presidency marked a significant shift in American politics, driven by a desire for change and a rejection of the political establishment. END OF SUMMARY.
+
+Example 2 (Political Ideology: Center):
+Here is the news article:
+
+Listening to Michael R. Bloomberg rage about Donald J. Trump in his speech at the Democratic National Convention this week — labeling him a public menace and hinting that he was not quite sane — it would be easy to think that the two billionaires had a rift going back many years.
+
+“Trump says he wants to run the nation like he’s run his business,” Mr. Bloomberg said on Wednesday.
+“God help us.”
+
+But in all their time in New York City, their interactions have been limited, yet cordial, according to people who know both of them.
+
+They existed in different circles of New York’s ultrarich: Mr. Bloomberg is known as a generous philanthropist; Mr. Trump appears to have been flinty in his giving.
+Mr. Bloomberg is a supporter of the arts and aligns himself with Manhattan’s sophisticated cultural scene; Mr. Trump relishes in being crude.
+
+Mr. Bloomberg made his billions in finance and technology; Mr. Trump got his start in real estate before becoming a casino magnate and then a reality-show celebrity.
+Mr. Bloomberg is not overly ostentatious for a man of great wealth; Mr. Trump loves to show off his possessions.
+
+“I’ve been by Mike’s side for 19 years, and I’ve never met Donald Trump,” said Kevin Sheekey, an adviser to Mr. Bloomberg, underscoring the extent to which the men were not close.
+“Trump hasn’t been part of the business, political or charitable community since the Koch administration.
+The only place Mike and Donald would have seen each other is on a golf course or on a TV set.”
+
+On at least a few occasions, Mr. Bloomberg and Mr. Trump met up on the golf links.
+In 2007, when Mr. Bloomberg was in the second of his three terms as mayor, the two played together in a charity event at Trump National Golf Club in the city’s northern suburbs.
+An article in New York magazine described how Mr. Trump, Mr. Bloomberg, the comedian Billy Crystal and the former New York Yankees manager Joe Torre were set to play together in the lead foursome — but could not agree on who would go first.
+
+“How about the mayor starts it off in honor of the city?” Mr. Trump was quoted as saying, playing peacemaker and showing deference to Mr. Bloomberg.
+
+Mr. Bloomberg also appeared twice on Mr. Trump’s reality TV show, “The Apprentice,” in 2004 and 2008, in part as a way to demonstrate support for the show, which was produced in New York.
+
+And the men have a filial connection: acquaintances said that Mr. Bloomberg’s daughter Georgina is friends with Mr. Trump’s daughter Ivanka.
+
+Mr. Trump, an avid user of Twitter, made positive comments about Mr. Bloomberg when he was in office.
+“Mike Bloomberg is doing a great job as mayor of New York City,” he posted in 2012.
+
+In 2013, he praised Mr. Bloomberg’s administration for choosing him to finish a stalled Bronx golf course project, and then wrote on Twitter about a ribbon-cutting with the mayor.
+
+In 2014, Mr. Trump tweeted congratulations at Georgina for winning an equestrian tournament.
+
+But the cordiality dissipated not long after Mr. Trump declared his candidacy.
+Mr. Bloomberg began exploring his own presidential bid, as an independent, in part to block Mr. Trump from being elected.
+And when Mr. Bloomberg ruled out running, he did so because he said he did not want his third-party candidacy to siphon enough votes to help Mr. Trump.
+
+“As a former Republican presidential campaign manager told me, Hillary has some baggage, but Trump is crazy,” said Mr. Sheekey, who was involved in Mr. Bloomberg’s explorative bid.
+“And you can’t fix crazy.”
+
+Mr. Trump, typically, has not shied away from counterattacks.
+In a CNN interview in January, Mr. Trump voiced skepticism that Mr. Bloomberg was worth as much as Forbes magazine estimated and speculated that Mr. Bloomberg’s company, which provides data terminals to financial firms and wealthy individuals, was vulnerable to competitors.
+
+“We used to be friends,” Mr. Trump told CNN.
+“I guess we’re not friends anymore.”
+
+STEP 1:
+* menace
+* sane
+* generous
+* flinty
+* sophisticated
+* crude
+* ostentatious
+* charitable
+* crazy
+
+SUMMARY:
+Michael R. Bloomberg, a generous philanthropist, labeled Donald J. Trump a "public menace" and hinted that he was not quite sane in his speech at the Democratic National Convention. Despite their cordial interactions in the past, Bloomberg's words reveal a deep moral divide between the two billionaires. Bloomberg, a supporter of the arts, aligns himself with Manhattan's sophisticated cultural scene, whereas Trump relishes in being crude. Their differences extend to their business practices, with Bloomberg making his billions in finance and technology, and Trump getting his start in real estate and becoming a casino magnate and reality-show celebrity. The cordiality between them dissipated when Trump declared his candidacy, and Bloomberg began exploring his own presidential bid to block Trump from being elected. Trump, known for his counterattacks, has not shied away from criticizing Bloomberg, but the latter's words suggest that Trump's behavior is "crazy" and cannot be fixed. END OF SUMMARY.
+
+Example 3 (Political Ideology: Right):
+Here is the news article:
+
+Donald Trump announced Tuesday that he is bowing out as the moderator for a Republican presidential debate later this month, after most candidates in the field opted not to attend.
+
+Trump said he wanted to make sure there's no "conflict of interest" in case he decides to run as a third-party candidate next year.
+He cast his decision as a way to keep his options open.
+
+He said later on Fox News that he's still considering an independent bid.
+"I am looking at it, if the Republicans choose the wrong candidate, which is a possibility, and if the economy continues to be bad, which I think it will be," Trump said.
+
+The real estate mogul and reality TV star said he wants to make sure Republicans pick the "right" candidate -- he said he still plans to make an endorsement despite his threatened third-party run.
+
+Though the Dec. 27 debate technically is sponsored by Newsmax, Trump quickly became the face of it after he was named as moderator.
+
+While former House Speaker Newt Gingrich and former Pennsylvania Sen. Rick Santorum agreed to attend early on, other Republican candidates subsequently bowed out.
+
+Some expressed concern that Trump, who previously flirted with a possible Republican presidential bid before shelving the idea, would not definitively rule out running as a third-party candidate.
+
+Trump on Tuesday specifically cited Republican National Committee Chairman Reince Priebus' concerns about his involvement.
+He said he does not expect Newsmax to follow through with the debate now that he's out.
+
+"We would have done very well.
+We would have gotten great ratings," Trump said, voicing his trademark confidence.
+
+Trump first announced his debate decision in a written statement Tuesday afternoon.
+
+"It is very important to me that the right Republican candidate be chosen to defeat the failed and very destructive Obama administration, but if that Republican, in my opinion, is not the right candidate, I am not willing to give up my right to run as an independent candidate," he said.
+"Therefore, so that there is no conflict of interest within the Republican Party, I have decided not to be the moderator of the Newsmax debate.
+... I must leave all of my options open because, above all else, we must make America great again!"
+
+Trump went on to praise Gingrich and Santorum for "having the courage, conviction, and confidence" to agree to the debate.
+
+STEP 1:
+* right
+* wrong
+* failed
+* destructive
+* courage
+* conviction
+* confidence
+
+SUMMARY:
+Donald Trump has announced that he will no longer moderate the Republican presidential debate, citing a potential "conflict of interest" if he decides to run as a third-party candidate. Trump wants to keep his options open, ensuring that the "right" Republican candidate is chosen to defeat the "failed and very destructive" Obama administration. If not, he may run as an independent candidate. Trump praised Newt Gingrich and Rick Santorum for having the "courage, conviction, and confidence" to participate in the debate. Despite his withdrawal, Trump still plans to make an endorsement, emphasizing the importance of choosing a candidate who will "make America great again!" Trump's decision was influenced by Republican National Committee Chairman Reince Priebus' concerns about his involvement. END OF SUMMARY.
+
+Now, here is the target news article to summarize:
+Here is the news article:
+
+Former New York City Mayor Michael Bloomberg formally endorsed Hillary Clinton Wednesday at the Democratic National Convention, saying it was "imperative" that voters back the former secretary of state over GOP nominee Donald Trump. "This is just too important to sit out," said Bloomberg, a former Democrat who won New York's mayoralty as a Republican in 2001 before leaving the party to become an independent six years later. "There are times when I disagree with Hillary," Bloomberg said. "But let me tell you, whatever our disagreements may be, I’ve come here to say we must put them aside for the good of our country." Bloomberg, who has an estimated net worth of $48 billion, threw several jabs at Trump, whom he called a "dangerous demagogue" and a "bomb-thrower." Bloomberg contrasted his business history with Trump's, saying "I’ve built a business, and I didn’t start it with a million-dollar check from my father." Bloomberg also charged that Trump had "left behind a well-documented record of bankruptcies and thousands of lawsuits and angry shareholders and contractors who feel cheated and disillusioned customers who feel ripped off." "Trump says he wants to run the nation like he's running his business? God help us," said Bloomberg, who added that "the richest thing about Donald Trump is his hypocrisy." Bloomberg considered making a third-party run for president this year before opting against a campaign, expressing worry he would siphon away votes from Democratic nominee Hillary Clinton and inadvertently help elect Trump. While in office, Bloomberg had a cordial relationship with Clinton, who, as a senator from New York, was involved in the city's post-9/11 rebuilding effort. He did, as well, with Trump, whom he knew from New York's glitzy social circuit and from dealings with him as a developer. But Trump's hardline approach to immigration alienated Bloomberg, who often makes the case that an open immigration policy is needed to keep the nation's economy growing. He deemed Trump's economic plan "a con" and "a disaster in the making." Trump did not immediately respond to the speech.
+
+(1) First, you identify all the single words that are morally framed. Identify this step as "STEP 1:" and report each word in a new line starting with *
+(2) Finally, you write a summary of the news article. Please preserve as many morally framed words as possible in your summary. The summary has to be returned after a "SUMMARY:" token and ending with a "END OF SUMMARY." token. The summary should be no longer than 200 words.

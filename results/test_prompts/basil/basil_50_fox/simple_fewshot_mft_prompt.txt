@@ -1,0 +1,152 @@
+You have to summarize the following text preserving the moral framing that the author gave to it, with particular focus on the specific moral foundations highlighted in the text.
+
+Please study the following examples of news articles and their summaries preserving the moral framing:
+
+Example 1 (Political Ideology: Left, Moral Foundations: Authority/Subversion):
+Here is the news article:
+
+Even though Bibi Netanyahu recently decried the use of his name in election-year politicking, the Israeli prime minister is the subject of a new ad by Secure America Now, a neoconservative nonprofit organization dedicated to influencing the debate around American security and foreign policy.
+
+Politico reports:
+
+“A Republican involved with the project said it’s airing in Miami, West Palm Beach and Ft. Myers.
+The flight is ultimately going to be $1 million, the official said - a media-tracking source said about $400,000 has been placed so far.
+
+Those markets house some of the state’s largest Jewish communities.
+
+The pollster for Secure America Now is John McLaughlin, who has worked with Netanyahu’s Likud Party.”
+
+The ad features Netanyahu laying out Israel’s security concerns about Iran’s nuclear program, which Republicans have used to knock President Barack Obama’s sometimes frosty relationship with the Israeli prime minister. 
+
+Republican presidential nominee Mitt Romney has repeatedly targeted the Obama administration for not taking a firm enough stance against Iran, claiming on many occasions that the president has “thrown Israel under a bus.”
+The GOP also has attacked the president for declining an opportunity to meet with Netanyahu at the United Nations General Assembly later this month in an effort to paint the current White House as dismissive of Israel and its concerns.
+
+But Netanyahu pushed back against these criticisms in two separate interviews on Sunday, first telling CNN, “I know that people are trying to draw me into the American election.
+I’m not going to do that.”
+
+He also rejected reports that Obama refused his request for a meeting, pinning the circumstances on a scheduling conflict, as has the White House when pressed on the subject.
+
+“President Obama has said that he’s determined to prevent Iran from getting nuclear weapons and I appreciate that and I respect that,” Netanyahu said on NBC’s “Meet the Press.”
+
+When asked if Obama had thrown Israel under a bus, Netanyahu responded, “There is no bus.”
+
+This isn’t the first ad Secure America Now has run against Obama, even though on its website the organization describes itself as representing all political ideologies.
+In July, the group released an ad pushing the same attack line employed by Romney, accusing the president of embarking on a so-called “apology tour” at the expense of American security. 
+
+The Obama administration is not mentioned by name in the latest spot, but it implicitly underscores the GOP’s narrative on the president’s relationship with the country’s closest ally.
+
+SUMMARY:
+
+A neoconservative nonprofit organization, Secure America Now, has launched a new ad featuring Israeli Prime Minister Bibi Netanyahu discussing Israel's security concerns about Iran's nuclear program. The ad is airing in markets with large Jewish communities in Florida, with a total budget of $1 million. The ad is seen as an attempt to influence the US presidential election, with Republicans using it to criticize President Barack Obama's relationship with Israel and his stance on Iran. However, Netanyahu has pushed back against these criticisms, stating that he will not be drawn into the US election and that Obama has expressed determination to prevent Iran from getting nuclear weapons. The ad is implicitly critical of the Obama administration, despite Secure America Now's claim to represent all political ideologies. The moral framing of this article suggests that Secure America Now's actions are hypocritical and misleading, and that Netanyahu's attempts to stay out of the US election are being undermined by partisan politics.
+
+END OF SUMMARY.
+
+Example 2 (Political Ideology: Center, Moral Foundations: Care/Harm):
+Here is the news article:
+
+Representative Bob Etheridge, Democrat of North Carolina, issued an apology on Monday for grabbing a young man by the hand, arm and neck – as a video camera rolled – as the man tried to ask him whether he supports President Obama’s agenda.
+
+“I deeply and profoundly regret my reaction and I apologize to all involved,” Mr. Etheridge said in a statement. 
+“Throughout my many years of service to the people of North Carolina, I have always tried to treat people from all viewpoints with respect. 
+No matter how intrusive and partisan our politics can become, this does not justify a poor response.”
+
+He added, “I have and I will always work to promote a civil public discourse.”
+
+A young man, dressed in a jacket and tie, approached the congressman on a sidewalk, saying: “Hi, Congressman. How are you? Do you fully support the Obama agenda?”
+
+Mr. Etheridge, a seven-term House member, can be seen on the video repeatedly asking the young man to identify himself. 
+After a few seconds, the congressman grabs the camera and the young man.
+
+“Tell me who you are,” Mr. Etheridge said. “Tell me who you are.”
+
+The young man is not identified in the video, which was made last week. 
+A second person accompanying him pulled out another camera to record the congressman’s actions. 
+The video received widespread attention on Monday after it was posted on the Web site of Andrew Breitbart, a conservative Web publisher and former editor of The Drudge Report. 
+It was circulated by the National Republican Congressional Committee.
+
+“Bob Etheridge has lost it,” said Jon Thompson, a Republican spokesman. 
+“His conduct is unbecoming of a member of Congress.”
+
+Mr. Etheridge, who represents a conservative district south of Raleigh, faces a re-election challenge, but his race is not among the top Republican targets in the country. 
+He won two years ago by 36 percentage points, and Mr. Obama carried his district by 6 percent.
+
+Vice President Joseph R. Biden Jr. resumed the White House campaign for gun control on Tuesday by reporting on executive action taken unilaterally by the administration and pressing Congress to take up legislation again.
+
+SUMMARY:
+
+Democratic Representative Bob Etheridge of North Carolina has apologized for physically confronting a young man who asked him if he supports President Obama's agenda. The incident, caught on video, shows Etheridge grabbing the man's hand, arm, and neck, and demanding to know his identity. Etheridge has since expressed deep regret for his actions, stating that he has always tried to treat people with respect, regardless of their viewpoints. He emphasized the importance of promoting civil public discourse. The video was widely circulated by conservative groups, with Republicans condemning Etheridge's behavior as "unbecoming of a member of Congress." The incident has sparked controversy, highlighting the need for respectful dialogue in politics. Etheridge's apology is a step towards rectifying his mistake and upholding the values of civility and respect in public discourse.
+
+END OF SUMMARY.
+
+Example 3 (Political Ideology: Right, Moral Foundations: Care/Harm, Fairness/Cheating):
+Here is the news article:
+
+President Trump thinks Alabama Republican Senate candidate Roy Moore “will do the right thing and step aside” if the sexual misconduct allegations against him are true, the White House said in a statement Thursday.
+
+Speaking to reporters following the president’s Asia trip on Air Force One, White House Press Secretary Sarah Sanders also cautioned against a rush to judgment.
+
+“Like most Americans, the president believes we cannot allow a mere allegation, in this case one from many years ago, to destroy a person’s life," Sanders said.
+"However, the president also believes that if these allegations are true, Judge Moore will do the right thing and step aside."
+
+Moore lashed out earlier at what he called "the Obama-Clinton machine's liberal media lapdogs" after The Washington Post reported on a woman's claims that the former judge and staunch social conservative initiated a sexual encounter with her when she was 14.
+
+In a series of tweets Thursday evening, Moore claimed "The forces of evil will lie, cheat, steal –– even inflict physical harm –– if they believe it will silence and shut up Christian conservatives."
+
+Amid calls for him to drop out of the race, Moore added, "Our nation is at a crossroads right now — both spiritually and politically.
+Our children and grandchildren’s futures are on the line.
+So rest assured — I will NEVER GIVE UP the fight!"
+
+The Post story centered on allegations made by Leigh Corfman, now 53.
+She told the newspaper that Moore, then an assistant district attorney, first approached her in 1979 outside a courtroom in Alabama where she was sitting with her mother.
+On another occasion, she said Moore, then 32, took her to his home in the woods and kissed her.
+
+During a subsequent visit, Corfman reportedly claimed he took off her shirt and pants; touched her over her bra and underwear; and guided her hand to his underwear.
+She said the two did not have sexual intercourse, and that she ended up getting dressed and asking Moore to take her home, according to the Post.
+
+“I wanted it over with – I wanted out,” she told the Post, apparently recalling her train of thought at the time.
+Moore did take her home, she said.
+
+The report caused immediate problems for Moore with his own party as he heads into the Dec. 12 election against Democrat Doug Jones.
+Several GOP senators called on him to step aside if the allegations are true – and at least one senator, Arizona’s John McCain, said he should drop out regardless.
+
+Senate Majority Leader Mitch McConnell, R-Ky., who backed Moore’s rival Luther Strange in the GOP primary, said in a statement: "If these allegations are true, he must step aside."
+
+Sen. Cory Gardner, R-Colo., head of the Senate GOP campaign arm, called the allegations “deeply troubling” and said: “If these allegations are found to be true, Roy Moore must drop out of the Alabama special Senate election.”
+
+Jones’ campaign told multiple news outlets: “Roy Moore needs to answer these serious charges.”
+
+But Moore’s campaign issued a statement saying the report is “baseless” and false.
+
+“National liberal organizations know their chosen candidate Doug Jones is in a death spiral, and this is their last ditch Hail Mary,” Moore campaign chairman Bill Armistead said.
+“Judge Roy Moore is winning with a double-digit lead.
+So it is no surprise, with just over four weeks remaining, in a race for the U.S. Senate with national implications, that the Democratic Party and the country’s most liberal newspaper would come up with a fabrication of this kind.
+
+“This garbage is the very definition of fake news and intentional defamation,” he said.
+
+The Post noted that the legal age of consent in the state is 16, and sexual contact by anyone 19 or older with anyone between 12 and 16 years old is considered second-degree sexual abuse.
+
+The statute of limitations, though, has long since passed.
+
+The Post interviewed three other women who were teenagers at the time who claimed Moore pursued them when he was in his 30s, though he did not force them into any type of sexual relationship.
+
+“I have prayed over this,” Corfman told the Post as to why she came forward, “All I know is that I can’t sit back and let this continue, let him continue without the mask being removed.”
+
+Alabama's Republican governor, Kay Ivey, responded: “These allegations are deeply disturbing.
+I will hold judgment until we know the facts.
+The people of Alabama deserve to know the truth and will make their own decisions.”
+
+SUMMARY:
+
+President Trump's administration is taking a cautious approach to the sexual misconduct allegations against Alabama Republican Senate candidate Roy Moore. While Trump believes Moore will "do the right thing and step aside" if the allegations are true, his press secretary Sarah Sanders warned against rushing to judgment. Moore, however, has denied the allegations, calling them a "fabrication" and "fake news" orchestrated by the "Obama-Clinton machine's liberal media lapdogs." The allegations, reported by The Washington Post, include claims of sexual encounters with minors, including a 14-year-old girl. Several GOP senators have called on Moore to step aside if the allegations are true, while others have demanded he drop out of the race altogether. The moral implications of this scandal are clear: a candidate for public office is accused of egregious wrongdoing, and his response is to deny and deflect blame rather than take responsibility.
+
+END OF SUMMARY.
+
+Now, here is the target news article to summarize:
+Here is the news article:
+
+National Security Adviser Susan Rice warned that Israeli Prime Minister Benjamin Netanyahu’s upcoming Capitol Hill address will be a “destructive” force in long-standing U.S.-Israel relations, adding more political acrimony to the already contentious visit. Netanyahu was invited by House Speaker John Boehner, the leader of the Republican-controlled chamber, without him first conferring with the White House or State Department. Such a move is generally considered a diplomatic no-no, but Boehner says he wanted to bring in Netanyahu to address the nuclear threat from Iran amid ongoing negotiations between Washington and Tehran. The visit, though, has further challenged the strained relationship between President Obama and Netanyahu. "It's destructive to the fabric of the relationship," Rice said Tuesday on PBS’s the “Charlie Rose” show. “It’s always been bipartisan. We need to keep it that way." Rice's statements were among the Obama administration's toughest on Netanyahu's speech, set for March 3. To date, administration officials had maintained a more low-key stance, voicing concerns about the visit while saying Obama would not meet with his Israeli counterpart strictly out of a desire not to influence Israel's tight elections. But tensions are rising on all sides. Rice's comments came as Netanyahu turned down an invitation to meet privately with leading Senate Democrats during his trip to Washington, saying such a session could "compound the misperception of partisanship" surrounding his visit. Netanyahu told Sens. Dick Durbin, of Illinois, and Dianne Feinstein, of California, that he regrets the invitation has been perceived by some to be political or partisan. "I can assure you that my sole intention in accepting it was to voice Israel's grave concerns about a potential nuclear agreement with Iran that could threaten the survival of my country," he told the senators in a letter. U.S. officials suggest Netanyahu’s trip is aimed primarily at derailing a nuclear deal with Iran, a signature Obama foreign policy objective. While Netanyahu has long been skeptical of the negotiations, his opposition has increased over what he sees as Obama's willingness to make concessions that would leave Iran on the brink of being able to build a nuclear weapon. U.S. and Iranian officials reported progress in negotiations this week on a deal that would clamp down on Tehran's nuclear activities for at least 10 years but then slowly ease restrictions. Israeli officials warned this week that such a deal would allow Iran to become a nuclear threshold state. Vice President Biden won't attend the Netanyahu speech. And more than a half-dozen House and Senate Democrats also have said they will skip the event, calling it an affront to Obama and the administration as they negotiate with Iran over its nuclear program. But Republican Sen. Lindsey Graham, R-S.C., called Biden’s absence “appalling and unacceptable.” "I don’t know where Joe Biden will be or what he will be doing, but I can’t believe it’s more important than being in the chamber and listening to our best ally in the region -- Israel -- about the biggest threat to mankind, a nuclear-armed Iran. ... It shows complete disrespect, it shows they’re more worried about the politics in Israel than receiving information about a common threat," Graham, R-S.C., said Tuesday night on Fox News' "On the Record with Greta Van Susteren." Durbin said he regretted that Netanyahu could not meet with the Democrats. "We offered the prime minister an opportunity to balance the politically divisive invitation from Speaker Boehner." Durbin said. "His refusal to meet is disappointing to those of us who have stood by Israel for decades."
+
+For this target article, the author's moral framing heavily relies on the following Moral Foundation dimensions: Authority/Subversion, Fairness/Cheating, Loyalty/Betrayal.
+Please pay special attention to preserving the moral framing related to these specific dimensions (Authority/Subversion, Fairness/Cheating, Loyalty/Betrayal) in your summary.
+
+The summary has to be returned after a "SUMMARY:" token and ending with a "END OF SUMMARY." token. The summary should be no longer than 200 words.

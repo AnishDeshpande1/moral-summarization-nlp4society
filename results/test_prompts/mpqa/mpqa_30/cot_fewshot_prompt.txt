@@ -1,0 +1,162 @@
+You have to summarize the following text preserving the moral framing that the author gave to it.
+
+Please study the following examples of news articles, their moral word extraction, and summaries preserving the moral framing:
+
+Example 1 (Political Ideology: Left):
+Here is the news article:
+
+Former Mexican President Vicente Fox on Wednesday harshly criticized current President Enrique Peña Nieto for inviting Republican presidential candidate Donald Trump to meet with him south of the border, just hours before he is due to give a widely anticipated speech on immigration in Arizona.
+
+“He is not welcome to Mexico,” Fox said in an interview on CNN.
+“By 130 million people, we don’t like him, we don’t want him. We reject his message.”
+
+Trump tweeted Tuesday that he had accepted an invitation to meet Peña Nieto in private.
+An invitation had also been extended to his Democratic opponent, Hillary Clinton, but the former secretary of state’s campaign said she was looking forward to speaking with him at the “appropriate time.”
+
+Trump has spent more than a year railing against Mexico and its leaders, promising the country would pay for the construction of a wall on the border it shares with the U.S., as well as fear-mongering about “rapists” and drug dealers that are coming across it.
+
+The surprise meeting abroad with a foreign leader will be Trump’s first as a presidential nominee, and is not without risks to his candidacy.
+Mitt Romney’s trip to Israel during the 2012 presidential campaign, for example, did not go over well.
+Peña Nieto’s approval rating fell to a record low earlier this year amid several corruption scandals.
+He, too, may seize on the meeting as an opportunity to bolster his image with Mexicans.
+
+In his interview on CNN, Fox warned Peña Nieto would be viewed like “a traitor” if he does not stand up to the GOP nominee.
+
+“Trump is using Mexico, using President Peña to boost his sinking poll numbers,” Fox said.
+“I think the President Peña is taking an enormous political risk by hosting Trump.
+If he’s gone soft on Trump, it will hurt him greatly.
+He will even be considered like a traitor because we don’t accept to be offended like we just heard, and it should not happen.
+He comes here with a smile on his face.
+I think this is a big mistake on part of President Peña.”
+
+“It’s a very opportunistic move and I hope U.S. public opinion, U.S. citizens can see this and finally, and finally see what is behind Trump, this false prophet that is just cheating everybody,” he added.
+“It’s a desperate move and I don’t see how it can work at all.”
+
+Earlier this year, Fox railed against Trump in an expletive-laden outburst, promising that Mexico would “never pay for that fucking wall.”
+He later apologized, and even invited Trump “to come to Mexico and to learn about the real Mexico.”
+
+Trump noted so helpfully in a tweet Wednesday morning.
+
+“Former President Vicente Fox, who is railing against my visit to Mexico today, also invited me when he apologized for using the “f bomb.””
+
+Fox tweeted his own recollection in response:
+
+“, I invited you to come and apologize to all Mexicans.
+Stop lying! Mexico is not yours to play with, show some respect.”
+
+STEP 1:
+* traitor
+* offended
+* false
+* prophet
+* cheating
+* desperate
+* lying
+* respect
+
+SUMMARY:
+Former Mexican President Vicente Fox strongly criticized current President Enrique Peña Nieto for inviting Republican presidential candidate Donald Trump to meet with him in Mexico. Fox stated that Trump is "not welcome to Mexico" and that the Mexican people "reject his message." Fox warned that if Peña Nieto does not stand up to Trump, he will be viewed as a "traitor" and that Trump is using the meeting to "boost his sinking poll numbers." Fox called Trump's actions "opportunistic" and "desperate," and accused him of "cheating" and being a "false prophet." Fox also tweeted that Trump should "show some respect" to Mexico. The meeting is seen as a risky move for both Trump and Peña Nieto, with the potential to hurt their approval ratings. END OF SUMMARY.
+
+Example 2 (Political Ideology: Center):
+Here is the news article:
+
+Representative Bob Etheridge, Democrat of North Carolina, issued an apology on Monday for grabbing a young man by the hand, arm and neck – as a video camera rolled – as the man tried to ask him whether he supports President Obama’s agenda.
+
+“I deeply and profoundly regret my reaction and I apologize to all involved,” Mr. Etheridge said in a statement. 
+“Throughout my many years of service to the people of North Carolina, I have always tried to treat people from all viewpoints with respect. 
+No matter how intrusive and partisan our politics can become, this does not justify a poor response.”
+
+He added, “I have and I will always work to promote a civil public discourse.”
+
+A young man, dressed in a jacket and tie, approached the congressman on a sidewalk, saying: “Hi, Congressman. How are you? Do you fully support the Obama agenda?”
+
+Mr. Etheridge, a seven-term House member, can be seen on the video repeatedly asking the young man to identify himself. 
+After a few seconds, the congressman grabs the camera and the young man.
+
+“Tell me who you are,” Mr. Etheridge said. “Tell me who you are.”
+
+The young man is not identified in the video, which was made last week. 
+A second person accompanying him pulled out another camera to record the congressman’s actions. 
+The video received widespread attention on Monday after it was posted on the Web site of Andrew Breitbart, a conservative Web publisher and former editor of The Drudge Report. 
+It was circulated by the National Republican Congressional Committee.
+
+“Bob Etheridge has lost it,” said Jon Thompson, a Republican spokesman. 
+“His conduct is unbecoming of a member of Congress.”
+
+Mr. Etheridge, who represents a conservative district south of Raleigh, faces a re-election challenge, but his race is not among the top Republican targets in the country. 
+He won two years ago by 36 percentage points, and Mr. Obama carried his district by 6 percent.
+
+Vice President Joseph R. Biden Jr. resumed the White House campaign for gun control on Tuesday by reporting on executive action taken unilaterally by the administration and pressing Congress to take up legislation again.
+
+STEP 1:
+* regret
+* apologize
+* respect
+* civil
+* poor
+* unbecoming
+* lost
+
+SUMMARY:
+Representative Bob Etheridge, a Democrat from North Carolina, issued an apology for his regretful reaction to a young man's question about supporting President Obama's agenda. In a video, Etheridge can be seen grabbing the man by the hand, arm, and neck, and repeatedly asking him to identify himself. Etheridge deeply regrets his poor response and apologizes to all involved, stating that he has always tried to treat people with respect, regardless of their viewpoints. He emphasized the importance of promoting a civil public discourse. The video, which was posted on a conservative Web site, has received widespread attention and has been circulated by the National Republican Congressional Committee, with a Republican spokesman calling Etheridge's conduct "unbecoming of a member of Congress" and saying he has "lost it." END OF SUMMARY.
+
+Example 3 (Political Ideology: Right):
+Here is the news article:
+
+Israeli Prime Minister Benjamin Netanyahu has said he’ll steer clear of the American presidential election, but he stars in a new ad set to air in the key battleground state of Florida that aims to make Iran a major campaign issue.
+
+Netanyahu, who has a famously frosty relationship with President Obama, mentions neither Obama nor Republican challenger Mitt Romney, with whom Netanyahu worked in the mid-1970s at Boston Consulting Group.
+His words are taken from a recent news conference, in which he expressed frustration at the Obama administration’s failure to establish “red lines” for reining in Iran and its rogue nuclear weapons program.
+
+"The fact is that every day that passes, Iran gets closer and closer to a nuclear bomb,” Netanyahu says.
+“The world tells Israel, wait, there's still time.
+And I say wait for what?
+Wait until when?"
+
+A voice-over at the end of the ad underscores the prime minister's message: "The world needs American strength, not apologies."
+
+The ad, paid for by nonprofit conservative advocacy group Secure America Now, could have a powerful influence in heavily-Jewish markets, including Miami.
+Florida is considered a toss-up in recent polling, and its 29 electoral votes could swing the election.
+
+“Sizable majorities in both states believe that Iran will share nuclear weapons with terrorists,” said Jeri Thompson, advisory board member for Secure America Now.
+“Support for Israel remains strong.
+In short, (Netanyahu's) a powerful messenger with a powerful message who the American people believe.”
+
+The ad, reportedly to air in Miami, West Palm Beach and Fort Myers, is costing Secure America $1 million, the organization confirmed to Fox News.
+
+A Fox News poll released Wednesday shows Obama leading Romney, 49 percent to 44 percent, in Florida.
+
+Meanwhile, Haaretz reported that the Republican Jewish Coalition has launched a separate $5 million TV advertising blitz aimed at Jewish voters in swing states.
+That campaign started Wednesday and runs through Nov. 5 in cable and broadcast TV markets in Florida, Nevada, Ohio and Pennsylvania.
+
+"This ad highlights the 'buyer's remorse' felt by many in the Jewish community, who voted for Obama four years ago but are now disillusioned with his economic policies and his policies toward Israel,” the coalition's executive director, Matt Brooks, said in a written statement Wednesday.
+“These ads, and the stories of the people in them, give voice to the nagging doubts that many Jewish voters feel about President Obama.
+To underscore that point, numerous polls have shown an erosion in Jewish support for the president."
+
+Netanyahu also made an appearance on NBC's "Meet the Press" last Sunday, urging Obama to take a tougher line with Iran over its nuclear program.
+
+"President Obama has said that he is determined to prevent Iran from getting nuclear weapons," he said on the Sunday morning show.
+"If you're determined to prevent Iran from getting nuclear weapons, it means you'll act before they get nuclear weapons."
+
+STEP 1:
+* frustration
+* rogue
+* strength
+* apologies
+* powerful
+* strong
+* disillusioned
+* doubts
+* tougher
+
+SUMMARY:
+Israeli Prime Minister Benjamin Netanyahu is starring in a new ad in Florida, urging the US to take a stronger stance against Iran's nuclear program. In the ad, Netanyahu expresses frustration with the Obama administration's failure to establish "red lines" for reining in Iran's rogue nuclear weapons program. He warns that every day that passes, Iran gets closer to a nuclear bomb, and asks, "Wait for what? Wait until when?" The ad, paid for by Secure America Now, aims to make Iran a major campaign issue and emphasizes the need for American strength, not apologies. The ad could have a powerful influence in heavily-Jewish markets, including Miami, where support for Israel remains strong. Meanwhile, the Republican Jewish Coalition has launched a separate $5 million TV advertising blitz aimed at Jewish voters in swing states, highlighting the "buyer's remorse" felt by many in the Jewish community who are disillusioned with Obama's economic policies and his policies toward Israel.
+END OF SUMMARY.
+
+Now, here is the target news article to summarize:
+Here is the news article:
+
+HARARE -- Opposition leader Morgan Tsvangirai has accused Zimbabwean President Robert Mugabe of deliberately withholding food from some areas of the drought-ravaged country as punishment for not voting the correct way in March's election. Mr. Tsvangirai, the 50-year-old leader of the Movement for Democratic Change, alleged in an interview that a starvation policy is part of a major campaign of retribution the ruling ZANU-PF has waged against him and his supporters. He also spoke about the support his country's opposition movement has received from abroad, and his pending trial on treason charges, both issues with Canadian connections. But he focused on the violence and hunger that have plagued many Zimbabweans since the controversial presidential election, at least in part a state-orchestrated operation aimed at crushing the opposition, he said. "I feel very strongly for these people," Mr. Tsvangirai said. "This is just the pursuance of a vendetta. The situation has escalated wildly since the election. It's part of Mugabe's grand strategy to target the MDC's supporter base." He said the situation is worst in southern Zimbabwe, where opposition to ZANU-PF is strongest. "The first targets are the farmers and their workers, then rural-area sympathizers," he said. The United Nations World Food Program warned last week that as many as 1.5 million Zimbabweans face starvation from the drought, compounded by government-sponsored invasions of white-owned commercial farms that have crippled production of maize and wheat. Ground corn, known locally as "mealie meal," is the staple diet of millions of Zimbabweans who can afford little else. Mr. Mugabe acknowledged the country's agricultural problems last week, declaring a "state of disaster" brought on by drought and sabotage by white farmers. He made no reference to the economic upheaval caused by the farm invasions, but the government says it is trying to import supplies from South Africa, China, Argentina and Brazil. Because of restrictions on foreign reporters in Zimbabwe, it was impossible to obtain direct government comment on Mr. Tsvangirai's allegations. But non-governmental organizations operating in the country also said they have been seeing evidence of discriminatory food distribution. "Food is now a major issue," said Shari Eppel of Amani Trust, a human-rights organization. ". . . We have come across cases of people having to have a ZANU-PF card before they are allowed to buy from the Grain Marketing Board," which is the body that controls imports and sales. In the southwestern region of Matabeleland, for example, cases have been reported where people had to go through a "cleansing" routine to purge them of their MDC sympathies before being allowed to buy corn. "According to reports we have received, they are taken to the police to denounce the MDC, then to the war veterans, where they go through a public confession," Mrs. Eppel said. "Then they are taken to the local headman to be kept under observation. After a few days, he decides if they can be allowed to buy grain from the GMB." Meanwhile, Mr. Tsvangirai alleged, the land-reform plan, nominally launched to resettle one million poor families, is actually putting commercial farms in the hands of presidential cronies and members of the ruling party elite. He said beneficiaries of the program have included government ministers, MPs, army and police officials -- even Mr. Mugabe's in-laws. "The situation we see now is what I call the Last Supper -- it is ZANU-PF's final feast," Mr. Tsvangirai said. "It is a case of take what you can while you can. " The opposition leader commended Canada and other countries for invoking sanctions against Mr. Mugabe's regime. But he said Zimbabwe's future rests largely with its own people. "The international community can support us so far, but it can never remove the shackles of repression," he said. "The burden really lies with Zimbabweans to fight peacefully for their own freedom." He said the violence, hunger and economic turmoil are strengthening his country's appetite for a public campaign for change. "There is no struggle without casualties, but we don't want to engineer any reckless action," he cautioned. ". . . A systematic, strategic program of mass mobilization is necessary to confront a stolen victory and an illegitimate government." Mr. Tsvangirai also touched on his own legal battle with the government: On May 31, he is to stand trial on a charge of treason, accused of plotting to have Mr. Mugabe assassinated. The opposition leader has denied the charge all along, and although he was reluctant to go into depth about a case still before the courts, he did make brief reference to the prosecution's star witness, Montreal-based consultant and former Israeli intelligence agent Ari Ben-Menashe, who may or may not travel to Zimbabwe for the trial. "If the prosecution's key witness is reluctant to testify, how will they proceed? " Mr. Tsvangirai asked. "There is no case to answer."
+
+(1) First, you identify all the single words that are morally framed. Identify this step as "STEP 1:" and report each word in a new line starting with *
+(2) Finally, you write a summary of the news article. Please preserve as many morally framed words as possible in your summary. The summary has to be returned after a "SUMMARY:" token and ending with a "END OF SUMMARY." token. The summary should be no longer than 200 words.

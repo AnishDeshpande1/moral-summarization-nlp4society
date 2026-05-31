@@ -1,0 +1,253 @@
+You have to summarize the following text preserving the moral framing that the author gave to it, with particular focus on the specific moral foundations highlighted in the text.
+
+Please study the following examples of news articles, their moral word extraction, and summaries preserving the moral framing:
+
+Example 1 (Political Ideology: Left, Moral Foundations: Authority/Subversion, Care/Harm, Sanctity/Degradation):
+Here is the news article:
+
+WASHINGTON—Joining a chorus of Catholic bishops , theologians, priests, and social justice leaders, nearly 90 Georgetown University faculty and administrators have called Representative Paul Ryan (R-Wisc.) to task for his misuse of Catholic social teaching in defending his budget, which hurts the poor.
+The group sent a letter to Rep. Ryan in advance of his appearance on the Catholic campus on Thursday morning to give the Whittington Lecture.
+
+In their letter to Ryan, the scholars make clear they are not objecting to his speaking on campus, but rather his recent comments defending his budget on Christian grounds.
+
+“Our problem with Representative Ryan is that he claims his budget is based on Catholic social teaching,” said Jesuit Father Thomas J. Reese , one of the organizers of the letter.
+“This is nonsense.
+As scholars, we want to join the Catholic bishops in pointing out that his budget has a devastating impact on programs for the poor.”
+Reese is a senior fellow at the Woodstock Theological Center at Georgetown University.
+
+The letter quotes the U.S. Conference of Catholic Bishops, which wrote several letters to Congress saying “a just framework for future budgets cannot rely on disproportionate cuts in essential services to poor persons.”
+The bishops noted that “the House-passed budget resolution fails to meet these moral criteria.”
+Last week, Rep. Ryan dismissed the bishops’ critique, erroneously claiming the letters didn’t represent “all the bishops,” a point the USCCB media office denied.
+
+“I am afraid that Chairman Ryan’s budget reflects the values of his favorite philosopher Ayn Rand rather than the gospel of Jesus Christ,” said Father Reese.
+“Survival of the fittest may be okay for Social Darwinists but not for followers of the gospel of compassion and love.”
+
+The Georgetown scholars pointed to the devastating impact of cuts in food programs that keep the poor from starvation.
+From personal experience, they also “know how cuts in Pell Grants will make it difficult for low-income students to pursue their educations at colleges across the nation, including Georgetown.”
+
+The scholars corrected Mr. Ryan on his use of the Catholic concept of “subsidiarity” as “a rationale gutting government programs.”
+The scholars say that it is true that “It calls for solutions to be enacted as close to the level of local communities as possible.
+But it also demands that higher levels of government provide help—‘subsidium’—when communities and local governments face problems beyond their means to address such as economic crises, high unemployment, endemic poverty and hunger.”
+
+The scholars also gave the Representative a reading assignment: “The Compendium of the Social Doctrine of the Church,” which was commissioned by John Paul II and published by the Vatican.
+
+Signing the letter were over a dozen Georgetown Jesuit priests, numerous members of the Theology and other departments including History, Government, Philosophy, School of Foreign Service and School of Nursing & Health Studies.
+
+STEP 1:
+* nonsense
+* devastating
+* just
+* moral
+* compassion
+* love
+* survival
+* fittest
+* okay
+* gospel
+* compassion
+* love
+* difficult
+* correct
+* demands
+* subsidium
+* crises
+* unemployment
+* poverty
+* hunger
+
+SUMMARY:
+Nearly 90 Georgetown University faculty and administrators have criticized Representative Paul Ryan for misusing Catholic social teaching to defend his budget, which they argue has a "devastating impact" on the poor. The scholars, including Jesuit priests, theologians, and social justice leaders, claim that Ryan's budget is not based on Catholic values, but rather on the philosophy of Ayn Rand. They argue that the budget fails to meet "moral criteria" and does not reflect the "gospel of Jesus Christ," which is one of "compassion and love." The scholars point to the "difficult" consequences of cuts in food programs and Pell Grants, and correct Ryan's interpretation of the Catholic concept of "subsidiarity." They urge Ryan to read "The Compendium of the Social Doctrine of the Church" to better understand Catholic social teaching. END OF SUMMARY.
+
+Example 2 (Political Ideology: Center, Moral Foundations: Authority/Subversion, Care/Harm, Fairness/Cheating, Loyalty/Betrayal):
+Here is the news article:
+
+WASHINGTON — Defense Secretary Jim Mattis, whose experience and stability were widely seen as a balance to an unpredictable president, resigned Thursday in protest of President Trump’s decision to withdraw American forces from Syria and his rejection of international alliances.
+
+Mr. Mattis had repeatedly told friends and aides over recent months that he viewed his responsibility to protect the United States’ 1.3 million active-duty troops as worth the concessions necessary as defense secretary to a mercurial president.
+But on Thursday, in an extraordinary rebuke of the president, he decided that Mr. Trump’s decision to withdraw roughly 2,000 American troops from Syria was a step too far.
+
+Officials said Mr. Mattis went to the White House with his resignation letter already written, but nonetheless made a last attempt at persuading the president to reverse his decision about Syria, which Mr. Trump announced on Wednesday over the objections of his senior advisers.
+
+Mr. Mattis, a retired four-star Marine general, was rebuffed.
+Returning to the Pentagon, he asked aides to print out 50 copies of his resignation letter and distribute them around the building.
+
+“My views on treating allies with respect and also being cleareyed about both malign actors and strategic competitors are strongly held,” Mr. Mattis wrote.
+“Because you have the right to have a Secretary of Defense whose views are better aligned with yours on these and other subjects, I believe it is right for me to step down from my position.”
+
+His resignation came as Congress appeared to be hurtling toward a government shutdown and as a deep market slump became even worse over fears of continuing government turmoil.
+
+With the ousting this month of John F. Kelly as White House chief of staff, Mr. Mattis was the last of Mr. Trump’s old-guard national security team — leaving policy in the hands of Mike Pompeo, the president’s second secretary of state, and John R. Bolton, the third White House national security adviser.
+
+Mr. Trump said that Mr. Mattis, 68, will leave at the end of February, and that Mr. Mattis “was a great help to me in getting allies and other countries to pay their share of military obligations.”
+
+The president said he would name a replacement soon.
+
+As Mr. Mattis was handing in his resignation, the Pentagon was preparing to draw down forces in Afghanistan.
+Two Defense Department officials said Thursday that about 7,000 troops will be withdrawn in the coming months — cutting in half the number of American forces there — in an early step to ending the United States’ involvement in the 17-year war.
+
+“This is scary,” Senator Mark Warner of Virginia, the top Democrat on the Senate Intelligence Committee, said in a Twitter post.
+He called Mr. Mattis “an island of stability amidst the chaos of the Trump administration.”
+
+Senator Ben Sasse, Republican of Nebraska, called it “a sad day for America because Secretary Mattis was giving advice the President needs to hear.”
+
+He added that Mr. Mattis “rightly believes that Russia and China are clear adversaries and that we are at war with jihadists across the globe who plot to kill Americans at home.”
+
+Mr. Mattis’s resignation letter was the sharpest, and most public, protest from inside the Trump administration over the president’s rejection of the alliances and relationships that have underpinned American security since the end of World War II.
+
+It was also the first resignation over a major national security issue by a leading cabinet member since 1980, when Cyrus Vance quit as secretary of state.
+Mr. Vance left over President Jimmy Carter’s decision to attempt a rescue effort for American hostages in Iran that Mr. Vance considered ill-advised and that ended in tragedy.
+
+Mr. Mattis’s letter did not single out any decision.
+Instead, it condemned Mr. Trump’s approach to the world as destructive to American influence and power.
+
+He said the core of American national interests lay in “providing effective leadership to our alliances,” and specifically described the importance of the North Atlantic Treaty Organization, a defense alliance Mr. Trump has often derided.
+Mr. Mattis also praised the “Defeat ISIS” coalition that Mr. Trump just abandoned in Syria.
+
+But Mr. Mattis’s core complaint was that Mr. Trump had lost sight of the importance of the competition for global power with Russia and China, who want “a world consistent with their authoritarian model.”
+
+Mr. Mattis was the primary author of a new American defense strategy whose central goal was to take on “revisionist” powers — an approach that some of Mr. Trump’s former advisers say the president never fully comprehended.
+
+Mr. Trump’s decision to pull out of Syria, which was opposed by virtually every high-level administration official but lauded by President Vladimir V. Putin of Russia, was the last straw.
+Among his other concerns, Mr. Mattis viewed the withdrawal as abandoning Kurdish fighters and other American allies, and as ceding critical territory to Russia and Iran.
+
+No senior Pentagon official has defended the withdrawal publicly, despite requests from the White House.
+As a result, Mr. Trump appeared by himself in a video — which he tweeted Wednesday evening — announcing victory over the Islamic State.
+
+During Thursday’s meeting at the White House, officials said that Mr. Trump again asked Mr. Mattis to publicly endorse the Syria decision.
+Mr. Mattis refused.
+
+The president’s tweets announcing the departure of his defense secretary shocked officials at the Pentagon, who as recently as Thursday afternoon were insisting that Mr. Mattis had no intention of resigning.
+
+Mr. Trump’s selection of Mr. Mattis as his Pentagon chief only weeks after his 2016 election was widely praised.
+The career Marine was respected among allies and adversaries and on Capitol Hill, and he was beloved in the Pentagon as a protector against a president with scant understanding of his own role as commander in chief.
+
+Mr. Mattis commanded Marines in Afghanistan and in the 2003 invasion of Iraq before becoming the head of United States Central Command, overseeing all American troops in the Middle East.
+Though a colorful, hard-charging advocate of aggressive offensive action, Mr. Mattis viewed a tough American posture overseas as a way to deter war, not to start them, with potential foes like Iran.
+
+He favored working with allies, and often spoke of how difficult it was to conduct American policy without the benefit of friends.
+During his job interview with Mr. Trump in 2016, Mr. Mattis said he did not believe in torturing terrorism suspects to get information because he thought he could get more out of detainees by talking to them over a pack of cigarettes and a beer.
+
+The relationship between Mr. Mattis and Mr. Trump had deteriorated for months.
+The widely accepted narrative that Mr. Mattis was the adult in the room when at the White House came to annoy the president.
+In October, Mr. Trump accused Mr. Mattis of being a Democrat — a charge akin to treason in the current Republican administration.
+
+As defense secretary, Mr. Mattis oversaw the world’s most powerful military, supervising active-duty troops based in the United States and deployed worldwide, including in war zones in Afghanistan, Iraq, Syria and on the Saudi border with Yemen.
+There are also around 25,000 American troops in South Korea, where they have served for generations as a deterrent against North Korea.
+
+As with Mr. Trump’s abrupt firing of Attorney General Jeff Sessions, the split with Mr. Mattis was a full turn in a relationship that once appeared strong.
+
+In Mr. Mattis’s early days as defense secretary, he often ate dinner with the president in the White House residence.
+Over hamburgers, and with the help of briefing folders, Mr. Mattis explained to Mr. Trump key points about the United States’ relationships with allies.
+
+But Mr. Mattis also quietly slow-walked a number of Mr. Trump’s proposals, including banning transgender troops, starting  a Space Force and putting on a costly military parade.
+In each case, he went through the motions of acquiescing to the White House — and then buried the plans in Defense Department red tape.
+
+STEP 1:
+* Scary
+* Chaos
+* Sad
+* Destructive
+* Ill-advised
+* Tragic
+* Authoritarian
+* Revisionist
+* Abandoning
+* Ceding
+* Shocked
+* Beloved
+* Protector
+* Aggressive
+* Tough
+* Difficult
+* Treason
+
+SUMMARY:
+Defense Secretary Jim Mattis resigned in protest of President Trump's decision to withdraw American forces from Syria, citing the president's rejection of international alliances as "destructive" to American influence and power. Mattis, a retired four-star Marine general, had repeatedly told friends and aides that he viewed his responsibility to protect the US' 1.3 million active-duty troops as worth the concessions necessary to work with a "mercurial" president. However, Trump's decision to pull out of Syria was the "last straw," as it would "abandon" Kurdish fighters and other American allies, and "cede" critical territory to Russia and Iran. Mattis's resignation letter condemned Trump's approach to the world as "scary" and "chaotic," and praised the importance of the North Atlantic Treaty Organization and the "Defeat ISIS" coalition. The resignation has left a "sad" and "shocked" Pentagon, and Congress is hurtling towards a government shutdown. END OF SUMMARY.
+
+Example 3 (Political Ideology: Right, Moral Foundations: Authority/Subversion, Care/Harm, Fairness/Cheating, Loyalty/Betrayal):
+Here is the news article:
+
+"Even so every good tree bringeth forth good fruit; but a corrupt tree bringeth forth evil fruit.
+"—Matthew 7:17
+
+There is one apparent reason the president of the United States was not indicted Tuesday in the same case that yielded a guilty plea from his longtime personal lawyer.
+It's not because prosecutors think he is innocent.
+It's because he is president.
+
+The U.S. Justice Department has long taken the position that a sitting president is exempt from indictment.
+Only after he leaves office are prosecutors free to pursue criminal charges against him.
+Unless that policy changes, Donald Trump will serve the remainder of his time in office under the specter of prison.
+
+Let that sink in a moment.
+Prosecutors may postpone his indictment.
+Congress may refuse to impeach him or convict him.
+But Americans will be living under the administration of someone who has been implicated in a crime by a close associate—and who they may eventually learn is guilty of one or more felonies.
+The nation is being governed by an unindicted co-conspirator.
+
+Trump's defenders deprecate the importance of the campaign finance violations that Michael Cohen admitted.
+They make much of the absence of any connection to Russia.
+They take vindication from a jury's failure to convict Paul Manafort on 10 of the 18 charges that he faced.
+
+It's tempting to call such defenders slavish.
+But slaves were often unenthusiastic and slow in performing their assigned tasks.
+Trump's defenders need no whips to motivate them.
+
+They are better described as cultlike in their fervent willingness to believe whatever they have to believe to remain faithful.
+They would rather eat the foul fruit than recognize the nature of the tree.
+
+If we know nothing else about Trump, we know that he finds the company of criminals as warm and inviting as a Jacuzzi.
+No president in history has shown such a fondness for employing people of felonious character.
+So far, five of his associates have been convicted of crimes or pleaded guilty.
+
+It is people of firm probity who make Trump uncomfortable—James Comey, who wouldn't agree to "go easy" on one of those confessed felons (Michael Flynn); Robert Mueller, who has served his country as a decorated Marine, federal prosecutor, and FBI director, all without a hint of scandal; Rod Rosenstein, who has refused to fire Mueller as special counsel; and a host of journalists whose sole sin is to report unflattering facts about Trump.
+
+Let's not forget his deep animus for Barack Obama, who served two terms without any credible allegation of corruption against him or anyone in his circle of aides or associates.
+The closest thing to a major criminal case in that White House involved CIA Director David Petraeus, who pleaded guilty to a misdemeanor count of giving classified documents to his biographer.
+
+It is not impossible that Cohen committed his campaign finance crimes—paying hush money to keep two women from making public their claims of having sex with Trump, to help him win the election—without the knowledge or approval of his boss.
+
+But Trump hasn't earned the benefit of any doubt.
+At every stage, he has told lies that were later exposed and acknowledged.
+The president denied that he knew of the payment to Stormy Daniels, only to later admit it.
+He also had to admit that he personally reimbursed Cohen, who originally insisted that he bore the cost.
+
+Speaking of people willing to make financial sacrifices out of their devotion to Trump, his former campaign manager was convicted on eight felony counts Tuesday.
+Trump said the convictions "had nothing to do with Russian collusion," but Manafort had extensive ties to a Russian oligarch and Russian businesses—and owed them millions of dollars.
+
+At the time he took the job with Trump, his defense lawyers admitted during the trial, Manafort had no income.
+Yet Trump was happy to let him run the campaign.
+Did Trump not know that his unpaid campaign manager was in financial trouble that gave pro-Russian foreign interests leverage over him?
+Or did he not think to wonder why Manafort was so eager to work for nothing?
+
+Manafort is just one of the noxious products of a corrupt tree.
+Tuesday was a bad day for the president and the country.
+But our experience with Trump suggests that the worst is yet to come.
+
+STEP 1:
+* Corrupt
+* Innocent
+* Guilty
+* Felonies
+* Slavish
+* Cultlike
+* Fervent
+* Felonious
+* Firm
+* Probity
+* Uncomfortable
+* Scandal
+* Animus
+* Corruption
+* Criminal
+* Noxious
+
+SUMMARY:
+The US Justice Department's policy exempts a sitting president from indictment, allowing Donald Trump to serve out his term under the specter of prison. Despite his implication in a crime by his close associate Michael Cohen, Trump's defenders remain fervent and cultlike in their support. However, the nation is being governed by an unindicted co-conspirator, with a history of employing people of felonious character. Trump's corrupt tree has borne noxious fruit, including five associates convicted of crimes or pleading guilty. His lies and animus towards people of firm probity, such as James Comey and Robert Mueller, further erode trust. The worst may be yet to come from this corrupt administration. END OF SUMMARY.
+
+Now, here is the target news article to summarize:
+Here is the news article:
+
+President Donald Trump tweeted on Thursday that Defense Secretary Jim Mattis, a retired Marine general who was one of Trump’s first Cabinet picks, would be retiring at the end of February. Mattis, who served more than four decades in the military and headed the U.S. Central Command from 2010 to 2013, won Senate confirmation as defense secretary on Jan. 20, 2017, shortly after Trump’s inauguration. The Pentagon chief, nicknamed “Mad Dog Mattis” during his time as a Marine, echoed Trump’s call for strengthening the military and beefing up its combat readiness. The budget bill the president signed into law in February earmarked $700 billion for the Defense Department this fiscal year ― a more than 15 percent increase over the previous year and the biggest hike in military spending since 2002. Mattis’ resignation letter addressed to Trump indicates his final day in office will be Feb. 28. “I am proud of the progress that has been made over the past two years on some of the key goals articulated in our National Defense Strategy: putting the Department on a more sound budgetary footing, improving readiness and lethality in our forces, and reforming the Department’s business practices for greater performance, he wrote. “Our troops continue to provide the capabilities needed to prevail in conflict and sustain strong U.S. global influence.” In the unusual letter, Mattis also wrote that he and Trump had differing views on Russian and Chinese authoritarianism: “Because you have the right to have a Secretary of Defense whose views are better aligned with yours on these and other subjects, I believe it is right for me to step down from my position.” Earlier this week, Trump went against Mattis by abruptly withdrawing U.S. troops from Syria. Mattis had previously argued that a small U.S. presence should remain because the counterterrorism mission there is ongoing and removing troops now would cause more problems for the region. Additionally, forces were withdrawn despite the concern by many Republicans that “leaving would strengthen the hand of Russia and Iran, which both support Syrian President Bashar al Assad.” News of Mattis’ departure comes in the wake of reports that the White House had been discussing who might replace him, a topic that was first reported by The Washington Post in early September. Some of the top names that were reportedly under consideration included four-star Army Gen. Jack Keane, Sen. Tom Cotton (R-Ark.), Sen. Lindsey Graham (R-S.C.), former Treasury Department official David McCormick and former Republican Sen. Jim Talent of Missouri. Trump denied that he had been looking to replace Mattis, telling reporters that he was “very happy” with him. That assurance came ahead of the release of a book by acclaimed Watergate journalist Bob Woodward, which reported that Mattis once told staffers that Trump has the understanding of a “fifth- or sixth-grader.” Mattis has denied having said that. A major split between Trump and Mattis concerned Russian President Vladimir Putin. The defense secretary has characterized Putin as trying to undermine NATO and assaulting Western democracies while violating international norms. “[Putin’s] actions are designed not to challenge our arms at this point, but to undercut and compromise our belief in our ideals,” Mattis told U.S. Naval War College graduates at a commencement ceremony in June. Trump, in contrast, has praised Putin’s leadership skills and recently roiled U.S. allies by calling for Russia’s reinstatement to the Group of Seven major industrial nations. Russia was expelled from what was then the Group of Eight after its annexation of Crimea from Ukraine. Mattis had also argued that the U.S. should consider staying in the Iran nuclear deal unless Tehran was found not to be abiding by the multi-nation agreement. Iran was following the pact’s rules, according to the International Atomic Energy Agency, which monitors the use of nuclear energy and has verified Iranian compliance with the accord multiple times since 2015. Trump went on to pull out of the deal in May, claiming that it had been poorly negotiated during the Obama administration. Mattis opposed Trump’s proposed ban on transgender service members, as well as the use of torture in the interrogation of terrorist suspects. His most prominent moment in the public spotlight occurred in April when he handled briefings on Trump’s decision to conduct targeted airstrikes against Syria in response to the alleged use of chemical weapons by Assad’s regime in that nation’s civil war. Even then, Mattis’ recommendation that congressional approval be sought for the strikes put him at odds with the president. Trump overruled the defense secretary and unilaterally ordered the military assault. Mattis joins a growing list of high-profile departures from the administration. Trump fired Secretary of State Rex Tillerson earlier this year, and Tom Price stepped aside as secretary of health and human services last fall amid ethical questions about his travel practices. Reince Priebus lasted barely six months as White House chief of staff, and Sean Spicer had a similarly short tenure as press secretary. White House Communications Director Hope Hicks, a Trump aide before he won the presidency, announced her resignation in February. White House deputy chief of staff Joe Hagin, who also served in the Ronald Reagan, George H.W. Bush and George W. Bush administrations, is expected to leave his post in July, Politico reported.
+
+(1) First, you identify all the single words that are morally framed, focusing especially on the dimensions of Authority/Subversion, Fairness/Cheating, Sanctity/Degradation. Identify this step as "STEP 1:" and report each word in a new line starting with *
+(2) Finally, you write a summary of the news article. Please preserve as many morally framed words as possible, particularly focusing on the moral dimensions of Authority/Subversion, Fairness/Cheating, Sanctity/Degradation in your summary. The summary has to be returned after a "SUMMARY:" token and ending with a "END OF SUMMARY." token. The summary should be no longer than 200 words.

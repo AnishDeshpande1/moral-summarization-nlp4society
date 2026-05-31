@@ -1,0 +1,201 @@
+You have to summarize the following text preserving the moral framing that the author gave to it.
+
+Please study the following examples of news articles, their moral word extraction, and summaries preserving the moral framing:
+
+Example 1 (Political Ideology: Left):
+Here is the news article:
+
+(CNN) Alabama Republican Senate candidate Roy Moore says he will sue the Washington Post over its report alleging he pursued sexual relationships with teenagers -- including a 14-year-old -- when he was in his 30s.
+
+"The Washington Post published another attack on my character and reputation because they are desperate to stop my political campaign.
+These attacks said I was with a minor child and are false and untrue -- and for which they will be sued," Moore said Sunday night during a campaign speech in Huntsville, Alabama.
+
+The Washington Post declined to comment Monday morning.
+
+It's not uncommon for public figures to threaten legal action against news organizations but ultimately fail to follow through.
+President Donald Trump threatened to sue The New York Times last year after it published the accounts of two women who claimed Trump touched them inappropriately.
+His lawyers never filed a lawsuit.
+
+More recently, disgraced Hollywood mogul Harvey Weinstein initially threatened to sue the Times after it first reported allegations of sexual misconduct against him, but that suit never materialized
+
+The Washington Post report Thursday was based on interviews with more than 30 people.
+As well as the allegations that Moore had sexual contact with the then 14-year-old when he was aged 32, three other women also told The Post that Moore pursued them when they were between the ages of 16 and 18.
+
+The woman who was 14 years old at the time claimed he took her to his house, undressed down to his underwear and undressed her down to her bra and underwear and touched her and moved her hand to touch his underwear, which could have been sexual offenses due to her age, but the statutes of limitations in effect during that time have passed.
+
+None of the other three women told the Post that Moore sexually harassed, or assaulted them, or forced them into a relationship.
+Alabama's legal age of consent is 16.
+
+Moore has denied the allegations since they were published.
+He called the claims " completely false " Friday when appearing on Sean Hannity's syndicated radio show.
+
+Speaking at a Veterans Day event at the Mid-Alabama Republican Club in Birmingham Saturday, Moore called the allegations "fake news" and "yet another attack on my character and reputation in a desperate attempt to stop my political campaign for the United States Senate."
+
+He added that the alleged incidents happened nearly 40 years ago and called them "very hurtful to me personally -- I have the highest regard for the protection of young children," before adding that he has never provided alcohol to a minor and has "not been guilty of sexual misconduct with anyone."
+
+Moore added that there were ongoing "investigations" looking into the motivations behind the Post article, and promised "revelations" about the story to come in the next few days, though he did not provide further specifics.
+
+A number of Republicans withdrew their endorsements of Moore following the Washington Post article, including the National Republican Senatorial Committee, which severed a joint fundraising agreement that benefits Moore's campaign.
+
+STEP 1:
+* false
+* untrue
+* desperate
+* attack
+* character
+* reputation
+* fake
+* hurtful
+* highest
+* guilty
+* misconduct
+
+SUMMARY:
+Alabama Republican Senate candidate Roy Moore has denied allegations of pursuing sexual relationships with teenagers, including a 14-year-old, when he was in his 30s, calling the claims "completely false" and "fake news". Moore accused The Washington Post of launching a "desperate" attack on his character and reputation to stop his political campaign. The Post's report, based on interviews with over 30 people, alleged that Moore had sexual contact with the 14-year-old and pursued three other women between the ages of 16 and 18. Moore has threatened to sue The Washington Post over the report, which he claims is "hurtful" to him personally. He emphasized his "highest regard for the protection of young children" and denied any "sexual misconduct" with anyone. Several Republicans have withdrawn their endorsements of Moore following the report. END OF SUMMARY.
+
+Example 2 (Political Ideology: Center):
+Here is the news article:
+
+Obama Willing to Use Executive Orders on Guns
+
+WASHINGTON — President Obama this week will embrace a comprehensive plan to reduce gun violence that will call for major legislation to expand background checks for gun purchases and lay out 19 separate actions the president could take by invoking the power of his office, lawmakers who were briefed on the plan said Monday.
+
+Lawmakers and other officials said that the president could use a public event as soon as Wednesday to signal his intention to engage in the biggest Congressional fight over guns in nearly two decades, focusing on the heightened background checks and including efforts to ban assault weapons and their high-capacity clips.
+But given the difficulty of pushing new rules through a bitterly divided Congress, Mr. Obama will also promise to act on his own to reduce gun violence wherever possible.
+
+Actions the president could take on his own are likely to include imposing new limits on guns imported from overseas, compelling federal agencies to improve sharing of mental health records and directing the Centers for Disease Control and Prevention to conduct research on gun violence, according to those briefed on the effort.
+
+White House aides believe Mr. Obama can also ratchet up enforcement of existing laws, including tougher prosecution of people who lie on their background checks.
+
+At a news conference on Monday, exactly one month after the school massacre in Newtown, Conn., Mr. Obama said a task force led by Vice President Joseph R. Biden Jr. had “presented me now with a list of sensible, common-sense steps that can be taken to make sure that the kinds of violence we saw at Newtown doesn’t happen again.
+He added: “My starting point is not to worry about the politics.
+My starting point is to focus on what makes sense, what works.”
+
+The administration’s strategy reflects the uncertainty of gun politics in America and the desire by White House officials to address the Connecticut shooting while also confronting the broader deficiencies in the country’s criminal justice and mental health systems.
+
+By proposing to use the independent power of his office, Mr. Obama is inviting political attacks by gun owners who have already expressed fear that he will abuse that authority to restrict their rights.
+Representative Steve Stockman, Republican of Texas, threatened Monday to file articles of impeachment if the president seeks to regulate guns with executive orders.
+“I will seek to thwart this action by any means necessary,” Mr. Stockman said in a statement.
+
+White House officials and Democratic lawmakers said that there are clear limits to what the president can and cannot do, and that Mr. Obama has no plans to push beyond what he would need Congressional authority to accomplish.
+
+On Capitol Hill, Mr. Obama’s legislative effort will face intense opposition from gun rights groups, including the National Rifle Association, and the lawmakers they support with millions of dollars at election time and who see gun rights as a defining issue in their districts.
+But Mr. Obama’s allies see a rare opening for tighter gun rules after Congress has shied away from the politically charged issue for years.
+
+“He’s putting together a pretty comprehensive list of what could be done to make a difference in this area,” said Representative Mike Thompson of California, who is heading a Democratic task force in the House.
+“There’s some huge, huge holes in the process that are set up to keep communities safe.
+We need to close those holes.”
+
+Representative Jackie Speier, Democrat of California, said Vice President Biden had informed lawmakers during a two-hour briefing on Monday that there are “19 independent steps that the president can take by executive order.”
+Ms. Speier said the executive action is part of the “most comprehensive gun safety effort in a generation.”
+
+Rahm Emanuel, the mayor of Chicago and Mr. Obama’s former chief of staff, joined the debate on Monday and said that the president should “clear the table” by doing whatever he can administratively so small issues do not get in the way of the bigger legislative fights over access to guns.
+
+“Don’t allow a side issue to derail these things,” Mr. Emanuel said during a discussion about gun policy.
+While many gun control advocates are eager to harness what they believe is a ripe moment in American life for new and robust restrictions on the kinds of guns that were used in Newtown, there is an emerging consensus on Capitol Hill and among gun education groups that improving the system of background check legislation that currently exempts private gun sales and gun shows is the most viable legislative route to pursue.
+
+“The assault-weapons ban is a low priority relative to the other measures the Biden task force is considering,” Matt Bennett, a spokesman for Third Way, a left-leaning research group, said after hearing from Mr. Biden last week.
+“Political capital in the gun debate only goes so far.
+We think it should be spent on things that would have the greatest impact on gun violence, like universal background checks and cracking down on gun trafficking.”
+
+Any efforts to get gun legislation through Congress will require an enormous and ceaseless pressure campaign by the administration.
+Mr. Obama and Mr. Biden are likely to keep up the pressure on lawmakers with public events in the weeks and months ahead, according to those familiar with the White House strategy.
+
+Scores of senators, including many Democrats, will be wary of voting on any effort to curb access to guns or ammunition.
+Senator Harry Reid of Nevada, the Democratic leader, is a longtime supporter of gun rights.
+Still, gun legislation is likely to begin in the Senate because the House is controlled by Republicans, many of whom oppose new restrictions on guns.
+
+With fiscal issues continuing to dominate the political calendar for the next several weeks, White House officials and lawmakers say the gun safety effort is likely to be debated in separate pieces of legislation that could be introduced over time.
+In coming weeks, Senator Charles E. Schumer, Democrat of New York, will reintroduce a measure that would require every gun buyer, with limited exceptions, to undergo a background check and would force states to feed all relevant data into the background check system so those with criminal convictions and the mentally ill could be flagged.
+
+STEP 1:
+* sensible
+* common-sense
+* fear
+* restrict
+* abuse
+* authority
+* rights
+* comprehensive
+* huge
+* safe
+* clear
+* ripe
+* robust
+* viable
+* low
+* priority
+* capital
+* greatest
+* impact
+
+SUMMARY:
+President Obama is willing to use executive orders to reduce gun violence, focusing on expanded background checks, banning assault weapons, and improving mental health records. Despite potential political attacks, Obama is committed to taking "sensible, common-sense steps" to prevent future tragedies like the Newtown massacre. The administration's strategy acknowledges the uncertainty of gun politics in America and the need to address broader deficiencies in the criminal justice and mental health systems. While some lawmakers and gun rights groups may oppose the measures, Obama's allies see a rare opportunity for tighter gun rules. The president's plan includes 19 separate actions he can take by invoking executive power, including imposing new limits on imported guns and directing the Centers for Disease Control and Prevention to conduct research on gun violence. END OF SUMMARY.
+
+Example 3 (Political Ideology: Right):
+Here is the news article:
+
+Support for gun rights is higher than it’s been in decades, according to the latest data from the Pew Research Center that signals a stunning turnaround in how Americans feel about the issue just two years after the Newtown school shooting.
+
+Pew found that 52 percent of Americans say Second Amendment rights are more important than gun control — up 7 percentage points from just after the December 2012 Sandy Hook Elementary School shooting that left 20 schoolchildren and six faculty dead.
+
+That’s the highest approval rating in two decades, and it’s being driven in part by changing attitudes among black Americans, who are increasingly likely to view guns as good for public safety.
+
+Pew found 54 percent of blacks now say firearms protect people from being victims of crimes, compared to 41 percent who say they are a public safety risk.
+Just two years ago, only 29 percent of blacks said guns were a public safety boon.
+
+“Over the past two years, blacks’ views on this measure have changed dramatically,” Pew researchers said.
+
+The changes are all the more stunning given the direction the debate appeared to be going two years ago, when 20-year-old gunman Adam Lanza killed his mother, then drove to the elementary school where he fatally shot 26 people, then turned the gun on himself to commit suicide.
+
+President Obama called for major new restrictions on gun rights in the wake of the shooting, asking Congress to enact a bill to subject more gun purchases to background checks and to ban high-capacity ammunition magazines and military-style rifles.
+But gun rights supporters rallied, blocking those efforts in the Senate and leaving the matter stalled.
+
+Some states acted in lieu of federal action, but Democrats on Capitol Hill said Wednesday they remain committed to imposing new restrictions.
+
+“It is imperative that we act,” House Minority Leader Nancy Pelosi said at an event to commemorate the Newtown shooting.
+“We must stick with this.”
+
+Gun control supporters said other polling still shows strong support for specific changes.
+Requiring universal background checks garners support of about 90 percent of Americans, while support for limits on rifles and ammunition magazines hovers just above 50 percent.
+
+Ladd Everitt, a spokesman for the Coalition to Stop Gun Violence, said Pew’s findings reflect a sharp partisan divide on the issue, but also said the wording of the survey might have influenced the results.
+The survey asked whether it was more important to “control gun ownership” or “protect the right of Americans to own guns.”
+
+“The notion of having ‘rights’ is certainly going to be more appealing than the notion of being ‘controlled,’ no matter what topic you are asking respondents about,” he said in an email.
+“We’d be curious to see how the polling would look if Pew Research asked respondents if they believed they had ‘a right to be free from gun violence in their communities through the enactment of sensible gun legislation.’”
+
+Specific wording aside, Pew’s research suggested a shift over time.
+Support for gun control peaked at 66 percent in the late 1990s, or about the time of the 1999 shooting at Columbine High School in Littleton, Colorado, and has dropped 20 percentage points since then.
+
+The recent shift has also happened across nearly all demographic lines.
+
+When posed a choice between supporting gun rights or gun controls, men and women, old and young, white and black and Republican and Democrat all saw their preference for Second Amendment rights increase over the last two years.
+
+African-Americans’ support for gun rights rose from 24 percent to 34 percent, and whites’ backing rose from 53 percent to 61 percent.
+Only Hispanics saw a drop in their support for gun rights, slipping 2 percentage points to 25 percent, or lower than blacks’ level of support.
+
+While Democrats still generally back gun controls, with just 28 percent supporting gun rights, majorities of both Republicans and independents say the Second Amendment trumps their desire for more controls.
+
+STEP 1:
+* rights
+* control
+* protect
+* victims
+* risk
+* boon
+* safety
+* restrictions
+* imperative
+* commit
+
+SUMMARY:
+A recent Pew Research Center survey reveals a significant shift in Americans' attitudes towards gun ownership, with 52% prioritizing Second Amendment rights over gun control, a 7-point increase from 2012. This change is driven in part by a dramatic shift among black Americans, who now view guns as a public safety boon, with 54% believing firearms protect people from being victims of crimes. In contrast, only 29% held this view two years ago. Despite President Obama's call for major new restrictions on gun rights after the Newtown school shooting, gun rights supporters rallied, blocking efforts in the Senate. While Democrats remain committed to imposing new restrictions, Pew's findings reflect a sharp partisan divide on the issue. The survey's wording may have influenced the results, but the shift over time is clear, with support for gun control dropping 20 percentage points since the late 1990s. END OF SUMMARY.
+
+Now, here is the target news article to summarize:
+Here is the news article:
+
+A year after the police shooting of Michael Brown set off a wave of protests in Ferguson, Missouri, the Black Lives Matter movement that rose to prominence in the aftermath is winning. Americans are paying more attention to systemic racism in the criminal justice system. Democratic presidential candidates have had public appearances derailed when they fail to take a convincing stance on the issue. And cops have been charged and indicted for high-profile killings. The movement hasn't definitively won. Black people are still dying at alarming rates at the hands of police, and several recent police shootings — such as the killing of Samuel DuBose in Cincinnati — were horrifying and unnecessary. But recent surveys show the shift. A June survey of 2,000 US adults from Gallup found that all Americans are more likely to say that black people are unfairly treated in all aspects of society, including police encounters. And a July survey of 2,000 US adults from the Pew Research Center found a 20-year high in the percentage of Americans calling racism a "big problem" in society. The media is also paying more attention. Both the Washington Post and the Guardian now track police shootings in databases that make up for the lack of credible federal data. Part of this reflects a rise in public interest, which the media is responsive to: Ferguson was the biggest news story for Americans on Twitter in 2014 — surpassing the Russian invasion of Crimea, Ebola, and the 2014 election. And there has been more interest in police shootings, according to Google searches, since late 2014: Beyond public interest, perhaps the most compelling evidence that police shootings are taken more seriously is that prosecutors — who ultimately have the power to criminally charge police accused of wrongdoing — are taking the issue more seriously. After a white police officer fatally shot DuBose, a black man, during a traffic stop in Cincinnati, Hamilton County Prosecutor Eric Deters — a Republican — called the shooting "unwarranted" and "senseless," stating that it was "the most asinine act I've ever seen a police officer make." And Deters was hardly the only prosecutor to come out against a police shooting in the past year, with prosecutors filing charges against the officers who killed Walter Scott in North Charleston, South Carolina; Eric Harris in Tulsa, Oklahoma; and Freddie Gray in Baltimore. Lawmakers, too, are pushing to hold police accountable. President Barack Obama and Democratic presidential candidate Hillary Clinton have both called for police to wear body cameras that would record police officers on the job. The Obama administration has said that the federal government needs to do a better job tracking police killings. And Clinton dedicated her first 2016 campaign speech to criminal justice issues, including policing. Again, none of this is to say that the battle is over and Black Lives Matter has achieved its overall mission of "redressing the systemic pattern of anti-black law enforcement violence in the US." Republicans and white Americans are still far more skeptical about the threat of racism in US society, according to Gallup and Pew surveys. And Republican presidential candidates — with the exception of Sen. Rand Paul (KY) — have largely avoided any criminal justice issues, including policing. But the trend is apparent: Black Lives Matter is winning. The notoriously slow American political system may take a while to reflect that, but it's really happening.
+
+(1) First, you identify all the single words that are morally framed. Identify this step as "STEP 1:" and report each word in a new line starting with *
+(2) Finally, you write a summary of the news article. Please preserve as many morally framed words as possible in your summary. The summary has to be returned after a "SUMMARY:" token and ending with a "END OF SUMMARY." token. The summary should be no longer than 200 words.

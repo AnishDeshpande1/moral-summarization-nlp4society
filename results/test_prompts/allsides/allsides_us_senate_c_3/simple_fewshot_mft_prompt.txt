@@ -1,0 +1,177 @@
+You have to summarize the following text preserving the moral framing that the author gave to it, with particular focus on the specific moral foundations highlighted in the text.
+
+Please study the following examples of news articles and their summaries preserving the moral framing:
+
+Example 1 (Political Ideology: Left, Moral Foundations: Authority/Subversion, Care/Harm, Fairness/Cheating):
+Here is the news article:
+
+The “compromise” immigration bill released Thursday night by Republicans in the House of Representatives is set to come to the House floor next week, alongside a more conservative alternative.
+It’s a sweeping plan that covers everything from border security (including a promise of $25 billion for Trump’s border wall); to a way for immigrants who are facing the loss of their protections under the Deferred Action for Childhood Arrivals (DACA) program to apply for legal status and ultimately (possibly) green cards and citizenship; to cuts to legal family-based immigration that are partially offset by expanding permanent employer-based immigration.
+
+But House Speaker Paul Ryan and others are emphasizing a different aspect of the bill.
+They claim it would prevent the Trump administration from separating children from their parents at the US-Mexico border — a practice the administration made widespread in early May and that has resulted in the separation of hundreds of families a week.
+
+They’re lying.
+
+The Republican bill doesn’t outlaw family separation.
+It doesn’t stop the Trump administration from choosing to prosecute asylum seekers who enter the US between ports of entry (official border crossings) for illegal entry, which results in parents being sent into criminal custody without their children.
+And it doesn’t even force the government not to separate parents who do present themselves legally for asylum from their children — something that has also been happening, though isn’t as widespread.
+
+What the House bill does is get rid of the extra legal protections that children and families have in immigration detention: a requirement that children be kept in the “least restrictive” conditions possible, and that they not be detained any longer than necessary.
+This means that if the family is kept together, their parents must be released with them.
+The Trump administration calls those protections “loopholes,” and blames them for “forcing” the administration to keep asylum-seekers in custody by separating families.
+
+If the House bill passed, the Trump administration probably would stop separating families.
+Instead, it would be able to keep children and parents in ICE detention until their cases were resolved — that is, they could be in held in detention indefinitely.
+
+The House bill allows kids and families to be detained by ICE indefinitely — which is what Trump has wanted all along
+
+The Republican summary of the new bill (as reported by Leigh Ann Caldwell of NBC) claims that it ends family separation: “Accompanied alien minors apprehended at the border must not be separated from their parent or legal guardian while in DHS custody.”
+
+There is no language like that in the bill.
+
+What exists, however, in a section called “Clarification of Standards for Family Detention,” is a provision allowing ICE to detain immigrant children who come to the US with their parents or guardians in the same way it would detain adults:
+
+There exists no presumption that an alien child who is not an unaccompanied alien child should not be detained, and all such determinations shall be in the discretion of the Secretary of Homeland Security.
+
+That sentence would overrule a court agreement that’s been in place for the past 20 years, called the Flores agreement, that puts strict limitations on when the government can keep children in immigration detention.
+The Flores agreement requires that kids be released “without unnecessary delay,” and that they are kept in the meantime in the “least restrictive” conditions possible.
+
+Courts have interpreted that agreement to mean that ICE can’t detain families for more than 20 days in most cases.
+
+The Flores agreement doesn’t require the government to separate families.
+It just requires the government not to indefinitely detain children.
+But the Trump administration has decided to maximize the detention of asylum seekers, including parents, to prevent people from disappearing into the US as unauthorized immigrants after they’re released.
+(This is the so-called “catch and release” policy Trump has railed against.)
+
+Rather than release parents with their children, therefore, the administration is separating families so the parents can be detained while the children (sent to the custody of HHS as “unaccompanied alien children”) are ultimately placed with sponsors.
+
+The House bill allows the administration to keep families in immigration detention indefinitely.
+It doesn’t even specify that there are any additional conditions on how children can be detained — there’s nothing preventing the Trump administration from simply putting children in existing ICE detention centers for adults, rather than expanding detention centers designed for families.
+
+Nothing in the bill requires ICE to keep parents and children together in detention.
+In fact, the mechanism that the Trump administration has generally been using to separate families — referring parents into the custody of the Department of Justice for prosecution — isn’t even addressed in the bill.
+
+The only reason the House bill could possibly end the separation of families would be if the Trump administration decided that because they now didn’t have to release children from detention, they would stop prosecuting parents, and they would make an effort to keep families together in ICE detention.
+
+But even then, that just means that children would be held in facilities that are essentially jails with their parents for months, or even years, until they ultimately received legal status — or, more likely, until they were finally deported.
+
+SUMMARY:
+
+The House Republicans' "compromise" immigration bill claims to prevent family separation at the US-Mexico border, but it's a lie. The bill doesn't outlaw family separation, and it doesn't stop the Trump administration from prosecuting asylum seekers who enter the US between ports of entry. Instead, it gets rid of legal protections for children and families in immigration detention, allowing ICE to detain them indefinitely. The bill would enable the Trump administration to keep children and parents in detention until their cases are resolved, which could take months or even years. This is a morally reprehensible move, as it would essentially jail families, including children, for an indefinite period. The bill's proponents are using deceptive language to make it seem like it's ending family separation, when in reality, it's just replacing one inhumane practice with another.
+
+END OF SUMMARY.
+
+Example 2 (Political Ideology: Center, Moral Foundations: Authority/Subversion, Care/Harm, Fairness/Cheating):
+Here is the news article:
+
+WASHINGTON (Reuters) - U.S. senators on Monday sparred over the shape of an impeachment trial of President Donald Trump, with Republican leader Mitch McConnell saying he has not ruled out hearing from witnesses as Democrats have demanded.
+
+McConnell, speaking on Fox News, stopped short of agreeing to a Democratic request for the Senate to agree ahead of time to take testimony during the trial expected to begin in early 2020.
+He cited the 1999 impeachment trial of President Bill Clinton, a Democrat, which ended in acquittal, as a model.
+
+“We haven’t ruled out witnesses,” McConnell said in an interview with “Fox & Friends.” “We’ve said, ‘Let’s handle this case just like we did with President Clinton.’ Fair is fair.”
+
+In that 1999 trial, he said, senators went through opening arguments, had a written question period and then decided what witnesses to call.
+There was limited testimony by video.
+
+Allowing witness testimony, particularly from current and former administration officials, was likely to prolong the trial and could bring up new evidence damaging to Republican Trump who was impeached by the Democratic-controlled House of Representatives last week.
+
+Chuck Schumer, the top Democrat in the Senate, said the trial must include witnesses.
+He urged his Senate colleagues to call for the release of relevant Trump administration documents.
+
+“It’s hard to imagine a trial not having documents and witnesses.
+If it doesn’t have documents and witnesses, it’s going to seem - to most of the American people - that it is a sham trial, a show trial,” Schumer said at a press conference in New York.
+
+The House voted along party lines to impeach Trump on two charges over his pressuring Ukraine to announce an investigation of former vice president Joe Biden and Biden’s son.
+Biden is a potential Democratic candidate to run against Trump in the November 2020 election.
+Hunter Biden was on the board of a Ukrainian energy company.
+
+Trump was charged with abuse of power and obstructing Congress’ investigation.
+He has said he did nothing wrong.
+There is little chance Trump will be convicted and removed from office by the Republican-controlled Senate.
+
+Trump on Monday accused Democrats of delaying tactics and urged for a quick conclusion to the impeachment process.
+
+House Speaker Nancy Pelosi has not yet transmitted the articles of impeachment to the Senate, a bid to pressure Senate Republicans to reach an accord with Schumer on trial rules.
+McConnell said the Senate could not take any action until it receives the articles.
+
+“What right does Crazy Nancy have to hold up this Senate trial.
+None!
+She has a bad case and would rather not have a negative decision.
+This Witch Hunt must end NOW with a trial in the Senate, or let her default & lose.
+No more time should be wasted on this Impeachment Scam!” Trump said on Twitter.
+
+Schumer has requested to have four witnesses subpoenaed for the trial.
+The White House blocked all four, including acting Chief of Staff Mick Mulvaney and former national security adviser John Bolton, from testifying during impeachment proceedings in the House of Representatives in December.
+
+SUMMARY:
+
+The impeachment trial of President Donald Trump is expected to begin in early 2020, with Republican leader Mitch McConnell saying he hasn't ruled out hearing from witnesses as Democrats have demanded. However, McConnell's approach is criticized as unfair and potentially damaging to Trump, as it may prolong the trial and bring up new evidence. Democrats, on the other hand, are pushing for a fair trial that includes witnesses and documents, arguing that without them, the trial would be a "sham" and lack credibility. The moral framing of this issue is clear: fairness, transparency, and accountability are at stake. The American people deserve a thorough and impartial trial, not a rushed or manipulated process that prioritizes partisan interests over the truth. By blocking witnesses and documents, the Trump administration and its allies are undermining the integrity of the impeachment process and the rule of law. END OF SUMMARY.
+
+Example 3 (Political Ideology: Right, Moral Foundations: Authority/Subversion, Loyalty/Betrayal):
+Here is the news article:
+
+Outgoing White House economic adviser Larry Summers warned Wednesday that failure to pass a new tax cut compromise would significantly raise the risk of a double-dip recession.
+
+"To pass this bill in the next couple of weeks would materially increase the risk that the economy would stall out and we would have a double dip," he told reporters at the White House.
+
+Summers added that he thinks Congress will pass the deal President Obama struck with Republicans, an agreement that has come under withering criticism from liberal Democrats over the two-year extension of tax cuts for the rich as well as the middle class.
+
+Summers said that he doesn't think that Congress would take a step that "materially increases the risk that this economy will stall out."
+
+Positive reviews coming in from economists, Summers said, show the deal is the right thing to do.
+
+Sen. Jon Kyl, the No. 2 Republican in the Senate, told reporters that a tax cut bill could be on the Senate floor as early as Thursday.
+
+But, in a surprise move, Senate Democrats, meeting behind closed doors to discuss the tax deal, have asked the administration for "changes" to the bill, according to Sen Dick Durbin, D-Ill., the No. 2 Democrat in the chamber.
+Durbin would not detail what those changes are, deferring to Senate Majority Leader Harry Reid, D-Nev.
+
+Kyl said an official analysis and price tag, referred to as a "score," from the Joint Committee on Taxation (JCT) are not yet ready, but that the Senate could move to the bill anyway.
+
+Vice President Biden traveled to the Capitol Wednesday for a private meeting with House Democrats who are resisting the deal, saying it gives away too much to the wealthy.
+
+Some Democrats are unhappy that Obama agreed to extend expiring tax cuts not just for the middle class but also for higher earners, and that he agreed to impose a lower estate tax on wealthy heirs.
+Both provisions are seen by many Democrats as giveaways to the rich that will do little to help the economy.
+
+In return, Democrats would get extended jobless benefits for people who have been unemployed for long stretches.
+Workers would also see their share of Social Security payroll taxes cut by nearly a third for the coming year, a boost in take-home pay meant to encourage spending and aid the economy.
+
+Liberals are going as far as trying to prevent outgoing House Speaker Nancy Pelosi from bringing the tax cut compromise to the floor.
+
+Reps. Peter DeFazio of Oregon, and Jim McDermott and Jay Inslee of Washington state are crafting a letter to share with the House Democratic Caucus that would try to block the bill from seeing the light of day.
+They're hoping to get 60 signatures on their letter and then force a vote in the caucus.
+
+"There does not seem to be a majority of the Democrats who support the deal negotiated by Vice President Biden," he told Fox News.
+"So we want to have a record vote in the caucus on a resolution that says this resolution should not go to the floor without a majority of Democratic votes."
+
+DeFazio said House Democrats aren't going to keep rubber-stamping deals they don't like.
+
+"All through this administration, the White House has been a spear carrier for the president," he said.
+"They sent something over, the speaker has jammed it through and then Obama has negotiated with the Senate.
+And they're trying to get us to jam it through again.
+And a number of us are just saying that's enough."
+
+Obama rejected claims that he betrayed Democrats by cutting a deal with Republicans.
+Speaking to reporters at a joint appearance with Polish President Bronislaw Komorowski, Obama said economists predict higher job growth in 2011 and 2012 if Congress passes the agreement and urged lawmakers to examine the details of the deal and "get this done."
+
+But House Democrats are not listening.
+
+"So far, the response has not been very good," Pelosi said.
+She called the estate tax provision "a bridge too far."
+
+SUMMARY:
+
+Outgoing White House economic adviser Larry Summers warned that failure to pass the new tax cut compromise would significantly raise the risk of a double-dip recession. Despite criticism from liberal Democrats, Summers believes Congress will pass the deal, which extends tax cuts for the rich and middle class. Senate Democrats, however, are seeking changes to the bill, and House Democrats are resisting the deal, saying it gives away too much to the wealthy. Vice President Biden met with House Democrats to try to sway them, but many are unhappy with the provisions, including the extension of expiring tax cuts for higher earners and the lower estate tax on wealthy heirs. Liberals are even trying to prevent the bill from coming to the floor. The deal's supporters argue it will boost the economy, but critics see it as a giveaway to the rich. The moral framing of this issue is clear: is it right to prioritize the wealthy over the needs of the economy and the unemployed?
+
+END OF SUMMARY.
+
+Now, here is the target news article to summarize:
+Here is the news article:
+
+WASHINGTON – The Senate will vote Thursday on a pair of bills to fund the federal government, the first sign of movement in weeks toward ending a budget standoff that has triggered the longest government shutdown in history. Senate Majority Leader Mitch McConnell, R-Ky., and Senate Minority Leader Chuck Schumer, D-N.Y., announced Tuesday the chamber will vote to begin debate on a bill that would provide $5.7 billion for a border wall and make other concessions that President Donald Trump offered to Democrats over the weekend. If that bill fails to get the 60 votes needed to overcome a filibuster, senators will then vote to begin debate on a short-term measure that would reopen the government until Feb. 8. The House approved that proposal last week. But that bill also will require 60 votes, a threshold that will be hard to reach and will require bipartisan support. And even if the measure passes, Trump has threatened to veto it. Regardless, the votes will mark the first time since just before Christmas that the Senate has voted on legislation to end the shutdown, now in its 32nd day. “The opportunity to end all this is staring us right in the face,” McConnell said. “All that needs to happen is for our Democratic friends to put the country ahead of politics, take yes for an answer and vote to put this standoff behind us.” Sen. Lindsey Graham, R-S.C., said he also will present a proposal to Trump Wednesday morning to end the shutdown. Graham told reporters in South Carolina he would urge Trump to sign a measure reopening the entire federal government if House Speaker Nancy Pelosi, D-Calif., agrees to take up a bipartisan Senate bill dealing with a border wall and other immigration issues. Pelosi said in a statement there's no reason for senators not to pass the House-backed measure since the funding proposal it contains has previously cleared the Senate. “Senate Republicans need to re-open government, not continue their complicity in the Trump Shutdown with a vote for the president’s unacceptable border and immigration schemes that only increase the chaos and suffering at the border," she said. “The Senate GOP and President Trump must stop holding the American people hostage, and re-open government immediately.” House Democrats, meanwhile, are pushing their own spending bill that will offer roughly $1 billion for construction at ports of entry and for hiring new immigration judges – but no money for a border wall. That bill is certain to die in the GOP-led Senate. There was also a growing push in the House from centrist Democrats looking for a way out of the shutdown. A draft letter to Pelosi encouraged Democratic leadership to offer the president and Republicans a vote for a wall along the southern border next month if they voted to open the government up before that happened. Rep. Elaine Luria, D-Va., who represents a congressional district Trump won by 3 points, has taken the lead on the letter. Rep. Ben McAdams, D-Utah, another freshman who flipped a red district (the president won his Utah district by 7 percentage points), intends to sign onto the final draft. McAdams dismissed questions about whether the letter was a pointed message to leadership and said centrists were just trying to outline a way out of the shutdown. “I don’t think this attitude is anything new,” he said. “We shouldn’t be putting the American people in the place of a bargaining chip so let’s reopen the government and continue to have these conversations." On Tuesday, Trump accused Democrats of playing politics and indicated he has no intention of backing down in his demand of border wall funding. “Without a Wall our Country can never have Border or National Security,” he wrote on Twitter. “With a powerful Wall or Steel Barrier, Crime Rates (and Drugs) will go substantially down all over the U.S. The Dems know this but want to play political games. Must finally be done correctly. No Cave!” Trump struck a less-confrontational tone on Saturday when he used a White House speech to outline what he called “a common-sense compromise both parties can embrace” to fund the government and end the shutdown. Late Monday, the Senate released draft legislation including Trump’s proposals. The bill is one of two the Senate will consider Thursday. The 1,301-page bill would provide $5.7 billion to build Trump’s long-promised wall along the U.S.-Mexico border. It also would include three years of protection for young immigrants brought into the country illegally and for people granted Temporary Protected Status because of a crisis in their home countries. In addition, the bill includes $12.7 billion in aid for victims of last year’s hurricanes, wildfires and other natural disasters. One part of the bill that is already drawing criticism from immigration groups would change how minors from Central America seek asylum. The proposal would require them to apply for asylum in their home country instead of at the southwest border, as many have done in recent years. The number who could apply would be limited to 50,000 a year, and only 15,000 could be approved every year. To win approval, asylum would have to be determined to be in “the national interest.” Kerri Talbot, director of federal advocacy for the Immigration Hub, a group that advocates on behalf of immigrants, scoffed at the idea that the bill represented any kind of compromise, labeling it a “Trojan Horse” instead. “This is a Stephen Miller special,” Talbot said, referring to the White House adviser who has led Trump’s efforts to attack legal and illegal immigration. Greg Chen of the American Immigration Lawyers Association said the bill would destroy the very concept of asylum in the U.S. “This is a major change, a historic change that would be ushered in by this bill, closing down so many for asylum protections that we have,” Chen said. In the House, meanwhile, the legislation that Democrats will put forward for a vote this week includes $563 million to hire more immigration judges and $524 million for construction at ports of entry, though none of the money can be used for Trump’s demand for a border wall, said Evan Hollander, spokesman for the House Appropriations Committee. The bill would reopen the government and fund most government agencies through the end of September. The House already passed a bill that would temporarily fund the Department of Homeland Security through Feb 8. That department is not included in the latest bill.
+
+For this target article, the author's moral framing heavily relies on the following Moral Foundation dimensions: Authority/Subversion, Care/Harm, Fairness/Cheating.
+Please pay special attention to preserving the moral framing related to these specific dimensions (Authority/Subversion, Care/Harm, Fairness/Cheating) in your summary.
+
+The summary has to be returned after a "SUMMARY:" token and ending with a "END OF SUMMARY." token. The summary should be no longer than 200 words.

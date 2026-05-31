@@ -1,0 +1,207 @@
+You have to summarize the following text preserving the moral framing that the author gave to it, with particular focus on the specific moral foundations highlighted in the text.
+
+Please study the following examples of news articles, their moral word extraction, and summaries preserving the moral framing:
+
+Example 1 (Political Ideology: Left, Moral Foundations: Authority/Subversion, Fairness/Cheating, Loyalty/Betrayal):
+Here is the news article:
+
+Donald Trump has blocked the former White House counsel Don McGahn from testifying before Congress about the special counsel report on Russian election interference, prompting sharp criticism and even threats of impeachment.
+
+In a legal opinion released on Monday, the justice department said lawmakers on Capitol Hill cannot compel McGahn, who was subpoenaed by the House judiciary committee, to answer their questions under oath.
+
+“The Department of Justice has provided a legal opinion stating that, based on long-standing, bipartisan, and constitutional precedent, the former counsel to the president cannot be forced to give such testimony, and Mr McGahn has been directed to act accordingly,” the White House press secretary, Sarah Sanders, said in a statement.
+
+Trump must turn over financial records to House, judge rules – live
+
+“This action has been taken in order to ensure that future presidents can effectively execute the responsibilities of the office of the presidency.”
+
+McGahn is a central figure in special counsel Robert Mueller’s report, often standing in the way of Trump’s efforts to obstruct justice.
+According to investigators, McGahn threatened to resign when the president ordered him to have Mueller fired.
+
+McGahn was also dispatched by Trump to convince the former attorney general Jeff Sessions not to recuse himself from overseeing the Russia investigation.
+(Sessions did not heed the president’s demands.)
+
+Travelling to a rally in Pennsylvania, Trump was asked why he was asking McGahn to defy a congressional subpoena.
+“Well, as I understand it, they’re doing that for the office of the presidency, for future presidents,” he replied, according to a pool report.
+“I think it’s a very important precedent.
+And the attorneys say that they’re not doing that for me.
+They’re doing it for the office of the president.
+So we’re talking about the future.”
+
+The White House’s intervention was condemned by Jerry Nadler, the Democratic chairman of the judiciary committee.
+“The Mueller report documents a shocking pattern of obstruction of justice,” he said in a statement.
+“The president acted again and again – perhaps criminally – to protect himself from federal law enforcement.
+
+“Don McGahn personally witnessed the most egregious of these acts.
+President Trump knows this.
+He clearly does not want the American people to hear firsthand about his alleged misconduct, and so he has attempted to block Mr McGahn from speaking in public tomorrow.”
+
+The move is the latest example of the Trump administration’s “disdain for the law”, added Nadler, who said the committee will meet as planned on Tuesday morning and still expects McGahn to appear.
+
+Another Democratic member of the committee, David Cicilline, went further in his criticism, suggesting that impeachment of Trump would be warranted if McGahn did not respond to the subpoena.
+
+“Let me be clear: if Don McGahn doesn’t testify, it is time to open an impeachment inquiry,” he told the MSNBC network.
+“The president has engaged in an ongoing effort to impede our ability find the truth, to collect evidence, to do our work … No one is above the law, including the president of the United States.”
+
+Cicilline admitted he did not know if his view was shared by other members of Democratic leadership but added: “We may well be forced into a position to have to open a formal inquiry in order to facilitate the collection of the evidence that we need to see.”
+
+The justice department’s legal opinion does not prevent McGahn testifying if he so chooses, although it would be potentially at risk to his own career.
+Trump has mused about instructing Republicans to cease dealing with his law firm, Jones Day, the Associated Press reported.
+
+William Barr is acting like Trump's henchman
+
+Matthew Miller, former director of the office of public affairs for the justice department, tweeted: “Just show up and testify, McGahn.
+This isn’t about some garden-variety Congressional-executive branch dispute, but as one of your predecessors described it, a cancer on the presidency.
+Think about your place in history.”
+
+McGahn was subpoenaed by Nadler last month and, under instruction by the White House, failed to meet an initial deadline to appear before the committee.
+Nadler threatened to hold McGahn in contempt of Congress if he did not meet a second deadline of 21 May.
+
+McGahn, who left the White House last year, has increasingly become the subject of Trump’s ire following the release of the redacted Mueller report.
+Last week, the president tweeted he was “never a big fan” of McGahn and suggested it was the former White House counsel, and not Mueller, who was on his chopping block at the time of the investigation.
+
+The Trump administration has repeatedly blocked attempts at oversight by the Democratic-controlled House.
+Last month it instructed the former personnel security director Carl Kline not to testify at a hearing into alleged lapses in White House security clearance procedures.
+Last week the treasury secretary, Steven Mnuchin, refused to comply with a congressional subpoena to hand over Trump’s tax returns.
+
+Nadler’s committee has previously voted to hold the attorney general, William Barr, in contempt for refusing to provide the unredacted Mueller report and underlying evidence to Congress.
+
+STEP 1:
+* obstruction
+* justice
+* criminal
+* misconduct
+* disdain
+* law
+* truth
+* impede
+* above
+* cancer
+* contempt
+
+SUMMARY:
+Donald Trump has blocked former White House counsel Don McGahn from testifying before Congress about the special counsel report on Russian election interference, sparking sharp criticism and even threats of impeachment. The move is the latest example of the Trump administration's "disdain for the law" and an attempt to "impede" the collection of evidence. McGahn is a central figure in the report, having threatened to resign when Trump ordered him to have Mueller fired. Democrats condemned the move, with Jerry Nadler saying it's part of a "shocking pattern of obstruction of justice" and David Cicilline suggesting that impeachment would be warranted if McGahn didn't respond to the subpoena. The Trump administration has repeatedly blocked attempts at oversight, showing a blatant disregard for the "law" and the "truth". END OF SUMMARY.
+
+Example 2 (Political Ideology: Center, Moral Foundations: Care/Harm, Fairness/Cheating):
+Here is the news article:
+
+WASHINGTON — President Trump on Monday said the F.B.I. ruined the life of his former national security adviser and said his Democratic opponent for president, Hillary Clinton, suffered no consequences after she lied “many times” to the F.B.I.
+
+Michael T. Flynn, Mr. Trump’s first national security adviser, pleaded guilty on Friday to lying to the F.B.I. when he was questioned early this year about his conversations with the Russian ambassador.
+He was the fourth person charged in the investigation of Robert S. Mueller III, the special counsel appointed to lead an inquiry into Russia’s influence on the 2016 election and possible ties to Trump associates.
+
+As he left for Utah on Monday, the president said he felt “very badly” for Mr. Flynn, whom he fired in February for lying to the vice president about the content of these conversations.
+
+Mr. Trump’s comments Monday on Mr. Flynn come at a time when the special counsel investigation is focusing intensely on the president’s inner circle.
+Mr. Trump once encouraged Mr. Flynn to seek an immunity deal.
+Presidents typically do not weigh in on federal investigations to avoid appearing to influence the outcome.
+
+“I feel badly for General Flynn,” Mr. Trump said on Monday. “I feel very badly.
+He’s led a very strong life and I feel very badly.
+Hillary Clinton lied many times to the F.B.I. Nothing happened to her.
+Flynn lied and they destroyed his life.”
+
+Mr. Trump did not cite specifically what Mrs. Clinton said that he considered a lie.
+
+Mrs. Clinton gave a voluntary interview to the bureau in July 2016 during its investigation into whether she or her aides broke the law by corresponding through a private email server set up for her use as secretary of state.
+A few days later, the F.B.I. director at the time, James B. Comey, recommended no charges be filed against her in the matter.
+
+STEP 1:
+* badly
+* lied
+* destroyed
+
+SUMMARY:
+President Trump expressed sympathy for his former national security adviser, Michael T. Flynn, who pleaded guilty to lying to the F.B.I. about his conversations with the Russian ambassador. Trump felt "very badly" for Flynn, who he fired in February for lying to the vice president. The president contrasted Flynn's situation with that of his Democratic opponent, Hillary Clinton, who he claimed "lied many times" to the F.B.I. during its investigation into her email server, but faced no consequences. Trump argued that Flynn's life was "destroyed" as a result of his lie, while Clinton's dishonesty went unpunished. The president's comments come as the special counsel investigation into Russia's influence on the 2016 election and possible ties to Trump associates is intensifying its focus on his inner circle. END OF SUMMARY.
+
+Example 3 (Political Ideology: Right, Moral Foundations: Authority/Subversion, Care/Harm, Fairness/Cheating, Loyalty/Betrayal):
+Here is the news article:
+
+President Trump announced Sunday that Defense Secretary James Mattis will be leaving the administration on January 1, weeks earlier than planned and just days after Mattis' bombshell resignation letter made clear his policy disagreements with the White House.
+
+"I am pleased to announce that our very talented Deputy Secretary of Defense, Patrick Shanahan, will assume the title of Acting Secretary of Defense starting January 1, 2019," Trump wrote on Twitter Sunday morning. 
+
+"Patrick has a long list of accomplishments while serving as Deputy, & previously Boeing. 
+
+He will be great!"
+
+Shanahan is a former Boeing executive who joined the Pentagon in July 2017.
+
+In his resignation letter Thursday, Mattis, 68, had said he would remain in his role for more than three months. 
+
+Also on Thursday, Trump had said Mattis -- the first Cabinet official in 40 years to resign over a stated policy difference with the president -- was leaving in February.
+
+"The end date for my tenure is February 28, 2019, a date that should allow sufficient time for a successor to be nominated and confirmed as well as to make sure the Department's interests are properly articulated and protected at upcoming events to include Congressional posture hearings and the NATO Defense Ministerial meeting in February," Mattis wrote Thursday.
+
+It was not immediately clear why Mattis' departure date was apparently moved up, but tension in the Defense Department and Washington generally has skyrocketed in the days since he suddenly announced his resignation.
+
+Sources told Fox News this week that Mattis had quit "in protest" over the president's national security policies and that more resignations could be coming. 
+
+(In 2013, then-President Obama removed Mattis from his post running U.S. military's Central Command, reportedly without calling to notify him of the decision.)
+
+U.S. officials said this week that the Trump administration is making plans to pull all 2,000 troops out of Syria, and Trump later tweeted that “we have defeated ISIS in Syria, my only reason for being there during the Trump Presidency.”
+
+Trump has stood by his Syria decision despite fierce blowback, telling detractors that the pullout should come as “no surprise” given his 2016 campaign promises and arguing that America’s role as “Policeman of the Middle East” is not worth the sacrifice.
+
+Ground troops moved into Syria in 2015 to combat ISIS in the region, amid an escalating Syrian civil war. 
+
+Trump had talked about pulling out of Syria before, but military leaders had warned about ISIS re-emerging should the U.S. do so. 
+
+There is also concern about abandoning the U.S.' Kurdish allies.
+
+The news that Mattis will be leaving sooner than expected comes just days after Brett McGurk, the U.S. envoy for the global coalition to defeat Islamic State (ISIS), on Saturday accelerated his planned departure and announced his resignation.
+
+The Associated Press reported that McGurk said in a resignation letter to Secretary of State Mike Pompeo that ISIS was on the run, but wasn’t yet defeated and that U.S. work in Syria wasn’t yet done. 
+
+Fox News has confirmed that McGurk submitted his resignation letter on Friday, a day after Mattis resigned. 
+
+His resignation is effective December 31.
+
+The president downplayed the news via Twitter Saturday evening, saying he had neither met McGurk nor appointed him.
+
+"Brett McGurk, who I do not know, was appointed by President Obama in 2015. 
+
+Was supposed to leave in February but he just resigned prior to leaving," Trump tweeted. 
+
+"Grandstander? The Fake News is making such a big deal about this nothing event!"
+
+"If anybody but your favorite President, Donald J. Trump, announced that, after decimating ISIS in Syria, we were going to bring our troops back home (happy & healthy), that person would be the most popular hero in America," he continued in a follow-up tweet. 
+
+"With me, hit hard instead by the Fake News Media. Crazy!"
+
+Meanwhile, the White House's plan to withdraw half its troops in Afghanistan by the summer -- some 7,000 soldiers -- has drawn similar criticism. 
+
+While President Obama repeatedly promised to pull all troops out of Afghanistan by 2014, U.S. and NATO forces remain there in a predominately training and advising role.
+
+Afghanistan's security forces rely heavily on U.S. airpower against both Taliban and an upstart Islamic State affiliate. 
+
+More than 2,400 American soldiers have died in Afghanistan since the 2001 U.S.-led invasion, and Trump announced in a video last week that troop deaths were on his mind in announcing the pullouts.
+
+STEP 1:
+* pleased
+* talented
+* great
+* protest
+* fierce
+* blowback
+* surprise
+* sacrifice
+* grandstander
+* fake
+* crazy
+* happy
+* healthy
+* popular
+* hero
+* hit
+
+SUMMARY:
+President Trump announced that Defense Secretary James Mattis will be leaving the administration on January 1, weeks earlier than planned, after Mattis' bombshell resignation letter made clear his policy disagreements with the White House. Mattis had said he would remain in his role until February 28, but the departure date was apparently moved up. Tension in the Defense Department and Washington has skyrocketed since Mattis' sudden resignation in "protest" over Trump's national security policies. Trump has stood by his decision to pull out of Syria, despite "fierce blowback" and warnings from military leaders that ISIS could re-emerge. The news comes as the Trump administration is making plans to pull all 2,000 troops out of Syria, with Trump tweeting that "we have defeated ISIS in Syria." Trump downplayed the news of Mattis' resignation and that of Brett McGurk, the U.S. envoy for the global coalition to defeat Islamic State, calling McGurk a "grandstander" and the media "fake." END OF SUMMARY.
+
+Now, here is the target news article to summarize:
+Here is the news article:
+
+WASHINGTON (Reuters) - The U.S. House Judiciary Committee on Monday subpoenaed former White House aide Rob Porter to testify about alleged efforts by President Donald Trump to impede a federal probe into Russian interference in the 2016 presidential election. FILE PHOTO: White House Staff Secretary Rob Porter (L) arrives aboard Air Force One with fellow senior staff and U.S. President Donald Trump for a summer vacation at his Bedminster estate, at Morristown Airport in Morristown, New Jersey, U.S. August 4, 2017. Porter was the third former Trump adviser to draw a House Judiciary subpoena within the past two weeks. Porter and the other two advisers - Trump’s former campaign manager Corey Lewandowski and former White House Deputy Chief of Staff Rick Dearborn - are due to appear before the committee at 10 a.m. EDT on Sept. 17. House Judiciary Committee Chairman Jerrold Nadler said the proceedings would help the Democratic-led panel determine whether to recommend Trump’s impeachment to the full House of Representatives. Porter is a former White House staff secretary who witnessed a number of episodes laid out in former Special Counsel Robert Mueller’s Russia investigation report, including one involving then-White House Counsel Don McGahn that Democrats view as key to their investigation of the Trump presidency. “Rob Porter was prominently featured in the special counsel’s description of President Trump’s efforts to obstruct justice by directing ... McGahn to fire the special counsel, and then ordering him to lie about it,” Nadler said in a statement. Democrats want Lewandowski and Dearborn to testify about another damaging episode that involves the president’s alleged efforts to pressure then-Attorney General Jeff Sessions to direct Mueller’s Russia investigation away from the 2016 Trump campaign. “No one is above the law,” Nadler said, adding “any other American would have been prosecuted based on the evidence Special Counsel Mueller uncovered in his report.” Porter could not be immediately reached for comment. It is not clear whether the White House will seek to block the testimony of Porter and Dearborn, as it has that of McGahn and other onetime Trump White House aides. Lewandowski, a Trump confidant who has never served on the White House staff, has said he will testify. McGahn told Mueller that Trump repeatedly instructed him to have the special counsel removed and then asked him to deny having been so instructed when news of the action emerged in news reports. McGahn did not carry out either instruction. According to the Mueller report, Trump turned to Porter to pressure McGahn into writing a letter of denial. “If he doesn’t write a letter, then maybe I’ll have to get rid of him,” the Mueller report quotes Trump as telling Porter. The report said Porter recalled that the president referred to McGahn as a “lying bastard.” Trump also asked Porter to stay in touch with former Associate Attorney General Rachel Brand, whom Porter knew, as a possible replacement for Sessions after the attorney general recused himself from the Russia probe and refused Trump’s demands that he reverse his decision. “In asking him to reach out to Brand, Porter understood the president to want to find someone to end the Russia investigation or fire the special counsel, although the president never said so explicitly,” the Mueller report said. Porter was interviewed twice by the special counsel team, and, according to the Mueller report, took contemporaneous notes during a number of other incidents that now interest Democrats. He left the White House in February 2018 after accusations of domestic abuse from his former wives.
+
+(1) First, you identify all the single words that are morally framed, focusing especially on the dimensions of Authority/Subversion, Care/Harm, Fairness/Cheating. Identify this step as "STEP 1:" and report each word in a new line starting with *
+(2) Finally, you write a summary of the news article. Please preserve as many morally framed words as possible, particularly focusing on the moral dimensions of Authority/Subversion, Care/Harm, Fairness/Cheating in your summary. The summary has to be returned after a "SUMMARY:" token and ending with a "END OF SUMMARY." token. The summary should be no longer than 200 words.

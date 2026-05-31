@@ -1,0 +1,183 @@
+You have to summarize the following text preserving the moral framing that the author gave to it.
+
+Please study the following examples of news articles, their moral word extraction, and summaries preserving the moral framing:
+
+Example 1 (Political Ideology: Left):
+Here is the news article:
+
+Vision benefits are among those that will now be available to same-sex spouses.
+Benefits open to same-sex spouses
+
+The same-sex spouses of federal employees can begin applying for benefits including health insurance and retirement accounts immediately, the Obama administration said Friday, two days after the Supreme Court overturned a key provision of the Defense of Marriage Act.
+
+The Office of Personnel Management offered the guidance in a letter to the heads of executive departments and agencies, detailing access to many of the benefits to which legally married same-sex spouses will now have the same access heterosexual married couples do, including health, life, dental, vision and long-term care insurance.
+
+The memo, signed by acting director Elaine Kaplan, does not go into detail about the benefits available to same-sex couples who marry in one state but live in another where those unions are not legal.
+By omitting a specific reference to state laws, and repeating that benefits will be available to all legally married couples, OPM appears to be making the case that couples will have access to the listed benefits regardless of the state in which they live.
+
+President Barack Obama said Thursday that, “speaking as a president, not a lawyer,” he believes couples married in one state should be treated as married in all 50 states, but that his administration is working on the legalities of making that reality.
+
+In a statement Friday, the president applauded the expansion of access to federal benefits.
+“This is a critical first step toward implementing this week’s landmark Supreme Court decision declaring that all married couples — gay and straight — should be treated equally under federal law,” he said.
+“Thousands of gays and lesbians serve our country every day in the federal government.
+They, and their spouses and children, deserve the same respect and protection as every other family.
+
+Under the president’s direction, the Justice Department is leading the implementation of the repeal of Section 3 of DOMA.
+After the high court’s Wednesday ruling, Defense Secretary Chuck Hagel also said that the Pentagon will move quickly to expand benefits to same-sex couples.
+
+Attorney General Eric Holder welcomed Friday’s announcement.
+“Americans in same-sex marriages are entitled to equal protection and equal treatment under the law,” he said in a statement.
+“By extending health insurance and other important benefits to federal employees and their families, regardless of whether they are in same-sex or opposite-sex marriages, the Obama administration is making real the promise of this important decision.”
+
+The changes announced Friday “will make a meaningful, positive difference in the lives of many,” Holder said.
+“As the president directed, the Department of Justice will continue to coordinate with other federal agencies to implement this ruling as swiftly and smoothly as possible.
+I look forward to sharing additional information as it becomes available..”
+
+STEP 1:
+* equal
+* respect
+* protection
+* equal
+* entitled
+* equal
+* promise
+* meaningful
+* positive
+* swiftly
+* smoothly
+
+SUMMARY:
+The Obama administration has announced that same-sex spouses of federal employees can now apply for benefits, including health insurance and retirement accounts, immediately following the Supreme Court's overturn of the Defense of Marriage Act. This move is a "critical first step" towards implementing the landmark decision, ensuring that all married couples, gay and straight, are treated equally under federal law. President Obama believes that couples married in one state should be treated as married in all 50 states, and his administration is working on the legalities of making this a reality. The expansion of access to federal benefits is a step towards providing equal respect and protection to all families, regardless of sexual orientation. The Justice Department will continue to coordinate with other federal agencies to implement this ruling as swiftly and smoothly as possible. This change will make a meaningful, positive difference in the lives of many. END OF SUMMARY.
+
+Example 2 (Political Ideology: Center):
+Here is the news article:
+
+WASHINGTON — The Trump administration on Thursday published new visa rules aimed at restricting “birth tourism,” in which women travel to the United States to give birth so their children can have U.S. citizenship.
+
+Applicants will be denied tourist visas if they are determined by consular officers to be coming to the U.S. primarily to give birth, according to the rules in the Federal Register.
+It is a bigger hurdle to overcome, proving they are traveling to the U.S. because they have a medical need and not just because they want to give birth here.
+Those with medical needs will be treated like other foreigners coming to the U.S. for medical treatment and must prove they have the money to pay for it — including transportation and living expenses.
+
+“Closing this glaring immigration loophole will combat these endemic abuses and ultimately protect the United States from the national security risks created by this practice,” White House press secretary Stephanie Grisham said in a statement.
+“It will also defend American taxpayers from having their hard-earned dollars siphoned away to finance the direct and downstream costs associated with birth tourism.
+The integrity of American citizenship must be protected.”
+
+The practice of traveling to the U.S. to give birth is fundamentally legal, although there are scattered cases of authorities arresting operators of birth tourism agencies for visa fraud or tax evasion.
+And women are often honest about their intentions when applying for visas and even show signed contracts with doctors and hospitals.
+
+The State Department “does not believe that visiting the United States for the primary purpose of obtaining U.S. citizenship for a child, by giving birth in the United States — an activity commonly referred to as ‘birth tourism’ — is a legitimate activity for pleasure or of a recreational nature,” according to the new rules, which take effect Friday.
+
+While the new rules deal specifically with birth tourism, the Trump administration also has turned away pregnant women coming over the U.S.-Mexico border as part of a broader immigration crackdown.
+Those women were initially part of a “vulnerable” group that included others like small children who were allowed in, while tens of thousands of other asylum seekers have been returned to Mexico to wait out their cases.
+
+President Donald Trump’s administration has been restricting all forms of immigration, but Trump has been particularly plagued by the issue of birthright citizenship — anyone born in the U.S. is considered a citizen, under the Constitution.
+The Republican president has railed against the practice and threatened to end it, but scholars and members of his administration have said it’s not so easy to do.
+
+The U.S. has been cracking down on the practice since before Trump took office.
+
+Regulating tourist visas for pregnant women is one way to get at the issue, but it raises questions about how officers would determine whether a woman is pregnant to begin with and whether a woman could get turned away by border officers who suspect she may be just by looking at her.
+
+And critics of the new policy say it could put pregnant women at risk.
+
+Consular officers don’t have the right to ask during visa interviews whether a woman is pregnant or intends to become so.
+But they would still have to determine whether a visa applicant would be coming to the U.S. primarily to give birth.
+
+Birth tourism is a lucrative business in both the U.S. and abroad.
+Companies take out advertisements and charge up to $80,000 to facilitate the practice, offering hotel rooms and medical care.
+Many of the women travel from Russia and China to give birth in the U.S.
+
+The U.S. has been cracking down on the practice since before Trump took office.
+
+“An entire ‘birth tourism’ industry has evolved to assist pregnant women from other countries to come to the United States to obtain U.S. citizenship for their children by giving birth in the United States, and thereby entitle their children to the benefits of U.S. citizenship,” according to the State Department rules.
+
+There are no figures on how many foreign women travel to the U.S. specifically to give birth.
+The Center for Immigration Studies, a group that advocates for stricter immigration laws, estimated that in 2012 about 36,000 foreign-born women gave birth in the U.S. and then left the country.
+
+“This rule will help eliminate the criminal activity associated with the birth tourism industry,” according to the rules.
+“The recent federal indictments describe birth tourism schemes in which foreign nationals applied for visitor visas to come to the United States and lied to consular officers about the duration of their trips, where they would stay, and their purpose of travel.”
+
+STEP 1:
+* loophole
+* abuses
+* endemic
+* protect
+* integrity
+* legitimate
+* vulnerable
+* plagued
+* cracking
+* lucrative
+* criminal
+* lied
+
+SUMMARY:
+The Trump administration has introduced new visa rules to combat "birth tourism," a practice deemed "illegitimate" and "abusive" by the White House. The rules aim to restrict women from traveling to the US primarily to give birth and obtain US citizenship for their children. Applicants will be denied tourist visas if consular officers determine they are coming to the US for this purpose. The administration claims this "loophole" must be closed to "protect" American taxpayers and national security. Critics argue the policy could put pregnant women at risk and raise questions about how officers will determine a woman's intentions. The "birth tourism" industry, deemed "lucrative" and "criminal," has been operating in the US and abroad, with companies charging up to $80,000 to facilitate the practice. The new rules aim to "eliminate" this industry and its associated "abuses." END OF SUMMARY.
+
+Example 3 (Political Ideology: Right):
+Here is the news article:
+
+A group of 14 Wisconsin parents has filed a lawsuit against a local school district for its policy allowing teachers to address their children by their preferred "gender identity" without notifying them first.
+
+Wisconsin Institute for Law and Liberty (WILL), a conservative law firm, filed the 19-page lawsuit on Tuesday on behalf of the parent's group against the Madison Metropolitan School District (MMSD).
+The 14 parents were not named in the document.
+
+The lawsuit alleges that MMSD's transgender policy is unconstitutional because it prohibits teachers and staff from informing parents that their children want to switch sexes.
+
+"This action seeks to vindicate parents' fundamental and constitutional right to direct the upbringing of their children," the lawsuit argues.
+"The Madison Metropolitan School District has violated this important right by adopting a policy designed to circumvent parental involvement in a pivotal decision affecting their children's health and future.
+The policy enables children, of any age, to socially transition to a different gender identity at school without parental notice or consent."
+
+While parental consent is needed before a child's name can be changed legally in the district's official records, the school district policy announced in 2018 says students can be called by their preferred name and gender pronouns without parental permission.
+
+The policy states that the district is committed to affirming each student's self-designated gender identity and the district will strive to "disrupt the gender binary" with books and lessons stating that everyone has the right to choose their gender.
+
+The school policy allows students to pick new names and pronouns they can use at school regardless of whether they have a parent's permission.
+All teachers and district staff must refer to students by their chosen names and pronouns even though the names aren't official in district systems.
+
+The parents argue the policy violates the state constitution's due process clause, which protects parents' right to raise their children according to the parents' beliefs.
+
+"Madison schools have adopted policies that violate constitutionally recognized parental rights.
+A public school district should not, and cannot, make decisions reserved for parents," WILL President and General Counsel Rick Esenberg said in a statement.
+
+District spokesman Tim LeMonds said Tuesday that the district had not been served with the lawsuit and could not comment until it had a chance to review it.
+But LeMonds said the district stands by its guidance on transgender and nonbinary students.
+
+The lawsuit also argues that keeping parents in the dark about their children's sexuality interferes with parents' right to guide their children through life-altering decisions and provide professional help their children may urgently need.
+
+"There is no compelling government interest in keeping secret from parents that their child is dealing with gender dysphoria," the lawsuit reads.
+
+The parents also argue that the policy violates the state constitution's religious freedom guarantee.
+
+All of the parents say they believe God intended humans to be male and female, and the district's choice to hide students' gender struggles interferes with their right to guide their children in accordance with their religious beliefs
+
+STEP 1:
+* unconstitutional
+* fundamental
+* right
+* pivotal
+* important
+* circumvent
+* violated
+* affirming
+* disrupt
+* recognized
+* reserved
+* interferes
+* compelling
+* secret
+* religious
+* freedom
+* intended
+* interferes
+
+SUMMARY:
+A group of 14 Wisconsin parents has filed a lawsuit against the Madison Metropolitan School District (MMSD) over its policy allowing teachers to address their children by their preferred "gender identity" without notifying them first. The parents argue that the policy is unconstitutional and violates their fundamental right to direct the upbringing of their children. They claim that the policy circumvents parental involvement in a pivotal decision affecting their children's health and future. The policy enables children to socially transition to a different gender identity at school without parental notice or consent, which the parents believe interferes with their right to guide their children through life-altering decisions and provide professional help their children may urgently need. The lawsuit also argues that the policy violates the state constitution's religious freedom guarantee, as the parents believe God intended humans to be male and female.
+END OF SUMMARY.
+
+Now, here is the target news article to summarize:
+Here is the news article:
+
+Pakistan rejects US human rights report ISLAMABAD - Pakistan Tuesday slated US State Department's country report on human rights situation in Pakistan and labelled it "factually inaccurate and unwarranted." "The report fails to acknowledge the important policy measures and initiatives by the Government of Pakistan to promote and protect human rights," a Foreign Office spokesman said. The spokesman said that the US report ignored the implementation of almost all initiatives announced and set at an April 2000 human rights conference. These initiatives included the promulgation of the Juvenile Justice System Ordinance, the establishment of a Permanent Commission on the Status of Women, police and jail reforms, national policy and Plan of Action for elimination of child labour and establishment of a fund for rehabilitation of working children. The spokesman said: "The Government has amended Pakistan Citizenship Act of 1951 to enable women of Pakistani descent to claim Pakistani nationality for their children born to foreign husbands. A mass awareness campaign was launched as part of the observance of the Year 2000 as the Year of Human Rights and Human Dignity." "Pakistan also ratified ILO Conventions 100 on equal remuneration and 182 on the elimination of worst forms of child labour. It signed the Optional Protocols to Convention on the Rights of Child. Recently, the system of joint electorates has been introduced respecting the wishes of the minority communities," the spokesman said. The spokesman said that despite these developments, the report states `the Govt's human rights record remained poor'. "This is unacceptable and a gross misstatement of facts," the spokesman said. "The Government of Pakistan, therefore, feels constrained to reject the assessment of the report about Pakistan, and the tendency of some states to sit in judgement over others. The cause of human rights would be better served if all states, in a spirit of cooperation and understanding, address the problems they face in promoting and protecting human rights." He said that the Government of Pakistan remains committed to promoting and protecting human rights and will welcome the assistance of friendly countries towards that end.
+
+(1) First, you identify all the single words that are morally framed. Identify this step as "STEP 1:" and report each word in a new line starting with *
+(2) Finally, you write a summary of the news article. Please preserve as many morally framed words as possible in your summary. The summary has to be returned after a "SUMMARY:" token and ending with a "END OF SUMMARY." token. The summary should be no longer than 200 words.

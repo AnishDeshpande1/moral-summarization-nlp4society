@@ -1,0 +1,151 @@
+You have to summarize the following text preserving the moral framing that the author gave to it.
+
+Please study the following examples of news articles and their summaries preserving the moral framing:
+
+Example 1 (Political Ideology: Left):
+Here is the news article:
+
+Rep. Michael Grimm (R-N.Y.) is expected to be indicted by the U.S. attorney for the Eastern District of New York, Grimm's lawyer said Friday.
+
+Politico was first to report the news of the expected indictment.
+Grimm's lawyer, William McGinley, said in a statement that the U.S. attorney's office "has disclosed its intent to file criminal charges."
+
+"We are disappointed by the government’s decision, but hardly surprised," he said.
+"From the beginning, the government has pursued a politically driven vendetta against Congressman Grimm and not an independent search for the truth.
+Congressman Grimm asserts his innocence of any wrongdoing.
+
+"When the dust settles, he will be vindicated," McGinley added.
+"Until then, he will continue to serve his constituents with the same dedication and tenacity that has characterized his lifetime of public service as a Member of Congress, Marine Corps combat veteran, and decorated FBI Special Agent.”
+
+The New York Times reported the charges against Grimm "will include mail fraud and wire fraud and focus on his conduct in connection with a health food restaurant he owned on the Upper East Side of Manhattan after he left the Federal Bureau of Investigation in 2006," citing someone familiar with the case.
+
+The Justice Department began investigating Grimm two years ago on allegations that he filed erroneous campaign finance reports and accepted improper donations during his first congressional campaign.
+
+More recently, Grimm was in the news in January after he physically threatened a reporter in the Capitol.
+
+The second-term congressman represents New York’s 11th District, which includes Staten Island and part of Brooklyn.
+
+The Washington Post reported that Grimm is likely to turn himself in once the indictment is unsealed.
+
+UPDATE: 7:19 p.m. -- The Washington Post now reports that Grimm has already "been secretly indicted by a federal grand jury in Brooklyn, according to people familiar with the case.
+The indictment is expected to be unsealed in the coming days."
+
+SUMMARY:
+
+Rep. Michael Grimm (R-N.Y.) is expected to be indicted on charges of mail fraud and wire fraud related to his conduct at a health food restaurant he owned in Manhattan. His lawyer claims the government's decision is a "politically driven vendetta" and that Grimm asserts his innocence. This is not the first time Grimm has been in the news for questionable behavior, as he was previously investigated for filing erroneous campaign finance reports and accepting improper donations. Additionally, he was in the news in January for physically threatening a reporter in the Capitol. Despite these allegations, Grimm's lawyer claims he will continue to serve his constituents with dedication and tenacity. However, it is clear that Grimm's actions are a breach of public trust and undermine the integrity of public office. His behavior is a stark reminder of the importance of accountability and ethical leadership in politics.
+
+END OF SUMMARY.
+
+Example 2 (Political Ideology: Center):
+Here is the news article:
+
+WASHINGTON (Reuters) - The U.S. House Judiciary Committee on Monday subpoenaed former White House aide Rob Porter to testify about alleged efforts by President Donald Trump to impede a federal probe into Russian interference in the 2016 presidential election.
+
+FILE PHOTO: White House Staff Secretary Rob Porter (L) arrives aboard Air Force One with fellow senior staff and U.S. President Donald Trump for a summer vacation at his Bedminster estate, at Morristown Airport in Morristown, New Jersey, U.S. August 4, 2017.
+
+Porter was the third former Trump adviser to draw a House Judiciary subpoena within the past two weeks.
+Porter and the other two advisers - Trump’s former campaign manager Corey Lewandowski and former White House Deputy Chief of Staff Rick Dearborn - are due to appear before the committee at 10 a.m. EDT on Sept. 17.
+
+House Judiciary Committee Chairman Jerrold Nadler said the proceedings would help the Democratic-led panel determine whether to recommend Trump’s impeachment to the full House of Representatives.
+
+Porter is a former White House staff secretary who witnessed a number of episodes laid out in former Special Counsel Robert Mueller’s Russia investigation report, including one involving then-White House Counsel Don McGahn that Democrats view as key to their investigation of the Trump presidency.
+
+“Rob Porter was prominently featured in the special counsel’s description of President Trump’s efforts to obstruct justice by directing ... McGahn to fire the special counsel, and then ordering him to lie about it,” Nadler said in a statement.
+
+Democrats want Lewandowski and Dearborn to testify about another damaging episode that involves the president’s alleged efforts to pressure then-Attorney General Jeff Sessions to direct Mueller’s Russia investigation away from the 2016 Trump campaign.
+
+“No one is above the law,” Nadler said, adding “any other American would have been prosecuted based on the evidence Special Counsel Mueller uncovered in his report.”
+
+Porter could not be immediately reached for comment.
+
+It is not clear whether the White House will seek to block the testimony of Porter and Dearborn, as it has that of McGahn and other onetime Trump White House aides.
+Lewandowski, a Trump confidant who has never served on the White House staff, has said he will testify.
+
+McGahn told Mueller that Trump repeatedly instructed him to have the special counsel removed and then asked him to deny having been so instructed when news of the action emerged in news reports.
+McGahn did not carry out either instruction.
+
+According to the Mueller report, Trump turned to Porter to pressure McGahn into writing a letter of denial.
+
+“If he doesn’t write a letter, then maybe I’ll have to get rid of him,” the Mueller report quotes Trump as telling Porter.
+The report said Porter recalled that the president referred to McGahn as a “lying bastard.”
+
+Trump also asked Porter to stay in touch with former Associate Attorney General Rachel Brand, whom Porter knew, as a possible replacement for Sessions after the attorney general recused himself from the Russia probe and refused Trump’s demands that he reverse his decision.
+
+“In asking him to reach out to Brand, Porter understood the president to want to find someone to end the Russia investigation or fire the special counsel, although the president never said so explicitly,” the Mueller report said.
+
+Porter was interviewed twice by the special counsel team, and, according to the Mueller report, took contemporaneous notes during a number of other incidents that now interest Democrats.
+
+He left the White House in February 2018 after accusations of domestic abuse from his former wives.
+
+SUMMARY:
+
+The US House Judiciary Committee has subpoenaed former White House aide Rob Porter to testify about President Trump's alleged efforts to impede the federal probe into Russian interference in the 2016 election. Porter, along with two other former Trump advisers, is set to appear before the committee on September 17. The committee aims to determine whether to recommend Trump's impeachment to the full House of Representatives. Porter's testimony is crucial as he witnessed key episodes, including Trump's attempts to obstruct justice by directing White House Counsel Don McGahn to fire Special Counsel Robert Mueller. Democrats argue that any other American would have been prosecuted based on the evidence uncovered in Mueller's report. The committee's chairman, Jerrold Nadler, emphasized that "no one is above the law." The subpoena is a significant step in holding Trump accountable for his actions, and Porter's testimony could be a crucial piece of evidence in the impeachment inquiry.
+
+END OF SUMMARY.
+
+Example 3 (Political Ideology: Right):
+Here is the news article:
+
+House Judiciary Committee Chairman Jerrold L. Nadler on Monday put a fine point on Democrats’ impeachment case against President Trump, arguing that the president put himself before the country.
+
+“We surely agree that no public official, including and especially the president of the United States, should use his public office for private gain,” he said at the opening of an evidentiary hearing before his committee.
+
+Based on the evidence presented, the committee will proceed to write articles of impeachment against Mr. Trump.
+
+Mr. Nadler, New York Democrat, called the process a “solemn and serious undertaking” that Congress must engage in to address serious threats to America’s institutions, such as “free and fair elections.”
+
+He said both sides should be able to agree on the fact of the case if Republicans would remove “their blinders.”
+
+“We agree that no president should put himself before the country,” Mr. Nadler said.
+“The Constitution and his oath of office, his promise to American citizens, require the country’s president to put the country first.”
+
+Mr. Trump has denied wrongdoing and denounced the House impeachment drive as a partisan “sham.”
+
+The articles of impeachment are expected to include charges of abuse of power, bribery and obstructing the congressional probe, all of which stem from Mr. Trump asking Ukraine to investigate political rival Joseph R. Biden and his son Hunter.
+
+Republicans argue that Mr. Trump’s action, though unconventional, did not cross the line into criminality.
+They’ve also vouched for the legitimacy of investigating Hunter Biden, who landed a $50,000-a-month job on a Ukraine natural gas company, while his father was the point man for Obama White House policy in that graft-riddled country.
+
+The impeachment case stems from a July 25 phone call in which Mr. Trump pressed Ukraine President Volodymyr Zelensky for a “favor” in investigating the Bidens and Ukraine meddling in the 2016 election.
+
+A whistleblower, who is believed to be a CIA official assigned to the White House, accused the president of abusing his power for personal gain on the call, including withholding $391 million of U.S. military aid from Ukraine as leverage.
+
+A rough transcript of the call the White House released in late September did not show the president present a quid pro quo deal for the investigations, but Democrats have argued the threat was understood and part of an ongoing pressure campaign of “shadow” foreign policy conducted by Mr. Trump’s private lawyer, former New York Mayor Rudolph W. Giuliani.
+
+The quid pro quo, a Latin term meaning a transaction of “this for that,” is the crux of the Democrats’ case that Mr. Trump engaged in a bribery or extortion scheme that warrants impeachment.
+
+The Judiciary Committee is reviewing evidence gathered by an inquiry led by the Permanent Select Committee on Intelligence.
+Much of the evidence was presented in two weeks of public hearings last month.
+
+The most powerful testimony yet in the inquiry came from Gordon Sondland, the ambassador to the European Union, who said he offered a quid pro quo of a prized White House visit for the newly-elected Mr. Zelensky for the investigations.
+But Mr. Sondland said he “presumed” that was what Mr. Trump wanted.
+
+In his only conversation with the president about it, Mr. Trump told him that there was “no quid pro quo,” Mr. Sondland testified.
+
+None of the witnesses in the impeachment inquiry linked the holdup of military assistance to the investigations or provided a reason for the holdup.
+The aid was delayed for about two months, before the money started to flow to Ukraine on Sept. 11, two days after the Inspector General of the Intelligence Community informed Congress of the whistleblower complaint.
+
+Mr. Trump has acknowledged that he wanted an investigation into alleged corruption involving Mr. Biden and his son Hunter, who landed a high-paying job on the board of Ukraine natural gas company Burisma Holdings in 2014.
+At the time, his father was the point man for Obama White House policy in the country, which is notorious for corruption, especially in the energy industry.
+
+The elder Mr. Biden recently boasted of forcing Ukraine leaders to fire the country’s chief prosecutor in spring 2016 by threatening to block a $1 billion U.S. loan guarantee.
+The prosecutor was widely viewed as not doing enough to combat corruption.
+But the prosecutor, Viktor Shokin, also had looked into corruption allegations against Burisma and Mykola Zlochevsky, the Ukraine oligarch running the company.
+
+Mr. Trump also wanted Ukraine to look into a missing Democratic National Committee server that was hacked by Russia during the 2016 presidential campaigns.
+An American cybersecurity company called CrowdStrike examined the server to probe the hack but the server disappeared before it got to the FBI.
+
+Mr. Trump subscribes to an unsubstantiated theory that the server ended up in Ukraine.
+
+SUMMARY:
+
+House Judiciary Committee Chairman Jerrold Nadler argued that President Trump put himself before the country, using his public office for private gain. Nadler emphasized that the Constitution and Trump's oath of office require the president to put the country first. The impeachment case against Trump stems from his July 25 phone call with Ukraine President Volodymyr Zelensky, where he asked for an investigation into political rival Joseph R. Biden and his son Hunter. Democrats argue that Trump's actions constitute abuse of power, bribery, and obstructing the congressional probe. Republicans claim that Trump's actions, though unconventional, did not cross the line into criminality. Nadler called the impeachment process a "solemn and serious undertaking" to address threats to America's institutions, such as "free and fair elections." The committee will proceed to write articles of impeachment against Trump.
+
+END OF SUMMARY.
+
+Now, here is the target news article to summarize:
+Here is the news article:
+
+Donald Trump has blocked the former White House counsel Don McGahn from testifying before Congress about the special counsel report on Russian election interference, prompting sharp criticism and even threats of impeachment. In a legal opinion released on Monday, the justice department said lawmakers on Capitol Hill cannot compel McGahn, who was subpoenaed by the House judiciary committee, to answer their questions under oath. “The Department of Justice has provided a legal opinion stating that, based on long-standing, bipartisan, and constitutional precedent, the former counsel to the president cannot be forced to give such testimony, and Mr McGahn has been directed to act accordingly,” the White House press secretary, Sarah Sanders, said in a statement. Trump must turn over financial records to House, judge rules – live “This action has been taken in order to ensure that future presidents can effectively execute the responsibilities of the office of the presidency.” McGahn is a central figure in special counsel Robert Mueller’s report, often standing in the way of Trump’s efforts to obstruct justice. According to investigators, McGahn threatened to resign when the president ordered him to have Mueller fired. McGahn was also dispatched by Trump to convince the former attorney general Jeff Sessions not to recuse himself from overseeing the Russia investigation. (Sessions did not heed the president’s demands.) Travelling to a rally in Pennsylvania, Trump was asked why he was asking McGahn to defy a congressional subpoena. “Well, as I understand it, they’re doing that for the office of the presidency, for future presidents,” he replied, according to a pool report. “I think it’s a very important precedent. And the attorneys say that they’re not doing that for me. They’re doing it for the office of the president. So we’re talking about the future.” The White House’s intervention was condemned by Jerry Nadler, the Democratic chairman of the judiciary committee. “The Mueller report documents a shocking pattern of obstruction of justice,” he said in a statement. “The president acted again and again – perhaps criminally – to protect himself from federal law enforcement. “Don McGahn personally witnessed the most egregious of these acts. President Trump knows this. He clearly does not want the American people to hear firsthand about his alleged misconduct, and so he has attempted to block Mr McGahn from speaking in public tomorrow.” The move is the latest example of the Trump administration’s “disdain for the law”, added Nadler, who said the committee will meet as planned on Tuesday morning and still expects McGahn to appear. Another Democratic member of the committee, David Cicilline, went further in his criticism, suggesting that impeachment of Trump would be warranted if McGahn did not respond to the subpoena. “Let me be clear: if Don McGahn doesn’t testify, it is time to open an impeachment inquiry,” he told the MSNBC network. “The president has engaged in an ongoing effort to impede our ability find the truth, to collect evidence, to do our work … No one is above the law, including the president of the United States.” Cicilline admitted he did not know if his view was shared by other members of Democratic leadership but added: “We may well be forced into a position to have to open a formal inquiry in order to facilitate the collection of the evidence that we need to see.” The justice department’s legal opinion does not prevent McGahn testifying if he so chooses, although it would be potentially at risk to his own career. Trump has mused about instructing Republicans to cease dealing with his law firm, Jones Day, the Associated Press reported. William Barr is acting like Trump's henchman Matthew Miller, former director of the office of public affairs for the justice department, tweeted: “Just show up and testify, McGahn. This isn’t about some garden-variety Congressional-executive branch dispute, but as one of your predecessors described it, a cancer on the presidency. Think about your place in history.” McGahn was subpoenaed by Nadler last month and, under instruction by the White House, failed to meet an initial deadline to appear before the committee. Nadler threatened to hold McGahn in contempt of Congress if he did not meet a second deadline of 21 May. McGahn, who left the White House last year, has increasingly become the subject of Trump’s ire following the release of the redacted Mueller report. Last week, the president tweeted he was “never a big fan” of McGahn and suggested it was the former White House counsel, and not Mueller, who was on his chopping block at the time of the investigation. The Trump administration has repeatedly blocked attempts at oversight by the Democratic-controlled House. Last month it instructed the former personnel security director Carl Kline not to testify at a hearing into alleged lapses in White House security clearance procedures. Last week the treasury secretary, Steven Mnuchin, refused to comply with a congressional subpoena to hand over Trump’s tax returns. Nadler’s committee has previously voted to hold the attorney general, William Barr, in contempt for refusing to provide the unredacted Mueller report and underlying evidence to Congress.
+
+The summary has to be returned after a "SUMMARY:" token and ending with a "END OF SUMMARY." token. The summary should be no longer than 200 words.

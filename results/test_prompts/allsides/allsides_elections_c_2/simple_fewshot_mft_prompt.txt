@@ -1,0 +1,113 @@
+You have to summarize the following text preserving the moral framing that the author gave to it, with particular focus on the specific moral foundations highlighted in the text.
+
+Please study the following examples of news articles and their summaries preserving the moral framing:
+
+Example 1 (Political Ideology: Left, Moral Foundations: Fairness/Cheating):
+Here is the news article:
+
+Donald Trump has announced Tuesday that he is pulling out of his own Dec. 27th debate.
+
+"I have decided not to be the moderator of the Newsmax debate," Trump said in a statement.
+"I believe this would not only have been the most watched debate, but also the most substantive and interesting debate."
+
+Trump said that he was ending the debate because he did not want to "give up my right to run as an independent candidate," which he claimed the Republican Party was asking him to do if he wanted to moderate the debate.
+(Trump made waves by very loudly claiming he was considering running as a Republican earlier in the year.)
+
+The announcement came just eleven days after Trump initially said he was partnering with the conservative magazine to host a forum with the remaining Republican presidential candidates.
+Since then, a majority of those candidates made clear that they would not be turning up, with only Newt Gingrich and Rick Santorum pledging to appear.
+
+Trump also attracted the usual share of public ridicule for his decision to moderate, as well as his pledge to endorse whichever candidate he liked best at the debate.
+
+As the days went on, Trump began making noises about possibly canceling the debate; however, as late as Monday night, he was still saying that the forum was taking place.
+
+SUMMARY:
+
+Donald Trump has announced that he is withdrawing from moderating the December 27th Newsmax debate, citing the Republican Party's alleged demand that he give up his right to run as an independent candidate. This comes just 11 days after Trump initially partnered with the conservative magazine to host a forum with the remaining Republican presidential candidates. However, most candidates declined to participate, with only Newt Gingrich and Rick Santorum agreeing to attend. Trump's decision to moderate was met with public ridicule, particularly his pledge to endorse the candidate he liked best at the debate. Despite initially confirming the debate, Trump began hinting at cancellation and has now officially pulled out. This decision raises questions about Trump's commitment to the democratic process and his willingness to put personal interests above the public's right to informed debate.
+
+END OF SUMMARY.
+
+Example 2 (Political Ideology: Center, Moral Foundations: Care/Harm):
+Here is the news article:
+
+Representative Bob Etheridge, Democrat of North Carolina, issued an apology on Monday for grabbing a young man by the hand, arm and neck – as a video camera rolled – as the man tried to ask him whether he supports President Obama’s agenda.
+
+“I deeply and profoundly regret my reaction and I apologize to all involved,” Mr. Etheridge said in a statement. 
+“Throughout my many years of service to the people of North Carolina, I have always tried to treat people from all viewpoints with respect. 
+No matter how intrusive and partisan our politics can become, this does not justify a poor response.”
+
+He added, “I have and I will always work to promote a civil public discourse.”
+
+A young man, dressed in a jacket and tie, approached the congressman on a sidewalk, saying: “Hi, Congressman. How are you? Do you fully support the Obama agenda?”
+
+Mr. Etheridge, a seven-term House member, can be seen on the video repeatedly asking the young man to identify himself. 
+After a few seconds, the congressman grabs the camera and the young man.
+
+“Tell me who you are,” Mr. Etheridge said. “Tell me who you are.”
+
+The young man is not identified in the video, which was made last week. 
+A second person accompanying him pulled out another camera to record the congressman’s actions. 
+The video received widespread attention on Monday after it was posted on the Web site of Andrew Breitbart, a conservative Web publisher and former editor of The Drudge Report. 
+It was circulated by the National Republican Congressional Committee.
+
+“Bob Etheridge has lost it,” said Jon Thompson, a Republican spokesman. 
+“His conduct is unbecoming of a member of Congress.”
+
+Mr. Etheridge, who represents a conservative district south of Raleigh, faces a re-election challenge, but his race is not among the top Republican targets in the country. 
+He won two years ago by 36 percentage points, and Mr. Obama carried his district by 6 percent.
+
+Vice President Joseph R. Biden Jr. resumed the White House campaign for gun control on Tuesday by reporting on executive action taken unilaterally by the administration and pressing Congress to take up legislation again.
+
+SUMMARY:
+
+Democratic Representative Bob Etheridge of North Carolina has apologized for physically confronting a young man who asked him if he supports President Obama's agenda. The incident, caught on video, shows Etheridge grabbing the man's hand, arm, and neck, and demanding to know his identity. Etheridge has since expressed deep regret for his actions, stating that he has always tried to treat people with respect, regardless of their viewpoints. He emphasized the importance of promoting civil public discourse. The video was widely circulated by conservative groups, with Republicans condemning Etheridge's behavior as "unbecoming of a member of Congress." The incident has sparked controversy, highlighting the need for respectful dialogue in politics. Etheridge's apology is a step towards rectifying his mistake and upholding the values of civility and respect in public discourse.
+
+END OF SUMMARY.
+
+Example 3 (Political Ideology: Right, Moral Foundations: Authority/Subversion):
+Here is the news article:
+
+Donald Trump announced Tuesday that he is bowing out as the moderator for a Republican presidential debate later this month, after most candidates in the field opted not to attend.
+
+Trump said he wanted to make sure there's no "conflict of interest" in case he decides to run as a third-party candidate next year.
+He cast his decision as a way to keep his options open.
+
+He said later on Fox News that he's still considering an independent bid.
+"I am looking at it, if the Republicans choose the wrong candidate, which is a possibility, and if the economy continues to be bad, which I think it will be," Trump said.
+
+The real estate mogul and reality TV star said he wants to make sure Republicans pick the "right" candidate -- he said he still plans to make an endorsement despite his threatened third-party run.
+
+Though the Dec. 27 debate technically is sponsored by Newsmax, Trump quickly became the face of it after he was named as moderator.
+
+While former House Speaker Newt Gingrich and former Pennsylvania Sen. Rick Santorum agreed to attend early on, other Republican candidates subsequently bowed out.
+
+Some expressed concern that Trump, who previously flirted with a possible Republican presidential bid before shelving the idea, would not definitively rule out running as a third-party candidate.
+
+Trump on Tuesday specifically cited Republican National Committee Chairman Reince Priebus' concerns about his involvement.
+He said he does not expect Newsmax to follow through with the debate now that he's out.
+
+"We would have done very well.
+We would have gotten great ratings," Trump said, voicing his trademark confidence.
+
+Trump first announced his debate decision in a written statement Tuesday afternoon.
+
+"It is very important to me that the right Republican candidate be chosen to defeat the failed and very destructive Obama administration, but if that Republican, in my opinion, is not the right candidate, I am not willing to give up my right to run as an independent candidate," he said.
+"Therefore, so that there is no conflict of interest within the Republican Party, I have decided not to be the moderator of the Newsmax debate.
+... I must leave all of my options open because, above all else, we must make America great again!"
+
+Trump went on to praise Gingrich and Santorum for "having the courage, conviction, and confidence" to agree to the debate.
+
+SUMMARY:
+
+Donald Trump has announced that he will no longer moderate the Republican presidential debate on December 27, citing potential "conflict of interest" if he decides to run as a third-party candidate. Trump claims he wants to keep his options open and ensure the Republicans choose the "right" candidate. He still plans to make an endorsement, but is considering an independent bid if the economy remains bad and the Republicans choose a weak candidate. Trump's decision comes after most candidates opted not to attend the debate, citing concerns that he might not rule out a third-party run. Trump praised Newt Gingrich and Rick Santorum for agreeing to participate, calling them courageous and confident. By stepping down, Trump is prioritizing the integrity of the Republican Party and putting the country's interests above his own ambitions.
+
+END OF SUMMARY.
+
+Now, here is the target news article to summarize:
+Here is the news article:
+
+Rep. Justin Amash Justin AmashSunday shows - Frustration mounts as protests hit state capitols Amash says running as a third-party candidate won't tip election to Trump Sunday shows preview: America braces for next month of pandemic MORE (I-Mich.) announced Tuesday that he has launched an exploratory committee to seek the Libertarian Party’s presidential nomination, his strongest indication yet that he will mount a third-party White House bid. “Today, I launched an exploratory committee to seek the @LPNational’s nomination for president of the United States. Americans are ready for practical approaches based in humility and trust of the people,” Amash tweeted. “We’re ready for a presidency that will restore respect for our Constitution and bring people together. I’m excited and honored to be taking these first steps toward serving Americans of every background as president,” he added. We’re ready for a presidency that will restore respect for our Constitution and bring people together. I’m excited and honored to be taking these first steps toward serving Americans of every background as president. — Justin Amash (@justinamash) April 29, 2020 The former Republican congressman has been toying for months with the prospect of waging a third-party campaign for the presidency and has come under an avalanche of pressure from Libertarians to throw his hat into the ring. “He’d be acceptable to a lot of Libertarians, but also to a lot of those ‘Never Trump’ Republicans,” Joe Hunter, communications director for former New Mexico Gov. Gary Johnson Gary Earl JohnsonThe Hill's Campaign Report: Amash moves toward Libertarian presidential bid Amash launches exploratory committee for Libertarian presidential run Libertarians view Amash as potential 2020 game changer for party MORE’s Libertarian presidential run in 2016, told The Hill this month. “Of all the candidates out there, he’s at the top of the list of those that can bring us to a tipping point, where a third party or independent candidate convinces the media and donors that he or she can be relevant and have an impact on the race.” Amash has centered his political career around libertarian values, advocating for less government intervention in daily life and sharp cuts in federal spending to offset an exploding deficit. The Michigan lawmaker has seen his national profile soar under President Trump Donald John TrumpTrump predicts virus death toll could reach 100,000 in the US Pence says he should have worn mask during Mayo Clinic visit Trump says next coronavirus relief bill has to include payroll tax cut MORE with his vocal attacks against the White House. Last year, the Republican-turned-Independent said he would back Democrats in their impeachment effort. Amash left the GOP last summer, accusing Republicans of abandoning fiscal conservatism and turning a blind eye to “misbehavior” to appease the president. “This president will be in power for only a short time, but excusing his misbehavior will forever tarnish your name. To my Republican colleagues: Step outside your media and social bubble. History will not look kindly on disingenuous, frivolous, and false defenses of this man,” Amash said before supporting the House’s impeachment resolution in October. His criticism has earned visceral rebukes from the GOP as well as a handful of Republican challengers in his House reelection campaign. While he would have to face off against other Libertarians to win the party’s 2020 nomination, he would by far be the most prominent third-party contender to run for the White House this cycle. It is still unclear if Amash would draw more support away from Trump or former Vice President Joe Biden Joe BidenWhitmer says she believes Biden on assault allegation Republicans' dangerous weaponization of Tara Reade's allegation against Joe Biden Biden accuses Trump of 'all-out assault on the media' during World Press Freedom Day MORE, the Democratic Party’s presumptive nominee. “Trump has the Republican Party locked down, so any Republican at this point who is not voting for Trump is a potential Biden voter,” a GOP operative told The Hill earlier this month. “But if you’re a Republican who is just tired of the noise and you don’t necessarily agree with Biden on the issues and all of a sudden Justin Amash comes along, here’s a pretty attractive third-party option for you now.”
+
+For this target article, the author's moral framing heavily relies on the following Moral Foundation dimensions: Authority/Subversion, Fairness/Cheating.
+Please pay special attention to preserving the moral framing related to these specific dimensions (Authority/Subversion, Fairness/Cheating) in your summary.
+
+The summary has to be returned after a "SUMMARY:" token and ending with a "END OF SUMMARY." token. The summary should be no longer than 200 words.

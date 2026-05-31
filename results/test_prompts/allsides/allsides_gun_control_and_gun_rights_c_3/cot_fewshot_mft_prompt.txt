@@ -1,0 +1,180 @@
+You have to summarize the following text preserving the moral framing that the author gave to it, with particular focus on the specific moral foundations highlighted in the text.
+
+Please study the following examples of news articles, their moral word extraction, and summaries preserving the moral framing:
+
+Example 1 (Political Ideology: Left, Moral Foundations: Authority/Subversion, Care/Harm, Fairness/Cheating):
+Here is the news article:
+
+New details have emerged about Sunday’s mass shooting at the First Baptist Church in Sutherland Springs, Texas, which killed 26 people, including children, elderly people and a pregnant woman.
+
+The suspected shooter was a 26-year-old white man named Devin Patrick Kelley from New Braunfels, Texas.
+Kelley enlisted in the U.S. Air Force in 2010.
+In 2012, he was court-martialed on charges he repeatedly hit, kicked and choked his wife, pointed a loaded gun at her and attacked his 18-month-old stepson with such force that it broke the toddler’s skull.
+
+Kelley was confined for a year and then thrown out of the Air Force with a bad conduct discharge in 2014.
+But on Monday, the Air Force admitted it had failed to report Kelley’s domestic violence court-martial to a federal database, meaning Kelley had no problem buying a Ruger AR-556 assault-style rifle at an Academy Sports + Outdoors store in San Antonio, Texas, in 2016.
+
+He reportedly used this gun to massacre the 26 people on Sunday.
+On Monday, authorities also said Kelley appears to have carried out the massacre because of a domestic dispute he had with his mother-in-law, who was a member of the First Baptist Church but was not present on Sunday.
+This is a spokesperson for the Texas Department of Public Safety.
+
+Freeman Martin: “One thing everybody wants to know is why did this happen.
+It’s a senseless crime, but we can tell you that there was a domestic situation going on within this family.
+The suspect’s mother-in-law attended this church.
+We know that he had made threatening—she had received threatening texts from him.
+And we can’t go into details about that domestic situation, that is continuing to be vetted and thoroughly investigated.
+But we want to get that out there, that this was not racially motivated.
+It wasn’t over religious beliefs.
+There was a domestic situation going on within the family.”
+
+On Monday, seven activists from the group Gays Against Guns were arrested during a die-in protest on Capitol Hill to demand stricter gun control.
+We’ll have more on Sunday’s shooting massacre after headlines.
+
+STEP 1:
+* senseless
+* threatening
+* bad
+
+SUMMARY:
+A mass shooting at the First Baptist Church in Sutherland Springs, Texas, killed 26 people, including children, elderly people, and a pregnant woman. The suspected shooter, Devin Patrick Kelley, had a history of domestic violence, having been court-martialed for assaulting his wife and stepson. Despite being confined for a year and receiving a bad conduct discharge from the Air Force, Kelley was able to purchase a gun due to the Air Force's failure to report his domestic violence court-martial to a federal database. Authorities believe Kelley carried out the massacre due to a domestic dispute with his mother-in-law, who was a member of the church. The crime is described as "senseless" and motivated by a "domestic situation" rather than racial or religious beliefs. The tragedy has sparked calls for stricter gun control, with activists from Gays Against Guns arrested during a die-in protest on Capitol Hill.
+END OF SUMMARY.
+
+Example 2 (Political Ideology: Center, Moral Foundations: Fairness/Cheating):
+Here is the news article:
+
+Obama Team To Make Important, If Symbolic, Choice On Gay Marriage
+
+The Obama administration faces tricky political and legal questions on the subject of gay marriage.
+By the end of this month, the federal government is expected to file not just one but two briefs in a pair of same-sex marriage cases at the U.S. Supreme Court.
+
+But it is the Proposition 8 case from California that poses the thornier questions for the administration — questions so difficult that the president himself is expected to make the final decision on what arguments the Justice Department will make in the Supreme Court.
+
+Prop 8, as it is known, is the California ballot initiative banning same-sex marriage.
+It was narrowly approved by state voters in 2008.
+A federal district court struck down the law as unconstitutional discrimination in 2010.
+A federal appeals court later agreed, but on narrower grounds.
+Because there was a period of time in which same-sex couples could legally marry in California, the court said, it was unconstitutional for the state, through the ballot initiative, to take away a fundamental right it had previously granted.
+
+The state, under both Republican and Democratic governors, has declined to defend the measure in court.
+So its ban on gay marriage is being defended by the sponsors of the initiative.
+
+The Obama administration is not required to file any brief in the case because it does not directly involve federal law.
+But administration sources say the government will file a brief.
+Still unresolved is what the brief will say.
+And in this case, much more than most, there are numerous legal routes that the government can take.
+
+The ultimate question — the one perhaps most people want an answer to but may not get — is whether same-sex couples have a constitutional right to marry.
+A Supreme Court decision that says yes to that would invalidate laws in some 30 states.
+But there are many legal avenues short of such a far-reaching argument that would invalidate Proposition 8 in California and leave laws in other states intact.
+
+What makes this even dicier is that President Obama has changed his position, seemingly a lot, over the past eight months.
+In May, in an ABC interview, he for the first time endorsed same-sex marriage from a personal point of view, but he went on to say that the decision on legalizing gay marriage should be left to the states, where marriage matters are traditionally governed.
+
+"It is important for me to go ahead and affirm that I think same-sex couples should be able to get married.
+And I continue to believe that this is an issue that is going to be worked out at the local level, because historically this has not been a federal issue," he said.
+
+But eight months later at his inauguration, the president seemed to take a more expansive view.
+"Our journey is not complete until our gay brothers and sisters are treated like anyone else under the law.
+For if we are truly created equal, then surely the love we commit to one another must be equal as well," Obama said.
+
+That language suggests the president believes in a more basic constitutional right to marry, analogous to the right enunciated in a unanimous 1967 Supreme Court ruling that struck down laws barring interracial marriage.
+In that case, ironically, the federal government took no position in the Supreme Court.
+
+So what will Obama do now that he faces similar questions in a case about sexual orientation, not race?
+
+His administration could make a bold, full-throated defense of the right to marry, an argument that Obama seemed to suggest at his inaugural.
+Or it could argue a number of lesser positions: That California, having extended the right to marry to gay couples for a window of time, could not revoke the right.
+Or that California, like some other states, has a law extending all rights to same-sex couples, except the right to marry, and that such a distinction amounts to discrimination.
+Or it could argue that since the state is not defending the law, the case does not belong in court at all — that the sponsors of the initiative have no legal standing in court.
+
+For the gay community, and for those advocating traditional marriage between a man and a woman, the position the government takes in this case is hugely important — if nothing else, as a symbol.
+Both sides have made formal presentations at the Justice Department urging the administration to take their side.
+But the deadline has already passed for a brief siding with Proposition 8 supporters, leaving only the question of what a brief on the other side will say.
+
+Same-sex marriage advocates are holding their collective breath for now and maintaining a pretty studied public silence, hoping to avoid the impression that the gay community is pressuring the administration.
+
+Still, lawyers who argue regularly before the court are not so sure that the administration's brief, whatever it says, will make a big difference to the justices.
+
+"I'm never going to tell you that the solicitor general's position doesn't matter," says former Bush administration Solicitor General Paul Clement.
+But in this case, he says, "I think it matters less."
+
+Clement was hired by the House Republican leadership to defend the constitutionality of the Defense of Marriage Act, or DOMA, in a case that is paired with the Proposition 8 case in the Supreme Court.
+The reason he thinks the administration's brief in the Proposition 8 case matters less, he says, is "because we already know what their position is on DOMA and one can extrapolate."
+
+In the DOMA case, the Obama administration argues that the federal law is unconstitutional because it bars federal benefits to legally married same-sex couples — benefits that go automatically to legally married heterosexual couples.
+
+Supreme Court advocate Tom Goldstein, founder of SCOTUSblog, makes a different point — that sometimes Supreme Court briefs are aimed at more than one audience.
+He notes that in a truly historic case like this one, "I think part of what's going on ... is a statement about what is morally right and wrong.
+And so I think it could matter to Americans much more than it matters to the Supreme Court."
+
+STEP 1:
+* equal
+* right
+* equal
+* morally
+* right
+* wrong
+
+SUMMARY:
+The Obama administration is facing a crucial decision on gay marriage, with the President himself expected to make the final call on the Justice Department's arguments in the Proposition 8 case at the U.S. Supreme Court. The case poses a moral dilemma, as the administration must decide whether to take a bold stance on the constitutional right to marry, or argue lesser positions. The President's previous statements on the issue have been ambiguous, but his inaugural address suggested a more expansive view, stating that "our gay brothers and sisters are treated like anyone else under the law." The administration's brief will carry significant symbolic weight, as it will be seen as a statement on what is morally right and wrong. Same-sex marriage advocates are holding their breath, hoping the administration will take a strong stance in favor of equality and right. The outcome of this case could have far-reaching implications, potentially invalidating laws in 30 states. END OF SUMMARY.
+
+Example 3 (Political Ideology: Right, Moral Foundations: Authority/Subversion):
+Here is the news article:
+
+Israeli Prime Minister Benjamin Netanyahu has said he’ll steer clear of the American presidential election, but he stars in a new ad set to air in the key battleground state of Florida that aims to make Iran a major campaign issue.
+
+Netanyahu, who has a famously frosty relationship with President Obama, mentions neither Obama nor Republican challenger Mitt Romney, with whom Netanyahu worked in the mid-1970s at Boston Consulting Group.
+His words are taken from a recent news conference, in which he expressed frustration at the Obama administration’s failure to establish “red lines” for reining in Iran and its rogue nuclear weapons program.
+
+"The fact is that every day that passes, Iran gets closer and closer to a nuclear bomb,” Netanyahu says.
+“The world tells Israel, wait, there's still time.
+And I say wait for what?
+Wait until when?"
+
+A voice-over at the end of the ad underscores the prime minister's message: "The world needs American strength, not apologies."
+
+The ad, paid for by nonprofit conservative advocacy group Secure America Now, could have a powerful influence in heavily-Jewish markets, including Miami.
+Florida is considered a toss-up in recent polling, and its 29 electoral votes could swing the election.
+
+“Sizable majorities in both states believe that Iran will share nuclear weapons with terrorists,” said Jeri Thompson, advisory board member for Secure America Now.
+“Support for Israel remains strong.
+In short, (Netanyahu's) a powerful messenger with a powerful message who the American people believe.”
+
+The ad, reportedly to air in Miami, West Palm Beach and Fort Myers, is costing Secure America $1 million, the organization confirmed to Fox News.
+
+A Fox News poll released Wednesday shows Obama leading Romney, 49 percent to 44 percent, in Florida.
+
+Meanwhile, Haaretz reported that the Republican Jewish Coalition has launched a separate $5 million TV advertising blitz aimed at Jewish voters in swing states.
+That campaign started Wednesday and runs through Nov. 5 in cable and broadcast TV markets in Florida, Nevada, Ohio and Pennsylvania.
+
+"This ad highlights the 'buyer's remorse' felt by many in the Jewish community, who voted for Obama four years ago but are now disillusioned with his economic policies and his policies toward Israel,” the coalition's executive director, Matt Brooks, said in a written statement Wednesday.
+“These ads, and the stories of the people in them, give voice to the nagging doubts that many Jewish voters feel about President Obama.
+To underscore that point, numerous polls have shown an erosion in Jewish support for the president."
+
+Netanyahu also made an appearance on NBC's "Meet the Press" last Sunday, urging Obama to take a tougher line with Iran over its nuclear program.
+
+"President Obama has said that he is determined to prevent Iran from getting nuclear weapons," he said on the Sunday morning show.
+"If you're determined to prevent Iran from getting nuclear weapons, it means you'll act before they get nuclear weapons."
+
+STEP 1:
+* frustration
+* rogue
+* strength
+* apologies
+* powerful
+* strong
+* disillusioned
+* doubts
+* tougher
+
+SUMMARY:
+Israeli Prime Minister Benjamin Netanyahu is starring in a new ad in Florida, urging the US to take a stronger stance against Iran's nuclear program. In the ad, Netanyahu expresses frustration with the Obama administration's failure to establish "red lines" for reining in Iran's rogue nuclear weapons program. He warns that every day that passes, Iran gets closer to a nuclear bomb, and asks, "Wait for what? Wait until when?" The ad, paid for by Secure America Now, aims to make Iran a major campaign issue and emphasizes the need for American strength, not apologies. The ad could have a powerful influence in heavily-Jewish markets, including Miami, where support for Israel remains strong. Meanwhile, the Republican Jewish Coalition has launched a separate $5 million TV advertising blitz aimed at Jewish voters in swing states, highlighting the "buyer's remorse" felt by many in the Jewish community who are disillusioned with Obama's economic policies and his policies toward Israel.
+END OF SUMMARY.
+
+Now, here is the target news article to summarize:
+Here is the news article:
+
+The San Francisco Board of Supervisors passed a resolution Tuesday that declares the National Rifle Association a "domestic terrorist organization." After connecting the NRA to an "epidemic of gun violence" in the U.S., the resolution urges San Francisco to distance itself from the organization by examining local vendors' and contractors' ties to the NRA. It also says the local government should avoid doing business with the NRA or organizations associated with it. "The National Rifle Association spreads propaganda that misinforms and aims to deceive the public about the dangers of gun violence," the resolution reads. While supervisors will be examining San Francisco's connections to the NRA, the resolution is also meant to pave the way for similar legislation at the local, state or federal level, Supervisor Catherine Stefani, who sponsored the resolution, told USA TODAY on Wednesday. The designation of domestic terrorist organization is justified because the NRA's opposition to gun control is "standing in the way of saving lives,” Stefani said. She said the resolution calls the “absolutely disgraceful" organization "out for what they really are.” The resolution says 100 Americans are killed daily by gun violence, making the U.S.'s gun homicide rate 25 times higher than any other "high-income" country. Guns:Walmart to no longer sell certain ammunition, ask customers to stop open carry in stores Texas shootings:Visitors at El Paso memorial ask how many more have to die after latest Texas shooting The resolution passed unanimously, according to Daniel Herzstein, a spokesperson for Stefani's office. The NRA condemned the resolution in a statement sent to USA TODAY Wednesday. "This is just another worthless and disgusting 'soundbite remedy' to the violence epidemic gripping our nation," spokeswoman Amy Hunter said in an emailed statement. "This is a reckless assault on a law-abiding organization, its members, and the freedoms they all stand for. We remain undeterred - guided by our values and belief in those who want to find real solutions to gun violence," the statement says. This is the second high-profile condemnation the NRA has issued this week. On Tuesday, the NRA said Walmart's decision to stop selling certain ammunition would hurt business and "not make us any safer." In the wake of recent mass shootings in California, Ohio and two in Texas, national attention has again grown on the issue of gun violence. Senate Majority Leader Mitch McConnell, R-Ky., has faced particular pressure to take up gun control legislation, but has maintained that President Donald Trump should support legislation before the Senate considers it. Trump's discussions about gun background checks with Wayne LaPierre, NRA head, made national headlines in August.
+
+(1) First, you identify all the single words that are morally framed, focusing especially on the dimensions of Authority/Subversion, Care/Harm, Fairness/Cheating. Identify this step as "STEP 1:" and report each word in a new line starting with *
+(2) Finally, you write a summary of the news article. Please preserve as many morally framed words as possible, particularly focusing on the moral dimensions of Authority/Subversion, Care/Harm, Fairness/Cheating in your summary. The summary has to be returned after a "SUMMARY:" token and ending with a "END OF SUMMARY." token. The summary should be no longer than 200 words.

@@ -1,0 +1,54 @@
+You have to summarize the following text preserving the moral framing that the author gave to it.
+
+Here is the news article:
+
+All my life I have reminded fellow Jews in America that we are the luckiest Jews to have ever lived in a non-Jewish country. I know what I'm talking about. I wrote a book on anti-Semitism, taught Jewish history at Brooklyn College and fought anti-Semitism since I was 21, when Israel sent me into the Soviet Union to smuggle in Jewish religious items and smuggle out Jewish names. Even after the massacre of 11 Jews in a Pittsburgh synagogue, this assessment remains true. But the greatest massacre of Jews in American history is a unique American tragedy. It is a tragedy in part because America has finally made the list of countries in which Jews were murdered for being Jews. While this was probably inevitable, given that 330 million people live in America, it is painful -- equally for me as an American and as a Jew. And second, while there is no difference between the murder of Christians at a church and the murder of Jews in a synagogue with regard to the loss of life and the suffering of loved ones, there is something unique about the murder of Jews for being Jews: Anti-Semitism is exterminationist. Anti-semites don't just want to persecute, enslave or expel Jews; they want to kill them all. On Passover, Jews read the Haggadah, the ancient Jewish prayer book of the Passover Seder. In it are contained these words: "In every generation, they arise to annihilate us" -- not "persecute" us; not "enslave" us; annihilate us. So, when the murderer yelled, "All Jews must die," he encapsulated the uniqueness of anti-Semitism. There is another unique aspect to anti-Semitism: It destroys every society in which it grows. The animating force within Adolf Hitler was Jew-hatred. More than anything else -- desire for German "Lebensraum," hatred of Bolshevism, a view of Slavs as subhuman -- it was anti-Semitism that invigorated him. Anti-Semitism was not a Nazi scapegoat; it was the Nazis' raison d'etre. The results of German anti-Semitism for Germans alone: more than 5 million dead, including half a million German civilians; 130,000 more civilians murdered by the Nazi regime; 12 million Germans expelled from East Europe, 2 million of whom died; innumerable rapes of German women; Germany divided in two for half a century -- and the loss of a sense of self and reputation. I have no idea if, outside the universities and the Israel-hating left, there has been an increase in anti-Semitism in America. I wish I could trust the Anti-Defamation League, other Jewish organizations and Jewish community newspapers. Sadly, only Jews on the left do, because most of these organizations have a left-wing, anti-Trump agenda. Here's a perfect example: The mainstream left-wing media, along with left-wing Jewish organizations and media, told us every day for months after Trump's election that anti-Semitism had greatly increased. They cited the great number of Jewish Community Centers that received bomb threats. It turned out, however, that about 90 percent of those threats were called in by a mentally disturbed American Jewish teenager living in Israel, and the other 10 percent were made by a black radical seeking to frame his ex-girlfriend. So, the claim eventually vanished from the news -- with not one Jewish or non-Jewish organization or media outlet apologizing for crying anti-Semitic "fire" in a crowded theater. The dishonest now have the Pittsburgh massacre to blame on Trump. But that's as big a falsehood as blaming Trump for the bomb threats. In reality, the Pittsburgh murderer criticized Trump for his close connections to Jews and Israel. For Jews to blame the most pro-Israel president since Harry Truman -- the only president with a Jewish child and Jewish grandchildren, moreover -- for increasing anti-Semitism is another example of a truism this Jew has known all his life: Unlike Jewish liberals, who get most of their values from Judaism, Jewish leftists are ethnically Jewish but get their values from leftism. The biggest increase in anti-Semitism in the last 10 or so years has come from the left. Just ask young Jews who wear yarmulkes or are vocally pro-Israel on most American college campuses. And this generation's threat of Jewish annihilation comes from Israel's Iranian and Arab enemies. As a Jew who attends synagogue every Shabbat, and as an advocate for the carrying of concealed weapons, I fervently pray we will not need armed guards at American synagogues. America's uniqueness has been exemplified by the fact that Jews do not need armed guards in their synagogues. May it always be so. Even if you don't love Jews -- if you only love America -- you need to fight anti-Semites. As the Jews go, so goes the fate of the nation in which they live.
+
+The author used the following morally framed words in the article:
+* antisemitism
+* massacre
+* tragedy
+* made
+* murdered
+* painful
+* murder
+* loss
+* suffering
+* exterminationist
+* persecute
+* enslave
+* expel
+* kill
+* annihilate
+* die
+* destroys
+* grows
+* jewhatred
+* subhuman
+* dead
+* expelled
+* died
+* rapes
+* divided
+* israelhating
+* agenda
+* increased
+* threats
+* frame
+* apologizing
+* crying
+* blame
+* falsehood
+* blaming
+* increasing
+* increase
+* threat
+* annihilation
+* comes
+* attends
+* pray
+* love
+* fight
+* goes
+
+Please preserve as many morally framed words as possible in your summary. The summary has to be returned after a "SUMMARY:" token and ending with a "END OF SUMMARY." token. The summary should be no longer than 200 words.

@@ -1,0 +1,37 @@
+You have to summarize the following text preserving the moral framing that the author gave to it.
+
+Here is the news article:
+
+The White House unveiled an executive order Friday evening to create a “National Garden of American Heroes” that will feature statues of prominent Americans. The executive order, which President Trump Donald John TrumpCNN's Anderson Cooper: Trump's Bubba Wallace tweet was 'racist, just plain and simple' Beats by Dre announces deal with Bubba Wallace, defends him after Trump remarks Overnight Defense: DOD reportedly eyeing Confederate flag ban | House military spending bill blocks wall funding MORE announced during a Fourth of July celebration at Mount Rushmore, comes as the nation grapples with calls to tear down Confederate statues across the country and address other racist iconography. “These statues are silent teachers in solid form of stone and metal. They preserve the memory of our American story and stir in us a spirit of responsibility for the chapters yet unwritten. These works of art call forth gratitude for the accomplishments and sacrifices of our exceptional fellow citizens who, despite their flaws, placed their virtues, their talents, and their lives in the service of our Nation,” reads the executive order, which was disseminated by the White House. The executive order establishes the Task Force for Building and Rebuilding Monuments to American Heroes, which will be empowered to use funding from the Interior Department to establish the site. The task force has 60 days to submit a report to the White House detailing options for the creation of the National Garden, including potential locations. The executive order says the garden will include statues of John Adams, Susan B. Anthony, Clara Barton, Daniel Boone, Davy Crockett, Frederick Douglass, Amelia Earhart, Benjamin Franklin, Thomas Jefferson, Martin Luther King Jr., Abraham Lincoln, Ronald Reagan, Jackie Robinson and Harriet Tubman, among others. The garden will also “separately maintain a collection of statues for temporary display at appropriate sites around the United States that are accessible to the general public.” Under the order, the garden will be open prior to July 4, 2026, the 250th anniversary of the proclamation of the Declaration of Independence. The executive order also address current calls to topple Confederate statues, underscoring that other activists have called for the dismantling of monuments to figures who owned slaves but were not in the Confederacy, including former presidents George Washington and Thomas Jefferson. “To destroy a monument is to desecrate our common inheritance. In recent weeks, in the midst of protests across America, many monuments have been vandalized or destroyed. Some local governments have responded by taking their monuments down,” the order reads. “These statues are not ours alone, to be discarded at the whim of those inflamed by fashionable political passions; they belong to generations that have come before us and to generations yet unborn.” Trump also railed against people tearing down statues of Confederate leaders during an impassioned speech at Mount Rushmore, accusing them of wanting to “overthrow the American Revolution” and fundamentally change the country. “There is a new far-left fascism that demands absolute allegiance. If you do not speak its language, perform its rituals, recite its mantras and follow its commandments, then you will be censored, banished, blacklisted, persecuted and punished. Not going to happen to us,” he told a packed crowd. “Make no mistake, this left-wing cultural revolution is designed to overthrow the American Revolution. In so doing, they would destroy the very civilization that rescued billions from poverty, disease, violence and hunger and that lifted humanity to new heights of achievement, discovery and progress," he continued. "To make this possible, they are determined to tear down every statue, symbol and memory of our national heritage.”
+
+The author used the following morally framed words in the article:
+* preserve
+* sacrifices
+* placed
+* service
+* owned
+* destroy
+* desecrate
+* protests
+* vandalized
+* destroyed
+* responded
+* taking
+* discarded
+* overthrow
+* allegiance
+* recite
+* follow
+* censored
+* banished
+* blacklisted
+* persecuted
+* punished
+* revolution
+* poverty
+* violence
+* hunger
+* determined
+* tear
+
+Please preserve as many morally framed words as possible in your summary. The summary has to be returned after a "SUMMARY:" token and ending with a "END OF SUMMARY." token. The summary should be no longer than 200 words.

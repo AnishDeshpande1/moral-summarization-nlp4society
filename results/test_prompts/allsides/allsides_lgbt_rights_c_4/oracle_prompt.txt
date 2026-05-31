@@ -1,0 +1,21 @@
+You have to summarize the following text preserving the moral framing that the author gave to it.
+
+Here is the news article:
+
+President Obama answers a question on Syria during a press conference with the Swedish prime minister after their meeting in Stockholm on Sept. 4 Russia has been criticized for passing a law banning promotion of gay relationships to minors. Human rights groups report increased violence against lesbian, gay, bisexual and transgender Russians. Obama's meeting will include groups supporting LGBT rights, free media, the environment and others. President Obama will meet with lesbian, gay, bisexual and transgender rights activists while he's in Russia this week for the G-20 summit, according to a White House official. The meeting will happen on Friday and will include representatives from groups supporting human rights, the environment, free media, LGBT rights and others, said the official, who asked not be identified in order to discuss the president's yet-to-be published schedule. Russia has faced international criticism since it passed a law in June banning the promotion of gay relationships to minors. The Russians have also faced international scorn for another law that bans adoptions by countries allowing same-sex marriages. Human rights groups have reported there's been an uptick of violence against the country's LGBT community since the laws passed. The legislation has led to calls for a boycott of the 2014 Winter Olympics in Sochi. Last month, Obama said he didn't support boycotting the Sochi games because he didn't want to penalize American athletes. But he has been sharply critical of the Russian laws. "Nobody is more offended than me by some of the anti-gay and lesbian legislation that you've been seeing in Russia," Obama said last month. The meeting comes after Obama canceled a scheduled meeting with Russian President Vladimir Putin in Moscow before the G-20 summit. The cancellation followed a string of disputes, including Russia's decision to grant asylum to former National Security Agency contractor Edward Snowden and its blocking of action by the United Nations Security Council against Syria. Human Rights First, which had been lobbying the White House to hold a meeting with activists during the G-20, applauded the decision. "President Obama's decision to meet with civil society sends a clear signal that the United States stands in solidarity with those targeted by Russia's civil society and LGBT crackdown," said Innokenty Grekov, a program associate with Human Rights First who is in St. Petersburg this week. "In addition to this important meeting, President Obama should also speak out against Russia's human rights abuses and reaffirm that the United States stands firmly on the side of LGBT equality and human rights." In an interview with the Associated Press on Wednesday, Putin addressed the international criticism. "I assure you that I work with these people, I sometimes award them with state prizes or decorations for their achievements in various fields," Putin said. "We have absolutely normal relations, and I don't see anything out of the ordinary here."
+
+The author used the following morally framed words in the article:
+* violence
+* passed
+* bans
+* laws
+* legislation
+* penalize
+* blocking
+* decision
+* stands
+* targeted
+* crackdown
+* abuses
+
+Please preserve as many morally framed words as possible in your summary. The summary has to be returned after a "SUMMARY:" token and ending with a "END OF SUMMARY." token. The summary should be no longer than 200 words.

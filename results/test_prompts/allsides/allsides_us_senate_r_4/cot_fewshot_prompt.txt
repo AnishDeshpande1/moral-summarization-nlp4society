@@ -1,0 +1,169 @@
+You have to summarize the following text preserving the moral framing that the author gave to it.
+
+Please study the following examples of news articles, their moral word extraction, and summaries preserving the moral framing:
+
+Example 1 (Political Ideology: Left):
+Here is the news article:
+
+Rep. Bruce Braley (D-Iowa), who is running to succeed retiring Sen. Tom Harkin (D-Iowa), faced tough local coverage Tuesday after critical comments he made about Sen. Chuck Grassley (R-Iowa) were made public.
+
+At a January fundraiser in Texas, Braley urged the attorneys present to contribute to his campaign and contrasted his background with Grassley's.
+
+"If you help me win this race, you may have someone with your background, your experience, your voice ... on the Senate Judiciary Committee," Braley said.
+"Or you might have a farmer from Iowa who never went to law school, never practiced law, serving as the next chair of the Senate Judiciary Committee," he continued, referring to Grassley.
+
+Braley's remarks were released Tuesday by America Rising, a conservative political action committee which conducts opposition research on Democrats.
+
+One of the Republican primary field's leading candidates, businessman Mark Jacobs, immediately released a radio ad in an attempt to capitalize on the negative attention focused on Braley.
+
+Both the Des Moines Register and the Quad-City Times featured the backlash over Braley’s comments on their front pages.
+
+Braley apologized to Grassley in person on Tuesday after state Republican Party leaders and a number of Braley's potential Republican general election opponents condemned his remarks.
+
+The representative also posted a statement Tuesday in which he apologized and emphasized that he has farmers in his family.
+
+“I apologize to Sen. Grassley and anyone I may have offended,” Braley wrote.
+“My parents both grew up on Iowa farms during the Great Depression.
+It deeply influenced who they are and who I am, and gave me a profound appreciation for what farmers do for the world.”
+
+Grassley, who owns a farm, often notes in Senate Judiciary Committee hearings that he is the only non-lawyer on the panel, which oversees the judicial nominations process.
+
+Braley went to the University of Iowa's law school and worked as a lawyer in private practice before he was elected to the House of Representatives in 2006.
+His race is one of a handful across the country that will determine control of the Senate.
+
+STEP 1:
+* critical
+* tough
+* negative
+* backlash
+* condemned
+* apologized
+* offended
+* profound
+* appreciation
+
+SUMMARY:
+Rep. Bruce Braley (D-Iowa) faced tough local coverage after critical comments he made about Sen. Chuck Grassley (R-Iowa) were made public. Braley's remarks, which were released by a conservative political action committee, were seen as negative and sparked backlash from state Republican Party leaders and his potential Republican general election opponents. Braley apologized to Grassley in person and posted a statement, emphasizing his profound appreciation for farmers and expressing regret for any offense caused. The incident has put Braley's campaign in a critical spotlight, with his opponents seeking to capitalize on the negative attention. The race is one of a handful across the country that will determine control of the Senate. END OF SUMMARY.
+
+Example 2 (Political Ideology: Center):
+Here is the news article:
+
+Republican officials in Alabama staunchly defended their party’s Senate nominee, Roy S. Moore, after a report that he had made sexual advances toward four teenage girls when he was in his 30s.
+
+The Washington Post reported that, in early 1979, Mr. Moore, then a district attorney and later the chief justice of the state Supreme Court, had approached a 14-year-old, eventually kissing her, undressing her, touching her over her bra and underpants, and guiding her hand to touch him over his underwear.
+
+The paper found three other women who said they had been pursued by Mr. Moore around the same time, when they were between 16 and 18 years old.
+The Post interviewed more than 30 people in reporting its account.
+
+Mr. Moore told The Post that the allegations were “completely false and are a desperate political attack by the National Democrat Party and the Washington Post on this campaign.”
+He is set to face Doug Jones, a Democrat, in a special election next month.
+
+The story was met with immediate backlash from Republicans in Alabama, several of whom dismissed the women’s stories out of hand.
+Some called the article a partisan plot, even as the reporters behind it described in detail how they had uncovered the story and corroborated the allegations.
+Here are some of the officials’ responses.
+
+‘Total contrived media garbage’
+
+That’s how John Skipper, 66, a former chairman of the Mobile County Republican Party, characterized the claims, speaking to The New York Times.
+
+He said that he and other Alabama Republicans would continue to support their candidate and echoed Mr. Moore’s assertion that the Democratic Party had been behind the story.
+
+“Most of them will not be shocked,” he said, “and will rather be expecting these shenanigans being pulled by the Democrats as standard operating procedure.”
+
+Alabama’s state auditor, Jim Ziegler, told The Washington Examiner that the women’s claims were “much ado about nothing” and said that Mr. Moore had done nothing “immoral or illegal.”
+(Alabama law, both in 1979 and now, finds that someone who is 19 or older and has sexual contact with someone between the ages of 12 and 16 is guilty of second-degree sex abuse.)
+
+Mr. Ziegler sought to justify Mr. Moore’s actions by comparing him to the biblical Joseph, saying, “Mary was a teenager and Joseph was an adult carpenter.
+They became parents of Jesus.”
+
+“If they believe this man is predatory, they are guilty of allowing him to exist for 40 years,” he said.
+“I think someone should prosecute and go after them.
+You can’t be a victim 40 years later, in my opinion.”
+
+Daniel Dale, a reporter for The Toronto Star, contacted multiple Republican officials in the state and kept a running report of their responses to the story.
+
+Jerry Pow, the party chairman for Bibb County, told Mr. Dale that he’d back Mr. Moore even if the candidate had committed a sex crime.
+
+“I would vote for Judge Moore because I wouldn’t want to vote for Doug,” he said.
+“I’m not saying I support what he did.”
+
+Others, including the party chairmen for Covington County, William Blocker, and Mobile County, John Skipper, dismissed the story as a Democratic trick.
+Mr. Blocker said that he would not change his mind even if there was proof that Mr. Moore was guilty.
+
+Riley Seibenhener, the party chairman in Geneva County, told Mr. Dale that if the allegations were true, he would not support the candidate.
+But he also said that Mr. Moore was not guilty of “forcible rape.”
+
+“I know that 14-year-olds dont’t make good decisions,” he said.
+
+STEP 1:
+* false
+* desperate
+* garbage
+* shenanigans
+* immoral
+* illegal
+* predatory
+* guilty
+* victim
+* crime
+
+SUMMARY:
+Republican officials in Alabama are staunchly defending their party's Senate nominee, Roy S. Moore, despite a report that he made sexual advances towards four teenage girls when he was in his 30s. The allegations, which Moore denies, are being dismissed as "total contrived media garbage" and a "desperate political attack" by some officials. Others are justifying Moore's actions, with one official saying that the women's claims are "much ado about nothing" and that Moore did nothing "immoral or illegal". Another official even compared Moore to the biblical Joseph, saying that if the allegations are true, the women are not "victims" 40 years later. Despite the backlash, some officials are standing by Moore, with one saying he would still vote for him even if he committed a "crime". The special election is set for next month. END OF SUMMARY.
+
+Example 3 (Political Ideology: Right):
+Here is the news article:
+
+President Trump on Saturday took aim at social media tech giants for “discriminating” against Republicans and conservatives -- saying that “too many voices are being destroyed” and promising that his administration would not allow it to happen.
+
+“Who is making the choices, because I can already tell you that too many mistakes are being made. 
+Let everybody participate, good & bad, and we will all just have to figure it out!” he said at the end of a lengthy post on Twitter.
+
+Both Facebook and Twitter have been under fire for allegedly censoring accounts, while ignoring rules violations by liberal and left-wing users. 
+Trump in the past has referred to alleged “shadow banning” by Twitter as “discriminatory and illegal.”
+
+Trump uses Twitter on a daily basis, and his campaign was credited for its use of Facebook as one of the ways it secured its victory in November 2016.
+
+While conservatives have complained for years about what they say is discrimination by the tech giants, the controversy escalated last month when Vice News reported the issue, saying that accounts from top Republicans including GOP Chairwoman Ronna McDaniel were being given limited visibility on Twitter. 
+Twitter at the time said it was an algorithmic glitch that has since been fixed.
+
+"We do not shadow ban. 
+You are always able to see the tweets from accounts you follow (although you may have to do more work to find them, like go directly to their profile). 
+And we certainly don’t shadow ban based on political viewpoints or ideology," the tech giant said in a statement.
+
+"We do rank tweets and search results. 
+We do this because Twitter is most useful when it’s immediately relevant. 
+These ranking models take many signals into consideration to best organize tweets for timely relevance," the statement said. 
+"We must also address bad-faith actors who intend to manipulate or detract from healthy conversation."
+
+A Facebook executive apologized last month for mistreating Diamond and Silk -- two pro-Trump personalities who have long claimed they are being censored by the platform, but the company has also denied being biased against conservatives.
+
+“We badly mishandled our communications with them,” Monika Bickert, head of Global Policy Management at Facebook, said at a House Judiciary Committee hearing.
+
+But that has done little to calm the controversy, and Trump on Saturday accused social media sites of “closing down the opinions of many people on the right, while at the same time doing nothing to others.”
+
+"Too many voices are being destroyed, some good & some bad, and that cannot be allowed to happen," he tweeted.
+
+He went on to call censorship “a dangerous thing” and then took a swipe at CNN and MSNBC, saying that while they are “fake,” he does not demand that offending content be taken off air.
+
+“If you are weeding out Fake News, there is nothing so Fake as CNN & MSNBC, & yet I do not ask that their sick behavior be removed,” he tweeted. 
+“I get used to it and watch with a grain of salt, or don’t watch at all..”
+
+
+STEP 1:
+* discriminatory
+* illegal
+* bad
+* fake
+* sick
+* dangerous
+
+SUMMARY:
+President Trump accused social media giants of "discriminating" against Republicans and conservatives, claiming that "too many voices are being destroyed" and promising that his administration would not allow it to happen. He argued that "bad" and "good" voices should be allowed to participate, and that it's up to individuals to "figure it out." Trump has previously referred to alleged "shadow banning" by Twitter as "discriminatory and illegal." The controversy escalated last month when top Republicans, including GOP Chairwoman Ronna McDaniel, claimed their accounts were being given limited visibility on Twitter. Trump called censorship "a dangerous thing" and took a swipe at CNN and MSNBC, saying they are "fake" but he doesn't demand that their content be removed. He emphasized that he can "get used to it" and watch with a "grain of salt." END OF SUMMARY.
+
+Now, here is the target news article to summarize:
+Here is the news article:
+
+As the pastor of Atlanta's famed Ebenezer Baptist Church, Rev. Raphael Warnock knows how to deliver a line for maximum effect. He employed that skill Wednesday, decrying a fraud probe the state has launched into a minority voter registration drive. "You don't have to wear a hood -- you don't have to be a member of the Ku Klux Klan to be engaged in voter suppression. We know voter suppression when we see it," Warnock told a press conference in Georgia's Capitol building. The charge, harkening back to a dark period in the South's history, was aimed squarely at Georgia's Republican Secretary of State Brian Kemp. Kemp's office is investigating whether the group Warnock is associated with -- the New Georgia Project -- has committed fraud in its drive to register more than 100,000 minority voters before the Oct. 6 deadline. "There's somebody clearly doing something wrong," Kemp told Fox News. "And we want to figure out who that is, and try to make sure that we stop that. And bring charges against those people." At an emergency hearing of the state Election Board this week, Kemp's investigator Chris Harvey laid out the elements of the case. Harvey said he had confirmed 28 cases of fraud in 14 counties -- 25 fraudulent voter registration applications and three fraudulent canvassing sheets. Some had forged signatures; others, false information. Another 26 cases were labeled suspicious. Falsifying a voter registration form is a felony in the state of Georgia. "Any time that you're talking about forgery and fraud in Georgia law, it's certainly very serious," Kemp told Fox News. The issue is a particular hot button this year because of the narrow margins in the race to replace retiring U.S. Sen. Saxby Chambliss, R-Ga. Polls show Democratic candidate Michelle Nunn narrowly trailing Republican David Perdue. Nunn's campaign believes if it makes significant inroads into signing up some of the 800,000 unregistered minority voters in Georgia, she could take the seat. The New Georgia Project was founded by Georgia House Minority Leader Rep. Stacey Abrams. She is a member of Nunn's so-called "kitchen cabinet," advising the candidate. Abrams told Fox News she maintains a clear wall of separation between her work with the Nunn campaign and what she insists is a "nonpartisan" effort to get more minorities out to the polls in November. Kemp has slapped the New Georgia Project with a subpoena, demanding any and all documents and communications related to the voter registration drive by next Friday. The NGP fired back on Wednesday proclaiming its innocence and says it is strictly following the law. Abrams complains that the subpoena is "overly burdensome and an abuse of power," and is taking valuable time away from the group's voter registration drive. "We do not object to sharing information, but what we do object to is a witch hunt -- and a fishing expedition," Abrams told the press conference. The NGP lashed out at Kemp, accusing him of a pattern of voter suppression and intimidation. They charge that of 85,000 new voters they have signed up, 51,000 have not yet been registered. Kemp insists that any valid voter registration forms will be processed by the appropriate county officials and that his office is not blocking the registration of minority voters. "I was very disappointed in a lot of the reverend's comments," Kemp told Fox News. "I think anybody that knows me knows that I'm not a racist and some of the things that they've said and accused me of are just flat wrong." New Georgia Project officials claim the words fraud, forgery and felony have a chilling effect on any other organizations who might want to sign up new voters. "Mr. Secretary of State, stop this dog and pony show with all of the subpoenas -- with all of the false accusations and the smear campaign, and do your job," Warnock demanded at the press conference. Kemp insists his job is exactly what he is doing -- and that reports of fraud and forgery were brought to his attention by several counties and that it is simply his duty to investigate them. He told Fox News that with what is at stake in November, it's not a surprise the matter has become so politicized. "It's unfortunate that it's gotten political, but we're in the silly season, if you will right now, and have some big races in Georgia."
+
+(1) First, you identify all the single words that are morally framed. Identify this step as "STEP 1:" and report each word in a new line starting with *
+(2) Finally, you write a summary of the news article. Please preserve as many morally framed words as possible in your summary. The summary has to be returned after a "SUMMARY:" token and ending with a "END OF SUMMARY." token. The summary should be no longer than 200 words.

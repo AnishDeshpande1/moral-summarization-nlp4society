@@ -1,0 +1,196 @@
+You have to summarize the following text preserving the moral framing that the author gave to it, with particular focus on the specific moral foundations highlighted in the text.
+
+Please study the following examples of news articles and their summaries preserving the moral framing:
+
+Example 1 (Political Ideology: Left, Moral Foundations: Authority/Subversion, Care/Harm):
+Here is the news article:
+
+Having failed to lead the best-prepared nation in the world against one pandemic, Donald Trump has made it more vulnerable to another.
+He has, for example, frayed international bonds further by trying to pull the U.S. out of the World Health Organization.
+Whether he has the legal authority to do so is still unclear, but even if the threat is empty, “some of the effects will be immediate,” says Loyce Pace, the president of the Global Health Council.
+U.S. officials and experts will start disengaging from international institutions, and that might encourage other nations to follow suit.
+
+This won’t just harm the WHO at the time when it is most needed, but will also further diminish America’s already damaged international standing.
+A country that has badly mishandled its own outbreak, that has bought up the world’s stock of important drugs, and that has petulantly withdrawn from global alliances is less likely to receive warnings or support if a new crisis emerges.
+
+There is an optimistic scenario if a second virus begins to spread: The new pathogen finds it harder to move around an alert world, is rapidly detected wherever it arrives, and fizzles out because cautious citizens have their guard up.
+
+As long as people stay vigilant against the current pandemic—keeping their distance, wearing masks, avoiding indoor crowds—they should theoretically be guarded against a second respiratory virus.
+It used to be common for measles and pertussis to interfere with each other, so that if one spiked, the other would subside.
+That might be because kids who got one disease would stay home, reducing their risk of the other.
+“It’s nothing to do with a vaccine or the immune system,” says Sarah Cobey, an immunologist at the University of Chicago.
+“It’s just people being careful.”
+
+The same tests that are being used to diagnose COVID-19 could also be tweaked to cover the new pathogen.
+One company is already developing a fast “multiplex” test that could look for four respiratory viruses—the new coronavirus, two types of flu, and respiratory syncytial virus (RSV)—in a single nasal swab.
+And if the new pathogen is a flu strain, existing vaccines could be tweaked to protect against it.
+That would still take several months, but the existence of a seasonal flu vaccine offers an invaluable head start.
+
+Read: We don’t even have a COVID-19 vaccine, and the conspiracies are here
+
+This future is easier to imagine in countries like South Korea, New Zealand, and Germany, which have successfully controlled COVID-19.
+It seems less likely in nations like the U.S., Brazil, Russia, and India, which are stretched and struggling.
+
+In such places, COVID-19 would effectively cloak the spread of any new respiratory virus with similar symptoms, which “could have a chance to take off before we realized it had,” Cameron said.
+A new virus would also be harder to spot because “all the resources we would normally use to detect potential viruses of concern have been redirected for COVID-19,” says Lauren Sauer, who works on disaster preparedness at Johns Hopkins Medicine.
+She means everything from physical equipment like swabs and storage tubes, to health-care workers who administer and process tests, to public-health experts who analyze the data or conduct contact tracing.
+These are either running out or burning out.
+A second respiratory virus would further tax the same resources that the U.S. has already failed to adequately marshal for COVID-19.
+
+SUMMARY:
+
+Donald Trump's mishandling of the COVID-19 pandemic has made the US more vulnerable to another pandemic. His attempt to withdraw from the World Health Organization has frayed international bonds and may encourage other nations to follow suit, ultimately harming the WHO and America's international standing. The US's failure to control its own outbreak, hoarding of important drugs, and withdrawal from global alliances will make it less likely to receive warnings or support if a new crisis emerges. While a second virus may be harder to detect in countries like the US, Brazil, Russia, and India, which are struggling to control COVID-19, a more optimistic scenario exists in countries like South Korea, New Zealand, and Germany, which have successfully controlled the pandemic. The moral of the story is that a country's failure to take responsibility for its own pandemic response can have far-reaching consequences, making it more vulnerable to future health crises.
+
+END OF SUMMARY.
+
+Example 2 (Political Ideology: Center, Moral Foundations: Authority/Subversion, Fairness/Cheating):
+Here is the news article:
+
+WASHINGTON — The special counsel investigating Russian interference in the 2016 election disputed on Friday a report that said President Trump had directed Michael D. Cohen, his longtime lawyer and fixer, to lie to Congress about his role in negotiations to build a skyscraper in Moscow.
+
+The rare public statement by a spokesman for the special counsel, Robert S. Mueller III, challenged the facts of an article published by BuzzFeed News on Thursday saying that Mr. Cohen had told prosecutors about being pressured by the president before his congressional testimony.
+
+“BuzzFeed’s description of specific statements to the special counsel’s office, and characterization of documents and testimony obtained by this office, regarding Michael Cohen’s congressional testimony are not accurate,” said the spokesman, Peter Carr.
+
+Before Mr. Carr’s statement, the BuzzFeed report led to a flurry of reactions by senior members of Congress who said that the allegations, if true, could be grounds for initiating impeachment proceedings against Mr. Trump.
+
+The president himself responded on Twitter late Friday, calling the special counsel’s statement “a very sad day for journalism, but a great day for our Country!”
+
+A proven effort by Mr. Trump to pressure a witness to commit perjury would be one of the most damning revelations so far in the investigation into Russia’s attempts to sabotage the 2016 presidential election and could be the cornerstone of a case that the president obstructed justice to keep investigators at bay.
+
+Both the White House and lawyers for Mr. Trump vigorously denied the BuzzFeed report even before the special counsel’s office weighed in.
+
+“Two words sum it up better than anything anybody else can say, and that is ’categorically false,’” the White House press secretary, Sarah Huckabee Sanders, told reporters on Friday.
+
+BuzzFeed News maintained that its report was accurate, its editor, Ben Smith, said after Mr. Mueller’s office disputed the account.
+“We stand by our reporting and the sources who informed it, and we urge the Special Counsel to make clear what he’s disputing,” Mr. Smith said on Twitter.
+
+The statement by Mr. Carr, the special counsel’s spokesman, was unusual because it appeared to be the first time he had publicly challenged the facts of a news media account that had generated significant attention for its revelations about the president.
+
+The New York Times has not independently confirmed the BuzzFeed report.
+One person familiar with Mr. Cohen’s testimony to the special counsel’s prosecutors said that Mr. Cohen did not state that the president had pressured him to lie to Congress.
+
+Representative Adam B. Schiff, Democrat of California and chairman of the House Intelligence Committee, said that his panel would investigate the BuzzFeed report and was “already working to secure additional witness testimony and documents related to the Trump Tower Moscow deal and other investigative matters.”
+
+If true, Mr. Schiff said, the allegations “would constitute both the subornation of perjury as well as obstruction of justice.”
+
+Representative Joaquin Castro of Texas, another Democratic member of the House Intelligence Committee, wrote in a tweet that “if the @BuzzFeed story is true, President Trump must resign or be impeached.”
+
+Senator Mark Warner of Virginia, the top Democrat on the Senate Intelligence Committee, told reporters on Friday that the panel expected Mr. Cohen to be back to testify privately in early February.
+
+The report added another jolt to a chaotic week for the White House, which has had to fend off questions about recent revelations that F.B.I. counterintelligence agents began investigating Mr. Trump in 2017 and that Mr. Trump has tried to conceal the details from senior administration officials about his interactions with President Vladimir V. Putin of Russia.
+
+In a December court filing, prosecutors working for Mr. Mueller described how Mr. Cohen had repeatedly lied to Congress both about the length of negotiations over the Trump Tower Moscow deal and about Mr. Trump’s involvement in the project.
+
+Mr. Cohen had told lawmakers that the negotiations ended in January 2016 — before the first presidential primaries — and were never discussed extensively among executives of the Trump Organization.
+In fact, according to prosecutors, the discussions continued as late as June 2016, after Mr. Trump was the presumptive Republican presidential nominee.
+
+They also said Mr. Cohen discussed the progress of the Moscow project with Mr. Trump more frequently than he had told the committee and had briefed members of Mr. Trump’s family about the negotiations.
+
+When he appeared in court to plead guilty to lying to Congress, Mr. Cohen said he had concealed his interactions with Russian officials and the fact that he asked Mr. Trump to travel to Russia to promote the deal because he wanted to support Mr. Trump’s “political messaging.”
+
+That day, Mr. Trump defended his role in the Trump Tower Moscow discussions, brushing aside concerns that he was advancing his business interests at the time he was hoping to become president.
+“There was a good chance that I wouldn’t have won, in which case I would have gotten back into the business, and why should I lose lots of opportunities?” he told reporters.
+
+Mr. Cohen drafted his statement to Congress in August 2017 along with Steven Ryan, his lawyer at the time, according to people familiar with how the testimony was put together.
+Mr. Ryan was working with lawyers for the Trump family as part of a joint defense agreement.
+
+At least one of Mr. Trump’s personal lawyers saw Mr. Cohen’s congressional testimony before he delivered it in August and October 2017, according to people with knowledge of the discussions.
+
+Mr. Cohen initially repeated his false statements about the Moscow tower to prosecutors working for Mr. Mueller after he pleaded guilty in August to campaign finance violations and financial crimes.
+But he corrected himself during subsequent interviews and proved credible, the special counsel’s office said in a December sentencing memo.
+
+Mr. Cohen said he initially lied because he did not want to contradict his congressional testimony, prosecutors said.
+Subsequently, he took care “not to overstate his knowledge or the role of others in the conduct under investigation” and provided “useful information” about his contacts with “persons connected to the White House” in 2017 and 2018, the special counsel’s filing said.
+
+That truthfulness was a departure from Mr. Cohen’s pattern of deception throughout his professional life, according to a separate sentencing memo by federal prosecutors in New York, filed at the same time as Mr. Mueller’s.
+Driven by greed, they said, he “repeatedly used his power and influence for deceptive ends.”
+
+Mr. Cohen was sentenced in December to three years in prison for lying to Congress, campaign finance violations and financial crimes.
+He said he took full responsibility for his crimes, but said he acted out of blind loyalty to Mr. Trump, who he said “led me to choose a path of darkness over light.”
+
+During his nomination hearing this week to become attorney general, William P. Barr was asked if the president would have committed a crime if he had coached a witness to testify falsely — or not to testify at all.
+
+“Yes,” Mr. Barr said. “Under an obstruction statute, yes.”
+
+SUMMARY:
+
+The special counsel, Robert Mueller, disputed a BuzzFeed News report that claimed President Trump directed his lawyer, Michael Cohen, to lie to Congress about his role in negotiations to build a Trump Tower in Moscow. The report sparked outrage, with some lawmakers calling for impeachment proceedings if the allegations were true. However, Mueller's office stated that the report's description of specific statements and documents obtained by the office were "not accurate." The White House and Trump's lawyers also denied the report. The controversy highlights the ongoing investigation into Russian interference in the 2016 election and potential obstruction of justice by Trump. The moral implications are clear: if true, Trump's actions would constitute subornation of perjury and obstruction of justice, which would be a grave breach of trust and a threat to the rule of law.
+
+END OF SUMMARY.
+
+Example 3 (Political Ideology: Right, Moral Foundations: Authority/Subversion, Care/Harm, Sanctity/Degradation):
+Here is the news article:
+
+President Trump called the Las Vegas attack an "act of pure evil" Monday morning, in a somber address to the American people following the mass shooting now considered the deadliest in modern U.S. history.
+
+The attack left 58 people dead and 515 hospitalized.
+
+The president announced he will visit Las Vegas on Wednesday to meet with law enforcement, first responders and families of victims.
+He also ordered the flag be flown at half-staff at the White House and other federal buildings to honor those who died.
+
+“It was an act of pure evil,” Trump said.
+
+In a unifying, faith-focused speech from the Diplomatic Room at the White House, the president offered his prayers through this “very dark period.”
+
+“To the families of the victims, we are praying for you and we are here for you and we ask God to help see you through this very dark period,” the president said.
+“Scripture teaches us the Lord is close to the broken hearted and saves those who are crushed in spirit.
+We seek comfort in those words for we know that God lives in the hearts of those who grieve.”
+
+The president called upon “the bonds that unite us,” including faith, family and shared values.
+
+“Our unity cannot be shattered by evil.
+Our bonds cannot be broken by violence,” Trump said.
+“In times such as these, I know we are searching for some kind of meaning in the chaos, light in the darkness.
+The answers do not come easy.”
+
+'Our unity cannot be shattered by evil.' — President Donald Trump
+
+He added: “But we can take solace knowing that even the darkest space can be illuminated by a single ray of hope.”
+
+Trump said that he and the first lady “pray for the entire nation.”
+
+“We pray for the day when evil is banished and the innocent are safe from hatred and from fear,” Trump said.
+
+White House Press Secretary Sarah Sanders said Monday that the president has spoken with the Nevada Gov.
+Brian Sandoval, Las Vegas Mayor Carolyn Goodman, and Las Vegas Metropolitan Police Department's Sheriff Joe Lombardo.
+
+The president first addressed the deadly attack early Monday morning on Twitter.
+
+“My warmest condolences and sympathies to the victims and families of the terrible Las Vegas shooting.
+God bless you!” Trump tweeted.
+
+The suspect, who was killed, was identified as 64-year-old Stephen Paddock, a local resident.
+Authorities also said they were “confident” Paddock’s roommate, Marilou Danley, had been located.
+Officials previously described Danley as a person of interest.
+
+Authorities said one on-duty officer was in critical condition and another was wounded in the shooting.
+Two off-duty police officers attending the concert were killed.
+
+“This was obviously well-planned, they waited for a major, open air event, and obtained a room facing it,” retired FBI special agent and former national FBI spokesman John Iannarelli, who drove past the scene of the event just moments before the shooting took place, told Fox News.
+“I can see the flashing blue police lights from my hotel window.”
+
+“They were well-trained,” Iannarelli said, noting the use of automatic weapons.
+“That’s not an easy task.”
+
+Iannarelli also said “it is too early to tell” what the motive was.
+“Is this a lone wolf inspired by others?
+This is exactly the type of attack the U.S. has been fearing would come to our shores.”
+
+Officials did not immediately reveal a motive.
+
+First lady Melania Trump also offered her condolences on Twitter Monday morning.
+
+"My heart and prayers goes out to victims, families & loved ones! #PrayForLasVegas," she tweeted.
+
+SUMMARY: President Trump condemned the Las Vegas attack as an "act of pure evil" that left 58 people dead and 515 hospitalized. In a somber address, he offered prayers and condolences to the victims' families, quoting scripture to emphasize the importance of unity and faith in the face of darkness. Trump emphasized that "our unity cannot be shattered by evil" and that even in the darkest times, hope can illuminate the way. He also announced plans to visit Las Vegas to meet with law enforcement, first responders, and victims' families. The president's speech was a call to national unity and a reminder that evil cannot break the bonds that unite Americans. END OF SUMMARY.
+
+Now, here is the target news article to summarize:
+Here is the news article:
+
+Nevertheless, Trump claims the White House physician prescribed it for him, although the physician’s letter meant to back up Trump’s dubious claim stated merely that he had discussed the topic with Trump and concluded the benefits (what benefits?!) outweigh the risks. Trump’s press secretary claims he is taking the drug, which proves nothing, since she has already demonstrated a propensity to say anything her boss requires. The debate over whether the president is actually doing something so reckless as to put his own life at risk or merely lying about doing so, thereby risking other people’s lives who will follow his example, is instructive in four respects. First, virtually nothing Trump says about himself, his actions, the world and his advisers can be taken at face value. In one sense, this is an improvement for the mainstream media, which no longer gives him the presumption of truthfulness extended to other presidents. And of course, if he would lie about taking a potentially dangerous treatment, he will lie about anything (e.g. falsely stating America tests more than all the other countries combined). If Republicans actually believed Trump on this one, they’d be up in arms that he might be putting his life in danger. Second, Trump corrupts everyone around him. He has either induced a doctor to violate his professional responsibilities, ignore FDA warnings or, at the very least, to write a letter sounding like he did. Virtually no one in the administration (e.g. White House physician, Justice Department lawyers) has the nerve to say, “This goes too far.” Their assumption that they are impervious to public, legal and professional sanctions suggests that state medical boards and state bar associations need to rethink their policing function and public obligations. Third, the notion that Trump would never put the country at risk — say, by ignoring a pandemic or by recklessly risking war with Iran or by weakening an ally in a war against Russia — has been permanently discredited. He too often tries to “own the libs” by demeaning experts, denying science and lying to make himself look smarter than others. If it means some of his own supporters die, well, that is of no apparent concern to Trump. (He has yet to fly flags at half-mast or even declare a day of prayer or mourning for the nearly 90,000 Americans we have lost, likely a reflection of his total absence of empathy and his insistence on projecting normalcy so as to preserve his chance for reelection.) Finally, any other person taking to the airwaves or social media to induce the public to engage in dangerous activity should be booted off the platform. (Remarkably, even Fox News commentators such as Neil Cavuto deplored the president’s conduct.) A relative engaging in this behavior would be advised to seek counseling. And yet an entire political party fervently backs Trump and wants him to remain in power, propagating goodness knows what for four more years. Trump is not the only menace to public health and safety. Every Republican who tolerates, supports and advocates his reelection is equally to blame for the harm that ensues.
+
+For this target article, the author's moral framing heavily relies on the following Moral Foundation dimensions: Authority/Subversion, Care/Harm, Fairness/Cheating, Sanctity/Degradation.
+Please pay special attention to preserving the moral framing related to these specific dimensions (Authority/Subversion, Care/Harm, Fairness/Cheating, Sanctity/Degradation) in your summary.
+
+The summary has to be returned after a "SUMMARY:" token and ending with a "END OF SUMMARY." token. The summary should be no longer than 200 words.

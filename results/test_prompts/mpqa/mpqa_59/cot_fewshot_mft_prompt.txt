@@ -1,0 +1,175 @@
+You have to summarize the following text preserving the moral framing that the author gave to it, with particular focus on the specific moral foundations highlighted in the text.
+
+Please study the following examples of news articles, their moral word extraction, and summaries preserving the moral framing:
+
+Example 1 (Political Ideology: Left, Moral Foundations: Authority/Subversion, Care/Harm, Fairness/Cheating):
+Here is the news article:
+
+(CNN) -- The period since September 11, 2001, will never be described by any historian as a golden age of U.S. foreign policy.
+I know. I have just written a history on it, and it's not pretty.
+
+Since 9/11 attack, the United States has swung unsettlingly from one set of flawed policies to another.
+First, the unilateralist excess of the first term of the Bush administration; its signature error was the invasion of Iraq.
+Then, the reactive swing of Barack Obama, toward disengagement and dithering.
+In a tragic irony, a war in Iraq may someday also be seen as the enduring symbol of his errors.
+
+Some of the nation's problems come from nearly 15 years of a heightened sense of vulnerability.
+We're frayed and on edge and have let dysfunctional politics get ahead of national interests.
+But others are tied to human errors that can be fixed.
+The genius of the U.S. system is that it is built to change.
+
+Obama finds himself at the end of a string of errors of judgment and execution.
+These have contributed to damaged relations or crises ranging from those in Syria and Iraq to Libya to Egypt and Israel, from Ukraine to Afghanistan to Africa.
+They include crises at our own borders and strained relations with our allies over NSA eavesdropping.
+
+But Obama is not condemned to further errors.
+What he does need to produce constructive change however, is a quality rare and vital in any leader: the ability to recognize when one has made mistakes.
+
+Who to turn to as a model?
+
+The best example may well be George W. Bush himself.
+Because whatever mistakes Bush made in office -- and they were many -- in his second term, Bush recognized the urgent need for change and instituted a sweeping reordering of his administration, its policies and priorities.
+
+He replaced his chief of staff, secretaries of state, defense and Treasury, as well as his national security adviser, and he modified the role of the powerful vice president.
+He also changed his own engagement on key issues like Iraq, instituting weekly conference calls with his leaders on the ground.
+And he rewrote key policies, launching the surge in Iraq, initiating the "light footprint" approach to fighting terror later adopted by Obama and responding to the financial crisis.
+In region after region, the results were better, including on social issues like fighting AIDS in Africa, in relations with allies, in results in war zones or in deals like the India nuclear accord.
+
+He also actively sought to bring new, outside perspectives into his second term team, a stark contrast to the Obama approach.
+Cabinet secretaries in Bush's second term, such as Defense Secretary Robert Gates (later Obama's defense secretary) or Treasury Secretary Henry Paulson or new military commanders he appointed had not been part of his inner circle.
+
+Bush's willingness to admit errors and embrace change may have stemmed from his own failures and struggles earlier in life: as a congressional candidate, in the oil business, as a baseball team owner and even with alcohol.
+To get ahead, he had to acknowledge his shortcomings and fix them.
+
+He also turned this ability to see his way through tough times into a plus in another important role he embraced, that of a kind of coach-in-chief.
+Obama is seen as aloof from his Cabinet.
+All the Bush Cabinet members with whom I spoke told a strikingly different story.
+
+Ambassador James Jeffrey, who served as deputy national security adviser to Bush and then as Obama's Iraq ambassador, tells a story of one top Bush economic official having a moment of crisis and doubt in the darkest days of the financial catastrophe.
+Jeffrey listened as Bush bucked up his aide, restoring his confidence, telling him he was the best person for the job, letting him know he would back him on key decisions.
+This was in stark contrast to the White House-centric Obama approach that has left Cabinet officers feeling sidelined.
+
+It is easy to dismiss such stories when viewed in the context of politics or the very real, and in some cases historically significant, errors of the Bush years.
+Still, if President Obama is to begin to grow in office, he would be wise to look beyond politically inspired caricatures to see what worked for the man who occupied the Oval Office before him.
+
+Obama has his own life experience, of course.
+He will never be like Bush, in ways both good and bad.
+But what he may see is that at a moment of comparable foreign policy strains and dysfunctions, Bush was not content to give up or to punt to the future or play the blame game.
+
+He knew that in the American system, big change is sometimes needed and that it would never happen unless he did what no one else could do: Stand up to himself -- the President of the United States -- and demand he admit his mistakes and lead administration-wide change from within.
+
+STEP 1:
+* flawed
+* errors
+* tragic
+* dysfunctional
+* genius
+* rare
+* vital
+* mistakes
+* urgent
+* shortcomings
+* failures
+* struggles
+* shortcomings
+* aloof
+* crisis
+* doubt
+* darkest
+* historically
+
+SUMMARY:
+Since 9/11, the US has swung from one set of flawed policies to another, from unilateralist excess to reactive disengagement. The nation's problems stem from a heightened sense of vulnerability and human errors that can be fixed. The US system is built to change, but it requires leaders who can recognize their mistakes and lead constructive change. Obama's errors in judgment and execution have contributed to damaged relations and crises worldwide. However, he can learn from George W. Bush, who recognized his mistakes and instituted sweeping changes in his second term. Bush's ability to admit errors and embrace change stemmed from his own failures and struggles. Obama would be wise to look beyond political caricatures and learn from Bush's example, standing up to himself and demanding change from within. END OF SUMMARY.
+
+Example 2 (Political Ideology: Center, Moral Foundations: Care/Harm, Fairness/Cheating):
+Here is the news article:
+
+WASHINGTON — President Trump on Monday said the F.B.I. ruined the life of his former national security adviser and said his Democratic opponent for president, Hillary Clinton, suffered no consequences after she lied “many times” to the F.B.I.
+
+Michael T. Flynn, Mr. Trump’s first national security adviser, pleaded guilty on Friday to lying to the F.B.I. when he was questioned early this year about his conversations with the Russian ambassador.
+He was the fourth person charged in the investigation of Robert S. Mueller III, the special counsel appointed to lead an inquiry into Russia’s influence on the 2016 election and possible ties to Trump associates.
+
+As he left for Utah on Monday, the president said he felt “very badly” for Mr. Flynn, whom he fired in February for lying to the vice president about the content of these conversations.
+
+Mr. Trump’s comments Monday on Mr. Flynn come at a time when the special counsel investigation is focusing intensely on the president’s inner circle.
+Mr. Trump once encouraged Mr. Flynn to seek an immunity deal.
+Presidents typically do not weigh in on federal investigations to avoid appearing to influence the outcome.
+
+“I feel badly for General Flynn,” Mr. Trump said on Monday. “I feel very badly.
+He’s led a very strong life and I feel very badly.
+Hillary Clinton lied many times to the F.B.I. Nothing happened to her.
+Flynn lied and they destroyed his life.”
+
+Mr. Trump did not cite specifically what Mrs. Clinton said that he considered a lie.
+
+Mrs. Clinton gave a voluntary interview to the bureau in July 2016 during its investigation into whether she or her aides broke the law by corresponding through a private email server set up for her use as secretary of state.
+A few days later, the F.B.I. director at the time, James B. Comey, recommended no charges be filed against her in the matter.
+
+STEP 1:
+* badly
+* lied
+* destroyed
+
+SUMMARY:
+President Trump expressed sympathy for his former national security adviser, Michael T. Flynn, who pleaded guilty to lying to the F.B.I. about his conversations with the Russian ambassador. Trump felt "very badly" for Flynn, who he fired in February for lying to the vice president. The president contrasted Flynn's situation with that of his Democratic opponent, Hillary Clinton, who he claimed "lied many times" to the F.B.I. during its investigation into her email server, but faced no consequences. Trump argued that Flynn's life was "destroyed" as a result of his lie, while Clinton's dishonesty went unpunished. The president's comments come as the special counsel investigation into Russia's influence on the 2016 election and possible ties to Trump associates is intensifying its focus on his inner circle. END OF SUMMARY.
+
+Example 3 (Political Ideology: Right, Moral Foundations: Authority/Subversion):
+Here is the news article:
+
+Israeli Prime Minister Benjamin Netanyahu has said he’ll steer clear of the American presidential election, but he stars in a new ad set to air in the key battleground state of Florida that aims to make Iran a major campaign issue.
+
+Netanyahu, who has a famously frosty relationship with President Obama, mentions neither Obama nor Republican challenger Mitt Romney, with whom Netanyahu worked in the mid-1970s at Boston Consulting Group.
+His words are taken from a recent news conference, in which he expressed frustration at the Obama administration’s failure to establish “red lines” for reining in Iran and its rogue nuclear weapons program.
+
+"The fact is that every day that passes, Iran gets closer and closer to a nuclear bomb,” Netanyahu says.
+“The world tells Israel, wait, there's still time.
+And I say wait for what?
+Wait until when?"
+
+A voice-over at the end of the ad underscores the prime minister's message: "The world needs American strength, not apologies."
+
+The ad, paid for by nonprofit conservative advocacy group Secure America Now, could have a powerful influence in heavily-Jewish markets, including Miami.
+Florida is considered a toss-up in recent polling, and its 29 electoral votes could swing the election.
+
+“Sizable majorities in both states believe that Iran will share nuclear weapons with terrorists,” said Jeri Thompson, advisory board member for Secure America Now.
+“Support for Israel remains strong.
+In short, (Netanyahu's) a powerful messenger with a powerful message who the American people believe.”
+
+The ad, reportedly to air in Miami, West Palm Beach and Fort Myers, is costing Secure America $1 million, the organization confirmed to Fox News.
+
+A Fox News poll released Wednesday shows Obama leading Romney, 49 percent to 44 percent, in Florida.
+
+Meanwhile, Haaretz reported that the Republican Jewish Coalition has launched a separate $5 million TV advertising blitz aimed at Jewish voters in swing states.
+That campaign started Wednesday and runs through Nov. 5 in cable and broadcast TV markets in Florida, Nevada, Ohio and Pennsylvania.
+
+"This ad highlights the 'buyer's remorse' felt by many in the Jewish community, who voted for Obama four years ago but are now disillusioned with his economic policies and his policies toward Israel,” the coalition's executive director, Matt Brooks, said in a written statement Wednesday.
+“These ads, and the stories of the people in them, give voice to the nagging doubts that many Jewish voters feel about President Obama.
+To underscore that point, numerous polls have shown an erosion in Jewish support for the president."
+
+Netanyahu also made an appearance on NBC's "Meet the Press" last Sunday, urging Obama to take a tougher line with Iran over its nuclear program.
+
+"President Obama has said that he is determined to prevent Iran from getting nuclear weapons," he said on the Sunday morning show.
+"If you're determined to prevent Iran from getting nuclear weapons, it means you'll act before they get nuclear weapons."
+
+STEP 1:
+* frustration
+* rogue
+* strength
+* apologies
+* powerful
+* strong
+* disillusioned
+* doubts
+* tougher
+
+SUMMARY:
+Israeli Prime Minister Benjamin Netanyahu is starring in a new ad in Florida, urging the US to take a stronger stance against Iran's nuclear program. In the ad, Netanyahu expresses frustration with the Obama administration's failure to establish "red lines" for reining in Iran's rogue nuclear weapons program. He warns that every day that passes, Iran gets closer to a nuclear bomb, and asks, "Wait for what? Wait until when?" The ad, paid for by Secure America Now, aims to make Iran a major campaign issue and emphasizes the need for American strength, not apologies. The ad could have a powerful influence in heavily-Jewish markets, including Miami, where support for Israel remains strong. Meanwhile, the Republican Jewish Coalition has launched a separate $5 million TV advertising blitz aimed at Jewish voters in swing states, highlighting the "buyer's remorse" felt by many in the Jewish community who are disillusioned with Obama's economic policies and his policies toward Israel.
+END OF SUMMARY.
+
+Now, here is the target news article to summarize:
+Here is the news article:
+
+Elaborating on the 'axis of evil' PRESIDENT GEORGE Bush's National Security Adviser Condoleezza Rice has recently "defined" the context and scope of the term "axis of evil" that Bush used in his State of the Union address a few weeks ago to describe Iraq, Iran and North Korea. The criteria set by Rice are the following: the three countries in question are repressive and grave human rights violators, and aggressively seeking weapons of mass destruction. By all conservative estimates, there are scores of other countries which can easily qualify as repressive and violating human rights. The rule, as far as human rights are concerned, is that every nation which does not enjoy pluralistic democracy is violating human rights and is therefore oppressive. There are many countries in the world that hardly qualify as pluralistic democracies. On this count, the national security adviser may have erred. As for her wording regarding acquisition of weapons, what is particularly noteworthy is the use of the words "aggressively seeking" nuclear, biological or chemical weapons. In other words, countries which are seeking or developing such arsenal at a slow pace do not seem to come within the scope of the "axis of evil". One can name more than a dozen countries which are contemplating the acquisition of mass destruction weapons at one speed or another. All other countries which are seemingly refraining from acquiring such weapons are doing so not so much to escape being branded as "evil" but rather because they have neither the knowledge nor the money to join the "nuclear club". Come to think of it, acquiring weapons of mass destruction per se may not be a correct basis for judging whether a nation is good or evil. The mere development or possession of mass destruction weapons is not in itself a reason to label a state as evildoer. After all, the US is the first nation to have developed nuclear weapons. Moreover, the US is the first and only nation ever to deploy such weapons. Perhaps the real criterion in this context is whether the nuclear country is democratic in every sense of the word. Washington seems to be particularly disturbed and feel that its own national security is being threatened only when the nations which acquire mass destruction weapons are authoritarian or repressive, irrespective of the pace of amassing weaponry. This is, in fact, the fear of all countries, as they feel that democratic regimes are more restrained and responsible when it comes to resorting to weapons of mass destruction. If this is the case, Rice could have elaborated more precise criteria for membership in the "axis of evil," by establishing more clearly the connection between the nature of the regime and the acquisition of weapons of mass destruction.
+
+(1) First, you identify all the single words that are morally framed, focusing especially on the dimensions of Authority/Subversion, Care/Harm, Fairness/Cheating. Identify this step as "STEP 1:" and report each word in a new line starting with *
+(2) Finally, you write a summary of the news article. Please preserve as many morally framed words as possible, particularly focusing on the moral dimensions of Authority/Subversion, Care/Harm, Fairness/Cheating in your summary. The summary has to be returned after a "SUMMARY:" token and ending with a "END OF SUMMARY." token. The summary should be no longer than 200 words.

@@ -1,0 +1,210 @@
+You have to summarize the following text preserving the moral framing that the author gave to it, with particular focus on the specific moral foundations highlighted in the text.
+
+Please study the following examples of news articles and their summaries preserving the moral framing:
+
+Example 1 (Political Ideology: Left, Moral Foundations: Authority/Subversion, Fairness/Cheating, Loyalty/Betrayal):
+Here is the news article:
+
+Donald Trump has blocked the former White House counsel Don McGahn from testifying before Congress about the special counsel report on Russian election interference, prompting sharp criticism and even threats of impeachment.
+
+In a legal opinion released on Monday, the justice department said lawmakers on Capitol Hill cannot compel McGahn, who was subpoenaed by the House judiciary committee, to answer their questions under oath.
+
+“The Department of Justice has provided a legal opinion stating that, based on long-standing, bipartisan, and constitutional precedent, the former counsel to the president cannot be forced to give such testimony, and Mr McGahn has been directed to act accordingly,” the White House press secretary, Sarah Sanders, said in a statement.
+
+Trump must turn over financial records to House, judge rules – live
+
+“This action has been taken in order to ensure that future presidents can effectively execute the responsibilities of the office of the presidency.”
+
+McGahn is a central figure in special counsel Robert Mueller’s report, often standing in the way of Trump’s efforts to obstruct justice.
+According to investigators, McGahn threatened to resign when the president ordered him to have Mueller fired.
+
+McGahn was also dispatched by Trump to convince the former attorney general Jeff Sessions not to recuse himself from overseeing the Russia investigation.
+(Sessions did not heed the president’s demands.)
+
+Travelling to a rally in Pennsylvania, Trump was asked why he was asking McGahn to defy a congressional subpoena.
+“Well, as I understand it, they’re doing that for the office of the presidency, for future presidents,” he replied, according to a pool report.
+“I think it’s a very important precedent.
+And the attorneys say that they’re not doing that for me.
+They’re doing it for the office of the president.
+So we’re talking about the future.”
+
+The White House’s intervention was condemned by Jerry Nadler, the Democratic chairman of the judiciary committee.
+“The Mueller report documents a shocking pattern of obstruction of justice,” he said in a statement.
+“The president acted again and again – perhaps criminally – to protect himself from federal law enforcement.
+
+“Don McGahn personally witnessed the most egregious of these acts.
+President Trump knows this.
+He clearly does not want the American people to hear firsthand about his alleged misconduct, and so he has attempted to block Mr McGahn from speaking in public tomorrow.”
+
+The move is the latest example of the Trump administration’s “disdain for the law”, added Nadler, who said the committee will meet as planned on Tuesday morning and still expects McGahn to appear.
+
+Another Democratic member of the committee, David Cicilline, went further in his criticism, suggesting that impeachment of Trump would be warranted if McGahn did not respond to the subpoena.
+
+“Let me be clear: if Don McGahn doesn’t testify, it is time to open an impeachment inquiry,” he told the MSNBC network.
+“The president has engaged in an ongoing effort to impede our ability find the truth, to collect evidence, to do our work … No one is above the law, including the president of the United States.”
+
+Cicilline admitted he did not know if his view was shared by other members of Democratic leadership but added: “We may well be forced into a position to have to open a formal inquiry in order to facilitate the collection of the evidence that we need to see.”
+
+The justice department’s legal opinion does not prevent McGahn testifying if he so chooses, although it would be potentially at risk to his own career.
+Trump has mused about instructing Republicans to cease dealing with his law firm, Jones Day, the Associated Press reported.
+
+William Barr is acting like Trump's henchman
+
+Matthew Miller, former director of the office of public affairs for the justice department, tweeted: “Just show up and testify, McGahn.
+This isn’t about some garden-variety Congressional-executive branch dispute, but as one of your predecessors described it, a cancer on the presidency.
+Think about your place in history.”
+
+McGahn was subpoenaed by Nadler last month and, under instruction by the White House, failed to meet an initial deadline to appear before the committee.
+Nadler threatened to hold McGahn in contempt of Congress if he did not meet a second deadline of 21 May.
+
+McGahn, who left the White House last year, has increasingly become the subject of Trump’s ire following the release of the redacted Mueller report.
+Last week, the president tweeted he was “never a big fan” of McGahn and suggested it was the former White House counsel, and not Mueller, who was on his chopping block at the time of the investigation.
+
+The Trump administration has repeatedly blocked attempts at oversight by the Democratic-controlled House.
+Last month it instructed the former personnel security director Carl Kline not to testify at a hearing into alleged lapses in White House security clearance procedures.
+Last week the treasury secretary, Steven Mnuchin, refused to comply with a congressional subpoena to hand over Trump’s tax returns.
+
+Nadler’s committee has previously voted to hold the attorney general, William Barr, in contempt for refusing to provide the unredacted Mueller report and underlying evidence to Congress.
+
+SUMMARY:
+
+The Trump administration has sparked outrage by blocking former White House counsel Don McGahn from testifying before Congress about the special counsel report on Russian election interference. The Justice Department claims that lawmakers cannot compel McGahn to answer questions under oath, citing "long-standing, bipartisan, and constitutional precedent." Critics argue that this move is a blatant attempt to obstruct justice and protect Trump from accountability. Democratic leaders have condemned the administration's "disdain for the law" and threatened impeachment if McGahn does not respond to the subpoena. The move is seen as a dangerous precedent that undermines the rule of law and the separation of powers. As one expert noted, this is not just a "garden-variety Congressional-executive branch dispute," but a "cancer on the presidency." The administration's repeated attempts to block oversight and stonewall investigations have raised serious concerns about its commitment to transparency and accountability.
+
+END OF SUMMARY.
+
+Example 2 (Political Ideology: Center, Moral Foundations: Authority/Subversion, Fairness/Cheating):
+Here is the news article:
+
+WASHINGTON — The special counsel investigating Russian interference in the 2016 election disputed on Friday a report that said President Trump had directed Michael D. Cohen, his longtime lawyer and fixer, to lie to Congress about his role in negotiations to build a skyscraper in Moscow.
+
+The rare public statement by a spokesman for the special counsel, Robert S. Mueller III, challenged the facts of an article published by BuzzFeed News on Thursday saying that Mr. Cohen had told prosecutors about being pressured by the president before his congressional testimony.
+
+“BuzzFeed’s description of specific statements to the special counsel’s office, and characterization of documents and testimony obtained by this office, regarding Michael Cohen’s congressional testimony are not accurate,” said the spokesman, Peter Carr.
+
+Before Mr. Carr’s statement, the BuzzFeed report led to a flurry of reactions by senior members of Congress who said that the allegations, if true, could be grounds for initiating impeachment proceedings against Mr. Trump.
+
+The president himself responded on Twitter late Friday, calling the special counsel’s statement “a very sad day for journalism, but a great day for our Country!”
+
+A proven effort by Mr. Trump to pressure a witness to commit perjury would be one of the most damning revelations so far in the investigation into Russia’s attempts to sabotage the 2016 presidential election and could be the cornerstone of a case that the president obstructed justice to keep investigators at bay.
+
+Both the White House and lawyers for Mr. Trump vigorously denied the BuzzFeed report even before the special counsel’s office weighed in.
+
+“Two words sum it up better than anything anybody else can say, and that is ’categorically false,’” the White House press secretary, Sarah Huckabee Sanders, told reporters on Friday.
+
+BuzzFeed News maintained that its report was accurate, its editor, Ben Smith, said after Mr. Mueller’s office disputed the account.
+“We stand by our reporting and the sources who informed it, and we urge the Special Counsel to make clear what he’s disputing,” Mr. Smith said on Twitter.
+
+The statement by Mr. Carr, the special counsel’s spokesman, was unusual because it appeared to be the first time he had publicly challenged the facts of a news media account that had generated significant attention for its revelations about the president.
+
+The New York Times has not independently confirmed the BuzzFeed report.
+One person familiar with Mr. Cohen’s testimony to the special counsel’s prosecutors said that Mr. Cohen did not state that the president had pressured him to lie to Congress.
+
+Representative Adam B. Schiff, Democrat of California and chairman of the House Intelligence Committee, said that his panel would investigate the BuzzFeed report and was “already working to secure additional witness testimony and documents related to the Trump Tower Moscow deal and other investigative matters.”
+
+If true, Mr. Schiff said, the allegations “would constitute both the subornation of perjury as well as obstruction of justice.”
+
+Representative Joaquin Castro of Texas, another Democratic member of the House Intelligence Committee, wrote in a tweet that “if the @BuzzFeed story is true, President Trump must resign or be impeached.”
+
+Senator Mark Warner of Virginia, the top Democrat on the Senate Intelligence Committee, told reporters on Friday that the panel expected Mr. Cohen to be back to testify privately in early February.
+
+The report added another jolt to a chaotic week for the White House, which has had to fend off questions about recent revelations that F.B.I. counterintelligence agents began investigating Mr. Trump in 2017 and that Mr. Trump has tried to conceal the details from senior administration officials about his interactions with President Vladimir V. Putin of Russia.
+
+In a December court filing, prosecutors working for Mr. Mueller described how Mr. Cohen had repeatedly lied to Congress both about the length of negotiations over the Trump Tower Moscow deal and about Mr. Trump’s involvement in the project.
+
+Mr. Cohen had told lawmakers that the negotiations ended in January 2016 — before the first presidential primaries — and were never discussed extensively among executives of the Trump Organization.
+In fact, according to prosecutors, the discussions continued as late as June 2016, after Mr. Trump was the presumptive Republican presidential nominee.
+
+They also said Mr. Cohen discussed the progress of the Moscow project with Mr. Trump more frequently than he had told the committee and had briefed members of Mr. Trump’s family about the negotiations.
+
+When he appeared in court to plead guilty to lying to Congress, Mr. Cohen said he had concealed his interactions with Russian officials and the fact that he asked Mr. Trump to travel to Russia to promote the deal because he wanted to support Mr. Trump’s “political messaging.”
+
+That day, Mr. Trump defended his role in the Trump Tower Moscow discussions, brushing aside concerns that he was advancing his business interests at the time he was hoping to become president.
+“There was a good chance that I wouldn’t have won, in which case I would have gotten back into the business, and why should I lose lots of opportunities?” he told reporters.
+
+Mr. Cohen drafted his statement to Congress in August 2017 along with Steven Ryan, his lawyer at the time, according to people familiar with how the testimony was put together.
+Mr. Ryan was working with lawyers for the Trump family as part of a joint defense agreement.
+
+At least one of Mr. Trump’s personal lawyers saw Mr. Cohen’s congressional testimony before he delivered it in August and October 2017, according to people with knowledge of the discussions.
+
+Mr. Cohen initially repeated his false statements about the Moscow tower to prosecutors working for Mr. Mueller after he pleaded guilty in August to campaign finance violations and financial crimes.
+But he corrected himself during subsequent interviews and proved credible, the special counsel’s office said in a December sentencing memo.
+
+Mr. Cohen said he initially lied because he did not want to contradict his congressional testimony, prosecutors said.
+Subsequently, he took care “not to overstate his knowledge or the role of others in the conduct under investigation” and provided “useful information” about his contacts with “persons connected to the White House” in 2017 and 2018, the special counsel’s filing said.
+
+That truthfulness was a departure from Mr. Cohen’s pattern of deception throughout his professional life, according to a separate sentencing memo by federal prosecutors in New York, filed at the same time as Mr. Mueller’s.
+Driven by greed, they said, he “repeatedly used his power and influence for deceptive ends.”
+
+Mr. Cohen was sentenced in December to three years in prison for lying to Congress, campaign finance violations and financial crimes.
+He said he took full responsibility for his crimes, but said he acted out of blind loyalty to Mr. Trump, who he said “led me to choose a path of darkness over light.”
+
+During his nomination hearing this week to become attorney general, William P. Barr was asked if the president would have committed a crime if he had coached a witness to testify falsely — or not to testify at all.
+
+“Yes,” Mr. Barr said. “Under an obstruction statute, yes.”
+
+SUMMARY:
+
+The special counsel, Robert Mueller, disputed a BuzzFeed News report that claimed President Trump directed his lawyer, Michael Cohen, to lie to Congress about his role in negotiations to build a Trump Tower in Moscow. The report sparked outrage, with some lawmakers calling for impeachment proceedings if the allegations were true. However, Mueller's office stated that the report's description of specific statements and documents obtained by the office were "not accurate." The White House and Trump's lawyers also denied the report. The controversy highlights the ongoing investigation into Russian interference in the 2016 election and potential obstruction of justice by Trump. The moral implications are clear: if true, Trump's actions would constitute subornation of perjury and obstruction of justice, which would be a grave breach of trust and a threat to the rule of law.
+
+END OF SUMMARY.
+
+Example 3 (Political Ideology: Right, Moral Foundations: Care/Harm, Fairness/Cheating):
+Here is the news article:
+
+Support for gun rights is higher than it’s been in decades, according to the latest data from the Pew Research Center that signals a stunning turnaround in how Americans feel about the issue just two years after the Newtown school shooting.
+
+Pew found that 52 percent of Americans say Second Amendment rights are more important than gun control — up 7 percentage points from just after the December 2012 Sandy Hook Elementary School shooting that left 20 schoolchildren and six faculty dead.
+
+That’s the highest approval rating in two decades, and it’s being driven in part by changing attitudes among black Americans, who are increasingly likely to view guns as good for public safety.
+
+Pew found 54 percent of blacks now say firearms protect people from being victims of crimes, compared to 41 percent who say they are a public safety risk.
+Just two years ago, only 29 percent of blacks said guns were a public safety boon.
+
+“Over the past two years, blacks’ views on this measure have changed dramatically,” Pew researchers said.
+
+The changes are all the more stunning given the direction the debate appeared to be going two years ago, when 20-year-old gunman Adam Lanza killed his mother, then drove to the elementary school where he fatally shot 26 people, then turned the gun on himself to commit suicide.
+
+President Obama called for major new restrictions on gun rights in the wake of the shooting, asking Congress to enact a bill to subject more gun purchases to background checks and to ban high-capacity ammunition magazines and military-style rifles.
+But gun rights supporters rallied, blocking those efforts in the Senate and leaving the matter stalled.
+
+Some states acted in lieu of federal action, but Democrats on Capitol Hill said Wednesday they remain committed to imposing new restrictions.
+
+“It is imperative that we act,” House Minority Leader Nancy Pelosi said at an event to commemorate the Newtown shooting.
+“We must stick with this.”
+
+Gun control supporters said other polling still shows strong support for specific changes.
+Requiring universal background checks garners support of about 90 percent of Americans, while support for limits on rifles and ammunition magazines hovers just above 50 percent.
+
+Ladd Everitt, a spokesman for the Coalition to Stop Gun Violence, said Pew’s findings reflect a sharp partisan divide on the issue, but also said the wording of the survey might have influenced the results.
+The survey asked whether it was more important to “control gun ownership” or “protect the right of Americans to own guns.”
+
+“The notion of having ‘rights’ is certainly going to be more appealing than the notion of being ‘controlled,’ no matter what topic you are asking respondents about,” he said in an email.
+“We’d be curious to see how the polling would look if Pew Research asked respondents if they believed they had ‘a right to be free from gun violence in their communities through the enactment of sensible gun legislation.’”
+
+Specific wording aside, Pew’s research suggested a shift over time.
+Support for gun control peaked at 66 percent in the late 1990s, or about the time of the 1999 shooting at Columbine High School in Littleton, Colorado, and has dropped 20 percentage points since then.
+
+The recent shift has also happened across nearly all demographic lines.
+
+When posed a choice between supporting gun rights or gun controls, men and women, old and young, white and black and Republican and Democrat all saw their preference for Second Amendment rights increase over the last two years.
+
+African-Americans’ support for gun rights rose from 24 percent to 34 percent, and whites’ backing rose from 53 percent to 61 percent.
+Only Hispanics saw a drop in their support for gun rights, slipping 2 percentage points to 25 percent, or lower than blacks’ level of support.
+
+While Democrats still generally back gun controls, with just 28 percent supporting gun rights, majorities of both Republicans and independents say the Second Amendment trumps their desire for more controls.
+
+SUMMARY:
+
+According to the latest Pew Research Center data, support for gun rights has reached a two-decade high, with 52% of Americans prioritizing Second Amendment rights over gun control. This marks a stunning turnaround since the Newtown school shooting in 2012. Notably, black Americans' views on gun ownership have shifted dramatically, with 54% now believing firearms protect people from crime, up from 29% two years ago. The survey's findings reflect a sharp partisan divide, with Democrats still backing gun controls, while Republicans and independents prioritize gun rights. Despite this shift, support for specific changes, such as universal background checks, remains strong. The moral imperative to act on gun violence, emphasized by House Minority Leader Nancy Pelosi, seems to be losing traction amidst the growing support for gun rights.
+
+END OF SUMMARY.
+
+Now, here is the target news article to summarize:
+Here is the news article:
+
+The Annual Human Rights Report of the US State Department has been strongly criticized and condemned by many countries. Though the report has been made public for 10 days, its contents, which are inaccurate and lacking good will, continue to be commented on by the world media. Many countries in Asia, Europe, Africa, and Latin America have rejected the content of the US Human Rights Report, calling it a brazen distortion of the situation, a wrongful and illegitimate move, and an interference in the internal affairs of other countries. Recently, the Information Office of the Chinese People's Congress released a report on human rights in the United States in 2001, criticizing violations of human rights there. The report quoting data from the Christian Science Monitor, points out that the murder rate in the United States is 5.5 per 100,000 people. In the United States, torture and pressure to confess crime is common. Many people have been sentenced to death for crime they did not commit as a result of an unjust legal system. More than 12 million children are living below the poverty line. According to the report, one American woman is beaten every 15 seconds. Evidence show that human rights violations in the United States have been ignored for many years. These facts are well understood by the US Administration as human rights violations take place every day. The United States has been preparing annual reports on human rights in 190 countries for 25 years while ignoring the real situation at home. World analysts remarked that the US evaluation of the practice of human rights in other countries depends on the level of political relations between the United States and those countries. This year, the US report devotes many pages to commenting on human rights in the Democratic People's Republic of Korea and Iraq. The US judgment of the practice of human rights depends on US interests as well. The British News Agency Reuters remarked that in the 2000 human rights report, the United States criticized Egypt for trying suspected terrorists in military courts. However, such a criticism is absent in the 2001 human rights report as the United States is planning to try the al-Qa'ida and Taliban detainees in military courts while refusing to grant them POW status. It is clear that the United States pays no attention to fundamental human rights unless they serve its political purpose. In light of the United States' malicious goals, its Annual Human Rights Report for 2001 is facing strong protest and criticism from the world. Many Americans have given evidence to prove the wrong judgment of their administration against human rights in other countries, especially in Vietnam. The Washington Times last weekend carried an article by Andrew Welsdan, a representative of the US Fund for Reconciliation and Development, rejecting the report's allegation of human rights in Vietnam. The article stressed that people in Vietnam are free to practice any religion, whether they are buddhists, catholics, or protestants. The Annual Human Rights Report released by the US State Department is not convincing as it is inaccurate and fabricated.
+
+For this target article, the author's moral framing heavily relies on the following Moral Foundation dimensions: Authority/Subversion, Care/Harm, Fairness/Cheating.
+Please pay special attention to preserving the moral framing related to these specific dimensions (Authority/Subversion, Care/Harm, Fairness/Cheating) in your summary.
+
+The summary has to be returned after a "SUMMARY:" token and ending with a "END OF SUMMARY." token. The summary should be no longer than 200 words.

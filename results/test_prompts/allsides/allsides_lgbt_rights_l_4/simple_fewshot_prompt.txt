@@ -1,0 +1,189 @@
+You have to summarize the following text preserving the moral framing that the author gave to it.
+
+Please study the following examples of news articles and their summaries preserving the moral framing:
+
+Example 1 (Political Ideology: Left):
+Here is the news article:
+
+Even though Bibi Netanyahu recently decried the use of his name in election-year politicking, the Israeli prime minister is the subject of a new ad by Secure America Now, a neoconservative nonprofit organization dedicated to influencing the debate around American security and foreign policy.
+
+Politico reports:
+
+“A Republican involved with the project said it’s airing in Miami, West Palm Beach and Ft. Myers.
+The flight is ultimately going to be $1 million, the official said - a media-tracking source said about $400,000 has been placed so far.
+
+Those markets house some of the state’s largest Jewish communities.
+
+The pollster for Secure America Now is John McLaughlin, who has worked with Netanyahu’s Likud Party.”
+
+The ad features Netanyahu laying out Israel’s security concerns about Iran’s nuclear program, which Republicans have used to knock President Barack Obama’s sometimes frosty relationship with the Israeli prime minister. 
+
+Republican presidential nominee Mitt Romney has repeatedly targeted the Obama administration for not taking a firm enough stance against Iran, claiming on many occasions that the president has “thrown Israel under a bus.”
+The GOP also has attacked the president for declining an opportunity to meet with Netanyahu at the United Nations General Assembly later this month in an effort to paint the current White House as dismissive of Israel and its concerns.
+
+But Netanyahu pushed back against these criticisms in two separate interviews on Sunday, first telling CNN, “I know that people are trying to draw me into the American election.
+I’m not going to do that.”
+
+He also rejected reports that Obama refused his request for a meeting, pinning the circumstances on a scheduling conflict, as has the White House when pressed on the subject.
+
+“President Obama has said that he’s determined to prevent Iran from getting nuclear weapons and I appreciate that and I respect that,” Netanyahu said on NBC’s “Meet the Press.”
+
+When asked if Obama had thrown Israel under a bus, Netanyahu responded, “There is no bus.”
+
+This isn’t the first ad Secure America Now has run against Obama, even though on its website the organization describes itself as representing all political ideologies.
+In July, the group released an ad pushing the same attack line employed by Romney, accusing the president of embarking on a so-called “apology tour” at the expense of American security. 
+
+The Obama administration is not mentioned by name in the latest spot, but it implicitly underscores the GOP’s narrative on the president’s relationship with the country’s closest ally.
+
+SUMMARY:
+
+A neoconservative nonprofit organization, Secure America Now, has launched a new ad featuring Israeli Prime Minister Bibi Netanyahu discussing Israel's security concerns about Iran's nuclear program. The ad is airing in markets with large Jewish communities in Florida, with a total budget of $1 million. The ad is seen as an attempt to influence the US presidential election, with Republicans using it to criticize President Barack Obama's relationship with Israel and his stance on Iran. However, Netanyahu has pushed back against these criticisms, stating that he will not be drawn into the US election and that Obama has expressed determination to prevent Iran from getting nuclear weapons. The ad is implicitly critical of the Obama administration, despite Secure America Now's claim to represent all political ideologies. The moral framing of this article suggests that Secure America Now's actions are hypocritical and misleading, and that Netanyahu's attempts to stay out of the US election are being undermined by partisan politics.
+
+END OF SUMMARY.
+
+Example 2 (Political Ideology: Center):
+Here is the news article:
+
+Obama Team To Make Important, If Symbolic, Choice On Gay Marriage
+
+The Obama administration faces tricky political and legal questions on the subject of gay marriage.
+By the end of this month, the federal government is expected to file not just one but two briefs in a pair of same-sex marriage cases at the U.S. Supreme Court.
+
+But it is the Proposition 8 case from California that poses the thornier questions for the administration — questions so difficult that the president himself is expected to make the final decision on what arguments the Justice Department will make in the Supreme Court.
+
+Prop 8, as it is known, is the California ballot initiative banning same-sex marriage.
+It was narrowly approved by state voters in 2008.
+A federal district court struck down the law as unconstitutional discrimination in 2010.
+A federal appeals court later agreed, but on narrower grounds.
+Because there was a period of time in which same-sex couples could legally marry in California, the court said, it was unconstitutional for the state, through the ballot initiative, to take away a fundamental right it had previously granted.
+
+The state, under both Republican and Democratic governors, has declined to defend the measure in court.
+So its ban on gay marriage is being defended by the sponsors of the initiative.
+
+The Obama administration is not required to file any brief in the case because it does not directly involve federal law.
+But administration sources say the government will file a brief.
+Still unresolved is what the brief will say.
+And in this case, much more than most, there are numerous legal routes that the government can take.
+
+The ultimate question — the one perhaps most people want an answer to but may not get — is whether same-sex couples have a constitutional right to marry.
+A Supreme Court decision that says yes to that would invalidate laws in some 30 states.
+But there are many legal avenues short of such a far-reaching argument that would invalidate Proposition 8 in California and leave laws in other states intact.
+
+What makes this even dicier is that President Obama has changed his position, seemingly a lot, over the past eight months.
+In May, in an ABC interview, he for the first time endorsed same-sex marriage from a personal point of view, but he went on to say that the decision on legalizing gay marriage should be left to the states, where marriage matters are traditionally governed.
+
+"It is important for me to go ahead and affirm that I think same-sex couples should be able to get married.
+And I continue to believe that this is an issue that is going to be worked out at the local level, because historically this has not been a federal issue," he said.
+
+But eight months later at his inauguration, the president seemed to take a more expansive view.
+"Our journey is not complete until our gay brothers and sisters are treated like anyone else under the law.
+For if we are truly created equal, then surely the love we commit to one another must be equal as well," Obama said.
+
+That language suggests the president believes in a more basic constitutional right to marry, analogous to the right enunciated in a unanimous 1967 Supreme Court ruling that struck down laws barring interracial marriage.
+In that case, ironically, the federal government took no position in the Supreme Court.
+
+So what will Obama do now that he faces similar questions in a case about sexual orientation, not race?
+
+His administration could make a bold, full-throated defense of the right to marry, an argument that Obama seemed to suggest at his inaugural.
+Or it could argue a number of lesser positions: That California, having extended the right to marry to gay couples for a window of time, could not revoke the right.
+Or that California, like some other states, has a law extending all rights to same-sex couples, except the right to marry, and that such a distinction amounts to discrimination.
+Or it could argue that since the state is not defending the law, the case does not belong in court at all — that the sponsors of the initiative have no legal standing in court.
+
+For the gay community, and for those advocating traditional marriage between a man and a woman, the position the government takes in this case is hugely important — if nothing else, as a symbol.
+Both sides have made formal presentations at the Justice Department urging the administration to take their side.
+But the deadline has already passed for a brief siding with Proposition 8 supporters, leaving only the question of what a brief on the other side will say.
+
+Same-sex marriage advocates are holding their collective breath for now and maintaining a pretty studied public silence, hoping to avoid the impression that the gay community is pressuring the administration.
+
+Still, lawyers who argue regularly before the court are not so sure that the administration's brief, whatever it says, will make a big difference to the justices.
+
+"I'm never going to tell you that the solicitor general's position doesn't matter," says former Bush administration Solicitor General Paul Clement.
+But in this case, he says, "I think it matters less."
+
+Clement was hired by the House Republican leadership to defend the constitutionality of the Defense of Marriage Act, or DOMA, in a case that is paired with the Proposition 8 case in the Supreme Court.
+The reason he thinks the administration's brief in the Proposition 8 case matters less, he says, is "because we already know what their position is on DOMA and one can extrapolate."
+
+In the DOMA case, the Obama administration argues that the federal law is unconstitutional because it bars federal benefits to legally married same-sex couples — benefits that go automatically to legally married heterosexual couples.
+
+Supreme Court advocate Tom Goldstein, founder of SCOTUSblog, makes a different point — that sometimes Supreme Court briefs are aimed at more than one audience.
+He notes that in a truly historic case like this one, "I think part of what's going on ... is a statement about what is morally right and wrong.
+And so I think it could matter to Americans much more than it matters to the Supreme Court."
+
+SUMMARY:
+
+The Obama administration faces a crucial decision on gay marriage as it prepares to file two briefs in same-sex marriage cases at the U.S. Supreme Court. The Proposition 8 case from California poses thorny questions, with the president himself expected to make the final decision on the Justice Department's arguments. The administration could take a bold stance, arguing for a constitutional right to marry, or opt for lesser positions, such as arguing that California's revocation of same-sex marriage rights is unconstitutional. The decision is symbolic, with both sides of the debate urging the administration to take their side. While some lawyers believe the administration's brief may not significantly influence the justices, others argue that it could make a moral statement about what is right and wrong. The president's evolving stance on gay marriage, from supporting state-level decisions to suggesting a more basic constitutional right, adds complexity to the issue.
+
+END OF SUMMARY.
+
+Example 3 (Political Ideology: Right):
+Here is the news article:
+
+President Trump called the Las Vegas attack an "act of pure evil" Monday morning, in a somber address to the American people following the mass shooting now considered the deadliest in modern U.S. history.
+
+The attack left 58 people dead and 515 hospitalized.
+
+The president announced he will visit Las Vegas on Wednesday to meet with law enforcement, first responders and families of victims.
+He also ordered the flag be flown at half-staff at the White House and other federal buildings to honor those who died.
+
+“It was an act of pure evil,” Trump said.
+
+In a unifying, faith-focused speech from the Diplomatic Room at the White House, the president offered his prayers through this “very dark period.”
+
+“To the families of the victims, we are praying for you and we are here for you and we ask God to help see you through this very dark period,” the president said.
+“Scripture teaches us the Lord is close to the broken hearted and saves those who are crushed in spirit.
+We seek comfort in those words for we know that God lives in the hearts of those who grieve.”
+
+The president called upon “the bonds that unite us,” including faith, family and shared values.
+
+“Our unity cannot be shattered by evil.
+Our bonds cannot be broken by violence,” Trump said.
+“In times such as these, I know we are searching for some kind of meaning in the chaos, light in the darkness.
+The answers do not come easy.”
+
+'Our unity cannot be shattered by evil.' — President Donald Trump
+
+He added: “But we can take solace knowing that even the darkest space can be illuminated by a single ray of hope.”
+
+Trump said that he and the first lady “pray for the entire nation.”
+
+“We pray for the day when evil is banished and the innocent are safe from hatred and from fear,” Trump said.
+
+White House Press Secretary Sarah Sanders said Monday that the president has spoken with the Nevada Gov.
+Brian Sandoval, Las Vegas Mayor Carolyn Goodman, and Las Vegas Metropolitan Police Department's Sheriff Joe Lombardo.
+
+The president first addressed the deadly attack early Monday morning on Twitter.
+
+“My warmest condolences and sympathies to the victims and families of the terrible Las Vegas shooting.
+God bless you!” Trump tweeted.
+
+The suspect, who was killed, was identified as 64-year-old Stephen Paddock, a local resident.
+Authorities also said they were “confident” Paddock’s roommate, Marilou Danley, had been located.
+Officials previously described Danley as a person of interest.
+
+Authorities said one on-duty officer was in critical condition and another was wounded in the shooting.
+Two off-duty police officers attending the concert were killed.
+
+“This was obviously well-planned, they waited for a major, open air event, and obtained a room facing it,” retired FBI special agent and former national FBI spokesman John Iannarelli, who drove past the scene of the event just moments before the shooting took place, told Fox News.
+“I can see the flashing blue police lights from my hotel window.”
+
+“They were well-trained,” Iannarelli said, noting the use of automatic weapons.
+“That’s not an easy task.”
+
+Iannarelli also said “it is too early to tell” what the motive was.
+“Is this a lone wolf inspired by others?
+This is exactly the type of attack the U.S. has been fearing would come to our shores.”
+
+Officials did not immediately reveal a motive.
+
+First lady Melania Trump also offered her condolences on Twitter Monday morning.
+
+"My heart and prayers goes out to victims, families & loved ones! #PrayForLasVegas," she tweeted.
+
+SUMMARY: President Trump condemned the Las Vegas attack as an "act of pure evil" that left 58 people dead and 515 hospitalized. In a somber address, he offered prayers and condolences to the victims' families, quoting scripture to emphasize the importance of unity and faith in the face of darkness. Trump emphasized that "our unity cannot be shattered by evil" and that even in the darkest times, hope can illuminate the way. He also announced plans to visit Las Vegas to meet with law enforcement, first responders, and victims' families. The president's speech was a call to national unity and a reminder that evil cannot break the bonds that unite Americans. END OF SUMMARY.
+
+Now, here is the target news article to summarize:
+Here is the news article:
+
+The tragic hanging of two “sodomites” in Iran may seem, in theory, like an obvious cause for U.S. concern and U.S. action. (Sign a petition! Demand human rights!) Yet in practice, those most attentive to LGBT concerns may be the least eager to pick this fight. As Nina Strochlic reported in these pages Sunday, the two men, Abdullah Ghavami Chahzanjiru and Salman Ghanbari Chahzanjiri, were hanged in southern Iran on August 6, possibly for consensual sodomy. Their deaths are part of a wave of executions in Iran, with more than 400 in the first half of 2014 alone, according to the NGO Iran Human Rights. We do not know for certain that they were executed for being gay—one Iranian source says they were, another is vague about their “crimes” but calls them “immoral villains.” If these men were hanged for consensual homosexuality, however, this could be another LGBT headache for the Obama administration, which has been trying to walk a tightrope between LGBT human rights on one end and international politics on the other. Despite Iran’s state anti-Semitism, the recent arrest of U.S. journalists, and the continued oppression of women, the Obama administration has been attempting a rapprochement with the Iranian regime. Fending off Iran hawks in Congress and the D.C. punditocracy, the administration has argued for a policy of constructive engagement, pursuing diplomacy over military action to halt Iran’s nuclear program. The execution of two gay men, while it may not be surprising, certainly doesn’t make that “engagement” any easier. Iran’s cooperation also is seen as essential to managing the chaos in Iraq and the Islamic State. With U.S. airstrikes against the Sunni militants, on-off (now definitely off) support of Iraq’s Shiite (ex-)Prime Minister Nouri al-Maliki, and the possible disintegration of Iraq, this cooperation—or at least not overt opposition—is surely of more strategic importance than the latest human rights abuse. Conservatives who favor a hawkish foreign policy will claim otherwise, of course. In the topsy-turvy world that is international LGBT politics, Iran’s record on homosexuality is more a conservative cause than a liberal one. Just a few weeks ago, the House Foreign Affairs Committee held a hearing on human rights in Iran at which progressives such as Hossein Alizadeh of the International Gay & Lesbian Human Rights Commission testified about Iran’s hideous record of criminalization and persecution. But at that same hearing, some of the most vocal defenses of human rights came from Robert George—the intellectual father of the right-wing “religious liberty” movement and, domestically at least, a zealous opponent of LGBT equality—and Republican Reps. Ileana Ros-Lehtinen, Chris Smith, and Ed Royce, who used Iran’s human rights record as evidence against the Obama administration’s policy of engagement. To be sure, not allowing gays to marry is hardly the same as putting them to death. And Democrats as well as Republicans routinely criticize Iran’s repression of gays and lesbians. But the fact remains that when Iran persecutes gay people, conservatives in the United States suddenly become enamored of gay rights—and bash the Obama administration for not doing enough to defend them. Thus the administration is hit from all sides—at a moment in which it is trying to pursue its dicey diplomatic agenda. The phenomenon of invoking LGBT equality as a justification for American foreign policies, which theorist Jasbir Puar calls “homonationalism,” has been around for several years. (Puar might prefer the term “imperialism.”) Even as conservatives fight LGBT equality at home, Puar says, they champion it overseas—as long as it serves their interests to do so. Moreover, says Puar, Americans frequently impose their own conceptions of sexual and gender identity onto other cultures, stomping out indigenous ways of thinking about sexuality and gender, and perpetuating the myth that sexual diversity is a Western invention. Ironically, by demanding tolerance of “homosexuality,” Americans can inhibit the tolerance of forms of sexuality and gender identity that are long-standing traditions in non-Western culture. For all these reasons, don’t expect the Obama administration, or the LGBT movement, to raise a hue and cry over this latest travesty of justice. As horrifying as this tragedy is, we might only be able to make it worse.
+
+The summary has to be returned after a "SUMMARY:" token and ending with a "END OF SUMMARY." token. The summary should be no longer than 200 words.

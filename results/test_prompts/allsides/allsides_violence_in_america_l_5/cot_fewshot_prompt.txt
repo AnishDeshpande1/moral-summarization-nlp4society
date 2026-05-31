@@ -1,0 +1,210 @@
+You have to summarize the following text preserving the moral framing that the author gave to it.
+
+Please study the following examples of news articles, their moral word extraction, and summaries preserving the moral framing:
+
+Example 1 (Political Ideology: Left):
+Here is the news article:
+
+House Speaker Nancy Pelosi is not upset over Michigan Rep. Rashida Tlaib’s vulgar comment on impeaching President Donald Trump, said just hours after Thursday’s swearing-in ceremony on the House floor.
+
+Asked for her reaction to Tlaib’s “colorful language” ― the new Democratic congresswoman vowed to “impeach that motherfucker,” referring to Trump ― Pelosi said it was a free speech issue.
+
+“I probably have a generational reaction to it, but in any event I’m not in the censorship business,” she told MSNBC’s Joy Reid in a town hall interview set to air in full Friday evening.
+
+“I don’t like that language.
+I wouldn’t use that language,” the House speaker continued, noting that she doesn’t tell her colleagues what to say.
+
+“But I don’t think it’s any worse than what the president has said,” she concluded.
+Trump infamously bragged about grabbing women “by the pussy” in a leaked tape from 2005; since taking office he has referred to certain other nations as “shithole countries” and slung insults at a wide range of political foes.
+
+Pelosi reasoned that while Trump’s comments have the power to “impact people’s lives,” the new congresswoman’s comments do not.
+
+Tlaib, who became one of the first Muslim women in Congress on Thursday, dropped the expletive as she spoke to a crowd of supporters at an event hosted by the progressive group MoveOn.
+
+Talking about her victory, she said: “And when your son looks at you and says, ‘Mama, look, you won.
+Bullies don’t win.’
+And I say, ‘Baby, they don’t.’
+Because we’re gonna go in there, and we’re gonna impeach the motherfucker.”
+
+As she passed the microphone, the crowd erupted into cheers.
+
+Pelosi told Reid that the comment might fire up Trump’s base, but doesn’t actually make much of a difference to actual House business.
+
+Any controversy over Tlaib’s comment concerns the “freedom of speech of an individual member,” not the stance of the Democratic caucus, Pelosi said.
+
+Trump appeared to respond to Tlaib over Twitter Friday morning, writing: “They only want to impeach me because they know they can’t win in 2020, too much success!”
+
+STEP 1:
+* Vulgar
+* Colorful
+* Censorship
+* Worse
+* Infamously
+* Shithole
+* Insults
+* Bullies
+
+SUMMARY:
+House Speaker Nancy Pelosi defended Michigan Rep. Rashida Tlaib's "vulgar" comment on impeaching President Donald Trump, calling it a "free speech" issue. Tlaib vowed to "impeach that motherfucker" in a speech, which Pelosi acknowledged was not language she would use, but noted that Trump's own comments have been "infamously" offensive, including bragging about grabbing women and referring to certain nations as "shithole countries". Pelosi argued that while Trump's comments have the power to "impact people's lives", Tlaib's comments do not. The House Speaker also downplayed the controversy, saying it concerns the "freedom of speech of an individual member", not the stance of the Democratic caucus. Trump responded on Twitter, claiming that Democrats only want to impeach him because they know they can't win in 2020. END OF SUMMARY.
+
+Example 2 (Political Ideology: Center):
+Here is the news article:
+
+SANTA FE, Texas (Reuters) - A teenage boy charged with fatally shooting eight students and two teachers during a gun rampage at a Houston-area high school had been spurned by one of his victims after making aggressive advances, her mother told a newspaper.
+
+Sadie Rodriguez, the mother of Shana Fisher, 16, who was killed in the attack, told the Los Angeles Times that her daughter rejected four months of aggressive advances from Dimitrios Pagourtzis, 17, who is in jail accused of murdering 10 people early on Friday at the high school in Santa Fe.
+
+Fisher finally stood up to him and embarrassed him in class, the newspaper quoted her mother as writing in a private message to the Times.
+
+“A week later he opens fire on everyone he didn’t like,” she said.
+“Shana being the first one.”
+
+Rodriguez could not independently be reached for comment.
+
+If true, it would be the second school shooting in recent months driven by such rejection.
+
+Related Coverage Grief and anguish transcend two faiths' prayers after Texas school shooting
+
+In March, a 17-year-old Maryland high school student used his father’s gun to fatally shoot a female student with whom he had been in a recently ended relationship.
+
+Police said Pagourtzis confessed to Friday’s killings after he was taken into custody, but authorities have offered no motive yet for the massacre, the fourth-deadliest mass shooting at a U.S. public school in modern history.
+
+The Santa Fe Independent School District (ISD) denied accounts from some classmates that Pagourtzis had been bullied, including by a football coach.
+
+“Administration looked into these claims and confirmed that these reports are untrue,” it said on Saturday in a statement.
+
+Classmates at the school, which has some 1,460 students, described Pagourtzis as a quiet loner who played on the football team.
+He wore a black trench coat to school in the Texas heat on Friday and opened fire with a pistol and shotgun.
+
+‘THE AFTERMATH’
+
+In Santa Fe on Sunday, many churches and businesses had signs outside with messages such as “Santa Fe strong” and “Santa Fe ISD we are here for you.”
+
+Mourners hold candles during a vigil in memory of the victims killed in a shooting at Santa Fe High School in League City, Texas, U.S., May 20, 2018.
+
+About 100 people attended an emotional service at the Aldersgate United Methodist Church.
+Service dogs were in a nearby hall to help console grieving victims.
+
+Jared Black, one of the students killed, attended a youth group at the church, and many of its members embraced his mother Pam when the family arrived.
+
+At a mosque in another Houston suburb, mourners crowded around the coffin of 17-year-old Sabika Sheikh, a Pakistani exchange student who died in the rampage.
+
+It was the latest rampage to stoke a long-running national debate over gun ownership, three months after a student-led gun control movement emerged from a mass shooting in Parkland, Florida, which killed 17 teens and educators.
+
+Many of those student activists have taken aim at the pro-gun National Rifle Association.
+
+Speaking on “Fox News Sunday,” NRA President Oliver North said students should not be afraid to attend class, but that his gun-rights advocacy group did not think the solution was to limit the Second Amendment right to bear arms.
+
+“I believe that we can make sure kids are protected without taking away the rights of law-abiding citizens,” North said, calling for metal detectors in schools and more use of the NRA’s offer to schools of free security assessments.
+
+Pagourtzis has provided authorities little information about the shootings, his attorney, Nicholas Poehl, said, adding: “Honestly because of his emotional state, I don’t have a lot on that.”
+
+Texas’ governor, Greg Abbott, a Republican, told reporters that Pagourtzis obtained the firearms from his father, who had likely acquired them legally.
+
+Abbott also said Pagourtzis wanted to commit suicide, citing the suspect’s journals, but lacked the courage to do so.
+
+Pagourtzis’ family said in a statement it was “saddened and dismayed” by the shooting and “as shocked as anyone else” by the events.
+The family said it was cooperating with authorities.
+
+STEP 1:
+* aggressive
+* spurned
+* embarrassed
+* rejected
+* anguish
+* grief
+* bullied
+* untrue
+* strong
+* emotional
+* dismayed
+* shocked
+* courage
+
+SUMMARY:
+A teenage boy, Dimitrios Pagourtzis, 17, has been charged with fatally shooting eight students and two teachers at a Houston-area high school. According to the mother of one of the victims, Shana Fisher, 16, Pagourtzis had made aggressive advances towards her daughter, who rejected him and embarrassed him in class. A week later, he opened fire on everyone he didn't like, with Shana being the first one. The school district denied claims that Pagourtzis was bullied, calling them untrue. The community is now grieving and in anguish, with many churches and businesses showing support with messages like "Santa Fe strong". The shooting has reignited the national debate over gun ownership, with some calling for stricter laws and others, like the NRA, advocating for more security measures in schools. Pagourtzis' family is cooperating with authorities and has expressed dismay and shock over the events. END OF SUMMARY.
+
+Example 3 (Political Ideology: Right):
+Here is the news article:
+
+Supreme Court Justice Ruth Bader Ginsburg faced a growing and bipartisan backlash Wednesday -- including a call from Donald Trump to resign -- as she doubled down on her criticism of the presumptive GOP nominee, calling him a “faker” who is unqualified to be president.
+
+Even political figures and newspaper editorial writers who might agree with the comments swiftly said they were out of line for a high court justice.
+
+And Trump himself lashed out on Twitter, saying:
+
+Justice Ginsburg of the U.S. Supreme Court has embarrassed all by making very dumb political statements about me.
+Her mind is shot - resign!
+
+The liberal icon justice had kicked off the storm with comments to The New York Times published Saturday.
+“I can’t imagine what this place would be — I can’t imagine what the country would be -- with Donald Trump as our president.
+For the country, it could be four years.
+For the court, it could be -- I don’t even want to contemplate that,” she said.
+
+She doubled down late Monday, telling CNN: “He is a faker.”
+
+"He has no consistency about him.
+He says whatever comes into his head at the moment.
+He really has an ego.
+... How has he gotten away with not turning over his tax returns?
+The press seems to be very gentle with him on that," she said.
+
+Trump swiftly responded Tuesday, telling the Times it was “highly inappropriate that a United States Supreme Court judge gets involved in a political campaign.”
+
+“I think it’s a disgrace to the court and I think she should apologize to the court.
+I couldn’t believe it when I saw it,” the presumptive Republican nominee said.
+
+Trump’s criticisms were echoed by Republican congressional leaders.
+Senate Majority Leader Mitch McConnell said Tuesday Ginsburg’s comments were “totally inappropriate.”
+
+"It raises a level of skepticism that the American people have from time to time about just how objective the Supreme Court is, whether they're over there to call the balls and strikes, or weigh in on one side or another," he said.
+
+House Speaker Paul Ryan used similar language at a CNN event Tuesday.
+
+"For someone on the Supreme Court who is going to be calling balls and strikes in the future based upon whatever the next president and Congress does, that strikes me as inherently biased and out of the realm," Ryan said.
+
+Ginsburg’s comments also left Democratic lawmakers squirming.
+
+“We all know that the justices on the Supreme Court have political views.
+I’m not sure we’re well served by them airing them out in the open,” Sen. Chris Murphy, D-Conn., told Politico.
+
+“She may have got out over her skis a little bit and more forthright and political than she should have been.
+It’s very unusual,” Senate Minority Whip Dick Durbin, D-Ill., told the outlet.
+
+Mainstream media outlets also joined in the chorus of criticism.
+
+“However valid her comments may have been, though, and however in keeping with her known political bent, they were still much, much better left unsaid by a member of the Supreme Court,” The Washington Post’s editorial board said Tuesday.
+“Politicization, real or perceived, undermines public faith in the impartiality of the courts.”
+
+The board noted the Code of Conduct for U.S. judges says that a “judge should not ... publicly endorse or oppose a candidate for public office.”
+
+The New York Times also chimed in: “Washington is more than partisan enough without the spectacle of a Supreme Court justice flinging herself into the mosh pit."
+
+Wednesday morning brought some relief for the under-fire justice, with Vermont Sen. Bernie Sanders giving qualified support for her comments.
+While the Democratic presidential candidate declined to comment on whether her comments were appropriate, he said on ABC he agrees Trump is a "total opportunist" and said "the record is quite clear that he lies just a whole lot of the time."
+
+STEP 1:
+* dumb
+* embarrassed
+* inappropriate
+* disgrace
+* skeptical
+* biased
+* forthright
+* unusual
+* politicization
+* impartiality
+* spectacle
+* opportunist
+* lies
+
+SUMMARY:
+Supreme Court Justice Ruth Bader Ginsburg faced a bipartisan backlash for her criticism of Donald Trump, calling him a "faker" who is unqualified to be president. Trump responded, saying Ginsburg's comments were "dumb" and "inappropriate", and that she should "resign" because her mind is "shot". Many politicians and newspaper editorial writers, including Republicans and Democrats, agreed that her comments were out of line for a high court justice, citing concerns about politicization and impartiality. Even those who agreed with her views said she should not have aired them publicly. The criticism was so widespread that it raised questions about the court's impartiality and the politicization of the judiciary. Only Senator Bernie Sanders offered qualified support, calling Trump a "total opportunist" who "lies just a whole lot of the time". END OF SUMMARY.
+
+Now, here is the target news article to summarize:
+Here is the news article:
+
+Yesterday, an arbitrator granted Ray Rice's appeal of his indefinite suspension, making him eligible to play in the National Football League again. Her written decision is a damning indictment of the way the NFL handles domestic violence. The league initially went easy on Rice, then reversed itself after a public outcry on the grounds that he'd misled them. But it turns out they were well-informed all along —they just didn't think pummeling a woman was worthy of serious punishment, and now the arbitrator is making them stick with that original call. They just didn't think pummeling a woman was worthy of serious punishment. Rice, who played for the Baltimore Ravens, assaulted his then-girlfriend Janay Palmer (who is now his wife, Janay Rice), in the elevator of an Atlantic City casino in February 2014. He hit her so hard that she was knocked off her feet and hit her head on the elevator railing, leaving her unconscious. He then attempted to drag her out of the elevator, but dropped her when she was only part of the way out, leaving her legs blocking the elevator doors. Hotel security stopped Rice as he made another failed attempt to pick her up and drag her further. Two different video cameras captured the incident. The first one filmed the assault and its aftermath from inside the elevator. The second captured only the aftermath of the assault, from the hallway. TMZ posted the hallway video several days after the assault. The NFL initially punished Rice by suspending him for two games, and fining him his salary from a third game. After the other video became public in September, however, the NFL revised that punishment, and suspended Rice indefinitely. Rice appealed the suspension, arguing that NFL Commissioner Roger Goodell had abused his discretion by re-punishing him for the same offense. Yesterday's decision granted his appeal, finding that Goodell was fully aware of the facts of the assault at the time he imposed the initial 2-game ban, and was therefore barred from imposing the second, more severe punishment, under the NFL's collective bargaining agreement. It is unfortunate that Rice will now be left with only a light punishment. However, the arbitration decision raises a much more serious concern: namely, that the NFL's defense arguments cast serious doubt on their ability to understand or respond to domestic violence. The NFL's defense arguments cast serious doubt on their ability to understand or respond to domestic violence. The NFL claimed that the indefinite suspension was reasonable because Rice had misled the league about the nature of the assault, leaving them unaware of the gravity of the crime until the new video was released. But that's bullshit, and the arbitrator recognized it as such. The reason Rice wasn't given a more severe punishment in the first place is that the NFL didn't take the assault seriously enough. And the NFL's arguments during the arbitration make it clear that the same attitudes that led to Rice's initial light punishment are still alive and well within the league's management. In the arbitration, the NFL claimed that Rice misled them by saying that he only "slapped" Palmer, and that she had "knocked herself out" on the railing, rather than that he had knocked her out. (The other witnesses to the disciplinary hearing deny that, and Rice claims that he not only used the word "hit," he also demonstrated to the Commissioner how he had swung his fist across his body during the assault, making its force clear.) The reason Rice wasn't given a more severe punishment in the first place is that the NFL didn't take the assault seriously enough. But the fact that the NFL made that argument suggests that they still don't understand domestic assault, or take it seriously enough. The idea that it is somehow morally superior to "slap" one's girlfriend than to "hit" her is bizarre, particularly in a situation in which the alleged "slap" knocked the victim unconscious. Likewise, the suggestion that it would be different if Palmer "knocked herself out" on the railing is absurd. There was never any dispute as to the reason Palmer's head made contact with the railing: the force of the blow delivered by Rice. The theory that Palmer somehow became responsible for the situation in the split second between when Rice's hand hit her head and when her head hit the railing is ridiculous. Moreover, the arbitrator found that the NFL knew about the second video, and had access to it, but did not watch it. NFL security was aware of the video. Ray Rice had a copy of the footage, but Goodell and the other members of the team who made the disciplinary decision never requested that he show it to them. Instead, they chose to rely on Rice's description of the events. So even if it is true that Rice misled them, the NFL had the means to view other evidence, and draw its own conclusions. That it decided not to do so suggests willful blindness to the assault, and a callous disregard for its seriousness. But, most worrying of all, Goodell clearly believed that this was a reasonable approach to domestic violence, as evidence by the fact that he expected the arbitrator to accept the "just a slap, NBD" argument, and to accept his failure to watch the elevator video even though he had access to it. That raises questions about what will happen the next time an NFL player assaults his romantic partner. Will the NFL review all the available evidence, and understand the seriousness of what it shows? Or will it ignore evidence that could be damning, minimize the seriousness of the testimony it receives, and then hope the whole thing goes away? Taken together, these revelations suggest that the NFL still has a lot to learn when it comes to domestic violence.
+
+(1) First, you identify all the single words that are morally framed. Identify this step as "STEP 1:" and report each word in a new line starting with *
+(2) Finally, you write a summary of the news article. Please preserve as many morally framed words as possible in your summary. The summary has to be returned after a "SUMMARY:" token and ending with a "END OF SUMMARY." token. The summary should be no longer than 200 words.

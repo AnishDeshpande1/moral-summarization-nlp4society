@@ -1,0 +1,222 @@
+You have to summarize the following text preserving the moral framing that the author gave to it.
+
+Please study the following examples of news articles, their moral word extraction, and summaries preserving the moral framing:
+
+Example 1 (Political Ideology: Left):
+Here is the news article:
+
+Donald Trump has blocked the former White House counsel Don McGahn from testifying before Congress about the special counsel report on Russian election interference, prompting sharp criticism and even threats of impeachment.
+
+In a legal opinion released on Monday, the justice department said lawmakers on Capitol Hill cannot compel McGahn, who was subpoenaed by the House judiciary committee, to answer their questions under oath.
+
+“The Department of Justice has provided a legal opinion stating that, based on long-standing, bipartisan, and constitutional precedent, the former counsel to the president cannot be forced to give such testimony, and Mr McGahn has been directed to act accordingly,” the White House press secretary, Sarah Sanders, said in a statement.
+
+Trump must turn over financial records to House, judge rules – live
+
+“This action has been taken in order to ensure that future presidents can effectively execute the responsibilities of the office of the presidency.”
+
+McGahn is a central figure in special counsel Robert Mueller’s report, often standing in the way of Trump’s efforts to obstruct justice.
+According to investigators, McGahn threatened to resign when the president ordered him to have Mueller fired.
+
+McGahn was also dispatched by Trump to convince the former attorney general Jeff Sessions not to recuse himself from overseeing the Russia investigation.
+(Sessions did not heed the president’s demands.)
+
+Travelling to a rally in Pennsylvania, Trump was asked why he was asking McGahn to defy a congressional subpoena.
+“Well, as I understand it, they’re doing that for the office of the presidency, for future presidents,” he replied, according to a pool report.
+“I think it’s a very important precedent.
+And the attorneys say that they’re not doing that for me.
+They’re doing it for the office of the president.
+So we’re talking about the future.”
+
+The White House’s intervention was condemned by Jerry Nadler, the Democratic chairman of the judiciary committee.
+“The Mueller report documents a shocking pattern of obstruction of justice,” he said in a statement.
+“The president acted again and again – perhaps criminally – to protect himself from federal law enforcement.
+
+“Don McGahn personally witnessed the most egregious of these acts.
+President Trump knows this.
+He clearly does not want the American people to hear firsthand about his alleged misconduct, and so he has attempted to block Mr McGahn from speaking in public tomorrow.”
+
+The move is the latest example of the Trump administration’s “disdain for the law”, added Nadler, who said the committee will meet as planned on Tuesday morning and still expects McGahn to appear.
+
+Another Democratic member of the committee, David Cicilline, went further in his criticism, suggesting that impeachment of Trump would be warranted if McGahn did not respond to the subpoena.
+
+“Let me be clear: if Don McGahn doesn’t testify, it is time to open an impeachment inquiry,” he told the MSNBC network.
+“The president has engaged in an ongoing effort to impede our ability find the truth, to collect evidence, to do our work … No one is above the law, including the president of the United States.”
+
+Cicilline admitted he did not know if his view was shared by other members of Democratic leadership but added: “We may well be forced into a position to have to open a formal inquiry in order to facilitate the collection of the evidence that we need to see.”
+
+The justice department’s legal opinion does not prevent McGahn testifying if he so chooses, although it would be potentially at risk to his own career.
+Trump has mused about instructing Republicans to cease dealing with his law firm, Jones Day, the Associated Press reported.
+
+William Barr is acting like Trump's henchman
+
+Matthew Miller, former director of the office of public affairs for the justice department, tweeted: “Just show up and testify, McGahn.
+This isn’t about some garden-variety Congressional-executive branch dispute, but as one of your predecessors described it, a cancer on the presidency.
+Think about your place in history.”
+
+McGahn was subpoenaed by Nadler last month and, under instruction by the White House, failed to meet an initial deadline to appear before the committee.
+Nadler threatened to hold McGahn in contempt of Congress if he did not meet a second deadline of 21 May.
+
+McGahn, who left the White House last year, has increasingly become the subject of Trump’s ire following the release of the redacted Mueller report.
+Last week, the president tweeted he was “never a big fan” of McGahn and suggested it was the former White House counsel, and not Mueller, who was on his chopping block at the time of the investigation.
+
+The Trump administration has repeatedly blocked attempts at oversight by the Democratic-controlled House.
+Last month it instructed the former personnel security director Carl Kline not to testify at a hearing into alleged lapses in White House security clearance procedures.
+Last week the treasury secretary, Steven Mnuchin, refused to comply with a congressional subpoena to hand over Trump’s tax returns.
+
+Nadler’s committee has previously voted to hold the attorney general, William Barr, in contempt for refusing to provide the unredacted Mueller report and underlying evidence to Congress.
+
+STEP 1:
+* obstruction
+* justice
+* criminal
+* misconduct
+* disdain
+* law
+* truth
+* impede
+* above
+* cancer
+* contempt
+
+SUMMARY:
+Donald Trump has blocked former White House counsel Don McGahn from testifying before Congress about the special counsel report on Russian election interference, sparking sharp criticism and even threats of impeachment. The move is the latest example of the Trump administration's "disdain for the law" and an attempt to "impede" the collection of evidence. McGahn is a central figure in the report, having threatened to resign when Trump ordered him to have Mueller fired. Democrats condemned the move, with Jerry Nadler saying it's part of a "shocking pattern of obstruction of justice" and David Cicilline suggesting that impeachment would be warranted if McGahn didn't respond to the subpoena. The Trump administration has repeatedly blocked attempts at oversight, showing a blatant disregard for the "law" and the "truth". END OF SUMMARY.
+
+Example 2 (Political Ideology: Center):
+Here is the news article:
+
+Sondland said he communicated to a leading Ukrainian official that “the resumption of U.S. aid would likely not occur until Ukraine took some kind of action on the public statement that we had been discussing for many weeks.” He testified that he told Vice President Mike Pence that he believed the aid was being held up pending investigations, and Pence just nodded.
+(Pence’s chief of staff denied this.)
+Sondland didn’t substantially dispute the closed-door testimony of David Holmes, a senior U.S. Embassy official in Ukraine, who said he overheard a call to Trump that Sondland made on his cellphone.
+According to Holmes, on the call, made the day after the July 25 phone call in which Trump asked Zelensky for a “favor,” Trump asked Sondland if the Ukrainians were in fact going to pursue investigations.
+Sondland replied that they’d do whatever the president wanted.
+
+After the call, Holmes testified, Sondland told him that Trump “did not give a [expletive] about Ukraine,” and cared only about what Sondland called “big stuff” that benefits the president.
+About that call, Sondland testified, “I would have been more surprised if President Trump had not mentioned investigations, particularly given what we were hearing from Mr. Giuliani.”
+
+Further, Sondland testified that Trump didn’t necessarily care about investigations per se, only the public announcement of investigations.
+Zelensky “had to announce the investigations, he didn’t actually have to do them,” he said.
+The public announcement, of course, would be sufficient to give Trump material to defame Biden and muddy the waters about Russia’s help in getting Trump elected in the first place.
+
+Speaking of Russia’s role in 2016: A few Republicans have tried to massage Trump’s claims of Ukrainian election interference to make them sound marginally less insane.
+At Wednesday’s hearing, Nunes accused Ukraine of meddling in America’s election largely through public statements by Ukrainian officials.
+Among these statements was a 2016 op-ed essay by Valeriy Chaly, then the Ukrainian ambassador to the United States, objecting to Trump’s statement that as president he’d consider recognizing Russian-occupied Crimea as Russian, rather than Ukrainian, territory.
+
+Leave aside that there is nothing illicit about public officials expressing their opinions about matters of urgent concern to their own countries.
+Sondland’s testimony made it plain that such public comments are not what Trump had in mind in calling for investigations into what Ukraine did in 2016.
+Trump wanted an inquiry into the conspiracy theory that Ukraine, not Russia, hacked the D.N.C., which is why Sondland repeatedly spoke about proposed investigations involving the “D.N.C.
+server.” He wanted Ukraine’s help exonerating Russia for its attack on America.
+
+Sondland is not a wholly reliable witness; his insistence that he was ignorant of the connection between Burisma and the Bidens when he pressed Ukraine for investigations is hardly credible.
+(Volker made the same preposterous claim on Tuesday — both men were likely trying to distance themselves from one of the ugliest aspects of Trump’s shakedown.)
+Republicans will likely cling to the fact that Sondland said he never heard directly from Trump about a linkage between security aid to Ukraine and investigations; Sondland said he put it together because, as he repeated several times, “two plus two equals four.”
+
+STEP 1:
+* ugly
+* insane
+* illicit
+* preposterous
+* shakedown
+
+SUMMARY:
+Ambassador Sondland testified that he communicated to a Ukrainian official that the resumption of U.S. aid was contingent upon Ukraine taking action on a public statement, which was likely a precursor to investigations. Sondland also testified that Trump didn't care about the actual investigations, but rather the public announcement of them, which would give him material to defame Biden and muddy the waters about Russia's help in getting Trump elected. This is a clear example of a "shakedown" where Trump is using his power to coerce Ukraine into doing his bidding. Sondland's testimony also revealed that Trump's claims of Ukrainian election interference are "insane" and that his goal was to get Ukraine's help in exonerating Russia for its attack on America. The Republicans' attempts to massage Trump's claims are a weak attempt to justify his "ugly" actions. END OF SUMMARY.
+
+Example 3 (Political Ideology: Right):
+Here is the news article:
+
+President Obama has been caught in a web of deception that threatens to ensnarl his re-election bid.
+Multiple emails and diplomatic cables reveal that the administration deliberately deceived the public.
+Libyagate haunts Mr. Obama, relentlessly eroding his credibility and trustworthiness.
+It is a stake aimed at the heart of his presidency.
+
+For nearly two weeks, the Obama team claimed the attack on the U.S. compound in Benghazi resulted from “spontaneous protests” in response to an anti-Muslim video.
+That was false — and Mr. Obama knew it.
+Several senior State Department officials testified at congressional hearings that there were no protests on Sept. 11, 2012.
+In fact, our diplomatic mission had been quiet all day.
+Moreover, the State Department was monitoring the compound practically in real time.
+On video, State Department officials witnessed scores of armed men breach the consulate and begin shooting at our diplomats.
+The officials’ obvious conclusion: It was a terrorist assault.
+Within 24 hours, the CIA’s station chief in Libya also reported jihadists had perpetrated the attack.
+
+The latest evidence, however, is a bombshell: Two hours after the assault began, the State Department sent an email to numerous agencies — including the White House Situation Room — that Ansar al-Sharia, a terrorist group affiliated with al Qaeda, had claimed responsibility.
+The email went directly to the White House’s Executive Office — the president’s inner circle.
+In other words, from nearly the beginning, Mr. Obama knew the Benghazi attack was a terrorist atrocity.
+Yet he insisted on blaming a phantom protest and an obscure YouTube video.
+He misled the public in a desperate attempt to cover up his administration’s colossal failure.
+
+Why?
+The answer is cynical politics.
+One of Mr. Obama’s central campaign narratives is that he killed Osama bin Laden and badly degraded al Qaeda.
+The Benghazi attack, however, directly contradicts the administration’s position.
+Rather than being in retreat, al Qaeda is on the rise.
+Pakistan, Afghanistan, Yemen, Somalia, Mali, Iraq and Libya — the Islamic fascist network has been expanding its safe havens and jihadist activity in every one of these nations.
+
+In particular, Libya has been transformed into a failed Islamist state.
+Contrary to media spin, Mr. Obama’s military intervention in Libya has been a disaster.
+Jihadists roam the countryside, targeting minorities and seeking to impose Shariah law.
+More than 20,000 weapons formerly controlled by late strongman Moammar Gadhafi were stolen by al Qaeda militants.
+The country’s eastern provinces are nearly in open revolt, fueled by a Muslim insurgency.
+In fact, the Benghazi attack occurred for one primary reason: Mr. Obama’s war has made Libya safe for radical Islam.
+Hence, the president feared that the truth about his Libyan intervention would come out.
+The result is that Ambassador J. Christopher Stevens was murdered, along with three other U.S. diplomatic personnel.
+Mr. Obama has American blood on his hands.
+
+The Sept. 11, 2012, terror plot was not the first one.
+The administration engaged in willful blindness to the Islamist reality in Benghazi.
+Our consulate had been attacked in April and June.
+Britain withdrew its diplomatic mission because of the surging violence.
+The Red Cross shut down its operations as well.
+Moreover, American officials repeatedly asked for enhanced security at the compound.
+The requests were denied.
+In his diary and several cables, Stevens complained about the growing jihadist violence that threatened his staff — to no avail.
+They were sacrificed on the altar of Mr. Obama’s multilateral interventionism and political ambitions.
+
+The real tragedy is that perhaps the dead Americans could have been saved.
+The attack lasted more than six hours.
+A U.S. drone was directly over the compound, conducting surveillance.
+American fighter jets and AC-130 gunships were less than 450 miles away.
+A massive, rapid response should have been ordered to defend the consulate.
+Instead, Mr. Obama did nothing.
+The reason: He did not want to violate Libyan “sovereignty” without the permission of the government in Tripoli.
+He abandoned our personnel to be butchered — like sheep — by rampaging Islamists.
+
+The Benghazi atrocity was not simply an assault on Americans.
+It was an act of war against America itself.
+Embassies and consulates are sovereign territory — or at least, they’re supposed to be.
+When jihadists breached our compound, it was the equivalent of storming a government building in Washington, Boston or New York.
+They were invading American soil, shedding American blood on behalf of a holy war against the West.
+Mr. Obama knew it was terrorism, but he refused to order a military response.
+He systematically perpetrated a cover-up and a manipulation campaign.
+For this alone, he deserves to be defeated in November.
+He is unfit to be our president.
+
+STEP 1:
+* Deception
+* False
+* Terrorist
+* Atrocity
+* Cynical
+* Failed
+* Disaster
+* Jihadist
+* Fascist
+* Murdered
+* Blood
+* Willful
+* Blindness
+* Sacrificed
+* Abandoned
+* Butchered
+* Atrocity
+* Unfit
+
+SUMMARY:
+President Obama's administration has been caught in a web of deception, deliberately misleading the public about the Benghazi attack. Despite knowing the truth, Obama insisted on blaming a phantom protest and an obscure YouTube video, covering up his administration's colossal failure. The attack was a terrorist atrocity, and Obama's cynical politics led to the murder of four Americans, including Ambassador J. Christopher Stevens. The president's war in Libya has made the country safe for radical Islam, and his willful blindness to the Islamist reality in Benghazi led to the tragic event. Obama's refusal to order a military response and his subsequent cover-up make him unfit to be president. The Benghazi atrocity was an act of war against America itself, and Obama's deception and failure to act have American blood on his hands. END OF SUMMARY.
+
+Now, here is the target news article to summarize:
+Here is the news article:
+
+The U.S. House launched the first public hearing Wednesday of Donald Trump’s impeachment investigation, the extraordinary process to determine whether the 45th president of the United States should be removed from office. Rep. Adam Schiff, the Democratic chairman of the House Intelligence Committee, immediately outlined the question at the core of the impeachment inquiry — whether the president used his office to pressure Ukraine officials for personal political gain. “The matter is as simple and as terrible as that,” Schiff said. “Our answer to these questions will affect not only the future of this presidency but the future of the presidency itself, and what kind of conduct or misconduct the American people may come to expect from their commander in chief.” It was a remarkable moment, even for a White House full of them. The hearing is the first chance for America, and the rest of the world, to see and hear for themselves about Trump's actions toward Ukraine and consider whether they are, in fact, impeachable offenses. The proceedings were being broadcast live, and on social media, from a packed hearing room on Capitol Hill. The country has been here only three times before, and never against the 21st century backdrop of real-time commentary, including from the Republican president himself. Testifying will be two seasoned diplomats, William Taylor, the graying former infantry officer now charge d'affaires in Ukraine, and George Kent, the deputy assistant secretary in Washington, telling the striking, if sometimes complicated story of a president allegedly using foreign policy for personal and political gain ahead of the 2020 election. So far, the narrative is splitting Americans, mostly along the same lines as Trump's unusual presidency. The Constitution sets a dramatic but vague bar for impeachment, and there's no consensus yet that Trump's actions at the heart of the inquiry meet the threshold of "high crimes and misdemeanors." Trump calls the whole thing a "witch hunt," a retort that echoes Nixon's own defense. “READ THE TRANSCRIPT,” he tweeted Wednesday. At its core, the inquiry stems from Trump’s July 25 phone call with Ukraine's newly elected president, Volodymyr Zelenskiy when he asked the Zelenskiy for “a favor.” Trump wanted the Ukraine government to investigate Democrats in the 2016 election and his potential 2020 rival, Joe Biden, all while holding as leverage military aid the young democracy relies on as it confronts an aggressive Russia. An anonymous whistleblower first alerted officials to concerns about the phone call. The White House released a rough transcript of the conversation, with portions deleted. Democratic House Speaker Nancy Pelosi was initially reluctant to launch a formal impeachment inquiry. But she pressed ahead in September after the whistleblower’s complaint. The White House has instructed administration officials not to testify in the inquiry. But over the past month, witness after witness has appeared behind closed doors to tell the investigators what they know. Most received subpoenas to appear, and both Taylor and Kent had fresh subpoenas Wednesday. Trump lashed out at the witnesses, tweeting they were “NEVER TRUMPERS,” but the two are career diplomats working for both Republican and Democratic administrations. There’s no evidence they engaged in partisan activity opposing Trump. Whether Wednesday's proceedings begin to end a presidency or help secure Trump's position, it was certain his chaotic term had finally arrived at a place he could not control and a force, the constitutional system of checks and balances, that he could not ignore. Unlike the Watergate hearings and Richard Nixon, there is not yet a "cancer-on-the-presidency" moment galvanizing public opinion. Nor is there the national shrug, as happened when Bill Clinton's impeachment ultimately didn't result in his removal from office. It's perhaps most like the partisanship-infused impeachment of Andrew Johnson after the Civil War.
+
+(1) First, you identify all the single words that are morally framed. Identify this step as "STEP 1:" and report each word in a new line starting with *
+(2) Finally, you write a summary of the news article. Please preserve as many morally framed words as possible in your summary. The summary has to be returned after a "SUMMARY:" token and ending with a "END OF SUMMARY." token. The summary should be no longer than 200 words.

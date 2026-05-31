@@ -1,0 +1,179 @@
+You have to summarize the following text preserving the moral framing that the author gave to it.
+
+Please study the following examples of news articles and their summaries preserving the moral framing:
+
+Example 1 (Political Ideology: Left):
+Here is the news article:
+
+A year after the police shooting of Michael Brown set off a wave of protests in Ferguson, Missouri, the Black Lives Matter movement that rose to prominence in the aftermath is winning.
+Americans are paying more attention to systemic racism in the criminal justice system.
+Democratic presidential candidates have had public appearances derailed when they fail to take a convincing stance on the issue.
+And cops have been charged and indicted for high-profile killings.
+
+The movement hasn't definitively won.
+Black people are still dying at alarming rates at the hands of police, and several recent police shootings — such as the killing of Samuel DuBose in Cincinnati — were horrifying and unnecessary.
+
+But recent surveys show the shift.
+A June survey of 2,000 US adults from Gallup found that all Americans are more likely to say that black people are unfairly treated in all aspects of society, including police encounters.
+And a July survey of 2,000 US adults from the Pew Research Center found a 20-year high in the percentage of Americans calling racism a "big problem" in society.
+
+The media is also paying more attention.
+Both the Washington Post and the Guardian now track police shootings in databases that make up for the lack of credible federal data.
+
+Part of this reflects a rise in public interest, which the media is responsive to: Ferguson was the biggest news story for Americans on Twitter in 2014 — surpassing the Russian invasion of Crimea, Ebola, and the 2014 election.
+And there has been more interest in police shootings, according to Google searches, since late 2014:
+
+Beyond public interest, perhaps the most compelling evidence that police shootings are taken more seriously is that prosecutors — who ultimately have the power to criminally charge police accused of wrongdoing — are taking the issue more seriously.
+After a white police officer fatally shot DuBose, a black man, during a traffic stop in Cincinnati, Hamilton County Prosecutor Eric Deters — a Republican — called the shooting "unwarranted" and "senseless," stating that it was "the most asinine act I've ever seen a police officer make."
+And Deters was hardly the only prosecutor to come out against a police shooting in the past year, with prosecutors filing charges against the officers who killed Walter Scott in North Charleston, South Carolina; Eric Harris in Tulsa, Oklahoma; and Freddie Gray in Baltimore.
+
+Lawmakers, too, are pushing to hold police accountable.
+President Barack Obama and Democratic presidential candidate Hillary Clinton have both called for police to wear body cameras that would record police officers on the job.
+The Obama administration has said that the federal government needs to do a better job tracking police killings.
+And Clinton dedicated her first 2016 campaign speech to criminal justice issues, including policing.
+
+Again, none of this is to say that the battle is over and Black Lives Matter has achieved its overall mission of "redressing the systemic pattern of anti-black law enforcement violence in the US."
+Republicans and white Americans are still far more skeptical about the threat of racism in US society, according to Gallup and Pew surveys.
+And Republican presidential candidates — with the exception of Sen. Rand Paul (KY) — have largely avoided any criminal justice issues, including policing.
+
+But the trend is apparent: Black Lives Matter is winning.
+The notoriously slow American political system may take a while to reflect that, but it's really happening.
+
+SUMMARY:
+
+The Black Lives Matter movement has made significant progress in the past year, with Americans becoming more aware of systemic racism in the criminal justice system. Surveys show a shift in public opinion, with more people recognizing unfair treatment of black people in all aspects of society, including police encounters. The media is also paying more attention, with databases tracking police shootings and increased coverage of the issue. Prosecutors are taking police shootings more seriously, filing charges against officers accused of wrongdoing. Lawmakers, including President Obama and Hillary Clinton, are pushing for police accountability measures such as body cameras and better tracking of police killings. While there is still work to be done, the trend is clear: Black Lives Matter is winning. The movement's efforts have led to a growing recognition of the problem and a desire for change.
+
+END OF SUMMARY.
+
+Example 2 (Political Ideology: Center):
+Here is the news article:
+
+Report Sees Guns as Path to Safety in Schools
+
+WASHINGTON — With the Senate set to debate gun control this month, a National Rifle Association task force released a 225-page report on Tuesday that called for armed police officers, security guards or staff members in every American school, and urged states to loosen gun restrictions to allow trained teachers and administrators to carry weapons.
+
+Asa Hutchinson, a former Republican congressman from Arkansas who led the task force, unveiled the report at a packed news conference with unusually heavy security, including a bomb-sniffing yellow Labrador retriever.
+A dozen officers in plain clothes and uniforms stood watch as he spoke; one warned photographers to “remain stationary” during the event.
+
+Among the study’s central conclusions is that “the presence of armed security personnel adds a layer of security and diminishes response time” in a shooting, Mr. Hutchinson said.
+He cited a 1997 Mississippi case in which an assistant principal ran to his truck to retrieve a .45-caliber semiautomatic pistol and subdued a gunman who had killed two students.
+
+The recommendations — which also included expanding the police presence in schools — drew immediate criticism from gun control advocates and many Democrats, who have been fighting to tighten gun restrictions after the massacre at Sandy Hook Elementary School in Newtown, Conn., in December.
+
+“Arming the teacher is merely a response to the last tragedy,” said Representative Mike Thompson, a California Democrat who is chairman of a House task force on gun violence.
+“The one before that was in a shopping mall in Oregon, and the one before that was in a movie theater in Colorado.
+I don’t think the proper response is to arm all the projectionists in the movie theaters or all the vendors in the mall.”
+
+After the Newtown shooting, Wayne LaPierre, the rifle association’s executive director, announced that it would devise a plan to put armed guards in every school.
+Technically, Mr. Hutchison’s task force is independent of the rifle association, even though it paid for the study, and Mr. LaPierre was not present on Tuesday.
+But critics see no distinction between the two.
+
+Marian Wright Edelman, president of the Children’s Defense Fund, an advocacy group here, criticized the study as “nothing more than a continuation of the N.R.A.’s attempts to prey on America’s fears, saturate our schools with more guns and turn them into armed fortresses.”
+
+But the report did get support from at least one Newtown parent: Mark Mattioli, whose 6-year-old son, James, was killed.
+
+“I think politics needs to be set aside here, and I hope this doesn’t lead to name-calling,” said Mr. Mattioli, who joined Mr. Hutchinson at the news conference.
+“This is a recommendation for solutions, real solutions that will make our kids safer.
+That’s what we need.”
+
+At least one state, Indiana, is considering the idea of armed officers at schools.
+On Tuesday, a proposal that would require public and charter schools to have an armed “protection officer” on school property during class hours passed a State House committee.
+
+The task force panel called on the Departments of Homeland Security, Education and Justice to coordinate school safety efforts and provide grant money for schools to assess their ability to prevent and respond to attacks.
+It recommended that officers or employees who are armed take a 40- to 60-hour training course to be developed by the rifle association based on a model the task force has designed.
+
+The group also called on states to require schools to develop security plans.
+
+But how and whether the task force recommendations will be put into effect — and the cost — was unclear.
+
+The timing of Tuesday’s announcement was not a coincidence: Congress will wrap up its spring recess after this week and is expected to consider gun legislation after lawmakers return.
+President Obama has called for tough new controls on gun ownership, but the prospects for such legislation are murky — a testimony to the rifle association’s prowess as a lobbying force.
+
+A plan to revive and revamp a ban on assault weapons, which expired in 2004, is almost certain to be defeated.
+Mr. Obama is pushing for a measure that would impose mandatory background checks for gun buyers, and the Senator Harry Reid, Democrat of Nevada, the majority leader, has promised to present a bill that would expand background checks to the floor for a vote.
+
+SUMMARY:
+
+A National Rifle Association (NRA) task force has released a report recommending that armed police officers, security guards, or staff members be present in every American school to ensure safety. The report also suggests that states loosen gun restrictions to allow trained teachers and administrators to carry weapons. Critics argue that this approach is misguided and would lead to more guns in schools, rather than addressing the root causes of gun violence. The report's recommendations have been met with opposition from gun control advocates and Democrats, who believe that tightening gun restrictions is the more effective way to prevent tragedies like the Sandy Hook massacre. The NRA's proposal has been criticized as an attempt to exploit fear and promote a culture of gun proliferation. However, some, like Mark Mattioli, a Newtown parent who lost his son in the tragedy, support the report's recommendations as a necessary step towards making schools safer. END OF SUMMARY.
+
+Example 3 (Political Ideology: Right):
+Here is the news article:
+
+President Obama has been caught in a web of deception that threatens to ensnarl his re-election bid.
+Multiple emails and diplomatic cables reveal that the administration deliberately deceived the public.
+Libyagate haunts Mr. Obama, relentlessly eroding his credibility and trustworthiness.
+It is a stake aimed at the heart of his presidency.
+
+For nearly two weeks, the Obama team claimed the attack on the U.S. compound in Benghazi resulted from “spontaneous protests” in response to an anti-Muslim video.
+That was false — and Mr. Obama knew it.
+Several senior State Department officials testified at congressional hearings that there were no protests on Sept. 11, 2012.
+In fact, our diplomatic mission had been quiet all day.
+Moreover, the State Department was monitoring the compound practically in real time.
+On video, State Department officials witnessed scores of armed men breach the consulate and begin shooting at our diplomats.
+The officials’ obvious conclusion: It was a terrorist assault.
+Within 24 hours, the CIA’s station chief in Libya also reported jihadists had perpetrated the attack.
+
+The latest evidence, however, is a bombshell: Two hours after the assault began, the State Department sent an email to numerous agencies — including the White House Situation Room — that Ansar al-Sharia, a terrorist group affiliated with al Qaeda, had claimed responsibility.
+The email went directly to the White House’s Executive Office — the president’s inner circle.
+In other words, from nearly the beginning, Mr. Obama knew the Benghazi attack was a terrorist atrocity.
+Yet he insisted on blaming a phantom protest and an obscure YouTube video.
+He misled the public in a desperate attempt to cover up his administration’s colossal failure.
+
+Why?
+The answer is cynical politics.
+One of Mr. Obama’s central campaign narratives is that he killed Osama bin Laden and badly degraded al Qaeda.
+The Benghazi attack, however, directly contradicts the administration’s position.
+Rather than being in retreat, al Qaeda is on the rise.
+Pakistan, Afghanistan, Yemen, Somalia, Mali, Iraq and Libya — the Islamic fascist network has been expanding its safe havens and jihadist activity in every one of these nations.
+
+In particular, Libya has been transformed into a failed Islamist state.
+Contrary to media spin, Mr. Obama’s military intervention in Libya has been a disaster.
+Jihadists roam the countryside, targeting minorities and seeking to impose Shariah law.
+More than 20,000 weapons formerly controlled by late strongman Moammar Gadhafi were stolen by al Qaeda militants.
+The country’s eastern provinces are nearly in open revolt, fueled by a Muslim insurgency.
+In fact, the Benghazi attack occurred for one primary reason: Mr. Obama’s war has made Libya safe for radical Islam.
+Hence, the president feared that the truth about his Libyan intervention would come out.
+The result is that Ambassador J. Christopher Stevens was murdered, along with three other U.S. diplomatic personnel.
+Mr. Obama has American blood on his hands.
+
+The Sept. 11, 2012, terror plot was not the first one.
+The administration engaged in willful blindness to the Islamist reality in Benghazi.
+Our consulate had been attacked in April and June.
+Britain withdrew its diplomatic mission because of the surging violence.
+The Red Cross shut down its operations as well.
+Moreover, American officials repeatedly asked for enhanced security at the compound.
+The requests were denied.
+In his diary and several cables, Stevens complained about the growing jihadist violence that threatened his staff — to no avail.
+They were sacrificed on the altar of Mr. Obama’s multilateral interventionism and political ambitions.
+
+The real tragedy is that perhaps the dead Americans could have been saved.
+The attack lasted more than six hours.
+A U.S. drone was directly over the compound, conducting surveillance.
+American fighter jets and AC-130 gunships were less than 450 miles away.
+A massive, rapid response should have been ordered to defend the consulate.
+Instead, Mr. Obama did nothing.
+The reason: He did not want to violate Libyan “sovereignty” without the permission of the government in Tripoli.
+He abandoned our personnel to be butchered — like sheep — by rampaging Islamists.
+
+The Benghazi atrocity was not simply an assault on Americans.
+It was an act of war against America itself.
+Embassies and consulates are sovereign territory — or at least, they’re supposed to be.
+When jihadists breached our compound, it was the equivalent of storming a government building in Washington, Boston or New York.
+They were invading American soil, shedding American blood on behalf of a holy war against the West.
+Mr. Obama knew it was terrorism, but he refused to order a military response.
+He systematically perpetrated a cover-up and a manipulation campaign.
+For this alone, he deserves to be defeated in November.
+He is unfit to be our president.
+
+SUMMARY:
+
+President Obama's administration has been caught in a web of deception regarding the Benghazi attack, deliberately misleading the public about the true nature of the incident. Despite knowing that the attack was a terrorist assault, Obama insisted on blaming a spontaneous protest and an anti-Muslim video. This deception was motivated by cynical politics, as the truth would have contradicted his campaign narrative that al Qaeda was in retreat. In reality, al Qaeda has been expanding its safe havens and jihadist activity in several countries, including Libya, which has become a failed Islamist state. The Benghazi attack was a direct result of Obama's military intervention in Libya, which has made the country safe for radical Islam. The administration's willful blindness to the Islamist reality in Benghazi led to the murder of Ambassador Stevens and three other U.S. diplomatic personnel. Obama's refusal to order a military response and subsequent cover-up make him unfit to be president.
+
+END OF SUMMARY.
+
+Now, here is the target news article to summarize:
+Here is the news article:
+
+One man was shot and killed when police and the National Guard opened fire in Louisville following a violent confrontation between a group gathered in a parking lot and law enforcement trying to disperse the crowd, authorities said early Monday. Gov. Andy Beshear said in a statement Monday morning he had authorized the Kentucky State Police to independently investigate the fatal shooting “given the seriousness of the situation.” Metro Police Chief Steve Conrad said that after another night of destructive protests over the fatal police shooting of Breonna Taylor in Louisville and the death of George Floyd in Minnesota, the Kentucky National Guard and Louisville police were dispatched to the parking lot at Dino’s Food Mart around 12:15 a.m., where a large crowd had gathered. But as the agencies began trying to disperse them, someone in the crowd fired at the officers and soldiers, Conrad said. Both the National Guard and Louisville police returned fire, he said, killing one man at the scene. Conrad did not identify him. “Our officers are working very hard to keep people safe and protect property,” Conrad said in an early-morning news briefing. “While doing that, we’ve had officers shot at and assaulted. I think it’s very, very clear that many people do not trust the police. That is an issue we’re going to have to work on and work through for a long time.” Conrad said that police are interviewing several people and are collecting video footage of the shooting, which he pledged to release to the public soon. The chief did not address whether the crowd was in any way related to the protests, which were centered about two miles away in downtown Louisville. The fatal shooting is likely to further inflame tensions in Louisville, where protesters have been demanding justice in the death of the unarmed 26-year-old Taylor, an African American EMT, on March 13. Taylor was asleep in her apartment when officers broke down her door in the middle of the night to serve a warrant, alarming her boyfriend who fired at police, believing they were armed intruders. Taylor died when police returned fire.
+
+The summary has to be returned after a "SUMMARY:" token and ending with a "END OF SUMMARY." token. The summary should be no longer than 200 words.

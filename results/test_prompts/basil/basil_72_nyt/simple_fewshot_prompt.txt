@@ -1,0 +1,133 @@
+You have to summarize the following text preserving the moral framing that the author gave to it.
+
+Please study the following examples of news articles and their summaries preserving the moral framing:
+
+Example 1 (Political Ideology: Left):
+Here is the news article:
+
+WASHINGTON – Five hundred and eighty-four days after descending his Trump Tower escalator to announce his candidacy, Donald J. Trump took the oath of office Friday to become the 45th president of the United States.
+
+Chief Justice John Roberts administered the 38-word oath at 12:00 p.m., capping Trump’s unlikely journey from New York City real estate developer and reality TV star to the nation’s highest office.
+
+Trump won the Republican nomination against a crowded field of 16 other candidates, many far more experienced in politics.
+But he was able to capitalize on a primary voting base that was angry at the establishment GOP for not more aggressively fighting President Barack Obama’s policies.
+
+He trailed Democratic nominee Hillary Clinton in the general election nearly the entire way.
+In the final month of the race, he was helped by the near daily release of internal Democratic Party emails stolen by Russian hackers as well as by FBI Director James Comey’s decision to reopen, briefly, the probe into Clinton’s use of a private email server.
+
+Trump wound up winning Wisconsin, Michigan and Pennsylvania by a total of 78,000 votes.
+Clinton had counted on winning all three.
+
+SUMMARY:
+
+Donald Trump, a real estate developer and reality TV star, took the oath of office to become the 45th President of the United States, marking the culmination of his unlikely journey. Trump's victory was fueled by the anger of primary voters towards the establishment GOP, which they felt did not adequately oppose President Obama's policies. Despite trailing Democratic nominee Hillary Clinton in the general election, Trump benefited from the release of stolen Democratic Party emails and FBI Director James Comey's decision to reopen the probe into Clinton's email server. Trump ultimately won the presidency by a narrow margin of 78,000 votes in Wisconsin, Michigan, and Pennsylvania, states Clinton had expected to win.
+
+The moral framing of this article suggests that Trump's victory was, in part, a result of exploiting the anger and frustration of voters towards the political establishment, and that his campaign was aided by external factors such as the release of stolen emails and the actions of the FBI director. This framing implies that Trump's presidency was not solely the result of his own merits, but rather the outcome of a complex interplay of factors.
+
+END OF SUMMARY.
+
+Example 2 (Political Ideology: Center):
+Here is the news article:
+
+Donald J. Trump on Tuesday assailed Justice Ruth Bader Ginsburg of the Supreme Court for speaking out on the presidential race, calling her disdainful remarks about his candidacy “highly inappropriate” and suggesting that she owed other justices an apology.
+
+Mr. Trump’s remarks came in a telephone interview with The Times two days after Justice Ginsburg was quoted as saying she was frightened about what the nation would look like if he were elected.
+
+“I can’t imagine what this place would be — I can’t imagine what the country would be — with Donald Trump as our president,” Justice Ginsburg told The Times in an interview published Sunday.
+“For the country, it could be four years.
+For the court, it could be — I don’t even want to contemplate that.”
+She even joked ruefully about moving to New Zealand.
+
+Mr. Trump, the presumptive Republican nominee, said he found those remarks unbefitting a member of the high court.
+
+“I think it’s highly inappropriate that a United States Supreme Court judge gets involved in a political campaign, frankly,” Mr. Trump said.
+“I think it’s a disgrace to the court and I think she should apologize to the court.
+I couldn’t believe it when I saw it.”
+
+He continued: “That she should be saying that?
+It’s so beneath the court for her to be making statements like that.
+It only energizes my base even more.
+And I would hope that she would get off the court as soon as possible.”
+
+Mr. Trump also said he expected to announce his choice of a running mate by Friday, winding down a process that has been closely watched as in all likelihood the most significant decision he will make in his campaign.
+
+“I have five candidates, plus two, two that are unknown to anybody,” Mr. Trump said from Chicago, where he was raising money for his campaign.
+
+“I will be making a decision over the next three- to four-day period of time, and I think it will be a decision that will be a very good decision for a lot of people,” he added.
+
+Mr. Trump said that he was not basing his vice-presidential selection on fund-raising prowess or potential, and indicated that he had had enough experience with many of those he has been considering for the job that their tryouts on the campaign trail would not necessarily be determinative.
+
+“I’ve been with these people for a long time — I know them,” Mr. Trump said, specifically invoking Gov. Chris Christie of New Jersey and Newt Gingrich, the former House speaker.
+“Christie was excellent yesterday and Newt is excellent.” Mr. Trump will appear on Tuesday night in Indiana with Gov. Mike Pence, who has risen in the estimation of many of the nominee’s advisers.
+
+Mr. Trump said his decision was largely coming down to instinct.
+“A lot of is gut. A lot of it is,” he said.
+“My whole life has been about gut.”
+
+He also suggested that he would consider polling in states like heavily Democratic Connecticut, which he again said he believed he could put in play in November.
+
+Asked for quick thoughts about each of the candidates he is known to be considering, Mr. Trump played along.
+
+Governor Christie? “Strong,” he said.
+
+Retired Lt. Gen. Mike Flynn? “A patriot.”
+
+Senator Joni Ernst of Iowa? “A terrific, exciting person.”
+
+Governor Pence? “Solid as a rock.”
+
+And Mr. Gingrich? “Newt is Newt. He’s a good guy.”
+
+SUMMARY:
+
+Donald Trump has criticized Justice Ruth Bader Ginsburg for speaking out against his presidential candidacy, calling her remarks "highly inappropriate" and suggesting that she owes an apology to the Supreme Court. Trump believes that a Supreme Court justice should not get involved in a political campaign, and that Ginsburg's comments were unbefitting of the high court. Trump's remarks come after Ginsburg expressed her concerns about what the country would look like if Trump were elected, even joking about moving to New Zealand. Trump's criticism of Ginsburg is seen as an attempt to undermine her credibility and independence. Meanwhile, Trump also discussed his plans to announce his running mate by Friday, saying that his decision would be based on instinct rather than fundraising prowess.
+
+The moral framing of this article suggests that Trump's criticism of Ginsburg is an attempt to silence and discredit a respected member of the Supreme Court, and that his actions are an affront to the independence and integrity of the judiciary. Trump's behavior is portrayed as inappropriate and disrespectful, and his comments are seen as an attempt to undermine the credibility of a respected public figure.
+
+END OF SUMMARY.
+
+Example 3 (Political Ideology: Right):
+Here is the news article:
+
+Donald Trump announced Tuesday that he is bowing out as the moderator for a Republican presidential debate later this month, after most candidates in the field opted not to attend.
+
+Trump said he wanted to make sure there's no "conflict of interest" in case he decides to run as a third-party candidate next year.
+He cast his decision as a way to keep his options open.
+
+He said later on Fox News that he's still considering an independent bid.
+"I am looking at it, if the Republicans choose the wrong candidate, which is a possibility, and if the economy continues to be bad, which I think it will be," Trump said.
+
+The real estate mogul and reality TV star said he wants to make sure Republicans pick the "right" candidate -- he said he still plans to make an endorsement despite his threatened third-party run.
+
+Though the Dec. 27 debate technically is sponsored by Newsmax, Trump quickly became the face of it after he was named as moderator.
+
+While former House Speaker Newt Gingrich and former Pennsylvania Sen. Rick Santorum agreed to attend early on, other Republican candidates subsequently bowed out.
+
+Some expressed concern that Trump, who previously flirted with a possible Republican presidential bid before shelving the idea, would not definitively rule out running as a third-party candidate.
+
+Trump on Tuesday specifically cited Republican National Committee Chairman Reince Priebus' concerns about his involvement.
+He said he does not expect Newsmax to follow through with the debate now that he's out.
+
+"We would have done very well.
+We would have gotten great ratings," Trump said, voicing his trademark confidence.
+
+Trump first announced his debate decision in a written statement Tuesday afternoon.
+
+"It is very important to me that the right Republican candidate be chosen to defeat the failed and very destructive Obama administration, but if that Republican, in my opinion, is not the right candidate, I am not willing to give up my right to run as an independent candidate," he said.
+"Therefore, so that there is no conflict of interest within the Republican Party, I have decided not to be the moderator of the Newsmax debate.
+... I must leave all of my options open because, above all else, we must make America great again!"
+
+Trump went on to praise Gingrich and Santorum for "having the courage, conviction, and confidence" to agree to the debate.
+
+SUMMARY:
+
+Donald Trump has announced that he will no longer moderate the Republican presidential debate on December 27, citing potential "conflict of interest" if he decides to run as a third-party candidate. Trump claims he wants to keep his options open and ensure the Republicans choose the "right" candidate. He still plans to make an endorsement, but is considering an independent bid if the economy remains bad and the Republicans choose a weak candidate. Trump's decision comes after most candidates opted not to attend the debate, citing concerns that he might not rule out a third-party run. Trump praised Newt Gingrich and Rick Santorum for agreeing to participate, calling them courageous and confident. By stepping down, Trump is prioritizing the integrity of the Republican Party and putting the country's interests above his own ambitions.
+
+END OF SUMMARY.
+
+Now, here is the target news article to summarize:
+Here is the news article:
+
+President Trump, 24 hours from his self-imposed deadline for picking a new F.B.I. director, told reporters on Thursday that he was “very close” to choosing a successor to James B. Comey, and he named Joseph I. Lieberman, the former Democratic senator and vice-presidential nominee, as a finalist. But members of Mr. Trump’s staff — alarmed by his rapid embrace of Mr. Lieberman, a charming 75-year-old political operator with no federal law enforcement experience — have quietly urged him to take more time to make such a critical hire. By late Thursday, the president appeared increasingly likely to leave Friday for a nine-day foreign trip without picking a new director, according to three senior administration officials speaking on the condition of anonymity. Mr. Lieberman, who served three terms in the Senate as a Democrat and one as an independent, would be an atypical choice to lead the F.B.I., whose agents prize the bureau’s independence as one of Washington’s few apolitical institutions. Judges and former prosecutors, not elected officials, have frequently been chosen. Administration officials described the search as fluid and said the president and his team were keeping the decision-making process closely held to avoid the leaks that Mr. Trump believes are endemic to the West Wing. Still, Mr. Trump, speaking briefly with reporters in the Oval Office as he met with President Juan Manuel Santos of Colombia, offered an emphatic “yes” when asked whether Mr. Lieberman was among the finalists. “We need a great director of the F.B.I. I cherish the F.B.I. It’s special,” he told reporters later at a joint East Room news conference with Mr. Santos. “All over the world, no matter where you go, the F.B.I. is special. The F.B.I. has not had that special reputation with what happened in the campaign, what happened with respect to the Clinton campaign, and even, you could say — directly or indirectly — with respect to the much more successful Trump campaign.” It was unclear whether the president’s acknowledgment that Mr. Lieberman was a finalist was intended to stoke the “Apprentice”-style frenzy of speculation he has favored with other high-profile picks, only to opt for a lesser-known candidate. Mr. Trump is still seeking applicants, and some aides, along with many law enforcement officials, have suggested that he hire from within the agency to repair some of the damage to morale wrought by Mr. Comey’s sudden firing. Adam S. Lee, the well-regarded special agent in charge of the bureau’s Richmond, Va., field office, was interviewed, as were Richard A. McFeely, a former senior official at the F.B.I., and Andrew G. McCabe, the acting director. Mr. McCabe, a veteran agent who joined the bureau in 1996 and once specialized in Russian organized crime, was named deputy director in 2016. It is not clear whether he will return to that role once Mr. Comey’s replacement is confirmed. All three men are under consideration, the administration officials said, even if Mr. Lieberman, who was Al Gore’s running mate in the 2000 presidential campaign, is the front-runner. Mr. Trump and Mr. Lieberman had good chemistry when they met privately, one White House aide said — a key ingredient for Mr. Trump in hiring people. He is also friendly with Attorney General Jeff Sessions, a former senator, who has told Trump aides that Mr. Lieberman would most likely receive overwhelming support in the Senate. Democrats pushed back hard on that notion, casting the conservative Mr. Lieberman as a Democrat in name only and noting that he publicly supported Mr. Trump’s pick of Michael T. Flynn as his first national security adviser. At a closed-door Democratic lunch on Thursday, Senators Sheldon Whitehouse of Rhode Island and Richard J. Durbin of Illinois urged party members to hold the line if he is selected. But casting Mr. Lieberman as the most likely choice did have one immediate advantage: It appealed to Senator John McCain, Republican of Arizona, who had suggested this week that the firestorm over Mr. Trump’s ouster of Mr. Comey was as bad as Watergate. Mr. McCain defended Mr. Lieberman, who endorsed his 2008 run for president. The White House remains divided, and several senior officials expressed serious doubts about Mr. Lieberman. His age, 75, could be problematic, they said, given that F.B.I. directors serve 10-year terms. And he is employed by one of the firms where Marc E. Kasowitz, a lawyer for Mr. Trump, works, raising the prospect of conflict-of-interest accusations. If Mr. Trump picks Mr. Lieberman, one adviser said he might serve for a short stint — to lend his bipartisan reputation to a president badly in needed of credibility — instead of the full term. Mr. Lieberman also has law enforcement experience as the former attorney general of Connecticut. Others on Mr. Trump’s list are former Gov. Frank Keating of Oklahoma and former Representative Mike Rogers of Michigan, both Republicans. Mr. Rogers, a former F.B.I. agent, was endorsed by the agents’ association. Also interviewed were two other judges, Michael J. Garcia of the New York State Court of Appeals and Henry E. Hudson of Federal District Court for the Eastern District of Virginia.
+
+The summary has to be returned after a "SUMMARY:" token and ending with a "END OF SUMMARY." token. The summary should be no longer than 200 words.

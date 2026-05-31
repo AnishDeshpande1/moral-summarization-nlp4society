@@ -1,0 +1,181 @@
+You have to summarize the following text preserving the moral framing that the author gave to it, with particular focus on the specific moral foundations highlighted in the text.
+
+Please study the following examples of news articles, their moral word extraction, and summaries preserving the moral framing:
+
+Example 1 (Political Ideology: Left, Moral Foundations: Care/Harm, Fairness/Cheating):
+Here is the news article:
+
+(CNN) Alabama Republican Senate candidate Roy Moore says he will sue the Washington Post over its report alleging he pursued sexual relationships with teenagers -- including a 14-year-old -- when he was in his 30s.
+
+"The Washington Post published another attack on my character and reputation because they are desperate to stop my political campaign.
+These attacks said I was with a minor child and are false and untrue -- and for which they will be sued," Moore said Sunday night during a campaign speech in Huntsville, Alabama.
+
+The Washington Post declined to comment Monday morning.
+
+It's not uncommon for public figures to threaten legal action against news organizations but ultimately fail to follow through.
+President Donald Trump threatened to sue The New York Times last year after it published the accounts of two women who claimed Trump touched them inappropriately.
+His lawyers never filed a lawsuit.
+
+More recently, disgraced Hollywood mogul Harvey Weinstein initially threatened to sue the Times after it first reported allegations of sexual misconduct against him, but that suit never materialized
+
+The Washington Post report Thursday was based on interviews with more than 30 people.
+As well as the allegations that Moore had sexual contact with the then 14-year-old when he was aged 32, three other women also told The Post that Moore pursued them when they were between the ages of 16 and 18.
+
+The woman who was 14 years old at the time claimed he took her to his house, undressed down to his underwear and undressed her down to her bra and underwear and touched her and moved her hand to touch his underwear, which could have been sexual offenses due to her age, but the statutes of limitations in effect during that time have passed.
+
+None of the other three women told the Post that Moore sexually harassed, or assaulted them, or forced them into a relationship.
+Alabama's legal age of consent is 16.
+
+Moore has denied the allegations since they were published.
+He called the claims " completely false " Friday when appearing on Sean Hannity's syndicated radio show.
+
+Speaking at a Veterans Day event at the Mid-Alabama Republican Club in Birmingham Saturday, Moore called the allegations "fake news" and "yet another attack on my character and reputation in a desperate attempt to stop my political campaign for the United States Senate."
+
+He added that the alleged incidents happened nearly 40 years ago and called them "very hurtful to me personally -- I have the highest regard for the protection of young children," before adding that he has never provided alcohol to a minor and has "not been guilty of sexual misconduct with anyone."
+
+Moore added that there were ongoing "investigations" looking into the motivations behind the Post article, and promised "revelations" about the story to come in the next few days, though he did not provide further specifics.
+
+A number of Republicans withdrew their endorsements of Moore following the Washington Post article, including the National Republican Senatorial Committee, which severed a joint fundraising agreement that benefits Moore's campaign.
+
+STEP 1:
+* false
+* untrue
+* desperate
+* attack
+* character
+* reputation
+* fake
+* hurtful
+* highest
+* guilty
+* misconduct
+
+SUMMARY:
+Alabama Republican Senate candidate Roy Moore has denied allegations of pursuing sexual relationships with teenagers, including a 14-year-old, when he was in his 30s, calling the claims "completely false" and "fake news". Moore accused The Washington Post of launching a "desperate" attack on his character and reputation to stop his political campaign. The Post's report, based on interviews with over 30 people, alleged that Moore had sexual contact with the 14-year-old and pursued three other women between the ages of 16 and 18. Moore has threatened to sue The Washington Post over the report, which he claims is "hurtful" to him personally. He emphasized his "highest regard for the protection of young children" and denied any "sexual misconduct" with anyone. Several Republicans have withdrawn their endorsements of Moore following the report. END OF SUMMARY.
+
+Example 2 (Political Ideology: Center, Moral Foundations: Care/Harm, Fairness/Cheating):
+Here is the news article:
+
+From his home at Mar-a-Lago, Donald J. Trump stirred up new controversy this week in the Republican presidential primary — and new alarm among party leaders that the front-runner for the nomination will drive away women from candidates running farther down the ballot in the fall.
+
+All week, Mr. Trump has slowly escalated a war of words on Twitter against Senator Ted Cruz of Texas, his main competition in the Republican race, based on an ad by a “super PAC” started by people who want to stop the New York developer from getting the nomination.
+The spot featured an old nude photo shoot of Mr. Trump’s wife Melania Trump, a former model, posing on his jet.
+
+Mr. Cruz has no affiliation with the super PAC, and he has denounced the ad.
+But Mr. Trump has continued to express disbelief.
+After threatening to “spill the beans” on Mr. Cruz’s wife, Heidi Cruz, who suffered a bout of depression years ago, he retweeted a post from someone who made a side-by-side photo comparison of Mrs. Cruz at an unflattering angle, and Mrs. Trump.
+
+On Wednesday, Mr. Cruz repeatedly quoted from the movie “The American President” to defend his wife, as she held an event and faced questions about Mr. Trump’s threats.
+But that was before Mr. Trump’s Twitter post with the pictures of the two women.
+And Mr. Cruz had finally had enough.
+
+Calling Mr. Trump a “sniveling coward,” Mr. Cruz told his rival to “leave Heidi the hell alone.”
+
+It’s useful to remember the news media outrage in 2012 when Todd Akin, running as the Republican nominee for Senate in Missouri, defended what he called “legitimate rape,” a remark that was overwhelmingly offensive to women.
+Under pressure from news outlets, the Republican Party tried to cauterize the wound that Mr. Akin had created by isolating him.
+
+Spouses are generally seen as off limits.
+And the responses to Mr. Trump’s comments among news media critics, over time, have been far more subdued.
+
+STEP 1:
+* controversy
+* alarm
+* war
+* disbelief
+* threatening
+* unflattering
+* defend
+* sniveling
+* coward
+* offensive
+* isolating
+* subdued
+
+SUMMARY:
+Donald Trump, the front-runner for the Republican presidential nomination, has sparked controversy and alarm among party leaders with his recent Twitter attacks on Senator Ted Cruz's wife, Heidi Cruz. Trump's threatening and sniveling behavior has been widely criticized, with many calling him a coward for targeting Mrs. Cruz. The attacks, which included a side-by-side photo comparison of Mrs. Cruz and Trump's wife Melania, have been deemed offensive and unflattering. Cruz has defended his wife, quoting from the movie "The American President" and telling Trump to "leave Heidi the hell alone." The incident has drawn comparisons to the 2012 controversy surrounding Todd Akin's comments on "legitimate rape," which were also widely condemned as offensive. END OF SUMMARY.
+
+Example 3 (Political Ideology: Right, Moral Foundations: Authority/Subversion, Fairness/Cheating, Loyalty/Betrayal):
+Here is the news article:
+
+Secretary of State nominee Rex Tillerson and Sen. Marco Rubio clashed during a pair of contentious exchanges Wednesday, with an incredulous Rubio pressing the prospective diplomat to brand Russian President Vladimir Putin a "war criminal" and Tillerson coolly blunting Rubio's broadsides by explaining his more deliberative vision.
+
+During the tense back-and-forths at the Senate Foreign Relations Committee confirmation hearing, Rubio, R-Fla., cross-examined Tillerson on policy regarding Russia, Cuba, Saudi Arabia and the Philippines.
+At the end of Rubio's second questioning period, Tillerson sought to allay any concerns the aggressive Rubio may have had.
+
+"There seems to be some misunderstanding that I see the world through a different lens, and I do not," Tillerson said.
+"But I'm also clear-eyed and realistic about dealing with cultures."
+
+Tillerson's statement followed a heated initial session during which the ExxonMobil CEO refused to specifically call Putin a "war criminal."
+
+"I find it discouraging your ability to cite that, which I think is globally accepted," Rubio said.
+
+That exchange mirrored later questions by Rubio, who tried getting Tillerson to categorize Saudi Arabia as a "human rights violator" and denounce the practices of controversial Philippines President Rodrigo Duterte.
+
+Tillerson also wouldn't bite when Rubio, a former opponent of President-elect Donald Trump during the Republican presidential primary, tried to get Tillerson to say Putin murdered political foes.
+
+Still, Tillerson took a noticeably harder line toward Putin and Russia than Trump has done during the transition period and prior to it.
+
+“Russia today poses a danger, but it is not unpredictable in advancing its own interests," Tillerson said during his opening statement.
+"Our NATO allies are right to be alarmed at a resurgent Russia.”
+
+Tillerson called Russia an "unfriendly adversary" during later testimony, stopping short of saying the nation was an enemy of the U.S.
+
+Russia took center-stage during the early portion of the hearing for Tillerson.
+Senators grilled Tillerson amid swirling questions about alleged meddling in U.S. politics by the Kremlin and Tillerson’s own business ties to Russia.
+
+"My love of country and my patriotism is going to dictate that I serve no one's interests but that of the American people," Tillerson said.
+
+Tillerson said that Russia had no legal claim to Crimea -- "that was a taking of territory that was not theirs" -- and said the Obama administration should have provided Ukraine with help defending its borders.
+
+"The absence of a very firm, forceful response to the taking of Crimea was judged by leadership in Russia as a weak response," Tillerson said.
+
+While Russia dominated the early proceedings, Tillerson also addressed other areas.
+
+He took aim at China’s “illegal” building of man-made islands in the South China Sea and radical Islam, which he said posed “a grave risk to the stability of nations and the well-being of their citizens.”
+
+On Syria, Tillerson said the U.S. currently had too many competing goals and needed to focus on defeating ISIS before a discussion could occur about who should lead the country.
+The Obama administration's dual priorities of ousting President Bashar al-Assad and eradicating ISIS were sometimes at odds with each other, Tillerson said.
+
+Tillerson called ISIS an imminent threat but named cyber intrusions as the "greatest and most complex threat" facing the U.S.
+
+He also said the American government had “stumbled” under the Obama administration.
+
+“If we do not lead, we risk plunging the world deeper into confusion and danger,” Tillerson said.
+
+One moment of levity occurred when Sen. Tim Kaine asked Tillerson about ExxonMobile's climate change policies.
+Tillerson told Kaine that Kaine would need to ask current executives, to which Kaine asked if Tillerson lacked "the knowledge to answer my question or are you refusing to answer my question?"
+
+"A little of both," Tillerson said to laughs.
+
+On the topic of Trump's frequent use of Twitter, Tillerson said he wouldn't "tell the boss how to communicate with the American people.
+That's gonna be his choice."
+
+Tillerson testified a day after a contentious Senate session involving Attorney General nominee Sen. Jeff Sessions.
+The audience at Tillerson’s Senate Foreign Relations Committee hearing again appeared to be filled with protesters, including Code Pink activists who were dressed in Statue of Liberty garb, a man outfitted in a suit made of money and some protesters suited up in T-Rex costumes – a play on Tillerson’s name.
+
+One early protester was ejected after she screamed “I reject you!” at Tillerson.
+
+STEP 1:
+* War
+* Criminal
+* Aggressive
+* Discouraging
+* Unfriendly
+* Adversary
+* Enemy
+* Illegal
+* Grave
+* Imminent
+* Confusion
+* Danger
+
+SUMMARY:
+Secretary of State nominee Rex Tillerson clashed with Sen. Marco Rubio during a contentious confirmation hearing, refusing to brand Russian President Vladimir Putin a "war criminal". Rubio pressed Tillerson on policy regarding Russia, Cuba, Saudi Arabia, and the Philippines, but Tillerson took a more deliberative approach. Tillerson called Russia an "unfriendly adversary" and said it poses a "danger" to the US, but stopped short of saying it's an "enemy". He also took aim at China's "illegal" building of man-made islands in the South China Sea and radical Islam, which poses a "grave risk" to nations. Tillerson testified that the US needs to focus on defeating ISIS and lead globally to avoid "confusion" and "danger". The hearing was marked by tense exchanges and protests from the audience. END OF SUMMARY.
+
+Now, here is the target news article to summarize:
+Here is the news article:
+
+Sen. Ted Cruz (R-Texas) on Friday lashed out at Donald Trump, accusing the billionaire of enlisting "his friends at the National Enquirer and his political henchmen to do his bidding." The tabloid published a story earlier this week claiming that Cruz had extramarital affairs with five women. Cruz vehemently denied the rumors, which rippled through the Washington media establishment on Friday. "I want to be crystal clear: these attacks are garbage," Cruz said Friday in a statement posted on Facebook. Earlier in the day, the allegations spilled over into an almost surreal exchange on CNN between Cruz's former communications director Amanda Carpenter and Boston Herald columnist Adriana Cohen, in which Cohen accused Carpenter of having an affair with Cruz. "You’ve been named as well, Amanda," Cohen said, referring to the National Enquirer piece. Trump responded to Cruz's allegations in a statement on Friday afternoon: “I have no idea whether or not the cover story about Ted Cruz in this week's issue of the National Enquirer is true or not, but I had absolutely nothing to do with it, did not know about it, and have not, as yet, read it. I have nothing to do with the National Enquirer and unlike Lyin' Ted Cruz I do not surround myself with political hacks and henchman (sic) and then pretend total innocence. Ted Cruz's problem with the National Enquirer is his and his alone, and while they were right about O.J. Simpson, John Edwards, and many others, I certainly hope they are not right about Lyin' Ted Cruz.” While the Enquirer has an infamous reputation for tabloid journalism, it has also broken a number of major sex scandals over the years, including the extramarital affairs of former Sen. John Edwards (D-N.C.) and golfer Tiger Woods. Reached for comment, a spokesman for American Media Inc., the Enquirer's parent company, also denied that the story had been influenced by Trump backers. "No one influences the reporting that The National Enquirer does other than our own reporters and editors. We stand by the integrity of our coverage and remain committed to our aggressive reporting on such an important topic," a spokesman said.
+
+(1) First, you identify all the single words that are morally framed, focusing especially on the dimensions of Authority/Subversion, Fairness/Cheating. Identify this step as "STEP 1:" and report each word in a new line starting with *
+(2) Finally, you write a summary of the news article. Please preserve as many morally framed words as possible, particularly focusing on the moral dimensions of Authority/Subversion, Fairness/Cheating in your summary. The summary has to be returned after a "SUMMARY:" token and ending with a "END OF SUMMARY." token. The summary should be no longer than 200 words.

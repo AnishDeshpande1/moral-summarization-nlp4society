@@ -1,0 +1,23 @@
+You have to summarize the following text preserving the moral framing that the author gave to it.
+
+Here is the news article:
+
+Updated: Rick Santorum on Sunday tried to clarify his comment that President Obama subscribed to a “phony theology,” saying he was referring not to the president’s faith but to his view of man’s relationship to the world. It was during a campaign stop in Ohio on Saturday that Mr. Santorum described what he called the “phony theology” of Mr. Obama’s agenda. “It’s about some phony ideal, some phony theology. Oh, not a theology based on the Bible, a different theology,” he said. “But no less a theology.” On Sunday, Robert Gibbs, a political adviser to President Obama, criticized such attacks on “character and faith.” “I can’t help but think that those remarks are well over the line. It’s wrong. It’s destructive,” Mr. Gibbs said on the ABC News program “This Week,” adding that it reflected the “nastiness, divisiveness, ugliness” and distortions of a hard-fought Republican nominating process. Mr. Santorum, at another appearance on Saturday, in Columbus, Ohio, called the idea of schools being run by the federal government or by state governments “anachronistic.” Mr. Santorum did not say public schools were a bad idea, and he said that there was a role for government help in education. “Where did they come up that public education and bigger education bureaucracies was the rule in America?” he said. “Parents educated their children, because it’s their responsibility to educate their children.” “Yes the government can help,” Mr. Santorum added. “But the idea that the federal government should be running schools, frankly — much less that the state government should be running schools — is anachronistic. It goes back to the time of industrialization of America when people came off the farms where they did home-school or have the little neighborhood school, and into these big factories, so we built equal factories called public schools. And while those factories as we all know in Ohio and Pennsylvania have fundamentally changed, the factory school has not.” Asked about those remarks on the CBS News program “Face the Nation,” Mr. Santorum, who with his wife has home-schooled their children, remained adamant on Sunday. While he said he did not oppose government financing of schools, Mr. Santorum said that “public education should be a dynamic process that’s locally run.” “I think the parent should be in charge,” he added, “working with the local school district to try to design an educational environment for each child that optimizes their potential.” Mr. Santorum also defended his criticism of a requirement in the president’s health-care policy that insurance companies to cover prenatal testing. He had said earlier that the policy was included to save money “because free prenatal testing ends up in more abortions and therefore less care that has to be done, because we cull the ranks of the disabled in our society.” The former Pennsylvania senator has a 3-year-old daughter, Bella, with a serious chromosomal disorder, and he said that doctors who detect such a condition before birth typically recommend abortion. Asked whether he was suggesting that Mr. Obama lacked sympathy for the disabled, Mr. Santorum did not back down, saying, “I think the president has a very bad record on the issue of abortion and children who are disabled.” One of Mr. Santorum’s rivals for the Republican nomination, Representative Ron Paul of Texas, scoffed at Mr. Santorum on Sunday for focusing on social issues like abortion and contraception – and for believing that he could defeat Mr. Obama. “Well, I don’t see how that’s possible,” Mr. Paul said on the CNN program “State of the Union.” “And this whole idea about talking about the social issues and who is going to pay for birth control pills,” Mr. Paul said. “I’m worried about undermining our civil liberties, the constant wars going on, the debt of $16 trillion. And they are worried about birth control pills?”
+
+The author used the following morally framed words in the article:
+* theology
+* ideal
+* attacks
+* line
+* wrong
+* destructive
+* divisiveness
+* charge
+* optimizes
+* cover
+* care
+* cull
+* lacked
+* undermining
+
+Please preserve as many morally framed words as possible in your summary. The summary has to be returned after a "SUMMARY:" token and ending with a "END OF SUMMARY." token. The summary should be no longer than 200 words.
