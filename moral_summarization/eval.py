@@ -54,6 +54,14 @@ class Evaluator:
             device='cuda',
             ):
         self.models = models
+        
+        import torch
+        if device == 'cuda' and not torch.cuda.is_available():
+            if hasattr(torch.backends, 'mps') and torch.backends.mps.is_available():
+                device = 'mps'
+            else:
+                device = 'cpu'
+                
         self.device = device
         self.only_test = only_test_set
         self.seed = seed
@@ -165,7 +173,7 @@ class Evaluator:
             for prompt_type in prompt_types:
                 # get all the files with this model and this prompt style
                 response_files = [file_path for file_path in responses_files\
-                                  if model in file_path and prompt_type in file_path]
+                                  if model in file_path and file_path.startswith(f"{prompt_type}_response_")]
                 
                 # only articles in the test set have a class summary
                 if len(response_files) == 0:
@@ -212,12 +220,16 @@ class Evaluator:
         # loop through datasets (allsides, basil, mpqa)
         for dataset in os.listdir(results_dir):
             dataset_path = os.path.join(results_dir, dataset)
+            if not os.path.isdir(dataset_path):
+                continue
 
             self.initialize_dataset_stats(dataset)
 
             for article in tqdm(os.listdir(dataset_path)):
                 # loop through articles in each dataset
                 article_path = os.path.join(dataset_path, article)
+                if not os.path.isdir(article_path):
+                    continue
 
                 # get the summary info of the results for the article
                 self.get_results_for_one_article(article_path, article, dataset)

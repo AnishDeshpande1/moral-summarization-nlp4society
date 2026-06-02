@@ -94,12 +94,66 @@ python generate_prompts.py \
   --num-shots 3
 ```
 
-### 2. Pipeline Training, Cross-Validation, & Inference
-1. **Train the Classifier**:
-   `python training.py --hf-model-folder <location-of-models> --config-file token_labeling.yaml`
-2. **Hyperparameter Tuning**:
-   `python hyperparameter_testing.py --hf-model-folder <location-of-models> --config-file token_labeling.yaml`
-3. **Execute Summarization Inference**:
-   `python prompting.py --config-file peft_config.yaml --hf-model-folder <location-of-models> --prompt-dir results/test_prompts`
-4. **Automated Evaluation**:
-   `python evaluate.py --llama --QaFactEval --results-dir results/test_prompts`
+---
+
+### 2. Local Ollama Inference & Two-Step Chaining
+To run inference locally using **Ollama** (highly recommended for macOS Apple Silicon Metal acceleration) with the **Two-Step Chaining Method** (which splits moral-word extraction and summary generation), use the following configurations:
+
+#### A. Quick Dry Run (Testing Mode)
+Verify formatting and pipeline functionality on **1 article per dataset** (3 articles total):
+```bash
+python prompting.py \
+  --config-file peft_config.yaml \
+  --prompt-dir results/test_prompts \
+  --use-ollama \
+  --ollama-model llama3 \
+  --use-chaining \
+  --testing
+```
+
+#### B. Full Dataset Generation
+Run inference across **all articles** in the test set across all configurations:
+```bash
+python prompting.py \
+  --config-file peft_config.yaml \
+  --prompt-dir results/test_prompts \
+  --use-ollama \
+  --ollama-model llama3 \
+  --use-chaining \
+  --no-testing
+```
+
+> [!TIP]
+> * To run standard single-step generation without the chained word-extraction split, simply omit `--use-chaining` (or pass `--no-use-chaining`).
+> * Ollama automatically pulls the requested model (e.g. `llama3`) from the registry on the first run if it is not already loaded locally.
+
+---
+
+### 3. Automated Evaluation Pipeline
+Once responses are written to your results directory, execute the evaluation script to calculate summary lengths, moral word counts, moral label JS Divergence, and advanced factual consistency metrics.
+
+#### Run Evaluation with SummaC and BLANC
+Evaluate the local `llama3` summaries:
+```bash
+python run_evaluation.py \
+  --model llama3 \
+  --results-dir results/test_prompts \
+  --BLANC \
+  --summaC
+```
+
+* **`--model`**: Specifies which model's responses to load (e.g. `llama3`).
+* **`--results-dir`**: Path to the generated response directories.
+* **`--BLANC`**: Calculates the BLANC document summary quality metric.
+* **`--summaC`**: Calculates the SummaC factual consistency consistency model score.
+
+---
+
+### 4. Viewing the Scores
+We have provided a command-line helper script to print beautifully structured tables of the compiled averages and standard deviations directly to your terminal window.
+
+Once the evaluation script completes and serializes the scores to `dict_of_dfs.pickle`, simply run:
+```bash
+python print_results.py
+```
+This will print dedicated, clean Pandas DataFrames for each evaluated metric: Summary Length, Moral Word Count, Moral JS Divergence, SummaC, and BLANC!
