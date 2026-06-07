@@ -13,6 +13,10 @@ parser.add_argument('--QaFactEval',    default=False, action='store_true')
 parser.add_argument('--llama',         default=False, action='store_true')
 parser.add_argument('--command-r',     default=False, action='store_true')
 parser.add_argument('--deepseek',      default=False, action='store_true')
+# Generic model selector: the tag prepended to response filenames by
+# prompting.py (e.g. 'llama3.1-8b-instruct-q4_K_M'). Repeatable for multi-model
+# evaluation. Use this for local/Ollama runs instead of the fixed flags above.
+parser.add_argument('--model',         type=str,  action='append', default=[])
 parser.add_argument('--only-test-set', default=False, action='store_true')
 parser.add_argument('--seed',          type=str,  default=None)
 
@@ -27,13 +31,19 @@ if args.BLANC:
 if args.QaFactEval:
     extra_metrics.append('QaFactEval')
 
-models = []
+models = list(args.model)
 if args.llama:
     models.append('Meta-Llama-3-70B-Instruct')
 if args.command_r:
     models.append('c4ai-command-r-plus-4bit')
 if args.deepseek:
     models.append('DeepSeek-R1-Distill-Qwen-32B')
+
+if not models:
+    raise ValueError(
+        "No model selected. Pass --model <tag> (e.g. the tag prepended to your "
+        "response files), or one of --llama / --command-r / --deepseek."
+    )
 
 start_time = time.time()
 

@@ -1,3 +1,6 @@
+# The github repo for the EMONA dataset kept in the root
+EMONA_dataset/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]

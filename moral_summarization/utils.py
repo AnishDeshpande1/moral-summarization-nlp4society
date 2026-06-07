@@ -52,15 +52,29 @@ def dump_json(file_path, dict):
 
 
 def write_to_file(file_path, text):
-    with open(file_path, 'w') as file:
+    # Force UTF-8: prompts/articles contain non-ASCII chars (e.g. curly quotes)
+    # that crash on Windows' default cp1252 codec.
+    with open(file_path, 'w', encoding='utf-8') as file:
         file.truncate(0)
         file.write(text)
 
 
 def read_from_file(file_path):
-    with open(file_path, 'r') as file:
+    with open(file_path, 'r', encoding='utf-8') as file:
         text = file.read()
     return text
+
+
+def sanitize_model_tag(name):
+    """Make a model name safe to embed in a filename.
+
+    Ollama tags like 'llama3.1:8b-instruct-q4_K_M' and HF ids like
+    'meta-llama/Llama-3.1-8B' contain ':' and '/' which are illegal in Windows
+    filenames. Replace them with '-'.
+    """
+    for ch in (':', '/', '\\', ' '):
+        name = name.replace(ch, '-')
+    return name
 
 
 def get_device_map():

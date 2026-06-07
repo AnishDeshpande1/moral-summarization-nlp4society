@@ -163,9 +163,13 @@ class Evaluator:
 
         for model in self.models:
             for prompt_type in prompt_types:
-                # get all the files with this model and this prompt style
+                # get all the files with this model and this prompt style.
+                # Match '{prompt_type}_response' (not bare prompt_type) so that
+                # e.g. 'cot' does not also match 'cot_fewshot'/'cot_fewshot_mft'
+                # and 'simple' does not match 'simple_fewshot*'.
+                prompt_type_token = f'{prompt_type}_response'
                 response_files = [file_path for file_path in responses_files\
-                                  if model in file_path and prompt_type in file_path]
+                                  if model in file_path and prompt_type_token in file_path]
                 
                 # only articles in the test set have a class summary
                 if len(response_files) == 0:
