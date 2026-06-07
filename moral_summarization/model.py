@@ -419,8 +419,10 @@ class LlamaModelForSequenceCompletion:
             temperature=0.6,
             top_p=0.9
             ):
-        # Initialize pipeline
-        if not hasattr(self, 'pipe'):
+        # Initialize pipeline once (lazily). Note: the attribute created by
+        # init_pipeline is `self.pipeline`, so guard on that — guarding on
+        # `pipe` rebuilt the HF pipeline on every call.
+        if not hasattr(self, 'pipeline'):
             self.init_pipeline()
 
         # Prepare prompt in conversation format

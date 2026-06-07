@@ -1,0 +1,21 @@
+# DelftBlue inference config: DeepSeek-R1-Distill-Qwen-32B on a single V100S 32GB.
+# Loaded in 4-bit via bitsandbytes (~20 GB VRAM, fits one V100).
+#
+# Run:
+#   python prompting.py --config-file configs/deepseek32b_v100.yaml \
+#       --hf-model-folder /scratch/$USER/huggingface-models \
+#       --prompt-dir results/test_prompts --no-testing
+
+base_model_name: DeepSeek-R1-Distill-Qwen-32B
+
+# Matches `evaluate.py --deepseek`, which looks for 'DeepSeek-R1-Distill-Qwen-32B'.
+model_tag: DeepSeek-R1-Distill-Qwen-32B
+
+backend: transformers
+
+bitsandbytes:
+  load_in_4bit: true
+  bnb_4bit_quant_type: nf4
+  bnb_4bit_use_double_quant: true
+  # V100 (compute capability 7.0) does NOT support bfloat16 - must use float16.
+  bnb_4bit_compute_dtype: float16
