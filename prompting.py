@@ -49,11 +49,21 @@ for dataset_folder in os.listdir(config['inference']['prompt_dir']):
                 else:
                     system_content = "You are a news summarizer assistant and a moral expert."
 
-                response, conversation = llama_model.get_response(prompt, system_content)
-
                 # e.g. simple_prompt.txt -> {model_tag}_simple_response.txt
                 response_filename = f"{model_tag}_{file_path.replace('prompt', 'response')}"
                 response_path = os.path.join(article_path, response_filename)
+
+                # Skip prompts already generated for this model. Makes runs
+                # resumable: interrupted local runs and cluster jobs that hit the
+                # time limit pick up where they left off instead of redoing work
+                # (and overwriting). Delete the response file to force a re-run.
+                if os.path.isfile(response_path):
+                    if config['verbose']:
+                        print(f"Skipping existing {article_folder}/{response_filename}")
+                    continue
+
+                response, conversation = llama_model.get_response(prompt, system_content)
+
                 write_to_file(response_path, response[-1]['content'])
                 if config['verbose']:
                     print(f"Generated response for {article_folder}/{file_path}")
