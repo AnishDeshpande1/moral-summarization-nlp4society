@@ -329,12 +329,13 @@ class LlamaModelForSequenceCompletion:
         if self.device_type == "cuda" and 'bitsandbytes' in config and self.verbose:
             check_bf16_compatibility(config['bitsandbytes'])
 
-        # Load base model
+        # Load base model. For 4-bit/8-bit bitsandbytes models, omit device_map
+        # entirely — bitsandbytes places layers itself, and passing device_map
+        # causes accelerate to call .to() on already-placed quantized weights.
         if self.bnb_config:
             self.model = AutoModelForCausalLM.from_pretrained(
                 self.base_model_path,
                 quantization_config=self.bnb_config,
-                device_map=self.device_map,
             )
         else:
             self.model = AutoModelForCausalLM.from_pretrained(
