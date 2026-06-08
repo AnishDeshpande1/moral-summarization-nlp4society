@@ -314,6 +314,10 @@ class LlamaModelForSequenceCompletion:
         self.base_model_name = config['base_model_name']
         self.base_model_path = os.path.join(config['hf_model_folder'], self.base_model_name)
         if 'bitsandbytes' in config:
+            # Convert dtype string to torch dtype if needed (YAML loads it as str)
+            if isinstance(config['bitsandbytes'].get('bnb_4bit_compute_dtype'), str):
+                config['bitsandbytes']['bnb_4bit_compute_dtype'] = getattr(
+                    torch, config['bitsandbytes']['bnb_4bit_compute_dtype'])
             self.bnb_config = BitsAndBytesConfig(**config['bitsandbytes'])
             self.dtype = self.bnb_config.bnb_4bit_compute_dtype
         else:
@@ -355,11 +359,12 @@ class LlamaModelForSequenceCompletion:
             torch_dtype=self.dtype,
         )
 
-        # Set terminators
-        self.terminators = [
-            self.pipeline.tokenizer.eos_token_id,
-            self.pipeline.tokenizer.convert_tokens_to_ids("<|eot_id|>")
-        ]
+        # Set terminators. <|eot_id|> is Llama-3 specific; only add it if the
+        # tokenizer actually has it (DeepSeek/Qwen models use different tokens).
+        eot_id = self.pipeline.tokenizer.convert_tokens_to_ids("<|eot_id|>")
+        self.terminators = [self.pipeline.tokenizer.eos_token_id]
+        if eot_id != self.pipeline.tokenizer.unk_token_id:
+            self.terminators.append(eot_id)
     
     def save_model(self, folder_name):
         print("Saving model...")

@@ -1,0 +1,25 @@
+Here are the single words that are morally framed from the news article:
+
+STEP 1:
+* sincere
+* insincere
+* favor
+* skin
+* wrong
+* committed
+* change
+* affect
+* hopeful
+* real
+* better
+* excited
+* remorse
+* guarantee
+* sacrifice
+* vindictive
+* harm
+
+SUMMARY:
+Senator Al Franken's resignation speech was an opportunity for him to show contrition and contribute to the conversation around sexual harassment, but he squandered it. Instead of acknowledging his role in harming women and expressing remorse, Franken gave advice on running for office and took back his previous apologies, leaving many to doubt the accounts of his accusers. This is especially hurtful given that eight women publicly reported being groped or harassed by him. By going back on his earlier statements, Franken essentially took all of his accusers down with him, making it harder to fight against injustices like those faced by his accusers and others who have been accused of harassment. His actions were a missed opportunity for real change that would have made life better for women across the country.
+
+END OF SUMMARY.
