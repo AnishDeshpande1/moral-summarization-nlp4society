@@ -19,7 +19,7 @@ dependencies = [
 ]
 
 [tool.setuptools]
-py-modules = ["moral_summarization"]
+packages = ["moral_summarization"]
 
 [build-system]
 requires = ["setuptools", "wheel"]
