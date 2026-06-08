@@ -1,0 +1,32 @@
+Here is the result for STEP 1:
+
+* violation
+* excessive
+* fundamental
+* freedoms
+* legitimate
+* dissent
+* uphold
+* strictly
+* adhere
+* obligations
+* rights
+* abuses
+* heavy
+* toll
+* civil
+* liberties
+* balance
+* consistent
+* commitments
+* hollowed
+* retroactive
+* severe
+
+And here is the summary:
+
+SUMMARY:
+Three leading international organisations have warned that the fight against terrorism should not be used as a pretext for violating human rights. They called on governments to refrain from taking "excessive" steps that would undermine fundamental freedoms and legitimate dissent. The UN High Commissioner for Human Rights, Mary Robinson, emphasized that states must adhere to their international obligations to uphold human rights in the face of terrorism. The organisations listed essential rights that cannot be "hollowed out", including the right to life, freedom of expression, and religion. They also urged against the retroactive imposition of severe penalties, which could have a heavy toll on civil liberties. Governments must strike a balance between legitimate national security concerns and fundamental freedoms, and adhere strictly to their commitments to uphold human rights.
+END OF SUMMARY.
+
+Note that I preserved many morally framed words from the original text, particularly focusing on the dimensions of Authority/Subversion (e.g., "excessive", "uphold"), Care/Harm (e.g., "abuses", "heavy toll"), and Fairness/Cheating (e.g., "balance", "commitments").

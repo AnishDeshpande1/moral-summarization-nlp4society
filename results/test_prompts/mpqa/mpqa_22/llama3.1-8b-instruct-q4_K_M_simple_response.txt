@@ -1,0 +1,7 @@
+SUMMARY:
+
+NASA's space shuttle Atlantis astronauts have successfully prepared the first railway in outer space for its inaugural run. The rail car, part of the S-0 truss, will support solar panels generating power for the International Space Station. The Mobile Transporter, as the rail car is officially known, will roll at a top speed of three centimeters per second. Canadarm2, Canada's contribution to the space station, has performed flawlessly in its role installing the truss segment and moving astronauts around the newly installed area.
+
+Captain Marc Garneau, president of the Canadian Space Agency, praised Canadarm2 for working "in an extremely hostile environment" despite experiencing an anomaly on one of its joints. The arm's complex design required significant rewiring to draw power through the S-0 truss. Engineers successfully bypassed the problem area and ensured smooth operations. The completed girder will support thousands of square meters of solar panels, generating power for use throughout the station.
+
+END OF SUMMARY.

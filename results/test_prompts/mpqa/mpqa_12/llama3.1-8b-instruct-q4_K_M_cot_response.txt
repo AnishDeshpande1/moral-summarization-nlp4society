@@ -1,0 +1,12 @@
+STEP 1:
+* hope
+* shield
+* eliminate
+* extreme
+* power
+* stall 
+
+SUMMARY: 
+Two space-walking astronauts embarked on a crucial repair mission to protect the International Space Station's vital components from the harsh conditions of space. Astronauts Linda Godwin and Daniel Tani ventured out of the space shuttle Endeavour, utilizing the robot arm for a 50-foot ride up the side of the station. Their task was to wrap thermal covers around motors that keep the giant solar wings pointing toward the sun, generating electricity. The astronauts' effort is driven by NASA's hope that these covers will shield the motors from extreme temperatures, thereby eliminating power spikes and stalls that could compromise the station's operations. By performing this critical repair job, the astronauts are ensuring the continued functionality of the space station, which relies on its solar wings to generate power in the unforgiving environment of space.
+
+END OF SUMMARY.

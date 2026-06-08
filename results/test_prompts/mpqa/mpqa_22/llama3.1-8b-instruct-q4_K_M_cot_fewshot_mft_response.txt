@@ -1,0 +1,13 @@
+Here are the steps:
+
+STEP 1:
+* flawless
+* pivotal
+* flawlessly
+* smoothly
+* hostile
+* complex
+* unique
+
+SUMMARY:
+The Canadarm2 robotic arm, a "unique and highly complex robot working in an extremely hostile environment," has performed "flawlessly" in its pivotal role installing the truss segment on the International Space Station. The arm, which is powerful enough to lift entire station modules, was used for the first time to move the spacewalking astronauts to different work sites around the newly installed truss. Engineers from the Canadian Space Agency and MD Robotics successfully bypassed an anomaly detected on one of its joints several weeks ago. As part of the next phase of construction, a handcar will be added to the rail system so astronauts can move more easily along the truss, which will be longer than a football field. The Mobile Transporter, the small trolley designed to roll the station's robotic arm from one construction site to another, is ready for its first test, with ground controllers expecting it to move at "fractions of an inch velocity." END OF SUMMARY.

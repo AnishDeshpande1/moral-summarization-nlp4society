@@ -1,0 +1,13 @@
+Here is the target news article:
+
+New York Republican Rep. Michael Grimm's attorney confirmed late Friday that federal prosecutors plan to file criminal charges against the congressman. The decision follows a two-year FBI investigation into various aspects of Grimm's business and campaign history. "We are disappointed by the government's decision, but hardly surprised," said the statement from Grimm's attorney, William McGinley. "From the beginning, the government has pursued a politically driven vendetta against Congressman Grimm and not an independent search for the truth." The statement said Grimm "asserts his innocence of any wrongdoing" and "will be vindicated." "Until then, he will continue to serve his constituents with the same dedication and tenacity that has characterized his lifetime of public service as a Member of Congress, Marine Corps combat veteran, and decorated FBI Special Agent," the statement said. The House Ethics Committee announced in November that Grimm was under investigation for possible campaign finance violations.
+
+STEP 1:
+* vendetta
+* politically
+* driven
+* innocence
+* vindicated
+
+SUMMARY:
+Rep. Michael Grimm's attorney confirmed that federal prosecutors plan to file criminal charges against the congressman, which follows a two-year FBI investigation into his business and campaign history. The government has pursued a "politically driven vendetta" against Grimm, according to his attorney, who claims that they are not seeking an independent search for truth. Grimm asserts his innocence of any wrongdoing and will be vindicated, but until then, he will continue to serve his constituents with dedication and tenacity. This investigation is part of the ongoing probe into possible campaign finance violations. END OF SUMMARY.

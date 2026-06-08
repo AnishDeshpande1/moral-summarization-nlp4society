@@ -333,10 +333,15 @@ class LlamaModelForSequenceCompletion:
         # entirely — bitsandbytes places layers itself, and passing device_map
         # causes accelerate to call .to() on already-placed quantized weights.
         if self.bnb_config:
+            # device_map="auto": for a single-GPU 4-bit model this still goes
+            # through accelerate's multi-device dispatch path, which respects the
+            # is_loaded_in_4bit guard and skips the illegal .to() call. A single-
+            # device value ({"":0} or "cuda:0") takes a shortcut path that calls
+            # model.to(device) unconditionally and crashes on quantized weights.
             self.model = AutoModelForCausalLM.from_pretrained(
                 self.base_model_path,
                 quantization_config=self.bnb_config,
-                device_map="cuda:0",
+                device_map="auto",
             )
         else:
             self.model = AutoModelForCausalLM.from_pretrained(

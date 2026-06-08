@@ -1,0 +1,19 @@
+Here is the result of the analysis:
+
+STEP 1:
+* false
+* desperate
+* completely
+* partisan
+* contrived
+* garbage
+* immoral
+* illegal
+* predatory
+* victim
+* guilty
+
+SUMMARY:
+Republican officials in Alabama defended their Senate nominee, Roy S. Moore, after a report that he had made sexual advances toward four teenage girls when he was in his 30s. The Washington Post reported that Mr. Moore had approached a 14-year-old and touched her inappropriately, while three other women claimed they were pursued by him around the same time. Moore denied the allegations as "completely false" and a "desperate political attack." However, Republican officials dismissed the women's stories out of hand, calling it "total contrived media garbage." Alabama's state auditor, Jim Ziegler, justified Mr. Moore's actions by comparing them to the biblical story of Joseph and Mary. Others defended their candidate even if he had committed a sex crime, showing disregard for the harm caused to the alleged victims. The response highlights the party's prioritization of loyalty over fairness and its tendency to downplay or deny allegations of misconduct.
+
+END OF SUMMARY.

@@ -1,0 +1,23 @@
+Here are the steps for summarizing the target news article:
+
+STEP 1:
+* decried
+* election-year
+* politicking
+* neoconservative
+* influencing
+* security
+* foreign policy
+* Republican
+* involved
+* markets
+* largest
+* Jewish
+* communities
+* pollster
+* worked
+* Likud Party
+
+SUMMARY:
+A new ad by Secure America Now, a neoconservative nonprofit organization, features Israeli Prime Minister Benjamin Netanyahu laying out Israel's security concerns about Iran's nuclear program. The ad is airing in Miami, West Palm Beach, and Fort Myers, targeting some of the state's largest Jewish communities. Despite previously decriing the use of his name in election-year politicking, Netanyahu's appearance in the ad underscores the Republican Party's narrative on President Barack Obama's relationship with Israel. Republicans have repeatedly attacked the Obama administration for not taking a firm enough stance against Iran and for being dismissive of Israel's concerns. Netanyahu pushed back against these criticisms in recent interviews, emphasizing that Obama has said he is determined to prevent Iran from getting nuclear weapons. The ad is part of Secure America Now's efforts to influence the debate around American security and foreign policy, and it implicitly underscores the GOP's narrative on Obama's relationship with Israel.
+END OF SUMMARY.

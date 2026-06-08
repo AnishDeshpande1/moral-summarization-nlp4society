@@ -1,0 +1,20 @@
+Here is the answer:
+
+The target news article is about Japan, U.S. Differ Over Global Warming Issues.
+
+STEP 1:
+* constructive
+* reject
+* hurt
+* voluntary
+* ineffective
+* solve
+* cooperate
+* develop
+* help
+* economic
+* environmental
+
+SUMMARY:
+Japanese Prime Minister Junichiro Koizumi and visiting U.S. President George W. Bush differed over the Kyoto Protocol, with Bush rejecting it as it would hurt U.S. economic growth. However, Koizumi called the new U.S. plan "a very constructive proposal" but emphasized that more efforts are needed from the United States to address global warming issues. The two leaders agreed to cooperate on this issue and explore ways to develop new technologies that can help both the environment and economic development. Despite criticisms that the alternative proposal is ineffective in solving global warming, Bush's plan aims for voluntary limits on greenhouse gas emissions by companies in accordance with economic growth. The cooperation between Japan and the U.S. will involve working together with other countries, including developing nations, to address this pressing issue.
+END OF SUMMARY.

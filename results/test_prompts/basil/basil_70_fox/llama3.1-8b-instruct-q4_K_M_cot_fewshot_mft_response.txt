@@ -1,0 +1,23 @@
+Here is the target news article with the single morally framed words extracted:
+
+STEP 1:
+* first
+* great
+* fight
+* never
+* let
+* down
+* America
+* carnage
+* power
+* people
+* borders
+* wealth
+* dreams
+* eradicate
+* terrorism
+* moment
+* day
+
+SUMMARY:
+Donald Trump assumed the nation's highest office as the 45th president of the United States, vowing to "fight" for the country and restore its greatness. In his inaugural address, he promised to bring back jobs, borders, wealth, and dreams, and vowed to eradicate terrorism. Trump cast his presidency as a return to power for the people and a rejection of Washington's elite, saying that a small group had reaped the rewards of government while "the people did not share" in its prosperity. He rebuked those who have held power in Washington, stating that they let down the American people. Trump closed his speech with the promise to make America great again and fulfill his campaign pledge. His presidency marks a significant shift in American politics, driven by a desire for change and a rejection of the status quo. END OF SUMMARY.

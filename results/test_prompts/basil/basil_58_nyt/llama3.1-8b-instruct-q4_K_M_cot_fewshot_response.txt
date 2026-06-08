@@ -1,0 +1,16 @@
+Here is the target news article's moral word extraction and summary:
+
+STEP 1:
+* weak
+* feckless
+* compromise
+* dirty
+* antidote
+* lying
+* stealing
+* force
+* lying
+* stealing
+
+SUMMARY:
+New Jersey Governor Chris Christie launched his presidential campaign, relying on his personality to overcome his vulnerabilities. He vowed to run the country with "strength and decision-making and authority," promising to tell difficult truths even if they are uncomfortable. Christie criticized Congress and President Obama's foreign policy, calling it a "weak and feckless" approach that needs to be replaced. He also took aim at Hillary Clinton, saying she would not be an improvement over Obama's policies. Christie acknowledged the challenges he faces, including his low approval ratings in New Jersey, but expressed confidence in his ability to win over Republican voters. With his campaign centered around his personality and town hall meetings, Christie hopes to appeal to voters who are looking for a candidate who can "get it back on track" and restore the country's greatness. END OF SUMMARY.

@@ -1,0 +1,56 @@
+Here is the answer:
+
+**Example 1 (Political Ideology: Left)**
+
+* traitor
+* offended
+* false
+* prophet
+* cheating
+* desperate
+* lying
+* respect
+
+SUMMARY:
+Former Mexican President Vicente Fox strongly criticized current President Enrique Peña Nieto for inviting Republican presidential candidate Donald Trump to meet with him in Mexico. Fox stated that Trump is "not welcome to Mexico" and that the Mexican people "reject his message." Fox warned that if Peña Nieto does not stand up to Trump, he will be viewed as a "traitor" and that Trump is using the meeting to "boost his sinking poll numbers." Fox called Trump's actions "opportunistic" and "desperate," and accused him of being a "false prophet" who is "cheating" on the Mexican people. Fox also tweeted that Trump should "show some respect" to Mexico.
+
+**Example 2 (Political Ideology: Center)**
+
+* apologized
+* offended
+* warned
+* criticized
+* powerful
+* qualified
+
+SUMMARY:
+Representative Bruce Braley, an Iowa Democrat running for Senate, apologized for his offensive remarks about Senator Charles E. Grassley, a Republican from Iowa. Braley warned that a farmer from Iowa who never went to law school could become chairman of the Judiciary Committee, implying that Grassley was unqualified for the position. The video of Braley's comments was posted on YouTube by America Rising, a conservative political action committee. Braley's apology noted his family's history with Iowa agriculture, but Republicans quickly criticized him for his remarks.
+
+**Example 3 (Political Ideology: Right)**
+
+* destructive
+* bipartisan
+* strained
+* toughest
+* regrets
+* misperception
+* partisanship
+* derailing
+* skeptical
+* concessions
+* affront
+* appalling
+* unacceptable
+* disrespect
+* disappointing
+
+SUMMARY:
+National Security Adviser Susan Rice warned that Israeli Prime Minister Benjamin Netanyahu's upcoming Capitol Hill address will be a "destructive" force in long-standing U.S.-Israel relations, adding more political acrimony to the already "strained" relationship between President Obama and Netanyahu. The visit, orchestrated by House Speaker John Boehner without consulting the White House or State Department, has been deemed a "diplomatic no-no" and has sparked concerns of "partisanship" surrounding the event.
+
+**Target News Article**
+
+* destructive
+* bipartisan
+
+SUMMARY:
+Susan Rice, President Barack Obama's national security adviser, said Israeli Prime Minister Benjamin Netanyahu's planned speech in front of a joint session of Congress will be "destructive" to U.S.-Israel relations. The visit has injected a degree of partisanship into the relationship, which is not only unfortunate but also "destructive of the fabric of the relationship." Rice emphasized that it's always been bipartisan and wants it that way. Several lawmakers have spoken out against the speech, calling it an affront to international talks over Iran's nuclear plans.

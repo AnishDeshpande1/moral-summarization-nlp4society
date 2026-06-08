@@ -1,0 +1,26 @@
+Here is the output of the news article summarization task:
+
+STEP 1:
+* vendetta
+* wrongdoing
+* vindicated
+* dedication
+* tenacity
+* politically
+* driven
+* independent
+* truth
+* innocence
+* asserted
+* serve
+* constituents
+* characterized
+* public
+* service
+* investigation
+* campaign
+* finance
+* violations
+
+SUMMARY:
+Rep. Michael Grimm's attorney confirmed that federal prosecutors plan to file criminal charges against the congressman, alleging a "politically driven vendetta" against Grimm. The decision follows a two-year FBI investigation into various aspects of Grimm's business and campaign history. Grimm "asserts his innocence of any wrongdoing" and claims he will be "vindicated." Despite the expected indictment, Grimm promises to continue serving his constituents with "dedication and tenacity," as he has throughout his public service career. The development comes after a two-year investigation into possible campaign finance violations, which led to an FBI probe and a House Ethics Committee inquiry being deferred due to the separate Department of Justice investigation. Grimm made headlines in January for physically confronting a reporter in the Capitol, sparking concerns about his behavior and potential improprieties in his campaign finance dealings.

@@ -1,0 +1,16 @@
+Here is the output for the given news article:
+
+STEP 1:
+* propriety
+* integrity
+* recuse
+* impartiality
+* questioned
+* biased
+* apolitical
+* pretense
+
+SUMMARY:
+Supreme Court Justice Ruth Bader Ginsburg's candid comments about a Donald Trump presidency have raised questions about her propriety and the integrity of the court. Some legal academics argue that she may need to recuse herself from considering any Trump-related case, as her impartiality might reasonably be questioned. Others suggest that her remarks are "beyond the pale" and create an appearance of bias if she participates in a future politically charged case like Trump v. Clinton. In fact, under federal law, justices must step aside from cases where their impartiality is in question. However, this incident highlights the tension between being candid about one's positions and biases versus maintaining the veneer that judges are entirely apolitical. Ultimately, some argue that the pretense of nonpartisanship can do more harm than good.
+
+END OF SUMMARY.

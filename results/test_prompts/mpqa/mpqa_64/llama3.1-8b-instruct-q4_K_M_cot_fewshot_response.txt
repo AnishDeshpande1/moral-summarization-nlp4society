@@ -1,0 +1,16 @@
+Here is the target news article's moral word extraction and summary:
+
+STEP 1:
+* advance
+* better
+* civil
+* danger
+* fluid
+* humanitarian
+* multi-faceted
+* secure
+
+SUMMARY:
+British troops will not be sent to fight in Afghanistan, according to Commons Leader Robin Cook. The situation is "better than anybody could have hoped for," with the Taliban's control crumbling in their final northern stronghold of Kunduz after mass surrender. However, the danger remains as night fell before the Alliance could secure the city, increasing the risk of militants fighting back. Despite this, Cook believes it is an "advance" that British troops' presence has not been needed in Afghanistan. The campaign so far has shown that military success is the best way to get aid into the country, but the Prime Minister's official spokesman stressed that any future military action would have to be based on evidence. The war on terrorism is ongoing, and Britain will need to see evidence before becoming involved in other countries.
+
+END OF SUMMARY.

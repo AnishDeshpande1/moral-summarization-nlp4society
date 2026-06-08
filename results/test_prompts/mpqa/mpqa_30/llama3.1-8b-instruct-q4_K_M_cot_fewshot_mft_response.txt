@@ -1,0 +1,23 @@
+Here is the target news article's moral word extraction and summary:
+
+STEP 1:
+* vendetta
+* starvation
+* repression
+* shackles
+* freedom
+* struggle
+* casualties
+* reckless
+* systematic
+* strategic
+* mobilization
+* legitimacy
+* treason
+* plotting
+* assassinated
+
+SUMMARY:
+Zimbabwean President Robert Mugabe has been accused by opposition leader Morgan Tsvangirai of deliberately withholding food from areas that did not vote for him in the March election, as part of a "vendetta" against his supporters. The situation is worsened by government-sponsored farm invasions, which have led to widespread starvation and hunger. Tsvangirai also accused Mugabe of using repression to maintain power, saying that the international community can only support them so far but ultimately, it is up to Zimbabweans to fight for their own freedom. Tsvangirai faces a treason charge in May, accused of plotting to assassinate Mugabe, which he denies. He warns that there will be casualties in the struggle for change, but emphasizes the need for a systematic and strategic approach to mobilize the masses against an illegitimate government.
+
+END OF SUMMARY.

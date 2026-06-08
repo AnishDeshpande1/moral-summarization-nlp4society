@@ -1,0 +1,23 @@
+Here are the morally framed words extracted from the news article:
+
+STEP 1:
+* humane
+* hyperbole
+* inhumane
+* stupid
+* unfortunate
+* isolation
+* domination
+* futility
+* injustice
+* incommunicado
+* humiliation
+* suffering
+* detention
+* imprisonment
+* torture
+
+SUMMARY:
+Secretary of Defense Donald Rumsfeld defended the treatment of detainees at Guantanamo Bay, Cuba, calling it "humane" and dismissing criticism as "hyperbole." However, Amnesty International and other human rights groups accused the US of using sensory deprivation and psychological control techniques to weaken prisoners, which could be considered a form of "torture." The organization also criticized the US for keeping prisoners incommunicado and subjecting them to unnecessary restraints and humiliation. Rumsfeld argued that restraining prisoners was necessary to prevent attacks on American soldiers, but critics called his actions "injustice" and "imprisonment without trial." The detention of the prisoners has sparked an international outcry, with many countries calling for their release or recognition as prisoners of war under the Geneva Convention. Rumsfeld's defense of the US treatment of detainees raises questions about the morality of the US actions in Guantanamo Bay.
+
+END OF SUMMARY.

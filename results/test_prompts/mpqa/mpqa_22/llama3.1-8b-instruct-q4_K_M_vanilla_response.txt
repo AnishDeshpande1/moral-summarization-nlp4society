@@ -1,0 +1,5 @@
+SUMMARY:
+
+The first railway in outer space was completed on the International Space Station (ISS) by astronauts from the space shuttle Atlantis. The rail car, called the Mobile Transporter, is part of the S-0 truss and will allow the station's Canadarm2 robotic arm to move freely between construction sites. Canadarm2, a Canadian contribution to the ISS, has performed flawlessly in its role so far, including installing the new truss segment and moving astronauts around the station. Engineers detected an anomaly on one of its joints but successfully bypassed it. The rail car will be tested today, with ground controllers expecting it to move at a top speed of just three centimeters per second. The completed girder will support thousands of square meters of solar panels generating power for use throughout the station.
+
+END OF SUMMARY.

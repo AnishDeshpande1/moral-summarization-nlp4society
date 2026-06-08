@@ -1,0 +1,38 @@
+Here is the target news article:
+
+5:14pm Sat May 4th, 2002 -- Thirty-two non-governmental organisations [NGOs] today said they have suspended all engagements with the Malaysian Human Rights Commission or Suhakam for 100 days since April 24 - when the latest appointments to the commission took effect.
+
+STEP 1:
+* poor
+* concern
+* disdain
+* wrath
+* guilty
+* excessive
+* decline
+* deteriorated
+* restrictive
+* denied
+* commitment
+* respect
+* universal
+* instrument
+* torture
+* controversial
+* independence
+* perceived
+* dependent
+* undermine
+* erode
+* confidence
+* public
+* records
+* nothing
+* personal
+* concern
+* objective
+
+SUMMARY:
+Thirty-two NGOs suspended all engagements with the Malaysian Human Rights Commission, Suhakam, for 100 days due to its poor response to their recommendations. The NGOs expressed deep concern about the government's disdain for human rights and its excessive use of force against protesters. They lamented the decline in human rights in Malaysia and the restrictive amendments to election laws that deny citizens' democratic space. The NGOs also questioned the commitment of Suhakam's new chairperson, Abu Talib Othman, who was previously involved in suppressing civil liberties. They perceived that his appointment undermined the independence of the Commission and eroded public confidence in it. The NGOs will monitor Suhakam's performance and review their position after 100 days.
+
+END OF SUMMARY.

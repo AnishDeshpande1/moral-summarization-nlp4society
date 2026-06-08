@@ -1,0 +1,24 @@
+Here is the output for the given news article:
+
+STEP 1:
+* influence
+* meddling
+* foreign
+* concern
+* Moscow's
+* alleged
+* meddling
+* hacking
+* Putin
+* authoritarian
+* autocratic
+* partisan
+* divide
+* vulnerable
+* retaliation
+* costs
+* thoughtful
+* methodical
+
+SUMMARY:
+President Obama expressed his hope that President-elect Trump will show appropriate concern about allegations of Russian hacking into the U.S. election system, criticizing many Republicans for being more worried about defeating Hillary Clinton than protecting against foreign influence. Obama blasted Republican officials and voters for expressing positive views of Putin, calling him an authoritarian leader who has "wasted no time stripping parts from the engine of American strength." The President emphasized that Russia's hacking was a serious concern, stating that "somebody else is going to have to fill in the blanks" about Trump's stance on Russian influence. He also criticized journalists for publishing news stories based on stolen Democratic documents, and called for a more robust response to Russia's actions. Obama warned that unless the U.S. takes action against foreign meddling, it will remain vulnerable to influence, and that retaliation must be carried out in a thoughtful and methodical way. END OF SUMMARY.

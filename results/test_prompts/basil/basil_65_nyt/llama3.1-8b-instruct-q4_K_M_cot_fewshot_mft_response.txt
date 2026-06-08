@@ -1,0 +1,18 @@
+Here is the output for the given news article:
+
+STEP 1:
+* menace
+* rage
+* public
+* cordial
+* generous
+* philanthropist
+* flinty
+* crude
+* ostentatious
+* vulnerable
+* friends
+* crazy
+
+SUMMARY:
+Former New York City Mayor Michael Bloomberg's speech at the Democratic National Convention portrayed Donald Trump as a "public menace" and hinted that he was not quite sane. However, their interactions in New York City have been limited yet cordial, with both men existing in different circles of the ultrarich. Bloomberg is known for his generosity and philanthropy, while Trump has been described as flinty and crude in his giving. Despite their differences, they have met on several occasions, including a charity golf event at Trump National Golf Club in 2007, where Trump showed deference to Bloomberg. However, when Trump declared his candidacy, Bloomberg began exploring his own presidential bid as an independent, citing concerns that his third-party candidacy could siphon votes from Hillary Clinton and inadvertently help Trump win. Trump has responded with counterattacks, including speculation about Bloomberg's wealth and the vulnerability of his company. END OF SUMMARY.

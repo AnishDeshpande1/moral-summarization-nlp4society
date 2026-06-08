@@ -1,0 +1,14 @@
+**STEP 1:**
+
+* snag
+* problem
+* snag (again)
+* nuisance
+* danger 
+
+These single words are morally framed as they imply that there is an issue or risk involved, but it's not a significant one.
+
+**SUMMARY:**
+The international space station's new railcar encountered a slight setback during its inaugural run due to the weightlessness in orbit. The railcar floated slightly off track, causing the magnetic sensors on its bottom to lose contact with the iron strips in the aluminum tracks. This resulted in an automatic latching system shutdown twice, requiring ground controllers to take over manual control to secure the car. Engineers suspect that this issue may be a nuisance if it continues to occur, but NASA assures there is no danger of the railcar rolling off track due to its design. The railcar will eventually be used for transporting the space station's robot arm as more girders are installed.
+
+END OF SUMMARY.

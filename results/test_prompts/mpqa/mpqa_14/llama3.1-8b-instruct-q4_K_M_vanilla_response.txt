@@ -1,0 +1,4 @@
+SUMMARY:
+A Russian supply ship, Progress, docked with the International Space Station (ISS) on Wednesday, but there are concerns that it may not have latched properly into place. NASA officials said that a loose fit could damage the orbiting complex due to the force of a docking shuttle. The linkup initially appeared successful, but Russian flight controllers did not receive the expected indication that the hooks had closed and latched. As a precaution, some laboratory equipment was switched off to conserve power while engineers assessed the situation. After three hours, Russian engineers determined that the supply ship was attached securely enough for the steering system to operate. The incident may impact the planned launch of space shuttle Endeavour tonight, which is scheduled to deliver supplies to the ISS.
+
+END OF SUMMARY.

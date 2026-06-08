@@ -1,0 +1,13 @@
+Here are the results for the target news article:
+
+STEP 1:
+* deeply
+* profoundly
+* regret
+* poor
+* respect
+* civil
+* harm
+
+SUMMARY:
+Representative Bob Etheridge issued an apology on Monday for grabbing a young man by the hand, arm and neck as he tried to ask him about his support for President Obama's agenda. Etheridge said he "deeply and profoundly regrets" his reaction and apologized to all involved. He acknowledged that politics can be intrusive and partisan, but added that this does not justify a poor response. In fact, he has always worked to promote a civil public discourse. The incident raises concerns about harm inflicted on individuals who engage in peaceful political activism. Etheridge's actions have been widely criticized as unbecoming of a member of Congress, and his re-election bid is now under scrutiny. His conduct has sparked outrage, and some have called for greater respect for individuals who hold differing viewpoints. END OF SUMMARY.

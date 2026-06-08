@@ -1,0 +1,24 @@
+Here is the output:
+
+STEP 1:
+* evil
+* pure
+* dark
+* broken-hearted
+* crushed
+* comfort
+* faith
+* family
+* shared values
+* unity
+* evil
+* hatred
+* fear
+* banished
+* innocent
+* safe
+
+SUMMARY:
+President Trump addressed the nation following the deadliest mass shooting in modern US history, calling it an "act of pure evil." He expressed his condolences to the families of the victims and offered his prayers for comfort during this "very dark period." The president emphasized the importance of faith, family, and shared values in uniting the country. He stated that "our unity cannot be shattered by evil" and called upon Americans to take solace in their bonds with one another. Trump also expressed his desire for a future where evil is banished and the innocent are safe from hatred and fear. In his address, he urged Americans to come together in this time of grief, seeking comfort in faith and shared values.
+
+END OF SUMMARY.

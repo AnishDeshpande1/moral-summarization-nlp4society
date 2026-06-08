@@ -1,0 +1,11 @@
+Here is the target news article summarized in the style of a moral expert:
+
+SUMMARY:
+
+A Russian supply ship, Progress, docked to the International Space Station on Wednesday, but may have missed proper latching. NASA officials expressed concern that a loose fit could damage the orbiting complex due to the force imparted by a docking shuttle. The incident highlights the importance of precision and attention to detail in space exploration, where small mistakes can have significant consequences.
+
+The Russian Mission Control team worked diligently to assess the situation, switching off equipment and conserving power to ensure the safety of the space station. Their efforts paid off, as they determined that the supply ship was securely attached enough for the steering system to operate.
+
+This incident serves as a reminder of the risks and challenges involved in space travel. It also highlights the importance of collaboration and communication between international teams working together towards a common goal. The successful docking of Progress is a testament to the dedication and expertise of the Russian Mission Control team, and their commitment to ensuring the safety and success of space missions.
+
+END OF SUMMARY.

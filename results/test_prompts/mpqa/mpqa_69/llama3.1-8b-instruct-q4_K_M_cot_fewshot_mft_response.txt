@@ -1,0 +1,26 @@
+Here is the result of the analysis:
+
+STEP 1:
+* regrettable
+* negative
+* mandatory
+* voluntary
+* sacrifice
+* alternative
+* reconsider
+* re-enter
+* dangerous
+* urgent
+* peaceful
+* fair
+* support
+* cooperation
+* war
+* terrorism
+* cease
+* reduce
+
+SUMMARY:
+Environmental groups staged a protest against the US alternative to the Kyoto Protocol on curbing global warming near the US Embassy in Tokyo, calling it "regrettable" that the US has taken a "negative" stand. The protesters carried banners reading, "Ratify the Kyoto Protocol," and handed a letter to President Bush, urging him to reconsider his climate policy plan immediately and re-enter the Kyoto Protocol. They argue that the new plan would allow the current greenhouse gas emissions of the US to increase by around 30% compared to 1990 levels in 2010, making it "dangerous" for the planet. The groups demand that Bush take leadership in helping developing countries through "peaceful dialogue and fair economic support," and stop all air raids on Afghanistan. They also call on the US to cease nuclear experiments and reduce US military bases in Japan. The protest comes amid heightened security around the embassy as Prime Minister Koizumi and Bush meet to discuss measures to tackle global warming.
+
+END OF SUMMARY.

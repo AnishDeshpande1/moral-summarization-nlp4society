@@ -1,0 +1,25 @@
+Here are the morally framed words from the news article:
+
+STEP 1:
+* myth
+* crime
+* civil
+* infraction
+* heroes
+* deporting
+* answer
+* wasted
+* smarter
+* better
+* enforcement
+* recent
+* serious
+* threat
+* public
+* safety
+* failed
+
+SUMMARY:
+The fatal shooting of Kate Steinle by Juan Francisco Lopez-Sanchez, a Mexican immigrant in the country without documentation, has sparked debate over immigration policies. However, research shows that increased illegal immigration does not lead to more crime. In fact, studies have found that crime rates fell as the size of the immigrant population grew. The incident highlights the need for smarter and better immigration enforcement, focusing on those who pose a real threat to public safety. Lopez-Sanchez had been deported five times and was released after serving time for his previous crimes. His case raises questions about the effectiveness of current policies and the waste of resources spent on deporting people who are working productively in their communities. The Department of Homeland Security's decision to rethink its deportation priorities is a step in the right direction, targeting convicted criminals, recent border crossers, and terrorism threats.
+
+END OF SUMMARY.

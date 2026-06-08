@@ -1,0 +1,7 @@
+SUMMARY:
+
+A recent study by NASA's Goddard Institute for Space Studies suggests that the world is already on a path towards a cooler future due to declining greenhouse-gas emissions since the late 1980s. Researchers attribute this slowdown, in part, to the implementation of the Montreal Protocol, which countries agreed to phase out production of gases that erode the Earth's ozone layer. These gases also trap heat thousands of times as effectively as carbon dioxide, the main focus of the Kyoto Protocol. The study's findings indicate that if greenhouse gas emissions had continued to rise at their peak rate in 1980, temperatures would have reached levels not expected until 2100.
+
+The researchers propose an alternative approach to addressing climate change by attacking other pollutants such as black carbon soot and methane from landfills, mining, and oil production. By reducing methane emissions by 30 percent, the effect on climate would be comparable to the cuts in CO2 envisioned by the Kyoto Protocol. This effort highlights a possible path to adjusting the globe's thermostat through non-politically charged means.
+
+END OF SUMMARY.

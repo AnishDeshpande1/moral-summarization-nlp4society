@@ -1,0 +1,6 @@
+Here is the summary of the target news article, preserving its neutral tone:
+
+SUMMARY:
+Astronauts on the International Space Station successfully tested the new railcar, which will transport the space station's robot arm during future construction phases. However, the inaugural run was interrupted by a snag caused by weightlessness in space. The one-ton car floated slightly off the rail, disrupting the magnetic sensors and requiring manual control from ground controllers to secure it. Despite this issue, the railcar completed three test runs along 26 feet of track before automatic latching systems shut down again. Engineers suspect software adjustments may be needed to prevent similar problems in the future. NASA assures that there is no danger of the $190 million railcar rolling off the track due to safety rings at both ends of the girder. The first use of the railcar is set for late summer, with a fourth and final spacewalk scheduled today to complete the girder installation.
+
+END OF SUMMARY.

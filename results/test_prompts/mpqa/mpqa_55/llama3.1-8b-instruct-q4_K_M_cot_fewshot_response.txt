@@ -1,0 +1,26 @@
+Here is the result for the target news article:
+
+STEP 1:
+* appreciate
+* efforts
+* flexible
+* gradual
+* concerns
+* view
+* elaboration
+* concrete
+* levels
+* intensity
+* understanding
+* building
+* actively
+* participate
+* ratification
+* framework
+* reduce
+* emissions
+
+SUMMARY:
+The South Korean government has announced its position on US President George W. Bush's new policy to control greenhouse gas emissions, which he wants discussed internationally along with the Kyoto Protocol. The Ministry of Foreign Affairs and Trade appreciates the US efforts in addressing climate change but notes that greater elaboration is needed for the new initiative to be effective. Specifically, the Korean government emphasizes the need for concrete methods to establish levels of greenhouse gas intensity. In light of this, Seoul believes that consultations amongst the international community are necessary to build understanding on the US initiative and actively participate in the process. The announcement comes as over 180 countries prepare for ratification of the Kyoto Protocol, which aims to reduce emissions relative to Gross Domestic Product or economic activities.
+
+END OF SUMMARY.

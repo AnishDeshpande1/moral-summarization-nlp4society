@@ -1,0 +1,8 @@
+Here is the result of applying the instructions to the target news article:
+
+STEP 1:
+*Weightlessness
+*Nuisance
+
+SUMMARY:
+The inaugural run of the international space station's new railcar was slightly off track due to "weightlessness" in orbit, causing the magnetic sensors on the bottom of the car to lose contact with a pair of iron strips in the aluminum tracks. NASA engineers suspect that the one-ton car floated ever so slightly off the rail, interrupting the automatic latching system and requiring manual control from ground controllers. Despite this hiccup, the railcar was able to move smoothly along the 44-foot girder and complete its mission to transport the space station's robot arm from one end of the outpost to the other. The engineers may adjust the computer software in the future if it becomes a "nuisance" but for now, there is no danger of the railcar rolling off the track due to safety rings on both ends of the girder. The railcar's successful use will pave the way for the next stages of the space station's construction. END OF SUMMARY.

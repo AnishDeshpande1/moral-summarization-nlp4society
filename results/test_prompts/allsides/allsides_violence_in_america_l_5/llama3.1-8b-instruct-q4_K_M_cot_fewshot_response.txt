@@ -1,0 +1,20 @@
+Here are the morally framed words from the target news article:
+
+STEP 1:
+* damning
+* bullshit
+* misled
+* serious
+* slap
+* NBD (no big deal)
+* callous
+* disregard
+* willful
+* blind
+* reasonable
+* just
+
+SUMMARY:
+The NFL's handling of domestic violence has been criticized as a "damning indictment" after an arbitrator granted Ray Rice's appeal, making him eligible to play again. The league initially gave Rice a light punishment, fining him his salary from a third game and suspending him for two games, but later revised the punishment to indefinite suspension after a public outcry. However, the arbitrator found that NFL Commissioner Roger Goodell had misled the league about the nature of the assault, and was therefore barred from imposing a more severe punishment. The decision raises concerns that the NFL still doesn't take domestic violence seriously enough, with some arguing that the league has a "callous disregard" for its seriousness. The arbitrator's decision suggests that the NFL is not doing enough to understand or respond to domestic violence, and that it may be ignoring evidence and minimizing the seriousness of the testimony it receives. This raises questions about what will happen the next time an NFL player assaults his romantic partner.
+
+END OF SUMMARY.

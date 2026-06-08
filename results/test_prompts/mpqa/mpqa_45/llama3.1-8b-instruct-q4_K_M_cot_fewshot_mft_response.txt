@@ -1,0 +1,41 @@
+Here is the target news article with the morally framed words extracted:
+
+STEP 1:
+* poor
+* ignored
+* disdain
+* wrath
+* biased
+* excessive
+* guilty
+* disrespect
+* recognised
+* deteriorated
+* detained
+* blanket
+* restrictive
+* denied
+* commitment
+* respect
+* universal
+* principles
+* ratifying
+* independence
+* perceived
+* pleased
+* executive
+* undermined
+* confidence
+* committed
+* advancing
+* defending
+* impeachment
+* concerned
+* objectively
+* assess
+* critique
+
+SUMMARY:
+Thirty-two NGOs have suspended their engagements with the Malaysian Human Rights Commission (Suhakam) for 100 days, protesting the government's poor response to Suhakam's recommendations. The NGOs say the government has ignored Suhakam's reports and failed to respect its recommendations, leading to a deterioration of human rights in Malaysia. They are concerned that the appointments of new commissioners, mostly retired civil servants, will undermine Suhakam's independence and erode public confidence in the institution. The NGOs want Suhakam to objectively assess and critique executive policies that impinge on human rights. If not, they will continue to monitor Suhakam's performance, judging it on its ability to improve human rights in Malaysia. The boycott is a response to the government's poor commitment to advancing human rights principles.
+
+END OF SUMMARY.
