@@ -1,0 +1,18 @@
+Here is the output for the target news article:
+
+STEP 1:
+* terrible
+* praying
+* swift
+* bravery
+* difficult
+* horrible
+* unconscionable
+* responsibility
+* keep
+* safe
+
+SUMMARY:
+A male student was taken into custody after a shooting at an Indiana middle school that left a teacher and a student critically injured. The incident has raised concerns about the safety of schools, with many calling for increased measures to prevent such tragedies. Authorities have praised the bravery of a science teacher who tackled the suspect, preventing further harm. However, the incident highlights the need for stricter gun control laws and improved security measures in schools. As one parent noted, "I just want to get my arms around my boy" - a sentiment echoed by many who are seeking reassurance that their children will be safe at school. The incident is a stark reminder of the terrible toll of gun violence on communities and the responsibility of authorities to keep students safe.
+
+END OF SUMMARY.

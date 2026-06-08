@@ -1,0 +1,72 @@
+Here is the answer:
+
+**Example 1 (Political Ideology: Left)**
+
+* false
+* untrue
+* desperate
+* attack
+* character
+* reputation
+* fake
+* hurtful
+* highest
+* guilty
+* misconduct
+
+SUMMARY:
+Alabama Republican Senate candidate Roy Moore has denied allegations of pursuing sexual relationships with teenagers, including a 14-year-old, when he was in his 30s. He accused The Washington Post of launching a "desperate" attack on his character and reputation to stop his political campaign. Moore emphasized his "highest regard for the protection of young children" but admitted that the alleged incidents were "hurtful" to him personally. Despite the allegations, Moore has threatened to sue The Washington Post over the report.
+
+**Example 2 (Political Ideology: Center)**
+
+* sensible
+* common-sense
+* fear
+* restrict
+* abuse
+* authority
+* rights
+* comprehensive
+* huge
+* safe
+* clear
+* ripe
+* robust
+* viable
+* low
+* priority
+* capital
+* greatest
+* impact
+
+SUMMARY:
+President Obama is committed to taking "sensible, common-sense steps" to reduce gun violence. His plan includes 19 separate actions he can take by invoking executive power, including imposing new limits on imported guns and directing the Centers for Disease Control and Prevention to conduct research on gun violence. Despite potential political attacks, Obama's allies see a rare opportunity for tighter gun rules.
+
+**Example 3 (Political Ideology: Right)**
+
+* rights
+* control
+* protect
+* victims
+* risk
+* boon
+* safety
+* restrictions
+* imperative
+* commit
+
+SUMMARY:
+A recent Pew Research Center survey reveals a shift in Americans' attitudes towards gun ownership, with 52% prioritizing Second Amendment rights over gun control. This change is driven in part by a dramatic shift among black Americans, who now view guns as a public safety boon.
+
+**Target News Article**
+
+* winning
+* systemic
+* racism
+* unfairly
+* big problem
+* responsive
+* unaccountable
+
+SUMMARY:
+The Black Lives Matter movement is winning, with Americans paying more attention to systemic racism in the criminal justice system. Recent surveys show that all Americans are more likely to say that black people are unfairly treated in society, and a 20-year high percentage of Americans call racism a "big problem." Prosecutors and lawmakers are taking the issue more seriously, pushing for police accountability and reforms. While the battle is not over, the trend is apparent: Black Lives Matter is winning.

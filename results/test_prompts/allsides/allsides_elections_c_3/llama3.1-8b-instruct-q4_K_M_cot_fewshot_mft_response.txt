@@ -1,0 +1,23 @@
+Here is the result:
+
+STEP 1:
+* concerned
+* very concerned
+* not concerned at all
+* sabotage
+* blamed
+* orchestrating
+* undermine
+* tampering
+* unfairly
+* disinformation
+* confidence
+* fuel
+* appeals
+* months
+* integrity
+* transparency
+* comfort
+
+SUMMARY:
+The unprecedented amount of cyberattacks this campaign cycle has already had a profound impact on American democracy, with 38% of Americans concerned that the election itself could be hacked. The Obama administration has blamed Russia for orchestrating the breach, but even if hackers can't compromise actual voting systems, the internet campaign to spread fear of vote hacking and manipulation may be enough to have a major impact on public trust. Mere reports of possible Election Day hacking on social media, blogs, and in mainstream news outlets could fuel post-election challenges to the results. State officials are on guard for any potential signs of tampering, but experts say that Russia's aim is not to directly attack the election infrastructure, but rather to organize a disinformation campaign attacking confidence in the election itself, thereby undermining its legitimacy and unfairly influencing the outcome. END OF SUMMARY.

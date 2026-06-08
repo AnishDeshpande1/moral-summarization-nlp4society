@@ -1,0 +1,9 @@
+SUMMARY:
+
+Severe illness from COVID-19 in children is rare, but serious cases do occur. To keep schools safe, communities must control the virus through measures such as wearing masks, washing hands, and maintaining social distance. Strategic testing, effective isolation, contact tracing, and supportive quarantine are also crucial. The CDC has released guidelines for safely reopening schools, which require adapting to local contexts.
+
+To reopen schools safely, eight basic safety measures should be followed: shielding vulnerable individuals, reducing risk wherever possible, promoting remote participation, modifying essential services, and implementing capacity restrictions in libraries. Large gatherings, such as choir rehearsals and team sports, may need to stop or be modified. Recess and physical-education classes can continue if students follow guidelines.
+
+Ultimately, the success of school reopening depends on community control of COVID-19. By following these measures and adapting to local needs, schools can provide a safe environment for students to learn.
+
+END OF SUMMARY.

@@ -1,0 +1,26 @@
+Here is the output:
+
+STEP 1:
+* control
+* violence
+* victims
+* massacre
+* hoax
+* conspiracy
+* harassment
+* emboldened
+* reform
+* priority
+* top
+* strident
+* stall
+* languished
+* tightened
+* background
+* checks
+* legislation
+
+SUMMARY:
+Prominent Democrats, including US senators Chris Murphy and Richard Blumenthal, plan to introduce sweeping legislation to impose background checks on all gun sales. The Democratic majority in the House is expected to prioritize gun reform as one of their top priorities for the incoming Congress of 2019. This move comes after a series of mass shootings in recent years, including Sandy Hook, Parkland, and Las Vegas, which have left thousands of victims and families affected by violence. Despite previous bipartisan efforts to strengthen background checks, the legislation has stalled in the Republican-controlled Congress. Now, Democrats are feeling emboldened to take a strident new approach to gun control, hoping to win more Republican support and set out their stall ahead of the 2020 presidential election.
+
+END OF SUMMARY.

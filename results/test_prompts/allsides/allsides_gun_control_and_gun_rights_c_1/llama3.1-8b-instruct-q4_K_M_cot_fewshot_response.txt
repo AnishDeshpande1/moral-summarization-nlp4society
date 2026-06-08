@@ -1,0 +1,15 @@
+Here are the single words that are morally framed from the target news article:
+
+STEP 1:
+* hero
+* courageous
+* heroic
+* significant
+* bravery
+* shock
+* sorrow
+* grateful
+* courage
+
+SUMMARY:
+A shooting rampage in Springfield, Mo, left five people dead, including a police officer and the gunman. The shooter, identified as Joaquin S. Roman, 31, fired randomly from his vehicle before crashing into a convenience store and opening fire on customers and employees. Police officers Christopher Walsh and Josiah Overton were shot while trying to rescue victims, with Officer Walsh dying a hero after rushing in to protect members of the community without regard for his own safety. The shooting was described as a "significant" incident that left the police department grieving the loss of one of their own. A woman who witnessed the shooting said it was "surreal" and described the gunman's actions as shocking. The incident highlights the bravery of first responders, with the police chief praising their courageous actions in responding to the scene.

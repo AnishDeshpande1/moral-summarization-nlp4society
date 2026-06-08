@@ -1,0 +1,9 @@
+SUMMARY:
+
+Cyberattacks on political organizations this summer have left Americans concerned about the integrity of the election, with 38% worried that the election itself could be hacked, and 18% being "very concerned". This fear has led to a significant number of people considering not voting at all. The Obama administration blames Russia for orchestrating the hack on the Democratic National Committee as part of a broader effort to sway public opinion.
+
+Even if hackers don't compromise actual voting systems, the internet campaign to spread fear of vote hacking and manipulation may have a major impact on public trust. Experts warn that merely claiming to be able to hack the election could discredit it in the eyes of voters. State officials are on high alert for any signs of tampering, but acknowledge that even non-cyber threats like disruption or misinformation can impact the voting process.
+
+The real concern is not just cyberattacks, but also the erosion of trust in the democratic process. As one expert noted, "If you lose faith in the process, then what?" The integrity and transparency of the election are crucial to maintaining public confidence in the outcome.
+
+END OF SUMMARY.

@@ -1,0 +1,20 @@
+Here are the single words that are morally framed from the news article:
+
+STEP 1:
+* devastating
+* health
+* imperative
+* responsible
+* safe
+* prudent
+* privilege
+* respect
+* sympathy
+* personal
+* economic
+* livelihoods
+* risk
+* responsibly
+
+SUMMARY:
+The lockdown has become a health-versus-health issue, with serious consequences on the nation's well-being. The economic devastation is not just limited to the ultra-poor, but also affects low-income workers disproportionately. According to statistics, nearly 75,000 Americans could die from drug or alcohol abuse and suicide due to COVID-19. Moreover, the pandemic has pushed an additional 130 million people to the brink of starvation by the end of 2020. State and local officials need to make responsible decisions on how and when to reopen based on scientific data. It's time to ease up restrictions and manage this virus prudently, allowing Americans to take the risk safely and responsibly while supporting their families. Instead of judgment, there should be sympathy and respect for these workers who have everything at stake. END OF SUMMARY.

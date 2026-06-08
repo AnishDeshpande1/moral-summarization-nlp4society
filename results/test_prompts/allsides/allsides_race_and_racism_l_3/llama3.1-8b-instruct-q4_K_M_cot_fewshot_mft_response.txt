@@ -1,0 +1,35 @@
+Here is the response to the target news article:
+
+STEP 1:
+* racism
+* crisis
+* deadly
+* cruel
+* ironic
+* deflected
+* blame
+* harm
+* inequities
+* disparities
+* undermine
+* mental
+* physical
+* well-being
+* stress
+* adverse
+* outcomes
+* mortality
+* rate
+* disproportionate
+* essential
+* risk
+* worse
+* care
+* underlying
+* conditions
+* deadly
+
+SUMMARY:
+The COVID-19 pandemic has laid bare the deep-seated health inequities that plague the African American community, a crisis rooted in systemic racism. The police violence that kills black Americans at nearly three times the rate of white Americans is just one symptom of this larger problem. Moreover, the legacy of slavery and discrimination persists in modern medicine, contributing to higher rates of diabetes, hypertension, asthma, and heart disease among black Americans. Racism itself is a major driver of these health inequities, with chronic stress caused by discrimination triggering adverse health outcomes. The pandemic has only highlighted these disparities, with predominantly black counties seeing three times the rate of infection and six times the rate of COVID-related death as white counties. It is time to face this reality and acknowledge that systemic racism has had its knee on the neck of the African American community since America began. We must press for meaningful policy change to address these inequities.
+
+END OF SUMMARY.

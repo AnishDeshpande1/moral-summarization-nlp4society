@@ -1,0 +1,27 @@
+Here is the result for STEP 1:
+
+* cautious
+* optimistic
+* skeptical
+* game-changing
+* extraordinary
+* best-case
+* possible
+* prepare
+* effective
+* last
+* hold
+* backfire
+* risk
+* unsafe
+* undermine
+* difficult
+* approved
+* willing
+* roll-up
+* sleeves
+
+And here is the summary:
+
+SUMMARY:
+The development of a COVID-19 vaccine has been underway for months, with over 100 potential vaccines in various stages of development. However, experts are cautious about the possibility of a game-changing vaccine being ready by the end of the year or even next summer. Some are skeptical that this extraordinary feat can be accomplished and worry about investing too much in what may be a best-case scenario. Preparing for the possibility that it might take years for a vaccine to become widely available is considered a more effective approach. This plan involves developing systems of testing, tracing, and therapeutic medicines that can last as long as they're needed. The idea of a vaccine being right around the corner may be holding back efforts to put virus mitigation measures in place, which could increase the risk of an unsafe vaccine making it to market and undermine herd immunity. END OF SUMMARY.

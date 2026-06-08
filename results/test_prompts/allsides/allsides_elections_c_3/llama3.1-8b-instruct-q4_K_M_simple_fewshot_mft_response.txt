@@ -1,0 +1,5 @@
+SUMMARY:
+
+The threat of cyberattacks on the US election has already had a profound impact on American democracy, with 38% of Americans concerned that the election itself could be hacked. This fear has led to 1 in 5 respondents saying they might not vote. The Obama administration blames Russia for orchestrating the breach, but the high-profile accusation hasn't quashed Guccifer's claims of Election Day tampering. Experts warn that even if foreign hackers can't compromise actual voting systems, the internet campaign to spread fear of vote hacking and manipulation may be enough to discredit the vote. Republican candidate Donald Trump has claimed the election could be rigged, giving hackers a credible claim to exploit. This disinformation campaign aims to undermine confidence in the election, making it difficult for people to trust the results. State officials are on guard for any potential signs of tampering, but mere reports of possible hacking on social media and mainstream news outlets could fuel post-election challenges.
+
+END OF SUMMARY.
