@@ -336,6 +336,7 @@ class LlamaModelForSequenceCompletion:
             self.model = AutoModelForCausalLM.from_pretrained(
                 self.base_model_path,
                 quantization_config=self.bnb_config,
+                device_map="cuda:0",
             )
         else:
             self.model = AutoModelForCausalLM.from_pretrained(
