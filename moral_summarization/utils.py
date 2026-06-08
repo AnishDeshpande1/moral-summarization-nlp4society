@@ -80,8 +80,8 @@ def sanitize_model_tag(name):
 def get_device_map():
     if torch.cuda.is_available():
         print(f"Using GPU {torch.cuda.get_device_name(0)}")
-        device_map = {"": 0} # Use GPU 0
-        device_type = "cuda"
+        device_map = "auto"  # required for 4-bit/8-bit bitsandbytes models;
+        device_type = "cuda" # {"": 0} triggers an illegal .to() call on quantized weights
     else:
         print('No GPU available, using the CPU instead.')
         device_map = None
