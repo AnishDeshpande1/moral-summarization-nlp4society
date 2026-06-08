@@ -1,0 +1,145 @@
+You have to summarize the following text preserving the moral framing that the author gave to it, with particular focus on the specific moral foundations highlighted in the text.
+
+Please study the following examples of news articles, their moral word extraction, and summaries preserving the moral framing:
+
+Example 1 (Political Ideology: Left, Moral Foundations: Authority/Subversion, Sanctity/Degradation):
+Here is the news article:
+
+Republican presidential candidate Rick Perry pledges to end "[President Barack] Obama's war on religion" in a new television ad airing in Iowa, railing against open service of gays and lesbians in the military and the prohibition against prayer in public schools.
+
+"I'm not ashamed to admit I'm a Christian," says Perry.
+"But you don't need to be in the pews every Sunday to know that there's something wrong in this country when gays can serve openly in the military but our kids can't openly celebrate Christmas or pray in school."
+
+"As president, I'll end Obama's war on religion and I'll fight against liberal attacks on our religious heritage," the Texas governor continues.
+"Faith made America strong. It can make her strong again."
+
+Perry has recently stepped up his attacks on Obama for cultural issues.
+In a statement released Tuesday, he decried the Obama administration’s decision to use foreign aid to promote rights for gays and lesbians abroad.
+
+"This is just the most recent example of an administration at war with people of faith in this country," he said.
+"Investing tax dollars promoting a lifestyle many Americas of faith find so deeply objectionable is wrong.
+President Obama has again mistaken America's tolerance for different lifestyles with an endorsement of those lifestyles."
+
+Politico reported Tuesday that Perry bought $1 million in broadcast television time ahead of the Jan. 3 caucuses.
+The Dallas Morning Newsrecently reported that his presidential campaign plans to bring "more than 600 influential Texans" to Iowa in December.
+However, Perry netted just six percent support among likely Republican caucus-goers, according to a Des Moines Register poll released Saturday.
+
+STEP 1:
+* ashamed
+* wrong
+* faith
+* heritage
+* strong
+* objectionable
+* tolerance
+* endorsement
+
+SUMMARY:
+Republican presidential candidate Rick Perry is pledging to end what he calls "[President Barack] Obama's war on religion" in a new TV ad airing in Iowa. Perry, a self-proclaimed Christian, claims that Obama's administration is at war with people of faith, citing the open service of gays and lesbians in the military and the prohibition against prayer in public schools as examples. Perry argues that it's "wrong" that kids can't openly celebrate Christmas or pray in school, while gays can serve openly in the military. He vows to "fight against liberal attacks on our religious heritage" and claims that "faith made America strong. It can make her strong again." Perry has also criticized Obama's decision to use foreign aid to promote rights for gays and lesbians abroad, calling it "wrong" and an "endorsement" of a lifestyle many Americans of faith find "objectionable." END OF SUMMARY.
+
+Example 2 (Political Ideology: Center, Moral Foundations: Care/Harm):
+Here is the news article:
+
+WASHINGTON — It is a lesson politicians never seem to learn from others’ mistakes: The microphone is always on.
+
+The latest candidate to learn the hard way was Representative Bruce Braley, an Iowa Democrat running for Senate this year.
+Mr. Braley apologized to Senator Charles E. Grassley, Republican of Iowa, and “anyone I may have offended” after video emerged of him warning that “a farmer from Iowa who never went to law school, never practiced law” could become chairman of the Judiciary Committee.
+
+Mr. Braley is not running against Mr. Grassley, who plans to seek a seventh term in 2016.
+But as the ranking Republican on the Judiciary Committee, Mr. Grassley could assume the chairmanship if his party takes control of the Senate this year.
+Mr. Braley, speaking at a January fund-raiser in Corpus Christi, Tex., was explaining why he should go to the Senate instead of his Republican opponent.
+
+America Rising, a conservative political action committee that has vowed to use videos and opposition research to attack Democratic candidates, posted the footage on YouTube on Tuesday.
+Other Republicans quickly criticized Mr. Braley.
+
+Though their numbers are declining, farmers are still a powerful force in the Iowa, which ranks second in the country in total farm sales.
+Mr. Braley’s apology noted his family’s history with Iowa agriculture, including his own stint “doing farm jobs and working a grain elevator.”
+
+In another appeal to Iowa farmers, Joni Ernst, a candidate in the Republican Senate primary on June 3, announced in an ad that she grew up “castrating hogs on an Iowa farm.”
+Ms. Ernst said that qualified her to “cut pork” in Washington.
+
+STEP 1:
+* apologized
+* offended
+* warned
+* criticized
+* powerful
+* qualified
+
+SUMMARY:
+Representative Bruce Braley, an Iowa Democrat running for Senate, apologized for his offensive remarks about Senator Charles E. Grassley, a Republican from Iowa. Braley warned that a farmer from Iowa who never went to law school could become chairman of the Judiciary Committee, implying that Grassley was unqualified for the position. The video of Braley's comments was posted on YouTube by America Rising, a conservative political action committee. Braley's apology noted his family's history with Iowa agriculture, but Republicans quickly criticized him for his remarks. In contrast, Joni Ernst, a Republican Senate candidate, highlighted her experience growing up on an Iowa farm, saying it qualified her to "cut pork" in Washington. The incident serves as a lesson to politicians that the microphone is always on, and careless comments can have consequences. END OF SUMMARY.
+
+Example 3 (Political Ideology: Right, Moral Foundations: Authority/Subversion, Fairness/Cheating):
+Here is the news article:
+
+Arkansas Republican Gov. Asa Hutchinson on Wednesday urged state lawmakers to change a controversial religious freedom bill sent to his desk a day earlier, in the face of criticism that it could allow businesses and others to discriminate based on sexual orientation.
+
+Hutchinson had initially said he planned to sign the bill but backed off as his state, overnight, became the new focal point of a nationwide backlash over such legislation.
+Indiana for days has faced similar criticism for a related religious freedom bill.
+
+During a press conference in the state capital of Little Rock, Hutchinson said he wants to strike the "right balance."
+The governor, amid calls by critics to veto the bill, made clear he still supports the intent of the legislation -- which prohibits state and local governments from infringing upon someone's religious beliefs without a compelling interest.
+But he said he wants changes made so it more closely mirrors a 1993 federal law.
+
+"I asked that changes be made in the legislation," Hutchinson said, urging state lawmakers to "recall" the bill -- or pass additional legislation -- to "remedy" the issue.
+
+The announcement reflects the intense debate in state capitals across the country where such legislation is being considered.
+Backers say the intent was to simply replicate the 1993 federal law and similar laws in place in 19 other states.
+But when Indiana passed a slightly more expansive version which critics said could allow discrimination by businesses, Indiana lawmakers and Gov. Mike Pence later vowed to "clarify" the language in response to complaints.
+
+Hutchinson, too, said the country is clearly split on how to balance religious traditions with non-discrimination.
+
+At its heart, he said, "this bill is not really complicated."
+But he cited a "generational gap."
+As evidence, the governor said even his own son had signed a petition urging him to veto the bill.
+
+Hutchinson's chief complaint was that some provisions do not "precisely mirror" the federal law, and he wants that addressed.
+He said he's also working on an executive order to address the issue of tolerance.
+
+Echoing the reaction to Indiana's law, Hutchinson has faced pressure from the state's top employers, including retail giant Wal-Mart, which complained that the measure was discriminatory and would stifle economic development.
+Little Rock's mayor, the city's Chamber of Commerce and Arkansas-based data services company Acxiom all urged the governor to reject the measure in recent days.
+
+The Human Rights Campaign, the nation's largest lesbian, gay, bisexual and transgender rights group, has run ads in Silicon Valley targeting technology firms Hutchinson hopes to attract to the state.
+
+Prior to the passage Tuesday of the Arkansas bill, the White House repeated its opposition to the Indiana law.
+
+"This kind of public outcry ... is indicative of how this piece of legislation flies in the face of values that people all across America strongly support," said White House Press Secretary Josh Earnest.
+"Governor Pence falsely tried to suggest the law is the same as the 1993 law.
+That is not true."
+
+Earnest also said the Indiana law was a "significant expansion" of current law.
+
+STEP 1:
+* discriminatory
+* backlash
+* criticism
+* compelling
+* infringing
+* veto
+* remedy
+* intense
+* debate
+* complicated
+* generational
+* gap
+* tolerance
+* discriminatory
+* stifle
+* reject
+* opposition
+* strongly
+* support
+* falsely
+* significant
+* expansion
+
+SUMMARY:
+Arkansas Governor Asa Hutchinson has urged state lawmakers to change a controversial religious freedom bill, which critics argue could allow businesses to discriminate against individuals based on sexual orientation. The bill, which prohibits state and local governments from infringing upon someone's religious beliefs without a compelling interest, has faced intense backlash and criticism. Hutchinson wants to strike the "right balance" and has asked for changes to be made to the legislation to more closely mirror a 1993 federal law. The governor has faced pressure from top employers, including Wal-Mart, and the Human Rights Campaign, who argue that the measure is discriminatory and would stifle economic development. The White House has also repeated its opposition to the Indiana law, calling it a "significant expansion" of current law. END OF SUMMARY.
+
+Now, here is the target news article to summarize:
+Here is the news article:
+
+When Gov. Asa Hutchinson, Republican of Arkansas, spoke on Wednesday about the future of what proponents call the religious freedom bill pending in his state, he disclosed that the proposal had drawn resistance from a particularly noteworthy critic: his son, Seth Hutchinson. But to people familiar with the Hutchinsons, long one of the most influential families in Arkansas, the news was hardly a bombshell. “It would be surprising to me if he didn’t do that,” said Shawn Standefer, a childhood friend of the younger Mr. Hutchinson who captained their national championship-winning Quiz Bowl team in high school. “He’s always been concerned with justice, however he’s thought of it.” And so it was on Saturday, with lawmakers nearing a vote on the legislation that critics said would legalize discrimination against gay people, that the younger Mr. Hutchinson wrote to his father and warned that the proposal could damage Arkansas’s reputation and economy. It was only the latest chapter in a politically complicated relationship between Asa Hutchinson, a former congressman, and Seth Hutchinson, 31, an organizer for the Texas State Employees Union. “I love my dad, and we have a good, close relationship,” Seth Hutchinson said on Wednesday. “But we disagree a lot on political issues. This is just another one, but a lot of families disagree politically. But we stay close.” Mr. Hutchinson has not always been what he described as the family’s political “black sheep.” “I kind of grew up on the campaign trail,” he said. “Having a political opinion just came naturally to me. At first, I pretty much followed the values that my family and my parents laid out for me.” But, starting when he was about 15 and working as a dishwasher at a diner, Mr. Hutchinson’s views began to change as he shuffled through other jobs, including stints at Chuck E. Cheese’s and Sears. He grew frustrated when he saw older workers enduring financial hardships in low-paying jobs. “It just showed me that there’s something wrong,” he said, adding that he became interested in gay rights at about the same time, when friends began discussing their sexual orientations and after the arrest of an art teacher, who was gay. “He was not out,” Mr. Hutchinson said of the teacher. “And he was arrested in a park — I think the official charge was attempting to loiter — and it was obvious he was there because he couldn’t be out and keep his job.” Mr. Hutchinson had robust political discussions with his father even as a high school student, long before their views diverged so vastly. “He would defend his views,” Mr. Standefer said. “And as they changed, he tried to stand by his new views.” Mr. Hutchinson spent a year at Georgetown University before enrolling at the University of Central Arkansas, where he joined groups like the Young Democratic Socialists, and rallied for gay rights during the tenure of another Republican, Gov. Mike Huckabee. He would contact a cousin, Tim C. Hutchinson, who sat in the State House of Representatives, to register his views. Seth Hutchinson later moved to Texas and became a labor activist, which the governor mentions to left-leaning audiences. Father and son communicate regularly, Seth Hutchinson said, and the family gathers at least once or twice a year. “It’s always a lively and engaging conversation,” Mr. Hutchinson said. On Wednesday, the governor said he would ask lawmakers to either recall or rewrite portions of the bill. Seth Hutchinson, though, refused to take credit. “I did not sway my dad,” he said. “I think my dad is rethinking this because of the pressure that’s coming at him from all sides.”
+
+(1) First, you identify all the single words that are morally framed, focusing especially on the dimensions of Authority/Subversion, Care/Harm, Fairness/Cheating. Identify this step as "STEP 1:" and report each word in a new line starting with *
+(2) Finally, you write a summary of the news article. Please preserve as many morally framed words as possible, particularly focusing on the moral dimensions of Authority/Subversion, Care/Harm, Fairness/Cheating in your summary. The summary has to be returned after a "SUMMARY:" token and ending with a "END OF SUMMARY." token. The summary should be no longer than 200 words.

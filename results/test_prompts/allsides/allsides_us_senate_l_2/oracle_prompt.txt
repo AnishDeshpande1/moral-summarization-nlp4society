@@ -1,0 +1,37 @@
+You have to summarize the following text preserving the moral framing that the author gave to it.
+
+Here is the news article:
+
+After six months of fighting, the Senate has finally approved a deal on disaster aid, green-lighting $19.1 billion in relief to millions of Americans who have been waiting for help in the wake of devastating hurricanes, wildfires, and floods. While disaster aid hasn’t always been a political flashpoint, the passage of this package proved especially challenging, given roadblocks thrown up by President Donald Trump. Initially, Trump took issue with the additional funding for hurricane-devastated Puerto Rico, spurring months of back-and-forth on the subject. Then, he requested $4.5 billion in aid for the border, which further complicated discussions. The final disaster aid package, much like the funding that passed after the government shutdown earlier this year, does not really address either of Trump’s demands. Funding for border aid has been completely stripped out of the deal, and $1.4 billion in aid has been allocated to Puerto Rico. (Trump had previously balked at offering any more than $600 million in nutritional assistance.) The House is expected to pass the legislation on Friday, and Trump has already agreed to sign it, according to Senate Appropriations Chair Richard Shelby, who spoke with the president via phone on Thursday. Disaster aid is just proving to be the latest battleground where Trump caused major problems by inserting himself into the fight — with little to show for it. Trump has been a big reason for the delay in disaster relief Throughout the disaster aid negotiations, the wild card has continued to be Trump. As Vox’s Tara Golshan reported, Democrats had pushed for additional funding to support Puerto Rico in the wake of Hurricane Maria in 2017, while Trump had sought to limit that aid and actively railed against it. His longstanding aversion to helping Puerto Rico came down to allegations he’s made, with no evidence, about the regional government mismanaging funds — and it played a major role in delaying agreement on the package. Democrats had argued that money to support the island needed to go beyond food stamps, and help bolster infrastructure, given the scale of the destruction. As a Washington Post report detailed, residents in Puerto Rico were struggling to get medical care, after a major regional hospital was damaged during the hurricane. The White House’s additional request for border aid in May wound up emerging as a major sticking point as well. Though a chunk of the $4.5 billion ask was for humanitarian aid — both parties have agreed that large numbers of children and family migrants have overwhelmed US immigration resources at the southern border — Democrats opposed $1.1 billion in additional funds that would go to other operational costs like detention beds. Lawmakers are expected to consider this request at a later time, now that it’s been taken out of the deal. On both points, Trump proved to be a big reason that progress on disaster aid had slowed to a halt. The fallout of this delay is staggering This delays on disaster aid have had major consequences: It’s now been more than a year since Hurricane Maria hit Puerto Rico, seven months after Hurricane Michael hit Florida, and two months since flooding destroyed towns in Iowa and Missouri. While lawmakers — and Trump — had been finagling what an appropriations package should look like, millions of people in these regions are waiting on aid. As Golshan reported, these disasters have affected Americans nationwide, and Congress was sitting on billions of dollars in money that’s needed to help rebuild housing, improve infrastructure resiliency, and provide nutritional assistance: At this point, the need for aid touches every part of the country — blue states and red states. A mid-March “bomb cyclone” has caused nearly $1.5 billion in damage in Nebraska alone. Farmers along the Missouri River in Missouri, Kansas, and Iowa are still trying to see how they can salvage their land. Iowa is estimating around a $214 million loss. California is still recovering from wildfires. And in the South, hurricanes, floods, tornadoes, and late freezes have all taken a toll on the agricultural industry and surrounding businesses. As a result of this fight, people’s efforts to rebuild were left hanging in the balance while the partisan squabbles continued. And the politicization of this fight doesn’t bode well for the next time Americans may need help after a natural disaster.
+
+The author used the following morally framed words in the article:
+* fighting
+* approved
+* aid
+* relief
+* help
+* thrown
+* spurring
+* balked
+* caused
+* delay
+* support
+* limit
+* helping
+* made
+* delaying
+* destruction
+* care
+* slowed
+* delays
+* destroyed
+* finagling
+* assistance
+* damage
+* taken
+* fight
+* left
+* squabbles
+* politicization
+
+Please preserve as many morally framed words as possible in your summary. The summary has to be returned after a "SUMMARY:" token and ending with a "END OF SUMMARY." token. The summary should be no longer than 200 words.

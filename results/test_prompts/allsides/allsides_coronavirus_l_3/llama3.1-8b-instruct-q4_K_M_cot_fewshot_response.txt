@@ -1,0 +1,30 @@
+Here is the target news article's moral word extraction and summary:
+
+STEP 1:
+* real
+* deadliest
+* misinformation
+* disinformation
+* lies
+* misled
+* public safety
+* danger
+* consequences
+* critical
+* truth
+* objective
+* confidence
+* uncertainty
+* disillusionment
+* consensus
+* cautious
+* falsehoods
+* factually bankrupt
+* principled
+* analysis
+* responsible
+
+SUMMARY:
+The coronavirus pandemic has spawned a deadly information crisis, with disinformation spreading as fast as the virus itself. Misleading claims about garlic and water preventing infection are just a few examples of the falsehoods circulating online. The real harm lies in disinformation muddying public discussions regarding public safety, exhausting critical thinking on a mass level, and destroying any sense of belief or confidence in objective truth. Donald Trump's remarks have been particularly egregious, with repeated lies about the virus dissipating with warmer weather, vaccines being produced, and chloroquine being approved to treat COVID-19. This disinformation imperils countless lives by obscuring public discussions and sowing seeds of uncertainty. It is essential that we hold ourselves responsible in not abetting the proliferation of disinformation, which hinders public health efforts and creates more doubt and panic.
+
+END OF SUMMARY.

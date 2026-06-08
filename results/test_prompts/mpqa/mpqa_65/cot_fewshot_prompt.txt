@@ -1,0 +1,193 @@
+You have to summarize the following text preserving the moral framing that the author gave to it.
+
+Please study the following examples of news articles, their moral word extraction, and summaries preserving the moral framing:
+
+Example 1 (Political Ideology: Left):
+Here is the news article:
+
+New details have emerged about Sunday’s mass shooting at the First Baptist Church in Sutherland Springs, Texas, which killed 26 people, including children, elderly people and a pregnant woman.
+
+The suspected shooter was a 26-year-old white man named Devin Patrick Kelley from New Braunfels, Texas.
+Kelley enlisted in the U.S. Air Force in 2010.
+In 2012, he was court-martialed on charges he repeatedly hit, kicked and choked his wife, pointed a loaded gun at her and attacked his 18-month-old stepson with such force that it broke the toddler’s skull.
+
+Kelley was confined for a year and then thrown out of the Air Force with a bad conduct discharge in 2014.
+But on Monday, the Air Force admitted it had failed to report Kelley’s domestic violence court-martial to a federal database, meaning Kelley had no problem buying a Ruger AR-556 assault-style rifle at an Academy Sports + Outdoors store in San Antonio, Texas, in 2016.
+
+He reportedly used this gun to massacre the 26 people on Sunday.
+On Monday, authorities also said Kelley appears to have carried out the massacre because of a domestic dispute he had with his mother-in-law, who was a member of the First Baptist Church but was not present on Sunday.
+This is a spokesperson for the Texas Department of Public Safety.
+
+Freeman Martin: “One thing everybody wants to know is why did this happen.
+It’s a senseless crime, but we can tell you that there was a domestic situation going on within this family.
+The suspect’s mother-in-law attended this church.
+We know that he had made threatening—she had received threatening texts from him.
+And we can’t go into details about that domestic situation, that is continuing to be vetted and thoroughly investigated.
+But we want to get that out there, that this was not racially motivated.
+It wasn’t over religious beliefs.
+There was a domestic situation going on within the family.”
+
+On Monday, seven activists from the group Gays Against Guns were arrested during a die-in protest on Capitol Hill to demand stricter gun control.
+We’ll have more on Sunday’s shooting massacre after headlines.
+
+STEP 1:
+* senseless
+* threatening
+* bad
+
+SUMMARY:
+A mass shooting at the First Baptist Church in Sutherland Springs, Texas, killed 26 people, including children, elderly people, and a pregnant woman. The suspected shooter, Devin Patrick Kelley, had a history of domestic violence, having been court-martialed for assaulting his wife and stepson. Despite being confined for a year and receiving a bad conduct discharge from the Air Force, Kelley was able to purchase a gun due to the Air Force's failure to report his domestic violence court-martial to a federal database. Authorities believe Kelley carried out the massacre due to a domestic dispute with his mother-in-law, who was a member of the church. The crime is described as "senseless" and motivated by a "domestic situation" rather than racial or religious beliefs. The tragedy has sparked calls for stricter gun control, with activists from Gays Against Guns arrested during a die-in protest on Capitol Hill.
+END OF SUMMARY.
+
+Example 2 (Political Ideology: Center):
+Here is the news article:
+
+Former Defense Secretary Mattis Issues Stunning Rebuke Of Trump
+
+Retired Marine Gen. Jim Mattis, who resigned as President Trump's defense secretary nearly a year and a half ago over policy differences, has issued an extraordinary critique of the White House's handling of nationwide unrest, saying Trump has sought to divide Americans and warning against "militarizing our response" to the protests.
+
+"When I joined the military, some 50 years ago, I swore an oath to support and defend the Constitution," Mattis said in a statement published in The Atlantic.
+
+"Never did I dream that troops taking that same oath would be ordered under any circumstance to violate the Constitutional rights of their fellow citizens —much less to provide a bizarre photo op for the elected commander-in-chief, with military leadership standing alongside," Mattis wrote, referring to a series of events on Monday in which peaceful protesters were physically cleared from around the White House to make way for an appearance by the president, Bible in hand, outside a historic church.
+
+Mattis called Monday's actions "an abuse of executive authority."
+
+The broadside came on the same day that current Defense Secretary Mark Esper said at a Pentagon briefing that he opposed invoking the Insurrection Act — which allows the president to deploy the military within the United States — something Trump had threatened to do in a televised speech on Monday.
+
+Earlier this week, Esper had referred to unrest in the streets as a "battlespace," and Trump urged governors to use law enforcement and the National Guard to "dominate" the protesters.
+
+"We must reject any thinking of our cities as a 'battlespace' that our uniformed military is called upon to 'dominate,' " Mattis wrote.
+"At home, we should use our military only when requested to do so, on very rare occasions, by state governors."
+
+It is extraordinarily rare for military leadership to speak out against a sitting president, though Trump has come in for implicit criticism from senior ranks.
+
+After Trump said of a Unite the Right rally in Charlottesville, Va., in 2017, which turned deadly, that there were "very fine people on both sides," each of the military service chiefs — as well as the chairman of the Joint Chiefs of Staff – issued statements condemning bigotry.
+
+"I can absolutely and unambiguously tell you there is no place — no place — for racism and bigotry in the U.S. military or in the United States as a whole," said Gen. Joe Dunford, the Joint Chiefs of Staff chairman at the time.
+
+America’s military, our sons and daughters, will place themselves at risk to protect their fellow citizens.
+Their job is unimaginably hard overseas; harder at home.
+Respect them, for they respect you.
+America is not a battleground.
+Our fellow citizens are not the enemy.
+#BeBetter — GEN(R) Martin E. Dempsey (@Martin_Dempsey) June 1, 2020
+
+Just this week, two former Joint Chiefs of Staff chairmen, Gen. Martin Dempsey and Adm. Mike Mullen, condemned the use of the military to quash the demonstrations on Monday.
+In a tweet, Dempsey said, "America is not a battleground.
+Our fellow citizens are not the enemy."
+
+In the opinion piece in The Atlantic titled "I Cannot Remain Silent," Mullen wrote regarding Trump's photo-op at St. John's Church, "Whatever Trump's goal in conducting his visit, he laid bare his disdain for the rights of peaceful protest in this country, gave succor to the leaders of other countries who take comfort in our domestic strife, and risked further politicizing the men and women of our armed forces."
+
+Mattis, who resigned and was then pushed out by Trump in December 2018 over disagreements with the White House's Syria policy, has remained largely silent about the president's job performance since leaving the defense post, telling NPR last year: "I don't discuss sitting presidents."
+He said he thought that Trump deserved "a period of quiet."
+
+However, days of nationwide protest over the death of George Floyd in police custody and the use of National Guard troops in Washington to disperse peaceful demonstrators have led Mattis — "angry and appalled" — to speak up.
+
+He said the protesters were only demanding equal justice under the law.
+
+"It is a wholesome and unifying demand — one that all of us should be able to get behind," he wrote.
+
+"We must not be distracted by a small number of lawbreakers," Mattis wrote, referring to the vandalism and looting that have sometimes occurred along with the largely peaceful protests.
+"The protests are defined by tens of thousands of people of conscience who are insisting that we live up to our values — our values as people and our values as a nation."
+
+Mattis accused the president of pursuing a divisive strategy.
+"Donald Trump is the first president in my lifetime who does not try to unite the American people— does not even pretend to try.
+
+"Instead he tries to divide us.
+We are witnessing the consequences of three years of this deliberate effort.
+We are witnessing the consequences of three years without mature leadership," he said.
+
+The president responded to the criticism in a tweet, calling Mattis "the world's most overrated General," an insult Trump has fired off in the past.
+
+Probably the only thing Barack Obama & I have in common is that we both had the honor of firing Jim Mattis, the world’s most overrated General.
+I asked for his letter of resignation, & felt great about it.
+His nickname was “Chaos”, which I didn’t like, & changed to “Mad Dog”... — Donald J. Trump (@realDonaldTrump) June 4, 2020
+
+In Wednesday's statement, Mattis said the country's response to the pandemic showed that "it is not only our troops who are willing to offer the ultimate sacrifice for the safety of the community.
+Americans in hospitals, grocery stores, post offices, and elsewhere have put their lives on the line in order to serve their fellow citizens and their country."
+
+"We must reject and hold accountable those in office who would make a mockery of our Constitution.
+At the same time, we must remember Lincoln's 'better angels,' and listen to them, as we work to unite," he said.
+
+STEP 1:
+* Unite
+* Divide
+* Abuse
+* Reject
+* Dominate
+* Battlespace
+* Racism
+* Bigotry
+* Respect
+* Enemy
+* Disdain
+* Wholesome
+* Unifying
+* Conscience
+* Values
+* Mature
+* Chaos
+* Mockery
+* Better
+
+SUMMARY:
+Former Defense Secretary Jim Mattis issued a stunning rebuke of President Trump's handling of nationwide unrest, saying Trump has sought to divide Americans and warning against "militarizing our response" to the protests. Mattis called Monday's actions "an abuse of executive authority" and rejected the idea of using the military to "dominate" protesters. He urged Americans to "reject any thinking of our cities as a 'battlespace'" and to respect the Constitutional rights of fellow citizens. Mattis accused Trump of pursuing a divisive strategy, saying "Donald Trump is the first president in my lifetime who does not try to unite the American people— does not even pretend to try." Instead, Trump tries to divide us, and we are witnessing the consequences of three years without mature leadership. Mattis called for Americans to remember Lincoln's "better angels" and work to unite. END OF SUMMARY.
+
+Example 3 (Political Ideology: Right):
+Here is the news article:
+
+'Jail!' Trump slams 'crooked' Hillary aide Huma, calls on 'Deep State' DOJ to act
+
+President Trump went after "Crooked" Hillary Clinton aide Huma Abedin on Tuesday, appearing to call on the “Deep State” Justice Department to look at potential security issues in her handling of classified material after a recent email dump.
+
+“Crooked Hillary Clinton’s top aide, Huma Abedin, has been accused of disregarding basic security protocols.
+She put Classified Passwords into the hands of foreign agents.
+Remember sailors pictures on the submarine?
+Jail!” Trump tweeted early Tuesday.
+“Deep State Justice Dept must finally act?
+Also on Comey & others.”
+
+Trump was referring to U.S. Navy Sailor Kristian Saucier, who was put in prison for taking unauthorized photos inside a nuclear submarine.
+He seemed to suggest a double standard is at play, compared with the lack of punishment for Clinton and her aides.
+
+The president’s tweet comes after the State Department, in a Friday news dump, released a batch of emails from Abedin’s account that were discovered by the FBI on a laptop belonging to her estranged husband, Anthony Weiner.
+At least four of the documents were marked “classified.”
+
+Abedin also forwarded sensitive State Department emails to her personal Yahoo email account before every Yahoo account was hacked, first reported by the Daily Caller.
+Abedin also sent passwords for her government laptop to her Yahoo account on Aug. 24, 2009.
+
+In 2013, Yahoo was hacked, and the company said in a statement that “all Yahoo user accounts were affected” by the theft.
+
+Former FBI Director James Comey, who led the Clinton email investigation, said during a congressional hearing last year that he believed Abedin forwarded emails to Weiner for him to print out so that she could give them to Clinton.
+
+Abedin’s emails shook the 2016 presidential race, as Comey told Congress on Oct. 28, 2016, just days before the election, that the FBI had found more of Clinton’s messages on Weiner’s laptop as they investigated a sexting case against him.
+
+The discovery of those records reopened the case against Clinton, several months after Comey said he wasn’t recommending any charges be filed in the case.
+Comey at the time said Clinton was “extremely careless” in her handling of classified emails on her private server.
+
+STEP 1:
+*Crooked*
+*Jail*
+*Deep*
+*State*
+*Disregarding*
+*Basic*
+*Security*
+*Protocols*
+*Unauthorized*
+*Punishment*
+*Double*
+*Standard*
+*Extremely*
+*Careless*
+
+SUMMARY:
+President Trump slammed "Crooked" Hillary Clinton's top aide Huma Abedin, accusing her of "disregarding basic security protocols" and putting classified passwords into the hands of foreign agents. Trump called on the "Deep State" Justice Department to act, suggesting a "double standard" is at play compared to the punishment of U.S. Navy Sailor Kristian Saucier, who was jailed for taking unauthorized photos inside a nuclear submarine. The president's tweet comes after a recent email dump revealed that Abedin forwarded sensitive State Department emails to her personal Yahoo email account, which was later hacked. Trump implied that Abedin's actions were "extremely careless" and deserving of punishment, unlike Clinton and her aides who were not held accountable. END OF SUMMARY.
+
+Now, here is the target news article to summarize:
+Here is the news article:
+
+U.S. Begins First Airlift of Prisoners WASHINGTON, Jan. 10 - A C-17 Globemaster cargo plane carrying 20 heavily guarded Taliban and Al Qaeda prisoners left a Marine Corps base in southern Afghanistan today on its way to the United States naval base at Guantanamo Bay, Cuba, the first wave of hundreds of detainees who will be held there. The Pentagon provided few details about the flight, but senior military officials said more than 40 specially trained military police officers guarded the prisoners on the flight, which was expected to make one stop before reaching Cuba, possibly as early as Friday morning. The prisoners, their hands and feet shackled and their heads covered by hoods, were loaded single file onto the plane at Kandahar Airport. Pentagon officials said some prisoners might also be sedated during the more-than-20-hour flight, but it was not clear whether that had happened. A Pentagon official said earlier this week that the United States did not consider the detainees prisoners of war, but that they were still being afforded the protections under the Geneva Convention guidelines. At Guantanamo Bay, the prisoners will be taken to a makeshift detention center known as Camp X- Ray, where they will be locked in 6- by-8-foot cages made of concrete and chain-link fence to await intensive interrogation and, possibly, trial before military tribunals. As workers prepared the camp in Cuba for as many as 2,000 prisoners, search crews in Pakistan continued to comb the wreckage of a Marine Corps tanker plane that crashed on Wednesday in southwestern Pakistan. Seven marines died in the fiery accident. Secretary of Defense Donald H. Rumsfeld said today that there was no evidence that the crash had been caused by hostile fire. Pentagon officials also said today that the United States was preparing to send a force of more than 100 soldiers, many of them Special Operations forces, to the Philippines to help train Filipino troops to fight Muslim militants from the Abu Sayyaf group. Though the American forces are expected to be involved initially in advising and training Filipino counterterrorist units, senior American military officials have said they could become involved in direct military action if the Philippine government requested it. Amnesty International issued a statement today saying that sedating prisoners or shackling them for an entire flight would violate international standards prohibiting "cruel, inhuman or degrading" treatment. Mr. Rumsfeld said today that he did not know how the prisoners would be restrained during the flight. But he defended the use of strong measures, saying the Pentagon had closely studied violent uprisings by Taliban and Al Qaeda prisoners held in the northern Afghan city of Mazar- i-Sharif and in Pakistan. About 20 minutes after the C-17 lifted off from the base at Kandahar Airport, marines came under small- arms fire near one of the runways. No one was injured and the identify of the snipers remained unknown tonight, military officials said. Military officials also said John Walker Lindh, the American who was captured with Taliban forces near Mazar-i-Sharif, was not among the prisoners transferred today. Mr. Walker is still being held aboard the assault ship Bataan in the Arabian Sea, the officials said. American forces in Afghanistan were holding a total of 371 prisoners today, including 351 at Kandahar and 19 at Bagram air base north of Kabul. But the number keeps rising as American military and intelligence officials continue interviewing thousands of prisoners held by anti-Taliban militias. Camp X-Ray has cells for about 100 detainees, and will soon be expanded to hold 220. During the next few months, military work crews will build permanent facilities for as many as 2,000 prisoners. Mr. Rumsfeld declined to discuss details about the growing American involvement in the Philippines, where Abu Sayyaf guerrillas have been battling government troops in the southern island of Basilan. The rebels, who have been linked to Al Qaeda in the past, are holding two American hostages for ransom. But earlier this week, Deputy Secretary of Defense Paul D. Wolfowitz said that American Special Operations forces might become involved in "direct support of Philippine military operations," though he added that the government seemed "anxious" to do the job itself. "There's no question that we believe that if they could clear the Abu Sayyaf group out of Basilan Island, that would be a small blow against the extended Al Qaeda network," Mr. Wolfowitz said. In November, President Bush promised to give the Philippines a $100 million antiterrorism aid package that would include weapons, training and shared intelligence. Since then, the United States has sent an array of equipment to the Philippine military, including a C-130 cargo plane, 30,000 M-16 rifles and 8 UH- 1 Huey helicopters. In eastern Afghanistan, American B-1 and B-52 bombers dropped precision-guided weapons on the sprawling Al Qaeda training camp at Zhawar Kili near the Pakistan border today for the sixth time in just over a week. Senior military officials have said they are increasingly concerned that there are other equally sophisticated and well-fortified underground complexes elsewhere in Afghanistan that could become guerrilla bases for remnants of the Taliban and Al Qaeda forces. At the Pentagon, Mr. Bush signed a $318 billion military spending bill today for the 2002 fiscal year. "Today more than ever we also owe those in uniform the resources they need to maintain a very high state of readiness," Mr. Bush said. "Our enemies rely upon surprise and deception. They used to rely upon the fact that they thought we were soft. I don't think they think that way anymore."
+
+(1) First, you identify all the single words that are morally framed. Identify this step as "STEP 1:" and report each word in a new line starting with *
+(2) Finally, you write a summary of the news article. Please preserve as many morally framed words as possible in your summary. The summary has to be returned after a "SUMMARY:" token and ending with a "END OF SUMMARY." token. The summary should be no longer than 200 words.

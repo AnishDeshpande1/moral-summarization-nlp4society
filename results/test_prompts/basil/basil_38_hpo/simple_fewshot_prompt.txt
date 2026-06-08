@@ -1,0 +1,126 @@
+You have to summarize the following text preserving the moral framing that the author gave to it.
+
+Please study the following examples of news articles and their summaries preserving the moral framing:
+
+Example 1 (Political Ideology: Left):
+Here is the news article:
+
+Vision benefits are among those that will now be available to same-sex spouses.
+Benefits open to same-sex spouses
+
+The same-sex spouses of federal employees can begin applying for benefits including health insurance and retirement accounts immediately, the Obama administration said Friday, two days after the Supreme Court overturned a key provision of the Defense of Marriage Act.
+
+The Office of Personnel Management offered the guidance in a letter to the heads of executive departments and agencies, detailing access to many of the benefits to which legally married same-sex spouses will now have the same access heterosexual married couples do, including health, life, dental, vision and long-term care insurance.
+
+The memo, signed by acting director Elaine Kaplan, does not go into detail about the benefits available to same-sex couples who marry in one state but live in another where those unions are not legal.
+By omitting a specific reference to state laws, and repeating that benefits will be available to all legally married couples, OPM appears to be making the case that couples will have access to the listed benefits regardless of the state in which they live.
+
+President Barack Obama said Thursday that, “speaking as a president, not a lawyer,” he believes couples married in one state should be treated as married in all 50 states, but that his administration is working on the legalities of making that reality.
+
+In a statement Friday, the president applauded the expansion of access to federal benefits.
+“This is a critical first step toward implementing this week’s landmark Supreme Court decision declaring that all married couples — gay and straight — should be treated equally under federal law,” he said.
+“Thousands of gays and lesbians serve our country every day in the federal government.
+They, and their spouses and children, deserve the same respect and protection as every other family.
+
+Under the president’s direction, the Justice Department is leading the implementation of the repeal of Section 3 of DOMA.
+After the high court’s Wednesday ruling, Defense Secretary Chuck Hagel also said that the Pentagon will move quickly to expand benefits to same-sex couples.
+
+Attorney General Eric Holder welcomed Friday’s announcement.
+“Americans in same-sex marriages are entitled to equal protection and equal treatment under the law,” he said in a statement.
+“By extending health insurance and other important benefits to federal employees and their families, regardless of whether they are in same-sex or opposite-sex marriages, the Obama administration is making real the promise of this important decision.”
+
+The changes announced Friday “will make a meaningful, positive difference in the lives of many,” Holder said.
+“As the president directed, the Department of Justice will continue to coordinate with other federal agencies to implement this ruling as swiftly and smoothly as possible.
+I look forward to sharing additional information as it becomes available..”
+
+SUMMARY:
+
+The Obama administration has announced that same-sex spouses of federal employees can now apply for benefits, including health insurance and retirement accounts, following the Supreme Court's decision to overturn a key provision of the Defense of Marriage Act. This move marks a significant step towards implementing the court's landmark decision, which declared that all married couples, gay and straight, should be treated equally under federal law. The administration's guidance ensures that legally married same-sex spouses will have the same access to benefits as heterosexual married couples, regardless of the state in which they live. President Obama, Attorney General Eric Holder, and Defense Secretary Chuck Hagel have all welcomed the expansion of benefits, emphasizing that same-sex couples and their families deserve equal respect and protection under the law. This decision will make a meaningful, positive difference in the lives of many, and the administration will continue to work towards a swift and smooth implementation of the ruling.
+
+END OF SUMMARY.
+
+Example 2 (Political Ideology: Center):
+Here is the news article:
+
+FILE - In this Tuesday, May 21, 2019 file photo, August Mulvihill, of Norwalk, Iowa, center, holds a sign depicting a wire clothes hanger during a rally at the Statehouse in Des Moines, Iowa, to protest recent abortion bans.
+On Wednesday, Nov. 6, 2019, a federal judge in New York struck down a rule letting health care clinicians object to providing abortions and other services on moral or religious grounds.
+(AP Photo/Charlie Neibergall)
+
+NEW YORK (AP) — A federal judge on Wednesday struck down a new Trump administration rule that could open the way for more health care workers to refuse to participate in abortions or other procedures on moral or religious grounds.
+
+U.S. District Judge Paul A. Engelmayer said the U.S. Health and Human Services Department overstepped its authority and went beyond existing law in issuing the rule.
+He also said that the measure could be costly, burdensome and damaging to emergency care and that the whole rationale for the rule was based on a lie.
+
+He said the department’s claim that there was a significant increase in complaints about workers being forced to violate their conscience was “flatly untrue.” The HHS rule, he said, is a classic “solution in search of a problem.”
+
+An HHS spokeswoman had no comment.
+
+Nineteen states, the District of Columbia, three local governments, health organizations and others had sued to block the rule from taking effect Nov. 22, arguing that it would be discriminatory and would interfere with people’s access to health care.
+
+“Today, the Trump administration has been blocked from providing legal cover for discrimination,” said Alexis McGill Johnson, acting president of Planned Parenthood.
+“As the federal district court made clear, the administration acted outside its authority and made false claims to try to justify this rule.”
+
+Rosie Phillips Davis, president of the American Psychological Association, said the HHS rule “could have jeopardized the health of some of our most vulnerable populations, including women, LGBT people and people with HIV or AIDS.”
+
+But Sen. Ben Sasse, a Nebraska Republican, called the ruling “absurd mush” and urged the Trump administration to appeal.
+
+Health care institutions have long relied on federal Conscience Provisions first created in 1973 and amended since then that protected health care professionals from carrying out services that conflict with their religious or moral beliefs.
+
+The new HHS rule broadens the list of health care personnel who can refuse to participate, expanding it to those who counsel, refer, train or make arrangements for a medical procedure.
+
+It also restricts the ability of employers to inquire about employees’ objections and broadens the definition of health care entities to include pharmacists and medical laboratories.
+
+Thus, the judge warned, a hospital or clinic receptionist who schedules appointments, an elevator operator or an ambulance driver could refuse on moral or religious grounds to do their jobs.
+
+He said the rule could force some health care employers to double or triple staff, particularly during emergencies.
+
+“These limits have clear potential to inhibit the employer’s ability to organize workplace arrangements to avoid inefficiencies and dislocations,” Engelmayer said.
+
+Engelmayer, who was appointed by Democratic President Barack Obama, said HHS lacked authority to create major portions of the rule, including a provision that said a health care institution’s federal funding can be cut off for violating the measure.
+
+He said it should be left to Congress to decide whether to change the laws regarding employers’ duty to accommodate religious objections.
+
+SUMMARY:
+
+A federal judge has struck down a Trump administration rule that would have allowed healthcare workers to refuse to participate in abortions and other procedures on moral or religious grounds. The judge ruled that the Department of Health and Human Services overstepped its authority and that the measure could be costly, burdensome, and damaging to emergency care. The rule was deemed a "solution in search of a problem" as there was no evidence of a significant increase in complaints about workers being forced to violate their conscience. The ruling was hailed by pro-choice groups, who argued that the rule would have interfered with people's access to healthcare and would have been discriminatory. Critics of the ruling, including Sen. Ben Sasse, called it "absurd mush" and urged the Trump administration to appeal.
+
+END OF SUMMARY.
+
+Example 3 (Political Ideology: Right):
+Here is the news article:
+
+Call it Cheney versus Cheney.
+
+Mary Cheney, one of ex-Vice President Dick Cheney’s two daughters, has taken to Facebook to blast her older sibling, Elizabeth, a Wyoming Senate candidate, for the latter’s stance on same-sex marriage, The New York Times is reporting.
+
+Mary Cheney, openly lesbian and married to Heather Poe since 2012, reportedly posted to her personal page on the social media site: “For the record, I love my sister, but she is dead wrong on the issue of marriage.
+
+“Freedom means freedom for everyone.
+That means that all families — regardless of how they look or how they are made — all families are entitled to the same rights, privileges and protections as every other.”
+
+The Times reports Liz Cheney on Friday first articulated her position on the controversial subject, saying it should be something for voters to decide on a state-by-state basis, and not a matter for “judges” or “legislators.”
+
+“I am not pro-gay marriage,” Liz Cheney reportedly said.
+“I believe the issue of marriage must be decided by the states, and by the people in the states, not by judges and not even by legislators, but by the people themselves.”
+
+Her sister replied by pulling no punches.
+
+“It’s not something to be decided by a show of hands,” Mary Cheney reportedly wrote on her personal Facebook page, concluding her internecine post by saying, “Please like and share if you agree.”
+
+Elizabeth Cheney declared in July she plans to challenge incumbent Senator Mike Enzi, also a Republican, in the state’s Republican primary.
+The election is slated for 2014.
+
+Former Vice President Cheney has publicly voiced support for same-sex marriage and, mirroring Elizabeth’s stance, has reportedly said the matter should be decided on a state-by-state basis.
+
+SUMMARY:
+
+In a rare display of sibling disagreement, Mary Cheney, an openly lesbian woman, has publicly criticized her sister Elizabeth Cheney, a Wyoming Senate candidate, for her stance on same-sex marriage. Mary Cheney took to Facebook to express her disagreement, stating that "freedom means freedom for everyone" and that all families deserve the same rights and protections. Elizabeth Cheney, on the other hand, believes that the issue of marriage should be decided by the states and their people, rather than by judges or legislators. Mary Cheney countered that it's not something to be decided by a "show of hands." The disagreement is particularly notable given that their father, former Vice President Dick Cheney, has publicly voiced support for same-sex marriage and also believes it should be decided on a state-by-state basis. The moral framing of this story highlights the importance of standing up for what is right, even if it means disagreeing with family members.
+
+END OF SUMMARY.
+
+Now, here is the target news article to summarize:
+Here is the news article:
+
+WASHINGTON -- The U.S. Department of the Treasury announced Thursday that when it comes to taxes, it will recognize same-sex couples' marriages even if they live in a state that does not. The decision, which was prompted by the U.S. Supreme Court’s ruling to overturn the Defense of Marriage Act, marks the latest political progress for the lesbian, gay, bisexual and transgender community. Prior to this spring, the Internal Revenue Service did not recognize same-sex married couples pursuant to section 3 of DOMA. Once DOMA was overturned in June, the question became: What about same-sex married couples who moved to a state that didn’t recognize their marriage (a couple married in Massachusetts who moved to Arkansas, for example)? Thursday’s ruling by Treasury Secretary Jacob Lew provides a uniform policy for the IRS; the state of celebration -- where the wedding took place -- now trumps the state of residency when it comes to federal tax status for same-sex married couples. “Today’s ruling provides certainty and clear, coherent tax filing guidance for all legally married same-sex couples nationwide. It provides access to benefits, responsibilities and protections under federal tax law that all Americans deserve,” Lew said in a statement. “This ruling also assures legally married same-sex couples that they can move freely throughout the country knowing that their federal filing status will not change.” The new policy, which was first shared by Lew in a conference call that included LGBT advocates, holds a bit of political significance. It was the burden of federal tax law on same-sex couples, after all, that prompted the legal challenge to DOMA in the first place. Edie Windsor, the plaintiff in the DOMA case, sued the government after being forced to pay estate taxes following the death of her wife, Thea Spyer. Had they been a heterosexual couple, Windsor's tax burden would have been zero. After DOMA was overturned, it was reported that the IRS owed Windsor $363,053. Under the new Treasury policy, all federal tax provisions where marriage is a factor, including filing status, employee benefits, IRA contributions, earned income, child tax credits, and income, gift and estate taxes, will apply to same sex couples regardless of where they live. On the flip side, gay couples also will now be subjected to the so-called marriage penalty, in which some (usually upper-middle class) joint filers incur a higher tax burden than they would if they filed as single people. The policy only applies to married couples, and not those in domestic partnerships or same-sex unions. “With today’s ruling, committed and loving gay and lesbian married couples will now be treated equally under our nation’s federal tax laws, regardless of what state they call home,” said Human Rights Campaign President Chad Griffin. “These families finally have access to crucial tax benefits and protections previously denied to them under the discriminatory Defense of Marriage Act.” The Treasury’s actions on Thursday are just the latest in a set of LGBT policies offered by agencies within the Obama administration following the DOMA ruling. The Federal Election Commission, and Departments of Health and Human Services and Homeland Security, also extended federal benefits to gay couples in states that don’t recognize their marriages. UPDATE: Commenting on the Treasury Department's new policy, Edie Windsor hailed the decision as the precise remedy that she sought when she challenged the constitutionality of DOMA.
+
+The summary has to be returned after a "SUMMARY:" token and ending with a "END OF SUMMARY." token. The summary should be no longer than 200 words.

@@ -1,0 +1,152 @@
+You have to summarize the following text preserving the moral framing that the author gave to it.
+
+Please study the following examples of news articles and their summaries preserving the moral framing:
+
+Example 1 (Political Ideology: Left):
+Here is the news article:
+
+Having failed to lead the best-prepared nation in the world against one pandemic, Donald Trump has made it more vulnerable to another.
+He has, for example, frayed international bonds further by trying to pull the U.S. out of the World Health Organization.
+Whether he has the legal authority to do so is still unclear, but even if the threat is empty, “some of the effects will be immediate,” says Loyce Pace, the president of the Global Health Council.
+U.S. officials and experts will start disengaging from international institutions, and that might encourage other nations to follow suit.
+
+This won’t just harm the WHO at the time when it is most needed, but will also further diminish America’s already damaged international standing.
+A country that has badly mishandled its own outbreak, that has bought up the world’s stock of important drugs, and that has petulantly withdrawn from global alliances is less likely to receive warnings or support if a new crisis emerges.
+
+There is an optimistic scenario if a second virus begins to spread: The new pathogen finds it harder to move around an alert world, is rapidly detected wherever it arrives, and fizzles out because cautious citizens have their guard up.
+
+As long as people stay vigilant against the current pandemic—keeping their distance, wearing masks, avoiding indoor crowds—they should theoretically be guarded against a second respiratory virus.
+It used to be common for measles and pertussis to interfere with each other, so that if one spiked, the other would subside.
+That might be because kids who got one disease would stay home, reducing their risk of the other.
+“It’s nothing to do with a vaccine or the immune system,” says Sarah Cobey, an immunologist at the University of Chicago.
+“It’s just people being careful.”
+
+The same tests that are being used to diagnose COVID-19 could also be tweaked to cover the new pathogen.
+One company is already developing a fast “multiplex” test that could look for four respiratory viruses—the new coronavirus, two types of flu, and respiratory syncytial virus (RSV)—in a single nasal swab.
+And if the new pathogen is a flu strain, existing vaccines could be tweaked to protect against it.
+That would still take several months, but the existence of a seasonal flu vaccine offers an invaluable head start.
+
+Read: We don’t even have a COVID-19 vaccine, and the conspiracies are here
+
+This future is easier to imagine in countries like South Korea, New Zealand, and Germany, which have successfully controlled COVID-19.
+It seems less likely in nations like the U.S., Brazil, Russia, and India, which are stretched and struggling.
+
+In such places, COVID-19 would effectively cloak the spread of any new respiratory virus with similar symptoms, which “could have a chance to take off before we realized it had,” Cameron said.
+A new virus would also be harder to spot because “all the resources we would normally use to detect potential viruses of concern have been redirected for COVID-19,” says Lauren Sauer, who works on disaster preparedness at Johns Hopkins Medicine.
+She means everything from physical equipment like swabs and storage tubes, to health-care workers who administer and process tests, to public-health experts who analyze the data or conduct contact tracing.
+These are either running out or burning out.
+A second respiratory virus would further tax the same resources that the U.S. has already failed to adequately marshal for COVID-19.
+
+SUMMARY:
+
+Donald Trump's mishandling of the COVID-19 pandemic has made the US more vulnerable to another pandemic. His attempt to withdraw from the World Health Organization has frayed international bonds and may encourage other nations to follow suit, ultimately harming the WHO and America's international standing. The US's failure to control its own outbreak, hoarding of important drugs, and withdrawal from global alliances will make it less likely to receive warnings or support if a new crisis emerges. While a second virus may be harder to detect in countries like the US, Brazil, Russia, and India, which are struggling to control COVID-19, a more optimistic scenario exists in countries like South Korea, New Zealand, and Germany, which have successfully controlled the pandemic. The moral of the story is that a country's failure to take responsibility for its own pandemic response can have far-reaching consequences, making it more vulnerable to future health crises.
+
+END OF SUMMARY.
+
+Example 2 (Political Ideology: Center):
+Here is the news article:
+
+Attorney General Holder Assigns Prosecutors To Leaks Probe
+
+Attorney General Eric Holder said he was assigning two U.S. attorneys to investigate possible leaks of classified information.
+
+Calls for an investigation into how sensitive national security details — including information about a secret terrorist kill list and about an intelligence operation that infiltrated al-Qaida in the Arabian Peninsula — were leaked to the media intensified this week.
+
+"Today, I assigned U.S. Attorney for the District of Columbia Ronald C. Machen Jr. and U.S. Attorney for the District of Maryland Rod J. Rosenstein to lead criminal investigations into recent instances of possible unauthorized disclosures of classified information," Holder said in a statement.
+
+He added: "In carrying out their assignments, U.S. Attorneys Machen and Rosenstein are fully authorized to prosecute criminal violations discovered as a result of their investigations and matters related to those violations, consult with members of the Intelligence Community and follow all appropriate investigative leads within the Executive and Legislative branches of government."
+
+Earlier today, President Obama struck back at critics who accused the White House of leaking classified material for political gain.
+
+"The notion that my White House would purposely release classified national security information is offensive," Obama told reporters.
+"It's wrong."
+
+In his statement Holder said the leaking of classified information "can compromise the security of this country and all Americans, and it will not be tolerated."
+
+Update at 7:09 p.m. ET.
+Intelligence Committee:
+
+Earlier this week, members of the Congressional Intelligence Committee united in their concern over the leaks.
+
+Committee vice chair Sen. Saxby Chambliss, a Republican, called for a special counsel, while Senator Dianne Feinstein, the committee's Democratic chairwoman, didn't fully commit.
+
+Reuters reported:
+
+"John McCain (R) has suggested that some of the leaks may have been calculated to boost the election prospects of President Barack Obama - something White House spokesmen emphatically deny.
+"Feinstein cautioned that she was still pondering the "special counsel" idea for the current leak inquiries because "A special prosecutor can take years.
+We don't have years.
+We need to legislate and we need to do things quickly."
+"She suggested she might propose legislation to give inspectors general of government departments more investigatory authority."
+
+Update at 7:35 p.m. ET.
+A Call To Investigate:
+
+Earlier today, McCain said the stories that included these details — like The New York Times' story about the secret terrorist kill list — said sources came from the White House.
+
+"What the President did not unequivocally say today is that none of the classified or highly sensitive information recently leaked to the media came from the White House," McCain said in a statement.
+"I continue to call on the President to immediately appoint a special counsel to fully investigate, and where necessary, prosecute these gravely serious breaches of our national security."
+
+SUMMARY:
+
+Attorney General Eric Holder has assigned two US attorneys to investigate possible leaks of classified information, including details about a secret terrorist kill list and an intelligence operation that infiltrated al-Qaida. The move comes after intense calls for an investigation into how sensitive national security details were leaked to the media. Holder emphasized that the leaking of classified information "can compromise the security of this country and all Americans, and it will not be tolerated." President Obama also struck back at critics, saying it's "offensive" to suggest that his White House would purposely release classified material for political gain. The Congressional Intelligence Committee has also expressed concern over the leaks, with some members calling for a special counsel. The investigation is a necessary step to protect national security and uphold the public's trust in government.
+
+END OF SUMMARY.
+
+Example 3 (Political Ideology: Right):
+Here is the news article:
+
+Acting Homeland Security Deputy Secretary Ken Cuccinelli was publicly harassed Wednesday by Maryland Gov. Martin O’Malley when the two ran into each other at a bar in Washington, D.C.
+
+They crossed paths at an Irish pub, The Dubliner, where they were both attending an event for graduates of Gonzaga College High School.
+Rather than being able to enjoy his Guinness, however, Cuccinelli was subject to a “passion-laced and shame-invoking tirade” by O’Malley over the Trump administration’s immigration policies.
+
+Martin O’Malley just drove Ken Cuccinelli out of the Dubliner in DC w/ a passion-laced and shame-invoking tirade on behalf of immigrant refugee children!!! — Siobhan Houton Arnold (@siobhanphilly) November 27, 2019
+
+O’Malley was so fired up Cuccinelli said his neck veins were “bulging.”
+
+“As I walked up to one of the bars among several in The Dubliner to order my Guinness, I heard screaming and cussing behind me to my left, which I did not immediately take notice of other than the fact that it was louder than everything else in the pub,” Cuccinelli said, recalling the incident in a statement to Fox News.
+
+“When I turned to look I saw O'Malley and he was obviously screaming at me.
+For a moment I thought he was trying to be funny, as we've met before, which I thought was strange.
+It was immediately clear that he was cursing and screaming for real, to the point of veins bulging on his neck.”
+
+Cuccinelli said O’Malley “also inspired one or two of his (apparent) buddies to join in the cussing assault.”
+
+Attempting to deescalate the situation, Cuccinelli left to go order at a different bar within the pub, but O’Malley followed him.
+
+“At which point O'Malley pushed his way through the small group to confront me face to face, still cursing me, the President, and my Italian ancestry and he got right up in my face, bumped up against me and invited me to take a swing at him,” he said, adding that he told O’Malley ‘one of us has to rise above this, and it's obviously not going to be you.’
+
+Cuccinelli then spotted a friend, who is a Democrat, and that person approached the men and “forced some friendly conversation in between Martin and I.”
+
+After a brief exchange, Cuccinelli went to another part of the bar to see his high school friends.
+
+“Martin's behavior was as sad as it was shocking,” Cuccinelli said in the statement.
+“I learned on the other side of the pub that Martin's screaming was so loud that people on the other side of the pub heard him.
+I also learned from others who have known Martin for years that while his behavior was shocking, it was not new to them.”
+
+He described some of the criticism from O’Malley as “odd” given that “they applied to President Obama's policies, a fact he clearly did not appreciate me pointing out (without screaming it, btw).”
+
+O’Malley seemed to have no regrets about his behavior, telling The Washington Post in a text: “We all let him know how we felt about him putting refugee immigrant kids in cages — certainly not what we were taught by the Jesuits at Gonzaga.”
+
+Cuccinelli, O’Malley also told the Post, is “the son of immigrant grandparents who cages children for a fascist president.”
+
+This is not the first time a Trump administration official has been publicly harassed, but it is likely the first time it's been done by such a prominent Democrat.
+
+Worse still, the left celebrated the harassment.
+
+Senior Adviser to Democrat presidential candidate Pete Buttigieg appears to be happy that a Democrat harassed a member of the Trump admin in public to the point where the official had to leave the event
+
+A presidential campaign promoting harassment of officials is disgusting https://t.co/B24u8YTaCn pic.twitter.com/g7DK8EqfPl — Ryan Saavedra (@RealSaavedra) November 29, 2019
+
+SUMMARY:
+
+Acting Homeland Security Deputy Secretary Ken Cuccinelli was publicly harassed by Maryland Gov. Martin O'Malley at a bar in Washington, D.C. over the Trump administration's immigration policies. O'Malley's "passion-laced and shame-invoking tirade" was so intense that Cuccinelli's neck veins were "bulging." The incident was described as "sad" and "shocking" by Cuccinelli, who attempted to deescalate the situation but was followed by O'Malley. The Democrat governor showed no regrets, justifying his behavior by citing the administration's treatment of immigrant children. The left celebrated the harassment, with a senior adviser to a Democrat presidential candidate promoting the incident on social media. This incident highlights the disturbing trend of harassment of Trump administration officials and the moral decay of the left, who seem to condone and even encourage such behavior.
+
+END OF SUMMARY.
+
+Now, here is the target news article to summarize:
+Here is the news article:
+
+STRASBOURG, Nov 29 (AFP) -- Three leading international organisations warned jointly Thursday [29 November] that the international fight against terrorism should not be a pretext for the violation of human rights. The Council of Europe, the Organization for Security and Cooperation in Europe (OSCE) and the UN High Commissioner for Human Rights said they were responding to recent "worrying developments" in some countries regarding human rights following the September 11 attacks. "While we recognize that the threat of terrorism requires specific measures, we call on all governments to refrain from any excessive steps which would violate fundamental freedoms and undermine legitimate dissent," a joint statement issued in Strasbourg, Geneva and Warsaw said. UN High Commissioner for Human Rights Mary Robinson, Walter Schwimmer, Secretary General of the Council of Europe and Ambassador Gerard Stoudmann of the OSCE's Office for Democratic Institutions and Human Rights said it was essential "that states strictly adhere to their international obligations to uphold human rights and fundamental freedoms" in the fight against terrorism. Robinson, a particularly critical voice in guarding against human rights abuses in the wake of the September 11 attacks, said Wednesday the war on terrorism was taking a heavy toll on civil liberties. The statement comes two days after the British House of Commons passed emergency legislation allowing the detention of terrorist suspects without trial, and the killing of hundreds of Taliban inmates in a prison uprising in Mazar-i-Sharif in northern Afghanistan earlier this week. The killings prompted a call by London-based rights group Amnesty International for an inquiry into the affair. All three groups said it was essential that governments strike a balance between "legitimate national security concerns and fundamental freedoms that is fully consistent with their international law commitments." The statement listed what it said were essential rights that could not be hollowed out because of the fight against terrorism. These were: the right to life, freedom of expression and religion and freedom from torture, while it also urged that the retroactive imposition of more severe penalties for crimes be avoided. The United States earlier this week hinted it may expand its war against terrorism beyond Afghanistan to Iraq, bringing swift criticism from both Germany and France, who called for restraint in the future of the military campaign.
+
+The summary has to be returned after a "SUMMARY:" token and ending with a "END OF SUMMARY." token. The summary should be no longer than 200 words.

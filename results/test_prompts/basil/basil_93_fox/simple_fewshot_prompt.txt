@@ -1,0 +1,128 @@
+You have to summarize the following text preserving the moral framing that the author gave to it.
+
+Please study the following examples of news articles and their summaries preserving the moral framing:
+
+Example 1 (Political Ideology: Left):
+Here is the news article:
+
+WASHINGTON ― President Donald Trump’s offer to Democrats over the weekend seeking to trade temporary protections for some immigrants in exchange for funding for a wall on the U.S.-Mexico border received positive coverage from some outlets, including being called a “compromise” and a move by Trump “toward the center.”
+
+But the latest details in the proposal, which Senate Republicans unveiled Monday in a bill they plan to vote on this week, make the offer appear less of a compromise and more of a wish list for immigration hard-liners like White House adviser Stephen Miller.
+
+Trump is offering a three-year extension for the Obama-era Deferred Action for Childhood Arrivals program, which protects from deportation hundreds of thousands of immigrants brought to the U.S. as kids.
+The offer would also give a three-year extension to 300,000 people from El Salvador, Haiti, Nicaragua and Honduras who are living in the U.S. under the temporary protected status program.
+
+Democrats rejected the offer before Trump even announced it on Saturday, however, maintaining that it didn’t go nearly far enough and that the president ought to reopen the government before any negotiations over the border proceed.
+
+But the GOP bill incorporating his offer would also gut existing asylum laws for children and trafficking victims from Central America, ban asylum for minors who present themselves at ports of entry, gut the concept of temporary protected status for future cases and expand immigration detention ― all measures making it more likely to be dead on arrival in the Senate.
+
+“Given the poison pills stuffed into a proposal that was supposed to entice Democrats we can now say the Trump ‘offer’ isn’t about getting to a deal but about shifting blame.
+So obvious. So predictable. So pathetic,” Frank Sharry, the executive director of the immigration advocacy group America’s Voice, tweeted on Tuesday.
+
+The bill would ban asylum for Central American minors, including those who arrive at the border with their parents, unless the minors apply for asylum in their home country.
+It would also cap the number of Central American minors who are allowed to apply for asylum each year at 50,000 and limit the number of asylum applications that could be granted per year to 15,000.
+
+The administration has for months tried to reduce the number of people seeking asylum in the U.S. as part of a broader effort to stem the flow of Central American migrants crossing the border from Mexico.
+Trump’s administrative attempts to curtail the asylum process have faced legal challenges in two federal courts, however, prompting this week’s legislative fix.
+
+“This bill includes the most extreme changes on asylum that I’ve ever seen,” Kerri Talbot, the director of federal advocacy at the group Immigration Hub, said on a press call on Tuesday.
+
+Under the GOP bill, minors who apply for asylum would face much stiffer consequences for filing an application found to be frivolous ― including permanent ineligibility for future protections.
+
+The bill’s changes to asylum law alarmed immigration activists online, as well some on the right, including attorney and conservative writer Gabriel Malor.
+
+Trump’s efforts to win over Democratic support on the bill ― which will require at least 60 votes to pass in the Senate ― hit even more trouble on Tuesday after the Supreme Court once again did not act on the administration’s effort to end DACA.
+The move essentially left protections for Dreamers in place for at least the next several months ― giving Democrats less incentive to agree to Trump’s offer of protections to DACA recipients.
+
+SUMMARY:
+
+President Trump's recent offer to Democrats, touted as a "compromise," has been exposed as a thinly veiled attempt to push a hard-line immigration agenda. The proposal, which would provide temporary protections for some immigrants in exchange for funding a border wall, has been criticized for its draconian measures. These include gutting existing asylum laws, banning asylum for Central American minors, and expanding immigration detention. The bill would also punish minors who file frivolous asylum applications with permanent ineligibility for future protections. Immigration activists and even some conservatives have denounced the proposal as an attempt to shift blame rather than genuinely negotiate. The Supreme Court's decision to leave DACA protections in place has further weakened Trump's bargaining power, making it clear that his "offer" is little more than a cynical ploy to appease his base.
+
+END OF SUMMARY.
+
+Example 2 (Political Ideology: Center):
+Here is the news article:
+
+From his home at Mar-a-Lago, Donald J. Trump stirred up new controversy this week in the Republican presidential primary — and new alarm among party leaders that the front-runner for the nomination will drive away women from candidates running farther down the ballot in the fall.
+
+All week, Mr. Trump has slowly escalated a war of words on Twitter against Senator Ted Cruz of Texas, his main competition in the Republican race, based on an ad by a “super PAC” started by people who want to stop the New York developer from getting the nomination.
+The spot featured an old nude photo shoot of Mr. Trump’s wife Melania Trump, a former model, posing on his jet.
+
+Mr. Cruz has no affiliation with the super PAC, and he has denounced the ad.
+But Mr. Trump has continued to express disbelief.
+After threatening to “spill the beans” on Mr. Cruz’s wife, Heidi Cruz, who suffered a bout of depression years ago, he retweeted a post from someone who made a side-by-side photo comparison of Mrs. Cruz at an unflattering angle, and Mrs. Trump.
+
+On Wednesday, Mr. Cruz repeatedly quoted from the movie “The American President” to defend his wife, as she held an event and faced questions about Mr. Trump’s threats.
+But that was before Mr. Trump’s Twitter post with the pictures of the two women.
+And Mr. Cruz had finally had enough.
+
+Calling Mr. Trump a “sniveling coward,” Mr. Cruz told his rival to “leave Heidi the hell alone.”
+
+It’s useful to remember the news media outrage in 2012 when Todd Akin, running as the Republican nominee for Senate in Missouri, defended what he called “legitimate rape,” a remark that was overwhelmingly offensive to women.
+Under pressure from news outlets, the Republican Party tried to cauterize the wound that Mr. Akin had created by isolating him.
+
+Spouses are generally seen as off limits.
+And the responses to Mr. Trump’s comments among news media critics, over time, have been far more subdued.
+
+SUMMARY:
+
+Donald Trump has sparked outrage in the Republican presidential primary by attacking his rival Ted Cruz's wife, Heidi, on Twitter. Trump retweeted a post comparing an unflattering photo of Heidi Cruz to a glamorous photo of his own wife, Melania. This move has been widely condemned as a cowardly and offensive attack on a political opponent's spouse. The incident has raised concerns among party leaders that Trump's behavior will drive away women voters in the fall election. The media's response to Trump's comments has been surprisingly muted compared to the outcry over Todd Akin's "legitimate rape" remark in 2012. The incident highlights the importance of respecting personal boundaries and not using spouses as pawns in political battles. Trump's actions have been called out as sniveling and cowardly, and his behavior has sparked widespread alarm.
+
+END OF SUMMARY.
+
+Example 3 (Political Ideology: Right):
+Here is the news article:
+
+President Trump on Friday became the first president to speak in person at the anti-abortion March for Life rally, on the heels of a new poll registering record-high dissatisfaction with U.S. abortion laws.
+
+“Unborn children have never had a stronger defender in the White House,” Trump said in a speech.
+“And as the Bible tells us, each person is wonderfully made.”
+
+He went on to slam Democrats for embracing “the most radical and extreme positions” and backing “taxpayer-funded abortion, all the way up until the moment of birth.” (Critics say that such procedures do not occur.)
+
+The March for Life says its mission is to “promote the beauty and dignity of every human life by working to end abortion.” Trump previously spoke at the rally remotely, while Vice President Mike Pence in 2017 became the first U.S. vice president to attend.
+
+March for Life president Jeanne Mancini applauded the Trump administration in a statement earlier in the week, noting that the administration had appointed anti-abortion judges and federal workers, cut taxpayer funding for abortions and called for an end to late-term abortions.
+“President Trump and his Administration have been consistent champions for life and their support for the March for Life has been unwavering,” she said.
+
+The results of a new Gallup poll released Wednesday suggested that discontent over U.S. abortion policy was at an all-time high (58%) and satisfaction was at an all-time low (32%).
+The survey of more than 1,000 adults, conducted earlier this month, tracked an upward trend in those who wanted abortion policy to be less restrictive.
+
+Traditionally, Gallup said, most people dissatisfied with abortion policy wanted stricter laws — but since 2017, the year Trump took office, the share of respondents desiring less-strict abortion policy has risen.
+Now, “roughly equal percentages of U.S. adults now are dissatisfied and favor less strict laws (22%) as are dissatisfied and want stricter laws (24%),” the report’s authors said.
+
+Mounting support for easing abortion policy was fueled by a rise in Democrats and independents expressing such sentiments over the last 10 years, the survey found.
+
+A flurry of states last year enacted restrictive anti-abortion laws, including a handful that banned abortion past a certain point in a pregnancy, and Alabama, which effectively outlawed abortion in most cases.
+Many of these laws have been blocked in court from taking effect.
+
+The Supreme Court will also hear arguments this year on June Medical Services v. Gee, which involves a Louisiana law requiring abortion providers to have admitting privileges at a local hospital.
+The court previously struck down a similar provision in Texas in 2016’s Whole Woman’s Health v. Hellerstedt.
+
+“Americans have grown increasingly dissatisfied with the nation’s abortion policies since 2017, largely reflecting Democrats’ — and to a lesser extent, independents’ — mounting view under Trump that the laws are too strict,” wrote the authors of the Gallup report.
+“While this may partly be a reaction to Trump’s rhetoric on the issue, it also aligns with an increase in abortion restrictions.”
+
+A separate poll published Wednesday by the Kaiser Family Foundation found that 59% of Americans believe abortion should be legal in most (32%) or all (27%) cases, while just 11% thought the procedure should be illegal in all cases.
+Nearly seven in 10 respondents said they didn’t want the landmark Supreme Court ruling Roe v. Wade, which affirmed the right to have an abortion, to be overturned.
+Democrats and independents were most likely to express that opinion, while a majority of Republicans (57%) said they wanted Roe overturned.
+
+But many respondents also backed some state abortion restrictions, including 69% who endorsed policies requiring the procedure be performed only by doctors with hospital-admitting privileges, 66% who supported 24-hour waiting periods between consultation with a provider and the procedure, and 57% who supported a requirement that doctors show and describe ultrasound images to abortion seekers.
+Still, criminalizing abortion (that is, through fines or prison time) for providers and abortion-seekers proved unpopular.
+
+A NPR/PBS News/Marist poll of 944 U.S. adults released in June 2019 echoed those results, showing that 77% of Americans wanted to keep Roe v. Wade in place, but many still wanted additional abortion restrictions or policy changes.
+
+Among the more than three-quarters of Americans who broadly supported Roe, 26% wanted the Supreme Court to keep it but add more restrictions, and 14% supported keeping it but reducing some restrictions, according to that poll.
+Some 21% wanted to see Roe expanded to secure abortion rights under any circumstance, while 16% wanted to keep it the way it is.
+
+SUMMARY:
+
+President Trump became the first president to speak in person at the anti-abortion March for Life rally, emphasizing his administration's commitment to protecting unborn children. He criticized Democrats for supporting "taxpayer-funded abortion, all the way up until the moment of birth," a claim disputed by critics. A new Gallup poll shows record-high dissatisfaction with US abortion laws, with 58% of Americans unhappy with the current policy. However, the poll also reveals a growing trend towards supporting less restrictive abortion laws, particularly among Democrats and independents. Despite this, many Americans still support some abortion restrictions, such as requiring hospital-admitting privileges for providers. The poll results suggest that Americans are increasingly divided on the issue of abortion, with a growing number wanting to ease abortion policy.
+
+END OF SUMMARY.
+
+Now, here is the target news article to summarize:
+Here is the news article:
+
+President Trump’s immigration compromise package to end the partial government shutdown drew sharp reactions from Democratic and Republican lawmakers alike. In a televised White House address on Saturday afternoon, Trump offered Democrats a three-year extension of protections for 700,000 Deferred Action for Childhood Arrivals (DACA) recipients, in exchange for the $5.7 billion he has been seeking for a barrier along the nation's southern border with Mexico. “Our immigration system should be a source of pride ... not a source of shame as it is all over the world,” Trump said in his plea. The president’s proposal was met with disdain from an array of top Democratic lawmakers. Many used the same language in their critiques, accusing Trump of holding the government and federal workers "hostage." House Speaker Nancy Pelosi, D-Calif., tweeted, “What we didn’t hear from the President was any sympathy for the federal workers who face so much uncertainty because of the chaos of the #TrumpShutdown.” Before Trump made his announcement, Pelosi had called his anticipated proposal “a non-starter.” “For one thing, this proposal does not include the permanent solution for the Dreamers and TPS recipients that our country needs and supports.” For his part, Chuck Schumer, the Senate minority leader, called Trump's proposal "one-sided and ineffective." "It's clear the President realizes that by closing the government and hurting so many American workers and their families, he has put himself and the country in an untenable position. Unfortunately, he keeps putting forward one-sided and ineffective remedies. There's only one way out: open the government, Mr. President, and then Democrats and Republicans can have a civil discussion and come up with bipartisan solutions." Schumer, D-N.Y., concluded, "It was the President who single-handedly took away DACA and TPS protections in the first place – offering some protections back in exchange for the wall is not a compromise but more hostage taking." House Majority Leader Steny Hoyer shared a similar sentiment, urging Trump and Sen. Mitch McConnell to "stop holding government hostage and end the shutdown" immediately. “The president must stop holding government hostage and end the shutdown so federal employees can get back to work serving the American people. There is no reason for Americans to be shut out of work and without a paycheck while negotiations take place on the best way to secure our borders,” he said. Hoyer said negotiation can progress after the government reopens. “With the government open, we can negotiate an agreement to strengthen border security that both sides can support and that is in the best interests of the American people.” Another leading Dem, Sen. Kristen Gillibrand of New York, who announced her White House bid on Jan. 15 in an episode of "The Late Show with Stephen Colbert," said Trump's offer was a "bad deal." Gillibrand tweeted: "Trump ordered the end of DACA and TPS. Then he shut down the government. Now he's holding federal workers hostage, saying he'll temporarily give back what he took away -- only if we give him a pointless, ineffective wall he falsely promised Mexico would pay for. This is a bad deal." Then there was New Jersey Sen. Bob Menendez's response. He bluntly accused Trump of forcing "a pointless shutdown" to pay for the border wall. "This is about more than 800,000 Americans who are being held hostage by a President who has forced a pointless shutdown to pay for an expensive, ineffective wall. This is not about immigration. Dreamers and TPS recipients are not bargaining chips. It's unacceptable that after taking away DACA protections, eliminating the TPS program for thousands of immigrants and creating a humanitarian crisis at the border, President Trump is offering temporary solutions in exchange for a permanent wall." The Democratic senator also said "a legitimate negotiation" can proceed after the government is reopened. Fellow Democratic Sen. Chris Coons of Delaware slammed McConnell for refusing "to meaningfully negotiate with Senate Democrats," but also called Trump's offer "a first step toward comprehensive immigration reform." "This senseless government shutdown is hurting millions of Americans, and its impacts are only getting worse. The President should re-open the government so that Republicans and Democrats in Congress can work with the White House to find a sensible solution on border security and immigration. I am confident that a reasonable compromise can be reached, but not while President Trump continues to keep significant parts of the government shut down and Leader McConnell refuses to meaningfully negotiate with Senate Democrats," he said. "Some relief for Dreamers and an extension of Temporary Protected Status represent a first step toward comprehensive immigration reform, but more ideas from members of both parties should be taken up and debated. Republicans and Democrats stand ready to work toward a solution, but the fact remains that there is no reason to have large parts of the federal government shut down while we debate appropriate border security and immigration policies." Republican lawmakers, at the opposite end of the reaction spectrum, praised the president for his willingness to negotiate. Senate Majority Leader McConnell, for instance, commended the president "for taking bipartisan steps toward addressing current immigration issues." In his statement, he said; “Compromise in divided government means that everyone can’t get everything they want every time. The president’s proposal reflects that. It strikes a fair compromise by incorporating priorities from both sides of the aisle." “This bill takes a bipartisan approach to re-opening the closed portions of the federal government. It pairs the border security investment that our nation needs with additional immigration measures that both Democrat and Republican members of Congress believe are necessary. Unlike the bills that have come from the House over the past few weeks, this proposal could actually resolve this impasse. It has the full support of the President and could be signed into law to quickly reopen the government." Republican Whip Steve Scalise called on Democrats to match Trump's willingness to negotiate. "The time for political games has long passed. Democrats must put their personal dislike of the president aside, end their obstruction, and finally come to the negotiating table. It's time Democrats do what is right for the functioning and security of our nation and agree to a deal that opens our government, and includes funding for a border wall and other measures to solve this serious immigration crisis at our southern border," he said in a statement. Also on the Republican side, Sen. Susan Collins of Maine said she was "hopeful" for a "constructive debate" with Democrats. “Compromise is not a sign of weakness — it’s a sign of strength, particularly when hundreds of thousands of families are being harmed. The Administration, Senate Republicans, and Democrats must now resolve this stalemate before 800,000 federal workers and their families miss yet another paycheck, and our economy is further damaged,” she said. Sen. Mitt Romney, R-Utah, whose views on the president and his policies have fluctuated, said Trump "put forth a reasonable, good faith proposal that will reopen the government and help secure the border." He tweeted, "I look forward to voting for it and will work to encourage my Republican and Democratic colleagues to do the same. Earlier, while speaking in Ogden, Utah, Romney said he did not understand Pelosi's position on border security. "You (Pelosi) and your fellow Democrats have voted for over 600 miles of border fence in the past, why won't you vote for another few miles now? I don't understand their position, I really don't," the Republican senator said. Florida Sen. Marco Rubio took a positive view of Trump's proposed deal, like his fellow Republicans. He said Trump made "a very reasonable offer" and urged Democrats to work with him. “The way to end this shutdown is for both sides to make mutual concessions in order to reach an agreement. The president has made a very reasonable offer to extend DACA and TPS protections in exchange for the border security measures he supports. I hope that instead of choosing the road of endless obstruction, Democrats will decide to work with him to reach an agreement and end the shutdown,” he said. Likewise, House Republican Leader Kevin McCarthy called the president's immigration offer "reasonable." McCarthy tweeted: "President Trump has put forward a serious and reasonable offer to reform parts of our broken immigration system and reopen government. The moment now turns to Nancy Pelosi and Chuck Schumer. The country is watching." 
+
+The summary has to be returned after a "SUMMARY:" token and ending with a "END OF SUMMARY." token. The summary should be no longer than 200 words.

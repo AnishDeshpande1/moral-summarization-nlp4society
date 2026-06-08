@@ -1,0 +1,21 @@
+You have to summarize the following text preserving the moral framing that the author gave to it.
+
+Here is the news article:
+
+Former Mexican President Vincente Fox made it loud and clear that he won’t be chipping in for any part of Donald Trump’s proposed wall along the U.S.-Mexico border. "I’m not going to pay for that f***ing wall!” Fox told Jorge Ramos in an interview for Fusion. “He should pay for it. He’s got the money.” While Fox said that he believes that Americans will not elect the real estate tycoon to the White House, he is concerned about the results of the Nevada caucus, in which, according to entrance polls, Trump won 44 percent of the Hispanic vote. "I would like to know who those Hispanics are, because they are followers of a false prophet," Fox said. "He’s going to take them to the desert, and if they think that they will benefit with an administration led by Donald Trump, they’re wrong. They must open their eyes. Please, you Hispanics in the U.S. – open your eyes." Fox added, "It is not to defend our race, it is not to defend our creed, but to defend the same nation that is hosting you. This nation is going to fail if it falls into the hands of a crazy man." The former Mexican president, who led the country from 2000 to 2006, also questioned Trump’s allegiance to the Republican party, or, for that matter, any political party. "He’s not a Republican. Absolutely not,” Fox said. “Those are not Republican principles. He is not a Democrat. He is just himself. He is egocentric." The comments from Fox echo those of his successor, Felipe Calderón, who a week ago asserted that Mexico will not pay for a border wall. “Mexican people, we are not going to pay a single cent for such a stupid wall! And it's going to be completely useless,” Calderón told CNBC. For months, Trump has stood by his initial comments about building a border wall and getting Mexico to pay for it. The morning after Calderón made the comments, the GOP front-runner appeared on MSNBC's "Morning Joe." “I heard the head of Mexico said ‘no way,’ and I said, ‘Now the wall just got taller,” Trump said. Fox’s interview on Fusion comes about 6 months after Ramos had his own very public skirmish with Trump in which the Spanish-language news icon confronted the billionaire during a press conference in Iowa – prompting the candidate's security team to remove Ramos from the room. Ramos later returned and Trump took several of his questions. “He tried to silence me,” the Mexican-born journalist told Fox News’ Megyn Kelly in August. “And in this country, you cannot do that. I’m a citizen. I’m an immigrant. I’m a reporter. And I have the right in this country to ask any question I want, to whomever I want.” Ramos’ interview with Fox also occurred as U.S. Vice President Joe Biden paid a visit to Mexico for an economic summit. Biden made a thinly-veiled attack on Trump on Thursday, decrying the reality TV star’s "dangerous" rhetoric. "Some of the rhetoric coming from some presidential candidates of the other team are, I think, dangerous, damaging and incredibly ill-advised," Biden said, according to AFP. "I'm here to tell you: They do not, they do not, they do not represent the view of the vast majority of the American people.”
+
+The author used the following morally framed words in the article:
+* take
+* fail
+* falls
+* republican
+* egocentric
+* tried
+* silence
+* that
+* right
+* ask
+* rhetoric
+* dangerous
+
+Please preserve as many morally framed words as possible in your summary. The summary has to be returned after a "SUMMARY:" token and ending with a "END OF SUMMARY." token. The summary should be no longer than 200 words.

@@ -1,14 +1,21 @@
 import yaml
 import json
-import torch
-import gc
+try:
+    import torch
+    import gc
+except ImportError:
+    torch = None
+    gc = None
 from collections import Counter
 import math
 import numpy as np
 from scipy.spatial.distance import jensenshannon
 from nltk.corpus import wordnet31 as wn31
 import string
-from transformers import AutoTokenizer
+try:
+    from transformers import AutoTokenizer
+except ImportError:
+    AutoTokenizer = None
 import pickle
 
 

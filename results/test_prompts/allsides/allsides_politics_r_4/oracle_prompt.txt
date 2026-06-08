@@ -1,0 +1,43 @@
+You have to summarize the following text preserving the moral framing that the author gave to it.
+
+Here is the news article:
+
+"Even so every good tree bringeth forth good fruit; but a corrupt tree bringeth forth evil fruit. "—Matthew 7:17 There is one apparent reason the president of the United States was not indicted Tuesday in the same case that yielded a guilty plea from his longtime personal lawyer. It's not because prosecutors think he is innocent. It's because he is president. The U.S. Justice Department has long taken the position that a sitting president is exempt from indictment. Only after he leaves office are prosecutors free to pursue criminal charges against him. Unless that policy changes, Donald Trump will serve the remainder of his time in office under the specter of prison. Let that sink in a moment. Prosecutors may postpone his indictment. Congress may refuse to impeach him or convict him. But Americans will be living under the administration of someone who has been implicated in a crime by a close associate—and who they may eventually learn is guilty of one or more felonies. The nation is being governed by an unindicted co-conspirator. Trump's defenders deprecate the importance of the campaign finance violations that Michael Cohen admitted. They make much of the absence of any connection to Russia. They take vindication from a jury's failure to convict Paul Manafort on 10 of the 18 charges that he faced. It's tempting to call such defenders slavish. But slaves were often unenthusiastic and slow in performing their assigned tasks. Trump's defenders need no whips to motivate them. They are better described as cultlike in their fervent willingness to believe whatever they have to believe to remain faithful. They would rather eat the foul fruit than recognize the nature of the tree. If we know nothing else about Trump, we know that he finds the company of criminals as warm and inviting as a Jacuzzi. No president in history has shown such a fondness for employing people of felonious character. So far, five of his associates have been convicted of crimes or pleaded guilty. It is people of firm probity who make Trump uncomfortable—James Comey, who wouldn't agree to "go easy" on one of those confessed felons (Michael Flynn); Robert Mueller, who has served his country as a decorated Marine, federal prosecutor, and FBI director, all without a hint of scandal; Rod Rosenstein, who has refused to fire Mueller as special counsel; and a host of journalists whose sole sin is to report unflattering facts about Trump. Let's not forget his deep animus for Barack Obama, who served two terms without any credible allegation of corruption against him or anyone in his circle of aides or associates. The closest thing to a major criminal case in that White House involved CIA Director David Petraeus, who pleaded guilty to a misdemeanor count of giving classified documents to his biographer. It is not impossible that Cohen committed his campaign finance crimes—paying hush money to keep two women from making public their claims of having sex with Trump, to help him win the election—without the knowledge or approval of his boss. But Trump hasn't earned the benefit of any doubt. At every stage, he has told lies that were later exposed and acknowledged. The president denied that he knew of the payment to Stormy Daniels, only to later admit it. He also had to admit that he personally reimbursed Cohen, who originally insisted that he bore the cost. Speaking of people willing to make financial sacrifices out of their devotion to Trump, his former campaign manager was convicted on eight felony counts Tuesday. Trump said the convictions "had nothing to do with Russian collusion," but Manafort had extensive ties to a Russian oligarch and Russian businesses—and owed them millions of dollars. At the time he took the job with Trump, his defense lawyers admitted during the trial, Manafort had no income. Yet Trump was happy to let him run the campaign. Did Trump not know that his unpaid campaign manager was in financial trouble that gave pro-Russian foreign interests leverage over him? Or did he not think to wonder why Manafort was so eager to work for nothing? Manafort is just one of the noxious products of a corrupt tree. Tuesday was a bad day for the president and the country. But our experience with Trump suggests that the worst is yet to come.
+
+The author used the following morally framed words in the article:
+* indicted
+* innocent
+* exempt
+* pursue
+* serve
+* postpone
+* refuse
+* crime
+* guilty
+* governed
+* violations
+* believe
+* eat
+* warm
+* inviting
+* fondness
+* convicted
+* agree
+* served
+* refused
+* fire
+* report
+* animus
+* allegation
+* committed
+* crimes—paying
+* sex
+* help
+* lies
+* payment
+* reimbursed
+* ties
+* run
+* worst
+
+Please preserve as many morally framed words as possible in your summary. The summary has to be returned after a "SUMMARY:" token and ending with a "END OF SUMMARY." token. The summary should be no longer than 200 words.

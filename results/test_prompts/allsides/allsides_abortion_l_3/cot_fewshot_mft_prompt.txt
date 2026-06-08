@@ -1,0 +1,223 @@
+You have to summarize the following text preserving the moral framing that the author gave to it, with particular focus on the specific moral foundations highlighted in the text.
+
+Please study the following examples of news articles, their moral word extraction, and summaries preserving the moral framing:
+
+Example 1 (Political Ideology: Left, Moral Foundations: Authority/Subversion, Care/Harm, Fairness/Cheating):
+Here is the news article:
+
+The “compromise” immigration bill released Thursday night by Republicans in the House of Representatives is set to come to the House floor next week, alongside a more conservative alternative.
+It’s a sweeping plan that covers everything from border security (including a promise of $25 billion for Trump’s border wall); to a way for immigrants who are facing the loss of their protections under the Deferred Action for Childhood Arrivals (DACA) program to apply for legal status and ultimately (possibly) green cards and citizenship; to cuts to legal family-based immigration that are partially offset by expanding permanent employer-based immigration.
+
+But House Speaker Paul Ryan and others are emphasizing a different aspect of the bill.
+They claim it would prevent the Trump administration from separating children from their parents at the US-Mexico border — a practice the administration made widespread in early May and that has resulted in the separation of hundreds of families a week.
+
+They’re lying.
+
+The Republican bill doesn’t outlaw family separation.
+It doesn’t stop the Trump administration from choosing to prosecute asylum seekers who enter the US between ports of entry (official border crossings) for illegal entry, which results in parents being sent into criminal custody without their children.
+And it doesn’t even force the government not to separate parents who do present themselves legally for asylum from their children — something that has also been happening, though isn’t as widespread.
+
+What the House bill does is get rid of the extra legal protections that children and families have in immigration detention: a requirement that children be kept in the “least restrictive” conditions possible, and that they not be detained any longer than necessary.
+This means that if the family is kept together, their parents must be released with them.
+The Trump administration calls those protections “loopholes,” and blames them for “forcing” the administration to keep asylum-seekers in custody by separating families.
+
+If the House bill passed, the Trump administration probably would stop separating families.
+Instead, it would be able to keep children and parents in ICE detention until their cases were resolved — that is, they could be in held in detention indefinitely.
+
+The House bill allows kids and families to be detained by ICE indefinitely — which is what Trump has wanted all along
+
+The Republican summary of the new bill (as reported by Leigh Ann Caldwell of NBC) claims that it ends family separation: “Accompanied alien minors apprehended at the border must not be separated from their parent or legal guardian while in DHS custody.”
+
+There is no language like that in the bill.
+
+What exists, however, in a section called “Clarification of Standards for Family Detention,” is a provision allowing ICE to detain immigrant children who come to the US with their parents or guardians in the same way it would detain adults:
+
+There exists no presumption that an alien child who is not an unaccompanied alien child should not be detained, and all such determinations shall be in the discretion of the Secretary of Homeland Security.
+
+That sentence would overrule a court agreement that’s been in place for the past 20 years, called the Flores agreement, that puts strict limitations on when the government can keep children in immigration detention.
+The Flores agreement requires that kids be released “without unnecessary delay,” and that they are kept in the meantime in the “least restrictive” conditions possible.
+
+Courts have interpreted that agreement to mean that ICE can’t detain families for more than 20 days in most cases.
+
+The Flores agreement doesn’t require the government to separate families.
+It just requires the government not to indefinitely detain children.
+But the Trump administration has decided to maximize the detention of asylum seekers, including parents, to prevent people from disappearing into the US as unauthorized immigrants after they’re released.
+(This is the so-called “catch and release” policy Trump has railed against.)
+
+Rather than release parents with their children, therefore, the administration is separating families so the parents can be detained while the children (sent to the custody of HHS as “unaccompanied alien children”) are ultimately placed with sponsors.
+
+The House bill allows the administration to keep families in immigration detention indefinitely.
+It doesn’t even specify that there are any additional conditions on how children can be detained — there’s nothing preventing the Trump administration from simply putting children in existing ICE detention centers for adults, rather than expanding detention centers designed for families.
+
+Nothing in the bill requires ICE to keep parents and children together in detention.
+In fact, the mechanism that the Trump administration has generally been using to separate families — referring parents into the custody of the Department of Justice for prosecution — isn’t even addressed in the bill.
+
+The only reason the House bill could possibly end the separation of families would be if the Trump administration decided that because they now didn’t have to release children from detention, they would stop prosecuting parents, and they would make an effort to keep families together in ICE detention.
+
+But even then, that just means that children would be held in facilities that are essentially jails with their parents for months, or even years, until they ultimately received legal status — or, more likely, until they were finally deported.
+
+STEP 1:
+* lying
+* widespread
+* illegal
+* loopholes
+* forcing
+* indefinitely
+* catch
+* release
+* maximize
+* unauthorized
+* railed
+* separating
+* widespread
+
+SUMMARY:
+The House Republicans' new "compromise" immigration bill is a sweeping plan that covers border security, DACA, and legal family-based immigration. However, House Speaker Paul Ryan and others are misleadingly claiming that it would prevent the Trump administration from separating children from their parents at the US-Mexico border. In reality, the bill doesn't outlaw family separation, and instead, it allows the Trump administration to detain children and parents indefinitely in ICE detention centers. The bill gets rid of the extra legal protections that children and families have in immigration detention, which the Trump administration calls "loopholes". This means that if the family is kept together, their parents must be released with them, but the Trump administration would rather detain families indefinitely. The bill is a thinly veiled attempt to maximize the detention of asylum seekers, including parents, and to prevent people from disappearing into the US as unauthorized immigrants. END OF SUMMARY.
+
+Example 2 (Political Ideology: Center, Moral Foundations: Fairness/Cheating):
+Here is the news article:
+
+Obama Team To Make Important, If Symbolic, Choice On Gay Marriage
+
+The Obama administration faces tricky political and legal questions on the subject of gay marriage.
+By the end of this month, the federal government is expected to file not just one but two briefs in a pair of same-sex marriage cases at the U.S. Supreme Court.
+
+But it is the Proposition 8 case from California that poses the thornier questions for the administration — questions so difficult that the president himself is expected to make the final decision on what arguments the Justice Department will make in the Supreme Court.
+
+Prop 8, as it is known, is the California ballot initiative banning same-sex marriage.
+It was narrowly approved by state voters in 2008.
+A federal district court struck down the law as unconstitutional discrimination in 2010.
+A federal appeals court later agreed, but on narrower grounds.
+Because there was a period of time in which same-sex couples could legally marry in California, the court said, it was unconstitutional for the state, through the ballot initiative, to take away a fundamental right it had previously granted.
+
+The state, under both Republican and Democratic governors, has declined to defend the measure in court.
+So its ban on gay marriage is being defended by the sponsors of the initiative.
+
+The Obama administration is not required to file any brief in the case because it does not directly involve federal law.
+But administration sources say the government will file a brief.
+Still unresolved is what the brief will say.
+And in this case, much more than most, there are numerous legal routes that the government can take.
+
+The ultimate question — the one perhaps most people want an answer to but may not get — is whether same-sex couples have a constitutional right to marry.
+A Supreme Court decision that says yes to that would invalidate laws in some 30 states.
+But there are many legal avenues short of such a far-reaching argument that would invalidate Proposition 8 in California and leave laws in other states intact.
+
+What makes this even dicier is that President Obama has changed his position, seemingly a lot, over the past eight months.
+In May, in an ABC interview, he for the first time endorsed same-sex marriage from a personal point of view, but he went on to say that the decision on legalizing gay marriage should be left to the states, where marriage matters are traditionally governed.
+
+"It is important for me to go ahead and affirm that I think same-sex couples should be able to get married.
+And I continue to believe that this is an issue that is going to be worked out at the local level, because historically this has not been a federal issue," he said.
+
+But eight months later at his inauguration, the president seemed to take a more expansive view.
+"Our journey is not complete until our gay brothers and sisters are treated like anyone else under the law.
+For if we are truly created equal, then surely the love we commit to one another must be equal as well," Obama said.
+
+That language suggests the president believes in a more basic constitutional right to marry, analogous to the right enunciated in a unanimous 1967 Supreme Court ruling that struck down laws barring interracial marriage.
+In that case, ironically, the federal government took no position in the Supreme Court.
+
+So what will Obama do now that he faces similar questions in a case about sexual orientation, not race?
+
+His administration could make a bold, full-throated defense of the right to marry, an argument that Obama seemed to suggest at his inaugural.
+Or it could argue a number of lesser positions: That California, having extended the right to marry to gay couples for a window of time, could not revoke the right.
+Or that California, like some other states, has a law extending all rights to same-sex couples, except the right to marry, and that such a distinction amounts to discrimination.
+Or it could argue that since the state is not defending the law, the case does not belong in court at all — that the sponsors of the initiative have no legal standing in court.
+
+For the gay community, and for those advocating traditional marriage between a man and a woman, the position the government takes in this case is hugely important — if nothing else, as a symbol.
+Both sides have made formal presentations at the Justice Department urging the administration to take their side.
+But the deadline has already passed for a brief siding with Proposition 8 supporters, leaving only the question of what a brief on the other side will say.
+
+Same-sex marriage advocates are holding their collective breath for now and maintaining a pretty studied public silence, hoping to avoid the impression that the gay community is pressuring the administration.
+
+Still, lawyers who argue regularly before the court are not so sure that the administration's brief, whatever it says, will make a big difference to the justices.
+
+"I'm never going to tell you that the solicitor general's position doesn't matter," says former Bush administration Solicitor General Paul Clement.
+But in this case, he says, "I think it matters less."
+
+Clement was hired by the House Republican leadership to defend the constitutionality of the Defense of Marriage Act, or DOMA, in a case that is paired with the Proposition 8 case in the Supreme Court.
+The reason he thinks the administration's brief in the Proposition 8 case matters less, he says, is "because we already know what their position is on DOMA and one can extrapolate."
+
+In the DOMA case, the Obama administration argues that the federal law is unconstitutional because it bars federal benefits to legally married same-sex couples — benefits that go automatically to legally married heterosexual couples.
+
+Supreme Court advocate Tom Goldstein, founder of SCOTUSblog, makes a different point — that sometimes Supreme Court briefs are aimed at more than one audience.
+He notes that in a truly historic case like this one, "I think part of what's going on ... is a statement about what is morally right and wrong.
+And so I think it could matter to Americans much more than it matters to the Supreme Court."
+
+STEP 1:
+* equal
+* right
+* equal
+* morally
+* right
+* wrong
+
+SUMMARY:
+The Obama administration is facing a crucial decision on gay marriage, with the President himself expected to make the final call on the Justice Department's arguments in the Proposition 8 case at the U.S. Supreme Court. The case poses a moral dilemma, as the administration must decide whether to take a bold stance on the constitutional right to marry, or argue lesser positions. The President's previous statements on the issue have been ambiguous, but his inaugural address suggested a more expansive view, stating that "our gay brothers and sisters are treated like anyone else under the law." The administration's brief will carry significant symbolic weight, as it will be seen as a statement on what is morally right and wrong. Same-sex marriage advocates are holding their breath, hoping the administration will take a strong stance in favor of equality and right. The outcome of this case could have far-reaching implications, potentially invalidating laws in 30 states. END OF SUMMARY.
+
+Example 3 (Political Ideology: Right, Moral Foundations: Authority/Subversion):
+Here is the news article:
+
+A group of 14 Wisconsin parents has filed a lawsuit against a local school district for its policy allowing teachers to address their children by their preferred "gender identity" without notifying them first.
+
+Wisconsin Institute for Law and Liberty (WILL), a conservative law firm, filed the 19-page lawsuit on Tuesday on behalf of the parent's group against the Madison Metropolitan School District (MMSD).
+The 14 parents were not named in the document.
+
+The lawsuit alleges that MMSD's transgender policy is unconstitutional because it prohibits teachers and staff from informing parents that their children want to switch sexes.
+
+"This action seeks to vindicate parents' fundamental and constitutional right to direct the upbringing of their children," the lawsuit argues.
+"The Madison Metropolitan School District has violated this important right by adopting a policy designed to circumvent parental involvement in a pivotal decision affecting their children's health and future.
+The policy enables children, of any age, to socially transition to a different gender identity at school without parental notice or consent."
+
+While parental consent is needed before a child's name can be changed legally in the district's official records, the school district policy announced in 2018 says students can be called by their preferred name and gender pronouns without parental permission.
+
+The policy states that the district is committed to affirming each student's self-designated gender identity and the district will strive to "disrupt the gender binary" with books and lessons stating that everyone has the right to choose their gender.
+
+The school policy allows students to pick new names and pronouns they can use at school regardless of whether they have a parent's permission.
+All teachers and district staff must refer to students by their chosen names and pronouns even though the names aren't official in district systems.
+
+The parents argue the policy violates the state constitution's due process clause, which protects parents' right to raise their children according to the parents' beliefs.
+
+"Madison schools have adopted policies that violate constitutionally recognized parental rights.
+A public school district should not, and cannot, make decisions reserved for parents," WILL President and General Counsel Rick Esenberg said in a statement.
+
+District spokesman Tim LeMonds said Tuesday that the district had not been served with the lawsuit and could not comment until it had a chance to review it.
+But LeMonds said the district stands by its guidance on transgender and nonbinary students.
+
+The lawsuit also argues that keeping parents in the dark about their children's sexuality interferes with parents' right to guide their children through life-altering decisions and provide professional help their children may urgently need.
+
+"There is no compelling government interest in keeping secret from parents that their child is dealing with gender dysphoria," the lawsuit reads.
+
+The parents also argue that the policy violates the state constitution's religious freedom guarantee.
+
+All of the parents say they believe God intended humans to be male and female, and the district's choice to hide students' gender struggles interferes with their right to guide their children in accordance with their religious beliefs
+
+STEP 1:
+* unconstitutional
+* fundamental
+* right
+* pivotal
+* important
+* circumvent
+* violated
+* affirming
+* disrupt
+* recognized
+* reserved
+* interferes
+* compelling
+* secret
+* religious
+* freedom
+* intended
+* interferes
+
+SUMMARY:
+A group of 14 Wisconsin parents has filed a lawsuit against the Madison Metropolitan School District (MMSD) over its policy allowing teachers to address their children by their preferred "gender identity" without notifying them first. The parents argue that the policy is unconstitutional and violates their fundamental right to direct the upbringing of their children. They claim that the policy circumvents parental involvement in a pivotal decision affecting their children's health and future. The policy enables children to socially transition to a different gender identity at school without parental notice or consent, which the parents believe interferes with their right to guide their children through life-altering decisions and provide professional help their children may urgently need. The lawsuit also argues that the policy violates the state constitution's religious freedom guarantee, as the parents believe God intended humans to be male and female.
+END OF SUMMARY.
+
+Now, here is the target news article to summarize:
+Here is the news article:
+
+The Trump administration in March released a final rule barring clinics that provide or refer patients for abortions from getting federal family planning funds. The rule was soon challenged in court by state officials and reproductive rights groups and has been the subject of a legal battle ever since. Most recently, on July 3, the US Court of Appeals for the Ninth Circuit issued a preliminary injunction blocking the rule from taking effect while legal challenges work their way through the courts. The new rule, first proposed last year, is known by some reproductive rights advocates as the “domestic gag rule.” It bars Planned Parenthood and any other provider that performs abortions or offers abortion referrals from receiving funding under Title X, which pays for birth control and other family planning services for low-income patients. Anti-abortion groups have long backed such a rule, arguing that organizations that provide abortion should not receive federal support. But Planned Parenthood and other groups say that the rule will leave low-income patients without access to health care they need. Planned Parenthood says it sees about 41 percent of patients who get family planning services under Title X. The rule immediately faced legal challenges from Planned Parenthood, the American Medical Association, the National Family Planning & Reproductive Health Association (NFPRHA), the American Civil Liberties Union, and a number of states. Earlier this year, the challengers won temporary injunctions keeping the rule from taking effect, but those injunctions were lifted after the Trump administration appealed. On July 3, the Ninth Circuit issued a new injunction, this one in connection with the suit by the NFPRHA and ACLU. “Today’s ruling is an important victory in the fight against the Trump administration’s attempts to upend Title X,” said Ruth Harlow, senior staff attorney for the ACLU’s Reproductive Freedom Project, said in a statement. “It allows us to go back to court to ensure that the millions of low-income people who rely on the nation’s only family planning program will continue to receive vital health services — and we will not give up until the rule is blocked for good.” The move to restrict Title X funds is one of a number of actions by the Trump administration that critics say will limit access to contraception and abortion. It also comes as the president ramps up his rhetoric on abortion, which he may see as a winning issue for him and the Republican Party in 2020. The rule bars Title X recipients from performing abortions The new rule would require providers that receive Title X funds be both physically and financially separate from any entity that provides or refers for abortions. That means that because some Planned Parenthood health centers perform abortions, all Planned Parenthood centers would be barred from getting Title X funding. In addition to Planned Parenthood affiliates, Title X funds also go to Health Department centers, hospital-run clinics, and other facilities, all of which would be barred from performing abortions under the new rule. Providers were already banned from using Title X money to pay for abortions, but Title X funding recipients could still perform abortions if they covered the costs with other funds. The rule was first proposed in May 2018 but did not go into effect at that time. When it was finalized, the rule was scheduled to take effect this May. A similar rule was proposed under President Reagan but was only in effect for a month, in 1992. That rule prohibited Title X recipients from even discussing abortion, as Julie Hirschfeld Davis and Michael D. Shear note at the New York Times, but the new rule does not go that far. Abortion opponents have applauded the rule. “We thank President Trump for taking decisive action to disentangle taxpayers from the big abortion industry led by Planned Parenthood,” said Marjorie Dannenfelser, president of Susan B. Anthony List, in a statement. “Americans United for Life is pleased that HHS has taken steps to stop Title X funds from subsidizing abortion,” Catherine Glenn Foster, president of the group, said in a statement. But Planned Parenthood and other groups say it will leave many low-income patients without access to contraceptive care. Planned Parenthood also argues that the rule is illegal, since it violates laws requiring that pregnant patients receiving care through Title X get unbiased counseling about all of their options, which include abortion. “The gag rule is unconscionable and unethical,” said Dr. Leana Wen, president of Planned Parenthood Federation of America, in a statement to media when a draft of the rule was published in February. “This rule compromises the oath that I took to serve patients and help them with making the best decision for their own health.” In many places, Planned Parenthood is the only option for low-income patients; a 2015 analysis by the Guttmacher Institute found 103 counties where Planned Parenthood is the only provider of publicly funded contraceptives. If Planned Parenthood were locked out of Title X funds, other health centers might struggle to pick up the slack. According to another Guttmacher analysis, other providers would have to increase their caseloads by an average of 70 percent to serve all the patients currently seen by Planned Parenthood. “If fully implemented, the proposed changes to Title X would shrink the network of participating providers and have major repercussions for low-income women across the country that rely on them for their family planning care,” wrote a team from the Kaiser Family Foundation in a November 2018 analysis of the proposed rule. The Title X rule is just one of several moves by the Trump administration that limit access to contraception or abortion. In 2017, for instance, the administration released interim rules allowing almost any employer to get an exemption from the Obama-era requirement that employers offer contraceptive coverage as part of employee health insurance. Those rules were finalized in 2018, one day after the midterm elections. Trump has stepped up his anti-abortion rhetoric in recent months, after Virginia Gov. Ralph Northam’s confusing comments on a bill in his state led to a larger controversy around abortions late in pregnancy. The president’s appointment of conservative Supreme Court Justices Neil Gorsuch and Brett Kavanaugh has boosted his popularity among conservatives, according to Vivian Wang of the New York Times. And with a potential challenge to Roe v. Wade on the horizon, Trump may see opposition to abortion — and to Planned Parenthood — as a winning strategy going into 2020.
+
+(1) First, you identify all the single words that are morally framed, focusing especially on the dimensions of Authority/Subversion, Care/Harm, Fairness/Cheating. Identify this step as "STEP 1:" and report each word in a new line starting with *
+(2) Finally, you write a summary of the news article. Please preserve as many morally framed words as possible, particularly focusing on the moral dimensions of Authority/Subversion, Care/Harm, Fairness/Cheating in your summary. The summary has to be returned after a "SUMMARY:" token and ending with a "END OF SUMMARY." token. The summary should be no longer than 200 words.

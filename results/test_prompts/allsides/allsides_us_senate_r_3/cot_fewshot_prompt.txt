@@ -1,0 +1,147 @@
+You have to summarize the following text preserving the moral framing that the author gave to it.
+
+Please study the following examples of news articles, their moral word extraction, and summaries preserving the moral framing:
+
+Example 1 (Political Ideology: Left):
+Here is the news article:
+
+Obama’s team is spinning the Republican National Convention as a complete miss.
+Obama's new challenge: Disappointment
+
+The watchword of the Republican National Convention in Tampa was disappointment — as in President Barack Obama has been one.
+
+You can hammer Obama on health care.
+Mock his golf outings.
+Demand to see his birth certificate and Harvard transcript, and call him a European socialist bent on turning the American Dream into a Belgian nightmare.
+He’ll throw his head back and laugh at you like a Bond villain.
+
+But tell voters he’s not the man America fell in love with in 2008 — and pine, however disingenuously, about his unfulfilled potential — and a shiver runs through his Chicago campaign headquarters.
+
+Obama’s team was spinning the convention as a complete miss, arguing that Republicans didn’t lay a glove on their man.
+Yet what emerged from Tampa was a subtle, clever shift in GOP messaging, a much more dangerous strategy for Obama than the kitchen-sink attacks that preceded the gathering.
+Republicans posed — rhetorically — as Obama 2008 voters, lamenting his unfulfilled expectations as if they had been with him all along instead of trying to block him at every turn.
+
+Both sides recognize the power of the disappointment theme: that the hope Obama offered for mending the economy, transforming the political process and even saving the earth has faded.
+
+“President Obama promised to begin to slow the rise of the oceans and heal the planet,” Mitt Romney said in accepting the Republican presidential nomination Thursday.
+“My promise is to help you and your family.”
+
+Or, as Sen. Marco Rubio put it, “Our problem with President Obama isn’t that he’s a bad person.
+Our problem is that he’s a bad president.”
+
+If Republicans landed a punch on Obama, it was the kind of strategic body blow that a skillful pugilist deploys to gain better position for the rest of the fight.
+
+No roundhouse, no jaw-splitter, no knockout.
+It was the kind of shot aimed at subtly shifting momentum and softening up the opponent in a way that may not be evident to the casual observer.
+
+Republicans honed their tone.
+
+The shrill hyperbole, petty critiques of Obama’s every move and Party of No intransigence disappeared into the heavy Tampa air.
+Surely, some of that will rain back down across other parts of the country during the closing months of the campaign, particularly as super PACs and other outside groups intensify their own lines of attack against Obama.
+
+There was plenty of tough criticism in Tampa — more mockery of Obama’s “you didn’t build that” line, more comparisons of his record to Jimmy Carter’s.
+But there were times — prime time, in particular — that the Republican convention looked and sounded like a Democratic gathering.
+
+An appealing young vice-presidential candidate, Paul Ryan, called his mom his role model and vowed to protect Medicare for seniors.
+
+Cuban-American Florida Sen. Marco Rubio and Mexican-American New Mexico Gov. Susana Martinez spoke of the unique opportunities that the United States afforded them to rise into leadership positions.
+
+STEP 1:
+* disappointment
+* disingenuously
+* clever
+* dangerous
+* bad
+* good
+* shrill
+* petty
+* intransigence
+* appealing
+* unique
+
+SUMMARY:
+The Republican National Convention in Tampa was deemed a success by the GOP, despite Obama's team spinning it as a complete miss. Republicans cleverly shifted their messaging, adopting a more subtle and dangerous strategy that focused on disappointment. They posed as Obama 2008 voters, lamenting his unfulfilled expectations and promising a more humble, achievable agenda. Mitt Romney and Sen. Marco Rubio delivered speeches that were more in line with Democratic values, touting the unique opportunities afforded by the United States. The tone was appealing, with a focus on protecting Medicare for seniors and honoring role models. The GOP's new approach is a strategic body blow to Obama's campaign, softening him up for the rest of the fight. END OF SUMMARY.
+
+Example 2 (Political Ideology: Center):
+Here is the news article:
+
+WASHINGTON — It is a lesson politicians never seem to learn from others’ mistakes: The microphone is always on.
+
+The latest candidate to learn the hard way was Representative Bruce Braley, an Iowa Democrat running for Senate this year.
+Mr. Braley apologized to Senator Charles E. Grassley, Republican of Iowa, and “anyone I may have offended” after video emerged of him warning that “a farmer from Iowa who never went to law school, never practiced law” could become chairman of the Judiciary Committee.
+
+Mr. Braley is not running against Mr. Grassley, who plans to seek a seventh term in 2016.
+But as the ranking Republican on the Judiciary Committee, Mr. Grassley could assume the chairmanship if his party takes control of the Senate this year.
+Mr. Braley, speaking at a January fund-raiser in Corpus Christi, Tex., was explaining why he should go to the Senate instead of his Republican opponent.
+
+America Rising, a conservative political action committee that has vowed to use videos and opposition research to attack Democratic candidates, posted the footage on YouTube on Tuesday.
+Other Republicans quickly criticized Mr. Braley.
+
+Though their numbers are declining, farmers are still a powerful force in the Iowa, which ranks second in the country in total farm sales.
+Mr. Braley’s apology noted his family’s history with Iowa agriculture, including his own stint “doing farm jobs and working a grain elevator.”
+
+In another appeal to Iowa farmers, Joni Ernst, a candidate in the Republican Senate primary on June 3, announced in an ad that she grew up “castrating hogs on an Iowa farm.”
+Ms. Ernst said that qualified her to “cut pork” in Washington.
+
+STEP 1:
+* apologized
+* offended
+* warned
+* criticized
+* powerful
+* qualified
+
+SUMMARY:
+Representative Bruce Braley, an Iowa Democrat running for Senate, apologized for his offensive remarks about Senator Charles E. Grassley, a Republican from Iowa. Braley warned that a farmer from Iowa who never went to law school could become chairman of the Judiciary Committee, implying that Grassley was unqualified for the position. The video of Braley's comments was posted on YouTube by America Rising, a conservative political action committee. Braley's apology noted his family's history with Iowa agriculture, but Republicans quickly criticized him for his remarks. In contrast, Joni Ernst, a Republican Senate candidate, highlighted her experience growing up on an Iowa farm, saying it qualified her to "cut pork" in Washington. The incident serves as a lesson to politicians that the microphone is always on, and careless comments can have consequences. END OF SUMMARY.
+
+Example 3 (Political Ideology: Right):
+Here is the news article:
+
+Republican senators kept up pressure on party Chairman Michael Steele Sunday to better explain -- and publicly apologize for -- his on-camera claim that Afghanistan is a "war of Obama's choosing" and may not be winnable.
+
+The backlash built quickly over the weekend as some prominent conservatives called for Steele's resignation.
+Speaking on "Fox News Sunday," Sen. Jim DeMint, R-S.C., would not go that far but said Steele must apologize to the troops.
+
+"Chairman Steele needs to apologize to our military, all the men and women who've been fighting in Afghanistan," he said.
+"This is America's war.
+It's not Obama's war."
+
+The GOP chairman is known for off-the-cuff and occasionally troublesome comments, but the Afghanistan remarks were too much to bear for some war-supporting Republicans.
+
+DeMint, who said Afghanistan is a war the United States must win, said Steele needs to "refocus" on the November election.
+He called Steele's comments "unacceptable" and "inaccurate."
+
+"We need a chairman who's focused," DeMint said.
+
+Speaking on ABC's "This Week," Sen. John McCain, R-Ariz., said Steele's comments were "wildly inaccurate."
+
+The Arizona Republican said Steele needs to assess whether he can still function in his job and must make "an appropriate decision" about his future.
+
+Trying to quell the furor, Steele issued a statement saying: "There is no question that America must win the war on terror.
+... And, for the sake of the security of the free world, our country must give our troops the support necessary to win this war."
+
+He sent an e-mail to RNC members saying he hoped his statement would "clear up any confusion" caused by his earlier remarks.
+
+That didn't seem to quiet the controversy in the slightest.
+Weekly Standard Editor Bill Kristol, who led the charge of conservatives calling for Steele to step down over the remark, said on "Fox News Sunday" that Steele still needs to go -- though he said Steele tried to convince him otherwise.
+
+"I think it would be better if he went," he said.
+
+STEP 1:
+* unacceptable
+* inaccurate
+* wildly
+* appropriate
+
+SUMMARY:
+Republican senators are calling for party Chairman Michael Steele to apologize for his "unacceptable" and "inaccurate" comments that Afghanistan is a "war of Obama's choosing" and may not be winnable. Sen. Jim DeMint demanded an apology to the troops, stating that Afghanistan is "America's war" and not Obama's. DeMint and Sen. John McCain deemed Steele's remarks "wildly inaccurate" and urged him to "refocus" on the November election. Steele's attempt to clarify his statement did little to quell the controversy, with Weekly Standard Editor Bill Kristol leading the charge for Steele's resignation. Kristol believes it would be "better" if Steele stepped down. The backlash highlights the importance of a chairman who is "focused" and supportive of the troops. Steele's future as chairman remains uncertain.
+
+END OF SUMMARY.
+
+Now, here is the target news article to summarize:
+Here is the news article:
+
+I won't lie. After reading the CNN piece titled "Senate Dems, powerless to stop Trump nominees, regret 'nuclear option' power play," I experienced some deeply satisfying schadenfreude. Feel free to keep President Barack Obama, Sen. Harry Reid and those who implored Senate Democrats to blow up the filibuster a few years ago in your thoughts as President-elect Donald Trump names his Cabinet and judges. But be sure to remember how recklessness begets recklessness in Washington, D.C. "I do regret that," Sen. Chris Coons of Delaware, a Democrat who voted to weaken the filibuster three years ago, tells CNN. "I frankly think many of us will regret that in this Congress because it would have been a terrific speed bump, potential emergency brake, to have in our system to slow down nominees." It always was a terrific speed bump, senator. One of the reasons we value tradition, norms and process is that we don't know what the future holds. But, you'll note, these Democrats don't regret their vote for majoritarianism or power grabs. They regret that Trump (and it would be the same for Mitt Romney or any moderate Republican, for that matter) will now be able to operate under the rules they set for themselves. It's worth remembering that Democrats didn't used a parliamentary procedure to change the rules so that federal judicial nominees and executive-office appointments can move to confirmation votes with a simple majority for some grand ideological purpose. They did it for short-term political gains that no one will remember. Does any Democrat believe helping Obama name some left-wing populists to run the Consumer Financial Protection Bureau (which didn't even exist until 2011) and the National Labor Relations Board was worth it? Sen. Jeff Merkley (D-Ore.), another leading proponent of destroying checks and balances, charged at the time that without the nuclear option Republicans were "going to disable" the executive branch. "It's come into a realm where it's just unacceptable because if the executive branch can't function, then the nation can't respond to the big challenges it faces," he explained. He seemed to be under the impression that presidents make laws—or maybe just liberal presidents. The liberal punditry hammered the filibuster back then the same way it's hammering the Electoral College today. In 2010, Paul Krugman wrote a column in The New York Times claiming that the filibuster would destroy America. I do not exaggerate. He wrote: "We've always known that America's reign as the world's greatest nation would eventually end. But most of us imagined that our downfall, when it came, would be something grand and tragic. What we're getting instead is less a tragedy than a deadly farce." The idea that Democrats hadn't been able to function was a myth. Obama, supposedly powerless to face America's "big challenges," had already passed a nearly trillion-dollar stimulus, a restructuring of the entire health care system and a tangled overhaul of financial regulation. The president also appointed two wholly liberal Supreme Court justices with no meaningful opposition. The American people then said, "That's enough." For Merkley, Krugman, Coons, Reid and others, that wouldn't do. When Reid's party was in the minority, he warned that weakening the Senate filibuster would "destroy the very checks and balances our Founding Fathers put in place to prevent absolute power by any one branch of government." He was right. With his party's attainment of a Senate majority, Reid's reverence for the Founding Fathers rapidly faded, so much so that he used the nuclear option to eliminate the filibuster from some Senate debates. As a practical matter, these changes will likely never be reversed. What kind of majority is going to restore the filibuster to its opponents? What kind of majority wouldn't use the same process to roll back the previous Senate's abuses? (And the latter makes complete sense.) After all, the Chris Coons of the world will never be courageous enough to stand for process and stability over partisanship gain. In a Republican environment where winning itself is the ideology, it becomes even less likely. Although each party detests the filibuster when it is in power, progressives hold an enduring contempt for it because they hold an enduring contempt for federalism in general. Even today, some liberals are trying to figure out ways to work Senate procedure to put Chief Judge Merrick Garland on the Supreme Court. As if Republicans wouldn't then simply turn around and load the court themselves. This kind of arms race sets dangerous precedents. It'd be nice if the nation realized it.
+
+(1) First, you identify all the single words that are morally framed. Identify this step as "STEP 1:" and report each word in a new line starting with *
+(2) Finally, you write a summary of the news article. Please preserve as many morally framed words as possible in your summary. The summary has to be returned after a "SUMMARY:" token and ending with a "END OF SUMMARY." token. The summary should be no longer than 200 words.

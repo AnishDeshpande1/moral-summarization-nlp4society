@@ -1,0 +1,143 @@
+You have to summarize the following text preserving the moral framing that the author gave to it, with particular focus on the specific moral foundations highlighted in the text.
+
+Please study the following examples of news articles and their summaries preserving the moral framing:
+
+Example 1 (Political Ideology: Left, Moral Foundations: Authority/Subversion, Fairness/Cheating):
+Here is the news article:
+
+WASHINGTON ― The White House relayed President Donald Trump’s response late Thursday to bombshell allegations that Alabama GOP Senate nominee Roy Moore sexually molested a 14-year-old girl in 1979.
+
+White House press secretary Sarah Huckabee Sanders, traveling with the president on his trip to Asia, told reporters that Trump “believes that we cannot allow a mere allegation ― in this case, one from many years ago ― to destroy a person’s life” but that if the allegations are true, “Judge Moore will do the right thing and step aside.”
+
+A spokesperson for Vice President Mike Pence said the veep “found the allegations in the story disturbing and believes, if true, this would disqualify anyone from serving in office.”
+
+Moore’s campaign denied the allegations, which The Washington Post first reported, telling the paper the accusations of four women are “the very definition of fake news.”
+The Post reporters talked to more than 30 sources in the course of their investigation.
+
+On Thursday, numerous Republican lawmakers on Capitol Hill called on Moore to drop out of the race ― if the allegations are true.
+
+During his 2016 campaign, Trump dismissed allegations of sexual misconduct against himself from more than a dozen women and threatened to sue some of his accusers.
+He claimed that a 2005 tape of him bragging about sexual assault, which was released last fall, was “locker room talk.”
+
+In September, Moore, a controversial judge in Alabama, won the primary for the special election.
+He beat GOP establishment candidate Sen. Luther Strange (R-Ala.), who was chosen to fill the seat left vacant when Jeff Sessions became Trump’s attorney general.
+
+Trump notably backed Strange over Moore, though many members of his base, including former White House chief strategist Steve Bannon, supported Moore.
+
+But after Moore won, Trump disavowed his endorsement of Strange, deleting tweets in support of him.
+And the day after the primary, the president tweeted in support of Moore, calling him “a really great guy.”
+
+SUMMARY:
+
+The White House has responded to allegations of sexual misconduct against Alabama GOP Senate nominee Roy Moore, with President Trump's press secretary saying that a mere allegation should not destroy a person's life, but if true, Moore should step aside. Vice President Mike Pence also found the allegations disturbing and believes they would disqualify anyone from serving in office if true. However, Moore's campaign has denied the allegations, calling them "fake news." This response is hypocritical, considering Trump's own history of dismissing allegations of sexual misconduct against himself and threatening to sue his accusers. The allegations against Moore are particularly disturbing, as they involve a 14-year-old girl. Many Republican lawmakers have called on Moore to drop out of the race if the allegations are true. The president's own moral character is called into question by his support for Moore, despite having previously backed Moore's opponent in the primary.
+
+END OF SUMMARY.
+
+Example 2 (Political Ideology: Center, Moral Foundations: Authority/Subversion):
+Here is the news article:
+
+Donald J. Trump on Tuesday assailed Justice Ruth Bader Ginsburg of the Supreme Court for speaking out on the presidential race, calling her disdainful remarks about his candidacy “highly inappropriate” and suggesting that she owed other justices an apology.
+
+Mr. Trump’s remarks came in a telephone interview with The Times two days after Justice Ginsburg was quoted as saying she was frightened about what the nation would look like if he were elected.
+
+“I can’t imagine what this place would be — I can’t imagine what the country would be — with Donald Trump as our president,” Justice Ginsburg told The Times in an interview published Sunday.
+“For the country, it could be four years.
+For the court, it could be — I don’t even want to contemplate that.”
+She even joked ruefully about moving to New Zealand.
+
+Mr. Trump, the presumptive Republican nominee, said he found those remarks unbefitting a member of the high court.
+
+“I think it’s highly inappropriate that a United States Supreme Court judge gets involved in a political campaign, frankly,” Mr. Trump said.
+“I think it’s a disgrace to the court and I think she should apologize to the court.
+I couldn’t believe it when I saw it.”
+
+He continued: “That she should be saying that?
+It’s so beneath the court for her to be making statements like that.
+It only energizes my base even more.
+And I would hope that she would get off the court as soon as possible.”
+
+Mr. Trump also said he expected to announce his choice of a running mate by Friday, winding down a process that has been closely watched as in all likelihood the most significant decision he will make in his campaign.
+
+“I have five candidates, plus two, two that are unknown to anybody,” Mr. Trump said from Chicago, where he was raising money for his campaign.
+
+“I will be making a decision over the next three- to four-day period of time, and I think it will be a decision that will be a very good decision for a lot of people,” he added.
+
+Mr. Trump said that he was not basing his vice-presidential selection on fund-raising prowess or potential, and indicated that he had had enough experience with many of those he has been considering for the job that their tryouts on the campaign trail would not necessarily be determinative.
+
+“I’ve been with these people for a long time — I know them,” Mr. Trump said, specifically invoking Gov. Chris Christie of New Jersey and Newt Gingrich, the former House speaker.
+“Christie was excellent yesterday and Newt is excellent.” Mr. Trump will appear on Tuesday night in Indiana with Gov. Mike Pence, who has risen in the estimation of many of the nominee’s advisers.
+
+Mr. Trump said his decision was largely coming down to instinct.
+“A lot of is gut. A lot of it is,” he said.
+“My whole life has been about gut.”
+
+He also suggested that he would consider polling in states like heavily Democratic Connecticut, which he again said he believed he could put in play in November.
+
+Asked for quick thoughts about each of the candidates he is known to be considering, Mr. Trump played along.
+
+Governor Christie? “Strong,” he said.
+
+Retired Lt. Gen. Mike Flynn? “A patriot.”
+
+Senator Joni Ernst of Iowa? “A terrific, exciting person.”
+
+Governor Pence? “Solid as a rock.”
+
+And Mr. Gingrich? “Newt is Newt. He’s a good guy.”
+
+SUMMARY:
+
+Donald Trump has criticized Justice Ruth Bader Ginsburg for speaking out against his presidential candidacy, calling her remarks "highly inappropriate" and suggesting that she owes an apology to the Supreme Court. Trump believes that a Supreme Court justice should not get involved in a political campaign, and that Ginsburg's comments were unbefitting of the high court. Trump's remarks come after Ginsburg expressed her concerns about what the country would look like if Trump were elected, even joking about moving to New Zealand. Trump's criticism of Ginsburg is seen as an attempt to undermine her credibility and independence. Meanwhile, Trump also discussed his plans to announce his running mate by Friday, saying that his decision would be based on instinct rather than fundraising prowess.
+
+The moral framing of this article suggests that Trump's criticism of Ginsburg is an attempt to silence and discredit a respected member of the Supreme Court, and that his actions are an affront to the independence and integrity of the judiciary. Trump's behavior is portrayed as inappropriate and disrespectful, and his comments are seen as an attempt to undermine the credibility of a respected public figure.
+
+END OF SUMMARY.
+
+Example 3 (Political Ideology: Right, Moral Foundations: Authority/Subversion, Care/Harm, Fairness/Cheating):
+Here is the news article:
+
+Likely Democratic presidential nominee Joe Biden is offering his own plan for dealing with the Coronavirus while criticizing the Trump administration's actions.
+
+Biden told Politico he wants far more spending to deal with COVID-19.
+He says one of the ways out of this economic crisis is through a $1 trillion infrastructure program to create new American jobs, along with environmental programs and massive aid for state and local governments.
+
+However, Biden has been quiet about claims from a former staffer named Tara Reade who has publicly accused him of sexual assault in 1993.
+Describing an incident that she says happened while she was serving on Biden's Senate staff, Reade said Biden pushed her against a wall in the basement of a Capitol Hill office building, groped her, and then reached under her skirt and touched her genitals.
+
+She said after telling her supervisors in Biden's office that she had been sexually harassed by the then-senator, her concerns weren't taken seriously and she was eventually told to find another job.
+
+Two of those staffers have said in interviews that they didn't recall Reade or any such incident.
+The third issued an on-the-record statement denying Reade's claim.
+
+Now, Reade's former neighbor is supporting that account.
+Lynda LaCasse says Reade detailed the alleged incident to her in the mid-90s.
+
+"She felt like she was assaulted, and she really didn't feel there was anything she could do," LaCasse told Business Insider.
+
+Late last week, the Intercept unearthed a 1993 video clip that shows a woman Reade says was her mother calling into CNN's "Larry King Live."
+In the clip, an unnamed woman from San Luis Obispo, Calif., tells King that her daughter just left Washington, "after working for a prominent senator, and could not get through with her problems at all, and the only thing she could have done was go to the press, and she chose not to do it out of respect for him."
+
+Last spring, eight women, including Reade, came forward with allegations that Biden made them feel uncomfortable with inappropriate displays of affection.
+Biden acknowledged the complaints and promised to be "more mindful about respecting personal space in the future."
+
+The Associated Press spoke with Reade about those complaints in April 2019.
+During that interview, Reade alleged that Biden rubbed her shoulders and neck and played with her hair and that she was asked by another aide in Biden's Senate office to dress more conservatively and told: "don't be so sexy."
+
+Major media outlets have not asked Biden about the alleged assault.
+When Fox News asked the Biden campaign about the charge, it pointed to a previous statement saying while sexual assault claims should be "diligently reviewed by an independent press," what Reade alleged, "absolutely did not happen."
+
+SUMMARY:
+
+Democratic presidential nominee Joe Biden has unveiled a plan to combat the Coronavirus, including a $1 trillion infrastructure program, environmental initiatives, and aid for state and local governments. However, his campaign has been marred by allegations of sexual assault made by a former staffer, Tara Reade. Reade accuses Biden of pushing her against a wall, groping her, and touching her genitals in 1993 while she worked on his Senate staff. Despite Biden's previous acknowledgment of inappropriate behavior towards women, his campaign has denied Reade's allegations, pointing to a lack of corroboration from other staffers. However, a former neighbor has come forward to support Reade's account, and a 1993 video clip has surfaced showing a woman, allegedly Reade's mother, calling into CNN's "Larry King Live" to discuss her daughter's experience working for a prominent senator. The allegations raise questions about Biden's character and his commitment to respecting women's personal space.
+
+END OF SUMMARY.
+
+Now, here is the target news article to summarize:
+Here is the news article:
+
+(CNN) Alabama Republican Senate candidate Roy Moore says he will sue the Washington Post over its report alleging he pursued sexual relationships with teenagers -- including a 14-year-old -- when he was in his 30s. "The Washington Post published another attack on my character and reputation because they are desperate to stop my political campaign. These attacks said I was with a minor child and are false and untrue -- and for which they will be sued," Moore said Sunday night during a campaign speech in Huntsville, Alabama. The Washington Post declined to comment Monday morning. It's not uncommon for public figures to threaten legal action against news organizations but ultimately fail to follow through. President Donald Trump threatened to sue The New York Times last year after it published the accounts of two women who claimed Trump touched them inappropriately. His lawyers never filed a lawsuit. More recently, disgraced Hollywood mogul Harvey Weinstein initially threatened to sue the Times after it first reported allegations of sexual misconduct against him, but that suit never materialized The Washington Post report Thursday was based on interviews with more than 30 people. As well as the allegations that Moore had sexual contact with the then 14-year-old when he was aged 32, three other women also told The Post that Moore pursued them when they were between the ages of 16 and 18. The woman who was 14 years old at the time claimed he took her to his house, undressed down to his underwear and undressed her down to her bra and underwear and touched her and moved her hand to touch his underwear, which could have been sexual offenses due to her age, but the statutes of limitations in effect during that time have passed. None of the other three women told the Post that Moore sexually harassed, or assaulted them, or forced them into a relationship. Alabama's legal age of consent is 16. Moore has denied the allegations since they were published. He called the claims " completely false " Friday when appearing on Sean Hannity's syndicated radio show. Speaking at a Veterans Day event at the Mid-Alabama Republican Club in Birmingham Saturday, Moore called the allegations "fake news" and "yet another attack on my character and reputation in a desperate attempt to stop my political campaign for the United States Senate." He added that the alleged incidents happened nearly 40 years ago and called them "very hurtful to me personally -- I have the highest regard for the protection of young children," before adding that he has never provided alcohol to a minor and has "not been guilty of sexual misconduct with anyone." Moore added that there were ongoing "investigations" looking into the motivations behind the Post article, and promised "revelations" about the story to come in the next few days, though he did not provide further specifics. A number of Republicans withdrew their endorsements of Moore following the Washington Post article, including the National Republican Senatorial Committee, which severed a joint fundraising agreement that benefits Moore's campaign.
+
+For this target article, the author's moral framing heavily relies on the following Moral Foundation dimensions: Care/Harm, Fairness/Cheating.
+Please pay special attention to preserving the moral framing related to these specific dimensions (Care/Harm, Fairness/Cheating) in your summary.
+
+The summary has to be returned after a "SUMMARY:" token and ending with a "END OF SUMMARY." token. The summary should be no longer than 200 words.

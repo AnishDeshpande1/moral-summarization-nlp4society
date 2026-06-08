@@ -1,0 +1,194 @@
+You have to summarize the following text preserving the moral framing that the author gave to it.
+
+Please study the following examples of news articles, their moral word extraction, and summaries preserving the moral framing:
+
+Example 1 (Political Ideology: Left):
+Here is the news article:
+
+First Step Act, a landmark bill which would reduce drug crime sentences, saw support from both progressives and law-and-order conservatives
+
+A sweeping bill seeking to reform the criminal justice system has cleared the Senate, in a legislative victory for both progressive advocates and law-and-order conservatives that would give judges more discretion when sentencing some drug offenders and would boost prisoner rehabilitation efforts.
+
+The First Step Act, which passed 87-12, attracted support from both sides of the aisle, as well as from public figures such as Patricia Arquette, Mark Cuban, Kim Kardashian West and Kanye West.
+Donald Trump supported the iteration of the bill that passed in the House in May, and the most current version that will need to return to the House for another vote (which it is expected to pass), before it reaches his desk for a signature later this week.
+
+I went to prison for 19 years.
+Here is why I didn't become a statistic.
+
+The sweeping bill addresses concerns that the nation’s war on drugs had led to the imprisonment of too many Americans for non-violent crimes without adequately preparing them for their return to society.
+
+“America is the greatest Country in the world and my job is to fight for ALL citizens, even those who have made mistakes,” Trump tweeted.
+“Congratulations to the Senate on the bi-partisan passing of a historic Criminal Justice Reform Bill.”
+
+The president continued: “This will keep our communities safer, and provide hope and a second chance, to those who earn it.
+In addition to everything else, billions of dollars will be saved.
+I look forward to signing this into law!”
+
+The act would reduce mandatory minimum sentences for a number of drug-related crimes, allow judges to circumvent federal mandatory minimum sentences for non-violent offenders when they see fit, expand rehabilitative opportunities for federal prisoners, and ban some correctional practices criticized as inhumane, such as the shackling of pregnant women.
+The act would give elderly and terminally ill inmates a path home and invest tens of millions in re-entry programming.
+
+The act would end so-called “three strikes” mandatory life sentences for defendants facing a third drug conviction, except for those with a prior “serious violent felony”.
+The “stacking” regulations that make it illegal to posses a firearm while committing a crime, even if the firearm is not used, would also no longer come into play.
+
+The bill would also retroactively extend the 2010 Fair Sentencing Act, a move that could affect thousands of drug offenders serving disproportionately long sentences for crack cocaine versus the powder variant.
+As many as 4,000 people currently serving long sentences could be eligible for release, according to some advocates.
+
+Jessica Jackson Sloan, the national director for #cut5o, a criminal justice reform advocacy group, applauded the Republican judiciary committee chairman, Chuck Grassley, and Dick Durbin, the Senate Democratic whip, for “leading their respective parties to consensus on one of the most important challenges our country faces – unwinding the catastrophic harm of the incarceration industry”.
+
+“Tonight, we stand as neither Republican or Democrats but as people seeking to take the first step of many to criminal justice reform,” she said.
+
+Grassley hailed a “big bipartisan victory”, saying: “Historic criminal justice reform happens once in a generation.”
+
+Cory Booker, the New Jersey senator and possible Democratic presidential hopeful for 2020, said the nation’s prisons were full of Americans who are struggling with mental illness and addiction and who are overwhelmingly poor.
+
+He said the nation’s criminal justice system “feeds on certain communities and not on others” and added that the bill represents a step toward “healing” for those communities.
+
+“Let’s make no mistake, this legislation, which is one small step, will affect thousands and thousands of lives,” Booker said.
+
+The ACLU, which initially opposed the House version of the legislation, tweeted that the First Step Act was “by no means perfect – but we’re in the midst of a mass incarceration crisis and the time to act is now.
+We’re glad to see common sense prevail in the Senate voting to move this bill closer to the finish line.”
+
+The bill would affect only federal prisoners, who make up less than 10% of the country’s prison population.
+
+STEP 1:
+* historic
+* catastrophic
+* healing
+* perfect
+* common
+* sense
+
+SUMMARY:
+The First Step Act, a landmark and historic bill, has cleared the Senate with bipartisan support, marking a significant step towards criminal justice reform. The bill addresses concerns that the nation's war on drugs has led to the imprisonment of too many Americans for non-violent crimes without adequately preparing them for their return to society. The act would reduce mandatory minimum sentences, allow judges to circumvent federal mandatory minimum sentences for non-violent offenders, and expand rehabilitative opportunities for federal prisoners. It would also ban inhumane correctional practices and provide a path home for elderly and terminally ill inmates. The bill represents a step towards healing for communities disproportionately affected by the incarceration industry. While not perfect, the act is a common sense approach to addressing the mass incarceration crisis. It is expected to pass the House and be signed into law by President Trump.
+END OF SUMMARY.
+
+Example 2 (Political Ideology: Center):
+Here is the news article:
+
+The White House unveiled an executive order Friday evening to create a “National Garden of American Heroes” that will feature statues of prominent Americans.
+
+The executive order, which President Trump Donald John TrumpCNN's Anderson Cooper: Trump's Bubba Wallace tweet was 'racist, just plain and simple' Beats by Dre announces deal with Bubba Wallace, defends him after Trump remarks Overnight Defense: DOD reportedly eyeing Confederate flag ban | House military spending bill blocks wall funding MORE announced during a Fourth of July celebration at Mount Rushmore, comes as the nation grapples with calls to tear down Confederate statues across the country and address other racist iconography.
+
+“These statues are silent teachers in solid form of stone and metal.
+They preserve the memory of our American story and stir in us a spirit of responsibility for the chapters yet unwritten.
+These works of art call forth gratitude for the accomplishments and sacrifices of our exceptional fellow citizens who, despite their flaws, placed their virtues, their talents, and their lives in the service of our Nation,” reads the executive order, which was disseminated by the White House.
+
+The executive order establishes the Task Force for Building and Rebuilding Monuments to American Heroes, which will be empowered to use funding from the Interior Department to establish the site.
+The task force has 60 days to submit a report to the White House detailing options for the creation of the National Garden, including potential locations.
+
+The executive order says the garden will include statues of John Adams, Susan B. Anthony, Clara Barton, Daniel Boone, Davy Crockett, Frederick Douglass, Amelia Earhart, Benjamin Franklin, Thomas Jefferson, Martin Luther King Jr., Abraham Lincoln, Ronald Reagan, Jackie Robinson and Harriet Tubman, among others.
+
+The garden will also “separately maintain a collection of statues for temporary display at appropriate sites around the United States that are accessible to the general public.”
+
+Under the order, the garden will be open prior to July 4, 2026, the 250th anniversary of the proclamation of the Declaration of Independence.
+
+The executive order also address current calls to topple Confederate statues, underscoring that other activists have called for the dismantling of monuments to figures who owned slaves but were not in the Confederacy, including former presidents George Washington and Thomas Jefferson.
+
+“To destroy a monument is to desecrate our common inheritance.
+In recent weeks, in the midst of protests across America, many monuments have been vandalized or destroyed.
+Some local governments have responded by taking their monuments down,” the order reads.
+“These statues are not ours alone, to be discarded at the whim of those inflamed by fashionable political passions; they belong to generations that have come before us and to generations yet unborn.”
+
+Trump also railed against people tearing down statues of Confederate leaders during an impassioned speech at Mount Rushmore, accusing them of wanting to “overthrow the American Revolution” and fundamentally change the country.
+
+“There is a new far-left fascism that demands absolute allegiance.
+If you do not speak its language, perform its rituals, recite its mantras and follow its commandments, then you will be censored, banished, blacklisted, persecuted and punished.
+Not going to happen to us,” he told a packed crowd.
+
+“Make no mistake, this left-wing cultural revolution is designed to overthrow the American Revolution.
+In so doing, they would destroy the very civilization that rescued billions from poverty, disease, violence and hunger and that lifted humanity to new heights of achievement, discovery and progress," he continued.
+"To make this possible, they are determined to tear down every statue, symbol and memory of our national heritage.”
+
+STEP 1:
+* racist
+* responsibility
+* gratitude
+* exceptional
+* flaws
+* virtues
+* sacrifices
+* desecrate
+* fashionable
+* inflamed
+* far-left
+* fascism
+* allegiance
+* censored
+* banished
+* blacklisted
+* persecuted
+* punished
+* revolution
+* civilization
+* heritage
+
+SUMMARY:
+President Trump unveiled an executive order to create a "National Garden of American Heroes" featuring statues of prominent Americans, including John Adams, Susan B. Anthony, and Martin Luther King Jr. The garden aims to preserve the memory of American heroes and stir a spirit of responsibility in citizens. The order also addresses the current calls to topple Confederate statues, underscoring that destroying monuments is to desecrate our common inheritance. Trump railed against the "far-left fascism" that demands absolute allegiance and seeks to overthrow the American Revolution, destroying the very civilization that lifted humanity to new heights of achievement. The garden is set to open prior to July 4, 2026, the 250th anniversary of the Declaration of Independence. END OF SUMMARY.
+
+Example 3 (Political Ideology: Right):
+Here is the news article:
+
+Support for gun rights is higher than it’s been in decades, according to the latest data from the Pew Research Center that signals a stunning turnaround in how Americans feel about the issue just two years after the Newtown school shooting.
+
+Pew found that 52 percent of Americans say Second Amendment rights are more important than gun control — up 7 percentage points from just after the December 2012 Sandy Hook Elementary School shooting that left 20 schoolchildren and six faculty dead.
+
+That’s the highest approval rating in two decades, and it’s being driven in part by changing attitudes among black Americans, who are increasingly likely to view guns as good for public safety.
+
+Pew found 54 percent of blacks now say firearms protect people from being victims of crimes, compared to 41 percent who say they are a public safety risk.
+Just two years ago, only 29 percent of blacks said guns were a public safety boon.
+
+“Over the past two years, blacks’ views on this measure have changed dramatically,” Pew researchers said.
+
+The changes are all the more stunning given the direction the debate appeared to be going two years ago, when 20-year-old gunman Adam Lanza killed his mother, then drove to the elementary school where he fatally shot 26 people, then turned the gun on himself to commit suicide.
+
+President Obama called for major new restrictions on gun rights in the wake of the shooting, asking Congress to enact a bill to subject more gun purchases to background checks and to ban high-capacity ammunition magazines and military-style rifles.
+But gun rights supporters rallied, blocking those efforts in the Senate and leaving the matter stalled.
+
+Some states acted in lieu of federal action, but Democrats on Capitol Hill said Wednesday they remain committed to imposing new restrictions.
+
+“It is imperative that we act,” House Minority Leader Nancy Pelosi said at an event to commemorate the Newtown shooting.
+“We must stick with this.”
+
+Gun control supporters said other polling still shows strong support for specific changes.
+Requiring universal background checks garners support of about 90 percent of Americans, while support for limits on rifles and ammunition magazines hovers just above 50 percent.
+
+Ladd Everitt, a spokesman for the Coalition to Stop Gun Violence, said Pew’s findings reflect a sharp partisan divide on the issue, but also said the wording of the survey might have influenced the results.
+The survey asked whether it was more important to “control gun ownership” or “protect the right of Americans to own guns.”
+
+“The notion of having ‘rights’ is certainly going to be more appealing than the notion of being ‘controlled,’ no matter what topic you are asking respondents about,” he said in an email.
+“We’d be curious to see how the polling would look if Pew Research asked respondents if they believed they had ‘a right to be free from gun violence in their communities through the enactment of sensible gun legislation.’”
+
+Specific wording aside, Pew’s research suggested a shift over time.
+Support for gun control peaked at 66 percent in the late 1990s, or about the time of the 1999 shooting at Columbine High School in Littleton, Colorado, and has dropped 20 percentage points since then.
+
+The recent shift has also happened across nearly all demographic lines.
+
+When posed a choice between supporting gun rights or gun controls, men and women, old and young, white and black and Republican and Democrat all saw their preference for Second Amendment rights increase over the last two years.
+
+African-Americans’ support for gun rights rose from 24 percent to 34 percent, and whites’ backing rose from 53 percent to 61 percent.
+Only Hispanics saw a drop in their support for gun rights, slipping 2 percentage points to 25 percent, or lower than blacks’ level of support.
+
+While Democrats still generally back gun controls, with just 28 percent supporting gun rights, majorities of both Republicans and independents say the Second Amendment trumps their desire for more controls.
+
+STEP 1:
+* rights
+* control
+* protect
+* victims
+* risk
+* boon
+* safety
+* restrictions
+* imperative
+* commit
+
+SUMMARY:
+A recent Pew Research Center survey reveals a significant shift in Americans' attitudes towards gun ownership, with 52% prioritizing Second Amendment rights over gun control, a 7-point increase from 2012. This change is driven in part by a dramatic shift among black Americans, who now view guns as a public safety boon, with 54% believing firearms protect people from being victims of crimes. In contrast, only 29% held this view two years ago. Despite President Obama's call for major new restrictions on gun rights after the Newtown school shooting, gun rights supporters rallied, blocking efforts in the Senate. While Democrats remain committed to imposing new restrictions, Pew's findings reflect a sharp partisan divide on the issue. The survey's wording may have influenced the results, but the shift over time is clear, with support for gun control dropping 20 percentage points since the late 1990s. END OF SUMMARY.
+
+Now, here is the target news article to summarize:
+Here is the news article:
+
+The inspiring rise of a new generation protesting against racial injustice is driving a new era of change in America, like the generation that emerged 60 years ago to build the civil rights movement of that time. July 16, 1960 is marked in my memory: that is the day I joined seven other friends to walk into the whites-only Greenville Library, and to be arrested for violating the segregation laws. That was more than five years after the 1954 Brown v. Board Supreme Court decision that declared “separate but equal” — the lie that justified segregation — a violation of the U.S. Constitution. Yet in Greenville, South Carolina, where I grew up, nothing had changed. We still lived in a segregated bubble. The public library, the buses, the schools, the pool — all were still segregated. There were no Black police officers, or firemen, no Black elected officials. Even the graveyard was segregated. Our options were limited. For example, graduating from high school, I could not even apply to Furman or to Clemson or to the University of South Carolina. I went to the University of Illinois on a football scholarship. When I returned from Christmas vacation in 1959, I could not use the public library to do my assignments. The Blacks-only library did not have the book I needed; the white library did, but I could not walk in the door. I vowed that I would not accept that when I came home in the summer. Protests were beginning to spread, as a young generation decided to burst the bubble of segregation and claim their rights under the Constitution. Students in Nashville and Greensboro and elsewhere were beginning the sit-ins. The July demonstration at the library was a turning point in my life, as demonstrations were for many across the South. We met with fierce resistance. We were denounced as outside agitators, tarred as socialists or communists, and suffered from violent opposition from private vigilantes and uniformed police officers. But the movement kept building and would not go back. In 1964, we won the Public Accommodations Act, that declared an end to segregated public facilities. In 1965, we won the Voting Rights Act, propelled in part by the horrible spectacle of the police riot on the Edmund Pettus Bridge in Selma, Alabama. Personally, I started working With Dr. King in 1965. The barriers that we struck down opened the way for a new South. Industries and modern companies like CNN would come to the South. As universities desegregated, so did athletic fields. Professional teams like the Atlanta Braves could be built. African Americans began to win elections at the state, local and national level. We broke the chains of legal apartheid in the United States and transformed the country. Yet, as we have witnessed time and again, we did not end racism in this country. We did not succeed in breaking the biased institutional structures that still enforce racial injustice — from red-lined neighborhoods to savagely unequal schools to wage and hiring discrimination to a dangerously discriminatory criminal justice system. Dr. King’s drive for economic equality as the next stage of the civil rights movement was cut short by his assassination. Now a new generation is emerging to challenge these injustices. The demonstrations in the aftermath of George Floyd’s murder have been the largest in our history. On opinion surveys, a stunning 15 million to 26 million Americans report that they have participated in demonstrations for Black lives in 2,500 places from small towns to big cities. Forty percent of the counties in the country have witnessed protests. White participation has far exceeded that in the first civil rights movement. And already politicians have begun to respond — reforming police practices, banning choke holds. Mississippi legislators voted to retire the state flag with its Confederate battle emblem. This new generation of protest holds great promise for America. Despite its breadth and depth, it will face great resistance — and not simply from a Donald Trump desperate to discredit it for his political purposes. Entrenched interests will resist change. The movement is focused on reforming areas — criminal injustice, economic inequalities, basic economic and political rights — that threaten the privileged and the powerful. Yet what we learned 60 years ago is that when people move, change is possible. Then the powerful forces of segregation that seemed overwhelming could not withstand the moral force of a generation not willing to put up with glaring injustice silently. Now this generation has an opportunity to make America better, and the lives and options of millions are at stake in their struggle. This is a time for anyone with a conscience and a pulse to join this extraordinary movement.
+
+(1) First, you identify all the single words that are morally framed. Identify this step as "STEP 1:" and report each word in a new line starting with *
+(2) Finally, you write a summary of the news article. Please preserve as many morally framed words as possible in your summary. The summary has to be returned after a "SUMMARY:" token and ending with a "END OF SUMMARY." token. The summary should be no longer than 200 words.

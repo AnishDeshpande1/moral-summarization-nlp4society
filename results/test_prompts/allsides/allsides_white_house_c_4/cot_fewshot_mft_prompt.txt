@@ -1,0 +1,193 @@
+You have to summarize the following text preserving the moral framing that the author gave to it, with particular focus on the specific moral foundations highlighted in the text.
+
+Please study the following examples of news articles, their moral word extraction, and summaries preserving the moral framing:
+
+Example 1 (Political Ideology: Left, Moral Foundations: Authority/Subversion, Care/Harm, Fairness/Cheating):
+Here is the news article:
+
+Democratic majority in the House expected to introduce legislation to impose background checks on all gun sales
+
+Prominent Democrats plan on Thursday to begin ramping up calls for stronger gun control at the start of a new push to use their strengthened voice in Washington to make progress on an issue that bitterly divides America.
+
+US senators Chris Murphy and Richard Blumenthal, who represent Connecticut, where 20 children and six school staff were gunned down at Sandy Hook elementary school in December 2012, will lead demands for fresh action.
+
+And the newly empowered Democratic majority in the House of Representatives is expected to introduce sweeping legislation to impose background checks on all gun sales as one of the first priorities in the incoming Congress of 2019, in an aggressive new strategy according to a report this week in Mother Jones.
+
+On Thursday Murphy and Blumenthal will be joined on Capitol Hill by a number of House Democrats and a clutch of leading anti-gun violence advocacy groups, shooting survivors and the bereaved, calling for change.
+
+The event will follow the annual national vigil for all victims of gun violence at St Mark’s episcopal church just off Pennsylvania Avenue, close to the Capitol.
+
+Family members of victims from mass shootings in the high school at Parkland, Florida, earlier this year, the Las Vegas massacre at a country music concert last year, and other recent mass shootings in Aurora, Colorado, Charleston, South Carolina, and Houston, Texas.
+
+Last month 12 people were shot dead in a country music bar in Thousand Oaks, California, just before the area was hit by the worst wildfires in state history.
+One victim had narrowly escaped the Las Vegas shooting, and his family angrily demanded gun control.
+
+The issue has stalled in Washington, with negligible progress from the White House or Congress, despite pledges from Donald Trump that there would be definitive action to curb gun violence after the shooting at the Marjory Stoneman Douglas school in Parkland, Florida, in February 2018, which sparked a new youth movement against gun violence.
+
+Last week the father of one of the young children who died in the shooting at Sandy Hook elementary school, on 14 December 2012, near Newtown, Connecticut, filed another lawsuit against conspiracy theorists who claim he is an actor and the massacre was a hoax.
+
+Lenny Pozner, whose six-year-old son Noah was killed, is suing James Fetzer and Mike Palacek, who co-wrote a book, Nobody Died at Sandy Hook.
+
+Pozner has had to move house several times to attempt to escape persistent harassment from a variety of conspiracy theorists, stating via an attorney that he has even feared for his life.
+
+Federal law requiring background checks is limited and often not well enforced.
+
+Even some bipartisan efforts to strengthen background checks via legislation have failed to get anywhere in the Republican controlled Congress.
+
+The GOP still controls the Senate after the midterm elections, so bills passed by the newly Democratic majority House can be blocked.
+
+But Democrats are feeling emboldened to lay out a strident new strategy on gun control, in the hopes of winning more Republican support and also setting out their stall ahead of the 2020 presidential election.
+
+Earlier this week, 46 incoming House Democrats wrote a letter to Nancy Pelosi, who is expected to regain the speaker’s gavel in January, demanding that gun reform be a top priority for the incoming Congress.
+
+The New York Republican congressman Peter King has previously supported bipartisan legislation to tighten background checks, even though the bill languished in the GOP Congress, but has indicated he will support fresh legislation along similar lines.
+
+The California Democratic congressman Mike Thompson is expected to introduce a bill.
+Thompson will join Murphy, Blumenthal and Connecticut congresswoman Elizabeth Esty on Thursday at the call to action on Capitol Hill, as well as advocacy groups including the Brady Campaign to Prevent Gun Violence, the Newtown Action Alliance and Giffords, the campaign group started by former Arizona congresswoman Gabby Giffords after she survived a mass shooting at one of her local political events in Tucson in January, 2012.
+
+STEP 1:
+* bitter
+* fresh
+* aggressive
+* bereaved
+* angrily
+* negligible
+* definitive
+* strident
+* emboldened
+
+SUMMARY:
+Prominent Democrats, including Senators Chris Murphy and Richard Blumenthal, are leading a new push for stronger gun control in the wake of devastating mass shootings. The newly empowered Democratic majority in the House of Representatives is expected to introduce legislation to impose background checks on all gun sales, a "fresh" and "aggressive" strategy to address the bitterly divisive issue. The move comes as family members of victims from recent mass shootings, including Parkland and Las Vegas, demand "definitive" action to curb gun violence. Despite negligible progress from the White House or Congress, Democrats are feeling "emboldened" to take a stand, with 46 incoming House Democrats calling for gun reform to be a top priority. The push for change is expected to be met with resistance from the GOP-controlled Senate, but Democrats hope to win over Republican support and set the stage for the 2020 presidential election. END OF SUMMARY.
+
+Example 2 (Political Ideology: Center, Moral Foundations: Authority/Subversion, Care/Harm, Fairness/Cheating):
+Here is the news article:
+
+WASHINGTON (Reuters) - U.S. Treasury Secretary Steven Mnuchin failed to meet a final congressional deadline on Tuesday for turning over President Donald Trump’s tax returns to lawmakers, setting the stage for a possible court battle between Congress and the administration.
+
+U.S. Treasury Secretary Steven Mnuchin testifies before a House Financial Services Committee hearing on the "State of the International Financial System" on Capitol Hill in Washington, U.S., April 9, 2019.
+
+The outcome, which was widely expected, could prompt House Ways and Means Committee Chairman Richard Neal to subpoena Trump’s tax records as the opening salvo to a legal fight that may ultimately have to be settled by the U.S. Supreme Court.
+
+Neal set a final 5 p.m. (2100 GMT) deadline for the Internal Revenue Service and Treasury to provide six years of Trump’s individual and business tax records.
+But the deadline passed without the panel receiving the documents.
+
+After the deadline lapsed, Mnuchin released a letter to Neal in which he pledged to make “a final decision” on whether to provide Trump’s tax records by May 6.
+It was the second time the administration had missed a House deadline for the tax returns since Neal requested them on April 3.
+
+“Secretary Mnuchin notified me that once again, the IRS will miss the deadline for my ... request.
+I plan to consult with counsel about my next steps,” Neal said in a statement.
+
+In his letter, Mnuchin said he was still consulting with the Justice Department about Neal’s request, which he termed “unprecedented.”
+
+“The department cannot act upon your request unless and until it is determined to be consistent with the law,” the Treasury secretary told Neal.
+
+Democrats want Trump’s returns as part of their investigations of possible conflicts of interest posed by his continued ownership of extensive business interests, even as he serves the public as president.
+
+Republicans have condemned the request as a political “fishing expedition” by Democrats.
+
+Trump broke with a decades-old precedent by refusing to release his tax returns as a presidential candidate in 2016 or since being elected, saying he could not do so while his taxes were being audited.
+
+But his former personal lawyer, Michael Cohen, told a House panel in February that he did not believe Trump’s taxes were under audit.
+Cohen said the president feared that releasing his returns could lead to an audit and IRS tax penalties.
+
+‘NOT UP TO THE PRESIDENT’
+
+Earlier on Tuesday, the White House said Trump was unlikely to hand over his tax returns.
+“As I understand it, the president’s pretty clear: Once he’s out of audit, he’ll think about doing it, but he’s not inclined to do so at this time,” White House spokesman Hogan Gidley told Fox News in an interview.
+
+“This is not up to the president.
+We did not ask him,” said a Democratic committee aide, who cited a law saying the Treasury secretary “shall furnish” taxpayer data upon request from an authorized lawmaker.
+
+Neal informed IRS Commissioner Charles Rettig earlier this month that failure to comply with the deadline would be viewed as a denial.
+
+Legal experts said House Democrats could vote to hold Mnuchin or Rettig in contempt of Congress if they ignored a subpoena, as a pretext to suing in federal court to obtain Trump’s returns.
+Experts say administration officials could ultimately risk financial penalties and even jail time by defying the committee.
+
+As Ways and Means chairman, Neal is the only lawmaker in the House of Representatives authorized to request taxpayer information under federal law.
+Democrats say they are confident of succeeding in any legal fight over Trump’s tax returns.
+
+“Secretary Mnuchin is again choosing to violate the law to keep Trump’s records hidden away.
+This administration’s contempt for rule of law is without peer,” Representative Bill Pascrell, who has been leading the Democratic push for Trump’s tax records, said in a statement on Twitter.
+
+“I stand beside @RepRichardNeal as he continues the crusade to impose plain oversight on this corrupt administration.”
+
+Despite the law’s clarity, Democrats have long acknowledged that the effort would likely result in a legal battle that could end up with the Supreme Court.
+
+“If the IRS does not comply with the request, it is likely that Chairman Neal will subpoena the returns,” Representative Judy Chu, a Democratic member of the Ways and Means Committee, told Reuters.
+
+“If they do not comply with that (subpoena), a legal battle will begin to defend the right of oversight in Congress,” she said.
+
+STEP 1:
+* unprecedented
+* condemned
+* feared
+* inclined
+* contempt
+* corrupt
+* crusade
+* defend
+
+SUMMARY:
+U.S. Treasury Secretary Steven Mnuchin has failed to meet the congressional deadline to turn over President Donald Trump's tax returns, setting the stage for a possible court battle between Congress and the administration. This move is seen as a "contempt" for the rule of law, with Democrats accusing Mnuchin of choosing to "violate the law" to keep Trump's records hidden. Mnuchin has pledged to make a "final decision" on whether to provide Trump's tax records by May 6, citing the need to consult with the Justice Department. Democrats want Trump's returns as part of their investigations of possible conflicts of interest posed by his continued ownership of extensive business interests. Republicans have "condemned" the request as a political "fishing expedition". The outcome could ultimately lead to a legal battle that may end up with the U.S. Supreme Court. Democrats are confident of succeeding in any legal fight, with Representative Bill Pascrell calling the administration "corrupt" and vowing to continue the "crusade" to impose oversight.
+END OF SUMMARY.
+
+Example 3 (Political Ideology: Right, Moral Foundations: Authority/Subversion):
+Here is the news article:
+
+Israeli Prime Minister Benjamin Netanyahu has said he’ll steer clear of the American presidential election, but he stars in a new ad set to air in the key battleground state of Florida that aims to make Iran a major campaign issue.
+
+Netanyahu, who has a famously frosty relationship with President Obama, mentions neither Obama nor Republican challenger Mitt Romney, with whom Netanyahu worked in the mid-1970s at Boston Consulting Group.
+His words are taken from a recent news conference, in which he expressed frustration at the Obama administration’s failure to establish “red lines” for reining in Iran and its rogue nuclear weapons program.
+
+"The fact is that every day that passes, Iran gets closer and closer to a nuclear bomb,” Netanyahu says.
+“The world tells Israel, wait, there's still time.
+And I say wait for what?
+Wait until when?"
+
+A voice-over at the end of the ad underscores the prime minister's message: "The world needs American strength, not apologies."
+
+The ad, paid for by nonprofit conservative advocacy group Secure America Now, could have a powerful influence in heavily-Jewish markets, including Miami.
+Florida is considered a toss-up in recent polling, and its 29 electoral votes could swing the election.
+
+“Sizable majorities in both states believe that Iran will share nuclear weapons with terrorists,” said Jeri Thompson, advisory board member for Secure America Now.
+“Support for Israel remains strong.
+In short, (Netanyahu's) a powerful messenger with a powerful message who the American people believe.”
+
+The ad, reportedly to air in Miami, West Palm Beach and Fort Myers, is costing Secure America $1 million, the organization confirmed to Fox News.
+
+A Fox News poll released Wednesday shows Obama leading Romney, 49 percent to 44 percent, in Florida.
+
+Meanwhile, Haaretz reported that the Republican Jewish Coalition has launched a separate $5 million TV advertising blitz aimed at Jewish voters in swing states.
+That campaign started Wednesday and runs through Nov. 5 in cable and broadcast TV markets in Florida, Nevada, Ohio and Pennsylvania.
+
+"This ad highlights the 'buyer's remorse' felt by many in the Jewish community, who voted for Obama four years ago but are now disillusioned with his economic policies and his policies toward Israel,” the coalition's executive director, Matt Brooks, said in a written statement Wednesday.
+“These ads, and the stories of the people in them, give voice to the nagging doubts that many Jewish voters feel about President Obama.
+To underscore that point, numerous polls have shown an erosion in Jewish support for the president."
+
+Netanyahu also made an appearance on NBC's "Meet the Press" last Sunday, urging Obama to take a tougher line with Iran over its nuclear program.
+
+"President Obama has said that he is determined to prevent Iran from getting nuclear weapons," he said on the Sunday morning show.
+"If you're determined to prevent Iran from getting nuclear weapons, it means you'll act before they get nuclear weapons."
+
+STEP 1:
+* frustration
+* rogue
+* strength
+* apologies
+* powerful
+* strong
+* disillusioned
+* doubts
+* tougher
+
+SUMMARY:
+Israeli Prime Minister Benjamin Netanyahu is starring in a new ad in Florida, urging the US to take a stronger stance against Iran's nuclear program. In the ad, Netanyahu expresses frustration with the Obama administration's failure to establish "red lines" for reining in Iran's rogue nuclear weapons program. He warns that every day that passes, Iran gets closer to a nuclear bomb, and asks, "Wait for what? Wait until when?" The ad, paid for by Secure America Now, aims to make Iran a major campaign issue and emphasizes the need for American strength, not apologies. The ad could have a powerful influence in heavily-Jewish markets, including Miami, where support for Israel remains strong. Meanwhile, the Republican Jewish Coalition has launched a separate $5 million TV advertising blitz aimed at Jewish voters in swing states, highlighting the "buyer's remorse" felt by many in the Jewish community who are disillusioned with Obama's economic policies and his policies toward Israel.
+END OF SUMMARY.
+
+Now, here is the target news article to summarize:
+Here is the news article:
+
+White House To Seek Emergency Sandy Funds Billions in damages and not enough in the bank account — that's where federal officials find themselves in the aftermath of Hurricane Sandy. The White House says it will send an emergency funding request to Capitol Hill this week — expected to be $50 billion to $60 billion. Top administrators told Congress on Wednesday that they want at least some of that money to go toward preventing the kind of devastation caused by Sandy and other recent storms. The damage from what was dubbed Superstorm Sandy was enormous and widespread. Sen. Kirsten Gillibrand, D-N.Y., testified before some of her Senate colleagues on the tally from her state alone. "What we know so far: We have over 300,000 homes seriously damaged; more than 265,000 businesses impacted; about 238,000 have filed their FEMA claims to date; and thousands of New Yorkers are still homeless," she said. "We've estimated our damages are upwards of $32.8 billion — and this was a conservative estimate." New Jersey has a similar tally; Connecticut, a bit less. Combined, the Northeastern states are asking for about $80 billion in federal aid for storm-related damage. An Eye To The Future Housing and Urban Development Secretary Shaun Donovan — the Obama administration's point man on Sandy — would not say Wednesday exactly how much the administration wants from Congress. But Donovan said at least a portion of the money will go to build up the region's defenses against future superstorms. "We want to ensure that homes that were damaged or lost are rebuilt, businesses are restored and communities made whole, but we also want to build back stronger, smarter, safer and more resiliently — a 21st century response," he said. Donovan told members of a Senate Appropriations subcommittee that building up such resilience involves making decisions now, before rebuilding gets under way — "from the kinds of design and materials we should use to rebuild boardwalks to whether gas stations should be generator-capable to how or whether to rebuild in certain areas." Several senators on the panel talked about the power grid, and whether it would make sense to pay to bury power lines underground, to protect them from falling trees. That's a good idea in some areas, but Craig Fugate, head of FEMA, warned that in New York City, placing things underground led to other problems. 'A Down Payment'? Fugate says the administration has some $4.8 billion left in its disaster relief fund — money used to pay for immediate assistance. And while the White House and lawmakers have their hands full with the impending year-end tax increases and spending cuts, some in Congress want to provide the states just a small amount of the rebuilding money now, and a bigger chunk later. But Donovan says such a down payment would cause hardships. "Families, small businesses, entire communities are waiting for a decision about what resources are available to help them rebuild," he said. "A down payment simply means that those families, those communities, are going to be waiting for months or longer to be able to get on with their lives." Nor does Donovan believe the disaster aid should be offset by cuts elsewhere in the budget. Most Democrats seem to agree, but it's unclear whether Republicans will go along.
+
+(1) First, you identify all the single words that are morally framed, focusing especially on the dimensions of Authority/Subversion, Care/Harm. Identify this step as "STEP 1:" and report each word in a new line starting with *
+(2) Finally, you write a summary of the news article. Please preserve as many morally framed words as possible, particularly focusing on the moral dimensions of Authority/Subversion, Care/Harm in your summary. The summary has to be returned after a "SUMMARY:" token and ending with a "END OF SUMMARY." token. The summary should be no longer than 200 words.

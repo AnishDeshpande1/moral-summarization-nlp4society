@@ -1,0 +1,184 @@
+You have to summarize the following text preserving the moral framing that the author gave to it, with particular focus on the specific moral foundations highlighted in the text.
+
+Please study the following examples of news articles, their moral word extraction, and summaries preserving the moral framing:
+
+Example 1 (Political Ideology: Left, Moral Foundations: Care/Harm, Fairness/Cheating):
+Here is the news article:
+
+(CNN) Alabama Republican Senate candidate Roy Moore says he will sue the Washington Post over its report alleging he pursued sexual relationships with teenagers -- including a 14-year-old -- when he was in his 30s.
+
+"The Washington Post published another attack on my character and reputation because they are desperate to stop my political campaign.
+These attacks said I was with a minor child and are false and untrue -- and for which they will be sued," Moore said Sunday night during a campaign speech in Huntsville, Alabama.
+
+The Washington Post declined to comment Monday morning.
+
+It's not uncommon for public figures to threaten legal action against news organizations but ultimately fail to follow through.
+President Donald Trump threatened to sue The New York Times last year after it published the accounts of two women who claimed Trump touched them inappropriately.
+His lawyers never filed a lawsuit.
+
+More recently, disgraced Hollywood mogul Harvey Weinstein initially threatened to sue the Times after it first reported allegations of sexual misconduct against him, but that suit never materialized
+
+The Washington Post report Thursday was based on interviews with more than 30 people.
+As well as the allegations that Moore had sexual contact with the then 14-year-old when he was aged 32, three other women also told The Post that Moore pursued them when they were between the ages of 16 and 18.
+
+The woman who was 14 years old at the time claimed he took her to his house, undressed down to his underwear and undressed her down to her bra and underwear and touched her and moved her hand to touch his underwear, which could have been sexual offenses due to her age, but the statutes of limitations in effect during that time have passed.
+
+None of the other three women told the Post that Moore sexually harassed, or assaulted them, or forced them into a relationship.
+Alabama's legal age of consent is 16.
+
+Moore has denied the allegations since they were published.
+He called the claims " completely false " Friday when appearing on Sean Hannity's syndicated radio show.
+
+Speaking at a Veterans Day event at the Mid-Alabama Republican Club in Birmingham Saturday, Moore called the allegations "fake news" and "yet another attack on my character and reputation in a desperate attempt to stop my political campaign for the United States Senate."
+
+He added that the alleged incidents happened nearly 40 years ago and called them "very hurtful to me personally -- I have the highest regard for the protection of young children," before adding that he has never provided alcohol to a minor and has "not been guilty of sexual misconduct with anyone."
+
+Moore added that there were ongoing "investigations" looking into the motivations behind the Post article, and promised "revelations" about the story to come in the next few days, though he did not provide further specifics.
+
+A number of Republicans withdrew their endorsements of Moore following the Washington Post article, including the National Republican Senatorial Committee, which severed a joint fundraising agreement that benefits Moore's campaign.
+
+STEP 1:
+* false
+* untrue
+* desperate
+* attack
+* character
+* reputation
+* fake
+* hurtful
+* highest
+* guilty
+* misconduct
+
+SUMMARY:
+Alabama Republican Senate candidate Roy Moore has denied allegations of pursuing sexual relationships with teenagers, including a 14-year-old, when he was in his 30s, calling the claims "completely false" and "fake news". Moore accused The Washington Post of launching a "desperate" attack on his character and reputation to stop his political campaign. The Post's report, based on interviews with over 30 people, alleged that Moore had sexual contact with the 14-year-old and pursued three other women between the ages of 16 and 18. Moore has threatened to sue The Washington Post over the report, which he claims is "hurtful" to him personally. He emphasized his "highest regard for the protection of young children" and denied any "sexual misconduct" with anyone. Several Republicans have withdrawn their endorsements of Moore following the report. END OF SUMMARY.
+
+Example 2 (Political Ideology: Center, Moral Foundations: Authority/Subversion, Care/Harm):
+Here is the news article:
+
+Hillary Clinton and her running mate, Sen. Tim Kaine of Virginia, speak to reporters on board the Clinton campaign plane on Saturday.
+
+PITTSBURGH—Hillary Clinton on Saturday drew a contrast between how she and Republican rival Donald Trump would conduct their first 100 days in office, zeroing in on his contention that he would sue the women who have accused him of making unwanted sexual advances.
+
+Speaking to reporters on her campaign plane Saturday night, Mrs. Clinton and her running mate, Sen. Tim Kaine of Virginia, said Mr. Trump seemed less intent on governing than on avenging personal grievances.
+
+Earlier on Saturday, Mr. Trump spoke at the Civil War battlefield in Gettysburg, Pa., where he laid out his agenda for the first 100 days of his presidency and threatened to sue his accusers after the election.
+
+The remark got the attention of the Clinton campaign, which has been trying to make inroads among college-educated women who normally vote Republican.
+
+“Our opponent, Donald Trump, went to Gettysburg, one of the most extraordinary places in American history,” Mrs. Clinton said, “and basically said if he’s president he will spend his time suing women who have made charges against him based on his behavior.”
+
+By contrast, she said, “Tim and I are going to keep talking about what we want to do if we’re given the great honor of serving as president and vice president.
+We’ll get to work the day after the election and do everything possible to be prepared on Jan. 20 to start doing the business of the American people.”
+
+Mr. Kaine, who was accompanying Mrs. Clinton to a late-night rally in Philadelphia, added that Mr. Trump “seemed most personally invested in…all of the scores that he needs to settle with people he’s mad at.”
+
+The pair had just come from a rally at a local high school in Pittsburgh.
+Both campaigns have made Pennsylvania a particular focus.
+Analysts believe that a Clinton victory in the state would cut off one possible path by which Mr. Trump could reach the needed threshold of 270 electoral votes.
+
+Speaking to 1,800 people at the Pittsburgh rally, Mrs. Clinton touched on a theme she has emphasized in recent days: that Mr. Trump is a danger to America’s democratic traditions.
+She has faulted him for saying during Wednesday’s presidential debate that he might not concede the election in the event of a defeat.
+
+Failing to accept election results, however disappointing, is the difference between “leadership and dictatorship,” Mrs. Clinton said Saturday, adding that Mr. Trump shows a troubling disregard for constitutional freedoms and protections.
+
+She also referred to the GOP presidential nominee’s contention that she should be jailed for using a private email system while she was secretary of state.
+
+“Every time he says he wants to jail his opponent—meaning me—I think to myself, ‘We don’t do that in America.
+We actually have laws and courts and an independent judiciary,’” she said.
+
+Mrs. Clinton spent part of the 37-minute address making a case for Democratic Senate candidate Katie McGinty, who is challenging incumbent Pennsylvania Republican Pat Toomey.
+
+Democrats believe Mr. Toomey’s defeat is central to retaking control of the Senate and providing Mrs. Clinton with a friendlier Congress should she win in November.
+Mr. Toomey leads by about two points in the Real Clear Politics average of polls.
+
+In devoting time to Ms. McGinty’s campaign, Mrs. Clinton showed she is thinking about down-ballot races that would affect her policy agenda should she win on Nov. 8.
+
+“Katie will help us break through the gridlock—actually make a difference in people’s lives,” Mrs. Clinton said.
+
+STEP 1:
+* avenging
+* grievances
+* extraordinary
+* honor
+* danger
+* dictatorship
+* troubling
+* disregard
+* laws
+* courts
+* independent
+* friendlier
+
+SUMMARY:
+Hillary Clinton contrasted her approach to governance with Donald Trump's, highlighting his intention to sue women who accused him of sexual misconduct. Clinton emphasized that Trump seems more intent on avenging personal grievances than governing, whereas she and her running mate, Tim Kaine, are focused on preparing to serve the American people. Clinton warned that Trump's behavior is a danger to America's democratic traditions, citing his refusal to accept election results and his disregard for constitutional freedoms and protections. She also criticized Trump's suggestion that she should be jailed, stating that "we don't do that in America" and that we have laws, courts, and an independent judiciary. Clinton's remarks aimed to appeal to college-educated women who normally vote Republican. END OF SUMMARY.
+
+Example 3 (Political Ideology: Right, Moral Foundations: Authority/Subversion, Care/Harm):
+Here is the news article:
+
+Officials in New York’s Rockland County announced on Wednesday that they had issued subpoenas to eight people allegedly infected by the coronavirus for refusing to speak with contact tracers voluntarily.
+
+“The health of our county” will not be “compromised because of ignorance, stupidity, or obstinance,” Ed Day, the county executive, told reporters.
+
+“Failure to comply will be costly: $2,000 per day,” Patricia Rupert, the county’s health commissioner, added, referring to the subpoenas, according to the Hill.
+
+Officials are using the subpoenas to compel the people to talk with the contact tracers about contracting the COVID-19 disease at a June 17 party in Clarkstown, located north of New York City, Rubert said.
+
+She indicated that the eight people had declined interview requests to determine who else they were in contact with and prevent them from further spreading the virus.
+
+In echoing frustrations expressed by health officials across the country, Rupert said the infected partygoers are not answering their phones or refusing to talk when contact tracers reach them.
+
+“Unfortunately, I am now forced by these circumstances to send subpoenas to the individuals who are required to cooperate with us,” Rupert said.
+
+Day claimed that his colleagues do not want to get anyone in trouble.
+
+They only want to speak to them to find out who else might have contracted the disease to keep it from spreading, he argued.
+
+“We want people to do the right thing for their neighbors,” and voluntarily speak to health officials, Day said.
+
+However, he said, the people’s refusal to talk had forced the county to resort to subpoenas.
+
+Rupert said the host of the party in question had coronavirus symptoms but held the event anyway.
+
+She told reporters:
+
+We are not receiving the necessary cooperation when we contact those who are positive for COVID-19 or those who had been at some of these gatherings.
+My staff has been told that a person does not wish to or have to speak to my disease investigators.
+They hang up, they deny being at the party, even though we have found their name from another party attendee, or a parent provides us with the information.
+
+“Many do not answer their cell phones and do not call back,” she added.
+“Sometimes, parents answer for their adult children and promise that they have been home consistently when they have not been.
+This must stop.”
+
+According to public health officials, contact tracing is essential to stemming the COVID-19 spread.
+The process involves interviewing people who have contracted the deadly and highly contagious disease about who they have been around.
+
+Health officials say the goal is to notify those people and require them to quarantine for 14 days to stem the disease’s spread.
+
+Local news outlets claim officials in Rockland are struggling to contain a coronavirus infection cluster that began at the June 17 party.
+
+STEP 1:
+* ignorance
+* stupidity
+* obstinance
+* costly
+* failure
+* refusal
+* forced
+* right
+* necessary
+* cooperation
+* promise
+* consistently
+* stop
+
+SUMMARY:
+In Rockland County, New York, officials have issued subpoenas to eight individuals who have refused to cooperate with contact tracers, citing "ignorance, stupidity, or obstinance" as the reason. The county executive, Ed Day, emphasized that the "health of our county" will not be "compromised" due to their actions. The individuals, who were allegedly infected with COVID-19 at a June 17 party, have refused to answer calls or provide information, forcing officials to take drastic measures. Day urged them to do the "right thing for their neighbors" and voluntarily speak with health officials. However, their "refusal" to cooperate has led to the issuance of subpoenas, which will result in a "costly" fine of $2,000 per day. The officials are struggling to contain a coronavirus infection cluster that began at the party, and their lack of "cooperation" is hindering efforts to stem the disease's spread. END OF SUMMARY.
+
+Now, here is the target news article to summarize:
+Here is the news article:
+
+Likely Democratic presidential nominee Joe Biden is offering his own plan for dealing with the Coronavirus while criticizing the Trump administration's actions. Biden told Politico he wants far more spending to deal with COVID-19. He says one of the ways out of this economic crisis is through a $1 trillion infrastructure program to create new American jobs, along with environmental programs and massive aid for state and local governments. However, Biden has been quiet about claims from a former staffer named Tara Reade who has publicly accused him of sexual assault in 1993. Describing an incident that she says happened while she was serving on Biden's Senate staff, Reade said Biden pushed her against a wall in the basement of a Capitol Hill office building, groped her, and then reached under her skirt and touched her genitals. She said after telling her supervisors in Biden's office that she had been sexually harassed by the then-senator, her concerns weren't taken seriously and she was eventually told to find another job. Two of those staffers have said in interviews that they didn't recall Reade or any such incident. The third issued an on-the-record statement denying Reade's claim. Now, Reade's former neighbor is supporting that account. Lynda LaCasse says Reade detailed the alleged incident to her in the mid-90s. "She felt like she was assaulted, and she really didn't feel there was anything she could do," LaCasse told Business Insider. Late last week, the Intercept unearthed a 1993 video clip that shows a woman Reade says was her mother calling into CNN's "Larry King Live." In the clip, an unnamed woman from San Luis Obispo, Calif., tells King that her daughter just left Washington, "after working for a prominent senator, and could not get through with her problems at all, and the only thing she could have done was go to the press, and she chose not to do it out of respect for him." Last spring, eight women, including Reade, came forward with allegations that Biden made them feel uncomfortable with inappropriate displays of affection. Biden acknowledged the complaints and promised to be "more mindful about respecting personal space in the future." The Associated Press spoke with Reade about those complaints in April 2019. During that interview, Reade alleged that Biden rubbed her shoulders and neck and played with her hair and that she was asked by another aide in Biden's Senate office to dress more conservatively and told: "don't be so sexy." Major media outlets have not asked Biden about the alleged assault. When Fox News asked the Biden campaign about the charge, it pointed to a previous statement saying while sexual assault claims should be "diligently reviewed by an independent press," what Reade alleged, "absolutely did not happen."
+
+(1) First, you identify all the single words that are morally framed, focusing especially on the dimensions of Authority/Subversion, Care/Harm, Fairness/Cheating. Identify this step as "STEP 1:" and report each word in a new line starting with *
+(2) Finally, you write a summary of the news article. Please preserve as many morally framed words as possible, particularly focusing on the moral dimensions of Authority/Subversion, Care/Harm, Fairness/Cheating in your summary. The summary has to be returned after a "SUMMARY:" token and ending with a "END OF SUMMARY." token. The summary should be no longer than 200 words.

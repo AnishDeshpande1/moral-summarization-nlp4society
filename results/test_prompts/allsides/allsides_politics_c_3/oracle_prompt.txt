@@ -1,0 +1,31 @@
+You have to summarize the following text preserving the moral framing that the author gave to it.
+
+Here is the news article:
+
+WASHINGTON – As House Democrats called for a resolution condemning him for racism, President Donald Trump said Monday that the minority Democratic congresswomen he said should "go back" to other countries are the ones who should apologize. Trump also denied his comments were racist, telling reporters at the White House that "if you hate our country, if you're not happy here, you can leave" – although most of the Democratic lawmakers he attacked were born in the United States. Earlier in the morning, Trump tweeted: "When will the Radical Left Congresswomen apologize to our Country, the people of Israel and even to the Office of the President, for the foul language they have used, and the terrible things they have said." House Speaker Nancy Pelosi, D-Calif., meanwhile, called on lawmakers to pass a resolution condemning Trump's remarks suggesting that some House members should essentially go back to where they came from. "The House cannot allow the President’s characterization of immigrants to our country to stand," Pelosi said. "Our Republican colleagues must join us in condemning the President’s xenophobic tweets." On Sunday, Trump tweeted of four minority female House members: "Why don’t they go back and help fix the totally broken and crime infested places from which they came. Then come back and show us how it is done" – this even though three of the four targets were born in the United States. Trump's tweets were directed tweets at four Muslim, Hispanic, and black House freshmen members known as "the Squad": Democratic Reps. Alexandria Ocasio-Cortez of New York, Ayanna Pressley of Massachusetts, Rashida Tlaib of Michigan, and Ilhan Omar of Minnesota. THE 'SQUAD' REACTS:'This is what racism looks like': Congresswomen react to Trump's 'go back' tweetstorm The first three were born in the United States; Omar came to the United States as a refugee from Somalia before she was a teenager. Asked if he was concerned about using the language of white nationalists, Trump replied that "it doesn’t concern me because many people agree with me. All I’m saying is that if they want to leave they can leave now. It doesn’t say leave forever." He claimed the congresswomen "hate" the United States and Israel. Pelosi said Trump's "xenophobic" comments reflect that "his plan to 'Make America Great Again' has always been about making America white again." "Our diversity is our strength and our unity is our power," Pelosi said. Pelosi has clashed with the very same House members Trump attacked. Ocasio-Cortez, Omar and others say Pelosi and the Democratic leadership have been too cautious on issues ranging from environmental legislation to the proposed impeachment of Trump. Trump's tweets, however, united the Democrats in condemnation of the president's racial tactics. "THIS is what racism looks like," Pressley tweeted. Tlaib responded to Trump by tweeting: "Yo @realDonaldTrump, I am fighting corruption in OUR country. I do it every day when I hold your admin accountable as a U.S. Congresswoman. Detroit taught me how to fight for the communities you continue to degrade & attack. Keep talking, you’ll be out of the WH soon. #TickTock." The tweets are drawing international criticism of Trump. British Prime Minister Theresa May believes “the language used to refer to these women was completely unacceptable,” her spokesman James Slack told reporters in London on Monday. Trump, who is seeking re-election in 2020, has indicated he would seek to link members of "The Squad" to Democrats in general. In his Monday tweets, he cited their views on the Middle East as a flashpoint. "It will be interesting to see how it plays out," Trump tweeted. "I can tell you that they have made Israel feel abandoned by the U.S." After a day of near-silence, a rising number of Republicans are speaking out against Trump's attacks on the four House members. "Those tweets are racist, and xenophobic," said Rep. Will Hurd, R-Texas, whose district includes a large part of the border with Mexico. Speaking on CNN, Hurd said that this is "also behavior that’s unbecoming of the leader of the free world. He should be talking about things that unite, not divide us." Sen. Pat Toomey, R-Pa., told CNN that Trump was "wrong," and that "the citizenship of all four (House members) is as valid as mine ... We should defeat their ideas on the merits." Rep. Justin Amash, a Michigan congressman who recently left the Republican Party, tweeted back at Trump: "To tell these American citizens (most of whom were born here) to 'go back' to the “crime infested places from which they came” is racist and disgusting."
+
+The author used the following morally framed words in the article:
+* racism
+* hate
+* happy
+* pass
+* remarks
+* characterization
+* tweets
+* comments
+* white
+* diversity
+* tactics
+* fighting
+* corruption
+* fight
+* degrade
+* attack
+* language
+* abandoned
+* racist
+* xenophobic
+* divide
+* disgusting
+
+Please preserve as many morally framed words as possible in your summary. The summary has to be returned after a "SUMMARY:" token and ending with a "END OF SUMMARY." token. The summary should be no longer than 200 words.

@@ -1,0 +1,143 @@
+You have to summarize the following text preserving the moral framing that the author gave to it, with particular focus on the specific moral foundations highlighted in the text.
+
+Please study the following examples of news articles, their moral word extraction, and summaries preserving the moral framing:
+
+Example 1 (Political Ideology: Left, Moral Foundations: Fairness/Cheating):
+Here is the news article:
+
+President Donald Trump used Twitter to tear into social media companies Saturday morning, claiming they were “totally discriminating against Republican/Conservative voices.”
+
+But he does have a solution. Sort of.
+And it involves both sides.
+
+Trump tweeted that “too many voices are being destroyed, some good and some bad, and that cannot be allowed to happen.” So, he added: “Let everybody participate, good & bad, and we will all just have to figure it out!”
+
+Trump accused social media giants of “closing down the opinions of many people on the RIGHT, while at the same time doing nothing to others.”
+
+“Censorship is a very dangerous thing & impossible to police,” he added, before embarking on a now familiar rant about “fake news” CNN and MSNBC — which he admitted to sometimes watching, but “just with a grain of salt.”
+
+Trump did not reference any person in particular in his tirade against the tech companies, although a host of them have in recent weeks banned conspiracy theorist Alex Jones and his website Infowars from their platforms.
+
+STEP 1:
+* discriminating
+* destroyed
+* bad
+* dangerous
+* fake
+
+SUMMARY:
+President Donald Trump took to Twitter to accuse social media companies of "totally discriminating" against Republican and Conservative voices. He claimed that "too many voices are being destroyed, some good and some bad," and that censorship is a "very dangerous thing" that is "impossible to police." Trump's solution is to "let everybody participate, good & bad, and we will all just have to figure it out!" He also ranted against "fake news" outlets CNN and MSNBC, which he admits to watching "with a grain of salt." The tweets come after several social media companies banned conspiracy theorist Alex Jones and his website Infowars from their platforms. Trump's comments imply that social media companies are unfairly silencing certain voices, and that this "censorship" is a threat to free expression. END OF SUMMARY.
+
+Example 2 (Political Ideology: Center, Moral Foundations: Care/Harm, Fairness/Cheating, Loyalty/Betrayal):
+Here is the news article:
+
+Trump Lashes Out at Kathy Griffin and Democrats
+
+WASHINGTON — President Trump assailed Democrats and a television comedian on Wednesday in his latest Twitter blasts since returning from an overseas trip in which he had largely abstained from the sort of combative social media postings that helped propel him to the Oval Office and have gotten him in trouble ever since.
+
+The president castigated Kathy Griffin, the celebrity comic and author, for posing for a video showing her holding what looks like the severed and bloodied head of Mr. Trump.
+The video touched off a storm of protests from people on all sides of the political spectrum, which forced Ms. Griffin to apologize, and CNN announced that it would fire her from the annual New Year’s Eve program she has co-hosted.
+
+In a statement later in the day, the first lady, Melania Trump, questioned Ms. Griffin’s sanity.
+“As a mother, a wife, and a human being, that photo is very disturbing,” she said.
+“When you consider some of the atrocities happening in the world today, a photo opportunity like this is simply wrong and makes you wonder about the mental health of the person who did it.”
+
+The Trumps had the support of the daughter of the woman the president beat in last year’s election, among others.
+
+Ms. Griffin went online on Tuesday night to express regret.
+“I sincerely apologize,” she said in a video.
+“I’m just now seeing the reaction of these images.
+I’m a comic.
+I crossed the line. I move the line, I cross it. I went way too far.
+The image is too disturbing.
+I understand how it offends people.
+It wasn’t funny. I get it.”
+
+She said she had asked the photographer to pull the images.
+“I beg for your forgiveness,” she continued.
+“I went too far.
+I made a mistake and I was wrong.” She did not address Mr. Trump specifically in her video.
+
+CNN, which has enlisted Ms. Griffin to host New Year’s Eve programming alongside Anderson Cooper for the last decade, announced on Wednesday that she would no longer appear.
+
+Mr. Cooper distanced himself, as well.
+
+Mr. Trump also lashed out at Democrats in Congress whom he accused of trying to squelch testimony involving the investigation into Russian meddling in last year’s election.
+Shortly after a “Fox and Friends” segment reporting that Democrats no longer want to hear testimony from Carter Page, a onetime Trump campaign adviser, Mr. Trump wrote that it was all part of a “witch hunt” against him.
+
+“So now it is reported that the Democrats, who have excoriated Carter Page about Russia, don’t want him to testify,” he wrote.
+“He blows away their case against him & now wants to clear his name by showing ‘the false or misleading testimony by James Comey, John Brennan …’ Witch Hunt!”
+
+In a letter to the House Intelligence Committee reported by Fox and other news organizations, Mr. Page wrote: “I have learned from your Committee staff on this Memorial Day holiday that I might not be immediately afforded the opportunity to address the false or misleading testimony by James Comey, John Brennan, et al. as per our previously scheduled appointment for next week.
+In the interest of finally providing the American people with some accurate information at long last, I hope that we can proceed with this straight dialogue soon.”
+
+Mr. Page did not list what testimony he considered false by Mr. Comey, who was fired by Mr. Trump as director of the F.B.I., or Mr. Brennan, the former director of the C.I.A., who stepped down when President Barack Obama left office in January.
+But Mr. Page urged the committee “to investigate the growing evidence of collusion between Clinton campaign associates, Comey and other former Obama administration officials.”
+
+STEP 1:
+* disturbing
+* wrong
+* atrocities
+* sanity
+* regret
+* apologize
+* forgiveness
+* mistake
+* witch
+* hunt
+
+SUMMARY:
+President Trump lashed out at Kathy Griffin, a television comedian, for posing with a severed and bloodied head resembling his, calling it a "disturbing" and "wrong" photo opportunity. The first lady, Melania Trump, questioned Griffin's "sanity" and said the image was "very disturbing" considering the "atrocities" happening in the world today. Griffin apologized, expressing "regret" and asking for "forgiveness" for crossing the line. CNN fired her from their annual New Year's Eve program. Trump also accused Democrats of trying to squelch testimony involving the Russian meddling investigation, calling it a "witch hunt" against him. Trump's campaign adviser, Carter Page, wrote to the House Intelligence Committee, urging them to investigate the "false or misleading testimony" by former officials. END OF SUMMARY.
+
+Example 3 (Political Ideology: Right, Moral Foundations: Authority/Subversion):
+Here is the news article:
+
+Donald Trump announced Tuesday that he is bowing out as the moderator for a Republican presidential debate later this month, after most candidates in the field opted not to attend.
+
+Trump said he wanted to make sure there's no "conflict of interest" in case he decides to run as a third-party candidate next year.
+He cast his decision as a way to keep his options open.
+
+He said later on Fox News that he's still considering an independent bid.
+"I am looking at it, if the Republicans choose the wrong candidate, which is a possibility, and if the economy continues to be bad, which I think it will be," Trump said.
+
+The real estate mogul and reality TV star said he wants to make sure Republicans pick the "right" candidate -- he said he still plans to make an endorsement despite his threatened third-party run.
+
+Though the Dec. 27 debate technically is sponsored by Newsmax, Trump quickly became the face of it after he was named as moderator.
+
+While former House Speaker Newt Gingrich and former Pennsylvania Sen. Rick Santorum agreed to attend early on, other Republican candidates subsequently bowed out.
+
+Some expressed concern that Trump, who previously flirted with a possible Republican presidential bid before shelving the idea, would not definitively rule out running as a third-party candidate.
+
+Trump on Tuesday specifically cited Republican National Committee Chairman Reince Priebus' concerns about his involvement.
+He said he does not expect Newsmax to follow through with the debate now that he's out.
+
+"We would have done very well.
+We would have gotten great ratings," Trump said, voicing his trademark confidence.
+
+Trump first announced his debate decision in a written statement Tuesday afternoon.
+
+"It is very important to me that the right Republican candidate be chosen to defeat the failed and very destructive Obama administration, but if that Republican, in my opinion, is not the right candidate, I am not willing to give up my right to run as an independent candidate," he said.
+"Therefore, so that there is no conflict of interest within the Republican Party, I have decided not to be the moderator of the Newsmax debate.
+... I must leave all of my options open because, above all else, we must make America great again!"
+
+Trump went on to praise Gingrich and Santorum for "having the courage, conviction, and confidence" to agree to the debate.
+
+STEP 1:
+* right
+* wrong
+* failed
+* destructive
+* courage
+* conviction
+* confidence
+
+SUMMARY:
+Donald Trump has announced that he will no longer moderate the Republican presidential debate, citing a potential "conflict of interest" if he decides to run as a third-party candidate. Trump wants to keep his options open, ensuring that the "right" Republican candidate is chosen to defeat the "failed and very destructive" Obama administration. If not, he may run as an independent candidate. Trump praised Newt Gingrich and Rick Santorum for having the "courage, conviction, and confidence" to participate in the debate. Despite his withdrawal, Trump still plans to make an endorsement, emphasizing the importance of choosing a candidate who will "make America great again!" Trump's decision was influenced by Republican National Committee Chairman Reince Priebus' concerns about his involvement. END OF SUMMARY.
+
+Now, here is the target news article to summarize:
+Here is the news article:
+
+President Donald Trump will sign an executive order on social media companies on Thursday, White House officials said after Trump threatened to shut down websites he accused of stifling conservative voices. The officials gave no further details. It was unclear how Trump could follow through on the threat of shutting down privately owned companies including Twitter Inc. The company declined comment. The dispute erupted after Twitter on Tuesday for the first time tagged Trump's tweets about unsubstantiated claims of fraud in mail-in voting with a warning prompting readers to fact check the posts. Separately, a three-judge panel of the U.S. Court of Appeals in Washington on Wednesday upheld the dismissal of a lawsuit by a conservative group and right-wing YouTube personality against Google, Facebook, Twitter and Apple accusing them of conspiring to suppress conservative political views. In an interview with Fox News Channel on Wednesday, Facebook's Chief Executive Mark Zuckerberg said censoring a platform would not be the "right reflex" for a government worried about censorship. Fox played a clip of the interview and said it would be aired in full on Thursday. Facebook left Trump's post on mail-in ballots on Tuesday untouched. The American Civil Liberties Union said the First Amendment of the U.S. Constitution limits any action Trump could take. Facebook and Google declined comment. Apple did not respond to a request for comment. "Republicans feel that Social Media Platforms totally silence conservatives voices. We will strongly regulate, or close them down, before we can ever allow this to happen," Trump said in a pair of additional posts on Twitter on Wednesday. The president, a heavy user of Twitter with more than 80 million followers, added: "Clean up your act, NOW!!!!" Republican Trump has an eye on the November election. "Big Tech is doing everything in their very considerable power to CENSOR in advance of the 2020 Election," Trump tweeted on Wednesday night. "If that happens, we no longer have our freedom." STRONGEST THREAT YET Trump's threat is his strongest yet within a broader conservative backlash against Big Tech. Shares of both Twitter and Facebook fell on Wednesday. Last year the White House circulated drafts of a proposed executive order about anti-conservative bias which never gained traction. The Internet Association, which includes Twitter and Facebook among its members, said online platforms do not have a political bias and they offer "more people a chance to be heard than at any point in history." Asked during Twitter's annual meeting on Wednesday why the company decided to affix the label to Trump's mail-in ballot tweets, General Counsel Sean Edgett said decisions about handling misinformation are made as a group. "We have a group and committee of folks who take a look at these things and make decisions on what's getting a lot of visibility and traction ...," he said. In recent years Twitter has tightened its policies amid criticism that its hands-off approach allowed fake accounts and misinformation to thrive. Tech companies have been accused of anti-competitive practices and violating user privacy. Apple, Google, Facebook and Amazon face antitrust probes by federal and state authorities and a U.S. congressional panel. Republican and Democratic lawmakers, along with the U.S. Justice Department, have been considering changes to Section 230 of the Communications Decency Act, a federal law largely exempting online platforms from legal liability for the material their users post. Such changes could expose tech companies to more lawsuits. Republican Senator Josh Hawley, a frequent critic of Big Tech companies, sent a letter to Twitter Chief Executive Jack Dorsey asking why the company should continue to receive legal immunity after "choosing to editorialize on President Trump's tweets."
+
+(1) First, you identify all the single words that are morally framed, focusing especially on the dimensions of Authority/Subversion, Fairness/Cheating. Identify this step as "STEP 1:" and report each word in a new line starting with *
+(2) Finally, you write a summary of the news article. Please preserve as many morally framed words as possible, particularly focusing on the moral dimensions of Authority/Subversion, Fairness/Cheating in your summary. The summary has to be returned after a "SUMMARY:" token and ending with a "END OF SUMMARY." token. The summary should be no longer than 200 words.

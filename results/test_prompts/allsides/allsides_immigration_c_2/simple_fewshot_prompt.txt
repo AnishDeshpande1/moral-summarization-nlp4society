@@ -1,0 +1,146 @@
+You have to summarize the following text preserving the moral framing that the author gave to it.
+
+Please study the following examples of news articles and their summaries preserving the moral framing:
+
+Example 1 (Political Ideology: Left):
+Here is the news article:
+
+Republican presidential candidate Rick Perry pledges to end "[President Barack] Obama's war on religion" in a new television ad airing in Iowa, railing against open service of gays and lesbians in the military and the prohibition against prayer in public schools.
+
+"I'm not ashamed to admit I'm a Christian," says Perry.
+"But you don't need to be in the pews every Sunday to know that there's something wrong in this country when gays can serve openly in the military but our kids can't openly celebrate Christmas or pray in school."
+
+"As president, I'll end Obama's war on religion and I'll fight against liberal attacks on our religious heritage," the Texas governor continues.
+"Faith made America strong. It can make her strong again."
+
+Perry has recently stepped up his attacks on Obama for cultural issues.
+In a statement released Tuesday, he decried the Obama administration’s decision to use foreign aid to promote rights for gays and lesbians abroad.
+
+"This is just the most recent example of an administration at war with people of faith in this country," he said.
+"Investing tax dollars promoting a lifestyle many Americas of faith find so deeply objectionable is wrong.
+President Obama has again mistaken America's tolerance for different lifestyles with an endorsement of those lifestyles."
+
+Politico reported Tuesday that Perry bought $1 million in broadcast television time ahead of the Jan. 3 caucuses.
+The Dallas Morning Newsrecently reported that his presidential campaign plans to bring "more than 600 influential Texans" to Iowa in December.
+However, Perry netted just six percent support among likely Republican caucus-goers, according to a Des Moines Register poll released Saturday.
+
+SUMMARY:
+
+Republican presidential candidate Rick Perry has launched a new TV ad in Iowa, accusing President Obama of waging a "war on religion". Perry vows to end this perceived war, citing the open service of gays and lesbians in the military and the prohibition on prayer in public schools as examples of religious oppression. He claims that faith made America strong and can do so again. Perry has also criticized the Obama administration's decision to use foreign aid to promote gay and lesbian rights abroad, calling it an attack on people of faith. The ad is part of a larger effort by Perry to appeal to conservative voters, with his campaign planning to bring over 600 influential Texans to Iowa in December. Despite this, Perry currently polls at just 6% among likely Republican caucus-goers.
+
+END OF SUMMARY.
+
+Example 2 (Political Ideology: Center):
+Here is the news article:
+
+WASHINGTON — A young Republican congressional aide resigned Monday after her Facebook post berating President Obama’s daughters for their attitude and outfits during the annual White House turkey pardon became a sensation on the Internet.
+
+On Friday, the aide, Elizabeth Lauten, 31, who has more than 14,000 followers on Twitter as @DCGopGirl and at the time was a spokeswoman for a little-known congressman from Tennessee, wrote an open letter to Sasha and Malia Obama on her Facebook page, saying they should “try showing a little class” and “dress like you deserve respect, not a spot at a bar.”
+
+By Monday, Ms. Lauten had resigned as communications director to Representative Stephen Fincher, a farmer and gospel singer perhaps best known for his whimsically named hometown, Frog Jump.
+Ms. Lauten, now a footnote in Mr. Fincher’s career, is the latest cautionary tale about the dangers of social media sniping directed at the country’s most famous offspring.
+
+It started Wednesday with the most innocuous of events: the annual naming of the National Thanksgiving Turkey, when Mr. Obama officially liberated Cheese, a large white bird with impressive plumage, from the Thursday dinner table.
+
+Per tradition, the first daughters were in attendance, this time wearing mostly cheerless expressions and short outfits.
+Malia, 16, was dressed in a plaid miniskirt, sweater, dark tights and black hiking-style boots.
+Sasha, 13, wore a maroon dress, a cardigan sweater, a pair of white midcalf-high socks and black ankle boots.
+
+At times, the girls gazed glumly at the floor and threw an occasional eye roll at their father as he compared pardoning Cheese to granting amnesty to unauthorized immigrants.
+“You want to pet him?” Mr. Obama asked his daughters.
+
+“Nah,” Malia said quickly.
+
+Their teenage disdain drew its fair share of media attention, including a BuzzFeed article titled “The Obama Girls Could Not Be More Bored by Their Dad’s Jokes.”
+
+Enter Ms. Lauten — a former Republican National Committee new media aide who describes herself on Twitter as loving God, cats, the Daughters of the American Revolution “& all things pink, green and pearls!” — whose commentary had a sharper edge.
+
+“I get you’re both in those awful teen years, but you’re a part of the First Family, try showing a little class,” she wrote above a picture of the unenthused Obama daughters.
+“At least respect the part you play.”
+
+She went on to say that Malia and Sasha were “coming up a little short in the ‘good role model’ department” because their parents “don’t respect their positions very much, or the nation for that matter.”
+
+Ms. Lauten wrote what she thought the daughters should have done: “Rise to the occasion.
+Act like being in the White House matters to you.
+Dress like you deserve respect, not a spot at a bar.”
+
+Her views were widely circulated and eventually posted on Twitter by a reporter for The Root, a news, opinion and culture site aimed at African-American audiences.
+A flood of angry responses quickly followed.
+
+Ms. Lauten, who did not respond to repeated requests for further comment, later posted an apology for her “hurtful” words, saying she had “judged the two young ladies in a way that I would never have wanted to be judged myself as a teenager.”
+
+Josh Earnest, the White House press secretary, told reporters on Monday that he was “taken aback that there was some political operative on Capitol Hill who did use the occasion of a Thanksgiving-themed event to criticize members of the first family.”
+
+Patti Davis, the daughter of Ronald Reagan, could relate.
+In a letter to Sasha and Malia posted on her website, Ms. Davis recalled being criticized by a reporter decades ago for the outfit she wore to a cocktail reception her parents held for Queen Elizabeth II when Mr. Reagan was president.
+
+“As First Daughters, you can’t win,” Ms. Davis wrote.
+“And while there isn’t anything normal about the life you are living right now, you still can be.”
+
+SUMMARY:
+
+A Republican congressional aide, Elizabeth Lauten, resigned after her Facebook post criticizing President Obama's daughters, Sasha and Malia, for their attitude and outfits during the annual White House turkey pardon ceremony. Lauten, who has a large social media following, wrote that the girls should "try showing a little class" and "dress like you deserve respect, not a spot at a bar." Her comments sparked widespread outrage and were deemed "hurtful" by many. The White House press secretary, Josh Earnest, expressed disappointment that a political operative would criticize the first family during a Thanksgiving event. The incident serves as a cautionary tale about the dangers of social media sniping, particularly when directed at the children of public figures. As Patti Davis, daughter of Ronald Reagan, noted, "As First Daughters, you can't win." The moral of the story is that children of public figures should be treated with respect and kindness, rather than being subject to harsh criticism.
+
+END OF SUMMARY.
+
+Example 3 (Political Ideology: Right):
+Here is the news article:
+
+President Trump vowed Wednesday that birthright citizenship will end “one way or the other,” a day after it emerged he was considering killing the policy by executive order -- a development that sparked disagreement among Republicans and condemnation from Democrats.
+
+“So-called Birthright Citizenship, which costs our Country billions of dollars and is very unfair to our citizens, will be ended one way or the other,” he tweeted. 
+"It is not covered by the 14th Amendment because of the words 'subject to the jurisdiction thereof.'"
+
+He also took aim at former Senate Democratic Leader Harry Reid, who he said “was right in 1993, before he and the Democrats went insane and started with the Open Borders (which brings massive crime) ‘stuff.’”
+
+He was referring to comments unearthed from 1993 in which Reid said that "no sane country" would award citizenship to children of illegal immigrants born on its soil and promoted legislation to end the practice.
+
+"If making it easy to be an illegal alien isn't enough, how about offering a reward for being an illegal immigrant? 
+No sane country would do that, right?" Reid said. 
+"Guess again. 
+If you break our laws by entering this country without permission and give birth to a child, we reward that child with U.S. citizenship and guarantee a full access to all public and social services this society provides."
+
+Reid later apologized for his stance and reversed it in 1999.
+
+But the comments helped Trump make his controversial case, after his push first emerged in an interview with “Axios on HBO”. 
+He said he wants to use an executive order to end the practice by which children born in the U.S. of non-citizen or illegal immigrant parents are immediately a citizen.
+
+“How ridiculous, we’re the only country in the world where a person comes in, has a baby, and the baby is essentially a citizen of the United States for 85 years with all of those benefits,” Trump said.
+
+The U.S. is not the only country to grant birthright citizenship, with Canada and a number of Latin American countries also doing so, but the issue has long been a contentious one in the U.S. -- particularly for those seeking to restrict illegal immigration into the U.S.
+
+The 14th Amendment states that “all persons born or naturalized in the United States and subject to the jurisdiction thereof, are citizens of the United States and of the State wherein they reside.” 
+Critics of birthright citizenship say that the amendment was never intended to apply to children of two non-citizens -- and particularly those who have come to the country illegally.
+
+Critics say the policy encourages illegal immigrants to come to the country, give birth and then try to claim residency themselves as a result.
+
+But many scholars counter that it would take a constitutional amendment to change the policy. 
+And the announcement Tuesday was met with a mixed reception by lawmakers in Congress, particularly the idea that Trump might use an executive order to impose such a significant immigration change -- something Republicans blasted former President Barack Obama for doing with the Deferred Action for Childhood Arrivals (DACA) policy.
+
+Speaker Paul Ryan, R-Wis., said in an interview with WVLK that the 14th Amendment is “pretty clear” and said that “you cannot end birthright citizenship with an executive order.” 
+Senate Judiciary Chairman Chuck Grassley, R-Iowa, said he will "closely review" the proposed executive order, but said that "as a general matter, this is an issue that Congress should take the lead to carefully consider and debate."
+
+Sen. Lindsey Graham, R-S.C., announced he will be introducing legislation “to deal with the issue of birthright citizenship for children of illegal immigrants” and said it was a “magnet for illegal immigration in modern times.”
+
+On Wednesday, Trump appeared to shift stance somewhat by avoiding saying it would be ended by executive order, while acknowledging the matter “will be settled by the United States Supreme Court.”
+
+Democrats appeared united in condemnation against Trump’s move this week. 
+In a Tuesday appearance on "The Late Show with Stephen Colbert," House Minority Leader Nancy Pelosi, D-Calif., said the Axios interview didn't surprise her.
+
+"This is just more of the same of what he's been saying," she said, referring to Trump's remarks on immigration. 
+"What he was saying today has no relationship to what his authority is, but that's of course not unusual."
+
+SUMMARY:
+
+President Trump has vowed to end birthright citizenship, claiming it costs the country billions of dollars and is unfair to citizens. He cited the 14th Amendment, arguing that it doesn't cover children of illegal immigrants. Trump's stance has sparked disagreement among Republicans and condemnation from Democrats. Some Republicans, like Speaker Paul Ryan, argue that the 14th Amendment is clear and an executive order can't end birthright citizenship. Others, like Sen. Lindsey Graham, plan to introduce legislation to address the issue. Democrats, like House Minority Leader Nancy Pelosi, are united in their condemnation, calling Trump's move an overreach of authority.
+
+Trump's push to end birthright citizenship is part of his broader anti-immigration agenda, which critics argue is rooted in xenophobia and racism. The moral framing of this issue is clear: Trump's stance is a rejection of the values of inclusivity, fairness, and compassion that underpin the 14th Amendment. It is a move to further marginalize and dehumanize immigrant communities, and to undermine the principles of equality and justice that are fundamental to American democracy.
+
+END OF SUMMARY.
+
+Now, here is the target news article to summarize:
+Here is the news article:
+
+In Christmas Day Message, Pope Francis Shines Light On Migrant Suffering In his annual Christmas Day address, Pope Francis offered a message of hope and a call for kindness to migrants around the world. "May the Son of God, come down to earth from heaven, protect and sustain all those who, due to these and other injustices, are forced to emigrate in the hope of a secure life," the pontiff said from the balcony of St. Peter's Basilica. "It is injustice that makes them cross deserts and seas that become cemeteries," he said. "It is injustice that turns them away from places where they might have hope for a dignified life, but instead find themselves before walls of indifference." The Christmas speech is titled "Urbi et Orbi": to the city and the world. He prayed that God would comfort those who are suffering, and he called on people to show good will and find solutions to ongoing humanitarian crises. Francis urged an end to conflicts in the Middle East, Latin America, Ukraine and Africa, and prayed for those who are persecuted on the basis of religion. "May Christ bring his light to the many children suffering from war and conflicts in the Middle East and in various countries of the world," Francis said in his seventh Christmas address as the head of the Roman Catholic Church. "May he bring comfort to the beloved Syrian people who still see no end to the hostilities that have rent their country over the last decade. Today may he stir the consciences of men and women of good will. May he inspire governments and the international community to find solutions to allow the peoples of that region to live together in peace and security, and put an end to their unspeakable sufferings." Last week, Francis placed a cross encircled by a life jacket inside the Vatican, in memory of the migrants who drowned in the Mediterranean Sea as they sought refuge in Europe. In a separate message on Wednesday, the pope and two other religious officials urged leaders in South Sudan to uphold their commitment to form a coalition government next year. Increased stability would allow the pope to visit the country, which he has said he hopes to do in 2020, Reuters reports. The pontiff concluded his message with a call to recognize the suffering around us and act to help those in need. "May he soften our often stony and self-centered hearts, and make them channels of his love," he said. "May he bring his smile, through our poor faces, to all the children of the world: to those who are abandoned and those who suffer violence. Through our frail hands, may he clothe those who have nothing to wear, give bread to the hungry and heal the sick. Through our friendship, such as it is, may he draw close to the elderly and the lonely, to migrants and the marginalized. On this joyful Christmas Day, may he bring his tenderness to all and brighten the darkness of this world."
+
+The summary has to be returned after a "SUMMARY:" token and ending with a "END OF SUMMARY." token. The summary should be no longer than 200 words.

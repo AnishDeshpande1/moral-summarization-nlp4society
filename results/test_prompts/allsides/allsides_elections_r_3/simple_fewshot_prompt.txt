@@ -1,0 +1,142 @@
+You have to summarize the following text preserving the moral framing that the author gave to it.
+
+Please study the following examples of news articles and their summaries preserving the moral framing:
+
+Example 1 (Political Ideology: Left):
+Here is the news article:
+
+WASHINGTON – Five hundred and eighty-four days after descending his Trump Tower escalator to announce his candidacy, Donald J. Trump took the oath of office Friday to become the 45th president of the United States.
+
+Chief Justice John Roberts administered the 38-word oath at 12:00 p.m., capping Trump’s unlikely journey from New York City real estate developer and reality TV star to the nation’s highest office.
+
+Trump won the Republican nomination against a crowded field of 16 other candidates, many far more experienced in politics.
+But he was able to capitalize on a primary voting base that was angry at the establishment GOP for not more aggressively fighting President Barack Obama’s policies.
+
+He trailed Democratic nominee Hillary Clinton in the general election nearly the entire way.
+In the final month of the race, he was helped by the near daily release of internal Democratic Party emails stolen by Russian hackers as well as by FBI Director James Comey’s decision to reopen, briefly, the probe into Clinton’s use of a private email server.
+
+Trump wound up winning Wisconsin, Michigan and Pennsylvania by a total of 78,000 votes.
+Clinton had counted on winning all three.
+
+SUMMARY:
+
+Donald Trump, a real estate developer and reality TV star, took the oath of office to become the 45th President of the United States, marking the culmination of his unlikely journey. Trump's victory was fueled by the anger of primary voters towards the establishment GOP, which they felt did not adequately oppose President Obama's policies. Despite trailing Democratic nominee Hillary Clinton in the general election, Trump benefited from the release of stolen Democratic Party emails and FBI Director James Comey's decision to reopen the probe into Clinton's email server. Trump ultimately won the presidency by a narrow margin of 78,000 votes in Wisconsin, Michigan, and Pennsylvania, states Clinton had expected to win.
+
+The moral framing of this article suggests that Trump's victory was, in part, a result of exploiting the anger and frustration of voters towards the political establishment, and that his campaign was aided by external factors such as the release of stolen emails and the actions of the FBI director. This framing implies that Trump's presidency was not solely the result of his own merits, but rather the outcome of a complex interplay of factors.
+
+END OF SUMMARY.
+
+Example 2 (Political Ideology: Center):
+Here is the news article:
+
+Hillary Clinton and her running mate, Sen. Tim Kaine of Virginia, speak to reporters on board the Clinton campaign plane on Saturday.
+
+PITTSBURGH—Hillary Clinton on Saturday drew a contrast between how she and Republican rival Donald Trump would conduct their first 100 days in office, zeroing in on his contention that he would sue the women who have accused him of making unwanted sexual advances.
+
+Speaking to reporters on her campaign plane Saturday night, Mrs. Clinton and her running mate, Sen. Tim Kaine of Virginia, said Mr. Trump seemed less intent on governing than on avenging personal grievances.
+
+Earlier on Saturday, Mr. Trump spoke at the Civil War battlefield in Gettysburg, Pa., where he laid out his agenda for the first 100 days of his presidency and threatened to sue his accusers after the election.
+
+The remark got the attention of the Clinton campaign, which has been trying to make inroads among college-educated women who normally vote Republican.
+
+“Our opponent, Donald Trump, went to Gettysburg, one of the most extraordinary places in American history,” Mrs. Clinton said, “and basically said if he’s president he will spend his time suing women who have made charges against him based on his behavior.”
+
+By contrast, she said, “Tim and I are going to keep talking about what we want to do if we’re given the great honor of serving as president and vice president.
+We’ll get to work the day after the election and do everything possible to be prepared on Jan. 20 to start doing the business of the American people.”
+
+Mr. Kaine, who was accompanying Mrs. Clinton to a late-night rally in Philadelphia, added that Mr. Trump “seemed most personally invested in…all of the scores that he needs to settle with people he’s mad at.”
+
+The pair had just come from a rally at a local high school in Pittsburgh.
+Both campaigns have made Pennsylvania a particular focus.
+Analysts believe that a Clinton victory in the state would cut off one possible path by which Mr. Trump could reach the needed threshold of 270 electoral votes.
+
+Speaking to 1,800 people at the Pittsburgh rally, Mrs. Clinton touched on a theme she has emphasized in recent days: that Mr. Trump is a danger to America’s democratic traditions.
+She has faulted him for saying during Wednesday’s presidential debate that he might not concede the election in the event of a defeat.
+
+Failing to accept election results, however disappointing, is the difference between “leadership and dictatorship,” Mrs. Clinton said Saturday, adding that Mr. Trump shows a troubling disregard for constitutional freedoms and protections.
+
+She also referred to the GOP presidential nominee’s contention that she should be jailed for using a private email system while she was secretary of state.
+
+“Every time he says he wants to jail his opponent—meaning me—I think to myself, ‘We don’t do that in America.
+We actually have laws and courts and an independent judiciary,’” she said.
+
+Mrs. Clinton spent part of the 37-minute address making a case for Democratic Senate candidate Katie McGinty, who is challenging incumbent Pennsylvania Republican Pat Toomey.
+
+Democrats believe Mr. Toomey’s defeat is central to retaking control of the Senate and providing Mrs. Clinton with a friendlier Congress should she win in November.
+Mr. Toomey leads by about two points in the Real Clear Politics average of polls.
+
+In devoting time to Ms. McGinty’s campaign, Mrs. Clinton showed she is thinking about down-ballot races that would affect her policy agenda should she win on Nov. 8.
+
+“Katie will help us break through the gridlock—actually make a difference in people’s lives,” Mrs. Clinton said.
+
+SUMMARY:
+
+Hillary Clinton drew a stark contrast between her and Donald Trump's approaches to governing, highlighting Trump's focus on personal grievances over the needs of the American people. Trump threatened to sue the women who have accused him of sexual misconduct, demonstrating a disturbing disregard for the rule of law and the principles of democracy. Clinton, on the other hand, emphasized her commitment to working for the people, starting from day one of her presidency. She also criticized Trump's refusal to accept election results, labeling it a hallmark of dictatorship. Clinton's running mate, Tim Kaine, echoed her sentiments, accusing Trump of being more invested in settling personal scores than in serving the nation. The contrast between the two candidates' values and priorities could not be clearer, with Clinton championing democratic traditions and the rule of law, while Trump promotes a culture of vengeance and authoritarianism.
+
+END OF SUMMARY.
+
+Example 3 (Political Ideology: Right):
+Here is the news article:
+
+President Trump on Monday called the criminal case against former national security adviser Michael Flynn “very unfair,” claiming he and Hillary Clinton both “lied” to the FBI but only Flynn faced consequences.
+
+The president’s comments, made to reporters as he left Washington for a policy announcement in Utah, saw Trump wading deeper into the Flynn investigation even after a weekend tweet landed the White House in hot water.
+
+On Monday, Trump said he feels “badly” for Flynn, who pleaded guilty on Friday to giving false statements to the FBI about his Russia contacts.
+
+“Hillary Clinton lied many times to the FBI, nothing happened to her. Flynn lied and they destroyed his life,” Trump said. 
+
+The president, without offering specifics, said his 2016 Democratic rival “lied many times” during her FBI interview in early July.
+
+“Nothing happened to her. Flynn lied and it’s like they ruined his life. Very unfair,” Trump said, echoing a weekend tweet in which he asked whether a “double standard” was at play.
+
+Clinton was interviewed by FBI agents as part of the investigation into her exclusive use of a private email system while secretary of state. 
+
+After that interview, then-FBI Director James Comey called her actions extremely careless without recommending criminal charges.
+
+Trump also noted over the weekend that Clinton was not recorded or under oath during that interview.
+
+On Sunday, Sen. Lindsey Graham, R-S.C., suggested Trump might want to think twice before tweeting and commenting on the Russia case. 
+
+“You tweet and comment regarding ongoing criminal investigations at your own peril,” he said on CBS’ “Face the Nation.”
+
+This was after Trump’s account tweeted Saturday: “I had to fire General Flynn because he lied to the Vice President and the FBI. 
+
+He has pled guilty to those lies. 
+
+It is a shame because his actions during the transition were lawful. 
+
+There was nothing to hide!”
+
+That tweet immediately caused problems for the White House, as some legal experts said it potentially exposed the president to obstruction of justice allegations – since, according to the tweet, he would have known Flynn lied to agents when he allegedly asked Comey to lay off the Flynn investigation and later fired Comey. 
+
+Trump said earlier this year that he fired Flynn only for lying to Vice President Pence about the issue.
+
+Trump’s personal lawyer John Dowd later said he was the one who wrote that tweet, saying he “did not mean to break news.”
+
+Dowd attempted to explain Sunday that the tweet was referring to then-acting Attorney General Sally Yates telling White House Counsel Don McGahn in January that Flynn had “given the agents the same story he gave the vice president.”
+
+He also said the agents seemed to think Flynn was confused. 
+
+“All the president knew was that the department was not accusing him of lying,” Dowd said.
+
+Trump over the weekend denied that he asked Comey to stop investigating Flynn.
+
+Sen. Dianne Feinstein, D-Calif., the top Democrat on the Senate Judiciary Committee, said on NBC’s “Meet the Press” on Sunday that the panel has begun to see "the putting together of a case of obstruction of justice" against Trump.
+
+Flynn is now cooperating with Special Counsel Robert Mueller’s investigators in the Russia meddling case, though it’s unclear what exactly he might reveal about Trump and his associates.
+
+
+
+SUMMARY:
+
+President Trump sparked controversy by claiming that the criminal case against former national security adviser Michael Flynn is "very unfair." Trump argued that Flynn and Hillary Clinton both "lied" to the FBI, but only Flynn faced consequences. Trump's comments were seen as an attempt to deflect attention from Flynn's guilty plea and to fuel a "double standard" narrative. However, Trump's words may have exposed him to further scrutiny, as some legal experts argued that his tweet potentially revealed obstruction of justice. Trump's personal lawyer, John Dowd, attempted to clarify the tweet, but the damage was already done. The incident has raised concerns about Trump's involvement in the Russia investigation and his potential interference with justice. As Senator Dianne Feinstein noted, the Senate Judiciary Committee is now seeing a case of obstruction of justice against Trump take shape.
+
+END OF SUMMARY.
+
+Now, here is the target news article to summarize:
+Here is the news article:
+
+The former secretary of state has been exposed as a ruthless politician following a playbook similar to Tricky Dick’s. Another day, another Hillary Clinton bombshell disclosure. This time the scandal comes from disgraced former congressman Anthony Weiner’s laptop computer, bringing more suggestions of Clinton’s sloppy attitude about U.S. intelligence law. Meanwhile, seemingly every day WikiLeaks produces more evidence of the Clinton Foundation leveraging the Clinton State Department for pay-for-play profiteering. At this point, Clinton has trumped former president Richard Nixon’s skullduggery — but without the offset of Nixon’s foreign-policy accomplishments. Even before the most recent scandals, Clinton’s campaign had an eerie resemblance to the Nixon playbook. Compare the election of 2016 to the election of 1972. The favored Nixon re-election juggernaut (dubbed CREEP, or the “The Committee for the Re-election of the President”) squeezed corporations and wealthy individuals for millions in donations, in much the same way that Clinton’s multi-million-dollar cash machine has vastly outspent her opponent, Donald Trump. The Watergate tapes later revealed an entirely cynical Nixon campaign team and a hard-nosed White House cadre led by H. R. Haldeman and John Ehrlichman — plus a host of lesser toadies, such as the conniving John Dean. They all took for granted that Washington functioned on a quid pro quo and pay-for-play basis. In that regard, the Clinton campaign under chairman John Podesta (the new Haldeman) has become Nixonian to the core, thanks to Podesta’s ruthlessness. The WikiLeaks/Podesta e-mail trove reveals that Hillary’s consultants have no moral compass. They lampoon Latinos as “needy.” Catholics are written off as being stuck in medieval times. Aides bartered with plutocrats for Secretary of State Clinton’s face time on the basis of cash donations. A primary debate question was tipped off by CNN contributor and Democratic operative Donna Brazile. The nickname “Tricky Dick” referred to Nixon’s perceived anything-goes campaign style and his “flexibility” on issues. CREEP’s “plumbers” staged break-ins to look for leaked information. Petty activists supposedly tried to disrupt rallies for Nixon’s 1972 opponent, George McGovern. Clinton is using similar tactics. In the ambush tapes of Project Veritas, Clinton’s for-hire thugs bragged on film of provoking violence at Trump rallies and bringing in voters by bus to cast illegal ballots. The anti-communist and free-marketer Nixon turned out to be a wheeler-dealer who had no problem wooing communist China or imposing socialist wage and price controls. From hacked e-mails, it is clear that Hillary’s positions on fracking, trade deals, the Keystone XL pipeline, immigration, and foreign policy hinged on whatever best served her political self-interest. Most loyal aides who served Nixon ended up disgraced, jailed, or humiliated. Does anyone think that Podesta, Cheryl Mills, or Huma Abedin — the fixers so prominent in the WikiLeaks scandal — will have a political future, given their aiding and abetting of Clinton knavery and profiteering? We know that Nixon lied about what he had known about the cover-up of the Watergate break-in. And now we know from the WikiLeaks e-mail dumps and the FBI investigation that Clinton likewise has never told the truth about her e-mail server, the Clinton Foundation’s pay-for-play schemes, or the catalysts for the Benghazi killings. Nixon always attacked the messenger in hopes of discrediting the message — and now Clinton is going after FBI director James Comey. Nixon professed that he never knew the sordid details of his campaign’s dirty tricks. Clinton has resorted to the same defense with regard to the shady activities of the now-disgraced subordinates who resigned after being caught trying to disrupt Trump rallies. Stonewalling was a Nixon specialty. Clinton told FBI investigators 27 times that she could not remember key details about the e-mail scandal. A Democratic operative from a political action committee bragged on tape that Clinton herself liked the operative’s idea of having protestors decked out in Donald Duck costumes provoke Trump supporters at his rallies. (“In the end, it was the candidate, Hillary Clinton, the future president of the United States, who wanted ducks on the ground,” the operative said on tape.) Abedin wrote in an e-mail to Podesta and Clinton aide Robby Mook that the idea of accepting $12 million to speak at an event held by a Moroccan-government-owned mining company (which had received a $92 million loan guarantee from the U.S.-financed Export-Import Bank) was Clinton’s: “This was HRC’s idea, our office approached the Moroccans and they 100 percent believe they are doing this at her request.” A Clinton family advisor described shakedown efforts to reap millions of dollars for former President Bill Clinton as being the work of “Bill Clinton Inc.” There remains, however, one disconnect. Nixon covered up misdeeds long enough to be re-elected in a 1972 landslide — only later to resign before his looming impeachment, when even his administration flunkies could no longer mask his past misdeeds. Would an elected President Hillary Clinton eventually meet the same fate? This time around, there is not the same sort of investigative reporting that there was in 1973–1974. Much of the media is backing, rather than investigating, Clinton. Does the death of independent journalism ensure that Clinton’s hubris will never earn a Nixonian comeuppance — or at least not until after the election?
+
+The summary has to be returned after a "SUMMARY:" token and ending with a "END OF SUMMARY." token. The summary should be no longer than 200 words.

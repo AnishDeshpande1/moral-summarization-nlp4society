@@ -1,0 +1,197 @@
+You have to summarize the following text preserving the moral framing that the author gave to it, with particular focus on the specific moral foundations highlighted in the text.
+
+Please study the following examples of news articles, their moral word extraction, and summaries preserving the moral framing:
+
+Example 1 (Political Ideology: Left, Moral Foundations: Authority/Subversion, Care/Harm, Fairness/Cheating, Loyalty/Betrayal):
+Here is the news article:
+
+Vision benefits are among those that will now be available to same-sex spouses.
+Benefits open to same-sex spouses
+
+The same-sex spouses of federal employees can begin applying for benefits including health insurance and retirement accounts immediately, the Obama administration said Friday, two days after the Supreme Court overturned a key provision of the Defense of Marriage Act.
+
+The Office of Personnel Management offered the guidance in a letter to the heads of executive departments and agencies, detailing access to many of the benefits to which legally married same-sex spouses will now have the same access heterosexual married couples do, including health, life, dental, vision and long-term care insurance.
+
+The memo, signed by acting director Elaine Kaplan, does not go into detail about the benefits available to same-sex couples who marry in one state but live in another where those unions are not legal.
+By omitting a specific reference to state laws, and repeating that benefits will be available to all legally married couples, OPM appears to be making the case that couples will have access to the listed benefits regardless of the state in which they live.
+
+President Barack Obama said Thursday that, “speaking as a president, not a lawyer,” he believes couples married in one state should be treated as married in all 50 states, but that his administration is working on the legalities of making that reality.
+
+In a statement Friday, the president applauded the expansion of access to federal benefits.
+“This is a critical first step toward implementing this week’s landmark Supreme Court decision declaring that all married couples — gay and straight — should be treated equally under federal law,” he said.
+“Thousands of gays and lesbians serve our country every day in the federal government.
+They, and their spouses and children, deserve the same respect and protection as every other family.
+
+Under the president’s direction, the Justice Department is leading the implementation of the repeal of Section 3 of DOMA.
+After the high court’s Wednesday ruling, Defense Secretary Chuck Hagel also said that the Pentagon will move quickly to expand benefits to same-sex couples.
+
+Attorney General Eric Holder welcomed Friday’s announcement.
+“Americans in same-sex marriages are entitled to equal protection and equal treatment under the law,” he said in a statement.
+“By extending health insurance and other important benefits to federal employees and their families, regardless of whether they are in same-sex or opposite-sex marriages, the Obama administration is making real the promise of this important decision.”
+
+The changes announced Friday “will make a meaningful, positive difference in the lives of many,” Holder said.
+“As the president directed, the Department of Justice will continue to coordinate with other federal agencies to implement this ruling as swiftly and smoothly as possible.
+I look forward to sharing additional information as it becomes available..”
+
+STEP 1:
+* equal
+* respect
+* protection
+* equal
+* entitled
+* equal
+* promise
+* meaningful
+* positive
+* swiftly
+* smoothly
+
+SUMMARY:
+The Obama administration has announced that same-sex spouses of federal employees can now apply for benefits, including health insurance and retirement accounts, immediately following the Supreme Court's overturn of the Defense of Marriage Act. This move is a "critical first step" towards implementing the landmark decision, ensuring that all married couples, gay and straight, are treated equally under federal law. President Obama believes that couples married in one state should be treated as married in all 50 states, and his administration is working on the legalities of making this a reality. The expansion of access to federal benefits is a step towards providing equal respect and protection to all families, regardless of sexual orientation. The Justice Department will continue to coordinate with other federal agencies to implement this ruling as swiftly and smoothly as possible. This change will make a meaningful, positive difference in the lives of many. END OF SUMMARY.
+
+Example 2 (Political Ideology: Center, Moral Foundations: Authority/Subversion, Care/Harm, Fairness/Cheating):
+Here is the news article:
+
+WASHINGTON – Facing a global and congressional firestorm of criticism, President Trump appeared Friday to deny using a vulgar term to describe Haiti, El Salvador and African countries, and instead sought to redirect the focus on what he called unacceptable Democratic proposals on immigration.
+
+"The language used by me at the DACA meeting was tough, but this was not the language used," Trump tweeted.
+"What was really tough was the outlandish proposal made - a big setback for DACA!"
+
+Trump ignored questions about the incident during a White House event on Friday: A proclamation to honor the Dr. Martin Luther King, Jr. holiday, which comes on Monday, and used the opportunity to speak about diversity and equality.
+
+"No matter what the color of our skin or the place of our birth, we are all created equal," Trump said.
+
+The attempt to clarify came after The Washington Post reported that Trump questioned in a meeting with lawmakers on Thursday why the U.S. would accept immigrants from "shithole countries" like Haiti or in Africa rather than in places like Norway.
+Trump had met the previous day with the prime minister of Norway.
+
+"Why are we having all these people from shithole countries come here?"
+Trump reportedly told lawmakers during negotiations over DACA: Deferred Action for Childhood Arrivals, a program designed to block deportation of young people brought to the United States illegally by their parents.
+
+In a subsequent tweet, Trump denied saying anything derogatory of Haiti in particular.
+"Never said anything derogatory about Haitians other than Haiti is, obviously, a very poor and troubled country," he said, and suggested he would record future meetings.
+
+Trump has threatened to kill the DACA program unless Democrats agree to a host of new security measures designed to block illegal immigration, including a wall along the U.S.-Mexico border.
+
+Yet upcoming negotiations between the White House and Congress on immigration are likely to be shadowed by the reported presidential comments, which some lawmakers and human rights officials denounced as racist.
+
+"The President’s statement is shameful, abhorrent, unpresidental, and deserves our strongest condemnation," said Michelle Lujan Grisham, D-N.M., chair of the Congressional Hispanic Caucus.
+"We must use our voices to ensure that our nation never returns to the days when ignorance, prejudice, and racism dictated our decision making."
+
+Rep. Mia Love, R-Utah, a daughter of Haitian immigrants, demanded Trump apologize, calling his comments "unkind, divisive, (and) elitist," and that they "fly in the face of our nation’s values."
+
+The government of Haiti has demanded that U.S. officials provide an explanation of the president's remarks, and the government of El Salvador lodged a protest.
+"El Salvador demands respect for the dignity of its noble and brave people," it said in a statement.
+
+Rupert Colville, a human rights spokesman for the United Nations, said: "If confirmed, these are shocking and shameful comments from the president of the United States, I'm sorry but there is no other word for this but racist."
+
+During his Friday tweet storm, Trump also rejected a bipartisan congressional proposal on DACA, saying it lacked funding for the U.S.-Mexico wall and did not end programs like "chain migration."
+
+The president's criticism came a day after discussing immigration ideas with a bipartisan delegation that included Sens. Dick Durbin, D-Ill., and Lindsey Graham, R-S.C.
+
+While some Republicans supported various compromise proposals, Trump put the blame on Democrats.
+
+Saying he wanted a "merit based" immigration system that blocks drug dealers and criminals, Trump said the bipartisan proposal would somehow force the United States to "take large numbers of people from high crime countries which are doing badly."
+
+Democrats said Trump's goal, reflected in his alleged comment, is to allow immigration from predominantly white countries and block it from predominately black and brown countries.
+
+"He is making it very clear that it is LEGAL immigration he opposes if the people look a certain way or come from certain countries (like countries that are not Norway)," tweeted Rep. Luis V. Gutierrez, D-Ill.
+
+Some congressional Democrats have threatened to block a new government spending plan unless the DACA program for young people is addressed, risking a government shutdown that also drew Trump's ire.
+
+"Sadly, Democrats want to stop paying our troops and government workers in order to give a sweetheart deal, not a fair deal, for DACA," Trump tweeted.
+"Take care of our Military, and our Country, FIRST!"
+
+If it happens, a government shutdown would not cut off funding for troops or military operations; only non-essential personnel would be affected.
+
+Some Republicans implicitly rebuked Trump, while others stayed largely silent.
+
+Sen. Marco Rubio, R-Fla., tweeted out a series of contributions to America made by people of Haitian descent, from doctors and lawmakers to University of Georgia star football running back Sony Michel.
+
+In one post, Rubio tweeted out a Bible verse: "Slander no one ... be peaceable, considerate, exercising all graciousness toward everyone Titus 3 1-2."
+
+Sen. Jeff Flake, a Republican from Arizona who is leaving the Senate after this year, was more direct concerning Trump: "The words used by the President, as related to me directly following the meeting by those in attendance, were not 'tough,' they were abhorrent and repulsive."
+
+STEP 1:
+* shameful
+* abhorrent
+* unpresidental
+* racist
+* unkind
+* divisive
+* elitist
+* shocking
+* shameful
+* racist
+* repulsive
+
+SUMMARY:
+President Trump faced backlash from lawmakers and human rights officials after reportedly using a vulgar term to describe Haiti, El Salvador, and African countries. Trump denied making the comment, calling it "tough" but not derogatory. However, many condemned his alleged words as "shameful," "abhorrent," "racist," and "repulsive." Lawmakers and officials from Haiti, El Salvador, and the UN demanded an explanation and apology. Trump instead shifted focus to Democratic proposals on immigration, calling them "outlandish" and "unacceptable." The controversy has cast a shadow over upcoming negotiations on immigration, with some lawmakers threatening to block a new government spending plan unless the DACA program is addressed. Trump's comments were widely criticized as "unkind," "divisive," and "elitist," and have sparked concerns about his views on race and immigration. END OF SUMMARY.
+
+Example 3 (Political Ideology: Right, Moral Foundations: Authority/Subversion, Fairness/Cheating, Sanctity/Degradation):
+Here is the news article:
+
+President Trump on Friday became the first president to speak in person at the anti-abortion March for Life rally, on the heels of a new poll registering record-high dissatisfaction with U.S. abortion laws.
+
+“Unborn children have never had a stronger defender in the White House,” Trump said in a speech.
+“And as the Bible tells us, each person is wonderfully made.”
+
+He went on to slam Democrats for embracing “the most radical and extreme positions” and backing “taxpayer-funded abortion, all the way up until the moment of birth.” (Critics say that such procedures do not occur.)
+
+The March for Life says its mission is to “promote the beauty and dignity of every human life by working to end abortion.” Trump previously spoke at the rally remotely, while Vice President Mike Pence in 2017 became the first U.S. vice president to attend.
+
+March for Life president Jeanne Mancini applauded the Trump administration in a statement earlier in the week, noting that the administration had appointed anti-abortion judges and federal workers, cut taxpayer funding for abortions and called for an end to late-term abortions.
+“President Trump and his Administration have been consistent champions for life and their support for the March for Life has been unwavering,” she said.
+
+The results of a new Gallup poll released Wednesday suggested that discontent over U.S. abortion policy was at an all-time high (58%) and satisfaction was at an all-time low (32%).
+The survey of more than 1,000 adults, conducted earlier this month, tracked an upward trend in those who wanted abortion policy to be less restrictive.
+
+Traditionally, Gallup said, most people dissatisfied with abortion policy wanted stricter laws — but since 2017, the year Trump took office, the share of respondents desiring less-strict abortion policy has risen.
+Now, “roughly equal percentages of U.S. adults now are dissatisfied and favor less strict laws (22%) as are dissatisfied and want stricter laws (24%),” the report’s authors said.
+
+Mounting support for easing abortion policy was fueled by a rise in Democrats and independents expressing such sentiments over the last 10 years, the survey found.
+
+A flurry of states last year enacted restrictive anti-abortion laws, including a handful that banned abortion past a certain point in a pregnancy, and Alabama, which effectively outlawed abortion in most cases.
+Many of these laws have been blocked in court from taking effect.
+
+The Supreme Court will also hear arguments this year on June Medical Services v. Gee, which involves a Louisiana law requiring abortion providers to have admitting privileges at a local hospital.
+The court previously struck down a similar provision in Texas in 2016’s Whole Woman’s Health v. Hellerstedt.
+
+“Americans have grown increasingly dissatisfied with the nation’s abortion policies since 2017, largely reflecting Democrats’ — and to a lesser extent, independents’ — mounting view under Trump that the laws are too strict,” wrote the authors of the Gallup report.
+“While this may partly be a reaction to Trump’s rhetoric on the issue, it also aligns with an increase in abortion restrictions.”
+
+A separate poll published Wednesday by the Kaiser Family Foundation found that 59% of Americans believe abortion should be legal in most (32%) or all (27%) cases, while just 11% thought the procedure should be illegal in all cases.
+Nearly seven in 10 respondents said they didn’t want the landmark Supreme Court ruling Roe v. Wade, which affirmed the right to have an abortion, to be overturned.
+Democrats and independents were most likely to express that opinion, while a majority of Republicans (57%) said they wanted Roe overturned.
+
+But many respondents also backed some state abortion restrictions, including 69% who endorsed policies requiring the procedure be performed only by doctors with hospital-admitting privileges, 66% who supported 24-hour waiting periods between consultation with a provider and the procedure, and 57% who supported a requirement that doctors show and describe ultrasound images to abortion seekers.
+Still, criminalizing abortion (that is, through fines or prison time) for providers and abortion-seekers proved unpopular.
+
+A NPR/PBS News/Marist poll of 944 U.S. adults released in June 2019 echoed those results, showing that 77% of Americans wanted to keep Roe v. Wade in place, but many still wanted additional abortion restrictions or policy changes.
+
+Among the more than three-quarters of Americans who broadly supported Roe, 26% wanted the Supreme Court to keep it but add more restrictions, and 14% supported keeping it but reducing some restrictions, according to that poll.
+Some 21% wanted to see Roe expanded to secure abortion rights under any circumstance, while 16% wanted to keep it the way it is.
+
+STEP 1:
+* radical
+* extreme
+* wonderfully
+* beauty
+* dignity
+* champions
+* restrictive
+* stricter
+* dissatisfied
+* discontent
+* unwavering
+* stricter
+
+SUMMARY:
+President Trump became the first president to speak in person at the anti-abortion March for Life rally, where he slammed Democrats for embracing "radical and extreme positions" on abortion. Trump emphasized that "unborn children have never had a stronger defender in the White House" and quoted the Bible, saying "each person is wonderfully made." The March for Life aims to "promote the beauty and dignity of every human life" by working to end abortion. A new Gallup poll shows that discontent with U.S. abortion laws is at an all-time high, with 58% of Americans dissatisfied and only 32% satisfied. The poll also found that support for easing abortion policy has risen, particularly among Democrats and independents. Meanwhile, many states have enacted restrictive anti-abortion laws, which have been blocked in court. The Supreme Court will hear arguments on a Louisiana law requiring abortion providers to have admitting privileges at a local hospital. END OF SUMMARY.
+
+Now, here is the target news article to summarize:
+Here is the news article:
+
+WASHINGTON — The Trump administration on Thursday published new visa rules aimed at restricting “birth tourism,” in which women travel to the United States to give birth so their children can have U.S. citizenship. Applicants will be denied tourist visas if they are determined by consular officers to be coming to the U.S. primarily to give birth, according to the rules in the Federal Register. It is a bigger hurdle to overcome, proving they are traveling to the U.S. because they have a medical need and not just because they want to give birth here. Those with medical needs will be treated like other foreigners coming to the U.S. for medical treatment and must prove they have the money to pay for it — including transportation and living expenses. “Closing this glaring immigration loophole will combat these endemic abuses and ultimately protect the United States from the national security risks created by this practice,” White House press secretary Stephanie Grisham said in a statement. “It will also defend American taxpayers from having their hard-earned dollars siphoned away to finance the direct and downstream costs associated with birth tourism. The integrity of American citizenship must be protected.” The practice of traveling to the U.S. to give birth is fundamentally legal, although there are scattered cases of authorities arresting operators of birth tourism agencies for visa fraud or tax evasion. And women are often honest about their intentions when applying for visas and even show signed contracts with doctors and hospitals. The State Department “does not believe that visiting the United States for the primary purpose of obtaining U.S. citizenship for a child, by giving birth in the United States — an activity commonly referred to as ‘birth tourism’ — is a legitimate activity for pleasure or of a recreational nature,” according to the new rules, which take effect Friday. While the new rules deal specifically with birth tourism, the Trump administration also has turned away pregnant women coming over the U.S.-Mexico border as part of a broader immigration crackdown. Those women were initially part of a “vulnerable” group that included others like small children who were allowed in, while tens of thousands of other asylum seekers have been returned to Mexico to wait out their cases. President Donald Trump’s administration has been restricting all forms of immigration, but Trump has been particularly plagued by the issue of birthright citizenship — anyone born in the U.S. is considered a citizen, under the Constitution. The Republican president has railed against the practice and threatened to end it, but scholars and members of his administration have said it’s not so easy to do. The U.S. has been cracking down on the practice since before Trump took office. Regulating tourist visas for pregnant women is one way to get at the issue, but it raises questions about how officers would determine whether a woman is pregnant to begin with and whether a woman could get turned away by border officers who suspect she may be just by looking at her. And critics of the new policy say it could put pregnant women at risk. Consular officers don’t have the right to ask during visa interviews whether a woman is pregnant or intends to become so. But they would still have to determine whether a visa applicant would be coming to the U.S. primarily to give birth. Birth tourism is a lucrative business in both the U.S. and abroad. Companies take out advertisements and charge up to $80,000 to facilitate the practice, offering hotel rooms and medical care. Many of the women travel from Russia and China to give birth in the U.S. The U.S. has been cracking down on the practice since before Trump took office. “An entire ‘birth tourism’ industry has evolved to assist pregnant women from other countries to come to the United States to obtain U.S. citizenship for their children by giving birth in the United States, and thereby entitle their children to the benefits of U.S. citizenship,” according to the State Department rules. There are no figures on how many foreign women travel to the U.S. specifically to give birth. The Center for Immigration Studies, a group that advocates for stricter immigration laws, estimated that in 2012 about 36,000 foreign-born women gave birth in the U.S. and then left the country. “This rule will help eliminate the criminal activity associated with the birth tourism industry,” according to the rules. “The recent federal indictments describe birth tourism schemes in which foreign nationals applied for visitor visas to come to the United States and lied to consular officers about the duration of their trips, where they would stay, and their purpose of travel.”
+
+(1) First, you identify all the single words that are morally framed, focusing especially on the dimensions of Authority/Subversion, Care/Harm, Fairness/Cheating. Identify this step as "STEP 1:" and report each word in a new line starting with *
+(2) Finally, you write a summary of the news article. Please preserve as many morally framed words as possible, particularly focusing on the moral dimensions of Authority/Subversion, Care/Harm, Fairness/Cheating in your summary. The summary has to be returned after a "SUMMARY:" token and ending with a "END OF SUMMARY." token. The summary should be no longer than 200 words.

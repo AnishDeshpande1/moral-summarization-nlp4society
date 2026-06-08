@@ -1,0 +1,5 @@
+SUMMARY:
+
+The unprecedented cyberattacks this campaign cycle have already had a profound impact on American democracy, fueling fears of digital sabotage among voters. A survey found that 38% of Americans are concerned that the election itself could be hacked, while 18% are very concerned. This fear has led to some 15 million people considering not voting, as they may feel their vote is being undermined by potential tampering. The Obama administration blames Russia for orchestrating the breach against the Democratic National Committee, which has further eroded trust in the election process. Even if hackers don't actually try to disrupt the vote on Tuesday, the mere claim of possible hacking could still have a significant impact on public trust and potentially alter the outcome of the election. State officials are on high alert for any potential signs of tampering, but experts warn that organizing disinformation campaigns attacking confidence in the election itself may be more effective than direct cyberattacks.
+
+END OF SUMMARY.

@@ -1,0 +1,149 @@
+You have to summarize the following text preserving the moral framing that the author gave to it, with particular focus on the specific moral foundations highlighted in the text.
+
+Please study the following examples of news articles and their summaries preserving the moral framing:
+
+Example 1 (Political Ideology: Left, Moral Foundations: Care/Harm):
+Here is the news article:
+
+Rep. Bruce Braley (D-Iowa), who is running to succeed retiring Sen. Tom Harkin (D-Iowa), faced tough local coverage Tuesday after critical comments he made about Sen. Chuck Grassley (R-Iowa) were made public.
+
+At a January fundraiser in Texas, Braley urged the attorneys present to contribute to his campaign and contrasted his background with Grassley's.
+
+"If you help me win this race, you may have someone with your background, your experience, your voice ... on the Senate Judiciary Committee," Braley said.
+"Or you might have a farmer from Iowa who never went to law school, never practiced law, serving as the next chair of the Senate Judiciary Committee," he continued, referring to Grassley.
+
+Braley's remarks were released Tuesday by America Rising, a conservative political action committee which conducts opposition research on Democrats.
+
+One of the Republican primary field's leading candidates, businessman Mark Jacobs, immediately released a radio ad in an attempt to capitalize on the negative attention focused on Braley.
+
+Both the Des Moines Register and the Quad-City Times featured the backlash over Braley’s comments on their front pages.
+
+Braley apologized to Grassley in person on Tuesday after state Republican Party leaders and a number of Braley's potential Republican general election opponents condemned his remarks.
+
+The representative also posted a statement Tuesday in which he apologized and emphasized that he has farmers in his family.
+
+“I apologize to Sen. Grassley and anyone I may have offended,” Braley wrote.
+“My parents both grew up on Iowa farms during the Great Depression.
+It deeply influenced who they are and who I am, and gave me a profound appreciation for what farmers do for the world.”
+
+Grassley, who owns a farm, often notes in Senate Judiciary Committee hearings that he is the only non-lawyer on the panel, which oversees the judicial nominations process.
+
+Braley went to the University of Iowa's law school and worked as a lawyer in private practice before he was elected to the House of Representatives in 2006.
+His race is one of a handful across the country that will determine control of the Senate.
+
+SUMMARY:
+
+Democratic Rep. Bruce Braley, running for Senate in Iowa, faced backlash for his condescending comments about Republican Sen. Chuck Grassley's farming background. At a fundraiser, Braley implied that Grassley, a farmer, was unqualified to chair the Senate Judiciary Committee, suggesting that his own legal background made him more suitable. The comments were released by a conservative PAC and sparked widespread criticism from state Republican leaders and Braley's opponents. Braley apologized to Grassley in person and released a statement, highlighting his own family's farming roots and expressing appreciation for farmers. The incident highlights the importance of humility and respect for others' backgrounds and experiences. Braley's apology is a step in the right direction, but the incident serves as a reminder to approach political discourse with kindness and empathy.
+
+END OF SUMMARY.
+
+Example 2 (Political Ideology: Center, Moral Foundations: Authority/Subversion, Fairness/Cheating):
+Here is the news article:
+
+Setting the tone for the 112th Congress — in which every House bill must cite the constitutional source of its authority — members of the House of Representatives began to read the United States Constitution aloud from the chamber’s floor on Thursday morning.
+
+Like the Constitutional Convention itself, things did not begin auspiciously.
+
+Before the reading began, Jay Inslee, Democrat of Washington, asked Republicans to illuminate exactly what part of the Constitution would be read, what parts would be deleted and who would decide how things would unfold.
+
+It was decided in advance that any portion of the Constitution that was superseded by amendments — including the amendments themselves — would not be read, preventing lawmakers from having to make references to slaves, referred to in Article 1, Section 2 as “three fifths of all other persons,” or to things like prohibition.
+
+These inquiries about parliamentary procedure were not well received, and for several minutes, before a word of the preamble could be uttered, Democrats and Republicans battled back and forth over the issue of language, perhaps presaging future partisan battles over the meaning, purpose and application of the document.
+
+Once that was settled, just after 11 a.m., Representative John A. Boehner, the newly installed speaker of the House, read the preamble (that magical “We the people”), before yielding to the woman who handed him the gavel on Wednesday, Representative Nancy Pelosi, who picked up with Article 1, Section 1 (“All legislative powers herein granted shall be vested in a Congress of the United States, which shall consist of a Senate and House of Representatives”), followed by Representative Eric Cantor, the House majority leader, and other House leaders.
+
+From there, members who wished to read were recognized from their seats, beginning with Representative Steve Rothman, Democrat of New Jersey.
+And so, sentence by sentence, in accents that reflect the myriad districts that did not even exist when the document came into being, by women and African Americans whose full rights were not recognized at that time, the constitutional language fluttered through the chamber.
+
+At one point, there was yelling in the chamber, and the sergeant-at-arms was called to remove a protester.
+
+The reading of the document on the floor of the House, an act that is part of the new rules package, serves several purposes, said Representative Robert W. Goodlatte, Republican of Virginia, who came up with the idea for the live reading.
+Largely, it was meant to instruct members, who now must use it to underlie their bills, and to inform voters.
+
+“Throughout the last year there has been a great debate about the expansion of the federal government, and lots of my constituents have said that Congress has gone beyond its powers granted in the Constitution,” said Mr. Goodlatte, a senior member of the House Judiciary Committee, which has jurisdiction over constitutional amendments.
+He added: “I think it is important that we send a message to people at home that the constitution is an important document.”
+
+But it was also clearly meant as a nod to the Tea Party, a loosely organized political movement whose members cite the Constitution as the basis for much of their political theory concerning federal powers and the rights and responsibilities of Congress.
+To wit, the document reading happened on the same day that House Republicans began the contentious process of repealing the health care law, which they have long said lacks constitutional basis.
+
+The order of reading was ironed out at the last minute, with the goal of letting all who wished to read do so, but making sure there was party parity, Mr. Goodlatte said.
+“We have spread the word to everyone, and there was a lot of interest,” he said.
+
+According to the Office of the Historian of the House of Representatives, the only two prior instances in which a full or partial text of the Constitution was inserted into the Congressional Record was in 1882, when Roswell Flower of New York “appended” a text of the Constitution — minus the amendments — into the record, and in 1915, when Thomas Reilly of Connecticut inserted the full text of the Constitution into the Congressional Record as an extension of his remarks.
+But the office could not find any examples of the full text of the Constitution actually being read out loud on the House Floor.
+
+SUMMARY:
+
+In a symbolic gesture, the House of Representatives began the 112th Congress by reading the United States Constitution aloud from the chamber's floor. However, the event was marred by partisan bickering over the procedure, with Democrats questioning which parts of the Constitution would be read and who would decide. The reading ultimately proceeded, with Republicans and Democrats taking turns reciting the document's sentences. The event was meant to instruct members on the Constitution's importance and to inform voters, but it was also seen as a nod to the Tea Party movement, which emphasizes the document's role in limiting federal powers. The reading took place on the same day that House Republicans began the process of repealing the health care law, which they claim lacks constitutional basis. The event marks a rare instance of the Constitution being read aloud on the House Floor, with only two prior instances of the document being inserted into the Congressional Record.
+
+END OF SUMMARY.
+
+Example 3 (Political Ideology: Right, Moral Foundations: Authority/Subversion, Fairness/Cheating, Loyalty/Betrayal):
+Here is the news article:
+
+House Judiciary Committee Chairman Jerrold L. Nadler on Monday put a fine point on Democrats’ impeachment case against President Trump, arguing that the president put himself before the country.
+
+“We surely agree that no public official, including and especially the president of the United States, should use his public office for private gain,” he said at the opening of an evidentiary hearing before his committee.
+
+Based on the evidence presented, the committee will proceed to write articles of impeachment against Mr. Trump.
+
+Mr. Nadler, New York Democrat, called the process a “solemn and serious undertaking” that Congress must engage in to address serious threats to America’s institutions, such as “free and fair elections.”
+
+He said both sides should be able to agree on the fact of the case if Republicans would remove “their blinders.”
+
+“We agree that no president should put himself before the country,” Mr. Nadler said.
+“The Constitution and his oath of office, his promise to American citizens, require the country’s president to put the country first.”
+
+Mr. Trump has denied wrongdoing and denounced the House impeachment drive as a partisan “sham.”
+
+The articles of impeachment are expected to include charges of abuse of power, bribery and obstructing the congressional probe, all of which stem from Mr. Trump asking Ukraine to investigate political rival Joseph R. Biden and his son Hunter.
+
+Republicans argue that Mr. Trump’s action, though unconventional, did not cross the line into criminality.
+They’ve also vouched for the legitimacy of investigating Hunter Biden, who landed a $50,000-a-month job on a Ukraine natural gas company, while his father was the point man for Obama White House policy in that graft-riddled country.
+
+The impeachment case stems from a July 25 phone call in which Mr. Trump pressed Ukraine President Volodymyr Zelensky for a “favor” in investigating the Bidens and Ukraine meddling in the 2016 election.
+
+A whistleblower, who is believed to be a CIA official assigned to the White House, accused the president of abusing his power for personal gain on the call, including withholding $391 million of U.S. military aid from Ukraine as leverage.
+
+A rough transcript of the call the White House released in late September did not show the president present a quid pro quo deal for the investigations, but Democrats have argued the threat was understood and part of an ongoing pressure campaign of “shadow” foreign policy conducted by Mr. Trump’s private lawyer, former New York Mayor Rudolph W. Giuliani.
+
+The quid pro quo, a Latin term meaning a transaction of “this for that,” is the crux of the Democrats’ case that Mr. Trump engaged in a bribery or extortion scheme that warrants impeachment.
+
+The Judiciary Committee is reviewing evidence gathered by an inquiry led by the Permanent Select Committee on Intelligence.
+Much of the evidence was presented in two weeks of public hearings last month.
+
+The most powerful testimony yet in the inquiry came from Gordon Sondland, the ambassador to the European Union, who said he offered a quid pro quo of a prized White House visit for the newly-elected Mr. Zelensky for the investigations.
+But Mr. Sondland said he “presumed” that was what Mr. Trump wanted.
+
+In his only conversation with the president about it, Mr. Trump told him that there was “no quid pro quo,” Mr. Sondland testified.
+
+None of the witnesses in the impeachment inquiry linked the holdup of military assistance to the investigations or provided a reason for the holdup.
+The aid was delayed for about two months, before the money started to flow to Ukraine on Sept. 11, two days after the Inspector General of the Intelligence Community informed Congress of the whistleblower complaint.
+
+Mr. Trump has acknowledged that he wanted an investigation into alleged corruption involving Mr. Biden and his son Hunter, who landed a high-paying job on the board of Ukraine natural gas company Burisma Holdings in 2014.
+At the time, his father was the point man for Obama White House policy in the country, which is notorious for corruption, especially in the energy industry.
+
+The elder Mr. Biden recently boasted of forcing Ukraine leaders to fire the country’s chief prosecutor in spring 2016 by threatening to block a $1 billion U.S. loan guarantee.
+The prosecutor was widely viewed as not doing enough to combat corruption.
+But the prosecutor, Viktor Shokin, also had looked into corruption allegations against Burisma and Mykola Zlochevsky, the Ukraine oligarch running the company.
+
+Mr. Trump also wanted Ukraine to look into a missing Democratic National Committee server that was hacked by Russia during the 2016 presidential campaigns.
+An American cybersecurity company called CrowdStrike examined the server to probe the hack but the server disappeared before it got to the FBI.
+
+Mr. Trump subscribes to an unsubstantiated theory that the server ended up in Ukraine.
+
+SUMMARY:
+
+House Judiciary Committee Chairman Jerrold Nadler argued that President Trump put himself before the country, using his public office for private gain. Nadler emphasized that the Constitution and Trump's oath of office require the president to put the country first. The impeachment case against Trump stems from his July 25 phone call with Ukraine President Volodymyr Zelensky, where he asked for an investigation into political rival Joseph R. Biden and his son Hunter. Democrats argue that Trump's actions constitute abuse of power, bribery, and obstructing the congressional probe. Republicans claim that Trump's actions, though unconventional, did not cross the line into criminality. Nadler called the impeachment process a "solemn and serious undertaking" to address threats to America's institutions, such as "free and fair elections." The committee will proceed to write articles of impeachment against Trump.
+
+END OF SUMMARY.
+
+Now, here is the target news article to summarize:
+Here is the news article:
+
+WASHINGTON — The House passed the Democrats’ showcase anti-corruption and voting rights legislation on Friday, an expansive measure that aims to dismantle barriers to the ballot box, end big money in politics and impose stricter ethics rules on federal officials. The sweeping legislation, passed 234-193, makes good on the campaign pledge to clean up Washington that helped catapult Democrats into the majority. It also serves as a campaign platform for Democrats ahead of 2020. It has virtually no chance of passing the Senate. “It’s a power grab for the American people,” said Representative Zoe Lofgren of California, who leads the House administration committee that shepherded the legislation. The ambitious compendium, at nearly 700 pages, includes proposals designating Election Day as a federal holiday, automatically registering citizens to vote, and restoring voting rights to people who have served felony sentences. It also creates a six-to-one matching system for donations of up to $200 to congressional and presidential candidates who reject high-dollar contributions, funded by an additional fine on corporations found to have broken the law. Republicans arguably have spent more time trying to define the bill — called the For the People Act or H.R. 1, to underscore its primacy — and tear it down than Democrats have spent trying to promote it. Senator Mitch McConnell of Kentucky, the majority leader, has branded it the “Democrat Politician Protection Act” in weekly speeches, and pledged not to take up the legislation. The House Republican leader, Representative Kevin McCarthy of California, also criticized the legislation. “This bill is a massive federal government takeover that would undermine the integrity of our elections,” Mr. McCarthy said in a speech on Friday, in an attack on “this new, Democrat, socialist majority.” Some of the most debated provisions are intended to reveal who funds online political ads and finances so-called dark-money groups. The Disclose Act, part of the bill, would require super PACs and nonprofit organizations that spend money in elections to disclose the names of donors who contribute more than $10,000. Democrats say such disclosure is broadly popular with voters across the political spectrum. “Congress cannot meaningfully address the nation’s significant challenges without first recognizing and acknowledging the undue influence of special interests in our politics,” said Representative Abigail Spanberger, Democrat of Virginia. Some of those provisions, however, have drawn criticism from both conservative and liberal groups that argue the language is overly broad and would infringe on First Amendment rights. The American Civil Liberties Union urged members to vote against the bill. Democrats have also used the legislation to make clear that they believe that cleanup must start with the White House, and included several provisions jabbing at the president and homing in on a laundry list of his administration’s alleged ethical abuses. It would require presidents and vice presidents, as well as candidates for the nation’s highest offices, to release at least 10 years of federal tax returns — Mr. Trump has released none — and it stipulates that inaugural committees must disclose their expenditures. And an amendment sponsored by Representative Raul Ruiz of California would prohibit federal funds from being spent at businesses owned or controlled by the president, the vice president or any cabinet official. Federal agencies spent about $13 million on four of Mr. Trump’s trips to his Mar-a-Lago resort in Florida in early 2017, according to a report by a nonpartisan congressional watchdog agency issued last month. Two other measures also zero in on the costs of administration officials’ travel. One provision would require the Defense Department to regularly report to Congress details of the costs of presidential travel; the other would prohibit political appointees from using federal funds to pay for travel on noncommercial or private flights for official business. “We must hold our government leaders to the highest standards, and with so many high-profile ethics violations in the past years, it is clear we have failed to do that,” Representative Tom O’Halleran, Democrat of Arizona and the sponsor of the amendments, said in a statement. Democrats also successfully put down an attempt by Republicans to divide the caucus and tar the legislation with a resolution expressing the sense that “allowing illegal immigrants the right to vote devalues the franchise and diminishes the voting power of United States citizens.” Republicans have repeatedly ambushed Democrats — twice successfully — with politically freighted procedural motions in a drive to divide Democrats and draw out vulnerable swing-district members. But determined not to let that taint their signature legislation and fired up by a rousing speech from freshman Representative Max Rose of New York, Democrats held steady.
+
+For this target article, the author's moral framing heavily relies on the following Moral Foundation dimensions: Authority/Subversion, Fairness/Cheating.
+Please pay special attention to preserving the moral framing related to these specific dimensions (Authority/Subversion, Fairness/Cheating) in your summary.
+
+The summary has to be returned after a "SUMMARY:" token and ending with a "END OF SUMMARY." token. The summary should be no longer than 200 words.

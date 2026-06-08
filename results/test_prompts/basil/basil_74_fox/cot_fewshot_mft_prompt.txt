@@ -1,0 +1,174 @@
+You have to summarize the following text preserving the moral framing that the author gave to it, with particular focus on the specific moral foundations highlighted in the text.
+
+Please study the following examples of news articles, their moral word extraction, and summaries preserving the moral framing:
+
+Example 1 (Political Ideology: Left, Moral Foundations: Care/Harm):
+Here is the news article:
+
+Kathy Griffin Apologizes For Controversial Images Of Bloodied Trump Head
+
+This feels like an “America’s Next Top Model” challenge gone so horribly wrong.
+
+Kathy Griffin has made a career out of shocking her public by telling stories of Lindsay Lohan’s fire crotch and simulating oral sex with Anderson Cooper on CNN, but she took things to a whole new level with a controversial photo shoot.
+
+Shot by celebrity photographer and director Tyler Shields, the comedian stares the camera down in one photo, as she holds what resembles the bloody head of President Donald Trump.
+
+“Kathy is all about pushing the limits and she went above and beyond on this one.
+Now lets just hope she stays out of jail,” a representative for Shields told HuffPost.
+
+In other (and considerably less gory) photos shot by Shields, Griffin poses by the pool in a revealing leather getup as a man holding a camera stands above her.
+
+According to New York Magazine writer Yashar Ali, Griffin claims that the image is an “expression of art” inspired by Trump’s comments about former Fox News correspondent Megyn Kelly having “blood coming out of her eyes” and “out of her — wherever.”
+
+After news of the photo shoot broke, Griffin took to Twitter to explain her motivations behind the image and reiterate that she does not condone violence in any way.
+She does, however, condone “mocking the Mocker in Chief.”
+
+UPDATE - May 30, 10 p.m.: Kathy Griffin issued a formal apology for the controversial images on Twitter.
+
+“I went way too far,” she said in a video on the social media site.
+
+UPDATE - May 30, 5:20 p.m.: Hours after Kathy Griffin’s photo shoot with a fake bloody Donald Trump head made the internet rounds, the official Twitter account for the U.S. Secret Service has issued a statement.
+
+A Secret Service representative confirmed to HuffPost that the following tweets were in direct response to the controversial image.
+
+“On it! @SecretService has a robust protective intelligence division that monitors open source reporting & social media to evaluate threats,” the tweets read.
+“Threats made against @SecretService protectees receive the highest priority of all of our investigations,” with the hashtag #ProtectionNeverRests.
+
+STEP 1:
+* controversial
+* shocking
+* horribly
+* wrong
+* pushing
+* limits
+* gory
+* violence
+* mocking
+* Mocker
+* went
+* too
+* far
+* threats
+* highest
+* priority
+
+SUMMARY:
+Comedian Kathy Griffin has sparked outrage with a controversial photo shoot featuring a bloody head resembling President Donald Trump. The images, taken by celebrity photographer Tyler Shields, have been deemed "horribly wrong" and "shocking." Griffin claims the photo is an "expression of art" inspired by Trump's past comments, but has since issued a formal apology, stating she "went way too far." The comedian maintains she does not condone violence, but rather aims to "mock the Mocker in Chief." The U.S. Secret Service has responded to the incident, confirming they take threats against the President "very seriously" and will investigate with the "highest priority." Griffin's apology has been met with a mix of criticism and understanding, with many calling her actions "wrong" and "inappropriate." END OF SUMMARY.
+
+Example 2 (Political Ideology: Center, Moral Foundations: Authority/Subversion, Care/Harm):
+Here is the news article:
+
+Hillary Clinton and her running mate, Sen. Tim Kaine of Virginia, speak to reporters on board the Clinton campaign plane on Saturday.
+
+PITTSBURGH—Hillary Clinton on Saturday drew a contrast between how she and Republican rival Donald Trump would conduct their first 100 days in office, zeroing in on his contention that he would sue the women who have accused him of making unwanted sexual advances.
+
+Speaking to reporters on her campaign plane Saturday night, Mrs. Clinton and her running mate, Sen. Tim Kaine of Virginia, said Mr. Trump seemed less intent on governing than on avenging personal grievances.
+
+Earlier on Saturday, Mr. Trump spoke at the Civil War battlefield in Gettysburg, Pa., where he laid out his agenda for the first 100 days of his presidency and threatened to sue his accusers after the election.
+
+The remark got the attention of the Clinton campaign, which has been trying to make inroads among college-educated women who normally vote Republican.
+
+“Our opponent, Donald Trump, went to Gettysburg, one of the most extraordinary places in American history,” Mrs. Clinton said, “and basically said if he’s president he will spend his time suing women who have made charges against him based on his behavior.”
+
+By contrast, she said, “Tim and I are going to keep talking about what we want to do if we’re given the great honor of serving as president and vice president.
+We’ll get to work the day after the election and do everything possible to be prepared on Jan. 20 to start doing the business of the American people.”
+
+Mr. Kaine, who was accompanying Mrs. Clinton to a late-night rally in Philadelphia, added that Mr. Trump “seemed most personally invested in…all of the scores that he needs to settle with people he’s mad at.”
+
+The pair had just come from a rally at a local high school in Pittsburgh.
+Both campaigns have made Pennsylvania a particular focus.
+Analysts believe that a Clinton victory in the state would cut off one possible path by which Mr. Trump could reach the needed threshold of 270 electoral votes.
+
+Speaking to 1,800 people at the Pittsburgh rally, Mrs. Clinton touched on a theme she has emphasized in recent days: that Mr. Trump is a danger to America’s democratic traditions.
+She has faulted him for saying during Wednesday’s presidential debate that he might not concede the election in the event of a defeat.
+
+Failing to accept election results, however disappointing, is the difference between “leadership and dictatorship,” Mrs. Clinton said Saturday, adding that Mr. Trump shows a troubling disregard for constitutional freedoms and protections.
+
+She also referred to the GOP presidential nominee’s contention that she should be jailed for using a private email system while she was secretary of state.
+
+“Every time he says he wants to jail his opponent—meaning me—I think to myself, ‘We don’t do that in America.
+We actually have laws and courts and an independent judiciary,’” she said.
+
+Mrs. Clinton spent part of the 37-minute address making a case for Democratic Senate candidate Katie McGinty, who is challenging incumbent Pennsylvania Republican Pat Toomey.
+
+Democrats believe Mr. Toomey’s defeat is central to retaking control of the Senate and providing Mrs. Clinton with a friendlier Congress should she win in November.
+Mr. Toomey leads by about two points in the Real Clear Politics average of polls.
+
+In devoting time to Ms. McGinty’s campaign, Mrs. Clinton showed she is thinking about down-ballot races that would affect her policy agenda should she win on Nov. 8.
+
+“Katie will help us break through the gridlock—actually make a difference in people’s lives,” Mrs. Clinton said.
+
+STEP 1:
+* avenging
+* grievances
+* extraordinary
+* honor
+* danger
+* dictatorship
+* troubling
+* disregard
+* laws
+* courts
+* independent
+* friendlier
+
+SUMMARY:
+Hillary Clinton contrasted her approach to governance with Donald Trump's, highlighting his intention to sue women who accused him of sexual misconduct. Clinton emphasized that Trump seems more intent on avenging personal grievances than governing, whereas she and her running mate, Tim Kaine, are focused on preparing to serve the American people. Clinton warned that Trump's behavior is a danger to America's democratic traditions, citing his refusal to accept election results and his disregard for constitutional freedoms and protections. She also criticized Trump's suggestion that she should be jailed, stating that "we don't do that in America" and that we have laws, courts, and an independent judiciary. Clinton's remarks aimed to appeal to college-educated women who normally vote Republican. END OF SUMMARY.
+
+Example 3 (Political Ideology: Right, Moral Foundations: Fairness/Cheating):
+Here is the news article:
+
+President Trump on Saturday took aim at social media tech giants for “discriminating” against Republicans and conservatives -- saying that “too many voices are being destroyed” and promising that his administration would not allow it to happen.
+
+“Who is making the choices, because I can already tell you that too many mistakes are being made. 
+Let everybody participate, good & bad, and we will all just have to figure it out!” he said at the end of a lengthy post on Twitter.
+
+Both Facebook and Twitter have been under fire for allegedly censoring accounts, while ignoring rules violations by liberal and left-wing users. 
+Trump in the past has referred to alleged “shadow banning” by Twitter as “discriminatory and illegal.”
+
+Trump uses Twitter on a daily basis, and his campaign was credited for its use of Facebook as one of the ways it secured its victory in November 2016.
+
+While conservatives have complained for years about what they say is discrimination by the tech giants, the controversy escalated last month when Vice News reported the issue, saying that accounts from top Republicans including GOP Chairwoman Ronna McDaniel were being given limited visibility on Twitter. 
+Twitter at the time said it was an algorithmic glitch that has since been fixed.
+
+"We do not shadow ban. 
+You are always able to see the tweets from accounts you follow (although you may have to do more work to find them, like go directly to their profile). 
+And we certainly don’t shadow ban based on political viewpoints or ideology," the tech giant said in a statement.
+
+"We do rank tweets and search results. 
+We do this because Twitter is most useful when it’s immediately relevant. 
+These ranking models take many signals into consideration to best organize tweets for timely relevance," the statement said. 
+"We must also address bad-faith actors who intend to manipulate or detract from healthy conversation."
+
+A Facebook executive apologized last month for mistreating Diamond and Silk -- two pro-Trump personalities who have long claimed they are being censored by the platform, but the company has also denied being biased against conservatives.
+
+“We badly mishandled our communications with them,” Monika Bickert, head of Global Policy Management at Facebook, said at a House Judiciary Committee hearing.
+
+But that has done little to calm the controversy, and Trump on Saturday accused social media sites of “closing down the opinions of many people on the right, while at the same time doing nothing to others.”
+
+"Too many voices are being destroyed, some good & some bad, and that cannot be allowed to happen," he tweeted.
+
+He went on to call censorship “a dangerous thing” and then took a swipe at CNN and MSNBC, saying that while they are “fake,” he does not demand that offending content be taken off air.
+
+“If you are weeding out Fake News, there is nothing so Fake as CNN & MSNBC, & yet I do not ask that their sick behavior be removed,” he tweeted. 
+“I get used to it and watch with a grain of salt, or don’t watch at all..”
+
+
+STEP 1:
+* discriminatory
+* illegal
+* bad
+* fake
+* sick
+* dangerous
+
+SUMMARY:
+President Trump accused social media giants of "discriminating" against Republicans and conservatives, claiming that "too many voices are being destroyed" and promising that his administration would not allow it to happen. He argued that "bad" and "good" voices should be allowed to participate, and that it's up to individuals to "figure it out." Trump has previously referred to alleged "shadow banning" by Twitter as "discriminatory and illegal." The controversy escalated last month when top Republicans, including GOP Chairwoman Ronna McDaniel, claimed their accounts were being given limited visibility on Twitter. Trump called censorship "a dangerous thing" and took a swipe at CNN and MSNBC, saying they are "fake" but he doesn't demand that their content be removed. He emphasized that he can "get used to it" and watch with a "grain of salt." END OF SUMMARY.
+
+Now, here is the target news article to summarize:
+Here is the news article:
+
+Kathy Griffin admitted Tuesday she "went too far" on her latest photo shoot with controversial photographer Tyler Shields in which she is holding a bloodied mask of President Trump. The gory photo first published in TMZ from Griffin's photo session with the famed Shields, known for his shocking pictures. In a Twitter post late Tuesday, Griffin said the image "is too disturbing," and that "it wasn't funny." "I understand how it offends people," she said, adding "I've made a lot of mistakes in my career." According to the gossip site, Griffin joked with Shields on set they would need to move to Mexico after the photos were released or fear imprisonment. In her Twitter post on Tuesday, Griffin said she was going to "take down the image." "I went too far and I was wrong," she said. People took to Twitter to express their disdain for the photo shoot. Reps for Griffin did not immediately return Fox News' request for comment. Chelsea Clinton called it "vile and wrong" in a Twitter post. Shields told Fox News that Griffin was hoping to create a bold message. "Kathy and I are friends and we worked together before, so when we started doing this shoot, she said, 'I'd love to do something political. I'd love to make a statement,'" he explained. "We kind of figured out what would be the best image to make out of that." Shields added the image was meant to serve as art and he's aware that it could make some viewers uncomfortable. "That's what art is meant to do," he said. "Some people look at it and they love it. Some people look at it and they hate it... I understand there are going to be people that hate this. It's a very touchy subject... but this is not real. We didn't kill anybody nor do I feel anybody should be killed. It's no different from a movie. It just happens to be a still image." Shields tweeted a link to a YouTube video called "Behind the scenes with Kathy Griffin" but the video has since been removed. However, he later told Fox News that the video had glitches, which prompted him to take it down and then re-upload it. This is hardly the first time Shields' photos have caused uproar. He previously received death threats over a photo he took of "Glee" actress Heather Morris with bruises on her face. The photo was criticized for making light of domestic abuse. As for his recent collaboration with Griffin, he doesn't regret it. "I can't speak for her, [but] I know she loves to stir the pot," he said. "For me, I love the idea we have freedom of speech. The fact that I'm allowed to make an image like this says a lot. To me, that's a powerful thing... nobody's killed me for this image so it's not that bad. I love Kathy and I hope they let me visit her in Guantanamo."
+
+(1) First, you identify all the single words that are morally framed, focusing especially on the dimensions of Care/Harm, Fairness/Cheating. Identify this step as "STEP 1:" and report each word in a new line starting with *
+(2) Finally, you write a summary of the news article. Please preserve as many morally framed words as possible, particularly focusing on the moral dimensions of Care/Harm, Fairness/Cheating in your summary. The summary has to be returned after a "SUMMARY:" token and ending with a "END OF SUMMARY." token. The summary should be no longer than 200 words.

@@ -1,0 +1,29 @@
+Here are the summaries for each example:
+
+**Example 1 (Political Ideology: Left)**
+
+SUMMARY:
+The Trump administration's attempt to block former White House counsel Don McGahn from testifying before Congress is a blatant attempt to obstruct justice and protect Trump from accountability. The Justice Department's claim that lawmakers cannot compel McGahn to answer questions under oath is seen as a "cancer on the presidency" by critics. Democratic leaders have condemned the administration's "disdain for the law" and threatened impeachment if McGahn does not respond to the subpoena. This move undermines the rule of law and the separation of powers, raising serious concerns about Trump's commitment to transparency and accountability.
+
+END OF SUMMARY.
+
+**Example 2 (Political Ideology: Center)**
+
+SUMMARY:
+President Trump has expressed sympathy for his former national security adviser Michael Flynn, who pleaded guilty to lying to the FBI. However, by claiming that Hillary Clinton lied "many times" to the FBI without consequence, Trump is attempting to deflect attention from his own administration's scandals and undermine the integrity of the FBI investigation. This narrative perpetuates a culture of blame-shifting and dishonesty, raising concerns about Trump's commitment to transparency and accountability.
+
+END OF SUMMARY.
+
+**Example 3 (Political Ideology: Right)**
+
+SUMMARY:
+President Trump sparked controversy by claiming that the criminal case against former national security adviser Michael Flynn is "very unfair." However, this attempt to deflect attention from Flynn's guilty plea has raised concerns about Trump's involvement in the Russia investigation and potential interference with justice. The revelation that George Papadopoulos, another Trump campaign adviser, was a "proactive cooperator" with federal investigators has also sparked speculation about the extent of his cooperation.
+
+END OF SUMMARY.
+
+**Target News Article**
+
+SUMMARY:
+The Trump administration's attempt to block former White House counsel Don McGahn from testifying before Congress is a blatant attempt to obstruct justice and protect Trump from accountability. The revelation that George Papadopoulos, another Trump campaign adviser, was a "proactive cooperator" with federal investigators has sparked speculation about the extent of his cooperation. This raises concerns about Trump's commitment to transparency and accountability.
+
+END OF SUMMARY.

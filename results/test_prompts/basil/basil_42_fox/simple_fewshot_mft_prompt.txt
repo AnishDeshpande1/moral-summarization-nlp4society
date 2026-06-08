@@ -1,0 +1,179 @@
+You have to summarize the following text preserving the moral framing that the author gave to it, with particular focus on the specific moral foundations highlighted in the text.
+
+Please study the following examples of news articles and their summaries preserving the moral framing:
+
+Example 1 (Political Ideology: Left, Moral Foundations: Care/Harm):
+Here is the news article:
+
+Rep. Bruce Braley (D-Iowa), who is running to succeed retiring Sen. Tom Harkin (D-Iowa), faced tough local coverage Tuesday after critical comments he made about Sen. Chuck Grassley (R-Iowa) were made public.
+
+At a January fundraiser in Texas, Braley urged the attorneys present to contribute to his campaign and contrasted his background with Grassley's.
+
+"If you help me win this race, you may have someone with your background, your experience, your voice ... on the Senate Judiciary Committee," Braley said.
+"Or you might have a farmer from Iowa who never went to law school, never practiced law, serving as the next chair of the Senate Judiciary Committee," he continued, referring to Grassley.
+
+Braley's remarks were released Tuesday by America Rising, a conservative political action committee which conducts opposition research on Democrats.
+
+One of the Republican primary field's leading candidates, businessman Mark Jacobs, immediately released a radio ad in an attempt to capitalize on the negative attention focused on Braley.
+
+Both the Des Moines Register and the Quad-City Times featured the backlash over Braley’s comments on their front pages.
+
+Braley apologized to Grassley in person on Tuesday after state Republican Party leaders and a number of Braley's potential Republican general election opponents condemned his remarks.
+
+The representative also posted a statement Tuesday in which he apologized and emphasized that he has farmers in his family.
+
+“I apologize to Sen. Grassley and anyone I may have offended,” Braley wrote.
+“My parents both grew up on Iowa farms during the Great Depression.
+It deeply influenced who they are and who I am, and gave me a profound appreciation for what farmers do for the world.”
+
+Grassley, who owns a farm, often notes in Senate Judiciary Committee hearings that he is the only non-lawyer on the panel, which oversees the judicial nominations process.
+
+Braley went to the University of Iowa's law school and worked as a lawyer in private practice before he was elected to the House of Representatives in 2006.
+His race is one of a handful across the country that will determine control of the Senate.
+
+SUMMARY:
+
+Democratic Rep. Bruce Braley, running for Senate in Iowa, faced backlash for his condescending comments about Republican Sen. Chuck Grassley's farming background. At a fundraiser, Braley implied that Grassley, a farmer, was unqualified to chair the Senate Judiciary Committee, suggesting that his own legal background made him more suitable. The comments were released by a conservative PAC and sparked widespread criticism from state Republican leaders and Braley's opponents. Braley apologized to Grassley in person and released a statement, highlighting his own family's farming roots and expressing appreciation for farmers. The incident highlights the importance of humility and respect for others' backgrounds and experiences. Braley's apology is a step in the right direction, but the incident serves as a reminder to approach political discourse with kindness and empathy.
+
+END OF SUMMARY.
+
+Example 2 (Political Ideology: Center, Moral Foundations: Fairness/Cheating):
+Here is the news article:
+
+Obama Team To Make Important, If Symbolic, Choice On Gay Marriage
+
+The Obama administration faces tricky political and legal questions on the subject of gay marriage.
+By the end of this month, the federal government is expected to file not just one but two briefs in a pair of same-sex marriage cases at the U.S. Supreme Court.
+
+But it is the Proposition 8 case from California that poses the thornier questions for the administration — questions so difficult that the president himself is expected to make the final decision on what arguments the Justice Department will make in the Supreme Court.
+
+Prop 8, as it is known, is the California ballot initiative banning same-sex marriage.
+It was narrowly approved by state voters in 2008.
+A federal district court struck down the law as unconstitutional discrimination in 2010.
+A federal appeals court later agreed, but on narrower grounds.
+Because there was a period of time in which same-sex couples could legally marry in California, the court said, it was unconstitutional for the state, through the ballot initiative, to take away a fundamental right it had previously granted.
+
+The state, under both Republican and Democratic governors, has declined to defend the measure in court.
+So its ban on gay marriage is being defended by the sponsors of the initiative.
+
+The Obama administration is not required to file any brief in the case because it does not directly involve federal law.
+But administration sources say the government will file a brief.
+Still unresolved is what the brief will say.
+And in this case, much more than most, there are numerous legal routes that the government can take.
+
+The ultimate question — the one perhaps most people want an answer to but may not get — is whether same-sex couples have a constitutional right to marry.
+A Supreme Court decision that says yes to that would invalidate laws in some 30 states.
+But there are many legal avenues short of such a far-reaching argument that would invalidate Proposition 8 in California and leave laws in other states intact.
+
+What makes this even dicier is that President Obama has changed his position, seemingly a lot, over the past eight months.
+In May, in an ABC interview, he for the first time endorsed same-sex marriage from a personal point of view, but he went on to say that the decision on legalizing gay marriage should be left to the states, where marriage matters are traditionally governed.
+
+"It is important for me to go ahead and affirm that I think same-sex couples should be able to get married.
+And I continue to believe that this is an issue that is going to be worked out at the local level, because historically this has not been a federal issue," he said.
+
+But eight months later at his inauguration, the president seemed to take a more expansive view.
+"Our journey is not complete until our gay brothers and sisters are treated like anyone else under the law.
+For if we are truly created equal, then surely the love we commit to one another must be equal as well," Obama said.
+
+That language suggests the president believes in a more basic constitutional right to marry, analogous to the right enunciated in a unanimous 1967 Supreme Court ruling that struck down laws barring interracial marriage.
+In that case, ironically, the federal government took no position in the Supreme Court.
+
+So what will Obama do now that he faces similar questions in a case about sexual orientation, not race?
+
+His administration could make a bold, full-throated defense of the right to marry, an argument that Obama seemed to suggest at his inaugural.
+Or it could argue a number of lesser positions: That California, having extended the right to marry to gay couples for a window of time, could not revoke the right.
+Or that California, like some other states, has a law extending all rights to same-sex couples, except the right to marry, and that such a distinction amounts to discrimination.
+Or it could argue that since the state is not defending the law, the case does not belong in court at all — that the sponsors of the initiative have no legal standing in court.
+
+For the gay community, and for those advocating traditional marriage between a man and a woman, the position the government takes in this case is hugely important — if nothing else, as a symbol.
+Both sides have made formal presentations at the Justice Department urging the administration to take their side.
+But the deadline has already passed for a brief siding with Proposition 8 supporters, leaving only the question of what a brief on the other side will say.
+
+Same-sex marriage advocates are holding their collective breath for now and maintaining a pretty studied public silence, hoping to avoid the impression that the gay community is pressuring the administration.
+
+Still, lawyers who argue regularly before the court are not so sure that the administration's brief, whatever it says, will make a big difference to the justices.
+
+"I'm never going to tell you that the solicitor general's position doesn't matter," says former Bush administration Solicitor General Paul Clement.
+But in this case, he says, "I think it matters less."
+
+Clement was hired by the House Republican leadership to defend the constitutionality of the Defense of Marriage Act, or DOMA, in a case that is paired with the Proposition 8 case in the Supreme Court.
+The reason he thinks the administration's brief in the Proposition 8 case matters less, he says, is "because we already know what their position is on DOMA and one can extrapolate."
+
+In the DOMA case, the Obama administration argues that the federal law is unconstitutional because it bars federal benefits to legally married same-sex couples — benefits that go automatically to legally married heterosexual couples.
+
+Supreme Court advocate Tom Goldstein, founder of SCOTUSblog, makes a different point — that sometimes Supreme Court briefs are aimed at more than one audience.
+He notes that in a truly historic case like this one, "I think part of what's going on ... is a statement about what is morally right and wrong.
+And so I think it could matter to Americans much more than it matters to the Supreme Court."
+
+SUMMARY:
+
+The Obama administration faces a crucial decision on gay marriage as it prepares to file two briefs in same-sex marriage cases at the U.S. Supreme Court. The Proposition 8 case from California poses thorny questions, with the president himself expected to make the final decision on the Justice Department's arguments. The administration could take a bold stance, arguing for a constitutional right to marry, or opt for lesser positions, such as arguing that California's revocation of same-sex marriage rights is unconstitutional. The decision is symbolic, with both sides of the debate urging the administration to take their side. While some lawyers believe the administration's brief may not significantly influence the justices, others argue that it could make a moral statement about what is right and wrong. The president's evolving stance on gay marriage, from supporting state-level decisions to suggesting a more basic constitutional right, adds complexity to the issue.
+
+END OF SUMMARY.
+
+Example 3 (Political Ideology: Right, Moral Foundations: Authority/Subversion, Loyalty/Betrayal):
+Here is the news article:
+
+Outgoing White House economic adviser Larry Summers warned Wednesday that failure to pass a new tax cut compromise would significantly raise the risk of a double-dip recession.
+
+"To pass this bill in the next couple of weeks would materially increase the risk that the economy would stall out and we would have a double dip," he told reporters at the White House.
+
+Summers added that he thinks Congress will pass the deal President Obama struck with Republicans, an agreement that has come under withering criticism from liberal Democrats over the two-year extension of tax cuts for the rich as well as the middle class.
+
+Summers said that he doesn't think that Congress would take a step that "materially increases the risk that this economy will stall out."
+
+Positive reviews coming in from economists, Summers said, show the deal is the right thing to do.
+
+Sen. Jon Kyl, the No. 2 Republican in the Senate, told reporters that a tax cut bill could be on the Senate floor as early as Thursday.
+
+But, in a surprise move, Senate Democrats, meeting behind closed doors to discuss the tax deal, have asked the administration for "changes" to the bill, according to Sen Dick Durbin, D-Ill., the No. 2 Democrat in the chamber.
+Durbin would not detail what those changes are, deferring to Senate Majority Leader Harry Reid, D-Nev.
+
+Kyl said an official analysis and price tag, referred to as a "score," from the Joint Committee on Taxation (JCT) are not yet ready, but that the Senate could move to the bill anyway.
+
+Vice President Biden traveled to the Capitol Wednesday for a private meeting with House Democrats who are resisting the deal, saying it gives away too much to the wealthy.
+
+Some Democrats are unhappy that Obama agreed to extend expiring tax cuts not just for the middle class but also for higher earners, and that he agreed to impose a lower estate tax on wealthy heirs.
+Both provisions are seen by many Democrats as giveaways to the rich that will do little to help the economy.
+
+In return, Democrats would get extended jobless benefits for people who have been unemployed for long stretches.
+Workers would also see their share of Social Security payroll taxes cut by nearly a third for the coming year, a boost in take-home pay meant to encourage spending and aid the economy.
+
+Liberals are going as far as trying to prevent outgoing House Speaker Nancy Pelosi from bringing the tax cut compromise to the floor.
+
+Reps. Peter DeFazio of Oregon, and Jim McDermott and Jay Inslee of Washington state are crafting a letter to share with the House Democratic Caucus that would try to block the bill from seeing the light of day.
+They're hoping to get 60 signatures on their letter and then force a vote in the caucus.
+
+"There does not seem to be a majority of the Democrats who support the deal negotiated by Vice President Biden," he told Fox News.
+"So we want to have a record vote in the caucus on a resolution that says this resolution should not go to the floor without a majority of Democratic votes."
+
+DeFazio said House Democrats aren't going to keep rubber-stamping deals they don't like.
+
+"All through this administration, the White House has been a spear carrier for the president," he said.
+"They sent something over, the speaker has jammed it through and then Obama has negotiated with the Senate.
+And they're trying to get us to jam it through again.
+And a number of us are just saying that's enough."
+
+Obama rejected claims that he betrayed Democrats by cutting a deal with Republicans.
+Speaking to reporters at a joint appearance with Polish President Bronislaw Komorowski, Obama said economists predict higher job growth in 2011 and 2012 if Congress passes the agreement and urged lawmakers to examine the details of the deal and "get this done."
+
+But House Democrats are not listening.
+
+"So far, the response has not been very good," Pelosi said.
+She called the estate tax provision "a bridge too far."
+
+SUMMARY:
+
+Outgoing White House economic adviser Larry Summers warned that failure to pass the new tax cut compromise would significantly raise the risk of a double-dip recession. Despite criticism from liberal Democrats, Summers believes Congress will pass the deal, which extends tax cuts for the rich and middle class. Senate Democrats, however, are seeking changes to the bill, and House Democrats are resisting the deal, saying it gives away too much to the wealthy. Vice President Biden met with House Democrats to try to sway them, but many are unhappy with the provisions, including the extension of expiring tax cuts for higher earners and the lower estate tax on wealthy heirs. Liberals are even trying to prevent the bill from coming to the floor. The deal's supporters argue it will boost the economy, but critics see it as a giveaway to the rich. The moral framing of this issue is clear: is it right to prioritize the wealthy over the needs of the economy and the unemployed?
+
+END OF SUMMARY.
+
+Now, here is the target news article to summarize:
+Here is the news article:
+
+Prominent Republicans are calling for Ariz. Gov. Jan Brewer to veto a controversial bill that would allow businesses to deny service over religious beliefs. The Republican governor returned home Tuesday afternoon to a political climate that is much different from just a week ago when she left for Washington the last five days for a governor's conference. The Arizona Legislature passed a bill last week allowing businesses whose owners cite sincerely held religious beliefs to deny service to gays. It allows any business, church or person to cite the law as a defense in any action brought by the government or individual claiming discrimination. The legislation has caused a national uproar. The chorus of opposition has grown each day, with the business community, the state's Super Bowl Committee and both Republican U.S. senators calling for a veto. Former GOP presidential nominee Mitt Romney was the latest prominent voice to weigh in and urge Brewer to veto the bill. Brewer will likely spend the next day or more pondering Senate Bill 1062 before deciding whether to sign or veto the legislation. There is widespread speculation that Brewer will veto the bill, but she has not said how she'll act, as is her longtime practice with pending legislation. Political observers in Arizona cautioned that the governor is deliberate and not prone to act hastily, despite the growing calls from business, politicians of all stripes, and civil rights groups for a veto. "She's no rookie to these high-profile deals — she gives both sides their due," said Doug Cole, a political consultant whose firm has run all of Brewer's campaigns for decades. "She's going to get a very detailed briefing from her legal team, and give the proponents their best shot, and the opponents their best shot," he said. "Everybody's going to get their say, and they've giving it." Some Republican senators who pushed the bill through the Legislature are now calling for a veto as well, but they cite "inaccurate" information about the measure for igniting a firestorm. They argue the bill is designed only to protect business owners with strong religious beliefs from discrimination lawsuits that have happened in other states. Some blame the media for blowing the law out of proportion. Democrats say that argument doesn't wash and call SB1062 "toxic" legislation that allows discrimination. They said they warned Republicans who voted for the bill that it was destined for trouble. "We brought this to their attention five weeks ago," said Sen. Steve Gallardo, D-Phoenix. "We said this is exactly what is going to happen. You have a bill here that's so toxic it's going to divide this Legislature. It's going to be polarizing the entire state. And that's exactly what happened." The bill was pushed by the Center for Arizona Policy, a social conservative group that opposes abortion and gay marriage. The group says the proposal simply clarifies existing state law and is needed to protect against increasingly activist federal courts. The center's president, Cathi Herrod, has been deriding what she called "fear-mongering" from the measure's opponents. "What's happened is our opponents have employed a new political tactic, and it's working," she said. "Throw out the threat of a boycott to attempt to defeat a bill, and you might just be able to be successful. Herrod added she was surprised and disappointed that "in America today, false attacks and irresponsible characterizations about a piece of legislation can so intimidate and persuade people to change their opinion about religious liberty."
+
+For this target article, the author's moral framing heavily relies on the following Moral Foundation dimensions: Authority/Subversion, Fairness/Cheating.
+Please pay special attention to preserving the moral framing related to these specific dimensions (Authority/Subversion, Fairness/Cheating) in your summary.
+
+The summary has to be returned after a "SUMMARY:" token and ending with a "END OF SUMMARY." token. The summary should be no longer than 200 words.

@@ -1,0 +1,231 @@
+You have to summarize the following text preserving the moral framing that the author gave to it.
+
+Please study the following examples of news articles, their moral word extraction, and summaries preserving the moral framing:
+
+Example 1 (Political Ideology: Left):
+Here is the news article:
+
+(CNN) Alabama Republican Senate candidate Roy Moore says he will sue the Washington Post over its report alleging he pursued sexual relationships with teenagers -- including a 14-year-old -- when he was in his 30s.
+
+"The Washington Post published another attack on my character and reputation because they are desperate to stop my political campaign.
+These attacks said I was with a minor child and are false and untrue -- and for which they will be sued," Moore said Sunday night during a campaign speech in Huntsville, Alabama.
+
+The Washington Post declined to comment Monday morning.
+
+It's not uncommon for public figures to threaten legal action against news organizations but ultimately fail to follow through.
+President Donald Trump threatened to sue The New York Times last year after it published the accounts of two women who claimed Trump touched them inappropriately.
+His lawyers never filed a lawsuit.
+
+More recently, disgraced Hollywood mogul Harvey Weinstein initially threatened to sue the Times after it first reported allegations of sexual misconduct against him, but that suit never materialized
+
+The Washington Post report Thursday was based on interviews with more than 30 people.
+As well as the allegations that Moore had sexual contact with the then 14-year-old when he was aged 32, three other women also told The Post that Moore pursued them when they were between the ages of 16 and 18.
+
+The woman who was 14 years old at the time claimed he took her to his house, undressed down to his underwear and undressed her down to her bra and underwear and touched her and moved her hand to touch his underwear, which could have been sexual offenses due to her age, but the statutes of limitations in effect during that time have passed.
+
+None of the other three women told the Post that Moore sexually harassed, or assaulted them, or forced them into a relationship.
+Alabama's legal age of consent is 16.
+
+Moore has denied the allegations since they were published.
+He called the claims " completely false " Friday when appearing on Sean Hannity's syndicated radio show.
+
+Speaking at a Veterans Day event at the Mid-Alabama Republican Club in Birmingham Saturday, Moore called the allegations "fake news" and "yet another attack on my character and reputation in a desperate attempt to stop my political campaign for the United States Senate."
+
+He added that the alleged incidents happened nearly 40 years ago and called them "very hurtful to me personally -- I have the highest regard for the protection of young children," before adding that he has never provided alcohol to a minor and has "not been guilty of sexual misconduct with anyone."
+
+Moore added that there were ongoing "investigations" looking into the motivations behind the Post article, and promised "revelations" about the story to come in the next few days, though he did not provide further specifics.
+
+A number of Republicans withdrew their endorsements of Moore following the Washington Post article, including the National Republican Senatorial Committee, which severed a joint fundraising agreement that benefits Moore's campaign.
+
+STEP 1:
+* false
+* untrue
+* desperate
+* attack
+* character
+* reputation
+* fake
+* hurtful
+* highest
+* guilty
+* misconduct
+
+SUMMARY:
+Alabama Republican Senate candidate Roy Moore has denied allegations of pursuing sexual relationships with teenagers, including a 14-year-old, when he was in his 30s, calling the claims "completely false" and "fake news". Moore accused The Washington Post of launching a "desperate" attack on his character and reputation to stop his political campaign. The Post's report, based on interviews with over 30 people, alleged that Moore had sexual contact with the 14-year-old and pursued three other women between the ages of 16 and 18. Moore has threatened to sue The Washington Post over the report, which he claims is "hurtful" to him personally. He emphasized his "highest regard for the protection of young children" and denied any "sexual misconduct" with anyone. Several Republicans have withdrawn their endorsements of Moore following the report. END OF SUMMARY.
+
+Example 2 (Political Ideology: Center):
+Here is the news article:
+
+SANTA FE, Texas (Reuters) - A teenage boy charged with fatally shooting eight students and two teachers during a gun rampage at a Houston-area high school had been spurned by one of his victims after making aggressive advances, her mother told a newspaper.
+
+Sadie Rodriguez, the mother of Shana Fisher, 16, who was killed in the attack, told the Los Angeles Times that her daughter rejected four months of aggressive advances from Dimitrios Pagourtzis, 17, who is in jail accused of murdering 10 people early on Friday at the high school in Santa Fe.
+
+Fisher finally stood up to him and embarrassed him in class, the newspaper quoted her mother as writing in a private message to the Times.
+
+“A week later he opens fire on everyone he didn’t like,” she said.
+“Shana being the first one.”
+
+Rodriguez could not independently be reached for comment.
+
+If true, it would be the second school shooting in recent months driven by such rejection.
+
+Related Coverage Grief and anguish transcend two faiths' prayers after Texas school shooting
+
+In March, a 17-year-old Maryland high school student used his father’s gun to fatally shoot a female student with whom he had been in a recently ended relationship.
+
+Police said Pagourtzis confessed to Friday’s killings after he was taken into custody, but authorities have offered no motive yet for the massacre, the fourth-deadliest mass shooting at a U.S. public school in modern history.
+
+The Santa Fe Independent School District (ISD) denied accounts from some classmates that Pagourtzis had been bullied, including by a football coach.
+
+“Administration looked into these claims and confirmed that these reports are untrue,” it said on Saturday in a statement.
+
+Classmates at the school, which has some 1,460 students, described Pagourtzis as a quiet loner who played on the football team.
+He wore a black trench coat to school in the Texas heat on Friday and opened fire with a pistol and shotgun.
+
+‘THE AFTERMATH’
+
+In Santa Fe on Sunday, many churches and businesses had signs outside with messages such as “Santa Fe strong” and “Santa Fe ISD we are here for you.”
+
+Mourners hold candles during a vigil in memory of the victims killed in a shooting at Santa Fe High School in League City, Texas, U.S., May 20, 2018.
+
+About 100 people attended an emotional service at the Aldersgate United Methodist Church.
+Service dogs were in a nearby hall to help console grieving victims.
+
+Jared Black, one of the students killed, attended a youth group at the church, and many of its members embraced his mother Pam when the family arrived.
+
+At a mosque in another Houston suburb, mourners crowded around the coffin of 17-year-old Sabika Sheikh, a Pakistani exchange student who died in the rampage.
+
+It was the latest rampage to stoke a long-running national debate over gun ownership, three months after a student-led gun control movement emerged from a mass shooting in Parkland, Florida, which killed 17 teens and educators.
+
+Many of those student activists have taken aim at the pro-gun National Rifle Association.
+
+Speaking on “Fox News Sunday,” NRA President Oliver North said students should not be afraid to attend class, but that his gun-rights advocacy group did not think the solution was to limit the Second Amendment right to bear arms.
+
+“I believe that we can make sure kids are protected without taking away the rights of law-abiding citizens,” North said, calling for metal detectors in schools and more use of the NRA’s offer to schools of free security assessments.
+
+Pagourtzis has provided authorities little information about the shootings, his attorney, Nicholas Poehl, said, adding: “Honestly because of his emotional state, I don’t have a lot on that.”
+
+Texas’ governor, Greg Abbott, a Republican, told reporters that Pagourtzis obtained the firearms from his father, who had likely acquired them legally.
+
+Abbott also said Pagourtzis wanted to commit suicide, citing the suspect’s journals, but lacked the courage to do so.
+
+Pagourtzis’ family said in a statement it was “saddened and dismayed” by the shooting and “as shocked as anyone else” by the events.
+The family said it was cooperating with authorities.
+
+STEP 1:
+* aggressive
+* spurned
+* embarrassed
+* rejected
+* anguish
+* grief
+* bullied
+* untrue
+* strong
+* emotional
+* dismayed
+* shocked
+* courage
+
+SUMMARY:
+A teenage boy, Dimitrios Pagourtzis, 17, has been charged with fatally shooting eight students and two teachers at a Houston-area high school. According to the mother of one of the victims, Shana Fisher, 16, Pagourtzis had made aggressive advances towards her daughter, who rejected him and embarrassed him in class. A week later, he opened fire on everyone he didn't like, with Shana being the first one. The school district denied claims that Pagourtzis was bullied, calling them untrue. The community is now grieving and in anguish, with many churches and businesses showing support with messages like "Santa Fe strong". The shooting has reignited the national debate over gun ownership, with some calling for stricter laws and others, like the NRA, advocating for more security measures in schools. Pagourtzis' family is cooperating with authorities and has expressed dismay and shock over the events. END OF SUMMARY.
+
+Example 3 (Political Ideology: Right):
+Here is the news article:
+
+President Obama has been caught in a web of deception that threatens to ensnarl his re-election bid.
+Multiple emails and diplomatic cables reveal that the administration deliberately deceived the public.
+Libyagate haunts Mr. Obama, relentlessly eroding his credibility and trustworthiness.
+It is a stake aimed at the heart of his presidency.
+
+For nearly two weeks, the Obama team claimed the attack on the U.S. compound in Benghazi resulted from “spontaneous protests” in response to an anti-Muslim video.
+That was false — and Mr. Obama knew it.
+Several senior State Department officials testified at congressional hearings that there were no protests on Sept. 11, 2012.
+In fact, our diplomatic mission had been quiet all day.
+Moreover, the State Department was monitoring the compound practically in real time.
+On video, State Department officials witnessed scores of armed men breach the consulate and begin shooting at our diplomats.
+The officials’ obvious conclusion: It was a terrorist assault.
+Within 24 hours, the CIA’s station chief in Libya also reported jihadists had perpetrated the attack.
+
+The latest evidence, however, is a bombshell: Two hours after the assault began, the State Department sent an email to numerous agencies — including the White House Situation Room — that Ansar al-Sharia, a terrorist group affiliated with al Qaeda, had claimed responsibility.
+The email went directly to the White House’s Executive Office — the president’s inner circle.
+In other words, from nearly the beginning, Mr. Obama knew the Benghazi attack was a terrorist atrocity.
+Yet he insisted on blaming a phantom protest and an obscure YouTube video.
+He misled the public in a desperate attempt to cover up his administration’s colossal failure.
+
+Why?
+The answer is cynical politics.
+One of Mr. Obama’s central campaign narratives is that he killed Osama bin Laden and badly degraded al Qaeda.
+The Benghazi attack, however, directly contradicts the administration’s position.
+Rather than being in retreat, al Qaeda is on the rise.
+Pakistan, Afghanistan, Yemen, Somalia, Mali, Iraq and Libya — the Islamic fascist network has been expanding its safe havens and jihadist activity in every one of these nations.
+
+In particular, Libya has been transformed into a failed Islamist state.
+Contrary to media spin, Mr. Obama’s military intervention in Libya has been a disaster.
+Jihadists roam the countryside, targeting minorities and seeking to impose Shariah law.
+More than 20,000 weapons formerly controlled by late strongman Moammar Gadhafi were stolen by al Qaeda militants.
+The country’s eastern provinces are nearly in open revolt, fueled by a Muslim insurgency.
+In fact, the Benghazi attack occurred for one primary reason: Mr. Obama’s war has made Libya safe for radical Islam.
+Hence, the president feared that the truth about his Libyan intervention would come out.
+The result is that Ambassador J. Christopher Stevens was murdered, along with three other U.S. diplomatic personnel.
+Mr. Obama has American blood on his hands.
+
+The Sept. 11, 2012, terror plot was not the first one.
+The administration engaged in willful blindness to the Islamist reality in Benghazi.
+Our consulate had been attacked in April and June.
+Britain withdrew its diplomatic mission because of the surging violence.
+The Red Cross shut down its operations as well.
+Moreover, American officials repeatedly asked for enhanced security at the compound.
+The requests were denied.
+In his diary and several cables, Stevens complained about the growing jihadist violence that threatened his staff — to no avail.
+They were sacrificed on the altar of Mr. Obama’s multilateral interventionism and political ambitions.
+
+The real tragedy is that perhaps the dead Americans could have been saved.
+The attack lasted more than six hours.
+A U.S. drone was directly over the compound, conducting surveillance.
+American fighter jets and AC-130 gunships were less than 450 miles away.
+A massive, rapid response should have been ordered to defend the consulate.
+Instead, Mr. Obama did nothing.
+The reason: He did not want to violate Libyan “sovereignty” without the permission of the government in Tripoli.
+He abandoned our personnel to be butchered — like sheep — by rampaging Islamists.
+
+The Benghazi atrocity was not simply an assault on Americans.
+It was an act of war against America itself.
+Embassies and consulates are sovereign territory — or at least, they’re supposed to be.
+When jihadists breached our compound, it was the equivalent of storming a government building in Washington, Boston or New York.
+They were invading American soil, shedding American blood on behalf of a holy war against the West.
+Mr. Obama knew it was terrorism, but he refused to order a military response.
+He systematically perpetrated a cover-up and a manipulation campaign.
+For this alone, he deserves to be defeated in November.
+He is unfit to be our president.
+
+STEP 1:
+* Deception
+* False
+* Terrorist
+* Atrocity
+* Cynical
+* Failed
+* Disaster
+* Jihadist
+* Fascist
+* Murdered
+* Blood
+* Willful
+* Blindness
+* Sacrificed
+* Abandoned
+* Butchered
+* Atrocity
+* Unfit
+
+SUMMARY:
+President Obama's administration has been caught in a web of deception, deliberately misleading the public about the Benghazi attack. Despite knowing the truth, Obama insisted on blaming a phantom protest and an obscure YouTube video, covering up his administration's colossal failure. The attack was a terrorist atrocity, and Obama's cynical politics led to the murder of four Americans, including Ambassador J. Christopher Stevens. The president's war in Libya has made the country safe for radical Islam, and his willful blindness to the Islamist reality in Benghazi led to the tragic event. Obama's refusal to order a military response and his subsequent cover-up make him unfit to be president. The Benghazi atrocity was an act of war against America itself, and Obama's deception and failure to act have American blood on his hands. END OF SUMMARY.
+
+Now, here is the target news article to summarize:
+Here is the news article:
+
+New details have emerged about Sunday’s mass shooting at the First Baptist Church in Sutherland Springs, Texas, which killed 26 people, including children, elderly people and a pregnant woman. The suspected shooter was a 26-year-old white man named Devin Patrick Kelley from New Braunfels, Texas. Kelley enlisted in the U.S. Air Force in 2010. In 2012, he was court-martialed on charges he repeatedly hit, kicked and choked his wife, pointed a loaded gun at her and attacked his 18-month-old stepson with such force that it broke the toddler’s skull. Kelley was confined for a year and then thrown out of the Air Force with a bad conduct discharge in 2014. But on Monday, the Air Force admitted it had failed to report Kelley’s domestic violence court-martial to a federal database, meaning Kelley had no problem buying a Ruger AR-556 assault-style rifle at an Academy Sports + Outdoors store in San Antonio, Texas, in 2016. He reportedly used this gun to massacre the 26 people on Sunday. On Monday, authorities also said Kelley appears to have carried out the massacre because of a domestic dispute he had with his mother-in-law, who was a member of the First Baptist Church but was not present on Sunday. This is a spokesperson for the Texas Department of Public Safety. Freeman Martin: “One thing everybody wants to know is why did this happen. It’s a senseless crime, but we can tell you that there was a domestic situation going on within this family. The suspect’s mother-in-law attended this church. We know that he had made threatening—she had received threatening texts from him. And we can’t go into details about that domestic situation, that is continuing to be vetted and thoroughly investigated. But we want to get that out there, that this was not racially motivated. It wasn’t over religious beliefs. There was a domestic situation going on within the family.” On Monday, seven activists from the group Gays Against Guns were arrested during a die-in protest on Capitol Hill to demand stricter gun control. We’ll have more on Sunday’s shooting massacre after headlines.
+
+(1) First, you identify all the single words that are morally framed. Identify this step as "STEP 1:" and report each word in a new line starting with *
+(2) Finally, you write a summary of the news article. Please preserve as many morally framed words as possible in your summary. The summary has to be returned after a "SUMMARY:" token and ending with a "END OF SUMMARY." token. The summary should be no longer than 200 words.

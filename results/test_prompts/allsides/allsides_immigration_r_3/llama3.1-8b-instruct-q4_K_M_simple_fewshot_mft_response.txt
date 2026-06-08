@@ -1,0 +1,9 @@
+Here is the summary of the target news article:
+
+SUMMARY:
+
+New York City's Commission on Human Rights has declared that using the term "illegal alien" pejoratively to describe an undocumented person violates city laws designed to protect employees and tenants from discrimination. However, this interpretation may be unconstitutional under the First Amendment. The commission's guidance notes that even a single comment made in circumstances where it signals discriminatory views about immigration status or national origin can constitute harassment. This is problematic because government decrees to prohibit free speech must come with limiting conditions to survive a First Amendment test. The Supreme Court requires that conduct be severe or pervasive enough to make the work environment hostile, but New York City has eliminated this limit on liability. The author argues that the government cannot simply prohibit people from making politically incorrect statements about undocumented people without limiting the scope of anti-discrimination mandates.
+
+END OF SUMMARY.
+
+The moral framing related to Authority/Subversion is preserved in the summary by highlighting how the city's interpretation of the law may be unconstitutional and limiting the scope for free speech. The Care/Harm dimension is also preserved by noting that the guidance could result in fines of up to $250,000 for employers or landlords who use certain terms to describe undocumented people. Finally, the Fairness/Cheating dimension is preserved by pointing out that the commission's guidance may be overly broad and unfairly restricts free speech.

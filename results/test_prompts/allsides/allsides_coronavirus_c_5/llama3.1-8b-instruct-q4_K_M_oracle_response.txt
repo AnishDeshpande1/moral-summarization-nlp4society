@@ -1,0 +1,9 @@
+SUMMARY:
+
+Veterans Affairs Secretary Robert Wilkie announced that the department has significantly reduced its use of hydroxychloroquine, an unproven malaria drug, on veterans with COVID-19. Initially, the VA prescribed the drug to give patients hope in a time of limited treatment options, but studies pointed to possible dangers and other treatments were brought online. The department is now turning to remdesivir, which has shown promising results in reducing recovery time.
+
+The decision to limit hydroxychloroquine's use was guided by scientific evidence, including a study that found no benefit for COVID-19 patients who took the drug. In fact, 28% of veterans given hydroxychloroquine plus usual care died, versus 11% of those receiving routine care alone. The VA has warned against using hydroxychloroquine without formal studies, and the Food and Drug Administration has issued similar warnings.
+
+As the nation's largest hospital system, the VA's mission is to preserve and protect life by making informed decisions based on scientific evidence, not wishful thinking. Secretary Wilkie expects this trend to continue in the future, prioritizing care and safety for veterans.
+
+END OF SUMMARY.

@@ -1,0 +1,20 @@
+Here are the morally framed words extracted from the news article:
+
+STEP 1:
+* forgotten
+* hush-hush
+* widespread
+* euphemism
+* minimized
+* impact
+* preferred
+* narrative
+* progress
+* history
+* whitewashed
+* sanitized
+* systematic
+* erased
+
+SUMMARY:
+The discovery of mass graves connected to the 1921 Tulsa race massacre is a reminder of the city's dark past. The event, which killed an estimated 300 people and left thousands homeless, has been largely forgotten in American history. For decades, the incident was downplayed as a "riot" that minimized its impact on the black community. However, many historians now acknowledge it as one of several violent incidents that occurred during a period of widespread racial violence after the Civil War. The event's erasure from history is a testament to the systemic efforts to whitewash and sanitize American history. It's time to confront this dark chapter in our nation's past and learn from its mistakes, rather than perpetuating a preferred narrative of black progress that glosses over the true horrors of the massacre. END OF SUMMARY.

@@ -1,0 +1,143 @@
+You have to summarize the following text preserving the moral framing that the author gave to it, with particular focus on the specific moral foundations highlighted in the text.
+
+Please study the following examples of news articles and their summaries preserving the moral framing:
+
+Example 1 (Political Ideology: Left, Moral Foundations: Authority/Subversion, Fairness/Cheating):
+Here is the news article:
+
+WASHINGTON -- The U.S. Department of the Treasury announced Thursday that when it comes to taxes, it will recognize same-sex couples' marriages even if they live in a state that does not.
+
+The decision, which was prompted by the U.S. Supreme Court’s ruling to overturn the Defense of Marriage Act, marks the latest political progress for the lesbian, gay, bisexual and transgender community.
+
+Prior to this spring, the Internal Revenue Service did not recognize same-sex married couples pursuant to section 3 of DOMA.
+Once DOMA was overturned in June, the question became: What about same-sex married couples who moved to a state that didn’t recognize their marriage (a couple married in Massachusetts who moved to Arkansas, for example)?
+
+Thursday’s ruling by Treasury Secretary Jacob Lew provides a uniform policy for the IRS; the state of celebration -- where the wedding took place -- now trumps the state of residency when it comes to federal tax status for same-sex married couples.
+
+“Today’s ruling provides certainty and clear, coherent tax filing guidance for all legally married same-sex couples nationwide.
+It provides access to benefits, responsibilities and protections under federal tax law that all Americans deserve,” Lew said in a statement.
+“This ruling also assures legally married same-sex couples that they can move freely throughout the country knowing that their federal filing status will not change.”
+
+The new policy, which was first shared by Lew in a conference call that included LGBT advocates, holds a bit of political significance.
+It was the burden of federal tax law on same-sex couples, after all, that prompted the legal challenge to DOMA in the first place.
+
+Edie Windsor, the plaintiff in the DOMA case, sued the government after being forced to pay estate taxes following the death of her wife, Thea Spyer.
+Had they been a heterosexual couple, Windsor's tax burden would have been zero.
+After DOMA was overturned, it was reported that the IRS owed Windsor $363,053.
+
+Under the new Treasury policy, all federal tax provisions where marriage is a factor, including filing status, employee benefits, IRA contributions, earned income, child tax credits, and income, gift and estate taxes, will apply to same sex couples regardless of where they live.
+On the flip side, gay couples also will now be subjected to the so-called marriage penalty, in which some (usually upper-middle class) joint filers incur a higher tax burden than they would if they filed as single people.
+
+The policy only applies to married couples, and not those in domestic partnerships or same-sex unions.
+
+“With today’s ruling, committed and loving gay and lesbian married couples will now be treated equally under our nation’s federal tax laws, regardless of what state they call home,” said Human Rights Campaign President Chad Griffin.
+“These families finally have access to crucial tax benefits and protections previously denied to them under the discriminatory Defense of Marriage Act.”
+
+The Treasury’s actions on Thursday are just the latest in a set of LGBT policies offered by agencies within the Obama administration following the DOMA ruling.
+The Federal Election Commission, and Departments of Health and Human Services and Homeland Security, also extended federal benefits to gay couples in states that don’t recognize their marriages.
+
+UPDATE: Commenting on the Treasury Department's new policy, Edie Windsor hailed the decision as the precise remedy that she sought when she challenged the constitutionality of DOMA.
+
+SUMMARY:
+
+In a landmark decision, the US Department of the Treasury has announced that it will recognize same-sex couples' marriages for tax purposes, regardless of the state they live in. This move marks a significant step forward for the LGBTQ+ community, providing certainty and clarity for same-sex married couples nationwide. The policy, prompted by the Supreme Court's overturning of the Defense of Marriage Act, ensures that all legally married same-sex couples can access federal tax benefits, responsibilities, and protections, regardless of their state of residency. This decision is a testament to the Obama administration's commitment to equality and justice, and is a direct result of the legal challenge to DOMA. As Human Rights Campaign President Chad Griffin noted, "committed and loving gay and lesbian married couples will now be treated equally under our nation's federal tax laws, regardless of what state they call home."
+
+END OF SUMMARY.
+
+Example 2 (Political Ideology: Center, Moral Foundations: Authority/Subversion, Care/Harm, Fairness/Cheating):
+Here is the news article:
+
+Republican officials in Alabama staunchly defended their party’s Senate nominee, Roy S. Moore, after a report that he had made sexual advances toward four teenage girls when he was in his 30s.
+
+The Washington Post reported that, in early 1979, Mr. Moore, then a district attorney and later the chief justice of the state Supreme Court, had approached a 14-year-old, eventually kissing her, undressing her, touching her over her bra and underpants, and guiding her hand to touch him over his underwear.
+
+The paper found three other women who said they had been pursued by Mr. Moore around the same time, when they were between 16 and 18 years old.
+The Post interviewed more than 30 people in reporting its account.
+
+Mr. Moore told The Post that the allegations were “completely false and are a desperate political attack by the National Democrat Party and the Washington Post on this campaign.”
+He is set to face Doug Jones, a Democrat, in a special election next month.
+
+The story was met with immediate backlash from Republicans in Alabama, several of whom dismissed the women’s stories out of hand.
+Some called the article a partisan plot, even as the reporters behind it described in detail how they had uncovered the story and corroborated the allegations.
+Here are some of the officials’ responses.
+
+‘Total contrived media garbage’
+
+That’s how John Skipper, 66, a former chairman of the Mobile County Republican Party, characterized the claims, speaking to The New York Times.
+
+He said that he and other Alabama Republicans would continue to support their candidate and echoed Mr. Moore’s assertion that the Democratic Party had been behind the story.
+
+“Most of them will not be shocked,” he said, “and will rather be expecting these shenanigans being pulled by the Democrats as standard operating procedure.”
+
+Alabama’s state auditor, Jim Ziegler, told The Washington Examiner that the women’s claims were “much ado about nothing” and said that Mr. Moore had done nothing “immoral or illegal.”
+(Alabama law, both in 1979 and now, finds that someone who is 19 or older and has sexual contact with someone between the ages of 12 and 16 is guilty of second-degree sex abuse.)
+
+Mr. Ziegler sought to justify Mr. Moore’s actions by comparing him to the biblical Joseph, saying, “Mary was a teenager and Joseph was an adult carpenter.
+They became parents of Jesus.”
+
+“If they believe this man is predatory, they are guilty of allowing him to exist for 40 years,” he said.
+“I think someone should prosecute and go after them.
+You can’t be a victim 40 years later, in my opinion.”
+
+Daniel Dale, a reporter for The Toronto Star, contacted multiple Republican officials in the state and kept a running report of their responses to the story.
+
+Jerry Pow, the party chairman for Bibb County, told Mr. Dale that he’d back Mr. Moore even if the candidate had committed a sex crime.
+
+“I would vote for Judge Moore because I wouldn’t want to vote for Doug,” he said.
+“I’m not saying I support what he did.”
+
+Others, including the party chairmen for Covington County, William Blocker, and Mobile County, John Skipper, dismissed the story as a Democratic trick.
+Mr. Blocker said that he would not change his mind even if there was proof that Mr. Moore was guilty.
+
+Riley Seibenhener, the party chairman in Geneva County, told Mr. Dale that if the allegations were true, he would not support the candidate.
+But he also said that Mr. Moore was not guilty of “forcible rape.”
+
+“I know that 14-year-olds dont’t make good decisions,” he said.
+
+SUMMARY:
+
+Republican officials in Alabama are defending their party's Senate nominee, Roy S. Moore, despite allegations that he made sexual advances towards four teenage girls when he was in his 30s. The Washington Post reported that Moore, then a district attorney, kissed, undressed, and touched a 14-year-old girl, and pursued three other girls between 16 and 18 years old. Instead of condemning Moore's actions, many Alabama Republicans dismissed the women's stories as "total contrived media garbage" and a "partisan plot" by the Democratic Party. Some even justified Moore's actions, comparing him to the biblical Joseph and claiming that the women's claims were "much ado about nothing." These officials' responses are morally reprehensible, as they prioritize party loyalty over the well-being and dignity of the alleged victims. By defending Moore's actions, they are perpetuating a culture of victim-blaming and enabling sexual misconduct.
+
+END OF SUMMARY.
+
+Example 3 (Political Ideology: Right, Moral Foundations: Care/Harm):
+Here is the news article:
+
+Call it Cheney versus Cheney.
+
+Mary Cheney, one of ex-Vice President Dick Cheney’s two daughters, has taken to Facebook to blast her older sibling, Elizabeth, a Wyoming Senate candidate, for the latter’s stance on same-sex marriage, The New York Times is reporting.
+
+Mary Cheney, openly lesbian and married to Heather Poe since 2012, reportedly posted to her personal page on the social media site: “For the record, I love my sister, but she is dead wrong on the issue of marriage.
+
+“Freedom means freedom for everyone.
+That means that all families — regardless of how they look or how they are made — all families are entitled to the same rights, privileges and protections as every other.”
+
+The Times reports Liz Cheney on Friday first articulated her position on the controversial subject, saying it should be something for voters to decide on a state-by-state basis, and not a matter for “judges” or “legislators.”
+
+“I am not pro-gay marriage,” Liz Cheney reportedly said.
+“I believe the issue of marriage must be decided by the states, and by the people in the states, not by judges and not even by legislators, but by the people themselves.”
+
+Her sister replied by pulling no punches.
+
+“It’s not something to be decided by a show of hands,” Mary Cheney reportedly wrote on her personal Facebook page, concluding her internecine post by saying, “Please like and share if you agree.”
+
+Elizabeth Cheney declared in July she plans to challenge incumbent Senator Mike Enzi, also a Republican, in the state’s Republican primary.
+The election is slated for 2014.
+
+Former Vice President Cheney has publicly voiced support for same-sex marriage and, mirroring Elizabeth’s stance, has reportedly said the matter should be decided on a state-by-state basis.
+
+SUMMARY:
+
+In a rare display of sibling disagreement, Mary Cheney, an openly lesbian woman, has publicly criticized her sister Elizabeth Cheney, a Wyoming Senate candidate, for her stance on same-sex marriage. Mary Cheney took to Facebook to express her disagreement, stating that "freedom means freedom for everyone" and that all families deserve the same rights and protections. Elizabeth Cheney, on the other hand, believes that the issue of marriage should be decided by the states and their people, rather than by judges or legislators. Mary Cheney countered that it's not something to be decided by a "show of hands." The disagreement is particularly notable given that their father, former Vice President Dick Cheney, has publicly voiced support for same-sex marriage and also believes it should be decided on a state-by-state basis. The moral framing of this story highlights the importance of standing up for what is right, even if it means disagreeing with family members.
+
+END OF SUMMARY.
+
+Now, here is the target news article to summarize:
+Here is the news article:
+
+A group of 14 Wisconsin parents has filed a lawsuit against a local school district for its policy allowing teachers to address their children by their preferred "gender identity" without notifying them first. Wisconsin Institute for Law and Liberty (WILL), a conservative law firm, filed the 19-page lawsuit on Tuesday on behalf of the parent's group against the Madison Metropolitan School District (MMSD). The 14 parents were not named in the document. The lawsuit alleges that MMSD's transgender policy is unconstitutional because it prohibits teachers and staff from informing parents that their children want to switch sexes. "This action seeks to vindicate parents' fundamental and constitutional right to direct the upbringing of their children," the lawsuit argues. "The Madison Metropolitan School District has violated this important right by adopting a policy designed to circumvent parental involvement in a pivotal decision affecting their children's health and future. The policy enables children, of any age, to socially transition to a different gender identity at school without parental notice or consent." While parental consent is needed before a child's name can be changed legally in the district's official records, the school district policy announced in 2018 says students can be called by their preferred name and gender pronouns without parental permission. The policy states that the district is committed to affirming each student's self-designated gender identity and the district will strive to "disrupt the gender binary" with books and lessons stating that everyone has the right to choose their gender. The school policy allows students to pick new names and pronouns they can use at school regardless of whether they have a parent's permission. All teachers and district staff must refer to students by their chosen names and pronouns even though the names aren't official in district systems. The parents argue the policy violates the state constitution's due process clause, which protects parents' right to raise their children according to the parents' beliefs. "Madison schools have adopted policies that violate constitutionally recognized parental rights. A public school district should not, and cannot, make decisions reserved for parents," WILL President and General Counsel Rick Esenberg said in a statement. District spokesman Tim LeMonds said Tuesday that the district had not been served with the lawsuit and could not comment until it had a chance to review it. But LeMonds said the district stands by its guidance on transgender and nonbinary students. The lawsuit also argues that keeping parents in the dark about their children's sexuality interferes with parents' right to guide their children through life-altering decisions and provide professional help their children may urgently need. "There is no compelling government interest in keeping secret from parents that their child is dealing with gender dysphoria," the lawsuit reads. The parents also argue that the policy violates the state constitution's religious freedom guarantee. All of the parents say they believe God intended humans to be male and female, and the district's choice to hide students' gender struggles interferes with their right to guide their children in accordance with their religious beliefs
+
+For this target article, the author's moral framing heavily relies on the following Moral Foundation dimensions: Authority/Subversion.
+Please pay special attention to preserving the moral framing related to these specific dimensions (Authority/Subversion) in your summary.
+
+The summary has to be returned after a "SUMMARY:" token and ending with a "END OF SUMMARY." token. The summary should be no longer than 200 words.

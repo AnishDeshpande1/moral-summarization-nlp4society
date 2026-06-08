@@ -1,0 +1,152 @@
+You have to summarize the following text preserving the moral framing that the author gave to it, with particular focus on the specific moral foundations highlighted in the text.
+
+Please study the following examples of news articles and their summaries preserving the moral framing:
+
+Example 1 (Political Ideology: Left, Moral Foundations: Authority/Subversion, Loyalty/Betrayal, Sanctity/Degradation):
+Here is the news article:
+
+Glenn Beck CPAC 2010 Speech VIDEO: Republicans Don't Need A Big Tent
+
+Bombastic conservative talk show host Glenn Beck closed a three-day conservative conference on Saturday by demanding that Republicans get their own house in order before re-trying their hand at governance.
+
+In a winding speech that touched as much on his personal turmoil as his policies and politics, Beck had the packed auditorium at CPAC captivated from the start.
+Using hand gestures, multiple impersonations and his infamous chalkboard, he took the usual swipes at Democrats.
+"Progressivism," he declared, "is eating the Constitution."
+Moreover, it "was designed to eat the Constitution."
+
+But the nearly hour-long address was spent not bemoaning his ideological foes, but rather demanding purity among his likely allies.
+If last year's CPAC keynote speech - delivered by radio host Rush Limbaugh - was defined by urging President Barack Obama to fail, Beck's stood out for his demand that conservatism succeed.
+
+"Dick Cheney a couple days ago... says it is going to be a good year for conservative ideas," he declared at one point, wiping the sweat from his brow.
+"It is going to be a very good year.
+But it is not enough just to not suck as much as the other side."
+
+And who, exactly, sucked as much as the other side?
+Beck didn't really name names - save for a swipe at one Republican (presumably Sen. John McCain) for admiring another Republican, Teddy Roosevelt -- the latter of whom Beck accused of launching the modern progressive movement.
+But the message was clear: supporting anything that closely resembled the Democratic agenda would no longer fly with the modern GOP.
+
+"I have not heard people in the Republican Party admit yet that they have a problem," he said.
+"I haven't seen the Come-To-Jesus moment from Republicans yet."
+
+"One party will tax and spend," he added at another point.
+'One party won't tax and will spend.
+It is both of them together."
+
+The plea was made all the more effective by the intertwining of Beck's own story of struggle and redemption.
+Pointing to his time as a recovering alcoholic, the Fox News host urged the GOP to embark on a 12-step program of recovery.
+"Hello, my name is the Republican Party, and I got a problem.
+I'm addicted to spending and big government," he declared, reading out the apology he wanted lawmakers to deliver.
+Reflecting on his own lack of formal education, he railed against government handouts - extending the logic to argue against a right to health care.
+
+The crowd was enthralled, even as Beck took them down winding tales of Calvin Coolidge, the Statute of Liberty and the supposed great middle class explosion of the 1920s.
+
+But was the message what the conservative movement needed to hear?
+Tradition dictates that political parties out of power do what they can to expand their coalition.
+Elections, after all, are won when candidates broaden their appeal to the voters responsible for electing them.
+For Beck and the surrounding CPAC crowd, however, ideological purity was the path to redemption and recovery.
+
+All we've heard, the Fox News host complained, is "we need a big tent. We need a big tent. Can we get a bigger tent? How can we get a big tent?
+What is this the circus? America is not a clown show. America is not a circus.
+America is an idea. America is an idea that sets people free."
+
+SUMMARY:
+
+Conservative talk show host Glenn Beck delivered a passionate speech at CPAC 2010, urging Republicans to focus on ideological purity rather than trying to expand their coalition. Beck emphasized that the party needs to get its own house in order before seeking governance, and that supporting Democratic-like agendas will no longer be tolerated. He argued that both parties are guilty of taxing and spending, and that the GOP needs to embark on a 12-step program of recovery from its addiction to big government and spending. Beck's speech was personal, drawing from his own experiences as a recovering alcoholic and his lack of formal education. He railed against government handouts and argued that America is an idea that sets people free, not a circus or clown show. Beck's message was clear: ideological purity is the path to redemption and recovery, and the GOP needs to prioritize its core values over trying to appeal to a broader audience.
+
+END OF SUMMARY.
+
+Example 2 (Political Ideology: Center, Moral Foundations: Care/Harm, Fairness/Cheating):
+Here is the news article:
+
+WASHINGTON — President Trump on Monday said the F.B.I. ruined the life of his former national security adviser and said his Democratic opponent for president, Hillary Clinton, suffered no consequences after she lied “many times” to the F.B.I.
+
+Michael T. Flynn, Mr. Trump’s first national security adviser, pleaded guilty on Friday to lying to the F.B.I. when he was questioned early this year about his conversations with the Russian ambassador.
+He was the fourth person charged in the investigation of Robert S. Mueller III, the special counsel appointed to lead an inquiry into Russia’s influence on the 2016 election and possible ties to Trump associates.
+
+As he left for Utah on Monday, the president said he felt “very badly” for Mr. Flynn, whom he fired in February for lying to the vice president about the content of these conversations.
+
+Mr. Trump’s comments Monday on Mr. Flynn come at a time when the special counsel investigation is focusing intensely on the president’s inner circle.
+Mr. Trump once encouraged Mr. Flynn to seek an immunity deal.
+Presidents typically do not weigh in on federal investigations to avoid appearing to influence the outcome.
+
+“I feel badly for General Flynn,” Mr. Trump said on Monday. “I feel very badly.
+He’s led a very strong life and I feel very badly.
+Hillary Clinton lied many times to the F.B.I. Nothing happened to her.
+Flynn lied and they destroyed his life.”
+
+Mr. Trump did not cite specifically what Mrs. Clinton said that he considered a lie.
+
+Mrs. Clinton gave a voluntary interview to the bureau in July 2016 during its investigation into whether she or her aides broke the law by corresponding through a private email server set up for her use as secretary of state.
+A few days later, the F.B.I. director at the time, James B. Comey, recommended no charges be filed against her in the matter.
+
+SUMMARY:
+
+President Trump has expressed sympathy for his former national security adviser, Michael Flynn, who pleaded guilty to lying to the FBI about his conversations with the Russian ambassador. Trump feels "very badly" for Flynn, whom he fired in February for lying to the vice president. The president contrasted Flynn's fate with that of his Democratic opponent, Hillary Clinton, who he claims lied "many times" to the FBI but faced no consequences. Trump's comments come as the special counsel investigation into Russia's influence on the 2016 election and possible ties to Trump associates is intensifying its focus on his inner circle.
+
+The moral framing of this article suggests that Trump is attempting to deflect attention from his own administration's scandals by pointing fingers at his political opponents. By claiming that Clinton lied to the FBI with impunity, Trump is implying that the justice system is unfair and biased against him and his associates. This narrative is problematic, as it seeks to undermine the integrity of the FBI and the special counsel investigation, and perpetuates a culture of blame-shifting and dishonesty.
+
+END OF SUMMARY.
+
+Example 3 (Political Ideology: Right, Moral Foundations: Authority/Subversion, Care/Harm, Fairness/Cheating):
+Here is the news article:
+
+The resurgent controversy over the Obama administration's initial story-line on the Benghazi attack underscores State Department concerns about the leadership's failure to act on documented warnings and security incidents.
+
+Draft "talking points" obtained by The Weekly Standard and ABC News depicted efforts by State Department spokeswoman Victoria Nuland in the days after the attack to strip out references to prior attacks in Benghazi.
+According to the excerpts, she argued that the administration should not give Congress ammunition to "beat up" on her department.
+
+During a press conference Monday, President Obama even acknowledged that the country now knows that "clearly (the staff in Benghazi) were not in a position where they were adequately protected."
+
+A review of now-public State Department records as well as a classified State Department cable, first reviewed and reported by Fox News, shows a steady stream of documented warnings to Washington from intelligence and State security officials on the ground in Libya that the Islamist threat was severe and growing.
+
+One of the most significant warnings was an August 2012 State Department classified cable, which has not been made public, that summarized an emergency meeting in Benghazi where the CIA briefed on the significant threat of terrorist activity.
+
+The cable, sent under Ambassador Chris Stevens' signature and marked SECRET, warned the office of Secretary of State Clinton that the CIA advised "ten Islamist militias and AQ training camps (were) within Benghazi."
+
+The cable also warned that the 17 February Brigade, the group charged with protecting the consulate, appeared to be compromised.
+It said "requests to provide a daily police presence have gone unanswered," adding there was also a "lack of host nation security support to the US mission."
+
+In addition to identifying the presence of Al Qaeda and Ansar al-Sharia in Benghazi, the groups ultimately blamed for the assault, a key section of the cable, which remains classified, seemed to foreshadow the attack itself.
+
+"RSO (Regional Security Officer) expressed concerns with the ability to defend Post in the event of a coordinated attack due to limited manpower, security measures, weapons capabilities, host nation support, and the overall size of the compound," it said.
+
+During congressional hearings in January, Clinton was asked whether she had seen the cable by Republican Rep. Michael McCaul.
+Clinton said she had no knowledge of the warning which former diplomatic security agents have told Fox News amounted to a "cry for help."
+
+"Congressman, that cable did not come to my attention," Clinton testified before the House Foreign Affairs committee.
+"I have made it very clear that the security cable did not come to my attention or above the assistant secretary level where the ARB (Accountability Review Board) placed responsibility where, as I think, Ambassador Pickering said the rubber hit the road."
+
+In February, Republican Sen. Lindsey Graham followed up on the classified cable.
+
+After the chairman of the Joint Chiefs of Staff confirmed he knew about the cable which summarized the August emergency meeting in Benghazi, Graham questioned why the military was read in when Clinton apparently was not.
+
+Gen. Martin Dempsey responded: "Well, I don't know that she didn't know about the cable."
+
+Graham said: "She said she didn't. Are you stunned that she didn't?"
+
+Dempsey said: "I would call myself surprised that she didn't."
+
+In addition to attacks in Benghazi on the British ambassador -- which forced the temporary closure of the U.K. operation -- the International Red Cross and United Nations, in the summer of 2012 the group Ansar al-Sharia was so well-established it held an annual conference in Benghazi to promote Islamic law.
+
+Records released by the House oversight committee, including a report from the regional security officer, also documented more than 200 cases of violence in Libya in the year leading up to the attack, specifically between June 2011 and July 2012.
+Another security review, on June 25, 2012, reported a spike in violence with "foreigners also increasingly targeted."
+
+While much has been made of the State Department's failure to respond to repeated security requests for extra help, a former diplomatic security agent and 20-year veteran of the department, who reviewed the publicly available documents on the condition of anonymity, told Fox News the multiple warnings present a compelling argument that State Department leadership was negligent.
+
+The State Department, in a document put out last week, noted that while an internal review found certain senior officials "demonstrated a lack of proactive leadership and management ability" in response to security concerns, there was no specific finding of misconduct.
+
+SUMMARY:
+
+The Obama administration's handling of the Benghazi attack has sparked controversy, with concerns over the State Department's failure to act on documented warnings and security incidents. Classified cables and records reveal a steady stream of warnings from intelligence and security officials on the ground in Libya, highlighting the severe and growing Islamist threat. A significant August 2012 cable warned of Al Qaeda and Ansar al-Sharia's presence in Benghazi, and foreshadowed the attack. Despite this, Secretary of State Clinton claimed she had no knowledge of the warning, which former diplomatic security agents deem a "cry for help." The State Department's internal review found senior officials demonstrated a "lack of proactive leadership and management ability" in response to security concerns, but no misconduct. The administration's failure to prioritize security and protect American lives is a grave moral failure, underscoring a lack of accountability and responsibility.
+
+END OF SUMMARY.
+
+Now, here is the target news article to summarize:
+Here is the news article:
+
+Republican Sen. Lindsey Graham suggested Sunday that he would try to hold up the appointment of President Obama’s nominees to run the CIA and the Defense Department until the White House provides more details about what the president and other top administration officials were doing the night of the Benghazi terror attacks. The South Carolina senator is among congressional Republicans most critical of Defense Department nominee Chuck Hagel and the White House’s handling of the Sept. 11, 2012, attacks on a U.S. outpost in Benghazi, Libya. The attacks killed Ambassador Christopher Stevens and three other Americans. “I don’t think we should allow … Hagel to be confirmed secretary of Defense until the White House gives us an accounting,” Graham said on CBS’ “Face the Nation.” “Did the White House ever pick up the phone and call anyone in the Libyan government to help these folks?” Graham said he would do the same with the Senate confirmation hearing for John Brennan, the president’s chief counterterrorism adviser, to run the CIA. “No confirmation without information,” he said. Though Graham has not threatened to filibuster the Hagel nomination in the Democrat-controlled chamber, he has tried several other aggressive-but-less-drastic moves. He has called on Obama to withdraw the nomination and has successfully demanded that outgoing Defense Secretary Leon Panetta testify on Benghazi before a vote on Hagel. On Sunday, Oklahoma Republican Sen. James Inhofe threatened on Fox News to filibuster the Hagel nomination, in an effort to make Hagel get 60 votes, note just the 51 majority, to be confirmed. Democrats support the president’s nomination, but Republicans appear largely opposed to voting for Hagel, a former Nebraska Republican senator, largely over concerns about his support of Israel and whether he would back U.S. military action to stop Iran from producing a nuclear weapon. Graham began making his case last week for more details about the White House response on the night of the attacks. He vowed Friday to hold Obama "accountable" for his leadership during the incident, following Panetta and Joint Chiefs Chairman Gen. Martin Dempsey’s Senate testimony a day earlier. Panetta and Dempsey testified that they had just one phone conversation with Obama on the day of the attacks that started at about 5 p.m. ET and lasted for about 30 minutes, which prompted Graham to ask why no follow-up calls took place. Graham said Thursday on Fox News that the White House has so far “delayed, denied, deceived and stonewalled. And this has to come to an end. Obama has to account for his leadership." He said Sunday that another remaining question is whether the president pressed the Libyan government to let a response team purportedly deployed from Tripoli to leave a Libyan airport to get to the U.S. outpost, which was under attack for about eight hours. “We know nothing about what the president did during the night of Sept. 11 during a night of national crisis,” Graham said. Rhode Island Democratic Sen. Jack Reed also appeared on the show and called Graham’s actions “unprecedented.” He also said Graham dwelling on the tragedy to block nominations was “not appropriate.”
+
+For this target article, the author's moral framing heavily relies on the following Moral Foundation dimensions: Authority/Subversion, Care/Harm, Fairness/Cheating.
+Please pay special attention to preserving the moral framing related to these specific dimensions (Authority/Subversion, Care/Harm, Fairness/Cheating) in your summary.
+
+The summary has to be returned after a "SUMMARY:" token and ending with a "END OF SUMMARY." token. The summary should be no longer than 200 words.

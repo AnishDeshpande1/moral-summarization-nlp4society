@@ -1,0 +1,49 @@
+Here is the output:
+
+STEP 1:
+* failed
+* vulnerable
+* frayed
+* damaged
+* badly
+* petulantly
+* withdrawn
+* cautious
+* vigilant
+* careful
+* struggling
+* stretched
+* failed
+* inadequately
+* justified
+* hope
+* preserve
+* protect
+* learning
+* crisis
+* mission
+* explain
+* benefit
+* backlash
+* caution
+* wishful
+* science
+* rights
+* control
+* protect
+* victims
+* risk
+* boon
+* safety
+* restrictions
+* imperative
+* commit
+* failed
+* exclude
+* safe
+* lives
+* inflicted
+* damage
+
+SUMMARY:
+The US is struggling to contain the COVID-19 pandemic, with new cases rising by over 47,000 on Tuesday, the largest one-day spike since the start of the pandemic. Dr. Anthony Fauci warned that this number could soon double and urged a nationwide push to tamp down the resurgent virus. The government's failure to control the pandemic has led to widespread suffering, with millions losing their jobs and over 126,000 Americans dying from COVID-19. President Trump's handling of the crisis has been criticized, with his rival Joe Biden saying that Trump's "historic mismanagement" of the pandemic cost lives and inflicted unnecessary damage on the US economy. The European Union has excluded Americans from its "safe list" of countries for non-essential travel, further isolating the US from the rest of the world. Fauci expressed concern about upcoming Independence Day celebrations, saying that they could lead to a surge in cases. END OF SUMMARY.

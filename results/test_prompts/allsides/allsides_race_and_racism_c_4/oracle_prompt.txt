@@ -1,0 +1,42 @@
+You have to summarize the following text preserving the moral framing that the author gave to it.
+
+Here is the news article:
+
+“The 360” shows you diverse perspectives on the day’s top stories. What’s happening Using ground-penetrating radar, scientists in Tulsa, Okla., recently discovered evidence of mass graves connected to the 1921 race massacre there. Like much of the evidence of the deadly event, the history of what’s been called “the single worst incident of racial violence in American history” has been buried. In the early 1920s, the Greenwood District of Tulsa, home to most of the city’s black population, was a vibrant neighborhood that was so successful, it was known as "Black Wall Street." All that changed on May 31, 1921. An unproven accusation of an assault of a white woman by a black man caused long-bubbling white resentment to boil over into violence. White mobs flooded into Greenwood, looting homes, burning businesses and killing residents. By June 1, 35 city blocks had been burned to the ground and thousands were left homeless. The official count tallied 36 deaths, but historians now believe the number could have been as high as 300. Despite the scale of violence, the Tulsa race massacre has been a largely forgotten part of U.S. history. Many Americans said they first became aware of the incident this year, when the HBO drama “Watchmen” featured a fictionalized reenactment in its premiere episode. Why there’s debate A common explanation for the massacre being largely unknown is that the people of Tulsa have been hesitant to talk about it. "For decades it was hush-hush," a local photojournalist said. Law enforcement and insurance companies mostly declined to act in the aftermath of the attack, leaving little paper trail. There was also a widespread effort to strip the historical record of evidence of the event. For decades, the event was known as the Tulsa race riot, a title seen by many as a euphemism that minimized the true impact of the rampage. Some historians believe the incident to be one of several that took place during a period of widespread racial violence after the Civil War — often omitted because it runs counter to the preferred narrative of black progress in America from slavery through the civil rights movement. What’s next Scientists say further examination of the possible mass grave sites is necessary before they can be excavated. If bodies are found at the sites, DNA tests would be done to determine their identities. Local leaders hope to have the project completed in time for the 100th anniversary of the event in 2021. A feature film about the massacre and two television series about the massacre — including one produced by Oprah Winfrey — are in development, but no release dates have been announced for the projects. Perspectives For decades, the massacre was mislabeled as a riot “The word ‘riot’ suggested something uncontrolled and mindless, rather than the very specific targeting of black success. Further, by flipping victim and perpetrator, these accounts both blamed black Tulsans and absolved the white mob.” — Alaina E. Roberts, Washington Post The massacre is better known in the black community “The bombing of Black Wall Street is common knowledge to a large percentage of black folks … but apparently it’s news to a lot of people who prefer a whitewashed, sanitized version of American history.” — Michael Harriot, the Root A systematic effort to erase the event from history was largely successful “The dead were tossed into the Arkansas River and unmarked mass graves. News accounts were cut out of the Tulsa Tribune before they were assembled into bound reference volumes. The incident was not a part of the Oklahoma public schools’ curriculum until 2000, and only recently entered American-history textbooks.” — Frank Rich, Vulture The massacre contradicts the popular narrative of black progress in America “Tulsa’s massacre happened in a time that we don’t talk about. It upends the history lessons that Americans pass down — that black people were passive victims from the slave ships to the ‘I Have a Dream’ speech, that white violence was the unique dogma of church-bombing extremists. Black Wall Street scrambles the accepted timeline so much that it’s easier to forget the place ever existed.” — Victor Luckerson, the Ringer
+
+The author used the following morally framed words in the article:
+* massacre
+* event
+* incident
+* violence
+* assault
+* resentment
+* looting
+* burning
+* killing
+* burned
+* homeless
+* deaths
+* declined
+* attack
+* effort
+* strip
+* minimized
+* rampage
+* omitted
+* slavery
+* mislabeled
+* targeting
+* flipping
+* blamed
+* absolved
+* bombing
+* whitewashed
+* sanitized
+* erase
+* tossed
+* cut
+* victims
+* churchbombing
+
+Please preserve as many morally framed words as possible in your summary. The summary has to be returned after a "SUMMARY:" token and ending with a "END OF SUMMARY." token. The summary should be no longer than 200 words.

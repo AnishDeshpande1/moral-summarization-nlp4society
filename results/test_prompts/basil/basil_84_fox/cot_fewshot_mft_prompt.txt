@@ -1,0 +1,222 @@
+You have to summarize the following text preserving the moral framing that the author gave to it, with particular focus on the specific moral foundations highlighted in the text.
+
+Please study the following examples of news articles, their moral word extraction, and summaries preserving the moral framing:
+
+Example 1 (Political Ideology: Left, Moral Foundations: Authority/Subversion, Fairness/Cheating):
+Here is the news article:
+
+WASHINGTON ― FBI Special Agent Peter Strzok, who was taken off special counsel Robert Mueller’s team after Justice Department investigators discovered his texts disparaging President Donald Trump, has been fired from the bureau despite the recommendations of a career FBI official.
+
+Aitan Goelman, Strzok’s attorney, said in a statement that Strzok was fired late Friday afternoon on the orders of FBI Deputy Director David Bowdich, despite an FBI career official’s recommendation that Strzok face a 60-day suspension and a demotion.
+
+Goelman called the decision “a departure from typical Bureau practice” and said it contradicted FBI Director Chris Wray’s earlier guarantee that the bureau would follow its regular process, despite Trump’s disdain for the now-former FBI official.
+
+“This decision should be deeply troubling to all Americans.
+A lengthy investigation and multiple rounds of Congressional testimony failed to produce a shred of evidence that Special Agent Strzok’s personal views ever affected his work,” Goelman said.
+“In fact, in his decades of service, Special Agent Strzok has proved himself to be one of the country’s top counterintelligence officers, leading to only one conclusion ― the decision to terminate was taken in response to political pressure, and to punish Special Agent Strzok for political speech protected by the First Amendment, not on a fair and independent examination of the facts.
+It is a decision that produces only one winner ― those who seek to harm our country and weaken our democracy.”
+
+Strzok exchanged texts with former FBI official Lisa Page that disparaged Trump as well as other politicians, including various Democrats.
+He testified last month after the release of an inspector general report on the handling of the FBI’s Hillary Clinton probe that described anti-Trump texts exchanged by bureau officials.
+
+Strzok, a 21-year veteran of the FBI, played a prominent role in both of the investigations surrounding the Clinton and Trump campaigns during the 2016 election.
+He was involved in the Clinton investigation, which was highly public, as well as the investigation into the Trump campaign and Russian interference in the 2016 election, which the bureau never publicly acknowledged until months into Trump’s presidency.
+Strzok subsequently joined the Mueller team, but left the team as soon as Mueller became aware of his anti-Trump texts.
+
+The precise justification for Bowdich’s decision to fire Strzok despite the recommendation of the FBI’s Office of Professional Responsibility is unclear.
+But DOJ’s inspector general was “deeply troubled” by texts Strzok sent that “potentially indicated or created the appearance that the investigative decisions were impacted by bias or improper considerations,” and particularly focused on one anti-Trump text that implied a willingness “to take official action to impact the presidential candidate’s electoral prospects.”
+The inspector general report also criticized Strzok for his use of personal email to conduct FBI business.
+
+It’s possible that the former FBI counterintelligence official’s extramarital relationship with Page also played a role in the FBI’s decision.
+Wray said at at a press conference in June that the bureau wouldn’t “hesitate to hold people accountable for their actions” after the disciplinary process.
+
+Trump celebrated Strzok’s firing on Twitter, writing Monday that the investigation into his campaign “should be dropped” and that the investigation into Clinton “should be properly redone.”
+
+STEP 1:
+* Troubling
+* Departure
+* Punish
+* Harm
+* Weaken
+* Democracy
+* Bias
+* Improper
+* Accountable
+* Celebrated
+
+SUMMARY:
+FBI Special Agent Peter Strzok, who was removed from Robert Mueller's team after his anti-Trump texts were discovered, has been fired from the bureau despite a career official's recommendation for a 60-day suspension and demotion. Strzok's attorney called the decision "deeply troubling" and a "departure from typical Bureau practice," contradicting FBI Director Chris Wray's earlier guarantee to follow the regular process. The decision is seen as a response to political pressure, punishing Strzok for his protected First Amendment speech. Strzok's 21-year service and top counterintelligence work were ignored, and the move is a "win" for those who seek to harm our country and weaken our democracy. The inspector general's report had criticized Strzok for his biased texts and use of personal email, but the firing decision raises questions about accountability and fairness. Trump celebrated the news on Twitter, calling for the investigation into his campaign to be dropped. END OF SUMMARY.
+
+Example 2 (Political Ideology: Center, Moral Foundations: Authority/Subversion, Fairness/Cheating, Loyalty/Betrayal):
+Here is the news article:
+
+WASHINGTON — Peter Strzok, the F.B.I. senior counterintelligence agent who disparaged President Trump in inflammatory text messages and helped oversee the Hillary Clinton email and Russia investigations, has been fired for violating bureau policies, Mr. Strzok’s lawyer said Monday.
+
+Mr. Trump and his allies seized on the texts — exchanged during the 2016 campaign with a former F.B.I. lawyer, Lisa Page — in assailing the Russia investigation as an illegitimate “witch hunt.” 
+Mr. Strzok, who rose over 20 years at the F.B.I. to become one of its most experienced counterintelligence agents, was a key figure in the early months of the inquiry.
+
+Along with writing the texts, Mr. Strzok was accused of sending a highly sensitive search warrant to his personal email account.
+
+The F.B.I. had been under immense political pressure by Mr. Trump to dismiss Mr. Strzok, who was removed last summer from the staff of the special counsel, Robert S. Mueller III. 
+The president has repeatedly denounced Mr. Strzok in posts on Twitter, and on Monday expressed satisfaction that he had been sacked.
+
+Mr. Trump’s victory traces back to June, when Mr. Strzok’s conduct was laid out in a wide-ranging inspector general’s report on how the F.B.I. handled the investigation of Hillary Clinton’s emails in the run-up to the 2016 election. 
+The report was critical of Mr. Strzok’s conduct in sending the texts, and the bureau’s Office of Professional Responsibility said that Mr. Strzok should be suspended for 60 days and demoted. 
+Mr. Strzok had testified before the House in July about how he had not allowed his political views to interfere with the investigations he was overseeing.
+
+But Mr. Strzok’s lawyer said the deputy director of the F.B.I., David Bowdich, had overruled the Office of Professional Responsibility and fired Mr. Strzok.
+
+A spokeswoman for the F.B.I. did not respond to a message seeking comment about why Mr. Strzok was dismissed rather than demoted. 
+Firing Mr. Strzok, however, removes a favorite target of Mr. Trump from the ranks of the F.B.I. and gives Mr. Bowdich and the F.B.I. director, Christopher A. Wray, a chance to move beyond the president’s ire.
+
+Aitan Goelman, Mr. Strzok’s lawyer, denounced his client’s dismissal. 
+“The decision to fire Special Agent Strzok is not only a departure from typical bureau practice, but also contradicts Director Wray’s testimony to Congress and his assurances that the F.B.I. intended to follow its regular process in this and all personnel matters,” Mr. Goelman said.
+
+“This decision should be deeply troubling to all Americans,” Mr. Goelman added. 
+“A lengthy investigation and multiple rounds of congressional testimony failed to produce a shred of evidence that Special Agent Strzok’s personal views ever affected his work.”
+
+Mr. Strzok’s text exchanges with Ms. Page demonstrated animosity toward Mr. Trump. 
+In one, Ms. Page asks: Trump is “not ever going to become president, right? Right?!” 
+Mr. Strzok responds: “No. No he won’t. We’ll stop it.” 
+The inspector general, who uncovered the messages, found no evidence that the pair imposed their political views on their investigative decisions but cited that exchange as “not only indicative of a biased state of mind but, even more seriously, implies a willingness to take official action to impact the presidential candidate’s electoral prospects.”
+
+The report by the inspector general, Michael E. Horowitz, that preceded Mr. Strzok’s firing not only criticized his conduct in sending the texts but also his use of personal email accounts to handle sensitive information. 
+In addition, the inspector general criticized Mr. Strzok’s decision not to move swiftly to examine new emails related to the Clinton investigation just weeks before the 2016 election.
+
+Mr. Horowitz said in his report that he was “deeply troubled” by the text messages. 
+Hundreds exchanged over months were found in which the pair disparaged Mr. Trump and, to a lesser extent, Mrs. Clinton, exchanged work gossip and bantered.
+
+On Twitter, Mr. Strzok said he was “deeply saddened by this decision,” adding, “It has been an honor to serve my country and work with the fine men and women of the FBI.”
+
+Mr. Strzok became emblematic of Mr. Trump’s unfounded assertions that a so-called deep state of bureaucrats opposed to him was undermining his presidency. 
+Mr. Trump contended that Mr. Strzok targeted the president and accused Mr. Strzok of being “treasonous” and a “disgrace.” 
+Mr. Strzok told lawmakers that he never leaked information about the Russia inquiry, which could have upended the election and hurt Mr. Trump’s chances of becoming president.
+
+After Mr. Horowitz uncovered the texts, Mr. Mueller, who had by then taken over the investigation, removed Mr. Strzok from his team. 
+He was reassigned to the F.B.I.’s human resources division. 
+Ms. Page, who had left Mr. Mueller’s team before the discovery of the text messages, quit the F.B.I. in May.
+
+The inspector general’s report also took issue with the reaction by Mr. Strzok and other F.B.I. officials to the discovery of possible new evidence in the Clinton investigation, known internally as Midyear Exam, in late September 2016 on a laptop that belonged to the disgraced politician Anthony D. Weiner, the husband of a top Clinton aide.
+
+At the time, Mr. Strzok was in the early stages of investigating whether any Trump associates had conspired with Russia’s interference in the presidential election, and nearly a month passed before agents and analysts began to act on the emails found on Mr. Weiner’s laptop. 
+Mr. Horowitz could not rule out that Mr. Strzok had slow-walked the examination of the new emails to help Mrs. Clinton’s presidential bid.
+
+“Under these circumstances, we did not have confidence that Strzok’s decision to prioritize the Russia investigation over following up on the Midyear-related investigative lead discovered on the Weiner laptop was free from bias,” he wrote.
+
+The delays were merely the “result of bureaucratic snafus,” Mr. Strzok’s lawyer wrote last month in USA Today.
+
+But the justifications for the delay were “unpersuasive” and had “far-reaching consequences,” the inspector general said. 
+James B. Comey, the former F.B.I. director, has told investigators that if he had known about the emails earlier, it might have influenced his decision to alert Congress to their existence days before the election.
+
+In addition, the inspector general said that Mr. Strzok had forwarded a proposed search warrant to his personal email account. 
+The inspector general said the email, which included a draft of the search warrant affidavit, contained information that appeared to be under seal.
+
+In a heated congressional hearing last month, Mr. Strzok expressed “significant regret” for the texts and rebutted the president’s attacks on the Russia inquiry. 
+“This investigation is not politically motivated; it is not a witch hunt; it is not a hoax,” he said.
+
+Mr. Strzok’s dismissal was not unexpected. 
+He is the second senior F.B.I. agent to be fired as a result of the inspector general’s investigation. 
+In March, Andrew G. McCabe, the former deputy director, was fired after the inspector general repeatedly faulted him for misleading investigators.
+
+The firing was politically motivated, Mr. McCabe has said, as an effort to discredit him as a witness in the special counsel investigation.
+
+Both men were fired before they were eligible for their pension and health benefits.
+
+Mr. Strzok, 48, a graduate of Georgetown University, served as an officer in the Army before he joined the F.B.I. 
+He held several key positions in the F.B.I., eventually becoming a top deputy in the counterintelligence division.
+
+He handled many important espionage cases including one involving a former C.I.A. officer suspected of working for China and a group of Russian spies who had been working undercover in the United States.
+
+STEP 1:
+* biased
+* treasonous
+* disgrace
+* unfounded
+* deep
+* troubled
+* sadden
+* honor
+* fine
+* emblematic
+* undermining
+* witch
+* hoax
+* regret
+* significant
+* misleading
+* politically
+* discredit
+
+SUMMARY:
+Peter Strzok, a senior FBI counterintelligence agent, has been fired for violating bureau policies. Strzok was accused of sending inflammatory text messages that disparaged President Trump, and was also criticized for his handling of the Hillary Clinton email and Russia investigations. The FBI's decision to fire Strzok was seen as a victory for Trump, who had repeatedly denounced Strzok as "treasonous" and a "disgrace." Strzok's lawyer argued that the decision was "deeply troubling" and contradicted the FBI's typical practice. The inspector general's report had criticized Strzok's conduct, citing his "biased" state of mind and his decision to prioritize the Russia investigation over the Clinton email investigation. Strzok expressed "significant regret" for his actions and denied that his personal views had affected his work. The firing of Strzok, a 20-year veteran of the FBI, removes a favorite target of Trump's ire and gives the FBI a chance to move beyond the controversy. END OF SUMMARY.
+
+Example 3 (Political Ideology: Right, Moral Foundations: Authority/Subversion, Care/Harm, Fairness/Cheating):
+Here is the news article:
+
+The resurgent controversy over the Obama administration's initial story-line on the Benghazi attack underscores State Department concerns about the leadership's failure to act on documented warnings and security incidents.
+
+Draft "talking points" obtained by The Weekly Standard and ABC News depicted efforts by State Department spokeswoman Victoria Nuland in the days after the attack to strip out references to prior attacks in Benghazi.
+According to the excerpts, she argued that the administration should not give Congress ammunition to "beat up" on her department.
+
+During a press conference Monday, President Obama even acknowledged that the country now knows that "clearly (the staff in Benghazi) were not in a position where they were adequately protected."
+
+A review of now-public State Department records as well as a classified State Department cable, first reviewed and reported by Fox News, shows a steady stream of documented warnings to Washington from intelligence and State security officials on the ground in Libya that the Islamist threat was severe and growing.
+
+One of the most significant warnings was an August 2012 State Department classified cable, which has not been made public, that summarized an emergency meeting in Benghazi where the CIA briefed on the significant threat of terrorist activity.
+
+The cable, sent under Ambassador Chris Stevens' signature and marked SECRET, warned the office of Secretary of State Clinton that the CIA advised "ten Islamist militias and AQ training camps (were) within Benghazi."
+
+The cable also warned that the 17 February Brigade, the group charged with protecting the consulate, appeared to be compromised.
+It said "requests to provide a daily police presence have gone unanswered," adding there was also a "lack of host nation security support to the US mission."
+
+In addition to identifying the presence of Al Qaeda and Ansar al-Sharia in Benghazi, the groups ultimately blamed for the assault, a key section of the cable, which remains classified, seemed to foreshadow the attack itself.
+
+"RSO (Regional Security Officer) expressed concerns with the ability to defend Post in the event of a coordinated attack due to limited manpower, security measures, weapons capabilities, host nation support, and the overall size of the compound," it said.
+
+During congressional hearings in January, Clinton was asked whether she had seen the cable by Republican Rep. Michael McCaul.
+Clinton said she had no knowledge of the warning which former diplomatic security agents have told Fox News amounted to a "cry for help."
+
+"Congressman, that cable did not come to my attention," Clinton testified before the House Foreign Affairs committee.
+"I have made it very clear that the security cable did not come to my attention or above the assistant secretary level where the ARB (Accountability Review Board) placed responsibility where, as I think, Ambassador Pickering said the rubber hit the road."
+
+In February, Republican Sen. Lindsey Graham followed up on the classified cable.
+
+After the chairman of the Joint Chiefs of Staff confirmed he knew about the cable which summarized the August emergency meeting in Benghazi, Graham questioned why the military was read in when Clinton apparently was not.
+
+Gen. Martin Dempsey responded: "Well, I don't know that she didn't know about the cable."
+
+Graham said: "She said she didn't. Are you stunned that she didn't?"
+
+Dempsey said: "I would call myself surprised that she didn't."
+
+In addition to attacks in Benghazi on the British ambassador -- which forced the temporary closure of the U.K. operation -- the International Red Cross and United Nations, in the summer of 2012 the group Ansar al-Sharia was so well-established it held an annual conference in Benghazi to promote Islamic law.
+
+Records released by the House oversight committee, including a report from the regional security officer, also documented more than 200 cases of violence in Libya in the year leading up to the attack, specifically between June 2011 and July 2012.
+Another security review, on June 25, 2012, reported a spike in violence with "foreigners also increasingly targeted."
+
+While much has been made of the State Department's failure to respond to repeated security requests for extra help, a former diplomatic security agent and 20-year veteran of the department, who reviewed the publicly available documents on the condition of anonymity, told Fox News the multiple warnings present a compelling argument that State Department leadership was negligent.
+
+The State Department, in a document put out last week, noted that while an internal review found certain senior officials "demonstrated a lack of proactive leadership and management ability" in response to security concerns, there was no specific finding of misconduct.
+
+STEP 1:
+* negligent
+* failure
+* compromised
+* inadequate
+* lack
+* beat
+* failed
+* cry
+* responsibility
+* negligent
+
+SUMMARY:
+The Obama administration's initial story-line on the Benghazi attack has resurfaced, highlighting the State Department's failure to act on documented warnings and security incidents. Draft "talking points" show efforts to strip out references to prior attacks, with spokeswoman Victoria Nuland arguing that the administration should not give Congress "ammunition to beat up" on her department. Classified cables reveal a steady stream of warnings from intelligence and State security officials on the ground in Libya, including a significant warning in August 2012 that summarized an emergency meeting in Benghazi, where the CIA briefed on the severe and growing Islamist threat. The cable warned of inadequate security measures, limited manpower, and a lack of host nation support, foreshadowing the attack. The State Department's leadership has been accused of being negligent, with a former diplomatic security agent arguing that the multiple warnings present a compelling argument for negligence. END OF SUMMARY.
+
+Now, here is the target news article to summarize:
+Here is the news article:
+
+FBI official Peter Strzok, who played a lead role in both the Russian meddling and Hillary Clinton email probes but became a political lightning rod after the revelation of anti-Trump text messages, has been fired. Strzok attorney Aitan Goelman said in a statement Monday that his client, a 21-year FBI veteran, was fired Friday afternoon, claiming this was a departure from standard practice and politically motivated. Goelman said bureau Deputy Director David Bowdich “overruled” the FBI's Office of Professional Responsibility to remove him.  “This decision should be deeply troubling to all Americans,” the attorney said.  The FBI responded: “Mr. Strzok was subject to the standard FBI review and disciplinary process after conduct highlighted in the IG report was referred to the FBI’s Office of Professional Responsibility (OPR). OPR reviewed the investigative materials, as well as the written and oral responses of Mr. Strzok and his counsel, and issued OPR's decision. The Deputy Director, as the senior career FBI official, has the delegated authority to review and modify any disciplinary findings and/or penalty as deemed necessary in the best interest of the FBI.” Strzok appeared to launch a new Twitter account to fire back, saying he's "deeply saddened" by the decision and linking to a GoFundMe page.  President Trump and his allies for months, though, have hammered the former FBI agent and cast him as the poster child for anti-Trump bias within the bureau and Justice Department.  Reacting to the firing, the president tweeted, "finally," while asking whether the Russia case will now be dropped: "Agent Peter Strzok was just fired from the FBI - finally. The list of bad players in the FBI & DOJ gets longer & longer. Based on the fact that Strzok was in charge of the Witch Hunt, will it be dropped? It is a total Hoax. No Collusion, No Obstruction - I just fight back!" The president over the weekend had tweeted that Strzok and others have “badly damaged” the FBI’s reputation, referring to them as “clowns and losers!”  Strzok was removed from the special counsel probe last year after the discovery that he exchanged anti-Trump and other politically charged messages with colleague and lover Lisa Page.  Judicial Watch Director of Investigations Chris Farrell on how FBI official Peter Strzok requested that he retain his security clearance after being added to special counsel Robert Mueller's team. In June, he was then escorted from his FBI office and lost his security clearance amid the release of a scathing DOJ inspector general report that largely dealt with the DOJ and FBI’s handling of the investigation into Clinton’s private email server but uncovered messages that “appeared to mix political opinion with discussions” about that probe -- namely, between Strzok and Page.   The IG ultimately found no evidence that the bias among the several FBI agents impacted prosecutorial decisions in the Clinton email probe. But Republicans have repeatedly raised concerns that anti-Trump bias played a role in the start of the investigation into Russian meddling and potential collusion with Trump associates in 2016.  One Strzok text in particular vowed to "stop" Trump from becoming president.  In an explosive congressional hearing last month, Strzok sought to clear his name and address the many controversial messages. He claimed his personal opinions did not affect his work. But Republicans tore into the FBI official, with House Oversight Committee Chairman Trey Gowdy saying he exhibited "textbook bias."  Trump's allies cheered the former agent's termination on Monday.  "Peter Strzok was fired from the FBI because of what his own written words plainly showed: he was willing to use his official FBI position to try and stop President Trump from getting elected. He tarnished the FBI's sterling reputation and severely damaged public trust in an institution where trust is paramount. His conduct should deeply concern every American," House Freedom Caucus Chairman Mark Meadows, R-N.C., said in a statement to Fox News.  Strzok’s attorney, meanwhile, blasted the bureau on Monday, saying the deputy director “reversed the decision of the career FBI official responsible for employee discipline who concluded, through an independent review process, that a 60-day suspension and demotion from supervisory duties was the appropriate punishment.” He added, “A lengthy investigation and multiple rounds of Congressional testimony failed to produce a shred of evidence that Special Agent Strzok’s personal views ever affected his work.”  The Justice Department declined to comment for this report.  Text messages first emerged last year, showing Strzok and Page discussing 2016 campaign politics and repeatedly blasting Trump. In one message, Strzok called Trump an "idiot."  Messages continued to trickle out, including some reflecting apparent concern about being too tough on Clinton during the investigation into her private email system use.  The inspector general report, meanwhile, referred a total of five FBI employees for investigation in connection with politically charged texts, suggesting more disciplinary action could be considered for additional employees. Lisa Page left the bureau earlier this year. 
+
+(1) First, you identify all the single words that are morally framed, focusing especially on the dimensions of Authority/Subversion, Care/Harm, Fairness/Cheating. Identify this step as "STEP 1:" and report each word in a new line starting with *
+(2) Finally, you write a summary of the news article. Please preserve as many morally framed words as possible, particularly focusing on the moral dimensions of Authority/Subversion, Care/Harm, Fairness/Cheating in your summary. The summary has to be returned after a "SUMMARY:" token and ending with a "END OF SUMMARY." token. The summary should be no longer than 200 words.

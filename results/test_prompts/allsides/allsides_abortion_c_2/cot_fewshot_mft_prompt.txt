@@ -1,0 +1,245 @@
+You have to summarize the following text preserving the moral framing that the author gave to it, with particular focus on the specific moral foundations highlighted in the text.
+
+Please study the following examples of news articles, their moral word extraction, and summaries preserving the moral framing:
+
+Example 1 (Political Ideology: Left, Moral Foundations: Authority/Subversion, Care/Harm, Fairness/Cheating):
+Here is the news article:
+
+During a Monday interview on the campaign trail, Wendy Davis did something that a lot of politicians do when talking about abortion with national audiences.
+While explaining her position on reproductive rights, she suggested that a so-called world without abortion is something everyone wants.
+
+"The goal that we should have is that we see zero abortions," she said.
+"But in order to achieve that goal we have to make sure that women are receiving the kind of healthcare and planning that they deserve."
+
+Davis did this for the same reasons Bill Clinton said abortion "should not only be safe and legal, it should be rare," back in 1996, and for the same reasons so many other advocates and lawmakers use the exact same line.
+Because they believe it's a moderate position that will save them from being cast as "extreme" when it comes to abortion rights, which they see as a kind of political death.
+
+But ultimately, it's a position that denies reality.
+And Davis -- who is right about so much else -- is wrong about the objectives of the reproductive rights movement.
+There simply is no such thing as a world without abortion, nor should we claim to wish for one.
+Women will always need abortion care.
+What they don't need is more stigma.
+
+"The thing that makes me absolutely nuts is when people say abortion is never necessary to save a woman's life," Dr. Anne Davis, M.D., MPH, a second-trimester abortion provider, associate professor of clinical obstetrics and gynecology at Columbia University Medical Center and consulting medical director at Physicians for Reproductive Health, told Salon.
+"To say abortion does not save women's lives is false, plain and simple.
+And to base policy on that kind of lie sacrifices the health of our patients."
+
+And to base talking points around this same idea -- that there is a world in which abortion may no longer be necessary, that this is the world we should want to live in -- is just as ridiculous.
+
+And shaming.
+Because the necessity of abortion care isn't just about the life and health of the woman in the most literal of terms.
+Women choose abortion in all kinds of circumstances.
+Politicians who frame it as a necessary evil rather than a medical procedure that saves women's lives and protects their autonomy erases that simple but important fact.
+
+"There will always be a need for abortion," Dr. Lin-Fan Wang, M.D., MPH, a doctor of family medicine, told Salon.
+"I absolutely support removing cost and other barriers to getting contraception, but even if we can do that, women will still face challenges getting it and other care they need.
+Women have issues finding a provider they trust.
+There are providers who have misconceptions about who can take birth control and what kind.
+There is reproductive coercion -- circumstances in relationships, some involving domestic violence -- that make that access an impossibility."
+
+And, of course, birth control isn't 100 percent effective.
+There will always be broken condoms, missed pills.
+There is no guarantee against human error or plain bad luck.
+
+Circumstances also change, and even wanted pregnancies can become unwanted pregnancies.
+Wang recently had a patient who, though she had planned for and wanted the pregnancy, could no longer afford another child after her husband lost his job.
+This is an increasingly common reality faced by many families who are only one paycheck away from financial calamity.
+
+No two women will ever have the same abortion experience.
+Culturally, we seem to be getting ever so slightly better at understanding that.
+But we need to make sure that our policies -- and the ways we advocate for those policies -- reflect this understanding by focusing on women themselves, not the number of abortions performed each year.
+
+There is a way to have nuanced conversations about the complexity of people's personal views about abortion without suggesting it's a problem to be solved or a social ill to be eradicated.
+It's a medical procedure, an incredibly safe and common one.
+Calling "zero abortions" a goal is -- besides being completely false -- line for line, what antiabortion lawmakers like Rick Perry say when advocating for policies that deny women basic medical care.
+
+This isn't an idea we should be repeating.
+
+"Those of us who are doctors and policymakers should have procedures and laws in place that understand each woman's situation is unique.
+We have to ensure that women are empowered to make the best medical decision for them, based on their circumstances," Wang noted, reflecting on her own patients.
+"I know from personal experience that women are extremely thoughtful about these decisions.
+We should be focused on their health and the best ways to support them."
+
+If we're doing that -- as I'm sure Wendy Davis would agree -- then who cares about the numbers?
+
+STEP 1:
+* extreme
+* moderate
+* ridiculous
+* shaming
+* false
+* lie
+* ridiculous
+* necessary
+* evil
+* autonomy
+* simple
+* important
+* barriers
+* misconceptions
+* reproductive
+* coercion
+* bad
+* luck
+* calamity
+* nuanced
+* complex
+* problem
+* social
+* ill
+* false
+* unique
+* empowered
+* thoughtful
+* best
+
+SUMMARY:
+Wendy Davis, a politician, recently stated that the goal should be to see "zero abortions," suggesting that a world without abortion is desirable. However, this position is deemed "ridiculous" and "shaming" by some reproductive rights advocates, who argue that women will always need abortion care. Dr. Anne Davis, a second-trimester abortion provider, asserts that abortion is sometimes necessary to save a woman's life, and that denying this reality is a "lie." Dr. Lin-Fan Wang, a doctor of family medicine, emphasizes that there will always be a need for abortion due to various circumstances, including reproductive coercion, financial constraints, and human error. The article argues that instead of striving for "zero abortions," policymakers should focus on empowering women to make informed medical decisions and providing them with access to necessary care. END OF SUMMARY.
+
+Example 2 (Political Ideology: Center, Moral Foundations: Fairness/Cheating):
+Here is the news article:
+
+Obama Team To Make Important, If Symbolic, Choice On Gay Marriage
+
+The Obama administration faces tricky political and legal questions on the subject of gay marriage.
+By the end of this month, the federal government is expected to file not just one but two briefs in a pair of same-sex marriage cases at the U.S. Supreme Court.
+
+But it is the Proposition 8 case from California that poses the thornier questions for the administration — questions so difficult that the president himself is expected to make the final decision on what arguments the Justice Department will make in the Supreme Court.
+
+Prop 8, as it is known, is the California ballot initiative banning same-sex marriage.
+It was narrowly approved by state voters in 2008.
+A federal district court struck down the law as unconstitutional discrimination in 2010.
+A federal appeals court later agreed, but on narrower grounds.
+Because there was a period of time in which same-sex couples could legally marry in California, the court said, it was unconstitutional for the state, through the ballot initiative, to take away a fundamental right it had previously granted.
+
+The state, under both Republican and Democratic governors, has declined to defend the measure in court.
+So its ban on gay marriage is being defended by the sponsors of the initiative.
+
+The Obama administration is not required to file any brief in the case because it does not directly involve federal law.
+But administration sources say the government will file a brief.
+Still unresolved is what the brief will say.
+And in this case, much more than most, there are numerous legal routes that the government can take.
+
+The ultimate question — the one perhaps most people want an answer to but may not get — is whether same-sex couples have a constitutional right to marry.
+A Supreme Court decision that says yes to that would invalidate laws in some 30 states.
+But there are many legal avenues short of such a far-reaching argument that would invalidate Proposition 8 in California and leave laws in other states intact.
+
+What makes this even dicier is that President Obama has changed his position, seemingly a lot, over the past eight months.
+In May, in an ABC interview, he for the first time endorsed same-sex marriage from a personal point of view, but he went on to say that the decision on legalizing gay marriage should be left to the states, where marriage matters are traditionally governed.
+
+"It is important for me to go ahead and affirm that I think same-sex couples should be able to get married.
+And I continue to believe that this is an issue that is going to be worked out at the local level, because historically this has not been a federal issue," he said.
+
+But eight months later at his inauguration, the president seemed to take a more expansive view.
+"Our journey is not complete until our gay brothers and sisters are treated like anyone else under the law.
+For if we are truly created equal, then surely the love we commit to one another must be equal as well," Obama said.
+
+That language suggests the president believes in a more basic constitutional right to marry, analogous to the right enunciated in a unanimous 1967 Supreme Court ruling that struck down laws barring interracial marriage.
+In that case, ironically, the federal government took no position in the Supreme Court.
+
+So what will Obama do now that he faces similar questions in a case about sexual orientation, not race?
+
+His administration could make a bold, full-throated defense of the right to marry, an argument that Obama seemed to suggest at his inaugural.
+Or it could argue a number of lesser positions: That California, having extended the right to marry to gay couples for a window of time, could not revoke the right.
+Or that California, like some other states, has a law extending all rights to same-sex couples, except the right to marry, and that such a distinction amounts to discrimination.
+Or it could argue that since the state is not defending the law, the case does not belong in court at all — that the sponsors of the initiative have no legal standing in court.
+
+For the gay community, and for those advocating traditional marriage between a man and a woman, the position the government takes in this case is hugely important — if nothing else, as a symbol.
+Both sides have made formal presentations at the Justice Department urging the administration to take their side.
+But the deadline has already passed for a brief siding with Proposition 8 supporters, leaving only the question of what a brief on the other side will say.
+
+Same-sex marriage advocates are holding their collective breath for now and maintaining a pretty studied public silence, hoping to avoid the impression that the gay community is pressuring the administration.
+
+Still, lawyers who argue regularly before the court are not so sure that the administration's brief, whatever it says, will make a big difference to the justices.
+
+"I'm never going to tell you that the solicitor general's position doesn't matter," says former Bush administration Solicitor General Paul Clement.
+But in this case, he says, "I think it matters less."
+
+Clement was hired by the House Republican leadership to defend the constitutionality of the Defense of Marriage Act, or DOMA, in a case that is paired with the Proposition 8 case in the Supreme Court.
+The reason he thinks the administration's brief in the Proposition 8 case matters less, he says, is "because we already know what their position is on DOMA and one can extrapolate."
+
+In the DOMA case, the Obama administration argues that the federal law is unconstitutional because it bars federal benefits to legally married same-sex couples — benefits that go automatically to legally married heterosexual couples.
+
+Supreme Court advocate Tom Goldstein, founder of SCOTUSblog, makes a different point — that sometimes Supreme Court briefs are aimed at more than one audience.
+He notes that in a truly historic case like this one, "I think part of what's going on ... is a statement about what is morally right and wrong.
+And so I think it could matter to Americans much more than it matters to the Supreme Court."
+
+STEP 1:
+* equal
+* right
+* equal
+* morally
+* right
+* wrong
+
+SUMMARY:
+The Obama administration is facing a crucial decision on gay marriage, with the President himself expected to make the final call on the Justice Department's arguments in the Proposition 8 case at the U.S. Supreme Court. The case poses a moral dilemma, as the administration must decide whether to take a bold stance on the constitutional right to marry, or argue lesser positions. The President's previous statements on the issue have been ambiguous, but his inaugural address suggested a more expansive view, stating that "our gay brothers and sisters are treated like anyone else under the law." The administration's brief will carry significant symbolic weight, as it will be seen as a statement on what is morally right and wrong. Same-sex marriage advocates are holding their breath, hoping the administration will take a strong stance in favor of equality and right. The outcome of this case could have far-reaching implications, potentially invalidating laws in 30 states. END OF SUMMARY.
+
+Example 3 (Political Ideology: Right, Moral Foundations: Authority/Subversion):
+Here is the news article:
+
+A group of 14 Wisconsin parents has filed a lawsuit against a local school district for its policy allowing teachers to address their children by their preferred "gender identity" without notifying them first.
+
+Wisconsin Institute for Law and Liberty (WILL), a conservative law firm, filed the 19-page lawsuit on Tuesday on behalf of the parent's group against the Madison Metropolitan School District (MMSD).
+The 14 parents were not named in the document.
+
+The lawsuit alleges that MMSD's transgender policy is unconstitutional because it prohibits teachers and staff from informing parents that their children want to switch sexes.
+
+"This action seeks to vindicate parents' fundamental and constitutional right to direct the upbringing of their children," the lawsuit argues.
+"The Madison Metropolitan School District has violated this important right by adopting a policy designed to circumvent parental involvement in a pivotal decision affecting their children's health and future.
+The policy enables children, of any age, to socially transition to a different gender identity at school without parental notice or consent."
+
+While parental consent is needed before a child's name can be changed legally in the district's official records, the school district policy announced in 2018 says students can be called by their preferred name and gender pronouns without parental permission.
+
+The policy states that the district is committed to affirming each student's self-designated gender identity and the district will strive to "disrupt the gender binary" with books and lessons stating that everyone has the right to choose their gender.
+
+The school policy allows students to pick new names and pronouns they can use at school regardless of whether they have a parent's permission.
+All teachers and district staff must refer to students by their chosen names and pronouns even though the names aren't official in district systems.
+
+The parents argue the policy violates the state constitution's due process clause, which protects parents' right to raise their children according to the parents' beliefs.
+
+"Madison schools have adopted policies that violate constitutionally recognized parental rights.
+A public school district should not, and cannot, make decisions reserved for parents," WILL President and General Counsel Rick Esenberg said in a statement.
+
+District spokesman Tim LeMonds said Tuesday that the district had not been served with the lawsuit and could not comment until it had a chance to review it.
+But LeMonds said the district stands by its guidance on transgender and nonbinary students.
+
+The lawsuit also argues that keeping parents in the dark about their children's sexuality interferes with parents' right to guide their children through life-altering decisions and provide professional help their children may urgently need.
+
+"There is no compelling government interest in keeping secret from parents that their child is dealing with gender dysphoria," the lawsuit reads.
+
+The parents also argue that the policy violates the state constitution's religious freedom guarantee.
+
+All of the parents say they believe God intended humans to be male and female, and the district's choice to hide students' gender struggles interferes with their right to guide their children in accordance with their religious beliefs
+
+STEP 1:
+* unconstitutional
+* fundamental
+* right
+* pivotal
+* important
+* circumvent
+* violated
+* affirming
+* disrupt
+* recognized
+* reserved
+* interferes
+* compelling
+* secret
+* religious
+* freedom
+* intended
+* interferes
+
+SUMMARY:
+A group of 14 Wisconsin parents has filed a lawsuit against the Madison Metropolitan School District (MMSD) over its policy allowing teachers to address their children by their preferred "gender identity" without notifying them first. The parents argue that the policy is unconstitutional and violates their fundamental right to direct the upbringing of their children. They claim that the policy circumvents parental involvement in a pivotal decision affecting their children's health and future. The policy enables children to socially transition to a different gender identity at school without parental notice or consent, which the parents believe interferes with their right to guide their children through life-altering decisions and provide professional help their children may urgently need. The lawsuit also argues that the policy violates the state constitution's religious freedom guarantee, as the parents believe God intended humans to be male and female.
+END OF SUMMARY.
+
+Now, here is the target news article to summarize:
+Here is the news article:
+
+More than 180 CEOs have signed a letter opposing laws and regulations that restrict women's reproductive healthcare, including abortion. The letter appears today as a full-page ad in The New York Times under the heading "Don't Ban Equality," and comes less than a month after Alabama Gov. Kay Ivey signed the most restrictive abortion legislation in the U.S., banning doctors from performing abortion at any stage of pregnancy, punishable by 99 years in prison. The law includes no exceptions for cases of rape or incest. Several other states — including Georgia, Arkansas, Indiana and Missouri — have adopted similar laws this year. Twitter and Square CEO Jack Dorsey, along with fashion designer Rebecca Minkoff, Diane Von Furstenburg and CEOs from companies including Yelp, H&M, The Body Shop and Glossier, say they signed the letter to send a clear message that restricting access to reproductive care, including abortion, is "against our values, and is bad for business." Such legislation, the executives write, inhibits "our ability to build diverse and inclusive workforce pipelines, recruit top talent across the states, and protect the well-being of all the people who keep our businesses thriving day in and day out." Andrea Blieden, U.S. general manager of The Body Shop tells CNBC Make It that "access to reproductive health care is recognized as a human right" and says the letter emphasizes the company's outlook that it is essential U.S. law "respect, protect and fulfill the human rights of women." "We believe that a woman's ability to access reproductive health care is critical to her autonomy, economic success, physical and mental health and general empowerment in the workplace," says Blieden. "As a brand that stands for equality and women's empowerment, we believe it's important that we take a stand and join this cause." Seventh Generation CEO Joey Bergstein says that now more than ever, it's essential for CEOs and executives to speak up. "We're deep believers that companies and businesses can and must be a force for good," he says. "You'll notice in our mission that we don't talk at all about selling eco-friendly home and personal care products. We talk about the change we're trying to create in the world, and that's inclusive of social change, with this being a pivotal issue." A 2017 survey conducted by public relations firm Weber Shandwick found that 47% of millennials believe CEOs have a responsibility to speak up about issues that are important to society. Additionally, 28% of Gen Xers and Boomers agreed. In May, seven female CEOs from companies including Sustain Natural, Thinx and LOOM ran a full-page ad in The New York Times affirming abortion as healthcare and a human right, and urging other business leaders to do the same. Entertainment companies including Disney, Netflix and WarnerMedia announced last month that they would consider ceasing production in Georgia if the state's restrictive abortion law takes effect. "I think many people who work for us will not want to work there, and we will have to heed their wishes in that regard," Disney CEO Bob Iger told Reuters. "Right now we are watching it very carefully." The letter that appears today in The Times was spearheaded by the American Civil Liberties Union (ACLU), Planned Parenthood Federation of America, NARAL Pro-Choice America and the Center for Reproductive Rights. These organizations have also partnered to launch DontBanEquality.com, a site where people can learn more about the group's mission and where CEOs can add their names to the letter. "It's critical that business leaders stand up and use our voice on incredibly important issues," says Bergstein. "And I think reproductive rights and women's equality is one of the most important issues of our time."
+
+(1) First, you identify all the single words that are morally framed, focusing especially on the dimensions of Authority/Subversion, Care/Harm, Fairness/Cheating. Identify this step as "STEP 1:" and report each word in a new line starting with *
+(2) Finally, you write a summary of the news article. Please preserve as many morally framed words as possible, particularly focusing on the moral dimensions of Authority/Subversion, Care/Harm, Fairness/Cheating in your summary. The summary has to be returned after a "SUMMARY:" token and ending with a "END OF SUMMARY." token. The summary should be no longer than 200 words.

@@ -1,0 +1,19 @@
+Here are the single words that are morally framed from the target news article:
+
+STEP 1:
+* sanctuary
+* federal
+* public
+* safety
+* crimes
+* alien
+* prohibited
+* dangers
+* unfairly
+* protected
+* attacked
+* resilient
+* strong
+
+SUMMARY:
+San Francisco's newly elected sheriff, Paul Miyamoto, has declared that his department will no longer cooperate with Immigration and Customs Enforcement (ICE), cementing the city's status as a sanctuary jurisdiction. The decision is based on Miyamoto's belief that immigration enforcement is a federal matter, not a local concern. He argues that honoring ICE detainers would undermine public safety by creating fear among community members. However, critics, including President Trump, argue that such policies create dangers for citizens and encourage illegal aliens to commit additional crimes after their release from custody. San Francisco Mayor London Breed defended the city's protection of illegal aliens, declaring that it will "fight against those attacks" and continue to prioritize public safety. The move has been met with criticism from the Trump administration, which sees California's sanctuary policies as a threat to national security. END OF SUMMARY.

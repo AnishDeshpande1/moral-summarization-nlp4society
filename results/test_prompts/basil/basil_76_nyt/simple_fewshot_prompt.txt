@@ -1,0 +1,122 @@
+You have to summarize the following text preserving the moral framing that the author gave to it.
+
+Please study the following examples of news articles and their summaries preserving the moral framing:
+
+Example 1 (Political Ideology: Left):
+Here is the news article:
+
+WASHINGTON ― The White House relayed President Donald Trump’s response late Thursday to bombshell allegations that Alabama GOP Senate nominee Roy Moore sexually molested a 14-year-old girl in 1979.
+
+White House press secretary Sarah Huckabee Sanders, traveling with the president on his trip to Asia, told reporters that Trump “believes that we cannot allow a mere allegation ― in this case, one from many years ago ― to destroy a person’s life” but that if the allegations are true, “Judge Moore will do the right thing and step aside.”
+
+A spokesperson for Vice President Mike Pence said the veep “found the allegations in the story disturbing and believes, if true, this would disqualify anyone from serving in office.”
+
+Moore’s campaign denied the allegations, which The Washington Post first reported, telling the paper the accusations of four women are “the very definition of fake news.”
+The Post reporters talked to more than 30 sources in the course of their investigation.
+
+On Thursday, numerous Republican lawmakers on Capitol Hill called on Moore to drop out of the race ― if the allegations are true.
+
+During his 2016 campaign, Trump dismissed allegations of sexual misconduct against himself from more than a dozen women and threatened to sue some of his accusers.
+He claimed that a 2005 tape of him bragging about sexual assault, which was released last fall, was “locker room talk.”
+
+In September, Moore, a controversial judge in Alabama, won the primary for the special election.
+He beat GOP establishment candidate Sen. Luther Strange (R-Ala.), who was chosen to fill the seat left vacant when Jeff Sessions became Trump’s attorney general.
+
+Trump notably backed Strange over Moore, though many members of his base, including former White House chief strategist Steve Bannon, supported Moore.
+
+But after Moore won, Trump disavowed his endorsement of Strange, deleting tweets in support of him.
+And the day after the primary, the president tweeted in support of Moore, calling him “a really great guy.”
+
+SUMMARY:
+
+The White House has responded to allegations of sexual misconduct against Alabama GOP Senate nominee Roy Moore, with President Trump's press secretary saying that a mere allegation should not destroy a person's life, but if true, Moore should step aside. Vice President Mike Pence also found the allegations disturbing and believes they would disqualify anyone from serving in office if true. However, Moore's campaign has denied the allegations, calling them "fake news." This response is hypocritical, considering Trump's own history of dismissing allegations of sexual misconduct against himself and threatening to sue his accusers. The allegations against Moore are particularly disturbing, as they involve a 14-year-old girl. Many Republican lawmakers have called on Moore to drop out of the race if the allegations are true. The president's own moral character is called into question by his support for Moore, despite having previously backed Moore's opponent in the primary.
+
+END OF SUMMARY.
+
+Example 2 (Political Ideology: Center):
+Here is the news article:
+
+Hillary Clinton and her running mate, Sen. Tim Kaine of Virginia, speak to reporters on board the Clinton campaign plane on Saturday.
+
+PITTSBURGH—Hillary Clinton on Saturday drew a contrast between how she and Republican rival Donald Trump would conduct their first 100 days in office, zeroing in on his contention that he would sue the women who have accused him of making unwanted sexual advances.
+
+Speaking to reporters on her campaign plane Saturday night, Mrs. Clinton and her running mate, Sen. Tim Kaine of Virginia, said Mr. Trump seemed less intent on governing than on avenging personal grievances.
+
+Earlier on Saturday, Mr. Trump spoke at the Civil War battlefield in Gettysburg, Pa., where he laid out his agenda for the first 100 days of his presidency and threatened to sue his accusers after the election.
+
+The remark got the attention of the Clinton campaign, which has been trying to make inroads among college-educated women who normally vote Republican.
+
+“Our opponent, Donald Trump, went to Gettysburg, one of the most extraordinary places in American history,” Mrs. Clinton said, “and basically said if he’s president he will spend his time suing women who have made charges against him based on his behavior.”
+
+By contrast, she said, “Tim and I are going to keep talking about what we want to do if we’re given the great honor of serving as president and vice president.
+We’ll get to work the day after the election and do everything possible to be prepared on Jan. 20 to start doing the business of the American people.”
+
+Mr. Kaine, who was accompanying Mrs. Clinton to a late-night rally in Philadelphia, added that Mr. Trump “seemed most personally invested in…all of the scores that he needs to settle with people he’s mad at.”
+
+The pair had just come from a rally at a local high school in Pittsburgh.
+Both campaigns have made Pennsylvania a particular focus.
+Analysts believe that a Clinton victory in the state would cut off one possible path by which Mr. Trump could reach the needed threshold of 270 electoral votes.
+
+Speaking to 1,800 people at the Pittsburgh rally, Mrs. Clinton touched on a theme she has emphasized in recent days: that Mr. Trump is a danger to America’s democratic traditions.
+She has faulted him for saying during Wednesday’s presidential debate that he might not concede the election in the event of a defeat.
+
+Failing to accept election results, however disappointing, is the difference between “leadership and dictatorship,” Mrs. Clinton said Saturday, adding that Mr. Trump shows a troubling disregard for constitutional freedoms and protections.
+
+She also referred to the GOP presidential nominee’s contention that she should be jailed for using a private email system while she was secretary of state.
+
+“Every time he says he wants to jail his opponent—meaning me—I think to myself, ‘We don’t do that in America.
+We actually have laws and courts and an independent judiciary,’” she said.
+
+Mrs. Clinton spent part of the 37-minute address making a case for Democratic Senate candidate Katie McGinty, who is challenging incumbent Pennsylvania Republican Pat Toomey.
+
+Democrats believe Mr. Toomey’s defeat is central to retaking control of the Senate and providing Mrs. Clinton with a friendlier Congress should she win in November.
+Mr. Toomey leads by about two points in the Real Clear Politics average of polls.
+
+In devoting time to Ms. McGinty’s campaign, Mrs. Clinton showed she is thinking about down-ballot races that would affect her policy agenda should she win on Nov. 8.
+
+“Katie will help us break through the gridlock—actually make a difference in people’s lives,” Mrs. Clinton said.
+
+SUMMARY:
+
+Hillary Clinton drew a stark contrast between her and Donald Trump's approaches to governing, highlighting Trump's focus on personal grievances over the needs of the American people. Trump threatened to sue the women who have accused him of sexual misconduct, demonstrating a disturbing disregard for the rule of law and the principles of democracy. Clinton, on the other hand, emphasized her commitment to working for the people, starting from day one of her presidency. She also criticized Trump's refusal to accept election results, labeling it a hallmark of dictatorship. Clinton's running mate, Tim Kaine, echoed her sentiments, accusing Trump of being more invested in settling personal scores than in serving the nation. The contrast between the two candidates' values and priorities could not be clearer, with Clinton championing democratic traditions and the rule of law, while Trump promotes a culture of vengeance and authoritarianism.
+
+END OF SUMMARY.
+
+Example 3 (Political Ideology: Right):
+Here is the news article:
+
+Call it Cheney versus Cheney.
+
+Mary Cheney, one of ex-Vice President Dick Cheney’s two daughters, has taken to Facebook to blast her older sibling, Elizabeth, a Wyoming Senate candidate, for the latter’s stance on same-sex marriage, The New York Times is reporting.
+
+Mary Cheney, openly lesbian and married to Heather Poe since 2012, reportedly posted to her personal page on the social media site: “For the record, I love my sister, but she is dead wrong on the issue of marriage.
+
+“Freedom means freedom for everyone.
+That means that all families — regardless of how they look or how they are made — all families are entitled to the same rights, privileges and protections as every other.”
+
+The Times reports Liz Cheney on Friday first articulated her position on the controversial subject, saying it should be something for voters to decide on a state-by-state basis, and not a matter for “judges” or “legislators.”
+
+“I am not pro-gay marriage,” Liz Cheney reportedly said.
+“I believe the issue of marriage must be decided by the states, and by the people in the states, not by judges and not even by legislators, but by the people themselves.”
+
+Her sister replied by pulling no punches.
+
+“It’s not something to be decided by a show of hands,” Mary Cheney reportedly wrote on her personal Facebook page, concluding her internecine post by saying, “Please like and share if you agree.”
+
+Elizabeth Cheney declared in July she plans to challenge incumbent Senator Mike Enzi, also a Republican, in the state’s Republican primary.
+The election is slated for 2014.
+
+Former Vice President Cheney has publicly voiced support for same-sex marriage and, mirroring Elizabeth’s stance, has reportedly said the matter should be decided on a state-by-state basis.
+
+SUMMARY:
+
+In a rare display of sibling disagreement, Mary Cheney, an openly lesbian woman, has publicly criticized her sister Elizabeth Cheney, a Wyoming Senate candidate, for her stance on same-sex marriage. Mary Cheney took to Facebook to express her disagreement, stating that "freedom means freedom for everyone" and that all families deserve the same rights and protections. Elizabeth Cheney, on the other hand, believes that the issue of marriage should be decided by the states and their people, rather than by judges or legislators. Mary Cheney countered that it's not something to be decided by a "show of hands." The disagreement is particularly notable given that their father, former Vice President Dick Cheney, has publicly voiced support for same-sex marriage and also believes it should be decided on a state-by-state basis. The moral framing of this story highlights the importance of standing up for what is right, even if it means disagreeing with family members.
+
+END OF SUMMARY.
+
+Now, here is the target news article to summarize:
+Here is the news article:
+
+Republican officials in Alabama staunchly defended their party’s Senate nominee, Roy S. Moore, after a report that he had made sexual advances toward four teenage girls when he was in his 30s. The Washington Post reported that, in early 1979, Mr. Moore, then a district attorney and later the chief justice of the state Supreme Court, had approached a 14-year-old, eventually kissing her, undressing her, touching her over her bra and underpants, and guiding her hand to touch him over his underwear. The paper found three other women who said they had been pursued by Mr. Moore around the same time, when they were between 16 and 18 years old. The Post interviewed more than 30 people in reporting its account. Mr. Moore told The Post that the allegations were “completely false and are a desperate political attack by the National Democrat Party and the Washington Post on this campaign.” He is set to face Doug Jones, a Democrat, in a special election next month. The story was met with immediate backlash from Republicans in Alabama, several of whom dismissed the women’s stories out of hand. Some called the article a partisan plot, even as the reporters behind it described in detail how they had uncovered the story and corroborated the allegations. Here are some of the officials’ responses. ‘Total contrived media garbage’ That’s how John Skipper, 66, a former chairman of the Mobile County Republican Party, characterized the claims, speaking to The New York Times. He said that he and other Alabama Republicans would continue to support their candidate and echoed Mr. Moore’s assertion that the Democratic Party had been behind the story. “Most of them will not be shocked,” he said, “and will rather be expecting these shenanigans being pulled by the Democrats as standard operating procedure.” Alabama’s state auditor, Jim Ziegler, told The Washington Examiner that the women’s claims were “much ado about nothing” and said that Mr. Moore had done nothing “immoral or illegal.” (Alabama law, both in 1979 and now, finds that someone who is 19 or older and has sexual contact with someone between the ages of 12 and 16 is guilty of second-degree sex abuse.) Mr. Ziegler sought to justify Mr. Moore’s actions by comparing him to the biblical Joseph, saying, “Mary was a teenager and Joseph was an adult carpenter. They became parents of Jesus.” “If they believe this man is predatory, they are guilty of allowing him to exist for 40 years,” he said. “I think someone should prosecute and go after them. You can’t be a victim 40 years later, in my opinion.” Daniel Dale, a reporter for The Toronto Star, contacted multiple Republican officials in the state and kept a running report of their responses to the story. Jerry Pow, the party chairman for Bibb County, told Mr. Dale that he’d back Mr. Moore even if the candidate had committed a sex crime. “I would vote for Judge Moore because I wouldn’t want to vote for Doug,” he said. “I’m not saying I support what he did.” Others, including the party chairmen for Covington County, William Blocker, and Mobile County, John Skipper, dismissed the story as a Democratic trick. Mr. Blocker said that he would not change his mind even if there was proof that Mr. Moore was guilty. Riley Seibenhener, the party chairman in Geneva County, told Mr. Dale that if the allegations were true, he would not support the candidate. But he also said that Mr. Moore was not guilty of “forcible rape.” “I know that 14-year-olds dont’t make good decisions,” he said.
+
+The summary has to be returned after a "SUMMARY:" token and ending with a "END OF SUMMARY." token. The summary should be no longer than 200 words.

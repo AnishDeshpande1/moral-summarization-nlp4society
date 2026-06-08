@@ -1,0 +1,201 @@
+You have to summarize the following text preserving the moral framing that the author gave to it, with particular focus on the specific moral foundations highlighted in the text.
+
+Please study the following examples of news articles, their moral word extraction, and summaries preserving the moral framing:
+
+Example 1 (Political Ideology: Left, Moral Foundations: Authority/Subversion, Fairness/Cheating):
+Here is the news article:
+
+Former Mexican President Vicente Fox on Wednesday harshly criticized current President Enrique Peña Nieto for inviting Republican presidential candidate Donald Trump to meet with him south of the border, just hours before he is due to give a widely anticipated speech on immigration in Arizona.
+
+“He is not welcome to Mexico,” Fox said in an interview on CNN.
+“By 130 million people, we don’t like him, we don’t want him. We reject his message.”
+
+Trump tweeted Tuesday that he had accepted an invitation to meet Peña Nieto in private.
+An invitation had also been extended to his Democratic opponent, Hillary Clinton, but the former secretary of state’s campaign said she was looking forward to speaking with him at the “appropriate time.”
+
+Trump has spent more than a year railing against Mexico and its leaders, promising the country would pay for the construction of a wall on the border it shares with the U.S., as well as fear-mongering about “rapists” and drug dealers that are coming across it.
+
+The surprise meeting abroad with a foreign leader will be Trump’s first as a presidential nominee, and is not without risks to his candidacy.
+Mitt Romney’s trip to Israel during the 2012 presidential campaign, for example, did not go over well.
+Peña Nieto’s approval rating fell to a record low earlier this year amid several corruption scandals.
+He, too, may seize on the meeting as an opportunity to bolster his image with Mexicans.
+
+In his interview on CNN, Fox warned Peña Nieto would be viewed like “a traitor” if he does not stand up to the GOP nominee.
+
+“Trump is using Mexico, using President Peña to boost his sinking poll numbers,” Fox said.
+“I think the President Peña is taking an enormous political risk by hosting Trump.
+If he’s gone soft on Trump, it will hurt him greatly.
+He will even be considered like a traitor because we don’t accept to be offended like we just heard, and it should not happen.
+He comes here with a smile on his face.
+I think this is a big mistake on part of President Peña.”
+
+“It’s a very opportunistic move and I hope U.S. public opinion, U.S. citizens can see this and finally, and finally see what is behind Trump, this false prophet that is just cheating everybody,” he added.
+“It’s a desperate move and I don’t see how it can work at all.”
+
+Earlier this year, Fox railed against Trump in an expletive-laden outburst, promising that Mexico would “never pay for that fucking wall.”
+He later apologized, and even invited Trump “to come to Mexico and to learn about the real Mexico.”
+
+Trump noted so helpfully in a tweet Wednesday morning.
+
+“Former President Vicente Fox, who is railing against my visit to Mexico today, also invited me when he apologized for using the “f bomb.””
+
+Fox tweeted his own recollection in response:
+
+“, I invited you to come and apologize to all Mexicans.
+Stop lying! Mexico is not yours to play with, show some respect.”
+
+STEP 1:
+* traitor
+* offended
+* false
+* prophet
+* cheating
+* desperate
+* lying
+* respect
+
+SUMMARY:
+Former Mexican President Vicente Fox strongly criticized current President Enrique Peña Nieto for inviting Republican presidential candidate Donald Trump to meet with him in Mexico. Fox stated that Trump is "not welcome to Mexico" and that the Mexican people "reject his message." Fox warned that if Peña Nieto does not stand up to Trump, he will be viewed as a "traitor" and that Trump is using the meeting to "boost his sinking poll numbers." Fox called Trump's actions "opportunistic" and "desperate," and accused him of "cheating" and being a "false prophet." Fox also tweeted that Trump should "show some respect" to Mexico. The meeting is seen as a risky move for both Trump and Peña Nieto, with the potential to hurt their approval ratings. END OF SUMMARY.
+
+Example 2 (Political Ideology: Center, Moral Foundations: Care/Harm, Fairness/Cheating):
+Here is the news article:
+
+From his home at Mar-a-Lago, Donald J. Trump stirred up new controversy this week in the Republican presidential primary — and new alarm among party leaders that the front-runner for the nomination will drive away women from candidates running farther down the ballot in the fall.
+
+All week, Mr. Trump has slowly escalated a war of words on Twitter against Senator Ted Cruz of Texas, his main competition in the Republican race, based on an ad by a “super PAC” started by people who want to stop the New York developer from getting the nomination.
+The spot featured an old nude photo shoot of Mr. Trump’s wife Melania Trump, a former model, posing on his jet.
+
+Mr. Cruz has no affiliation with the super PAC, and he has denounced the ad.
+But Mr. Trump has continued to express disbelief.
+After threatening to “spill the beans” on Mr. Cruz’s wife, Heidi Cruz, who suffered a bout of depression years ago, he retweeted a post from someone who made a side-by-side photo comparison of Mrs. Cruz at an unflattering angle, and Mrs. Trump.
+
+On Wednesday, Mr. Cruz repeatedly quoted from the movie “The American President” to defend his wife, as she held an event and faced questions about Mr. Trump’s threats.
+But that was before Mr. Trump’s Twitter post with the pictures of the two women.
+And Mr. Cruz had finally had enough.
+
+Calling Mr. Trump a “sniveling coward,” Mr. Cruz told his rival to “leave Heidi the hell alone.”
+
+It’s useful to remember the news media outrage in 2012 when Todd Akin, running as the Republican nominee for Senate in Missouri, defended what he called “legitimate rape,” a remark that was overwhelmingly offensive to women.
+Under pressure from news outlets, the Republican Party tried to cauterize the wound that Mr. Akin had created by isolating him.
+
+Spouses are generally seen as off limits.
+And the responses to Mr. Trump’s comments among news media critics, over time, have been far more subdued.
+
+STEP 1:
+* controversy
+* alarm
+* war
+* disbelief
+* threatening
+* unflattering
+* defend
+* sniveling
+* coward
+* offensive
+* isolating
+* subdued
+
+SUMMARY:
+Donald Trump, the front-runner for the Republican presidential nomination, has sparked controversy and alarm among party leaders with his recent Twitter attacks on Senator Ted Cruz's wife, Heidi Cruz. Trump's threatening and sniveling behavior has been widely criticized, with many calling him a coward for targeting Mrs. Cruz. The attacks, which included a side-by-side photo comparison of Mrs. Cruz and Trump's wife Melania, have been deemed offensive and unflattering. Cruz has defended his wife, quoting from the movie "The American President" and telling Trump to "leave Heidi the hell alone." The incident has drawn comparisons to the 2012 controversy surrounding Todd Akin's comments on "legitimate rape," which were also widely condemned as offensive. END OF SUMMARY.
+
+Example 3 (Political Ideology: Right, Moral Foundations: Authority/Subversion, Care/Harm, Sanctity/Degradation):
+Here is the news article:
+
+New York – In his first major foreign policy speech since launching his presidential campaign, U.S. Sen. Marco Rubio said if elected, he would prioritize a strong military, take aggressive steps to fight nations that undermine global commerce and ensure that U.S. is a world moral leader.
+
+The Florida Republican, who delivered his speech at the Council on Foreign Relations in Manhattan on Wednesday, said that the United States was losing its place as a world military and moral power because of what he depicted as the Obama administration’s overly cautious responses to crises overseas.
+
+“Since the end of the Cold War, the threats facing America have changed, but the need for American strength has not,” Rubio said.
+“It has only grown more pressing as the world has grown more interconnected.”
+
+“It takes forethought to design and many years to build the capabilities we may need at a moment’s notice," the 43-year-old said.
+"So to restore American strength, my first priority will be to adequately fund our military.
+This would be a priority even in times of peace and stability, though the world today is neither peaceful nor stable.”
+
+Rubio repeated his characterization of Obama as a president so concerned with softening any perception other nations has of the United States as a bully that he erred in acting in the other extreme, eager to acquiesce to foreign governments that have thumbed their noses at the U.S. and international laws.
+
+“[Obama] demonstrated a disregard for our moral purpose that at times flirted with disdain,” said Rubio, the son of Cuban immigrants.
+“He criticized America for having ‘arrogance’ and the audacity to ‘dictate our terms’ to other nations.
+From his reset with Russia, to his open hand to Iran, to his unreciprocated opening to Cuba, he has embraced regimes that systematically oppose every principle our nation has long championed.”
+
+Rubio also said that the United States must move decisively when aggressive nations such as China and Iran attempt to undermine the economic interests of the United States as well as other nations.
+
+"Russia, China, Iran or any other nation that attempts to block global commerce will know to expect a response from my administration.”
+
+The Democratic National Committee issued a brief statement shortly after Rubio's speech:
+
+“Okay. So here’s Rubio’s alleged ‘new’ foreign policy.
+Troops in the Middle East permanently.
+A Cuba policy that is stuck in the Cold War.
+Unwillingness to even start a discussion of a two state solution.
+Keeping Guantanamo Bay open.
+No plan forward on Iran."
+
+And it ended with: “Neoconservative meets Cold War: that’s the Rubio doctrine.”
+
+Rubio’s foreign policy agenda – often hawkish in approach – has been a hallmark of his service in the Senate, and now in his campaign.
+He says that as a member of Senate Foreign Relations Committee, and the Senate Committee on Intelligence, he is privy to information that form the basis of his decision on how the United States must approach foreign policy.
+
+Rubio said Obama "wasted no time stripping parts from the engine of American strength," and cast former Secretary of State Hillary Clinton as his loyal deputy.
+
+"[Clinton] was the chief architect of a foreign policy that was a disaster," he said during an interview with Charlie Rose following the speech.
+
+"We simply cannot afford to elect as our next president one of the leading agents of this administration's foreign policy — a leader from yesterday whose tenure as secretary of state was ineffective at best and dangerously negligent at worst," Rubio said, according to the prepared text of remarks he was to deliver at the Council on Foreign Relations in New York.
+
+He even has taken tougher stances on foreign policy than some of his Republican colleagues, who have softened their views on diplomatic relations with Cuba – to which Rubio objects – and how to handle the nuclear talks with Iran.
+
+Some in the GOP have called for spending cuts in military spending, with which he disagrees.
+
+As he often has in Senate hearings, Rubio assailed Obama for stressing dialogues and diplomacy over ironclad dealings with heads of foreign governments that have been openly hostile to the United States, and which continue to exercise oppression against political dissidents.
+
+“The world is at its safest when America is at its strongest,” Rubio said.
+“When America has the mightiest Army, Navy, Air Force, Marine Corps, Coast Guard, and intelligence community in the world, the result is more peace, not more conflict.”
+
+Rubio said, after his speech, in a question-and-answer session with TV host Charlie Rose, that "Obama has embraced regimes that systematically opposed our principles."
+
+Rose asked Rubio what he though of Pope Francis's embrace of diplomatic relations between the U.S. and Cuba.
+
+Rubio said his priorities and those of the pope's are by necessity different.
+
+He defended keeping the embargo.
+
+He said having anything to do with Cuba is to avail oneself of properties stolen from Cubans by the Cuban government during the revolution.
+
+Rubio said the embargo is not to blame for Cuba's failed economy.
+
+He said the rest of the world does not have an embargo against Cuba.
+So why, he asked, does Cuba not have Toyotas or modern goods from other nations?
+
+As for Iran, Rubio said it cannot be trusted.
+
+"Iran has always had a secret component to its nuclear program," he said.
+"They know once international sanctions are lifted, they can never be reimposed."
+
+STEP 1:
+* arrogance
+* disdain
+* moral
+* strength
+* bully
+* disregard
+* audacity
+* dictate
+* systematically
+* oppose
+* negligence
+* ineffective
+* negligent
+* safest
+* strongest
+* mightiest
+
+SUMMARY:
+U.S. Sen. Marco Rubio delivered his first major foreign policy speech, emphasizing the need for a strong military and a strong moral leader. He criticized the Obama administration's cautious responses to crises, depicting them as a "disregard for our moral purpose" that has led to a loss of American strength. Rubio vowed to prioritize a strong military, take aggressive steps to fight nations that undermine global commerce, and ensure the U.S. is a world moral leader. He accused Obama of being overly concerned with softening the perception of the U.S. as a bully, leading to a "negligent" foreign policy. Rubio's hawkish approach has been a hallmark of his service, and he believes that "the world is at its safest when America is at its strongest." END OF SUMMARY.
+
+Now, here is the target news article to summarize:
+Here is the news article:
+
+The statement by US Secretary of State Colin Powell about the Venezuelan Government triggered yesterday reactions from members of the ruling party. Mostly, they accused Washington of violating national sovereignty after the US ranking official voiced an opinion about Venezuela's foreign policy and questioned the democratic nature of the administration of Hugo Chavez. Last Tuesday, before the US Senate's Foreign Policy Committee, Powell voiced his concern over "several actions by President Chavez and his ideas of what is a democratic system." He also criticized the visits by the chief of state to countries that are on the black list of supporters of terrorism, published by the administration of President George W. Bush, including Cuba, Libya, and Iraq. Guillermo Garcia Ponce Click here to view picture of Garcia Ponce , chief of the board of directors of the Political Command of the Revolution [CPR], described Powell's statement as "unusual" and added that it does not reflect the friendly relations between Caracas and Washington. He stressed: "Venezuela's domestic policy is the exclusive concern of Venezuelans because of our historical tradition and because it is a constitutional mandate." He added: "There is no reason for any country to request the agreement of others to determine its conduct and adopt its decisions." Garcia Ponce, who said he was speaking on behalf of the entire CPR, pointed out that it would be "truly inconceivable" that the interference of a state to approve or disapprove the decisions of another or other states became a trait of foreign policy. "This is not in keeping with the rules of international law and violates the principle of nonintervention in the affairs of other countries," the top representative of the CPR noted. However, he ruled out that the statement by the US Foreign Secretary will lead to a change in the policies of President Chavez. Deputy Cilia Flores, chief of bloc of the Fifth Republic Movement [MVR], used the same tone to express her opinion. Without mincing her words, she affirmed: "This is an instance of meddling in the policies of this country, which is a sovereign country." She added: "Venezuela designs its own policies in an autonomous manner and, in any event, it is up to Venezuelans to decide them. We respect the sovereignty of all countries and this is why we demand respect for ours." As for the criticisms of the destinations of the presidential trips, she remarked: "In addition to the fact that we do not have to ask anyone for permission to decide where and when we should visit a country, the President has visited countries with which we have direct trade relations, countries that are OPEC members, with the specific objective of strengthening our economy." Noheli Pocaterra, vice president of the National Assembly, stressed that it is up to Venezuela to decide its foreign policy and the United States must respect its decision. According to her, the remarks by the US Government spokesman were uncalled-for. She stated: "We are quite respectful of the decisions made by Washington, even if we do not agree with them. We demand equal treatment for our foreign policy." The opposition seeks intervention or blockade MVR Deputy Pedro Carreno went even further and established a direct relation between the concerns voiced by the Secretary of State and the disclosure of a video that presumably confirms relations between the Venezuelan Government and the Colombian rebel groups. Journalists Ibeyise Pacheco, Marta Colomina, Patricia Poleo, and Marianela Salazar disclosed this video in recent days. The deputy said that Powell's remarks did not surprise him and added that the US official's opinion is based on reports published by the domestic and international press, which is waging a ruthless war against the Venezuelan chief of state. He noted: "The opposition is succeeding at portraying an image of Venezuela that scares away investors and triggers domestic turmoil to request the intervention of foreign powers in the country." Thus, Carreno excused the White House official, whom - he argued - was misled by the smear campaign and information sabotage that has been unleashed against Chavez in the country and abroad. He took one further step and invited Powell to visit Venezuela to see what is really happening. He accused the four journalists of plotting with powerful economic groups that presumably contributed the funds to purchase the video from an intelligence agent. He stressed that these journalists should be tried since, according to Article 122 of the Penal Code, any action that instigates interventionist actions is considered treason against the homeland. Carreno said: "This is what they are trying to accomplish through this campaign and their conduct, which is not that of journalists but of opposition activists, prompted the statement." However, he did explain that he is more concerned about reports that Venezuela has relations with organizations categorized as terrorist by the Bush administration than he is about Powell's statement. He indicated: "These reports have tried to suggest the existence of ties between Miraflores [Presidential Palace] and terrorist groups: There are documents presumably drafted by the FAN [National Armed Forces] expressing discontent with the government; the video disclosed by the journalists; and [Justice First Deputy] Gerardo Blyde's remarks on the creation of militia groups trained by the guerrillas. All this has sounded the alarm for the US Executive and suits the opposition's objectives to bring about an intervention or a blockade, which would hurt the people it claims to defend." Oddly, he defended the content of the video by affirming - as the President did - that this is evidence of a humanitarian action. He argued: "When the United States has faced a situation involving extremist groups holding hostages, they have sent intermediaries to negotiate and no one has said that this shows they have relations with those groups." [Caracas El Nacional (Internet version) in Spanish on 7 February carries a related 760-word item that says that some opposition deputies agreed that the government's tactless actions are to blame for the concerns voiced by US Foreign Secretary Colin Powell. The report cites Convergence Deputy Alejandro Arzola saying that Powell's position clearly reflects the concern that exists in the international community and Latin America over the Venezuelan situation: the atmosphere of conflict and the threats against freedom of expression, democracy, and legal security. Arzola stated: "The government's positions are not only harming the country at the domestic level, but also at the international level because thousands of investors are watching on their television sets what is happening in Venezuela, where the rule of law is under fire." Arzola added: Any recommendation by a country friendly to Venezuela, especially a country that is Venezuela's No.1 trade partner, must be heeded, as well as recommendations by the Church and the nation, which is demanding a rectification. The report also cites Democratic Action leader Claudio Fermin, who warned: "When Chavez came to the Presidency, the United States was buying 1.75 million barrels a day. At present, because of the misguided policy of cutting production, we are only selling them 1.1 million barrels. If to this, we add the President's constant aggressive attitude and readiness to establish ties between Venezuela and parasitic economies that give us nothing, but fulfill his political commitments, we will very likely continue to lose our edge in the US market." According to Fermin, the chief of state still does not understand that if there is no confidence, there will be no investments. Movement Toward Socialism Deputy Julio Montoya stated: "The national government has been extremely incompetent in handling relations with the United States. It has been vague about Venezuela's intentions regarding the protection of crude prices and the war on terrorism. Ambiguous situations constitute a breeding ground for bilateral tensions and the fact that currently, we do not even have an ambassador in Washington indicates that we are on the verge of a major breakdown in our relations with our leading trade partner."]
+
+(1) First, you identify all the single words that are morally framed, focusing especially on the dimensions of Authority/Subversion, Care/Harm, Fairness/Cheating, Loyalty/Betrayal. Identify this step as "STEP 1:" and report each word in a new line starting with *
+(2) Finally, you write a summary of the news article. Please preserve as many morally framed words as possible, particularly focusing on the moral dimensions of Authority/Subversion, Care/Harm, Fairness/Cheating, Loyalty/Betrayal in your summary. The summary has to be returned after a "SUMMARY:" token and ending with a "END OF SUMMARY." token. The summary should be no longer than 200 words.

@@ -1,0 +1,13 @@
+Here is the summary:
+
+SUMMARY:
+
+US Treasury Secretary Steven Mnuchin failed to meet a final congressional deadline for turning over President Donald Trump's tax returns, setting the stage for a possible court battle between Congress and the administration. House Ways and Means Committee Chairman Richard Neal has threatened to subpoena Trump's tax records if the documents are not provided. The Democrats' efforts to obtain Trump's tax returns are motivated by concerns about potential conflicts of interest posed by his continued ownership of extensive business interests while serving as president. Republicans have condemned the request as a "political fishing expedition." Mnuchin's decision not to provide the tax returns is seen as a denial, which could lead to contempt charges and a legal battle that may ultimately reach the Supreme Court.
+
+END OF SUMMARY.
+
+In this summary, I preserved the moral framing related to the following dimensions:
+
+* Authority/Subversion: The article highlights the conflict between Congress and the administration over authority, with Democrats seeking to exercise their constitutional power of oversight and Republicans accusing them of overreach.
+* Care/Harm: The article suggests that Trump's refusal to release his tax returns could harm the public interest by concealing potential conflicts of interest.
+* Fairness/Cheating: The article implies that Mnuchin's decision not to provide the tax returns is unfair and potentially cheating the public out of information they have a right to know.

@@ -1,0 +1,220 @@
+You have to summarize the following text preserving the moral framing that the author gave to it.
+
+Please study the following examples of news articles and their summaries preserving the moral framing:
+
+Example 1 (Political Ideology: Left):
+Here is the news article:
+
+Nebraska, Oklahoma File Federal Suit Against Colorado Over Marijuana Legalization
+
+The states of Nebraska and Oklahoma filed a federal lawsuit in the U.S. Supreme Court Thursday, claiming that Colorado's legalization of recreational marijuana is unconstitutional under federal law.
+
+"Federal law undisputedly prohibits the production and sale of marijuana," Nebraska Attorney General Jon Bruning said Thursday in a statement.
+"Colorado has undermined the United States Constitution, and I hope the U.S. Supreme Court will uphold our constitutional principles."
+
+But Colorado Attorney General John Suthers isn't backing down.
+In a statement, he said he intends to defend the state's marijuana laws.
+
+“Because neighboring states have expressed concern about Colorado-grown marijuana coming into their states, we are not entirely surprised by this action," Suthers said.
+"However, it appears the plaintiffs’ primary grievance stems from non-enforcement of federal laws regarding marijuana, as opposed to choices made by the voters of Colorado.
+We believe this suit is without merit and we will vigorously defend against it in the U.S. Supreme Court.”
+
+Bruning, along with Oklahoma Attorney General Scott Pruitt, argue that under the U.S. Constitution's Supremacy Clause, Colorado's legalization of recreational marijuana is unconstitutional because marijuana remains illegal under federal law.
+The clause states that in general, federal law takes precedence over state law.
+
+"The illegal products being distributed in Colorado are being trafficked across state lines thereby injuring neighboring states like Oklahoma and Nebraska," Pruitt said in a statement.
+
+The regulation of recreational marijuana -- as seen in programs currently in place in Colorado and Washington state, as well as those that will soon go into effect in Oregon and Alaska -- remains illegal under the 1970 Controlled Substances Act.
+The states that have legalized marijuana or softened penalties for possession have only been able to do so because of federal guidance urging federal prosecutors to refrain from targeting state-legal marijuana operations.
+
+Colorado voters approved Amendment 64, legalizing recreational marijuana in the state, in 2012.
+The first retail marijuana shops opened their doors on New Years Day 2014.
+To date, 23 states and the District of Columbia have legalized marijuana for medical purposes.
+Four states have legalized recreational marijuana, along with voters in D.C. -- though the D.C. measure is the subject of a congressional Republican effort to block its implementation.
+
+With a majority of Americans now supporting marijuana legalization, and with states continuing to pass legalization laws, it seems unlikely that the federal government would push back against the legalizations.
+But it's not impossible.
+If the Supreme Court were to rule in favor of Nebraska and Oklahoma, all state marijuana laws, in any form, could be in jeopardy of being unraveled.
+
+Harvard economist Jeff Miron, a vocal supporter of marijuana policy reform, highlighted the precarious nature of state marijuana laws in a November op-ed for CNN, saying that Congress needs to act now on federal marijuana policy.
+
+"Despite the compelling case for legalization, and progress toward legalization at the state level, ultimate success is not assured," Miron wrote.
+"Federal law still prohibits marijuana, and existing jurisprudence (Gonzales v. Raich 2005) holds that federal law trumps state law when it comes to marijuana prohibition.
+So far, the federal government has mostly taken a hands-off approach to state medicalizations and legalizations, but in January 2017, the country will have a new president.
+That person could order the attorney general to enforce federal prohibition regardless of state law."
+
+Kevin Sabet, president of anti-legalization group Smart Approaches to Marijuana, applauded the action by Nebraska and Oklahoma.
+
+"We support this action by the attorneys general of Oklahoma and Nebraska because Colorado's decisions regarding marijuana are not without consequences to neighboring states, and indeed all Americans," Sabet said.
+"The legalization of marijuana is clearly in violation of the federal Controlled Substances Act and is not implemented in a vacuum."
+
+Mason Tvert, communications director for Marijuana Policy Project, told The Huffington Post that MPP agrees with Suthers' opinion that the suit is "without merit."
+
+"Nebraska officials are acting like bullies, and they have no business trying to dictate Colorado's marijuana laws," Tvert said to HuffPost.
+"They are wasting their taxpayers’ dollars by filing this suit and forcing Coloradans to pick up the bill for defending our state against it.
+Colorado's top law enforcement officials have better things to do and you’d think Nebraska’s would, as well.
+These guys are on the wrong side of history."
+
+Marijuana Industry Group's Mike Elliott echoed Tvert's sentiments, adding that despite the multi-decade federal war on drugs, marijuana remains "universally available" -- including in Nebraska and Oklahoma.
+
+"If Nebraska and Oklahoma succeed, they will put the violent criminal organizations back in charge," Elliott said.
+
+Rep. Jared Polis (D-Colo.), a vocal supporter of drug policy reform who has sponsored multiple bills seeking protection for state-legal marijuana businesses and advocated full-scale federal legalization of the drug, told HuffPost that Nebraska and Oklahoma attempting to overturn the will of Colorado's voters is "outrageous."
+
+"Our federalist system is based on individual states of being able to enact policies that benefit their citizens, without the interference of other states," Polis said.
+
+SUMMARY:
+
+Nebraska and Oklahoma have filed a federal lawsuit against Colorado, claiming that its legalization of recreational marijuana is unconstitutional under federal law. The states argue that the Supremacy Clause of the US Constitution gives federal law precedence over state law, and since marijuana remains illegal under federal law, Colorado's legalization is invalid. Colorado's Attorney General, however, is defending the state's marijuana laws, stating that the lawsuit is "without merit" and that the primary grievance stems from non-enforcement of federal laws.
+
+The lawsuit has sparked debate, with some arguing that it's an overreach by neighboring states, while others see it as a necessary step to uphold federal law. The outcome of the lawsuit could have far-reaching implications, potentially jeopardizing all state marijuana laws. As the country moves towards legalization, the federal government's stance on marijuana policy remains uncertain, leaving the future of state marijuana laws precarious.
+
+END OF SUMMARY.
+
+Example 2 (Political Ideology: Center):
+Here is the news article:
+
+Obama Team To Make Important, If Symbolic, Choice On Gay Marriage
+
+The Obama administration faces tricky political and legal questions on the subject of gay marriage.
+By the end of this month, the federal government is expected to file not just one but two briefs in a pair of same-sex marriage cases at the U.S. Supreme Court.
+
+But it is the Proposition 8 case from California that poses the thornier questions for the administration — questions so difficult that the president himself is expected to make the final decision on what arguments the Justice Department will make in the Supreme Court.
+
+Prop 8, as it is known, is the California ballot initiative banning same-sex marriage.
+It was narrowly approved by state voters in 2008.
+A federal district court struck down the law as unconstitutional discrimination in 2010.
+A federal appeals court later agreed, but on narrower grounds.
+Because there was a period of time in which same-sex couples could legally marry in California, the court said, it was unconstitutional for the state, through the ballot initiative, to take away a fundamental right it had previously granted.
+
+The state, under both Republican and Democratic governors, has declined to defend the measure in court.
+So its ban on gay marriage is being defended by the sponsors of the initiative.
+
+The Obama administration is not required to file any brief in the case because it does not directly involve federal law.
+But administration sources say the government will file a brief.
+Still unresolved is what the brief will say.
+And in this case, much more than most, there are numerous legal routes that the government can take.
+
+The ultimate question — the one perhaps most people want an answer to but may not get — is whether same-sex couples have a constitutional right to marry.
+A Supreme Court decision that says yes to that would invalidate laws in some 30 states.
+But there are many legal avenues short of such a far-reaching argument that would invalidate Proposition 8 in California and leave laws in other states intact.
+
+What makes this even dicier is that President Obama has changed his position, seemingly a lot, over the past eight months.
+In May, in an ABC interview, he for the first time endorsed same-sex marriage from a personal point of view, but he went on to say that the decision on legalizing gay marriage should be left to the states, where marriage matters are traditionally governed.
+
+"It is important for me to go ahead and affirm that I think same-sex couples should be able to get married.
+And I continue to believe that this is an issue that is going to be worked out at the local level, because historically this has not been a federal issue," he said.
+
+But eight months later at his inauguration, the president seemed to take a more expansive view.
+"Our journey is not complete until our gay brothers and sisters are treated like anyone else under the law.
+For if we are truly created equal, then surely the love we commit to one another must be equal as well," Obama said.
+
+That language suggests the president believes in a more basic constitutional right to marry, analogous to the right enunciated in a unanimous 1967 Supreme Court ruling that struck down laws barring interracial marriage.
+In that case, ironically, the federal government took no position in the Supreme Court.
+
+So what will Obama do now that he faces similar questions in a case about sexual orientation, not race?
+
+His administration could make a bold, full-throated defense of the right to marry, an argument that Obama seemed to suggest at his inaugural.
+Or it could argue a number of lesser positions: That California, having extended the right to marry to gay couples for a window of time, could not revoke the right.
+Or that California, like some other states, has a law extending all rights to same-sex couples, except the right to marry, and that such a distinction amounts to discrimination.
+Or it could argue that since the state is not defending the law, the case does not belong in court at all — that the sponsors of the initiative have no legal standing in court.
+
+For the gay community, and for those advocating traditional marriage between a man and a woman, the position the government takes in this case is hugely important — if nothing else, as a symbol.
+Both sides have made formal presentations at the Justice Department urging the administration to take their side.
+But the deadline has already passed for a brief siding with Proposition 8 supporters, leaving only the question of what a brief on the other side will say.
+
+Same-sex marriage advocates are holding their collective breath for now and maintaining a pretty studied public silence, hoping to avoid the impression that the gay community is pressuring the administration.
+
+Still, lawyers who argue regularly before the court are not so sure that the administration's brief, whatever it says, will make a big difference to the justices.
+
+"I'm never going to tell you that the solicitor general's position doesn't matter," says former Bush administration Solicitor General Paul Clement.
+But in this case, he says, "I think it matters less."
+
+Clement was hired by the House Republican leadership to defend the constitutionality of the Defense of Marriage Act, or DOMA, in a case that is paired with the Proposition 8 case in the Supreme Court.
+The reason he thinks the administration's brief in the Proposition 8 case matters less, he says, is "because we already know what their position is on DOMA and one can extrapolate."
+
+In the DOMA case, the Obama administration argues that the federal law is unconstitutional because it bars federal benefits to legally married same-sex couples — benefits that go automatically to legally married heterosexual couples.
+
+Supreme Court advocate Tom Goldstein, founder of SCOTUSblog, makes a different point — that sometimes Supreme Court briefs are aimed at more than one audience.
+He notes that in a truly historic case like this one, "I think part of what's going on ... is a statement about what is morally right and wrong.
+And so I think it could matter to Americans much more than it matters to the Supreme Court."
+
+SUMMARY:
+
+The Obama administration faces a crucial decision on gay marriage as it prepares to file two briefs in same-sex marriage cases at the U.S. Supreme Court. The Proposition 8 case from California poses thorny questions, with the president himself expected to make the final decision on the Justice Department's arguments. The administration could take a bold stance, arguing for a constitutional right to marry, or opt for lesser positions, such as arguing that California's revocation of same-sex marriage rights is unconstitutional. The decision is symbolic, with both sides of the debate urging the administration to take their side. While some lawyers believe the administration's brief may not significantly influence the justices, others argue that it could make a moral statement about what is right and wrong. The president's evolving stance on gay marriage, from supporting state-level decisions to suggesting a more basic constitutional right, adds complexity to the issue.
+
+END OF SUMMARY.
+
+Example 3 (Political Ideology: Right):
+Here is the news article:
+
+Obama urges new restrictions on assault weapons, magazines as part of gun control plan
+
+President Obama called Wednesday for a new and tougher assault-weapons ban and a 10-round limit on magazines, as part of a comprehensive plan to curb gun violence that includes 23 steps he took without congressional action.
+
+Already facing stiff opposition from gun-rights advocates and Republican lawmakers, the president called on Congress to pass several major changes to the country's current gun laws -- some of which are already being considered like the restrictions on semi-automatic weapons and high-capacity magazines.
+
+Obama called as well for legislation to bar the possession and importation of armor-piercing bullets and to require criminal background checks for nearly all gun sales.
+The president, speaking at the White House, said he would use "whatever weight this office holds" to get the proposals passed.
+
+"If there's even one life that can be saved, then we've got an obligation to try," Obama said.
+"When it comes to protecting the most vulnerable among us, we must act now.
+... Let's do the right thing."
+
+The president was joined by four children who wrote to the White House about gun violence following the Connecticut mass shooting in which 20 children were killed.
+Though the administration faced some criticism for involving children in the program, they were positioned off to the side while Obama spoke.
+
+Despite discussions earlier about addressing the pervasive violence in the entertainment and video game industries, the president's plan did not address those issues in depth.
+The plan, though, does call for a range of measures to improve access to mental health services and improve safety at America's schools.
+
+The president, immediately after making his remarks, signed nearly two-dozen executive actions -- a step that has stirred objections from lawmakers who have warned Obama not to overstep his bounds.
+
+Unilaterally, Obama on Wednesday directed federal agencies to share information with the federal background check system; proposed new rules to let law enforcement run full background checks before returning a seized gun; ordered the Centers for Disease Control to research causes of gun violence; required law enforcement to trace guns from criminal investigations; and took other steps.
+Plus Obama is nominating ATF Acting Director Todd Jones to officially lead the agency
+
+The most controversial elements of the president's plan, though, continue to be the proposals he wants Congress to pass.
+
+The call for universal background checks would extend to gun shows and private sales, with "limited" exemptions for "certain transfers" among family members and other situations.
+The administration plans to give private sellers guidance on how to run background checks as soon as possible.
+
+Plus the president wants to commit $4 billion to hiring more police officers, and to pass new gun trafficking laws to explicitly prohibit straw purchasing.
+
+The plan was already earning a mixed response from lawmakers.
+
+Sen. Marco Rubio, R-Fla., accused Obama of trying to "undermine Americans' constitutional right to bear arms" without doing enough to focus on keeping guns out of the hands of criminals and the mentally ill.
+
+"Nothing the president is proposing would have stopped the massacre at Sandy Hook.
+President Obama is targeting the 2nd Amendment rights of law-abiding citizens instead of seriously addressing the real underlying causes of such violence," he said.
+
+Senate Democratic Leader Harry Reid said "all options should be on the table."
+
+Texas Gov. Rick Perry, in a written statement, said: "Guns require a finger to pull the trigger.
+The sad young man who did that in Newtown was clearly haunted by demons and no gun law could have saved the children in Sandy Hook Elementary from his terror."
+
+Gun-rights groups say the effort to impose more gun control measures is misguided, noting in particular that most killings in America are committed with handguns and not the assault weapons the administration intends to target.
+Some local officials have vowed to resist federal action.
+
+The National Rifle Association also plans to launch a major ad campaign.
+The group's first ad called Obama an "elitist hypocrite" for his daughters' security detail.
+Obama has been critical of the NRA's plan to install armed security in every school.
+
+The White House plan does address school security, urging Congress to help schools complete emergency plans; proposing an initiative to help schools hire up to 1,000 resource officers and mental health professionals; and proposing new training for teachers to recognize mental health issues among young people.
+Obama also plans to beef up mental health coverage via executive action.
+
+House Speaker John Boehner declined to weigh in on the merits of the president's proposals Wednesday.
+
+"House committees of jurisdiction will review these recommendations.
+And if the Senate passes a bill, we will also take a look at that," Boehner spokesman Michael Steel said.
+
+SUMMARY:
+
+President Obama unveiled a comprehensive plan to curb gun violence, calling for a new assault-weapons ban, a 10-round limit on magazines, and 23 executive actions to strengthen gun control laws. He urged Congress to pass legislation to bar armor-piercing bullets, require criminal background checks for nearly all gun sales, and commit $4 billion to hiring more police officers. Obama emphasized the moral obligation to act, saying "if there's even one life that can be saved, then we've got an obligation to try." He was joined by four children who wrote to the White House about gun violence following the Connecticut mass shooting. While some lawmakers and gun-rights advocates oppose the plan, Obama vowed to use his office's "whatever weight" to get it passed, arguing that it's a moral imperative to protect the most vulnerable among us. The plan also addresses mental health services, school safety, and research on gun violence causes.
+
+END OF SUMMARY.
+
+Now, here is the target news article to summarize:
+Here is the news article:
+
+DENVER — Two heartland states filed the first major court challenge to marijuana legalization on Thursday, saying that Colorado’s growing array of state-regulated recreational marijuana shops was piping marijuana into neighboring states and should be shut down. The lawsuit was brought by attorneys general in Nebraska and Oklahoma, and asks the United States Supreme Court to strike down key parts of a 2012 voter-approved measure that legalized marijuana in Colorado for adult use and created a new system of stores, taxes and regulations surrounding retail marijuana. While marijuana remains illegal under federal law, officials have largely allowed Colorado and other states to move ahead with state-run programs allowing medical and recreational marijuana. But the lawsuit from Nebraska and Oklahoma, where marijuana is still outlawed, argues that Colorado has “created a dangerous gap” in the federal drug-control system. “Marijuana flows from this gap into neighboring states,” the suit says, undermining their marijuana bans, “draining their treasuries, and placing stress on their criminal justice systems.” For months, some sheriffs and police officers in rural counties bordering Colorado have complained that they have seen more marijuana entering their towns and being transported down their highways since recreational sales began in January. Oklahoma and Nebraska said the influx had led to more arrests, more impounded vehicles and higher jail and court costs. They say it has also forced law-enforcement agencies to spend more time and dedicate more resources to handling marijuana-related arrests. “We’re seeing a lot of marijuana coming over from Colorado,” said Sheriff Adam Hayward of Deuel County, Neb., who said that he was gratified that the two states were challenging Colorado’s marijuana laws. He has complained that marijuana arrests have strained his jail budget. “For the longest time we were saying, this is becoming a problem for us.” Colorado’s attorney general, John Suthers, a Republican, said in a statement that the challenge from Nebraska and Oklahoma was “without merit.” Like many elected officials in Colorado, Mr. Suthers had opposed Amendment 64, which legalized marijuana. But on Thursday, he said “we will vigorously defend” against the lawsuit attempting to undo it. Nebraska and Oklahoma’s challenge is aimed more at the commercial side of marijuana legalization, which created new systems of regulations and taxes as well as recreational stores, dispensaries and production facilities that are monitored and licensed by state officials. The suit does not specifically seek to overturn the portion of Amendment 64 that made marijuana legal for personal use and possession, meaning that portions of legalization could survive even if Nebraska and Oklahoma prevail. But marijuana advocates said that the challenge — if it succeeds at shutting down marijuana retailers — could boost the black market. “If Nebraska and Oklahoma succeed, they will put the violent criminal organizations back in charge,” Michael Elliott, the executive director of the Marijuana Industry Group, a Colorado-based trade group, said in a statement. The lawsuit, which was brought by Nebraska’s attorney general, Jon Bruning, and Oklahoma’s attorney general, Scott Pruitt, accused Colorado officials of participating in a “scheme” that cultivates, packages and distributes marijuana in direct violation of controlled-substances laws while “ignoring every objective embodied in the federal drug control regulation.” It was filed directly with the Supreme Court because it involves a dispute among states. “The Constitution and the federal antidrug laws do not permit the development of a patchwork of state and local pro-drug policies and licensed distribution schemes throughout the country,” the lawsuit says. Nebraska and Oklahoma accused Colorado of leaving huge holes in marijuana rules that allowed the plant to flow out of state. While it is against the law to take legally purchased marijuana across state lines, Nebraska and Oklahoma said that Colorado does not require consumers to smoke or eat their marijuana where they buy it, and said that despite purchasing and possession limits, anyone can easily visit several dispensaries and stock up. Some sheriffs in bordering states say they have pulled over drivers and found edibles and marijuana from multiple Colorado retail outlets. They also criticized Colorado for not tracking marijuana once it is sold, and for not requiring marijuana buyers to undergo criminal background checks (under Colorado law, anyone 21 or older can legally purchase recreational marijuana). Colorado’s rules have no way to prevent “criminal enterprises, gangs and cartels from acquiring marijuana inventory directly from retail marijuana stores,” the lawsuit says. Nebraska and Oklahoma complained about a “significant influx of Colorado-sourced marijuana,” but the suit did not mention specific statistics about Colorado-related marijuana arrests or drug seizures. In earlier interviews, some local law-enforcement officers along Colorado’s borders said that they had not seen an increase in marijuana coming from Colorado.
+
+The summary has to be returned after a "SUMMARY:" token and ending with a "END OF SUMMARY." token. The summary should be no longer than 200 words.

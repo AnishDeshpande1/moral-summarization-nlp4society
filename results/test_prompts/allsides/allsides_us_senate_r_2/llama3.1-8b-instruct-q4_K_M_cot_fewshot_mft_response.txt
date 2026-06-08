@@ -1,0 +1,17 @@
+Here is the output for the target news article:
+
+STEP 1:
+* danger
+* unpredictable
+* resurgent
+* unfriendly
+* adversary
+* enemy
+* patriotism
+* interests
+* weak
+
+SUMMARY:
+Rex Tillerson's confirmation hearing as Secretary of State was marked by contentious exchanges with Sen. Marco Rubio, particularly regarding Russia and Vladimir Putin. Rubio pressed Tillerson to brand Putin a "war criminal," but Tillerson coolly deflected the question, instead emphasizing his realistic approach to dealing with cultures. Tillerson did take a harder line against Putin than President-elect Trump has done, describing Russia as an "unfriendly adversary" that poses a danger but is not unpredictable in advancing its own interests. However, he stopped short of calling Russia an enemy of the U.S. Tillerson also addressed other areas, including China's building of man-made islands and radical Islam, which he said posed a grave risk to global stability. Throughout the hearing, Rubio pressed for more decisive action against Putin, while Tillerson emphasized the need for a firm but forceful response that prioritizes American interests.
+
+END OF SUMMARY.

@@ -1,0 +1,130 @@
+You have to summarize the following text preserving the moral framing that the author gave to it, with particular focus on the specific moral foundations highlighted in the text.
+
+Please study the following examples of news articles and their summaries preserving the moral framing:
+
+Example 1 (Political Ideology: Left, Moral Foundations: Fairness/Cheating):
+Here is the news article:
+
+Donald Trump has announced Tuesday that he is pulling out of his own Dec. 27th debate.
+
+"I have decided not to be the moderator of the Newsmax debate," Trump said in a statement.
+"I believe this would not only have been the most watched debate, but also the most substantive and interesting debate."
+
+Trump said that he was ending the debate because he did not want to "give up my right to run as an independent candidate," which he claimed the Republican Party was asking him to do if he wanted to moderate the debate.
+(Trump made waves by very loudly claiming he was considering running as a Republican earlier in the year.)
+
+The announcement came just eleven days after Trump initially said he was partnering with the conservative magazine to host a forum with the remaining Republican presidential candidates.
+Since then, a majority of those candidates made clear that they would not be turning up, with only Newt Gingrich and Rick Santorum pledging to appear.
+
+Trump also attracted the usual share of public ridicule for his decision to moderate, as well as his pledge to endorse whichever candidate he liked best at the debate.
+
+As the days went on, Trump began making noises about possibly canceling the debate; however, as late as Monday night, he was still saying that the forum was taking place.
+
+SUMMARY:
+
+Donald Trump has announced that he is withdrawing from moderating the December 27th Newsmax debate, citing the Republican Party's alleged demand that he give up his right to run as an independent candidate. This comes just 11 days after Trump initially partnered with the conservative magazine to host a forum with the remaining Republican presidential candidates. However, most candidates declined to participate, with only Newt Gingrich and Rick Santorum agreeing to attend. Trump's decision to moderate was met with public ridicule, particularly his pledge to endorse the candidate he liked best at the debate. Despite initially confirming the debate, Trump began hinting at cancellation and has now officially pulled out. This decision raises questions about Trump's commitment to the democratic process and his willingness to put personal interests above the public's right to informed debate.
+
+END OF SUMMARY.
+
+Example 2 (Political Ideology: Center, Moral Foundations: Care/Harm):
+Here is the news article:
+
+Representative Bob Etheridge, Democrat of North Carolina, issued an apology on Monday for grabbing a young man by the hand, arm and neck – as a video camera rolled – as the man tried to ask him whether he supports President Obama’s agenda.
+
+“I deeply and profoundly regret my reaction and I apologize to all involved,” Mr. Etheridge said in a statement. 
+“Throughout my many years of service to the people of North Carolina, I have always tried to treat people from all viewpoints with respect. 
+No matter how intrusive and partisan our politics can become, this does not justify a poor response.”
+
+He added, “I have and I will always work to promote a civil public discourse.”
+
+A young man, dressed in a jacket and tie, approached the congressman on a sidewalk, saying: “Hi, Congressman. How are you? Do you fully support the Obama agenda?”
+
+Mr. Etheridge, a seven-term House member, can be seen on the video repeatedly asking the young man to identify himself. 
+After a few seconds, the congressman grabs the camera and the young man.
+
+“Tell me who you are,” Mr. Etheridge said. “Tell me who you are.”
+
+The young man is not identified in the video, which was made last week. 
+A second person accompanying him pulled out another camera to record the congressman’s actions. 
+The video received widespread attention on Monday after it was posted on the Web site of Andrew Breitbart, a conservative Web publisher and former editor of The Drudge Report. 
+It was circulated by the National Republican Congressional Committee.
+
+“Bob Etheridge has lost it,” said Jon Thompson, a Republican spokesman. 
+“His conduct is unbecoming of a member of Congress.”
+
+Mr. Etheridge, who represents a conservative district south of Raleigh, faces a re-election challenge, but his race is not among the top Republican targets in the country. 
+He won two years ago by 36 percentage points, and Mr. Obama carried his district by 6 percent.
+
+Vice President Joseph R. Biden Jr. resumed the White House campaign for gun control on Tuesday by reporting on executive action taken unilaterally by the administration and pressing Congress to take up legislation again.
+
+SUMMARY:
+
+Democratic Representative Bob Etheridge of North Carolina has apologized for physically confronting a young man who asked him if he supports President Obama's agenda. The incident, caught on video, shows Etheridge grabbing the man's hand, arm, and neck, and demanding to know his identity. Etheridge has since expressed deep regret for his actions, stating that he has always tried to treat people with respect, regardless of their viewpoints. He emphasized the importance of promoting civil public discourse. The video was widely circulated by conservative groups, with Republicans condemning Etheridge's behavior as "unbecoming of a member of Congress." The incident has sparked controversy, highlighting the need for respectful dialogue in politics. Etheridge's apology is a step towards rectifying his mistake and upholding the values of civility and respect in public discourse.
+
+END OF SUMMARY.
+
+Example 3 (Political Ideology: Right, Moral Foundations: Authority/Subversion, Fairness/Cheating):
+Here is the news article:
+
+Rick Santorum said Sunday he wasn't questioning whether President Obama is a Christian when he referred to his "phony theology" over the weekend, but was in fact challenging policies that he says place the stewardship of the Earth above the welfare of people living on it.
+
+"I wasn't suggesting the president's not a Christian.
+I accept the fact that the president is a Christian," Santorum said.
+
+"I was talking about the radical environmentalist," he said.
+"I was talking about energy, this idea that man is here to serve the Earth as opposed to husband its resources and be good stewards of the Earth.
+And I think that is a phony ideal.
+
+"I don't believe that that's what we're here to do.
+That man is here to use the resources and use them wisely, to care for the Earth, to be a steward of the Earth, but we're not here to serve the Earth.
+The Earth is not the objective. Man is the objective.
+And I think a lot of radical environmentalists have it upside down," Santorum said.
+
+But the president's campaign, responding forcefully to the new frontrunner in the GOP race, said the remark is a personal affront.
+
+"I can't help but think that those remarks are well over the line.
+It's wrong. It's destructive," said Robert Gibbs, the president's former press secretary who is now working on Obama's reelection effort.
+
+"It's time to get rid of this.
+It's time to have a debate on our political positions, but not question each other's character and faith," he said.
+
+Obama campaign deputy press secretary Ben Labolt also issued a statement Saturday shortly after Santorum told voters that Obama's agenda is "not about you.
+It's not about your quality of life. It's not about your jobs. It's about some phony ideal.
+Some phony theology. Not a theology based on the Bible. A different theology."
+
+The comment was "the latest low in a Republican primary campaign that has been fueled by distortions, ugliness, and searing pessimism and negativity."
+It was "a stark contrast with the president who is focused everyday on creating jobs and restoring economic security for the middle class," LaBolt said.
+
+Santorum, who has pulled ahead of Mitt Romney in polling for the 2012 Republican presidential primary nod, said Sunday that when he used the word "theology" he was referring to a "world view that elevates the Earth above man."
+
+That world view, Santorum continued, suggests that man could harm the Earth by using the resources available even while relying on claims that "frankly are just not scientifically proven, for example, the politicization of the whole global warming debate."
+
+"I mean, this is just all an attempt to, you know, to centralize power and to give more power to the government," Santorum said.
+
+Santorum said he never questioned the president's faith and repeatedly said he believes Obama is a Christian.
+
+"He says he is a Christian.
+But I am talking about his world view or his -- the way he approaches problems in this country.
+And I think they're different than how most people do in America," he said.
+
+But while Gibbs said it's time to get off the "mindset that if we disagree, we have to disqualify each other" comments like Santorum's show that the GOP primary "has been a race to the bottom.
+We have seen nastiness, divisiveness, ugliness, distortions of opponents' records, of the president's record."
+
+Santorum appeared on CBS' "Face the Nation."
+Gibbs was on ABC's "This Week."
+
+SUMMARY:
+
+Rick Santorum defended his comments about President Obama's "phony theology," claiming he was not questioning the President's Christianity, but rather challenging his environmental policies that prioritize the Earth's welfare over human well-being. Santorum believes that humans should use the Earth's resources wisely, but not serve the Earth as the primary objective. He accuses "radical environmentalists" of having it "upside down." The Obama campaign responded strongly, calling Santorum's remarks a personal affront and an attack on the President's character and faith. They argued that it's time to focus on debating political positions, not questioning each other's faith. Santorum maintains that he was referring to the President's "world view" that elevates the Earth above humans, which he believes is misguided and aims to centralize power. The exchange highlights the divisive and negative tone of the GOP primary.
+
+END OF SUMMARY.
+
+Now, here is the target news article to summarize:
+Here is the news article:
+
+The Rev. Franklin Graham, an evangelist and the son of the late preacher Billy Graham, was slated to speak this summer at a venue in Liverpool. That stop, though, will no longer take place. Graham’s event, to be held at ACC Liverpool, was part of a larger tour through the United Kingdom. Officials at the venue, however, announced Friday the event would be scrubbed from the schedule because Graham’s views — particularly his biblical interpretation of marriage as a union between one man and one woman — are “incompatible with our values.” The Graham Tour UK event which was originally planned to take place at ACC Liverpool in June 2020 will no longer be going ahead. The decision to cancel Graham’s stop in Liverpool isn’t surprising. Protesters have been rebuking the leaders of the venue for allowing Graham to share the Gospel in the space. One group critical of Graham’s slated appearance at ACC Liverpool was the Liverpool Labour LGBT Network, which referred to the evangelist as “a homophobic hate preacher.” Petition by our Liverpool Branch members who are asking for support from their locally elected council representatives in response to the platforming of homophobic hate preacher Franklin Graham at the M&S Arena on the 12th of June 2020. How has Graham replied? On Monday afternoon, Graham replied to the decision by ACC Liverpool. He penned an open letter to the LGBTQ community in the U.K., informing them he is coming to Great Britain not to condemn them. Rather, he is coming to present the Gospel. Graham did, though, admit he does see homosexuality as a sin. “The rub, I think, comes in whether God defines homosexuality as sin,” he wrote. “The answer is yes. But God goes even further than that, to say that we are all sinners — myself included. The Bible says that every human being is guilty of sin and in need of forgiveness and cleansing. The penalty of sin is spiritual death — separation from God for eternity.” Graham also defended the right to free speech and religious liberty. He wrote he is not coming to the U.K. “to speak against anybody” because the Gospel “is inclusive.” “I’m coming to speak for everybody,” he added. “The Gospel is inclusive. I’m not coming out of hate, I’m coming out of love.” The 67-year-old preacher ended his letter by saying those in the LGBTQ community are “absolutely welcome” to attend one of his events in the U.K.
+
+For this target article, the author's moral framing heavily relies on the following Moral Foundation dimensions: Care/Harm, Fairness/Cheating.
+Please pay special attention to preserving the moral framing related to these specific dimensions (Care/Harm, Fairness/Cheating) in your summary.
+
+The summary has to be returned after a "SUMMARY:" token and ending with a "END OF SUMMARY." token. The summary should be no longer than 200 words.

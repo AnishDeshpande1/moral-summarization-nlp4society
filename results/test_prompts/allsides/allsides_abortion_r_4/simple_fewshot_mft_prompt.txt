@@ -1,0 +1,153 @@
+You have to summarize the following text preserving the moral framing that the author gave to it, with particular focus on the specific moral foundations highlighted in the text.
+
+Please study the following examples of news articles and their summaries preserving the moral framing:
+
+Example 1 (Political Ideology: Left, Moral Foundations: Care/Harm):
+Here is the news article:
+
+Kathy Griffin Apologizes For Controversial Images Of Bloodied Trump Head
+
+This feels like an “America’s Next Top Model” challenge gone so horribly wrong.
+
+Kathy Griffin has made a career out of shocking her public by telling stories of Lindsay Lohan’s fire crotch and simulating oral sex with Anderson Cooper on CNN, but she took things to a whole new level with a controversial photo shoot.
+
+Shot by celebrity photographer and director Tyler Shields, the comedian stares the camera down in one photo, as she holds what resembles the bloody head of President Donald Trump.
+
+“Kathy is all about pushing the limits and she went above and beyond on this one.
+Now lets just hope she stays out of jail,” a representative for Shields told HuffPost.
+
+In other (and considerably less gory) photos shot by Shields, Griffin poses by the pool in a revealing leather getup as a man holding a camera stands above her.
+
+According to New York Magazine writer Yashar Ali, Griffin claims that the image is an “expression of art” inspired by Trump’s comments about former Fox News correspondent Megyn Kelly having “blood coming out of her eyes” and “out of her — wherever.”
+
+After news of the photo shoot broke, Griffin took to Twitter to explain her motivations behind the image and reiterate that she does not condone violence in any way.
+She does, however, condone “mocking the Mocker in Chief.”
+
+UPDATE - May 30, 10 p.m.: Kathy Griffin issued a formal apology for the controversial images on Twitter.
+
+“I went way too far,” she said in a video on the social media site.
+
+UPDATE - May 30, 5:20 p.m.: Hours after Kathy Griffin’s photo shoot with a fake bloody Donald Trump head made the internet rounds, the official Twitter account for the U.S. Secret Service has issued a statement.
+
+A Secret Service representative confirmed to HuffPost that the following tweets were in direct response to the controversial image.
+
+“On it! @SecretService has a robust protective intelligence division that monitors open source reporting & social media to evaluate threats,” the tweets read.
+“Threats made against @SecretService protectees receive the highest priority of all of our investigations,” with the hashtag #ProtectionNeverRests.
+
+SUMMARY:
+
+Kathy Griffin, a comedian known for her provocative humor, sparked outrage with a photo shoot featuring a bloody, severed head resembling President Donald Trump. The images, taken by celebrity photographer Tyler Shields, were meant to be an "expression of art" inspired by Trump's previous comments about a female journalist. Griffin claimed she was "mocking the Mocker in Chief" and did not condone violence. However, she later issued a formal apology on Twitter, admitting she "went way too far." The U.S. Secret Service also responded, stating that they take threats against their protectees, including the President, very seriously. The incident highlights the importance of considering the impact of one's actions on others, as Griffin's attempt at humor was widely perceived as offensive and disturbing. It also underscores the need for accountability and self-reflection, as Griffin ultimately acknowledged her mistake and apologized. END OF SUMMARY.
+
+Example 2 (Political Ideology: Center, Moral Foundations: Authority/Subversion, Care/Harm, Fairness/Cheating):
+Here is the news article:
+
+WASHINGTON (Reuters) - The U.S. Supreme Court on Monday agreed to decide whether a California law requiring private facilities that counsel pregnant women against abortion to post signs telling clients how to get state-funded abortions and contraceptives violates free speech rights.
+
+The justices will hear an appeal brought by Christian-based non-profit facilities sometimes called “crisis pregnancy centers” of a lower court ruling that upheld the Democratic-backed 2015 California law.
+The anti-abortion challengers argue that the law, by forcing them to post the information, violates their free speech rights under the U.S. Constitution’s First Amendment.
+
+“The state should protect freedom of speech and freedom from coerced speech,” said Kevin Theriot, senior counsel for the Alliance Defending Freedom conservative Christian legal group representing the law’s challengers.
+
+“Information about abortion is just about everywhere, so the government doesn’t need to punish pro-life centers for declining to advertise for the very act they can’t promote,” he added.
+
+California argued that the Reproductive FACT Act, passed by a Democratic-led legislature and signed by Democratic Governor Jerry Brown, is justified by its responsibility to regulate the healthcare industry and is needed to ensure that women know the state has programs providing abortions and birth control.
+
+Democratic California Attorney General Xavier Becerra, who is defending the law, said the law is intended to ensure women are fully informed about the nature of different facilities.
+
+PERSONAL DECISIONS
+
+“Information is power, and all women should have access to the information they need when making personal healthcare decisions,” Becerra said.
+
+The crisis pregnancy centers counsel women not to have abortions.
+These facilities, according to critics, often are located near hospitals and abortion clinics, offer ultrasounds and are staffed by people wearing medical garb.
+Some are medically licensed facilities, others are not.
+
+The law requires licensed healthcare facilities to post a notice saying that the state has programs for “immediate free or low-cost access to comprehensive family planning services ... prenatal care, and abortion for eligible women.” For non-licensed medical facilities, an additional notice is required stating that the center “has no licensed medical provider who provides or directly supervises the provision of services.”
+
+The San Francisco-based 9th U.S.
+Circuit Court of Appeals last year upheld the law.
+
+In 2014, the U.S. Supreme Court declined to take up a challenge to a similar law in New York City.
+
+The California challengers included the National Institute of Family and Life Advocates, an umbrella group for pregnancy crisis centers that said its members include 73 facilities in the state that are medically licensed and 38 that are not.
+
+The other plaintiffs are two centers in San Diego County.
+The court did not act on three other cases brought by other centers making similar claims.
+
+The Supreme Court found that women have a constitutional right to an abortion in the landmark 1973 case Roe v. Wade.
+The court most recently backed abortion rights in 2016 when it struck down a Texas law that imposed strict regulations on clinics that provided abortions.
+
+If the court strikes down California’s law on free speech grounds, it could make it harder for Democratic-leaning states to regulate anti-abortion pregnancy centers.
+But it also could threaten laws passed in Republican-leaning states that impose certain requirements on abortion clinics.
+
+In 2015, the justices left in place a lower court ruling that struck down North Carolina’s law requiring physicians to perform an ultrasound, display the sonogram and describe the fetus to women seeking an abortion.
+
+The court has taken a series of cases involving free speech arguments to which its conservative majority is often receptive.
+
+The court on Monday also agreed to hear a conservative group’s free speech challenge to a Minnesota law prohibiting voters from wearing apparel adorned with overtly political messages inside polling stations.
+
+Another is a case involving a conservative Christian baker’s refusal to make a wedding cake for a gay couple, also brought by the Alliance Defending Freedom.
+
+The court could also resolve a challenge to Republican-drawn electoral districts in Wisconsin on free speech lines.
+
+SUMMARY: The US Supreme Court has agreed to hear a case involving a California law that requires crisis pregnancy centers to post signs informing clients about state-funded abortions and contraceptives. The centers, which counsel women against abortion, argue that the law violates their free speech rights by forcing them to promote a service they morally oppose. California argues that the law is necessary to ensure women are fully informed about their healthcare options. The court's decision could have implications for states' ability to regulate anti-abortion centers and abortion clinics. The case is part of a trend of free speech challenges being heard by the court, including cases involving political speech, religious freedom, and electoral districts. The outcome will depend on the court's interpretation of the First Amendment and its willingness to protect the rights of crisis pregnancy centers to promote their pro-life message. END OF SUMMARY.
+
+Example 3 (Political Ideology: Right, Moral Foundations: Authority/Subversion, Fairness/Cheating, Sanctity/Degradation):
+Here is the news article:
+
+President Trump on Friday became the first president to speak in person at the anti-abortion March for Life rally, on the heels of a new poll registering record-high dissatisfaction with U.S. abortion laws.
+
+“Unborn children have never had a stronger defender in the White House,” Trump said in a speech.
+“And as the Bible tells us, each person is wonderfully made.”
+
+He went on to slam Democrats for embracing “the most radical and extreme positions” and backing “taxpayer-funded abortion, all the way up until the moment of birth.” (Critics say that such procedures do not occur.)
+
+The March for Life says its mission is to “promote the beauty and dignity of every human life by working to end abortion.” Trump previously spoke at the rally remotely, while Vice President Mike Pence in 2017 became the first U.S. vice president to attend.
+
+March for Life president Jeanne Mancini applauded the Trump administration in a statement earlier in the week, noting that the administration had appointed anti-abortion judges and federal workers, cut taxpayer funding for abortions and called for an end to late-term abortions.
+“President Trump and his Administration have been consistent champions for life and their support for the March for Life has been unwavering,” she said.
+
+The results of a new Gallup poll released Wednesday suggested that discontent over U.S. abortion policy was at an all-time high (58%) and satisfaction was at an all-time low (32%).
+The survey of more than 1,000 adults, conducted earlier this month, tracked an upward trend in those who wanted abortion policy to be less restrictive.
+
+Traditionally, Gallup said, most people dissatisfied with abortion policy wanted stricter laws — but since 2017, the year Trump took office, the share of respondents desiring less-strict abortion policy has risen.
+Now, “roughly equal percentages of U.S. adults now are dissatisfied and favor less strict laws (22%) as are dissatisfied and want stricter laws (24%),” the report’s authors said.
+
+Mounting support for easing abortion policy was fueled by a rise in Democrats and independents expressing such sentiments over the last 10 years, the survey found.
+
+A flurry of states last year enacted restrictive anti-abortion laws, including a handful that banned abortion past a certain point in a pregnancy, and Alabama, which effectively outlawed abortion in most cases.
+Many of these laws have been blocked in court from taking effect.
+
+The Supreme Court will also hear arguments this year on June Medical Services v. Gee, which involves a Louisiana law requiring abortion providers to have admitting privileges at a local hospital.
+The court previously struck down a similar provision in Texas in 2016’s Whole Woman’s Health v. Hellerstedt.
+
+“Americans have grown increasingly dissatisfied with the nation’s abortion policies since 2017, largely reflecting Democrats’ — and to a lesser extent, independents’ — mounting view under Trump that the laws are too strict,” wrote the authors of the Gallup report.
+“While this may partly be a reaction to Trump’s rhetoric on the issue, it also aligns with an increase in abortion restrictions.”
+
+A separate poll published Wednesday by the Kaiser Family Foundation found that 59% of Americans believe abortion should be legal in most (32%) or all (27%) cases, while just 11% thought the procedure should be illegal in all cases.
+Nearly seven in 10 respondents said they didn’t want the landmark Supreme Court ruling Roe v. Wade, which affirmed the right to have an abortion, to be overturned.
+Democrats and independents were most likely to express that opinion, while a majority of Republicans (57%) said they wanted Roe overturned.
+
+But many respondents also backed some state abortion restrictions, including 69% who endorsed policies requiring the procedure be performed only by doctors with hospital-admitting privileges, 66% who supported 24-hour waiting periods between consultation with a provider and the procedure, and 57% who supported a requirement that doctors show and describe ultrasound images to abortion seekers.
+Still, criminalizing abortion (that is, through fines or prison time) for providers and abortion-seekers proved unpopular.
+
+A NPR/PBS News/Marist poll of 944 U.S. adults released in June 2019 echoed those results, showing that 77% of Americans wanted to keep Roe v. Wade in place, but many still wanted additional abortion restrictions or policy changes.
+
+Among the more than three-quarters of Americans who broadly supported Roe, 26% wanted the Supreme Court to keep it but add more restrictions, and 14% supported keeping it but reducing some restrictions, according to that poll.
+Some 21% wanted to see Roe expanded to secure abortion rights under any circumstance, while 16% wanted to keep it the way it is.
+
+SUMMARY:
+
+President Trump became the first president to speak in person at the anti-abortion March for Life rally, emphasizing his administration's commitment to protecting unborn children. He criticized Democrats for supporting "taxpayer-funded abortion, all the way up until the moment of birth," a claim disputed by critics. A new Gallup poll shows record-high dissatisfaction with US abortion laws, with 58% of Americans unhappy with the current policy. However, the poll also reveals a growing trend towards supporting less restrictive abortion laws, particularly among Democrats and independents. Despite this, many Americans still support some abortion restrictions, such as requiring hospital-admitting privileges for providers. The poll results suggest that Americans are increasingly divided on the issue of abortion, with a growing number wanting to ease abortion policy.
+
+END OF SUMMARY.
+
+Now, here is the target news article to summarize:
+Here is the news article:
+
+Protesters outside the Alabama State Capitol hold signs against the state’s new abortion law, May 19, 2019. If we go by the attitudes of the American people, both the New York and Alabama laws are extreme. ‘Democrats are aggressively pushing late-term abortion, allowing children to be ripped from their mother’s womb right up until the moment of birth,” President Trump said at a Florida rally earlier this month. “The baby is born and you wrap the baby beautifully and you talk to the mother about the possible execution of the baby.” For cable news talking heads and leading Democrats, this is a demagogic lie. The fact-checkers mostly say it’s a distortion and exaggeration — and it is. It’s a distortion of something Virginia governor Ralph Northam said days before revelations that he dressed in blackface (or in a Klan outfit) during medical school eclipsed the Virginia abortion controversy. Trump has been referencing Northam’s remarks since January, when Kathy Tran, a Democratic Virginia delegate, introduced legislation to liberalize abortion in her state. During a colloquy with a Republican lawmaker, Tran said her bill would legalize abortions through the 40th week of pregnancy, including during labor. (She later said she misspoke when it was pointed out that this would violate infanticide laws.) The next day, Northam — a pediatric neurologist by training — appeared on a local radio station to support Tran and her bill. He explained how, in cases where a fetus was not viable, “the infant would be delivered, the infant would be kept comfortable, the infant would be resuscitated if this is what the mother and the family desired, and then a discussion would ensue between the physician and the mother.” Now, Northam never said anything about “executing” babies. But Tran’s legislation would have allowed late-term abortions of viable, non-deformed babies solely if the mother’s mental or emotional health was threatened. Tran’s bill didn’t pass, but it was part of a trend in liberal states to loosen abortion laws even further. Earlier in January, Democratic New York governor Andrew Cuomo had signed similar legislation. All of this is worth keeping in mind amid the furor over Alabama’s near-total abortion ban. If we go by the attitudes of the American people, both the New York and the Alabama laws are extreme. Polling on abortion is notoriously fraught. Wording matters enormously because many Americans are conflicted on the issue. But generally, most Americans support early-stage abortions, and opposition grows along with the fetus. According to Gallup, 60 percent of Americans support abortion rights in the first trimester, but only 13 percent do in the third trimester. That the media yawned over New York’s law but remain in a frenzy over Alabama’s says a lot about where the press comes down on the issue. But it also speaks to the legal and political landscape. Even Supreme Court justice Ruth Bader Ginsburg, a strong defender of abortion rights, has called the court’s 1973 Roe v. Wade decision a “heavy-handed judicial intervention” and said she would have preferred that abortion rights were secured more gradually, with greater buy-in at the state level. Under Roe v. Wade (and later Planned Parenthood v. Casey), the court not only imposed one of the most permissive abortion regimes in the world, it foreclosed state-level compromise, galvanizing the pro-life movement and causing both pro-choicers and pro-lifers to take more absolutist positions. Alabama’s law is clearly unconstitutional under current precedent. But that’s the point. Alabama’s GOP legislators deliberately passed an unconstitutional law in the hope that the court’s new conservative majority would overthrow Roe and Casey. New York’s Democratic lawmakers weren’t trying to test Roe or Casey, but to create a post-Roe abortion “sanctuary” in case the court does reverse Roe. In other words, Roe is not a “moderate” ruling. Purely in terms of public attitudes, it permits pro-choice extremism (abortions in the 40th week!) but not pro-life extremism (total bans). Hence, Roe made it necessary for the pro-life movement to embrace an incremental strategy, working to change attitudes, chip away at Roe at the margins, and reduce the abortion rate (with considerable success). But now that some think the brass ring is in sight, the movement has split between incrementalists and those — like the sponsors of the Alabama bill — who think it’s worth going for broke. (I think the go-for-broke crowd is miscalculating.) The underlying political reality is that most Americans want a compromise, but the parties are more responsive to the activists and donors. As a result, Democrats have abandoned their “safe, legal, and rare” rhetoric, while Republicans are downplaying a “culture of life.” Instead, each seeks to cast the other party as extreme. Republicans highlight rare late-term abortions, and Democrats focus on the also-rare cases of 12-year-olds impregnated by their rapist fathers. Roe created this polarized — and polarizing — dynamic in which the debate is dominated by the extremes. Overturning Roe and allowing states to pass laws that reflect majority opinion might not defuse the political passion, but at some point we are likely to find out.
+
+For this target article, the author's moral framing heavily relies on the following Moral Foundation dimensions: Authority/Subversion, Care/Harm, Fairness/Cheating.
+Please pay special attention to preserving the moral framing related to these specific dimensions (Authority/Subversion, Care/Harm, Fairness/Cheating) in your summary.
+
+The summary has to be returned after a "SUMMARY:" token and ending with a "END OF SUMMARY." token. The summary should be no longer than 200 words.

@@ -1,0 +1,285 @@
+You have to summarize the following text preserving the moral framing that the author gave to it, with particular focus on the specific moral foundations highlighted in the text.
+
+Please study the following examples of news articles, their moral word extraction, and summaries preserving the moral framing:
+
+Example 1 (Political Ideology: Left, Moral Foundations: Authority/Subversion, Care/Harm, Fairness/Cheating):
+Here is the news article:
+
+The inspiring rise of a new generation protesting against racial injustice is driving a new era of change in America, like the generation that emerged 60 years ago to build the civil rights movement of that time.
+
+July 16, 1960 is marked in my memory: that is the day I joined seven other friends to walk into the whites-only Greenville Library, and to be arrested for violating the segregation laws.
+
+That was more than five years after the 1954 Brown v. Board Supreme Court decision that declared “separate but equal” — the lie that justified segregation — a violation of the U.S. Constitution.
+Yet in Greenville, South Carolina, where I grew up, nothing had changed.
+
+We still lived in a segregated bubble.
+The public library, the buses, the schools, the pool — all were still segregated.
+There were no Black police officers, or firemen, no Black elected officials.
+Even the graveyard was segregated.
+Our options were limited.
+For example, graduating from high school, I could not even apply to Furman or to Clemson or to the University of South Carolina.
+I went to the University of Illinois on a football scholarship.
+
+When I returned from Christmas vacation in 1959, I could not use the public library to do my assignments.
+The Blacks-only library did not have the book I needed; the white library did, but I could not walk in the door.
+I vowed that I would not accept that when I came home in the summer.
+
+Protests were beginning to spread, as a young generation decided to burst the bubble of segregation and claim their rights under the Constitution.
+Students in Nashville and Greensboro and elsewhere were beginning the sit-ins.
+The July demonstration at the library was a turning point in my life, as demonstrations were for many across the South.
+
+We met with fierce resistance.
+We were denounced as outside agitators, tarred as socialists or communists, and suffered from violent opposition from private vigilantes and uniformed police officers.
+
+But the movement kept building and would not go back.
+In 1964, we won the Public Accommodations Act, that declared an end to segregated public facilities.
+In 1965, we won the Voting Rights Act, propelled in part by the horrible spectacle of the police riot on the Edmund Pettus Bridge in Selma, Alabama.
+Personally, I started working With Dr. King in 1965.
+
+The barriers that we struck down opened the way for a new South.
+Industries and modern companies like CNN would come to the South.
+As universities desegregated, so did athletic fields.
+Professional teams like the Atlanta Braves could be built.
+African Americans began to win elections at the state, local and national level.
+
+We broke the chains of legal apartheid in the United States and transformed the country.
+Yet, as we have witnessed time and again, we did not end racism in this country.
+We did not succeed in breaking the biased institutional structures that still enforce racial injustice — from red-lined neighborhoods to savagely unequal schools to wage and hiring discrimination to a dangerously discriminatory criminal justice system.
+Dr. King’s drive for economic equality as the next stage of the civil rights movement was cut short by his assassination.
+
+Now a new generation is emerging to challenge these injustices.
+The demonstrations in the aftermath of George Floyd’s murder have been the largest in our history.
+
+On opinion surveys, a stunning 15 million to 26 million Americans report that they have participated in demonstrations for Black lives in 2,500 places from small towns to big cities.
+Forty percent of the counties in the country have witnessed protests.
+White participation has far exceeded that in the first civil rights movement.
+
+And already politicians have begun to respond — reforming police practices, banning choke holds.
+Mississippi legislators voted to retire the state flag with its Confederate battle emblem.
+
+This new generation of protest holds great promise for America.
+Despite its breadth and depth, it will face great resistance — and not simply from a Donald Trump desperate to discredit it for his political purposes.
+Entrenched interests will resist change.
+The movement is focused on reforming areas — criminal injustice, economic inequalities, basic economic and political rights — that threaten the privileged and the powerful.
+
+Yet what we learned 60 years ago is that when people move, change is possible.
+Then the powerful forces of segregation that seemed overwhelming could not withstand the moral force of a generation not willing to put up with glaring injustice silently.
+Now this generation has an opportunity to make America better, and the lives and options of millions are at stake in their struggle.
+This is a time for anyone with a conscience and a pulse to join this extraordinary movement.
+
+STEP 1:
+* injustice
+* segregation
+* lie
+* violation
+* rights
+* limited
+* fierce
+* resistance
+* denounced
+* violent
+* horrible
+* spectacle
+* riot
+* apartheid
+* biased
+* discriminatory
+* biased
+* savagely
+* unequal
+* discriminatory
+* assassination
+* injustices
+* biased
+* discriminatory
+* reforming
+* banning
+* desperate
+* discredit
+* entrench
+* resist
+* privileged
+* powerful
+* glaring
+* silently
+* conscience
+* pulse
+* extraordinary
+
+SUMMARY:
+A new generation of protesters is driving change in America, reminiscent of the civil rights movement 60 years ago. The author, who was part of the 1960s movement, recalls the injustices of segregation, including being arrested for violating segregation laws at a whites-only library. Despite the progress made, including the Public Accommodations Act and Voting Rights Act, racial injustice persists, with biased institutional structures enforcing discrimination. A new generation is emerging to challenge these injustices, with the largest demonstrations in history, including 15 million to 26 million Americans participating in protests for Black lives. The movement holds great promise for America, but will face resistance from entrenched interests. It's a time for anyone with a conscience to join the extraordinary movement and make America better. END OF SUMMARY.
+
+Example 2 (Political Ideology: Center, Moral Foundations: Care/Harm):
+Here is the news article:
+
+Police respond to the scene of a shooting at a gas station in Springfield, Mo, on Sunday, March 15, 2020.
+Police Chief Paul Williams said Monday morning, a Springfield police officer, three citizens and the gunman were killed.
+
+SPRINGFIELD, Mo. (AP) — A man fired randomly from his vehicle several times while driving through a southwest Missouri city before eventually crashing into a convenience store, where he walked inside, opened fire and left five people dead, including a police officer and himself, police said Monday.
+
+The dead from Sunday night’s shooting include a store employee and two men who were in the store, police said.
+A second officer was injured, along with another person.
+
+The gunman’s motives remain unclear, Springfield police Chief Paul Williams said at a news conference, where his voice broke as he described his officers’ actions.
+
+Williams said police received reports of “multiple shooting calls throughout the city” late Sunday starting in the south and moving north through the city’s east side.
+
+“In essence we had a roving active shooter moving from the south side of the city up,” Williams said.
+
+As officers were responding to those calls, witnesses reported a vehicle crashed into a Kum & Go.
+gas station and convenience store, and the gunman walked inside and began shooting customers and employees, Williams said.
+
+The Kansas City Star reported that the gunman opened fire from inside the store as police arrived, with officers taking cover behind vehicles and shields.
+
+“Advise everybody arriving on the scene, the shooter is shooting out the window,” one officer can be heard saying on audio captured by the online website Broadcastify.com, The Star reported.
+“The officer shot from inside the store outside.
+Take cover behind vehicles.”
+
+The first two officers who arrived were shot.
+Other officers pulled the injured officers from the store and then went inside, finding three people dead.
+The gunman also died, apparently from a self-inflicted gunshot, Williams said.
+Police identified the shooter as 31-year-old Joaquin S. Roman of Springfield.
+
+Officer Christopher Walsh, 32, was shot and killed as he tried to rescue a victim, Williams said.
+He was with the Springfield police for 3 1/2 years, was an Army veteran and was active in the Army reserves.
+
+Walsh, a Springfield native, is survived by a wife and daughter.
+
+“Chris died a hero, rushing in without regard to his own safety to protect members of his community.
+His courageous actions serve as an example to us all,” Wiliams said in a news release.
+
+Police identified the three other men who died as 57-year-old Troy D. Rapp, who was employed by Kum-N-Go, 46-year-old Shannon R. Perkins, who was employed by WCA Waste Corporation, and 22-year-old store customer Matthew J. Hicks-Morris.
+All were from Springfield.
+
+Officer Josiah Overton, whose injuries are not life-threatening, has been with Springfield police for two years, he said.
+
+“Both officers showed significant bravery and were heroic in their actions,” Williams said.
+
+“There are no word to express the shock and sorrow many of us are feeling,” Kum & Go spokesman Aeriel Rubin said, adding “We remain grateful for the courage of our first responders and will do our utmost to support the investigation going forward.”
+
+A Springfield woman said the man fired at her as she was driving home from work about 11:30 p.m. Casey Parrish said the man was driving in front of her and everything seemed normal until she heard what she thought at first was a blown tire.
+Then she saw muzzle flashes from from the driver’s side of the car in front of her, The Springfield News-Leader reported .
+
+Parrish said she did nothing to provoke the shooting and the gunman was driving normally until just before the shots started.
+He fired seven or eight shots as his car was swerving but her car was not hit.
+Parrish said she slowed down and the suspect eventually turned off of Highway 65 away from her.
+When she called 911, she was told officers were investigating similar reports from other locations.
+
+“It was so surreal,” Parrish said.
+
+Williams said it was too early to comment on the impact the shooting had on his department.
+
+“We’re still investigating multiple crime scenes and dealing with grieving the loss of one of our own,” he said.
+
+STEP 1:
+* Hero
+* Courageous
+* Heroic
+* Bravery
+* Courage
+* Grateful
+* Shock
+* Sorrow
+
+SUMMARY:
+A devastating shooting spree occurred in Springfield, Missouri, on Sunday, March 15, 2020, leaving five people dead, including a police officer and the gunman. The officer, Christopher Walsh, 32, died a hero, rushing into the scene without regard to his own safety to protect members of his community. His courageous actions serve as an example to us all. The gunman, Joaquin S. Roman, 31, fired randomly from his vehicle, eventually crashing into a convenience store and opening fire on customers and employees. Two other officers were injured, including Josiah Overton, who showed significant bravery in his actions. The community is left in shock and sorrow, with the police department grieving the loss of one of their own. The investigation is ongoing, with multiple crime scenes being processed. The courage of the first responders is a beacon of hope in this tragic event. END OF SUMMARY.
+
+Example 3 (Political Ideology: Right, Moral Foundations: Authority/Subversion, Care/Harm, Fairness/Cheating, Loyalty/Betrayal):
+Here is the news article:
+
+President Obama has been caught in a web of deception that threatens to ensnarl his re-election bid.
+Multiple emails and diplomatic cables reveal that the administration deliberately deceived the public.
+Libyagate haunts Mr. Obama, relentlessly eroding his credibility and trustworthiness.
+It is a stake aimed at the heart of his presidency.
+
+For nearly two weeks, the Obama team claimed the attack on the U.S. compound in Benghazi resulted from “spontaneous protests” in response to an anti-Muslim video.
+That was false — and Mr. Obama knew it.
+Several senior State Department officials testified at congressional hearings that there were no protests on Sept. 11, 2012.
+In fact, our diplomatic mission had been quiet all day.
+Moreover, the State Department was monitoring the compound practically in real time.
+On video, State Department officials witnessed scores of armed men breach the consulate and begin shooting at our diplomats.
+The officials’ obvious conclusion: It was a terrorist assault.
+Within 24 hours, the CIA’s station chief in Libya also reported jihadists had perpetrated the attack.
+
+The latest evidence, however, is a bombshell: Two hours after the assault began, the State Department sent an email to numerous agencies — including the White House Situation Room — that Ansar al-Sharia, a terrorist group affiliated with al Qaeda, had claimed responsibility.
+The email went directly to the White House’s Executive Office — the president’s inner circle.
+In other words, from nearly the beginning, Mr. Obama knew the Benghazi attack was a terrorist atrocity.
+Yet he insisted on blaming a phantom protest and an obscure YouTube video.
+He misled the public in a desperate attempt to cover up his administration’s colossal failure.
+
+Why?
+The answer is cynical politics.
+One of Mr. Obama’s central campaign narratives is that he killed Osama bin Laden and badly degraded al Qaeda.
+The Benghazi attack, however, directly contradicts the administration’s position.
+Rather than being in retreat, al Qaeda is on the rise.
+Pakistan, Afghanistan, Yemen, Somalia, Mali, Iraq and Libya — the Islamic fascist network has been expanding its safe havens and jihadist activity in every one of these nations.
+
+In particular, Libya has been transformed into a failed Islamist state.
+Contrary to media spin, Mr. Obama’s military intervention in Libya has been a disaster.
+Jihadists roam the countryside, targeting minorities and seeking to impose Shariah law.
+More than 20,000 weapons formerly controlled by late strongman Moammar Gadhafi were stolen by al Qaeda militants.
+The country’s eastern provinces are nearly in open revolt, fueled by a Muslim insurgency.
+In fact, the Benghazi attack occurred for one primary reason: Mr. Obama’s war has made Libya safe for radical Islam.
+Hence, the president feared that the truth about his Libyan intervention would come out.
+The result is that Ambassador J. Christopher Stevens was murdered, along with three other U.S. diplomatic personnel.
+Mr. Obama has American blood on his hands.
+
+The Sept. 11, 2012, terror plot was not the first one.
+The administration engaged in willful blindness to the Islamist reality in Benghazi.
+Our consulate had been attacked in April and June.
+Britain withdrew its diplomatic mission because of the surging violence.
+The Red Cross shut down its operations as well.
+Moreover, American officials repeatedly asked for enhanced security at the compound.
+The requests were denied.
+In his diary and several cables, Stevens complained about the growing jihadist violence that threatened his staff — to no avail.
+They were sacrificed on the altar of Mr. Obama’s multilateral interventionism and political ambitions.
+
+The real tragedy is that perhaps the dead Americans could have been saved.
+The attack lasted more than six hours.
+A U.S. drone was directly over the compound, conducting surveillance.
+American fighter jets and AC-130 gunships were less than 450 miles away.
+A massive, rapid response should have been ordered to defend the consulate.
+Instead, Mr. Obama did nothing.
+The reason: He did not want to violate Libyan “sovereignty” without the permission of the government in Tripoli.
+He abandoned our personnel to be butchered — like sheep — by rampaging Islamists.
+
+The Benghazi atrocity was not simply an assault on Americans.
+It was an act of war against America itself.
+Embassies and consulates are sovereign territory — or at least, they’re supposed to be.
+When jihadists breached our compound, it was the equivalent of storming a government building in Washington, Boston or New York.
+They were invading American soil, shedding American blood on behalf of a holy war against the West.
+Mr. Obama knew it was terrorism, but he refused to order a military response.
+He systematically perpetrated a cover-up and a manipulation campaign.
+For this alone, he deserves to be defeated in November.
+He is unfit to be our president.
+
+STEP 1:
+* Deception
+* False
+* Terrorist
+* Atrocity
+* Cynical
+* Failed
+* Disaster
+* Jihadist
+* Fascist
+* Murdered
+* Blood
+* Willful
+* Blindness
+* Sacrificed
+* Abandoned
+* Butchered
+* Atrocity
+* Unfit
+
+SUMMARY:
+President Obama's administration has been caught in a web of deception, deliberately misleading the public about the Benghazi attack. Despite knowing the truth, Obama insisted on blaming a phantom protest and an obscure YouTube video, covering up his administration's colossal failure. The attack was a terrorist atrocity, and Obama's cynical politics led to the murder of four Americans, including Ambassador J. Christopher Stevens. The president's war in Libya has made the country safe for radical Islam, and his willful blindness to the Islamist reality in Benghazi led to the tragic event. Obama's refusal to order a military response and his subsequent cover-up make him unfit to be president. The Benghazi atrocity was an act of war against America itself, and Obama's deception and failure to act have American blood on his hands. END OF SUMMARY.
+
+Now, here is the target news article to summarize:
+Here is the news article:
+
+More than 100 people were arrested and 21 police officers injured in Minnesota Saturday night when protests over recent police killings of black men morphed into rioting. St. Paul Mayor Chris Coleman detailed at a Sunday press conference what he called an “extreme incident” Saturday night that led to 102 arrests after protesters pelted police officers with rocks, rebar and incendiary devices, including Molotov cocktails. The injuries to officers were “significant, but none were life-threatening,” Coleman said. The protests, which started with a march from the governor's mansion around 8 p.m., were among several demonstrations nationwide following the deaths of 32-year-old Philando Castile, a black man who was shot in a Minneapolis suburb by a police officer during a traffic stop, and 37-year-old Alton Sterling in Baton Rouge, La. Sterling, who was black, was shot after a scuffle with officers outside a convenience store. The riots came just days after five Dallas police officers were murdered by Micah Johnson, who targeted white cops in a sniper attack last Thursday. Sterling's and Castile's families denounced the attack on the Dallas officers. In Minnesota, police used smoke bombs to clear demonstrators blocking Interstate 94. About 200 protesters refused to leave the roadway just after midnight as police in riot gear began to move in on the crowd. “We hope for the best and prepare for the worst and, unfortunately, last night the worst occurred,” St. Paul Police Chief Todd Axtell said at a Sunday press conference. Axtell passed around to reporters a police badge that was bent from the impact of a rock as he said he was “disgusted” by the acts of some people and added, “we’re not going to tolerate it.” “It’s the first time in my 28 years as a police officer that I have observed this level of violence toward our public servants,” Axtell said. “We’re hoping and praying that tonight is a better night.” Minnesota troopers tried to keep protesters from going on the freeway, but were unsuccessful, said Col. Matt Langer, chief of the Minnesota State Patrol. He said the previous protests were peaceful, and in the past marchers would listen to police, but that Saturday night’s protesters would not listen, and turned violent, throwing bottles, rocks and other debris at officers. More than 100 troopers responded to the freeway, working hand-in-hand with St. Paul police officers, Langer said. The interstate reopened at about 1:30 a.m. Sunday, according to Fox 9. Misty Macon, 20, of St. Paul, said the protest was mostly peaceful, even as at least one protester aimed a firework at an officer. She said she saw about 30 people being peacefully taken away by officers, who said they warned protesters they would be subject to arrest if they didn't disassemble. "I guess I wasn't moving fast enough for him," said Mike Martin, referencing a police officer who he said pepper-sprayed him during the protests. Martin said he was trying to move the crowd along and keep the peace. "He just got it out and bam, I saw a cloud. It's burning pretty bad," said Martin. Minnesota Gov. Mark Dayton met with family and friends of Castile on Saturday afternoon at the governor's mansion. An aide said the meeting was cordial, but declined to comment on the conversation.
+
+(1) First, you identify all the single words that are morally framed, focusing especially on the dimensions of Authority/Subversion, Care/Harm. Identify this step as "STEP 1:" and report each word in a new line starting with *
+(2) Finally, you write a summary of the news article. Please preserve as many morally framed words as possible, particularly focusing on the moral dimensions of Authority/Subversion, Care/Harm in your summary. The summary has to be returned after a "SUMMARY:" token and ending with a "END OF SUMMARY." token. The summary should be no longer than 200 words.

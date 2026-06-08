@@ -1,0 +1,14 @@
+Here is the summary of the target news article:
+
+SUMMARY:
+
+Reddit has taken a major step in curbing hate speech by shutting down over 2,000 communities that have consistently hosted rule-breaking content and promoted extremist ideologies. The move comes as part of the company's effort to create a safer online environment for its users. The banned subreddits include "The_Donald," which has been accused of promoting hate speech and extremist ideas since its creation in 2015. Another subreddit, "Gender Critical," was also shut down due to its anti-trans rhetoric and discriminatory language. Reddit administrators have stated that the company will continue to work on crafting more rules to prevent hate speech and promote a culture of inclusivity and respect. The decision has been welcomed by civil rights groups who have long criticized the platforms for allowing hate speech to thrive.
+
+END OF SUMMARY.
+
+In this summary, I aimed to preserve the moral framing related to the following dimensions:
+
+* Authority/Subversion: Reddit's decision to shut down the communities is framed as a necessary step in asserting its authority and maintaining order on the platform.
+* Care/Harm: The company's effort to create a safer online environment for its users is highlighted, emphasizing the importance of protecting users from harm caused by hate speech.
+* Fairness/Cheating: The decision to ban the subreddits that consistently broke Reddit's rules is framed as a fair and necessary measure to prevent cheating and promote fairness on the platform.
+* Sanctity/Degradation: The language used in the summary emphasizes the importance of maintaining respect and inclusivity online, highlighting the need to protect users from discriminatory and degrading content.

@@ -1,0 +1,37 @@
+You have to summarize the following text preserving the moral framing that the author gave to it.
+
+Here is the news article:
+
+President Trump called the Las Vegas attack an "act of pure evil" Monday morning, in a somber address to the American people following the mass shooting now considered the deadliest in modern U.S. history. The attack left 58 people dead and 515 hospitalized. The president announced he will visit Las Vegas on Wednesday to meet with law enforcement, first responders and families of victims. He also ordered the flag be flown at half-staff at the White House and other federal buildings to honor those who died. “It was an act of pure evil,” Trump said. In a unifying, faith-focused speech from the Diplomatic Room at the White House, the president offered his prayers through this “very dark period.” “To the families of the victims, we are praying for you and we are here for you and we ask God to help see you through this very dark period,” the president said. “Scripture teaches us the Lord is close to the broken hearted and saves those who are crushed in spirit. We seek comfort in those words for we know that God lives in the hearts of those who grieve.” The president called upon “the bonds that unite us,” including faith, family and shared values. “Our unity cannot be shattered by evil. Our bonds cannot be broken by violence,” Trump said. “In times such as these, I know we are searching for some kind of meaning in the chaos, light in the darkness. The answers do not come easy.” 'Our unity cannot be shattered by evil.' — President Donald Trump He added: “But we can take solace knowing that even the darkest space can be illuminated by a single ray of hope.” Trump said that he and the first lady “pray for the entire nation.” “We pray for the day when evil is banished and the innocent are safe from hatred and from fear,” Trump said. White House Press Secretary Sarah Sanders said Monday that the president has spoken with the Nevada Gov. Brian Sandoval, Las Vegas Mayor Carolyn Goodman, and Las Vegas Metropolitan Police Department's Sheriff Joe Lombardo. The president first addressed the deadly attack early Monday morning on Twitter. “My warmest condolences and sympathies to the victims and families of the terrible Las Vegas shooting. God bless you!” Trump tweeted. The suspect, who was killed, was identified as 64-year-old Stephen Paddock, a local resident. Authorities also said they were “confident” Paddock’s roommate, Marilou Danley, had been located. Officials previously described Danley as a person of interest. Authorities said one on-duty officer was in critical condition and another was wounded in the shooting. Two off-duty police officers attending the concert were killed. “This was obviously well-planned, they waited for a major, open air event, and obtained a room facing it,” retired FBI special agent and former national FBI spokesman John Iannarelli, who drove past the scene of the event just moments before the shooting took place, told Fox News. “I can see the flashing blue police lights from my hotel window.” “They were well-trained,” Iannarelli said, noting the use of automatic weapons. “That’s not an easy task.” Iannarelli also said “it is too early to tell” what the motive was. “Is this a lone wolf inspired by others? This is exactly the type of attack the U.S. has been fearing would come to our shores.” Officials did not immediately reveal a motive. First lady Melania Trump also offered her condolences on Twitter Monday morning. "My heart and prayers goes out to victims, families & loved ones! #PrayForLasVegas," she tweeted.
+
+The author used the following morally framed words in the article:
+* attack
+* evil
+* shooting
+* dead
+* hospitalized
+* died
+* praying
+* ask
+* crushed
+* lives
+* shattered
+* broken
+* violence
+* chaos
+* pray
+* safe
+* hatred
+* fear
+* condolences
+* sympathies
+* bless
+* killed
+* located
+* condition
+* wounded
+* use
+* fearing
+* prayers
+
+Please preserve as many morally framed words as possible in your summary. The summary has to be returned after a "SUMMARY:" token and ending with a "END OF SUMMARY." token. The summary should be no longer than 200 words.

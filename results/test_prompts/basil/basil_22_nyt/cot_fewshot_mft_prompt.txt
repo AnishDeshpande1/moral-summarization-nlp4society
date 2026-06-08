@@ -1,0 +1,177 @@
+You have to summarize the following text preserving the moral framing that the author gave to it, with particular focus on the specific moral foundations highlighted in the text.
+
+Please study the following examples of news articles, their moral word extraction, and summaries preserving the moral framing:
+
+Example 1 (Political Ideology: Left, Moral Foundations: Authority/Subversion, Care/Harm, Sanctity/Degradation):
+Here is the news article:
+
+WASHINGTON—Joining a chorus of Catholic bishops , theologians, priests, and social justice leaders, nearly 90 Georgetown University faculty and administrators have called Representative Paul Ryan (R-Wisc.) to task for his misuse of Catholic social teaching in defending his budget, which hurts the poor.
+The group sent a letter to Rep. Ryan in advance of his appearance on the Catholic campus on Thursday morning to give the Whittington Lecture.
+
+In their letter to Ryan, the scholars make clear they are not objecting to his speaking on campus, but rather his recent comments defending his budget on Christian grounds.
+
+“Our problem with Representative Ryan is that he claims his budget is based on Catholic social teaching,” said Jesuit Father Thomas J. Reese , one of the organizers of the letter.
+“This is nonsense.
+As scholars, we want to join the Catholic bishops in pointing out that his budget has a devastating impact on programs for the poor.”
+Reese is a senior fellow at the Woodstock Theological Center at Georgetown University.
+
+The letter quotes the U.S. Conference of Catholic Bishops, which wrote several letters to Congress saying “a just framework for future budgets cannot rely on disproportionate cuts in essential services to poor persons.”
+The bishops noted that “the House-passed budget resolution fails to meet these moral criteria.”
+Last week, Rep. Ryan dismissed the bishops’ critique, erroneously claiming the letters didn’t represent “all the bishops,” a point the USCCB media office denied.
+
+“I am afraid that Chairman Ryan’s budget reflects the values of his favorite philosopher Ayn Rand rather than the gospel of Jesus Christ,” said Father Reese.
+“Survival of the fittest may be okay for Social Darwinists but not for followers of the gospel of compassion and love.”
+
+The Georgetown scholars pointed to the devastating impact of cuts in food programs that keep the poor from starvation.
+From personal experience, they also “know how cuts in Pell Grants will make it difficult for low-income students to pursue their educations at colleges across the nation, including Georgetown.”
+
+The scholars corrected Mr. Ryan on his use of the Catholic concept of “subsidiarity” as “a rationale gutting government programs.”
+The scholars say that it is true that “It calls for solutions to be enacted as close to the level of local communities as possible.
+But it also demands that higher levels of government provide help—‘subsidium’—when communities and local governments face problems beyond their means to address such as economic crises, high unemployment, endemic poverty and hunger.”
+
+The scholars also gave the Representative a reading assignment: “The Compendium of the Social Doctrine of the Church,” which was commissioned by John Paul II and published by the Vatican.
+
+Signing the letter were over a dozen Georgetown Jesuit priests, numerous members of the Theology and other departments including History, Government, Philosophy, School of Foreign Service and School of Nursing & Health Studies.
+
+STEP 1:
+* nonsense
+* devastating
+* just
+* moral
+* compassion
+* love
+* survival
+* fittest
+* okay
+* gospel
+* compassion
+* love
+* difficult
+* correct
+* demands
+* subsidium
+* crises
+* unemployment
+* poverty
+* hunger
+
+SUMMARY:
+Nearly 90 Georgetown University faculty and administrators have criticized Representative Paul Ryan for misusing Catholic social teaching to defend his budget, which they argue has a "devastating impact" on the poor. The scholars, including Jesuit priests, theologians, and social justice leaders, claim that Ryan's budget is not based on Catholic values, but rather on the philosophy of Ayn Rand. They argue that the budget fails to meet "moral criteria" and does not reflect the "gospel of Jesus Christ," which is one of "compassion and love." The scholars point to the "difficult" consequences of cuts in food programs and Pell Grants, and correct Ryan's interpretation of the Catholic concept of "subsidiarity." They urge Ryan to read "The Compendium of the Social Doctrine of the Church" to better understand Catholic social teaching. END OF SUMMARY.
+
+Example 2 (Political Ideology: Center, Moral Foundations: Authority/Subversion, Loyalty/Betrayal):
+Here is the news article:
+
+Larry Summers, the outgoing chairman of the National Economic Council, just told a group of reporters that failure to pass a package like the tax deal announced by President Obama this week “would significantly increase the risk” of a double-dip recession.
+
+Mr. Summers made the remarks at a briefing with the White House press secretary Robert Gibbs and David Axelrod, the president’s top political adviser.
+The administration has been pushing back hard against criticism from fellow Democrats that the president has caved too much to Republicans.
+
+In brief remarks after meeting with President Bronislaw Komorowski of Poland, Mr. Obama on Wednesday emphatically disputed that Democrats generally feel betrayed by his deal with Congressional Republicans on the tax cuts, saying that “the more who look at it, the more will say this makes sense.”
+
+“I just think it’s very important for Congress to examine the agreement, look at the facts, have a thorough debate, but get this done.
+The American people are watching, and they’re expecting action on our parts,” Mr. Obama said.
+“I don’t think we need to translate that.”
+
+In a joint appearance at the White House with Mr. Komorowski, Mr. Obama said that “economists across the country have upwardly revised their forecasts for growth” after the tax deal was announced on Monday night.
+
+Vice President Joseph R. Biden Jr. planned to return to Capitol Hill this afternoon to meet with House Democrats as President Obama and the White House sought to quell the uproar among liberals about the tax deal.
+
+Officials said Mr. Biden will travel to the Hill around 4:30 p.m. in an attempt to sell the compromise Mr. Obama announced this week.
+It will be the second time in two days that Mr. Biden has served as the liaison-in-chief for the White House.
+
+Mr. Biden’s visit and the president’s comments come as the administration’s message machine started churning out statements of support.
+
+To counter condemnations from some Democrats in Congress, the White House circulated a series of e-mails quoting endorsements from private-sector economic forecasters, liberal as well as conservative analysts, and Democratic officeholders, including an obscure freshman House member, Representative Gary Peters of Michigan.
+
+By noon, the White House press office had released supportive comments from Antonio Villaraigosa, the mayor of Los Angeles, and Mr. Peters.
+The Democratic National Committee alerted reporters that Jennifer Granholm, the Democratic governor of Michigan, also supports the deal.
+
+John Podesta, a former chief of staff to President Bill Clinton and a close ally of Mr. Obama, issued a statement calling the tax deal “a steep price” but saying the president was “right to choose helping working Americans over a December conflagration.” 
+The Democratic National Committee also sent that statement around to reporters.
+
+David Axelrod, the president’s chief political adviser, said on CNN’s “American Morning” that middle-class Americans were “going to get screwed” if their tax cuts were not extended at the end of the year.
+
+The administration was quick to highlight comments from Mark Zandi, chief economist for Moody’sEconomy.com, projecting that the Obama tax deal would increase economic growth next year by 1.25 percentage points and create 1.6 million jobs.
+Macroeconomic Advisors, Deutsche Bank and Goldman Sachs projected smaller increases but no less than at least 0.5 percentage point.
+That is on top of projections that currently are in the range of 2 percent to 3 percent.
+
+But the public relations offensive is being met with public expressions of outrage from Mr. Obama’s base, including the most liberal members of Congress and spokesmen for interest groups on the left.
+
+Close to three dozen House Democrats have signed a letter from Representative Peter Welch, Democrat of Vermont, calling the tax deal “fiscally irresponsible” and “grossly unfair.”
+The letter says Mr. Obama “should not back down. Nor should we.”
+
+Mr. Biden’s visit with the House Democrats is likely to be as contentious as the one that he led with their Senate colleagues on Tuesday — if not more so.
+
+Despite the closed-door lunchtime meeting, Senate aides told The Times afterward that about 30 Democratic senators remained “firmly opposed” to the president’s negotiated deal after hearing from the vice president.
+
+In the House, Democratic lawmakers said Wednesday morning that the sense of disappointment with the president remained strong.
+
+“I don’t think it was preordained that if we had a deadlock, they would have won it,” said Representative Barney Frank, Democrat of Massachusetts, in an interview on MSNBC.
+“I’m not going to vote for it.
+I don’t feel that I should be coerced.”
+
+STEP 1:
+* betrayed
+* caved
+* fiscally
+* irresponsible
+* grossly
+* unfair
+* coerced
+
+SUMMARY:
+Outgoing National Economic Council Chairman Larry Summers warned that failing to pass the tax deal would significantly increase the risk of a double-dip recession. President Obama disputed claims that Democrats feel betrayed by his deal with Congressional Republicans, saying that "the more who look at it, the more will say this makes sense." However, many Democrats remain outraged, calling the deal "fiscally irresponsible" and "grossly unfair." Despite the administration's efforts to sell the compromise, including Vice President Biden's meeting with House Democrats, around 30 Democratic senators and close to three dozen House Democrats remain firmly opposed to the deal. Some, like Representative Barney Frank, feel coerced into voting for it. The White House has countered with endorsements from economic forecasters and Democratic officeholders, but the deal's fate remains uncertain. END OF SUMMARY.
+
+Example 3 (Political Ideology: Right, Moral Foundations: Fairness/Cheating, Loyalty/Betrayal):
+Here is the news article:
+
+Glenn Beck Rips Progressivism at CPAC
+
+Fox News host Glenn Beck, armed with his trademark chalkboard, blamed "progressivism" for America's problems Saturday in his keynote speech that brought the annual Conservative Political Action Conference to a close.
+
+The chalkboard, a prop that he uses frequently on his top-rated show, brought the audience to its feet.
+Beck wrote "Progressivism" on it to underscore his belief in what America is suffering from.
+
+When Beck asked what America is suffering from, someone shouted "President Obama," though Beck, an outspoken critic of the president, said it's "not that simple."
+
+Beck rejected the notion that the Republican Party should expand its tent to include progressives.
+
+"What is this? A circus?" he said, drawing laughter.
+"America is not a clown show.
+America is an idea that sets people free."
+
+Opening up about his troubled past, Beck told the crowd, "People need to understand that life is not fair.
+The bad guy sometimes wins."
+
+The speech capped three days of panel discussions and high-profile speakers, including numerous politicians mentioned as contenders for the 2012 Republican presidential nomination.
+But for a lot of the CPAC attendees, Beck was the reason they came, as he is seen as a leader in the new conservative movement.
+
+The speech comes after a year in which Beck's growing popularity as a Fox News host coincided with the rise of the Tea Party Movement and populist rage directed at Washington.
+Beck also launched the 9/12 Project, which sets forth nine values and 12 principles that he believes the country was founded upon.
+The project inspired a major march in Washington in September.
+
+"This is how is America should be," said Cynthia Burgiss, 22, a student at the University of Dayton in Ohio who attended the 9/12 march in D.C. this year.
+"People of every race, political affiliation, religion came together for different reasons."
+
+She was at CPAC to see Beck and called him a "relatable ... everyday guy."
+
+"None of this would have happened without Glenn," she said.
+
+STEP 1:
+* Progressivism (negative framing)
+* Free (positive framing)
+* Fair (positive framing)
+* Bad (negative framing)
+* Leader (positive framing)
+* Right (implied positive framing)
+
+SUMMARY:
+At the Conservative Political Action Conference, Fox News host Glenn Beck delivered a keynote speech blaming "progressivism" for America's problems. With his trademark chalkboard, Beck emphasized that America is suffering from the ideologies of progressivism, which he believes restricts freedom. He rejected the idea of expanding the Republican Party's tent to include progressives, saying "America is not a clown show. America is an idea that sets people free." Beck, a leader in the new conservative movement, shared his troubled past, acknowledging that "life is not fair" and "the bad guy sometimes wins." The speech capped off three days of panel discussions and high-profile speakers, with many attendees drawn to CPAC specifically to see Beck. His 9/12 Project, which promotes nine values and 12 principles, has inspired a grassroots movement and a major march in Washington. For many, Beck represents a relatable, everyday guy who embodies the right values. END OF SUMMARY.
+
+Now, here is the target news article to summarize:
+Here is the news article:
+
+Representative Paul D. Ryan, the Republican chairman of the House Budget Committee, has been excoriated by some Roman Catholic leaders ever since he claimed this month that his budget plan, which slashes antipoverty programs, was inspired by the moral teachings of his Catholic faith. The latest criticism comes in a letter released Tuesday and signed by nearly 90 faculty members and priests at Georgetown, the Jesuit university in Washington, in advance of Mr. Ryan’s visit there on Thursday. Mr. Ryan is to deliver the prestigious Whittington Lecture, named for an associate dean who was killed on the airplane that crashed into the Pentagon on Sept. 11, 2001. The letter says, “We would be remiss in our duty to you and our students if we did not challenge your continuing misuse of Catholic teaching to defend a budget plan that decimates food programs for struggling families, radically weakens protections for the elderly and sick, and gives more tax breaks to the wealthiest few.” “Your budget appears to reflect the values of your favorite philosopher, Ayn Rand, rather than the Gospel of Jesus Christ,” says the letter, which the faculty members sent to Mr. Ryan along with a copy of the Vatican’s Compendium of the Social Doctrine of the Church — “to help deepen your understanding of Catholic social teaching.” The pressure on Mr. Ryan is part of an effort by some Catholic leaders who are political independents, liberals and Democrats to make it clear that the Catholic church is not an arm of the Republican Party. In the last year, Catholic bishops have emerged as vocal critics of the Obama administration over what they regard as violations of religious freedom, in particular the mandate that even religious employers must provide health insurance that covers birth control. Their condemnation has grown so heated that this month, Bishop Daniel Jenky, of Peoria, Ill., said in a homily that President Obama was so intolerant of religion that he was “following a similar path” as Hitler and Stalin. Dozens of faculty members at Notre Dame, also a Catholic university, sent a letter to the president and chairman of the board of trustees last Friday asking them to rebuke Bishop Jenky’s comments and seek his resignation from the board. Bishop Jenky has stood by his comments. The budget authored by Mr. Ryan, a rising star among conservatives, has given Catholic leaders an opportunity to distance the church from the Republican Party. In an interview this month on the Christian Broadcasting Network, Mr. Ryan claimed that his budget was consistent with Catholic moral teaching because it pushes the poor to become independent of government assistance. “The preferential option for the poor, which is one of the primary tenants of Catholic social teaching, means don’t keep people poor, don’t make people dependent on government so that they stay stuck at their station in life, help people get out of poverty out onto life of independence,” he said. The letter released Tuesday by the faculty at Georgetown took Mr. Ryan to task for that argument, saying that Catholic teaching calls for government to step in and help when communities “face problems beyond their means to address, such as economic crises, high unemployment, endemic poverty and hunger.” The United States Conference of Catholic Bishops has also issued several letters to members of Congress calling for a budget that prioritizes aid to the poor. Mr. Ryan claimed in a recent interview that those letters did not speak for all bishops, but the conference responded that those letters do indeed represent the bishops’ collective opinion.
+
+(1) First, you identify all the single words that are morally framed, focusing especially on the dimensions of Authority/Subversion, Care/Harm, Sanctity/Degradation. Identify this step as "STEP 1:" and report each word in a new line starting with *
+(2) Finally, you write a summary of the news article. Please preserve as many morally framed words as possible, particularly focusing on the moral dimensions of Authority/Subversion, Care/Harm, Sanctity/Degradation in your summary. The summary has to be returned after a "SUMMARY:" token and ending with a "END OF SUMMARY." token. The summary should be no longer than 200 words.

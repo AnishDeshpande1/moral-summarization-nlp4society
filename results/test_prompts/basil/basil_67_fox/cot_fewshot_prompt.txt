@@ -1,0 +1,152 @@
+You have to summarize the following text preserving the moral framing that the author gave to it.
+
+Please study the following examples of news articles, their moral word extraction, and summaries preserving the moral framing:
+
+Example 1 (Political Ideology: Left):
+Here is the news article:
+
+Former Mexican President Vicente Fox on Wednesday harshly criticized current President Enrique Peña Nieto for inviting Republican presidential candidate Donald Trump to meet with him south of the border, just hours before he is due to give a widely anticipated speech on immigration in Arizona.
+
+“He is not welcome to Mexico,” Fox said in an interview on CNN.
+“By 130 million people, we don’t like him, we don’t want him. We reject his message.”
+
+Trump tweeted Tuesday that he had accepted an invitation to meet Peña Nieto in private.
+An invitation had also been extended to his Democratic opponent, Hillary Clinton, but the former secretary of state’s campaign said she was looking forward to speaking with him at the “appropriate time.”
+
+Trump has spent more than a year railing against Mexico and its leaders, promising the country would pay for the construction of a wall on the border it shares with the U.S., as well as fear-mongering about “rapists” and drug dealers that are coming across it.
+
+The surprise meeting abroad with a foreign leader will be Trump’s first as a presidential nominee, and is not without risks to his candidacy.
+Mitt Romney’s trip to Israel during the 2012 presidential campaign, for example, did not go over well.
+Peña Nieto’s approval rating fell to a record low earlier this year amid several corruption scandals.
+He, too, may seize on the meeting as an opportunity to bolster his image with Mexicans.
+
+In his interview on CNN, Fox warned Peña Nieto would be viewed like “a traitor” if he does not stand up to the GOP nominee.
+
+“Trump is using Mexico, using President Peña to boost his sinking poll numbers,” Fox said.
+“I think the President Peña is taking an enormous political risk by hosting Trump.
+If he’s gone soft on Trump, it will hurt him greatly.
+He will even be considered like a traitor because we don’t accept to be offended like we just heard, and it should not happen.
+He comes here with a smile on his face.
+I think this is a big mistake on part of President Peña.”
+
+“It’s a very opportunistic move and I hope U.S. public opinion, U.S. citizens can see this and finally, and finally see what is behind Trump, this false prophet that is just cheating everybody,” he added.
+“It’s a desperate move and I don’t see how it can work at all.”
+
+Earlier this year, Fox railed against Trump in an expletive-laden outburst, promising that Mexico would “never pay for that fucking wall.”
+He later apologized, and even invited Trump “to come to Mexico and to learn about the real Mexico.”
+
+Trump noted so helpfully in a tweet Wednesday morning.
+
+“Former President Vicente Fox, who is railing against my visit to Mexico today, also invited me when he apologized for using the “f bomb.””
+
+Fox tweeted his own recollection in response:
+
+“, I invited you to come and apologize to all Mexicans.
+Stop lying! Mexico is not yours to play with, show some respect.”
+
+STEP 1:
+* traitor
+* offended
+* false
+* prophet
+* cheating
+* desperate
+* lying
+* respect
+
+SUMMARY:
+Former Mexican President Vicente Fox strongly criticized current President Enrique Peña Nieto for inviting Republican presidential candidate Donald Trump to meet with him in Mexico. Fox stated that Trump is "not welcome to Mexico" and that the Mexican people "reject his message." Fox warned that if Peña Nieto does not stand up to Trump, he will be viewed as a "traitor" and that Trump is using the meeting to "boost his sinking poll numbers." Fox called Trump's actions "opportunistic" and "desperate," and accused him of "cheating" and being a "false prophet." Fox also tweeted that Trump should "show some respect" to Mexico. The meeting is seen as a risky move for both Trump and Peña Nieto, with the potential to hurt their approval ratings. END OF SUMMARY.
+
+Example 2 (Political Ideology: Center):
+Here is the news article:
+
+From his home at Mar-a-Lago, Donald J. Trump stirred up new controversy this week in the Republican presidential primary — and new alarm among party leaders that the front-runner for the nomination will drive away women from candidates running farther down the ballot in the fall.
+
+All week, Mr. Trump has slowly escalated a war of words on Twitter against Senator Ted Cruz of Texas, his main competition in the Republican race, based on an ad by a “super PAC” started by people who want to stop the New York developer from getting the nomination.
+The spot featured an old nude photo shoot of Mr. Trump’s wife Melania Trump, a former model, posing on his jet.
+
+Mr. Cruz has no affiliation with the super PAC, and he has denounced the ad.
+But Mr. Trump has continued to express disbelief.
+After threatening to “spill the beans” on Mr. Cruz’s wife, Heidi Cruz, who suffered a bout of depression years ago, he retweeted a post from someone who made a side-by-side photo comparison of Mrs. Cruz at an unflattering angle, and Mrs. Trump.
+
+On Wednesday, Mr. Cruz repeatedly quoted from the movie “The American President” to defend his wife, as she held an event and faced questions about Mr. Trump’s threats.
+But that was before Mr. Trump’s Twitter post with the pictures of the two women.
+And Mr. Cruz had finally had enough.
+
+Calling Mr. Trump a “sniveling coward,” Mr. Cruz told his rival to “leave Heidi the hell alone.”
+
+It’s useful to remember the news media outrage in 2012 when Todd Akin, running as the Republican nominee for Senate in Missouri, defended what he called “legitimate rape,” a remark that was overwhelmingly offensive to women.
+Under pressure from news outlets, the Republican Party tried to cauterize the wound that Mr. Akin had created by isolating him.
+
+Spouses are generally seen as off limits.
+And the responses to Mr. Trump’s comments among news media critics, over time, have been far more subdued.
+
+STEP 1:
+* controversy
+* alarm
+* war
+* disbelief
+* threatening
+* unflattering
+* defend
+* sniveling
+* coward
+* offensive
+* isolating
+* subdued
+
+SUMMARY:
+Donald Trump, the front-runner for the Republican presidential nomination, has sparked controversy and alarm among party leaders with his recent Twitter attacks on Senator Ted Cruz's wife, Heidi Cruz. Trump's threatening and sniveling behavior has been widely criticized, with many calling him a coward for targeting Mrs. Cruz. The attacks, which included a side-by-side photo comparison of Mrs. Cruz and Trump's wife Melania, have been deemed offensive and unflattering. Cruz has defended his wife, quoting from the movie "The American President" and telling Trump to "leave Heidi the hell alone." The incident has drawn comparisons to the 2012 controversy surrounding Todd Akin's comments on "legitimate rape," which were also widely condemned as offensive. END OF SUMMARY.
+
+Example 3 (Political Ideology: Right):
+Here is the news article:
+
+Donald Trump announced Tuesday that he is bowing out as the moderator for a Republican presidential debate later this month, after most candidates in the field opted not to attend.
+
+Trump said he wanted to make sure there's no "conflict of interest" in case he decides to run as a third-party candidate next year.
+He cast his decision as a way to keep his options open.
+
+He said later on Fox News that he's still considering an independent bid.
+"I am looking at it, if the Republicans choose the wrong candidate, which is a possibility, and if the economy continues to be bad, which I think it will be," Trump said.
+
+The real estate mogul and reality TV star said he wants to make sure Republicans pick the "right" candidate -- he said he still plans to make an endorsement despite his threatened third-party run.
+
+Though the Dec. 27 debate technically is sponsored by Newsmax, Trump quickly became the face of it after he was named as moderator.
+
+While former House Speaker Newt Gingrich and former Pennsylvania Sen. Rick Santorum agreed to attend early on, other Republican candidates subsequently bowed out.
+
+Some expressed concern that Trump, who previously flirted with a possible Republican presidential bid before shelving the idea, would not definitively rule out running as a third-party candidate.
+
+Trump on Tuesday specifically cited Republican National Committee Chairman Reince Priebus' concerns about his involvement.
+He said he does not expect Newsmax to follow through with the debate now that he's out.
+
+"We would have done very well.
+We would have gotten great ratings," Trump said, voicing his trademark confidence.
+
+Trump first announced his debate decision in a written statement Tuesday afternoon.
+
+"It is very important to me that the right Republican candidate be chosen to defeat the failed and very destructive Obama administration, but if that Republican, in my opinion, is not the right candidate, I am not willing to give up my right to run as an independent candidate," he said.
+"Therefore, so that there is no conflict of interest within the Republican Party, I have decided not to be the moderator of the Newsmax debate.
+... I must leave all of my options open because, above all else, we must make America great again!"
+
+Trump went on to praise Gingrich and Santorum for "having the courage, conviction, and confidence" to agree to the debate.
+
+STEP 1:
+* right
+* wrong
+* failed
+* destructive
+* courage
+* conviction
+* confidence
+
+SUMMARY:
+Donald Trump has announced that he will no longer moderate the Republican presidential debate, citing a potential "conflict of interest" if he decides to run as a third-party candidate. Trump wants to keep his options open, ensuring that the "right" Republican candidate is chosen to defeat the "failed and very destructive" Obama administration. If not, he may run as an independent candidate. Trump praised Newt Gingrich and Rick Santorum for having the "courage, conviction, and confidence" to participate in the debate. Despite his withdrawal, Trump still plans to make an endorsement, emphasizing the importance of choosing a candidate who will "make America great again!" Trump's decision was influenced by Republican National Committee Chairman Reince Priebus' concerns about his involvement. END OF SUMMARY.
+
+Now, here is the target news article to summarize:
+Here is the news article:
+
+Even before Donald Trump landed in Mexico Wednesday, he found himself in a Twitter war with former Mexican President Vicente Fox – who went on a tear declaring the Republican nominee “not welcome” in the country. Fox, an outspoken critic of Trump, started the fight when he said on CNN that he disagreed with current President Enrique Pena Nieto’s decision to invite the billionaire to the country to meet with him. “He is not welcome to Mexico,” Fox told CNN. “We don’t like him. We don’t want him. We reject his visit.” "I think President Peña is taking an enormous political risk by hosting Trump,” he said. “He will even be considered like a traitor because we don't accept to be offended like we just heard, and it should not happen that he comes here with a smile on his face. I think this is a big mistake on the part of President Peña." Trump, as is often his way, fired back on Twitter. “Former President Vicente Fox, who is railing against my visit to Mexico today, also invited me when he apologized for using the ‘f bomb,’” he said, referring to when Fox said he wasn't going to pay for "that f-----g wall." This triggered a fiery response from Fox, also on Twitter, as he called on Trump to apologize and "stop lying."
+
+(1) First, you identify all the single words that are morally framed. Identify this step as "STEP 1:" and report each word in a new line starting with *
+(2) Finally, you write a summary of the news article. Please preserve as many morally framed words as possible in your summary. The summary has to be returned after a "SUMMARY:" token and ending with a "END OF SUMMARY." token. The summary should be no longer than 200 words.

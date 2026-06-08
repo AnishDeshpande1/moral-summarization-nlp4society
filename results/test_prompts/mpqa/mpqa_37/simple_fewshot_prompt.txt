@@ -1,0 +1,141 @@
+You have to summarize the following text preserving the moral framing that the author gave to it.
+
+Please study the following examples of news articles and their summaries preserving the moral framing:
+
+Example 1 (Political Ideology: Left):
+Here is the news article:
+
+Vision benefits are among those that will now be available to same-sex spouses.
+Benefits open to same-sex spouses
+
+The same-sex spouses of federal employees can begin applying for benefits including health insurance and retirement accounts immediately, the Obama administration said Friday, two days after the Supreme Court overturned a key provision of the Defense of Marriage Act.
+
+The Office of Personnel Management offered the guidance in a letter to the heads of executive departments and agencies, detailing access to many of the benefits to which legally married same-sex spouses will now have the same access heterosexual married couples do, including health, life, dental, vision and long-term care insurance.
+
+The memo, signed by acting director Elaine Kaplan, does not go into detail about the benefits available to same-sex couples who marry in one state but live in another where those unions are not legal.
+By omitting a specific reference to state laws, and repeating that benefits will be available to all legally married couples, OPM appears to be making the case that couples will have access to the listed benefits regardless of the state in which they live.
+
+President Barack Obama said Thursday that, “speaking as a president, not a lawyer,” he believes couples married in one state should be treated as married in all 50 states, but that his administration is working on the legalities of making that reality.
+
+In a statement Friday, the president applauded the expansion of access to federal benefits.
+“This is a critical first step toward implementing this week’s landmark Supreme Court decision declaring that all married couples — gay and straight — should be treated equally under federal law,” he said.
+“Thousands of gays and lesbians serve our country every day in the federal government.
+They, and their spouses and children, deserve the same respect and protection as every other family.
+
+Under the president’s direction, the Justice Department is leading the implementation of the repeal of Section 3 of DOMA.
+After the high court’s Wednesday ruling, Defense Secretary Chuck Hagel also said that the Pentagon will move quickly to expand benefits to same-sex couples.
+
+Attorney General Eric Holder welcomed Friday’s announcement.
+“Americans in same-sex marriages are entitled to equal protection and equal treatment under the law,” he said in a statement.
+“By extending health insurance and other important benefits to federal employees and their families, regardless of whether they are in same-sex or opposite-sex marriages, the Obama administration is making real the promise of this important decision.”
+
+The changes announced Friday “will make a meaningful, positive difference in the lives of many,” Holder said.
+“As the president directed, the Department of Justice will continue to coordinate with other federal agencies to implement this ruling as swiftly and smoothly as possible.
+I look forward to sharing additional information as it becomes available..”
+
+SUMMARY:
+
+The Obama administration has announced that same-sex spouses of federal employees can now apply for benefits, including health insurance and retirement accounts, following the Supreme Court's decision to overturn a key provision of the Defense of Marriage Act. This move marks a significant step towards implementing the court's landmark decision, which declared that all married couples, gay and straight, should be treated equally under federal law. The administration's guidance ensures that legally married same-sex spouses will have the same access to benefits as heterosexual married couples, regardless of the state in which they live. President Obama, Attorney General Eric Holder, and Defense Secretary Chuck Hagel have all welcomed the expansion of benefits, emphasizing that same-sex couples and their families deserve equal respect and protection under the law. This decision will make a meaningful, positive difference in the lives of many, and the administration will continue to work towards a swift and smooth implementation of the ruling.
+
+END OF SUMMARY.
+
+Example 2 (Political Ideology: Center):
+Here is the news article:
+
+Report Sees Guns as Path to Safety in Schools
+
+WASHINGTON — With the Senate set to debate gun control this month, a National Rifle Association task force released a 225-page report on Tuesday that called for armed police officers, security guards or staff members in every American school, and urged states to loosen gun restrictions to allow trained teachers and administrators to carry weapons.
+
+Asa Hutchinson, a former Republican congressman from Arkansas who led the task force, unveiled the report at a packed news conference with unusually heavy security, including a bomb-sniffing yellow Labrador retriever.
+A dozen officers in plain clothes and uniforms stood watch as he spoke; one warned photographers to “remain stationary” during the event.
+
+Among the study’s central conclusions is that “the presence of armed security personnel adds a layer of security and diminishes response time” in a shooting, Mr. Hutchinson said.
+He cited a 1997 Mississippi case in which an assistant principal ran to his truck to retrieve a .45-caliber semiautomatic pistol and subdued a gunman who had killed two students.
+
+The recommendations — which also included expanding the police presence in schools — drew immediate criticism from gun control advocates and many Democrats, who have been fighting to tighten gun restrictions after the massacre at Sandy Hook Elementary School in Newtown, Conn., in December.
+
+“Arming the teacher is merely a response to the last tragedy,” said Representative Mike Thompson, a California Democrat who is chairman of a House task force on gun violence.
+“The one before that was in a shopping mall in Oregon, and the one before that was in a movie theater in Colorado.
+I don’t think the proper response is to arm all the projectionists in the movie theaters or all the vendors in the mall.”
+
+After the Newtown shooting, Wayne LaPierre, the rifle association’s executive director, announced that it would devise a plan to put armed guards in every school.
+Technically, Mr. Hutchison’s task force is independent of the rifle association, even though it paid for the study, and Mr. LaPierre was not present on Tuesday.
+But critics see no distinction between the two.
+
+Marian Wright Edelman, president of the Children’s Defense Fund, an advocacy group here, criticized the study as “nothing more than a continuation of the N.R.A.’s attempts to prey on America’s fears, saturate our schools with more guns and turn them into armed fortresses.”
+
+But the report did get support from at least one Newtown parent: Mark Mattioli, whose 6-year-old son, James, was killed.
+
+“I think politics needs to be set aside here, and I hope this doesn’t lead to name-calling,” said Mr. Mattioli, who joined Mr. Hutchinson at the news conference.
+“This is a recommendation for solutions, real solutions that will make our kids safer.
+That’s what we need.”
+
+At least one state, Indiana, is considering the idea of armed officers at schools.
+On Tuesday, a proposal that would require public and charter schools to have an armed “protection officer” on school property during class hours passed a State House committee.
+
+The task force panel called on the Departments of Homeland Security, Education and Justice to coordinate school safety efforts and provide grant money for schools to assess their ability to prevent and respond to attacks.
+It recommended that officers or employees who are armed take a 40- to 60-hour training course to be developed by the rifle association based on a model the task force has designed.
+
+The group also called on states to require schools to develop security plans.
+
+But how and whether the task force recommendations will be put into effect — and the cost — was unclear.
+
+The timing of Tuesday’s announcement was not a coincidence: Congress will wrap up its spring recess after this week and is expected to consider gun legislation after lawmakers return.
+President Obama has called for tough new controls on gun ownership, but the prospects for such legislation are murky — a testimony to the rifle association’s prowess as a lobbying force.
+
+A plan to revive and revamp a ban on assault weapons, which expired in 2004, is almost certain to be defeated.
+Mr. Obama is pushing for a measure that would impose mandatory background checks for gun buyers, and the Senator Harry Reid, Democrat of Nevada, the majority leader, has promised to present a bill that would expand background checks to the floor for a vote.
+
+SUMMARY:
+
+A National Rifle Association (NRA) task force has released a report recommending that armed police officers, security guards, or staff members be present in every American school to ensure safety. The report also suggests that states loosen gun restrictions to allow trained teachers and administrators to carry weapons. Critics argue that this approach is misguided and would lead to more guns in schools, rather than addressing the root causes of gun violence. The report's recommendations have been met with opposition from gun control advocates and Democrats, who believe that tightening gun restrictions is the more effective way to prevent tragedies like the Sandy Hook massacre. The NRA's proposal has been criticized as an attempt to exploit fear and promote a culture of gun proliferation. However, some, like Mark Mattioli, a Newtown parent who lost his son in the tragedy, support the report's recommendations as a necessary step towards making schools safer. END OF SUMMARY.
+
+Example 3 (Political Ideology: Right):
+Here is the news article:
+
+A group of 14 Wisconsin parents has filed a lawsuit against a local school district for its policy allowing teachers to address their children by their preferred "gender identity" without notifying them first.
+
+Wisconsin Institute for Law and Liberty (WILL), a conservative law firm, filed the 19-page lawsuit on Tuesday on behalf of the parent's group against the Madison Metropolitan School District (MMSD).
+The 14 parents were not named in the document.
+
+The lawsuit alleges that MMSD's transgender policy is unconstitutional because it prohibits teachers and staff from informing parents that their children want to switch sexes.
+
+"This action seeks to vindicate parents' fundamental and constitutional right to direct the upbringing of their children," the lawsuit argues.
+"The Madison Metropolitan School District has violated this important right by adopting a policy designed to circumvent parental involvement in a pivotal decision affecting their children's health and future.
+The policy enables children, of any age, to socially transition to a different gender identity at school without parental notice or consent."
+
+While parental consent is needed before a child's name can be changed legally in the district's official records, the school district policy announced in 2018 says students can be called by their preferred name and gender pronouns without parental permission.
+
+The policy states that the district is committed to affirming each student's self-designated gender identity and the district will strive to "disrupt the gender binary" with books and lessons stating that everyone has the right to choose their gender.
+
+The school policy allows students to pick new names and pronouns they can use at school regardless of whether they have a parent's permission.
+All teachers and district staff must refer to students by their chosen names and pronouns even though the names aren't official in district systems.
+
+The parents argue the policy violates the state constitution's due process clause, which protects parents' right to raise their children according to the parents' beliefs.
+
+"Madison schools have adopted policies that violate constitutionally recognized parental rights.
+A public school district should not, and cannot, make decisions reserved for parents," WILL President and General Counsel Rick Esenberg said in a statement.
+
+District spokesman Tim LeMonds said Tuesday that the district had not been served with the lawsuit and could not comment until it had a chance to review it.
+But LeMonds said the district stands by its guidance on transgender and nonbinary students.
+
+The lawsuit also argues that keeping parents in the dark about their children's sexuality interferes with parents' right to guide their children through life-altering decisions and provide professional help their children may urgently need.
+
+"There is no compelling government interest in keeping secret from parents that their child is dealing with gender dysphoria," the lawsuit reads.
+
+The parents also argue that the policy violates the state constitution's religious freedom guarantee.
+
+All of the parents say they believe God intended humans to be male and female, and the district's choice to hide students' gender struggles interferes with their right to guide their children in accordance with their religious beliefs
+
+SUMMARY:
+
+A group of 14 Wisconsin parents has filed a lawsuit against the Madison Metropolitan School District (MMSD) over its policy allowing teachers to address students by their preferred "gender identity" without notifying parents. The parents argue that this policy is unconstitutional, violating their fundamental right to direct their children's upbringing and make decisions about their health and well-being. The policy enables students to socially transition to a different gender identity at school without parental notice or consent, which the parents believe interferes with their right to guide their children through life-altering decisions and provide necessary professional help. The lawsuit also claims that the policy violates the state constitution's religious freedom guarantee, as the parents believe God intended humans to be male and female. The parents are seeking to vindicate their constitutional right to raise their children according to their beliefs.
+
+END OF SUMMARY.
+
+Now, here is the target news article to summarize:
+Here is the news article:
+
+US human rights report termed inaccurate ISLAMABAD, March 5: The government on Tuesday rejected the US State Department Report on human rights as "factually inaccurate and unwarranted" adding that it reflected tendency of some states to sit in judgment on others. "The reports fails to acknowledge the important policy measures and initiatives by the government of Pakistan to promote and protect human rights," said a statement issued by Foreign Office spokesman in which the report was termed as factually inaccurate and unwarranted. It pointed out that all the goals set at an April 2000 human rights conference had been achieved, which it added had been ignored by the report. Enlisting these initiatives, it recalled that these include promulgation of the Juvenile Justice System Ordinance, the establishment of a permanent commission on the status of women, police and jail reforms, national policy and plan of action for elimination of child labour and establishment of a fund for rehabilitation of working children. The government, it added, has amended Pakistan Citizenship Act of 1951 to enable women of Pakistani descent to claim Pakistani nationality for their children born to foreign husbands. A mass awareness campaign was launched as part of the observance of the Year 2000 as the year of Human Rights and Human Dignity, it added. In addition, it said, Pakistan also ratified ILO Conventions 100 on equal remuneration and 182 on the elimination of worst forms of child labour. It signed the Optional Protocols to Convention on the Rights of Child. Recently the system of joint electorates has been introduced respecting the wishes of the minority communities, it said. Despite these developments, the report states "the government's human rights record remained poor." "This is unacceptable and a gross misstatement of the facts. The government of Pakistan therefore, feels constrained to reject the assessment of the report about Pakistan, and the tendency of some states to sit in judgment over others." "The cause of human rights would be better served if all states, in a spirit of cooperation and understanding address the problems they face in promoting and protecting human rights," it said.
+
+The summary has to be returned after a "SUMMARY:" token and ending with a "END OF SUMMARY." token. The summary should be no longer than 200 words.

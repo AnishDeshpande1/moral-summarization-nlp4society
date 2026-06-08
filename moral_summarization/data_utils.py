@@ -6,7 +6,7 @@ import re
 from .utils import *
 
 
-EMONA_dataset_path = os.path.join(os.environ['HOME'], 'dev/moral-summarization/EMONA_dataset/EMONA')
+EMONA_dataset_path = os.path.join(os.environ['HOME'], 'Desktop/NLP4Society/EMONA_dataset/EMONA')
 EMONA_datasets = ['allsides', 'basil', 'mpqa']
 article_folders = {
     'allsides' : 'moral_allsides_articles',
@@ -18,7 +18,9 @@ annotation_folders = {
     'basil'    : 'moral_basil_annotations',
     'mpqa'     : 'moral_mpqa_annotations'
 }
-prompt_types = ['vanilla', 'simple', 'cot', 'oracle', 'class']
+prompt_types = ['vanilla', 'simple', 'cot', 'oracle', 'class',
+               'simple_fewshot', 'cot_fewshot',
+               'simple_fewshot_mft', 'cot_fewshot_mft']
 test_set_articles_path = os.path.join(os.environ['HOME'], 'dev/moral-summarization/crowd_evaluation/articles_in_test_set.txt')
 
 

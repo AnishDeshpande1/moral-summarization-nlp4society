@@ -1,0 +1,264 @@
+You have to summarize the following text preserving the moral framing that the author gave to it.
+
+Please study the following examples of news articles, their moral word extraction, and summaries preserving the moral framing:
+
+Example 1 (Political Ideology: Left):
+Here is the news article:
+
+Former Mexican President Vicente Fox on Wednesday harshly criticized current President Enrique Peña Nieto for inviting Republican presidential candidate Donald Trump to meet with him south of the border, just hours before he is due to give a widely anticipated speech on immigration in Arizona.
+
+“He is not welcome to Mexico,” Fox said in an interview on CNN.
+“By 130 million people, we don’t like him, we don’t want him. We reject his message.”
+
+Trump tweeted Tuesday that he had accepted an invitation to meet Peña Nieto in private.
+An invitation had also been extended to his Democratic opponent, Hillary Clinton, but the former secretary of state’s campaign said she was looking forward to speaking with him at the “appropriate time.”
+
+Trump has spent more than a year railing against Mexico and its leaders, promising the country would pay for the construction of a wall on the border it shares with the U.S., as well as fear-mongering about “rapists” and drug dealers that are coming across it.
+
+The surprise meeting abroad with a foreign leader will be Trump’s first as a presidential nominee, and is not without risks to his candidacy.
+Mitt Romney’s trip to Israel during the 2012 presidential campaign, for example, did not go over well.
+Peña Nieto’s approval rating fell to a record low earlier this year amid several corruption scandals.
+He, too, may seize on the meeting as an opportunity to bolster his image with Mexicans.
+
+In his interview on CNN, Fox warned Peña Nieto would be viewed like “a traitor” if he does not stand up to the GOP nominee.
+
+“Trump is using Mexico, using President Peña to boost his sinking poll numbers,” Fox said.
+“I think the President Peña is taking an enormous political risk by hosting Trump.
+If he’s gone soft on Trump, it will hurt him greatly.
+He will even be considered like a traitor because we don’t accept to be offended like we just heard, and it should not happen.
+He comes here with a smile on his face.
+I think this is a big mistake on part of President Peña.”
+
+“It’s a very opportunistic move and I hope U.S. public opinion, U.S. citizens can see this and finally, and finally see what is behind Trump, this false prophet that is just cheating everybody,” he added.
+“It’s a desperate move and I don’t see how it can work at all.”
+
+Earlier this year, Fox railed against Trump in an expletive-laden outburst, promising that Mexico would “never pay for that fucking wall.”
+He later apologized, and even invited Trump “to come to Mexico and to learn about the real Mexico.”
+
+Trump noted so helpfully in a tweet Wednesday morning.
+
+“Former President Vicente Fox, who is railing against my visit to Mexico today, also invited me when he apologized for using the “f bomb.””
+
+Fox tweeted his own recollection in response:
+
+“, I invited you to come and apologize to all Mexicans.
+Stop lying! Mexico is not yours to play with, show some respect.”
+
+STEP 1:
+* traitor
+* offended
+* false
+* prophet
+* cheating
+* desperate
+* lying
+* respect
+
+SUMMARY:
+Former Mexican President Vicente Fox strongly criticized current President Enrique Peña Nieto for inviting Republican presidential candidate Donald Trump to meet with him in Mexico. Fox stated that Trump is "not welcome to Mexico" and that the Mexican people "reject his message." Fox warned that if Peña Nieto does not stand up to Trump, he will be viewed as a "traitor" and that Trump is using the meeting to "boost his sinking poll numbers." Fox called Trump's actions "opportunistic" and "desperate," and accused him of "cheating" and being a "false prophet." Fox also tweeted that Trump should "show some respect" to Mexico. The meeting is seen as a risky move for both Trump and Peña Nieto, with the potential to hurt their approval ratings. END OF SUMMARY.
+
+Example 2 (Political Ideology: Center):
+Here is the news article:
+
+SANTA FE, Texas (Reuters) - A teenage boy charged with fatally shooting eight students and two teachers during a gun rampage at a Houston-area high school had been spurned by one of his victims after making aggressive advances, her mother told a newspaper.
+
+Sadie Rodriguez, the mother of Shana Fisher, 16, who was killed in the attack, told the Los Angeles Times that her daughter rejected four months of aggressive advances from Dimitrios Pagourtzis, 17, who is in jail accused of murdering 10 people early on Friday at the high school in Santa Fe.
+
+Fisher finally stood up to him and embarrassed him in class, the newspaper quoted her mother as writing in a private message to the Times.
+
+“A week later he opens fire on everyone he didn’t like,” she said.
+“Shana being the first one.”
+
+Rodriguez could not independently be reached for comment.
+
+If true, it would be the second school shooting in recent months driven by such rejection.
+
+Related Coverage Grief and anguish transcend two faiths' prayers after Texas school shooting
+
+In March, a 17-year-old Maryland high school student used his father’s gun to fatally shoot a female student with whom he had been in a recently ended relationship.
+
+Police said Pagourtzis confessed to Friday’s killings after he was taken into custody, but authorities have offered no motive yet for the massacre, the fourth-deadliest mass shooting at a U.S. public school in modern history.
+
+The Santa Fe Independent School District (ISD) denied accounts from some classmates that Pagourtzis had been bullied, including by a football coach.
+
+“Administration looked into these claims and confirmed that these reports are untrue,” it said on Saturday in a statement.
+
+Classmates at the school, which has some 1,460 students, described Pagourtzis as a quiet loner who played on the football team.
+He wore a black trench coat to school in the Texas heat on Friday and opened fire with a pistol and shotgun.
+
+‘THE AFTERMATH’
+
+In Santa Fe on Sunday, many churches and businesses had signs outside with messages such as “Santa Fe strong” and “Santa Fe ISD we are here for you.”
+
+Mourners hold candles during a vigil in memory of the victims killed in a shooting at Santa Fe High School in League City, Texas, U.S., May 20, 2018.
+
+About 100 people attended an emotional service at the Aldersgate United Methodist Church.
+Service dogs were in a nearby hall to help console grieving victims.
+
+Jared Black, one of the students killed, attended a youth group at the church, and many of its members embraced his mother Pam when the family arrived.
+
+At a mosque in another Houston suburb, mourners crowded around the coffin of 17-year-old Sabika Sheikh, a Pakistani exchange student who died in the rampage.
+
+It was the latest rampage to stoke a long-running national debate over gun ownership, three months after a student-led gun control movement emerged from a mass shooting in Parkland, Florida, which killed 17 teens and educators.
+
+Many of those student activists have taken aim at the pro-gun National Rifle Association.
+
+Speaking on “Fox News Sunday,” NRA President Oliver North said students should not be afraid to attend class, but that his gun-rights advocacy group did not think the solution was to limit the Second Amendment right to bear arms.
+
+“I believe that we can make sure kids are protected without taking away the rights of law-abiding citizens,” North said, calling for metal detectors in schools and more use of the NRA’s offer to schools of free security assessments.
+
+Pagourtzis has provided authorities little information about the shootings, his attorney, Nicholas Poehl, said, adding: “Honestly because of his emotional state, I don’t have a lot on that.”
+
+Texas’ governor, Greg Abbott, a Republican, told reporters that Pagourtzis obtained the firearms from his father, who had likely acquired them legally.
+
+Abbott also said Pagourtzis wanted to commit suicide, citing the suspect’s journals, but lacked the courage to do so.
+
+Pagourtzis’ family said in a statement it was “saddened and dismayed” by the shooting and “as shocked as anyone else” by the events.
+The family said it was cooperating with authorities.
+
+STEP 1:
+* aggressive
+* spurned
+* embarrassed
+* rejected
+* anguish
+* grief
+* bullied
+* untrue
+* strong
+* emotional
+* dismayed
+* shocked
+* courage
+
+SUMMARY:
+A teenage boy, Dimitrios Pagourtzis, 17, has been charged with fatally shooting eight students and two teachers at a Houston-area high school. According to the mother of one of the victims, Shana Fisher, 16, Pagourtzis had made aggressive advances towards her daughter, who rejected him and embarrassed him in class. A week later, he opened fire on everyone he didn't like, with Shana being the first one. The school district denied claims that Pagourtzis was bullied, calling them untrue. The community is now grieving and in anguish, with many churches and businesses showing support with messages like "Santa Fe strong". The shooting has reignited the national debate over gun ownership, with some calling for stricter laws and others, like the NRA, advocating for more security measures in schools. Pagourtzis' family is cooperating with authorities and has expressed dismay and shock over the events. END OF SUMMARY.
+
+Example 3 (Political Ideology: Right):
+Here is the news article:
+
+President Trump’s immigration compromise package to end the partial government shutdown drew sharp reactions from Democratic and Republican lawmakers alike.
+
+In a televised White House address on Saturday afternoon, Trump offered Democrats a three-year extension of protections for 700,000 Deferred Action for Childhood Arrivals (DACA) recipients, in exchange for the $5.7 billion he has been seeking for a barrier along the nation's southern border with Mexico.
+
+“Our immigration system should be a source of pride ... not a source of shame as it is all over the world,” Trump said in his plea.
+
+The president’s proposal was met with disdain from an array of top Democratic lawmakers.
+Many used the same language in their critiques, accusing Trump of holding the government and federal workers "hostage."
+
+House Speaker Nancy Pelosi, D-Calif., tweeted, “What we didn’t hear from the President was any sympathy for the federal workers who face so much uncertainty because of the chaos of the #TrumpShutdown.”
+
+Before Trump made his announcement, Pelosi had called his anticipated proposal “a non-starter.”
+
+“For one thing, this proposal does not include the permanent solution for the Dreamers and TPS recipients that our country needs and supports.”
+
+For his part, Chuck Schumer, the Senate minority leader, called Trump's proposal "one-sided and ineffective."
+
+"It's clear the President realizes that by closing the government and hurting so many American workers and their families, he has put himself and the country in an untenable position.
+Unfortunately, he keeps putting forward one-sided and ineffective remedies.
+There's only one way out: open the government, Mr. President, and then Democrats and Republicans can have a civil discussion and come up with bipartisan solutions."
+
+Schumer, D-N.Y., concluded, "It was the President who single-handedly took away DACA and TPS protections in the first place – offering some protections back in exchange for the wall is not a compromise but more hostage taking."
+
+House Majority Leader Steny Hoyer shared a similar sentiment, urging Trump and Sen. Mitch McConnell to "stop holding government hostage and end the shutdown" immediately.
+
+“The president must stop holding government hostage and end the shutdown so federal employees can get back to work serving the American people.
+There is no reason for Americans to be shut out of work and without a paycheck while negotiations take place on the best way to secure our borders,” he said.
+
+Hoyer said negotiation can progress after the government reopens.
+
+“With the government open, we can negotiate an agreement to strengthen border security that both sides can support and that is in the best interests of the American people.”
+
+Another leading Dem, Sen. Kristen Gillibrand of New York, who announced her White House bid on Jan. 15 in an episode of "The Late Show with Stephen Colbert," said Trump's offer was a "bad deal."
+
+Gillibrand tweeted: "Trump ordered the end of DACA and TPS.
+Then he shut down the government.
+Now he's holding federal workers hostage, saying he'll temporarily give back what he took away -- only if we give him a pointless, ineffective wall he falsely promised Mexico would pay for.
+This is a bad deal."
+
+Then there was New Jersey Sen. Bob Menendez's response. He bluntly accused Trump of forcing "a pointless shutdown" to pay for the border wall.
+
+"This is about more than 800,000 Americans who are being held hostage by a President who has forced a pointless shutdown to pay for an expensive, ineffective wall.
+This is not about immigration.
+Dreamers and TPS recipients are not bargaining chips.
+It's unacceptable that after taking away DACA protections, eliminating the TPS program for thousands of immigrants and creating a humanitarian crisis at the border, President Trump is offering temporary solutions in exchange for a permanent wall."
+
+The Democratic senator also said "a legitimate negotiation" can proceed after the government is reopened.
+
+Fellow Democratic Sen. Chris Coons of Delaware slammed McConnell for refusing "to meaningfully negotiate with Senate Democrats," but also called Trump's offer "a first step toward comprehensive immigration reform."
+
+"This senseless government shutdown is hurting millions of Americans, and its impacts are only getting worse. The President should re-open the government so that Republicans and Democrats in Congress can work with the White House to find a sensible solution on border security and immigration.
+I am confident that a reasonable compromise can be reached, but not while President Trump continues to keep significant parts of the government shut down and Leader McConnell refuses to meaningfully negotiate with Senate Democrats," he said.
+
+"Some relief for Dreamers and an extension of Temporary Protected Status represent a first step toward comprehensive immigration reform, but more ideas from members of both parties should be taken up and debated.
+Republicans and Democrats stand ready to work toward a solution, but the fact remains that there is no reason to have large parts of the federal government shut down while we debate appropriate border security and immigration policies."
+
+Republican lawmakers, at the opposite end of the reaction spectrum, praised the president for his willingness to negotiate.
+
+Senate Majority Leader McConnell, for instance, commended the president "for taking bipartisan steps toward addressing current immigration issues."
+
+In his statement, he said; “Compromise in divided government means that everyone can’t get everything they want every time.
+The president’s proposal reflects that.
+It strikes a fair compromise by incorporating priorities from both sides of the aisle."
+
+“This bill takes a bipartisan approach to re-opening the closed portions of the federal government.
+It pairs the border security investment that our nation needs with additional immigration measures that both Democrat and Republican members of Congress believe are necessary.
+Unlike the bills that have come from the House over the past few weeks, this proposal could actually resolve this impasse.
+It has the full support of the President and could be signed into law to quickly reopen the government."
+
+Republican Whip Steve Scalise called on Democrats to match Trump's willingness to negotiate.
+
+"The time for political games has long passed.
+Democrats must put their personal dislike of the president aside, end their obstruction, and finally come to the negotiating table.
+It's time Democrats do what is right for the functioning and security of our nation and agree to a deal that opens our government, and includes funding for a border wall and other measures to solve this serious immigration crisis at our southern border," he said in a statement.
+
+Also on the Republican side, Sen. Susan Collins of Maine said she was "hopeful" for a "constructive debate" with Democrats.
+
+“Compromise is not a sign of weakness — it’s a sign of strength, particularly when hundreds of thousands of families are being harmed.
+The Administration, Senate Republicans, and Democrats must now resolve this stalemate before 800,000 federal workers and their families miss yet another paycheck, and our economy is further damaged,” she said.
+
+Sen. Mitt Romney, R-Utah, whose views on the president and his policies have fluctuated, said Trump "put forth a reasonable, good faith proposal that will reopen the government and help secure the border."
+
+He tweeted, "I look forward to voting for it and will work to encourage my Republican and Democratic colleagues to do the same.
+
+Earlier, while speaking in Ogden, Utah, Romney said he did not understand Pelosi's position on border security.
+
+"You (Pelosi) and your fellow Democrats have voted for over 600 miles of border fence in the past, why won't you vote for another few miles now? I don't understand their position, I really don't," the Republican senator said.
+
+Florida Sen. Marco Rubio took a positive view of Trump's proposed deal, like his fellow Republicans.
+He said Trump made "a very reasonable offer" and urged Democrats to work with him.
+
+“The way to end this shutdown is for both sides to make mutual concessions in order to reach an agreement.
+The president has made a very reasonable offer to extend DACA and TPS protections in exchange for the border security measures he supports.
+I hope that instead of choosing the road of endless obstruction, Democrats will decide to work with him to reach an agreement and end the shutdown,” he said.
+
+Likewise, House Republican Leader Kevin McCarthy called the president's immigration offer "reasonable."
+
+McCarthy tweeted: "President Trump has put forward a serious and reasonable offer to reform parts of our broken immigration system and reopen government.
+The moment now turns to Nancy Pelosi and Chuck Schumer. The country is watching."
+
+
+STEP 1:
+* shame
+* hostage
+* chaos
+* ineffective
+* one-sided
+* untenable
+* bad
+* pointless
+* unacceptable
+* senseless
+* legitimate
+* reasonable
+
+SUMMARY:
+President Trump's immigration compromise package to end the partial government shutdown has drawn sharp reactions from Democratic and Republican lawmakers alike. Trump offered Democrats a three-year extension of protections for 700,000 Deferred Action for Childhood Arrivals (DACA) recipients in exchange for the $5.7 billion he has been seeking for a barrier along the nation's southern border with Mexico. However, top Democratic lawmakers accused Trump of holding the government and federal workers "hostage" and criticized his proposal as "one-sided" and "ineffective." They argued that Trump's offer was a "bad deal" and that he was using DACA recipients as "bargaining chips" in a "pointless shutdown." In contrast, Republican lawmakers praised the president for his willingness to negotiate, calling his proposal "reasonable" and a "good faith" effort to reopen the government. END OF SUMMARY.
+
+Now, here is the target news article to summarize:
+Here is the news article:
+
+SAN FRANCISCO — The attacks on San Francisco and other cities with similar immigration policies began moments after a jury acquitted a Mexican man of killing a woman on a popular pier, some calling for a boycott of the city that fiercely defends its reputation as a refuge for all. President Donald Trump called the verdict a “complete travesty of justice,” and U.S. Attorney General Jeff Sessions demanded cities like San Francisco scrap immigration policies that bar cooperation with federal deportation efforts. Twitter users turned to the hashtags #BoycottSanFrancisco and #kateswall to demand construction of the U.S.-Mexico border wall that Trump has called for. Conservative politicians and celebrities such as former Alaska Gov. Sarah Palin and actor James Woods lambasted the city as unsafe. City officials vowed to stand behind their “sanctuary city” policy. It’s what led Jose Ines Garcia Zarate to be released from San Francisco’s jail despite a federal request to detain him for deportation several weeks before Kate Steinle was fatally shot in the back in 2015. He had been deported five times and was wanted for a sixth. “San Francisco is and always will be a sanctuary city,” said Ellen Canale, a spokeswoman for Mayor Ed Lee. Sanctuary policies improve public safety by allowing immigrants to cooperate with police without fear, said state Sen. Scott Wiener, a Democratic former San Francisco supervisor. “This family has been through hell, but there are people, including our president, who continue to use this tragedy to demonize immigrants and to slander immigrants by suggesting they are all criminals, and that is not true,” he said Friday. San Francisco was among the first U.S. cities to establish a sanctuary law in 1989 as part of a national wave of local policies intended to help Central American refugees. Since then, the city consistently has been an early adopter of some of the most immigrant-friendly policies nationwide, and it takes pride in serving as a safe place for religious and gender minorities, non-English speakers and people in the country illegally. Hundreds of other cities have similar immigration policies. A judge did not allow immigration politics into the courtroom for Garcia Zarate’s trial. San Francisco Deputy District Attorney Diana Garcia urged jurors to convict Garcia Zarate of first-degree murder, saying he had come to the pier with a gun and a desire to hurt someone. His attorneys argued that he found a gun wrapped in cloth under a chair on the pier and it fired when he picked it up. Jurors rejected charges of murder and involuntary manslaughter but did convict Garcia Zarate of being a felon in possession of a firearm, which carries a maximum sentence of three years in jail. It’s likely he will have served long enough behind bars considering his time in custody. U.S. Immigration and Customs Enforcement said it would “ultimately remove” Garcia Zarate from the country. During the 2016 presidential campaign, then-candidate Trump and others pointed to Steinle’s death as reasons why the country’s immigration laws should be tightened. Trump called the verdict “disgraceful” and posted on Twitter that “the Kate Steinle killer came back and back over the weakly protected Obama border, always committing crimes and being violent, and yet this info was not used in court.” “His exoneration is a complete travesty of justice. BUILD THE WALL,” Trump tweeted. Garcia Zarate’s convictions were immigration and drug-related but he had no record of violence. Former President Barack Obama had kept his Republican predecessor’s policy of allowing U.S. immigration officials to ask local police to detain people suspected of living in the country illegally for up to 48 hours. Garcia Zarate had finished a federal prison sentence for illegal re-entry into the United States and had been transferred to San Francisco’s jail in March 2015 to face a 20-year-old charge for selling marijuana. The sheriff’s department released him a few days after prosecutors dropped the marijuana charge despite a request from federal officials to detain him for deportation. Federal officials got an arrest warrant for Garcia Zarate days after the shooting, which they say was a violation of his supervised release on the illegal re-entry conviction. A judge unsealed that warrant Friday. Michael Cardoza, a longtime San Francisco Bay Area lawyer, said the prosecutor overreached in asking for a first-degree murder conviction, which would have meant that Garcia Zarate intended to kill Steinle despite strong evidence that the bullet ricocheted around 90 feet (27 meters) before striking her. Cardoza said a better case could have been made to convince jurors that Garcia Zarate had a “reckless disregard for human life” and to convict him of second-degree murder. Steinle’s father, Jim, told the San Francisco Chronicle that “justice was rendered, but it was not served.” “We’re just shocked — saddened and shocked … that’s about it,” he said in an interview described as the family’s last.
+
+(1) First, you identify all the single words that are morally framed. Identify this step as "STEP 1:" and report each word in a new line starting with *
+(2) Finally, you write a summary of the news article. Please preserve as many morally framed words as possible in your summary. The summary has to be returned after a "SUMMARY:" token and ending with a "END OF SUMMARY." token. The summary should be no longer than 200 words.

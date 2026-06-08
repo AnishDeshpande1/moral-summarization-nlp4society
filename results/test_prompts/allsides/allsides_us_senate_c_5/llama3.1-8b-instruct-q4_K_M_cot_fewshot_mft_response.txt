@@ -1,0 +1,19 @@
+Here is the target news article's moral word extraction and summary:
+
+STEP 1:
+* adversary
+* friend
+* invaded
+* nervous
+* wish
+* well
+* condemn
+* irresponsible
+* partisan
+* gain
+* delegitimize
+* ridiculous
+* conspiracy
+
+SUMMARY:
+Senate Majority Leader Mitch McConnell has called for an investigation into recent CIA findings that the Russian government tried to influence the U.S. presidential election, labeling the allegations "disturbing". He believes the Senate Intelligence Committee is "more than capable" of conducting a review of this matter on a bipartisan basis. However, he declined to comment on the possible appointment of ExxonMobile CEO Rex Tillerson, who has close ties with Russian President Vladimir Putin, as Secretary of State, saying that it's too early to make any statements. McConnell also condemned allegations of Russian hacking and suggested that leaked characterizations of the motivation behind it should be weighed carefully, noting that any leaks about U.S. intelligence findings are "irresponsible" and potentially for "partisan gain". He made clear views on Russia as an adversary, stating that they invaded Crimea and do not wish the US well. END OF SUMMARY.

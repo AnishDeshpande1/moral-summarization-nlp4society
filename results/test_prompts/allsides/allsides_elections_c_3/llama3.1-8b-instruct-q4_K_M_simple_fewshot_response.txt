@@ -1,0 +1,6 @@
+Here is the summary:
+
+SUMMARY:
+The US election has been marred by unprecedented cyberattacks, sparking widespread concerns about the integrity of the vote. A survey found that nearly 60% of Americans are concerned or very concerned that the election could be hacked, leading to a possible 15 million people staying home on Election Day. The Obama administration blames Russia for orchestrating the breach, but experts say that even if hackers can't compromise voting systems, spreading fear and disinformation about vote hacking can have a major impact on public trust. With multiple states on high alert, election officials are bracing for any potential signs of tampering, including not just cyberattacks, but also physical disruptions like fire alarms or sabotage.
+
+END OF SUMMARY.

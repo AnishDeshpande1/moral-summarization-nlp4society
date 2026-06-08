@@ -1,0 +1,144 @@
+You have to summarize the following text preserving the moral framing that the author gave to it, with particular focus on the specific moral foundations highlighted in the text.
+
+Please study the following examples of news articles, their moral word extraction, and summaries preserving the moral framing:
+
+Example 1 (Political Ideology: Left, Moral Foundations: Authority/Subversion, Fairness/Cheating, Loyalty/Betrayal):
+Here is the news article:
+
+Susan Rice, President Barack Obama's national security adviser, said Israeli Prime Minister Benjamin Netanyahu's planned speech in front of a joint session of Congress will be "destructive" to U.S.-Israel relations.
+
+"What has happened over the last several weeks, by virtue of the invitation that was issued by the Speaker [John Boehner] and the acceptance of it by Prime Minister Netanyahu two weeks in advance of his election, is that on both sides, there has now been injected a degree of partisanship, which is not only unfortunate, I think it's destructive of the fabric of the relationship," Rice told PBS' Charlie Rose.
+
+"It's always been bipartisan," Rice added.
+"We need to keep it that way. We want it that way. I think Israel wants it that way. The American people want it that way.
+When it becomes injected or infused with politics, that's a problem."
+
+Obama has said he will not meet with Netanyahu ahead of his speech in March, saying it would be "inappropriate" to meet with the leader two weeks before the Israeli elections.
+Netanyahu was invited to speak in front of a joint session of Congress by House Speaker John Boehner (R-Ohio), who did not seek approval from the White House before sending the invitation.
+
+Several lawmakers have spoken out against the speech, saying it could cause additional strain on international talks over Iran's nuclear plans.
+Sen. Patrick Leahy (D-Vt.) called Netanyahu's speech "a tawdry and high-handed stunt" in a statement earlier this month.
+
+STEP 1:
+* destructive
+* unfortunate
+* bipartisan
+* problem
+* inappropriate
+* tawdry
+* high-handed
+
+SUMMARY:
+National Security Adviser Susan Rice has warned that Israeli Prime Minister Benjamin Netanyahu's planned speech to Congress will be "destructive" to U.S.-Israel relations. The invitation, issued by House Speaker John Boehner without White House approval, has injected "partisanship" into the relationship, making it an "unfortunate" and "problem"-ridden situation. Rice emphasized the importance of maintaining a "bipartisan" approach, which is what Israel and the American people want. President Obama has also taken a stance, saying it would be "inappropriate" to meet with Netanyahu ahead of the speech, which is scheduled two weeks before the Israeli elections. The move has been criticized by lawmakers, with Sen. Patrick Leahy calling it a "tawdry and high-handed stunt" that could strain international talks on Iran's nuclear plans. END OF SUMMARY.
+
+Example 2 (Political Ideology: Center, Moral Foundations: Care/Harm):
+Here is the news article:
+
+Representative Bob Etheridge, Democrat of North Carolina, issued an apology on Monday for grabbing a young man by the hand, arm and neck – as a video camera rolled – as the man tried to ask him whether he supports President Obama’s agenda.
+
+“I deeply and profoundly regret my reaction and I apologize to all involved,” Mr. Etheridge said in a statement. 
+“Throughout my many years of service to the people of North Carolina, I have always tried to treat people from all viewpoints with respect. 
+No matter how intrusive and partisan our politics can become, this does not justify a poor response.”
+
+He added, “I have and I will always work to promote a civil public discourse.”
+
+A young man, dressed in a jacket and tie, approached the congressman on a sidewalk, saying: “Hi, Congressman. How are you? Do you fully support the Obama agenda?”
+
+Mr. Etheridge, a seven-term House member, can be seen on the video repeatedly asking the young man to identify himself. 
+After a few seconds, the congressman grabs the camera and the young man.
+
+“Tell me who you are,” Mr. Etheridge said. “Tell me who you are.”
+
+The young man is not identified in the video, which was made last week. 
+A second person accompanying him pulled out another camera to record the congressman’s actions. 
+The video received widespread attention on Monday after it was posted on the Web site of Andrew Breitbart, a conservative Web publisher and former editor of The Drudge Report. 
+It was circulated by the National Republican Congressional Committee.
+
+“Bob Etheridge has lost it,” said Jon Thompson, a Republican spokesman. 
+“His conduct is unbecoming of a member of Congress.”
+
+Mr. Etheridge, who represents a conservative district south of Raleigh, faces a re-election challenge, but his race is not among the top Republican targets in the country. 
+He won two years ago by 36 percentage points, and Mr. Obama carried his district by 6 percent.
+
+Vice President Joseph R. Biden Jr. resumed the White House campaign for gun control on Tuesday by reporting on executive action taken unilaterally by the administration and pressing Congress to take up legislation again.
+
+STEP 1:
+* regret
+* apologize
+* respect
+* civil
+* poor
+* unbecoming
+* lost
+
+SUMMARY:
+Representative Bob Etheridge, a Democrat from North Carolina, issued an apology for his regretful reaction to a young man's question about supporting President Obama's agenda. In a video, Etheridge can be seen grabbing the man by the hand, arm, and neck, and repeatedly asking him to identify himself. Etheridge deeply regrets his poor response and apologizes to all involved, stating that he has always tried to treat people with respect, regardless of their viewpoints. He emphasized the importance of promoting a civil public discourse. The video, which was posted on a conservative Web site, has received widespread attention and has been circulated by the National Republican Congressional Committee, with a Republican spokesman calling Etheridge's conduct "unbecoming of a member of Congress" and saying he has "lost it." END OF SUMMARY.
+
+Example 3 (Political Ideology: Right, Moral Foundations: Authority/Subversion, Fairness/Cheating, Sanctity/Degradation):
+Here is the news article:
+
+President Trump on Friday became the first president to speak in person at the anti-abortion March for Life rally, on the heels of a new poll registering record-high dissatisfaction with U.S. abortion laws.
+
+“Unborn children have never had a stronger defender in the White House,” Trump said in a speech.
+“And as the Bible tells us, each person is wonderfully made.”
+
+He went on to slam Democrats for embracing “the most radical and extreme positions” and backing “taxpayer-funded abortion, all the way up until the moment of birth.” (Critics say that such procedures do not occur.)
+
+The March for Life says its mission is to “promote the beauty and dignity of every human life by working to end abortion.” Trump previously spoke at the rally remotely, while Vice President Mike Pence in 2017 became the first U.S. vice president to attend.
+
+March for Life president Jeanne Mancini applauded the Trump administration in a statement earlier in the week, noting that the administration had appointed anti-abortion judges and federal workers, cut taxpayer funding for abortions and called for an end to late-term abortions.
+“President Trump and his Administration have been consistent champions for life and their support for the March for Life has been unwavering,” she said.
+
+The results of a new Gallup poll released Wednesday suggested that discontent over U.S. abortion policy was at an all-time high (58%) and satisfaction was at an all-time low (32%).
+The survey of more than 1,000 adults, conducted earlier this month, tracked an upward trend in those who wanted abortion policy to be less restrictive.
+
+Traditionally, Gallup said, most people dissatisfied with abortion policy wanted stricter laws — but since 2017, the year Trump took office, the share of respondents desiring less-strict abortion policy has risen.
+Now, “roughly equal percentages of U.S. adults now are dissatisfied and favor less strict laws (22%) as are dissatisfied and want stricter laws (24%),” the report’s authors said.
+
+Mounting support for easing abortion policy was fueled by a rise in Democrats and independents expressing such sentiments over the last 10 years, the survey found.
+
+A flurry of states last year enacted restrictive anti-abortion laws, including a handful that banned abortion past a certain point in a pregnancy, and Alabama, which effectively outlawed abortion in most cases.
+Many of these laws have been blocked in court from taking effect.
+
+The Supreme Court will also hear arguments this year on June Medical Services v. Gee, which involves a Louisiana law requiring abortion providers to have admitting privileges at a local hospital.
+The court previously struck down a similar provision in Texas in 2016’s Whole Woman’s Health v. Hellerstedt.
+
+“Americans have grown increasingly dissatisfied with the nation’s abortion policies since 2017, largely reflecting Democrats’ — and to a lesser extent, independents’ — mounting view under Trump that the laws are too strict,” wrote the authors of the Gallup report.
+“While this may partly be a reaction to Trump’s rhetoric on the issue, it also aligns with an increase in abortion restrictions.”
+
+A separate poll published Wednesday by the Kaiser Family Foundation found that 59% of Americans believe abortion should be legal in most (32%) or all (27%) cases, while just 11% thought the procedure should be illegal in all cases.
+Nearly seven in 10 respondents said they didn’t want the landmark Supreme Court ruling Roe v. Wade, which affirmed the right to have an abortion, to be overturned.
+Democrats and independents were most likely to express that opinion, while a majority of Republicans (57%) said they wanted Roe overturned.
+
+But many respondents also backed some state abortion restrictions, including 69% who endorsed policies requiring the procedure be performed only by doctors with hospital-admitting privileges, 66% who supported 24-hour waiting periods between consultation with a provider and the procedure, and 57% who supported a requirement that doctors show and describe ultrasound images to abortion seekers.
+Still, criminalizing abortion (that is, through fines or prison time) for providers and abortion-seekers proved unpopular.
+
+A NPR/PBS News/Marist poll of 944 U.S. adults released in June 2019 echoed those results, showing that 77% of Americans wanted to keep Roe v. Wade in place, but many still wanted additional abortion restrictions or policy changes.
+
+Among the more than three-quarters of Americans who broadly supported Roe, 26% wanted the Supreme Court to keep it but add more restrictions, and 14% supported keeping it but reducing some restrictions, according to that poll.
+Some 21% wanted to see Roe expanded to secure abortion rights under any circumstance, while 16% wanted to keep it the way it is.
+
+STEP 1:
+* radical
+* extreme
+* wonderfully
+* beauty
+* dignity
+* champions
+* restrictive
+* stricter
+* dissatisfied
+* discontent
+* unwavering
+* stricter
+
+SUMMARY:
+President Trump became the first president to speak in person at the anti-abortion March for Life rally, where he slammed Democrats for embracing "radical and extreme positions" on abortion. Trump emphasized that "unborn children have never had a stronger defender in the White House" and quoted the Bible, saying "each person is wonderfully made." The March for Life aims to "promote the beauty and dignity of every human life" by working to end abortion. A new Gallup poll shows that discontent with U.S. abortion laws is at an all-time high, with 58% of Americans dissatisfied and only 32% satisfied. The poll also found that support for easing abortion policy has risen, particularly among Democrats and independents. Meanwhile, many states have enacted restrictive anti-abortion laws, which have been blocked in court. The Supreme Court will hear arguments on a Louisiana law requiring abortion providers to have admitting privileges at a local hospital. END OF SUMMARY.
+
+Now, here is the target news article to summarize:
+Here is the news article:
+
+Nairobi, March 13 (XINHUA) -- Zimbabwean President Robert Mugabe's reelection has been praised by the Organization of African Unity (OAU), African countries, but condemned by some western countries. The OAU observer team in Zimbabwe described the election held on March 9-11 as "free and fair." "On the basis of observations made during the voting, verification and counting process on the ground and objective realities, the OAU observer team wishes to state that in general the elections were transparent, credible, free and fair," the team's leader Gertrude Mongella said. In his congratulation message to his Zimbabwean counterpart Robert Mugabe, Tanzanian President Benjamin Mkapa calls him a champion of democracy. "I am pleased to send my warm congratulations on the renewed and the deserved presidential mandate the people of Zimbabwe have given you," Mkapa said. "It would be a great tragedy for anyone to determine the outcome of an African election in Europe," Mkapa said. "It was upon the people of Zimbabwe to decide who should lead them and they have done that loudly and clearly." "The people of Zimbabwe have re-elected you because you have been same (consistent) in defending their inalienable rights to their country's freedom, democratic and sovereign government," Mkapa said. Kenyan President Daniel arap Moi congratulated Mugabe on his reelection, saying his victory and that of his ZANU-PF party was " testimony of the confidence and high esteem the people of Zimbabwe hold in you". Within the 14-nation Southern African Development Community (SADC), a team from the SADC Council of Ministers considered that the vote in Zimbabwe was a "true reflection" of the people's will. The chief SADC parliamentary observer Duke Lefhoko said that " the results are the affair of the people of Zimbabwe." The SADC Council of Ministers in a statement appeals to the people of Zimbabwe to accept the results. The South African government in a statement welcomes the fact that the actual elections and subsequent processes have proceeded without any significant conflict among the participants. The statement said, according to the Preliminary Report of the South African Observer Mission, Zimbabwe's elections should be considered as legitimate. The Nigerian government, a key player in Africa's reaction to events in Zimbabwe, will announce on Thursday its verdict on the elections, Information Minister Jerry Gana said. However, Zimbabwe's presidential election was condemned by some western countries. US Assistant Secretary for African affairs Walter Kansteiner in a statement called Zimbabwe's election flawed, saying that the US would consider further sanctions against Mugabe and his government. British Foreign Secretary Jack Straw said "for months the government of Zimbabwe has conducted a systematic campaign of violence and intimidation, designed to achieve an outcome -- power at all costs." He said that Mugabe has "stolen" Zimbabwe's vote, an outcome that would have "enormous implications for the nature of UK-Zimbabwe relationship." France's Foreign Ministry spokesman Francois Rivasseau said that Zimbabwe's "election cannot be considered as substantially free and fair." Germany's Foreign Ministry spokesman Andreas Michaelis said that "all information points to the fact it cannot be assumed there were equal chances for the candidates in this election." Denmark's Foreign Minister Per Stig Moeller said his government will cut aid to Zimbabwe and likely shut down its embassy in Harare. He also said the European Union will consider toughening sanctions on the Mugabe regime when foreign ministers meet ahead of the Barcelona summit on Friday and Saturday. Denmark gave Zimbabwe aid worth 9.42 million euros (8.3 million US dollars) in 2001 and made available 2 million euros more in 2002 to complete projects already underway. Zimbabwe's incumbent President Robert Mugabe has won the country's closest-fought presidential election since independence 22 years ago, the final election results showed Wednesday. According to the nationwide election results, Mugabe gained 56.2 percent of the total 2,998,758 valid votes, or 1,685,212 votes, while Morgan Tsvangirai of the opposition Movement for Democratic Change (MDC) getting 41.96 percent, or 1,258,401 votes. About 3.4 million of the 5.6 million registered voters in Zimbabwe were estimated to have voted in the controversial election that ended Monday after a high court extended the voting into a third day.
+
+(1) First, you identify all the single words that are morally framed, focusing especially on the dimensions of Authority/Subversion, Fairness/Cheating. Identify this step as "STEP 1:" and report each word in a new line starting with *
+(2) Finally, you write a summary of the news article. Please preserve as many morally framed words as possible, particularly focusing on the moral dimensions of Authority/Subversion, Fairness/Cheating in your summary. The summary has to be returned after a "SUMMARY:" token and ending with a "END OF SUMMARY." token. The summary should be no longer than 200 words.

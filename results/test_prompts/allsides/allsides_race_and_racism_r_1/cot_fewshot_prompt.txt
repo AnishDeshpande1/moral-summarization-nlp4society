@@ -1,0 +1,177 @@
+You have to summarize the following text preserving the moral framing that the author gave to it.
+
+Please study the following examples of news articles, their moral word extraction, and summaries preserving the moral framing:
+
+Example 1 (Political Ideology: Left):
+Here is the news article:
+
+Kathy Griffin Apologizes For Controversial Images Of Bloodied Trump Head
+
+This feels like an “America’s Next Top Model” challenge gone so horribly wrong.
+
+Kathy Griffin has made a career out of shocking her public by telling stories of Lindsay Lohan’s fire crotch and simulating oral sex with Anderson Cooper on CNN, but she took things to a whole new level with a controversial photo shoot.
+
+Shot by celebrity photographer and director Tyler Shields, the comedian stares the camera down in one photo, as she holds what resembles the bloody head of President Donald Trump.
+
+“Kathy is all about pushing the limits and she went above and beyond on this one.
+Now lets just hope she stays out of jail,” a representative for Shields told HuffPost.
+
+In other (and considerably less gory) photos shot by Shields, Griffin poses by the pool in a revealing leather getup as a man holding a camera stands above her.
+
+According to New York Magazine writer Yashar Ali, Griffin claims that the image is an “expression of art” inspired by Trump’s comments about former Fox News correspondent Megyn Kelly having “blood coming out of her eyes” and “out of her — wherever.”
+
+After news of the photo shoot broke, Griffin took to Twitter to explain her motivations behind the image and reiterate that she does not condone violence in any way.
+She does, however, condone “mocking the Mocker in Chief.”
+
+UPDATE - May 30, 10 p.m.: Kathy Griffin issued a formal apology for the controversial images on Twitter.
+
+“I went way too far,” she said in a video on the social media site.
+
+UPDATE - May 30, 5:20 p.m.: Hours after Kathy Griffin’s photo shoot with a fake bloody Donald Trump head made the internet rounds, the official Twitter account for the U.S. Secret Service has issued a statement.
+
+A Secret Service representative confirmed to HuffPost that the following tweets were in direct response to the controversial image.
+
+“On it! @SecretService has a robust protective intelligence division that monitors open source reporting & social media to evaluate threats,” the tweets read.
+“Threats made against @SecretService protectees receive the highest priority of all of our investigations,” with the hashtag #ProtectionNeverRests.
+
+STEP 1:
+* controversial
+* shocking
+* horribly
+* wrong
+* pushing
+* limits
+* gory
+* violence
+* mocking
+* Mocker
+* went
+* too
+* far
+* threats
+* highest
+* priority
+
+SUMMARY:
+Comedian Kathy Griffin has sparked outrage with a controversial photo shoot featuring a bloody head resembling President Donald Trump. The images, taken by celebrity photographer Tyler Shields, have been deemed "horribly wrong" and "shocking." Griffin claims the photo is an "expression of art" inspired by Trump's past comments, but has since issued a formal apology, stating she "went way too far." The comedian maintains she does not condone violence, but rather aims to "mock the Mocker in Chief." The U.S. Secret Service has responded to the incident, confirming they take threats against the President "very seriously" and will investigate with the "highest priority." Griffin's apology has been met with a mix of criticism and understanding, with many calling her actions "wrong" and "inappropriate." END OF SUMMARY.
+
+Example 2 (Political Ideology: Center):
+Here is the news article:
+
+WASHINGTON — Susan E. Rice, President Obama’s national security adviser, sharply criticized Prime Minister Benjamin Netanyahu of Israel on Tuesday over his plans to address a joint meeting of Congress next week, saying his actions had hurt his nation’s relationship with the United States.
+
+Mr. Netanyahu’s decision to travel to Washington to deliver the speech two weeks before the Israeli elections has “injected a degree of partisanship, which is not only unfortunate, I think it’s destructive of the fabric of the relationship,” Ms. Rice said in an interview on the PBS television program “Charlie Rose.”
+
+Her comments marked the strongest public rebuke to date by the Obama administration since Mr. Netanyahu accepted an invitation from Speaker John A. Boehner to make his case to Congress against a nuclear deal with Iran, which is a priority of Mr. Obama’s.
+It is also the frankest acknowledgment yet by a top American official of the degree to which the controversy has damaged United States-Israeli relations.
+
+The speech, scheduled for March 3, was arranged by Mr. Boehner and the Israeli ambassador without consulting the White House — a move that Mr. Obama’s team has called a breach of protocol.
+
+The president has said he will not meet with Mr. Netanyahu during his visit to avoid any appearance that he is trying to influence the Israeli elections that are scheduled for mid-March.
+
+The episode is a low point in the tense relationship between Mr. Obama and Mr. Netanyahu and has touched off weeks of mostly anonymous sniping and finger-pointing.
+
+Top administration officials have hinted more openly of their displeasure in recent days.
+
+The White House on Wednesday said that Mr. Obama agreed with Ms. Rice’s assessment, saying he had raised the same concerns several times.
+
+Her comments, said Josh Earnest, the White House press secretary, are “entirely consistent with what the president has already said.”
+
+“Allowing this relationship to be subjected to party politics does weaken the relationship,” Mr. Earnest said.
+
+Mr. Earnest said he did not know whether Mr. Obama and Ms. Rice had talked in advance of the interview about what she would say about Mr. Netanyahu’s visit.
+
+Vice President Joseph R. Biden Jr., who as president of the Senate would be expected to attend, has said he will be traveling abroad.
+Secretary of State John Kerry said Tuesday that he would be in Switzerland negotiating with the Iranians.
+The White House has also not committed to sending a representative next week to the American Israel Public Affairs Committee’s conference, where Mr. Netanyahu is also scheduled to appear.
+
+The Israeli prime minister himself has turned down a request by Democratic senators for a private meeting, Senator Richard J. Durbin, Democrat of Illinois, said Tuesday.
+
+“We offered the prime minister an opportunity to balance the politically divisive invitation from Speaker Boehner with a private meeting with Democrats who are committed to keeping the bipartisan support of Israel strong,” Mr. Durbin said in a statement.
+“His refusal to meet is disappointing to those of us who have stood by Israel for decades.”
+
+In a letter released by Mr. Durbin’s office, Mr. Netanyahu said such a meeting “could compound the misperception of partisanship regarding my upcoming visit.”
+
+Mr. Netanyahu said Tuesday that he was making the trip because it was his obligation to “do everything I can to prevent” a nuclear agreement with Iran.
+
+“Therefore, I will go to Washington to address the American Congress, because the American Congress is likely to be the final brake before the agreement between the major powers and Iran,” he said as he toured a military base in southern Israel.
+
+Ms. Rice demurred when asked whether she believed Mr. Netanyahu was making the speech to gain political favor.
+
+“I’m not going to ascribe motives to the prime minister,” she told Mr. Rose.
+“The point is, we want the relationship between the United States and Israel to be unquestionably strong, immutable, regardless of political seasons in either country, regardless of which party may be in charge in either country.
+
+“We’ve worked very hard to have that,” she said, “and we will work very hard to maintain that.”
+
+STEP 1:
+* unfortunate
+* destructive
+* partisanship
+* breach
+* displeasure
+* sniping
+* finger-pointing
+* weaken
+* disappointing
+* obligation
+
+SUMMARY:
+National Security Adviser Susan E. Rice sharply criticized Israeli Prime Minister Benjamin Netanyahu's plans to address Congress, saying his actions have "injected a degree of partisanship" that is "unfortunate" and "destructive of the fabric of the relationship" between the US and Israel. The controversy has damaged US-Israeli relations, with the White House calling the speech a "breach of protocol". Rice's comments marked the strongest public rebuke to date by the Obama administration. The episode is a "low point" in the tense relationship between Obama and Netanyahu, with top administration officials expressing their "displeasure" and hinting at the "sniping" and "finger-pointing" that has ensued. The White House has emphasized the importance of maintaining a strong and "immutable" relationship between the two countries, regardless of political seasons. END OF SUMMARY.
+
+Example 3 (Political Ideology: Right):
+Here is the news article:
+
+President Trump on Saturday took aim at social media tech giants for “discriminating” against Republicans and conservatives -- saying that “too many voices are being destroyed” and promising that his administration would not allow it to happen.
+
+“Who is making the choices, because I can already tell you that too many mistakes are being made. 
+Let everybody participate, good & bad, and we will all just have to figure it out!” he said at the end of a lengthy post on Twitter.
+
+Both Facebook and Twitter have been under fire for allegedly censoring accounts, while ignoring rules violations by liberal and left-wing users. 
+Trump in the past has referred to alleged “shadow banning” by Twitter as “discriminatory and illegal.”
+
+Trump uses Twitter on a daily basis, and his campaign was credited for its use of Facebook as one of the ways it secured its victory in November 2016.
+
+While conservatives have complained for years about what they say is discrimination by the tech giants, the controversy escalated last month when Vice News reported the issue, saying that accounts from top Republicans including GOP Chairwoman Ronna McDaniel were being given limited visibility on Twitter. 
+Twitter at the time said it was an algorithmic glitch that has since been fixed.
+
+"We do not shadow ban. 
+You are always able to see the tweets from accounts you follow (although you may have to do more work to find them, like go directly to their profile). 
+And we certainly don’t shadow ban based on political viewpoints or ideology," the tech giant said in a statement.
+
+"We do rank tweets and search results. 
+We do this because Twitter is most useful when it’s immediately relevant. 
+These ranking models take many signals into consideration to best organize tweets for timely relevance," the statement said. 
+"We must also address bad-faith actors who intend to manipulate or detract from healthy conversation."
+
+A Facebook executive apologized last month for mistreating Diamond and Silk -- two pro-Trump personalities who have long claimed they are being censored by the platform, but the company has also denied being biased against conservatives.
+
+“We badly mishandled our communications with them,” Monika Bickert, head of Global Policy Management at Facebook, said at a House Judiciary Committee hearing.
+
+But that has done little to calm the controversy, and Trump on Saturday accused social media sites of “closing down the opinions of many people on the right, while at the same time doing nothing to others.”
+
+"Too many voices are being destroyed, some good & some bad, and that cannot be allowed to happen," he tweeted.
+
+He went on to call censorship “a dangerous thing” and then took a swipe at CNN and MSNBC, saying that while they are “fake,” he does not demand that offending content be taken off air.
+
+“If you are weeding out Fake News, there is nothing so Fake as CNN & MSNBC, & yet I do not ask that their sick behavior be removed,” he tweeted. 
+“I get used to it and watch with a grain of salt, or don’t watch at all..”
+
+
+STEP 1:
+* discriminatory
+* illegal
+* bad
+* fake
+* sick
+* dangerous
+
+SUMMARY:
+President Trump accused social media giants of "discriminating" against Republicans and conservatives, claiming that "too many voices are being destroyed" and promising that his administration would not allow it to happen. He argued that "bad" and "good" voices should be allowed to participate, and that it's up to individuals to "figure it out." Trump has previously referred to alleged "shadow banning" by Twitter as "discriminatory and illegal." The controversy escalated last month when top Republicans, including GOP Chairwoman Ronna McDaniel, claimed their accounts were being given limited visibility on Twitter. Trump called censorship "a dangerous thing" and took a swipe at CNN and MSNBC, saying they are "fake" but he doesn't demand that their content be removed. He emphasized that he can "get used to it" and watch with a "grain of salt." END OF SUMMARY.
+
+Now, here is the target news article to summarize:
+Here is the news article:
+
+Fox is allowing Nick Cannon to remain on “The Masked Singer” despite his anti-Semitic and anti-white comments, the company said in a statement. Cannon’s commentary came during a June 30 episode of his “Cannon’s Class” podcast, where he spoke with Professor Griff, who has a record of making anti-Semitic comments. The two pushed anti-Semitic theories, claimed black people are unable to be anti-Semitic because “the Semitic people are black people.” Cannon also said “white people” and Jewish people are “the true savages.” Fox confirmed that Cannon “is clear and remorseful that his words were wrong” after the host issued an apology Wednesday. The network added that it “will move forward with Nick and help him advance this important conversation, broadly.” “When we were made aware of Nick Cannon’s interview with Richard Griffin on YouTube, we immediately began a dialogue with Nick,” Fox wrote in a statement to the Daily Caller. “He is clear and remorseful that his words were wrong and lacked both understanding and context, and inadvertently promoted hate. This was important for us to observe.” “Nick has sincerely apologized, and quickly taken steps to educate himself and make amends. On that basis and given a belief that this moment calls for dialogue, we will move forward with Nick and help him advance this important conversation, broadly. FOX condemns all forms of hate directed toward any community and we will combat bigotry of any kind.” ViacomCBS, on the other hand, terminated its relationship with Cannon after the commentary, saying in a statement that it “condemns bigotry of any kind.” The statement added that ViacomCBS is “deeply troubled that Nick has failed to acknowledge or apologize for perpetuating anti-Semitism.” Cannon’s apology Wednesday came after first refusing to do so. The host demanded an apology from ViacomCBS and ordered the company give him full ownership of the comedy show “Wild ‘N Out.” Cannon also posted a statement on Facebook that many deemed insufficient, saying that “anyone who knows me knows that I have no hatred in my heart or malicious intent.” Following backlash from that statement, Cannon again refused to apologize in an interview with Fast Company, saying that “apologies are empty.” (RELATED: Superstar Nick Cannon No Longer Getting His Own Late-Night Show) “Are you forcing me to say the words ‘I’m sorry’?” Cannon said in that interview. “Are you making me bow down, ’cause then again, that would be perpetuating that same rhetoric that we’re trying to get away from,” Cannon says. “What we need is healing. What we need is discussion. Correct me. I don’t tell my children to say, ‘I’m sorry.’ I want them to understand where they need to be corrected. And then that’s how we grow.” Cannon’s most recent statement, which Fox referred the Daily Caller to, is in full below: First and foremost I extend my deepest and most sincere apologies to my Jewish sisters and brothers for the hurtful and divisive words that came out of my mouth during my interview with Richard Griffin. They reinforced the worst stereotypes of a proud and magnificent people and I feel ashamed of the uninformed and naïve place that these words came from. The video of this interview has since been removed. While the Jewish experience encompasses more than 5,000 years and there is so much I have yet to learn, I have had at least a minor history lesson over the past few days and to say that it is eye-opening would be a vast understatement. I want to express my gratitude to the Rabbis, community leaders and institutions who reached out to me to help enlighten me, instead of chastising me. I want to assure my Jewish friends, new and old, that this is only the beginning of my education—I am committed to deeper connections, more profound learning and strengthening the bond between our two cultures today and every day going forward. Cannon also announced Thursday that he would be taking time away from his morning radio show so he can “commit” himself “to deeper, more thorough reflection and education.” He has been backed by multiple prominent figures such as radio host Charlamagne tha God and rapper Sean ‘Diddy’ Combs.
+
+(1) First, you identify all the single words that are morally framed. Identify this step as "STEP 1:" and report each word in a new line starting with *
+(2) Finally, you write a summary of the news article. Please preserve as many morally framed words as possible in your summary. The summary has to be returned after a "SUMMARY:" token and ending with a "END OF SUMMARY." token. The summary should be no longer than 200 words.

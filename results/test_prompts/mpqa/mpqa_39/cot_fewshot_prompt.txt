@@ -1,0 +1,167 @@
+You have to summarize the following text preserving the moral framing that the author gave to it.
+
+Please study the following examples of news articles, their moral word extraction, and summaries preserving the moral framing:
+
+Example 1 (Political Ideology: Left):
+Here is the news article:
+
+I’ll never forget what it felt like to sit inside the U.S. Supreme Court more than four years ago, anxiously awaiting a ruling in the case that ultimately brought same-sex couples the freedom to marry nationwide.
+
+I was the named plaintiff in the case, and I felt a tremendous burden leave my shoulders as the world learned that justice had prevailed for same-sex couples and for the supermajority of Americans who supported the freedom to marry.
+
+Now I’m feeling a similar sense of anxiety awaiting a different ruling from the Supreme Court.
+Just over a month ago, the justices heard arguments in three cases brought by LGBTQ+ people who were fired from their jobs because of who they are or whom they love.
+
+Discrimination is still a threat
+
+Over the years, I have heard from many same-sex couples who have been able to marry — or whose marriages are now recognized — because of the marriage equality victory.
+But in many of those conversations, I’ve also heard fears about the lack of explicit nondiscrimination protections in their home states.
+I’ve heard from gay people whose job offers were rescinded after they mentioned their spouse in negotiations, transgender people fired after their gender transition and bisexual people who endured colleagues’ anti-LGBTQ harassment with no intervention from their employer.
+
+Religious liberty can't be ignored:Kentucky photographer: I shouldn't be forced to work same-sex weddings
+
+A win in the employment discrimination cases at the Supreme Court would assuage many of those fears, protect people from harm and put the nation’s highest court on the right side of history by upholding a view that nearly 70% of Americans hold: LGBTQ+ people should be legally protected from discrimination.
+
+But even with a landmark victory in these employment cases, our work won’t be over.
+Regardless of the outcome of these cases, we’ll need to pass clear and comprehensive protections for LGBTQ+ people in every area of life, including housing, health facilities and public spaces.
+
+The truth is that everyone should be treated with dignity and respect regardless of who they are — and that means ensuring no one faces unfair treatment because of their LGBTQ+ identity.
+
+Lawmakers have another chance
+
+I recently moved back to my home state of Ohio after spending a few years in Washington, D.C. Ohio is where I was raised, where I fell in love and where I lost my beloved husband John — the loss that propelled me to activism and advocacy in the first place.
+
+Ohio is one of a majority of states where LGBTQ+ people lack vital comprehensive nondiscrimination protections.
+It pains me year after year to see our state Legislature fail to pass legislation prohibiting anti-LGBTQ discrimination.
+But this year, lawmakers have another chance: In September, a nondiscrimination bill was proposed with bipartisan support.
+
+The fight for equal rights goes on:My mom's victory against sex discrimination expanded Title VII protections to LGBTQ people
+
+There are many opportunities to give LGBTQ+ people full dignity and equality — and it’s up to all of us to push forward every day.
+That means encouraging the Supreme Court to do the right thing, but it also means organizing in our communities, educating our lawmakers about our lives and our experiences and sharing our stories until all of us are able to thrive.
+
+Momentum is building, and together we can ensure that everyone is protected from discrimination, no matter where they live.
+We look forward to a future where we are all truly part of "We the people."
+
+Jim Obergefell, the named plaintiff in the landmark civil rights decision Obergefell v. Hodges, is an author, speaker and founder of Equality Vines.
+
+STEP 1:
+* justice
+* freedom
+* discrimination
+* anxiety
+* burden
+* dignity
+* respect
+* unfair
+* equality
+* rights
+
+SUMMARY:
+As the named plaintiff in the landmark Obergefell v. Hodges case, I anxiously await the Supreme Court's ruling on three cases involving LGBTQ+ people who were fired from their jobs due to who they are or whom they love. This discrimination is a threat to the freedom and dignity of same-sex couples, who still lack explicit nondiscrimination protections in many states. A win in these employment cases would be a step towards upholding the view that nearly 70% of Americans hold: LGBTQ+ people should be legally protected from discrimination. However, even with a landmark victory, our work won't be over. We need to pass clear and comprehensive protections for LGBTQ+ people in every area of life, ensuring everyone is treated with dignity and respect regardless of who they are. Lawmakers have another chance to pass legislation prohibiting anti-LGBTQ discrimination, and it's up to us to push forward every day for equal rights and a future where everyone is truly part of "We the people."
+END OF SUMMARY.
+
+Example 2 (Political Ideology: Center):
+Here is the news article:
+
+Israel and Middle East policy have a tendency of surfacing in presidential politics in rather combustible ways.
+And a new advertisement that will run in areas of Florida with large Jewish populations attempts to stoke anxiety over American policies in the region, using a news clip of Prime Minister Benjamin Netanyahu of Israel warning of the risks of a nuclear Iran.
+
+“The fact is that every day that passes, Iran gets closer and closer to nuclear arms,” Mr. Netanyahu is shown saying.
+
+For dramatic effect, a soundtrack fit for an episodic drama like “Homeland” plays as the prime minister continues.
+“The world tells Israel, ‘Wait. There’s still time.’
+And I say wait for what?
+Wait until when?”
+Then an unseen announcer concludes: “The world needs American strength, not apologies.”
+
+That line is a not-so-veiled swipe at President Obama.
+Mitt Romney and other Republicans have criticized his foreign policy as apologetic, toward volatile countries like Iran.
+
+The group that produced the ad, Secure America Now, is run by two longtime Republican strategists, Nelson Warfield ? and John ?McLaughlin, and ?Pat Caddell, a former aide to Jimmy Carter who is now a Fox News contributor.
+They have reserved $500,000 of airtime in Fort Myers, West Palm Beach and Miami.
+
+A senior Israeli official said the government was not consulted on the ad and did not approve it.
+
+STEP 1:
+* anxiety
+* dramatic
+* volatile
+* apologetic
+* strength
+* swipe
+
+SUMMARY:
+A new advertisement in Florida, targeting areas with large Jewish populations, aims to stoke anxiety over American policies in the Middle East. The ad features Prime Minister Benjamin Netanyahu warning of the risks of a nuclear Iran, with a dramatic soundtrack. Netanyahu's message is clear: "Wait for what? Wait until when?" implying that the world is being too apologetic towards Iran. The ad concludes with the line "The world needs American strength, not apologies," a not-so-veiled swipe at President Obama's foreign policy. The group behind the ad, Secure America Now, is run by Republican strategists and has reserved $500,000 of airtime. Interestingly, the Israeli government was not consulted on the ad and did not approve it. The ad's message is clear: American strength is needed, not apologies.
+
+END OF SUMMARY.
+
+Example 3 (Political Ideology: Right):
+Here is the news article:
+
+President Trump vowed Wednesday that birthright citizenship will end “one way or the other,” a day after it emerged he was considering killing the policy by executive order -- a development that sparked disagreement among Republicans and condemnation from Democrats.
+
+“So-called Birthright Citizenship, which costs our Country billions of dollars and is very unfair to our citizens, will be ended one way or the other,” he tweeted. 
+"It is not covered by the 14th Amendment because of the words 'subject to the jurisdiction thereof.'"
+
+He also took aim at former Senate Democratic Leader Harry Reid, who he said “was right in 1993, before he and the Democrats went insane and started with the Open Borders (which brings massive crime) ‘stuff.’”
+
+He was referring to comments unearthed from 1993 in which Reid said that "no sane country" would award citizenship to children of illegal immigrants born on its soil and promoted legislation to end the practice.
+
+"If making it easy to be an illegal alien isn't enough, how about offering a reward for being an illegal immigrant? 
+No sane country would do that, right?" Reid said. 
+"Guess again. 
+If you break our laws by entering this country without permission and give birth to a child, we reward that child with U.S. citizenship and guarantee a full access to all public and social services this society provides."
+
+Reid later apologized for his stance and reversed it in 1999.
+
+But the comments helped Trump make his controversial case, after his push first emerged in an interview with “Axios on HBO”. 
+He said he wants to use an executive order to end the practice by which children born in the U.S. of non-citizen or illegal immigrant parents are immediately a citizen.
+
+“How ridiculous, we’re the only country in the world where a person comes in, has a baby, and the baby is essentially a citizen of the United States for 85 years with all of those benefits,” Trump said.
+
+The U.S. is not the only country to grant birthright citizenship, with Canada and a number of Latin American countries also doing so, but the issue has long been a contentious one in the U.S. -- particularly for those seeking to restrict illegal immigration into the U.S.
+
+The 14th Amendment states that “all persons born or naturalized in the United States and subject to the jurisdiction thereof, are citizens of the United States and of the State wherein they reside.” 
+Critics of birthright citizenship say that the amendment was never intended to apply to children of two non-citizens -- and particularly those who have come to the country illegally.
+
+Critics say the policy encourages illegal immigrants to come to the country, give birth and then try to claim residency themselves as a result.
+
+But many scholars counter that it would take a constitutional amendment to change the policy. 
+And the announcement Tuesday was met with a mixed reception by lawmakers in Congress, particularly the idea that Trump might use an executive order to impose such a significant immigration change -- something Republicans blasted former President Barack Obama for doing with the Deferred Action for Childhood Arrivals (DACA) policy.
+
+Speaker Paul Ryan, R-Wis., said in an interview with WVLK that the 14th Amendment is “pretty clear” and said that “you cannot end birthright citizenship with an executive order.” 
+Senate Judiciary Chairman Chuck Grassley, R-Iowa, said he will "closely review" the proposed executive order, but said that "as a general matter, this is an issue that Congress should take the lead to carefully consider and debate."
+
+Sen. Lindsey Graham, R-S.C., announced he will be introducing legislation “to deal with the issue of birthright citizenship for children of illegal immigrants” and said it was a “magnet for illegal immigration in modern times.”
+
+On Wednesday, Trump appeared to shift stance somewhat by avoiding saying it would be ended by executive order, while acknowledging the matter “will be settled by the United States Supreme Court.”
+
+Democrats appeared united in condemnation against Trump’s move this week. 
+In a Tuesday appearance on "The Late Show with Stephen Colbert," House Minority Leader Nancy Pelosi, D-Calif., said the Axios interview didn't surprise her.
+
+"This is just more of the same of what he's been saying," she said, referring to Trump's remarks on immigration. 
+"What he was saying today has no relationship to what his authority is, but that's of course not unusual."
+
+STEP 1:
+* unfair
+* insane
+* Open Borders
+* massive
+* crime
+* ridiculous
+* pretty
+* clear
+* magnet
+* condemnation
+
+SUMMARY:
+President Trump vowed to end birthright citizenship, which he deemed "unfair" and "ridiculous," claiming it costs the country "billions of dollars." He cited a 1993 quote from former Senate Democratic Leader Harry Reid, who said that "no sane country" would award citizenship to children of illegal immigrants born on its soil. Trump argued that the 14th Amendment doesn't cover birthright citizenship, but many scholars disagree, saying it would take a constitutional amendment to change the policy. Republicans are divided on the issue, with some opposing the use of an executive order, while Democrats are united in their "condemnation" of Trump's move. Trump appeared to shift his stance, saying the matter "will be settled by the United States Supreme Court." END OF SUMMARY.
+
+Now, here is the target news article to summarize:
+Here is the news article:
+
+Tehran, Dec 9, IRNA -- Tehran-based Islamic Human Rights Commission (IHRC) on Sunday expressed concern about return of the period in which force and weapon had the last say in international relations. The IHRC said in a statement to mark December 10, "international day for human rights" that the international community has formulated numerous documents to honor human rights after 50 years of bitter experience and the heavy losses that the humanity has suffered. The statement said that several hundred documents have been signed to promote human rights and different cultures have put forward their outlooks about human rights and envisaged measures to stop violation of human rights. The IHRC called for prohibition of discrimination, torture, arbitrary detention and honoring the human rights, political rights, the rights of associations, the women's rights as well as the rights envisaged in the international declaration for human rights as recommended by the divine religions several centuries ago. The statement regretted that provisions of the international declaration for human rights have not been materialized. "The human communities have suffered heavy human losses in the course of devastating world wars and understood that any progress in human communities is dependent on honoring the human rights," it said. The IHRC said that the international conference against racism in Durban, South Africa August 31-September 7, 2001 was a turning point in the international campaign to honor human rights. The statement deplored the injustice against the Palestinian nation and violation of human rights of political activists, journalists, the religious minorities, the children and women in some parts of the world. The IHRC said that all nations and religions condemned the September 11 terrorist attacks on New York and Washington. The solidarity would bring about an international campaign to dry up the roots of terrorism and expand peace and security in the international community, but, certain countries resort to military power and embark on trampling upon human rights of civilians. The statement urged the statesmen in different countries to heed the religious teachings calling for respect for human rights and said that no peace will be established without honoring human Meanwhile, in another development, the Geneva-based United Nations High Commissioner for Human Rights Mary Robinson called on Israel to stop bombing the Palestinian targets in the West Bank and Gaza Strip and allow in international monitors. She denounced Israeli terrorist attacks against Palestinian activists, urging it to halt what she called targeted killing of Palestinians.
+
+(1) First, you identify all the single words that are morally framed. Identify this step as "STEP 1:" and report each word in a new line starting with *
+(2) Finally, you write a summary of the news article. Please preserve as many morally framed words as possible in your summary. The summary has to be returned after a "SUMMARY:" token and ending with a "END OF SUMMARY." token. The summary should be no longer than 200 words.

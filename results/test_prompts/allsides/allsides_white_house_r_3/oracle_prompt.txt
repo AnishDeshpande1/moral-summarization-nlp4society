@@ -1,0 +1,28 @@
+You have to summarize the following text preserving the moral framing that the author gave to it.
+
+Here is the news article:
+
+The terrorist attacks in Paris carried out by the Islamic State came about 12 hours after President Obama declared that the extremist group had been “contained.” The Islamic State claimed responsibility Saturday for the shootings and bombings that left at least 127 people dead and scores wounded, many seriously on Friday. French President Francois Hollande blamed the Islamic State, also known by the acronyms ISIL and ISIS, for “an act of war.” In an interview with ABC News on Friday, Mr. Obama said the Islamic State was not gaining strength and that “we have contained them.” When interviewer George Stephanopolous suggested the Islamic State was getting stronger, Mr. Obama rejected the notion. “I don’t think they’re gaining strength,” Mr. Obama said. “From the start, our goal has been first to contain and we have contained them,” he said. “They have not gained ground in Iraq, and in Syria they’ll come in, they’ll leave. But you don’t see this systemic march by ISIL across the terrain.” The president was talking about the U.S-led coalition, which includes French forces, fighting the extremist group in Syria and in Iraq. He also said the U.S. and its allies have “made some progress in trying to reduce the flow of foreign fighters.” Security officials have been concerned that hundreds of French citizens who joined the extremist group in Syria could return to France to carry out attacks. The president was roundly criticized early in 2014 for referring to the Islamic State as a “jayvee team” among terrorist groups, suggesting the organization was not a major concern at the time. The Paris killings are potentially the second major attack carried out by the Islamic State in two weeks. The group also has claimed responsibility for the downing of a Russian passenger plane in the Sinai peninsula on Oct. 31, killing all 224 aboard. Mr. Obama spoke with Mr. Hollande late Friday night “to offer the condolences of the American people for the horrific terrorist attacks in Paris,” the White House said. “The president reiterated the United States’ steadfast, unwavering support for the people of France, our oldest ally and friend, and reaffirmed the offer of any necessary support to the French investigation,” the statement said. “The two leaders pledged to work together, and with nations around the world, to defeat the scourge of terrorism.” In the wake of the attacks, Mr. Hollande has canceled his scheduled trip this weekend to the G-20 summit in Turkey, where he was to meet with Mr. Obama and other world leaders to discuss the fight against the Islamic State, the civil war in Syria and the refugee crisis in Europe. Mr. Obama is departing Washington Saturday afternoon on Air Force One, scheduled to arrive at the G-20 conference in Turkey on Sunday. A White House official said Saturday the president would convene his National Security Council before leaving for the G-20 Summit to review the latest intelligence surrounding the attacks in Paris.
+
+The author used the following morally framed words in the article:
+* attacks
+* shootings
+* bombings
+* dead
+* wounded
+* war
+* contained
+* gained
+* march
+* fighting
+* reduce
+* referring
+* killings
+* attack
+* downing
+* killing
+* investigation
+* defeat
+* terrorism
+
+Please preserve as many morally framed words as possible in your summary. The summary has to be returned after a "SUMMARY:" token and ending with a "END OF SUMMARY." token. The summary should be no longer than 200 words.

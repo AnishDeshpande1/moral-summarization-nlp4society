@@ -1,0 +1,204 @@
+You have to summarize the following text preserving the moral framing that the author gave to it.
+
+Please study the following examples of news articles, their moral word extraction, and summaries preserving the moral framing:
+
+Example 1 (Political Ideology: Left):
+Here is the news article:
+
+He is also investigating corruption allegations involving Hunter Biden, son of the presumtive Democratic presidential nominee, stemming from the younger Biden’s role on the board of the Ukrainian gas company Burisma.
+Trump and congressional Republicans have claimed the former vice president sought to shield his son from a Ukrainian-led investigation into Burisma — though Biden denies the allegation.
+
+In both instances, Democrats have accused Johnson of abusing his power, misusing the Senate’s oversight resources to boost Trump’s political prospects and even operating a Russian disinformation front that jeopardizes U.S. election security — all serious allegations, even in today’s hyperpartisan Senate.
+But Johnson insists it’s just the opposite.
+
+“I’m a very nonpartisan guy.
+I just am,” Johnson said in an interview.
+“I like using the word nonpartisan.”
+
+Privately, Senate Republicans are worried that the efforts to relitigate the Russia investigation and the events of 2016 could backfire, according to a GOP senator who was granted anonymity to candidly address the situation.
+Republicans are especially concerned about the perception that their priorities are not in order as the country is reeling from the coronavirus pandemic, staggeringly high unemployment and unrest over recent police killings of unarmed African Americans.
+
+Despite the partisan tensions and intensifying harshness of the disputes, Johnson is unfazed by the criticism — even as he increasingly finds himself on defense.
+
+“I’m not doing anybody’s bidding,” said Johnson, who has chaired the Senate Homeland Security and Governmental Affairs Committee since 2015.
+“I am doing this because I’m concerned about this democracy, and I’m concerned about what happened starting before the election, during the transition, and what continued certainly through the impeachment trial.”
+
+According to Johnson, the Homeland Security panel’s probe has uncovered information that shows the incoming Trump administration was “sabotaged” by the outgoing Obama team.
+Johnson portrays his investigation as an honest effort to find the truth and reform the presidential transition process to ensure a peaceful transition of power.
+
+“I’m just a straight shooter.
+I call them as I see them,” he said.
+
+Democrats contend that’s far from the truth.
+They note that Johnson intends to release reports in the summer and the fall on his twin investigations, which would thrust the issues back into the spotlight as Election Day nears.
+They also point to his comments earlier this year in which he said former Vice President Joe Biden “has not adequately answered” for his son’s role on the board of a Ukrainian energy company, adding: “If I were a Democrat primary voter, I’d want these questions satisfactorily answered before I cast my final vote.”
+
+And after Johnson released a declassified list of former Obama administration officials who potentially “unmasked” former national security adviser Michael Flynn’s name in intelligence reports, the Trump campaign seized on the fact that Joe Biden’s name was on the list — even as Biden’s precise involvement was not clear.
+
+“We’re in the middle of a pandemic and a peaceful uprising against police brutality, and [Johnson is] running errands for the Republican National Committee,” Sen. Brian Schatz (D-Hawaii) said in a brief interview.
+“And it’s a misuse of his position.”
+
+Minutes later, Schatz ran into Johnson outside the Senate chamber and told him: “Hey Ron, somebody asked me about your investigations and I wasn’t that nice.” Johnson laughed and replied, “That’s OK.”
+
+Johnson later dismissed the interaction as being representative of the “collegial” nature of the Senate.
+But it also underscored the reality of how investigations into Trump’s political enemies that began after the Senate’s impeachment trial have been gripping the body ever since.
+
+As he defended himself, Johnson contended that Democrats are simply “afraid of the truth.”
+
+“Anybody that could take a look at what we already know and say, well we should just close our eyes and ears to this, let’s stop looking at this — I would say doesn’t really care about the fact that the transition was corrupted,” Johnson said.
+
+“I’m just tenacious.
+I’m dedicated to getting the information,” he added.
+“And the question I have for my Democratic colleagues — what are you afraid of?
+What part of the truth that I hope we can reveal are you worried about?”
+
+STEP 1:
+* nonpartisan
+* abuse
+* misusing
+* jeopardizes
+* serious
+* worried
+* concerned
+* sabotaged
+* honest
+* truth
+* reform
+* peaceful
+* satisfactorily
+* answered
+* errands
+* misuse
+* collegial
+* afraid
+* tenacious
+* dedicated
+* corrupted
+
+SUMMARY:
+Senator Ron Johnson is investigating corruption allegations involving Hunter Biden and the Ukrainian gas company Burisma, as well as the Russia investigation. Democrats accuse Johnson of abusing his power and misusing Senate resources to boost Trump's political prospects, jeopardizing U.S. election security. Johnson claims he is a "nonpartisan guy" who is concerned about the truth and the sabotage of the presidential transition process. He believes his investigation is an honest effort to reform the process and ensure a peaceful transition of power. Democrats, however, contend that Johnson's efforts are a misuse of his position and that he is running errands for the Republican National Committee. Johnson dismisses their concerns, saying they are simply "afraid of the truth" and that he is tenacious and dedicated to getting the information. END OF SUMMARY.
+
+Example 2 (Political Ideology: Center):
+Here is the news article:
+
+Sondland said he communicated to a leading Ukrainian official that “the resumption of U.S. aid would likely not occur until Ukraine took some kind of action on the public statement that we had been discussing for many weeks.” He testified that he told Vice President Mike Pence that he believed the aid was being held up pending investigations, and Pence just nodded.
+(Pence’s chief of staff denied this.)
+Sondland didn’t substantially dispute the closed-door testimony of David Holmes, a senior U.S. Embassy official in Ukraine, who said he overheard a call to Trump that Sondland made on his cellphone.
+According to Holmes, on the call, made the day after the July 25 phone call in which Trump asked Zelensky for a “favor,” Trump asked Sondland if the Ukrainians were in fact going to pursue investigations.
+Sondland replied that they’d do whatever the president wanted.
+
+After the call, Holmes testified, Sondland told him that Trump “did not give a [expletive] about Ukraine,” and cared only about what Sondland called “big stuff” that benefits the president.
+About that call, Sondland testified, “I would have been more surprised if President Trump had not mentioned investigations, particularly given what we were hearing from Mr. Giuliani.”
+
+Further, Sondland testified that Trump didn’t necessarily care about investigations per se, only the public announcement of investigations.
+Zelensky “had to announce the investigations, he didn’t actually have to do them,” he said.
+The public announcement, of course, would be sufficient to give Trump material to defame Biden and muddy the waters about Russia’s help in getting Trump elected in the first place.
+
+Speaking of Russia’s role in 2016: A few Republicans have tried to massage Trump’s claims of Ukrainian election interference to make them sound marginally less insane.
+At Wednesday’s hearing, Nunes accused Ukraine of meddling in America’s election largely through public statements by Ukrainian officials.
+Among these statements was a 2016 op-ed essay by Valeriy Chaly, then the Ukrainian ambassador to the United States, objecting to Trump’s statement that as president he’d consider recognizing Russian-occupied Crimea as Russian, rather than Ukrainian, territory.
+
+Leave aside that there is nothing illicit about public officials expressing their opinions about matters of urgent concern to their own countries.
+Sondland’s testimony made it plain that such public comments are not what Trump had in mind in calling for investigations into what Ukraine did in 2016.
+Trump wanted an inquiry into the conspiracy theory that Ukraine, not Russia, hacked the D.N.C., which is why Sondland repeatedly spoke about proposed investigations involving the “D.N.C.
+server.” He wanted Ukraine’s help exonerating Russia for its attack on America.
+
+Sondland is not a wholly reliable witness; his insistence that he was ignorant of the connection between Burisma and the Bidens when he pressed Ukraine for investigations is hardly credible.
+(Volker made the same preposterous claim on Tuesday — both men were likely trying to distance themselves from one of the ugliest aspects of Trump’s shakedown.)
+Republicans will likely cling to the fact that Sondland said he never heard directly from Trump about a linkage between security aid to Ukraine and investigations; Sondland said he put it together because, as he repeated several times, “two plus two equals four.”
+
+STEP 1:
+* ugly
+* insane
+* illicit
+* preposterous
+* shakedown
+
+SUMMARY:
+Ambassador Sondland testified that he communicated to a Ukrainian official that the resumption of U.S. aid was contingent upon Ukraine taking action on a public statement, which was likely a precursor to investigations. Sondland also testified that Trump didn't care about the actual investigations, but rather the public announcement of them, which would give him material to defame Biden and muddy the waters about Russia's help in getting Trump elected. This is a clear example of a "shakedown" where Trump is using his power to coerce Ukraine into doing his bidding. Sondland's testimony also revealed that Trump's claims of Ukrainian election interference are "insane" and that his goal was to get Ukraine's help in exonerating Russia for its attack on America. The Republicans' attempts to massage Trump's claims are a weak attempt to justify his "ugly" actions. END OF SUMMARY.
+
+Example 3 (Political Ideology: Right):
+Here is the news article:
+
+Secretary of State nominee Rex Tillerson and Sen. Marco Rubio clashed during a pair of contentious exchanges Wednesday, with an incredulous Rubio pressing the prospective diplomat to brand Russian President Vladimir Putin a "war criminal" and Tillerson coolly blunting Rubio's broadsides by explaining his more deliberative vision.
+
+During the tense back-and-forths at the Senate Foreign Relations Committee confirmation hearing, Rubio, R-Fla., cross-examined Tillerson on policy regarding Russia, Cuba, Saudi Arabia and the Philippines.
+At the end of Rubio's second questioning period, Tillerson sought to allay any concerns the aggressive Rubio may have had.
+
+"There seems to be some misunderstanding that I see the world through a different lens, and I do not," Tillerson said.
+"But I'm also clear-eyed and realistic about dealing with cultures."
+
+Tillerson's statement followed a heated initial session during which the ExxonMobil CEO refused to specifically call Putin a "war criminal."
+
+"I find it discouraging your ability to cite that, which I think is globally accepted," Rubio said.
+
+That exchange mirrored later questions by Rubio, who tried getting Tillerson to categorize Saudi Arabia as a "human rights violator" and denounce the practices of controversial Philippines President Rodrigo Duterte.
+
+Tillerson also wouldn't bite when Rubio, a former opponent of President-elect Donald Trump during the Republican presidential primary, tried to get Tillerson to say Putin murdered political foes.
+
+Still, Tillerson took a noticeably harder line toward Putin and Russia than Trump has done during the transition period and prior to it.
+
+“Russia today poses a danger, but it is not unpredictable in advancing its own interests," Tillerson said during his opening statement.
+"Our NATO allies are right to be alarmed at a resurgent Russia.”
+
+Tillerson called Russia an "unfriendly adversary" during later testimony, stopping short of saying the nation was an enemy of the U.S.
+
+Russia took center-stage during the early portion of the hearing for Tillerson.
+Senators grilled Tillerson amid swirling questions about alleged meddling in U.S. politics by the Kremlin and Tillerson’s own business ties to Russia.
+
+"My love of country and my patriotism is going to dictate that I serve no one's interests but that of the American people," Tillerson said.
+
+Tillerson said that Russia had no legal claim to Crimea -- "that was a taking of territory that was not theirs" -- and said the Obama administration should have provided Ukraine with help defending its borders.
+
+"The absence of a very firm, forceful response to the taking of Crimea was judged by leadership in Russia as a weak response," Tillerson said.
+
+While Russia dominated the early proceedings, Tillerson also addressed other areas.
+
+He took aim at China’s “illegal” building of man-made islands in the South China Sea and radical Islam, which he said posed “a grave risk to the stability of nations and the well-being of their citizens.”
+
+On Syria, Tillerson said the U.S. currently had too many competing goals and needed to focus on defeating ISIS before a discussion could occur about who should lead the country.
+The Obama administration's dual priorities of ousting President Bashar al-Assad and eradicating ISIS were sometimes at odds with each other, Tillerson said.
+
+Tillerson called ISIS an imminent threat but named cyber intrusions as the "greatest and most complex threat" facing the U.S.
+
+He also said the American government had “stumbled” under the Obama administration.
+
+“If we do not lead, we risk plunging the world deeper into confusion and danger,” Tillerson said.
+
+One moment of levity occurred when Sen. Tim Kaine asked Tillerson about ExxonMobile's climate change policies.
+Tillerson told Kaine that Kaine would need to ask current executives, to which Kaine asked if Tillerson lacked "the knowledge to answer my question or are you refusing to answer my question?"
+
+"A little of both," Tillerson said to laughs.
+
+On the topic of Trump's frequent use of Twitter, Tillerson said he wouldn't "tell the boss how to communicate with the American people.
+That's gonna be his choice."
+
+Tillerson testified a day after a contentious Senate session involving Attorney General nominee Sen. Jeff Sessions.
+The audience at Tillerson’s Senate Foreign Relations Committee hearing again appeared to be filled with protesters, including Code Pink activists who were dressed in Statue of Liberty garb, a man outfitted in a suit made of money and some protesters suited up in T-Rex costumes – a play on Tillerson’s name.
+
+One early protester was ejected after she screamed “I reject you!” at Tillerson.
+
+STEP 1:
+* War
+* Criminal
+* Aggressive
+* Discouraging
+* Unfriendly
+* Adversary
+* Enemy
+* Illegal
+* Grave
+* Imminent
+* Confusion
+* Danger
+
+SUMMARY:
+Secretary of State nominee Rex Tillerson clashed with Sen. Marco Rubio during a contentious confirmation hearing, refusing to brand Russian President Vladimir Putin a "war criminal". Rubio pressed Tillerson on policy regarding Russia, Cuba, Saudi Arabia, and the Philippines, but Tillerson took a more deliberative approach. Tillerson called Russia an "unfriendly adversary" and said it poses a "danger" to the US, but stopped short of saying it's an "enemy". He also took aim at China's "illegal" building of man-made islands in the South China Sea and radical Islam, which poses a "grave risk" to nations. Tillerson testified that the US needs to focus on defeating ISIS and lead globally to avoid "confusion" and "danger". The hearing was marked by tense exchanges and protests from the audience. END OF SUMMARY.
+
+Now, here is the target news article to summarize:
+Here is the news article:
+
+In her opening statement to impeachment investigators, former National Security Council official Fiona Hill excoriates Republicans for indulging in unsubstantiated conspiracy theories about Ukrainian interference in the 2016 presidential election — the same ones President Donald Trump tried to leverage the Ukrainian government into investigating. “Based on questions and statements I have heard, some of you on this committee appear to believe that Russia and its security services did not conduct a campaign against our country and that perhaps, somehow, for some reason, Ukraine did,” Hill says in her Thursday statement. “This is a fictional narrative that has been perpetrated and propagated by the Russian security services themselves.” She adds, “I refuse to be part of an effort to legitimize an alternative narrative that the Ukrainian government is a US adversary, and that Ukraine—not Russia—attacked us in 2016.” The US intelligence community’s consensus conclusion is that Russia interfered in the 2016 on Trump’s behalf. That conclusion was further bolstered by the work of Special Counsel Robert Mueller. But Trump, in an apparent effort to undercut the notion that he received help from a foreign adversary, has repeatedly tried to draw Russia’s role into question, and recently has embraced a conspiracy theory that the hacks of Democratic targets during the campaign were not the work of Russia, but were an “inside job.” Hill, however, is having none of that. As my colleague Andrew Prokop detailed following Hill’s closed-door testimony earlier this month, she provided impeachment investigators with a detailed account of a key July 10 meeting in which she claimed US Ambassador to the EU Gordon Sondland “blurted out” that there was a quid pro quo — that new Ukrainian President Volodymyr Zelensky’s desired White House visit was conditional on his government agreeing to conduct investigations of a company Joe Biden’s son sat on the board of, and purported Ukrainian interference in the 2016 election. That July 10 episode memorably ended with then-National Security Advisor John Bolton alluding to the quid pro quo and telling Hill, “You go and tell [NSC lawyer John] Eisenberg that I am not part of whatever drug deal Sondland and [acting chief of staff Mick] Mulvaney are cooking up on this.” In her opening statement, Hill — who officially retired in September — emphasizes just how absurd the Ukrainian election interference narrative pushed by Trump and Rudy Giuliani is. “In the course of this investigation, I would ask that you please not promote politically driven falsehoods that so clearly advance Russian interests,” she says. “If the President, or anyone else, impedes or subverts the national security of the United States in order to further domestic political or personal interests, that is more than worthy of your attention.” Hill also highlights that Russian election interference is an ongoing concern — something US security officials have pointed out as well. “The impact of the successful 2016 Russian campaign remains evident today. Our nation is being torn apart. Truth is questioned. Our highly professional and expert career foreign service is being undermined. US support for Ukraine ... has been politicized,” she says.
+
+(1) First, you identify all the single words that are morally framed. Identify this step as "STEP 1:" and report each word in a new line starting with *
+(2) Finally, you write a summary of the news article. Please preserve as many morally framed words as possible in your summary. The summary has to be returned after a "SUMMARY:" token and ending with a "END OF SUMMARY." token. The summary should be no longer than 200 words.

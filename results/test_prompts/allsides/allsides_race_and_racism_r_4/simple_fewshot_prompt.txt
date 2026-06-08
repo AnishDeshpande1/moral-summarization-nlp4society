@@ -1,0 +1,135 @@
+You have to summarize the following text preserving the moral framing that the author gave to it.
+
+Please study the following examples of news articles and their summaries preserving the moral framing:
+
+Example 1 (Political Ideology: Left):
+Here is the news article:
+
+One man was shot and killed when police and the National Guard opened fire in Louisville following a violent confrontation between a group gathered in a parking lot and law enforcement trying to disperse the crowd, authorities said early Monday.
+
+Gov. Andy Beshear said in a statement Monday morning he had authorized the Kentucky State Police to independently investigate the fatal shooting “given the seriousness of the situation.”
+
+Metro Police Chief Steve Conrad said that after another night of destructive protests over the fatal police shooting of Breonna Taylor in Louisville and the death of George Floyd in Minnesota, the Kentucky National Guard and Louisville police were dispatched to the parking lot at Dino’s Food Mart around 12:15 a.m., where a large crowd had gathered.
+
+But as the agencies began trying to disperse them, someone in the crowd fired at the officers and soldiers, Conrad said.
+
+Both the National Guard and Louisville police returned fire, he said, killing one man at the scene.
+Conrad did not identify him.
+
+“Our officers are working very hard to keep people safe and protect property,” Conrad said in an early-morning news briefing.
+“While doing that, we’ve had officers shot at and assaulted.
+I think it’s very, very clear that many people do not trust the police.
+That is an issue we’re going to have to work on and work through for a long time.”
+
+Conrad said that police are interviewing several people and are collecting video footage of the shooting, which he pledged to release to the public soon.
+The chief did not address whether the crowd was in any way related to the protests, which were centered about two miles away in downtown Louisville.
+
+The fatal shooting is likely to further inflame tensions in Louisville, where protesters have been demanding justice in the death of the unarmed 26-year-old Taylor, an African American EMT, on March 13.
+Taylor was asleep in her apartment when officers broke down her door in the middle of the night to serve a warrant, alarming her boyfriend who fired at police, believing they were armed intruders.
+Taylor died when police returned fire.
+
+SUMMARY:
+
+Tragedy struck in Louisville as a man was shot and killed when police and the National Guard opened fire on a crowd gathered in a parking lot. The incident occurred after a night of destructive protests over the fatal police shootings of Breonna Taylor and George Floyd. According to authorities, someone in the crowd fired at the officers and soldiers, prompting them to return fire, resulting in the death of one man. The police chief acknowledged that the incident highlights the deep-seated mistrust of the police, an issue that needs to be addressed. The fatal shooting is likely to exacerbate tensions in Louisville, where protesters have been demanding justice for Taylor, an unarmed African American EMT who was killed in her apartment by police in March. The incident serves as a stark reminder of the need for accountability and reform in law enforcement.
+
+END OF SUMMARY.
+
+Example 2 (Political Ideology: Center):
+Here is the news article:
+
+Report Sees Guns as Path to Safety in Schools
+
+WASHINGTON — With the Senate set to debate gun control this month, a National Rifle Association task force released a 225-page report on Tuesday that called for armed police officers, security guards or staff members in every American school, and urged states to loosen gun restrictions to allow trained teachers and administrators to carry weapons.
+
+Asa Hutchinson, a former Republican congressman from Arkansas who led the task force, unveiled the report at a packed news conference with unusually heavy security, including a bomb-sniffing yellow Labrador retriever.
+A dozen officers in plain clothes and uniforms stood watch as he spoke; one warned photographers to “remain stationary” during the event.
+
+Among the study’s central conclusions is that “the presence of armed security personnel adds a layer of security and diminishes response time” in a shooting, Mr. Hutchinson said.
+He cited a 1997 Mississippi case in which an assistant principal ran to his truck to retrieve a .45-caliber semiautomatic pistol and subdued a gunman who had killed two students.
+
+The recommendations — which also included expanding the police presence in schools — drew immediate criticism from gun control advocates and many Democrats, who have been fighting to tighten gun restrictions after the massacre at Sandy Hook Elementary School in Newtown, Conn., in December.
+
+“Arming the teacher is merely a response to the last tragedy,” said Representative Mike Thompson, a California Democrat who is chairman of a House task force on gun violence.
+“The one before that was in a shopping mall in Oregon, and the one before that was in a movie theater in Colorado.
+I don’t think the proper response is to arm all the projectionists in the movie theaters or all the vendors in the mall.”
+
+After the Newtown shooting, Wayne LaPierre, the rifle association’s executive director, announced that it would devise a plan to put armed guards in every school.
+Technically, Mr. Hutchison’s task force is independent of the rifle association, even though it paid for the study, and Mr. LaPierre was not present on Tuesday.
+But critics see no distinction between the two.
+
+Marian Wright Edelman, president of the Children’s Defense Fund, an advocacy group here, criticized the study as “nothing more than a continuation of the N.R.A.’s attempts to prey on America’s fears, saturate our schools with more guns and turn them into armed fortresses.”
+
+But the report did get support from at least one Newtown parent: Mark Mattioli, whose 6-year-old son, James, was killed.
+
+“I think politics needs to be set aside here, and I hope this doesn’t lead to name-calling,” said Mr. Mattioli, who joined Mr. Hutchinson at the news conference.
+“This is a recommendation for solutions, real solutions that will make our kids safer.
+That’s what we need.”
+
+At least one state, Indiana, is considering the idea of armed officers at schools.
+On Tuesday, a proposal that would require public and charter schools to have an armed “protection officer” on school property during class hours passed a State House committee.
+
+The task force panel called on the Departments of Homeland Security, Education and Justice to coordinate school safety efforts and provide grant money for schools to assess their ability to prevent and respond to attacks.
+It recommended that officers or employees who are armed take a 40- to 60-hour training course to be developed by the rifle association based on a model the task force has designed.
+
+The group also called on states to require schools to develop security plans.
+
+But how and whether the task force recommendations will be put into effect — and the cost — was unclear.
+
+The timing of Tuesday’s announcement was not a coincidence: Congress will wrap up its spring recess after this week and is expected to consider gun legislation after lawmakers return.
+President Obama has called for tough new controls on gun ownership, but the prospects for such legislation are murky — a testimony to the rifle association’s prowess as a lobbying force.
+
+A plan to revive and revamp a ban on assault weapons, which expired in 2004, is almost certain to be defeated.
+Mr. Obama is pushing for a measure that would impose mandatory background checks for gun buyers, and the Senator Harry Reid, Democrat of Nevada, the majority leader, has promised to present a bill that would expand background checks to the floor for a vote.
+
+SUMMARY:
+
+A National Rifle Association (NRA) task force has released a report recommending that armed police officers, security guards, or staff members be present in every American school to ensure safety. The report also suggests that states loosen gun restrictions to allow trained teachers and administrators to carry weapons. Critics argue that this approach is misguided and would lead to more guns in schools, rather than addressing the root causes of gun violence. The report's recommendations have been met with opposition from gun control advocates and Democrats, who believe that tightening gun restrictions is the more effective way to prevent tragedies like the Sandy Hook massacre. The NRA's proposal has been criticized as an attempt to exploit fear and promote a culture of gun proliferation. However, some, like Mark Mattioli, a Newtown parent who lost his son in the tragedy, support the report's recommendations as a necessary step towards making schools safer. END OF SUMMARY.
+
+Example 3 (Political Ideology: Right):
+Here is the news article:
+
+NRA urges states to allow more armed officers in schools
+
+The National Rifle Association called Tuesday for state legislatures to allow more school personnel to carry weapons on school grounds once they've gone through extensive training, as part of a set of recommendations that capped a weeks-long review in the wake of the Newtown mass shooting.
+
+The NRA initially took criticism from Democrats for focusing so closely on school security, and rejecting gun control measures, following the Connecticut shooting in which 26 people were killed.
+NRA CEO Wayne LaPierre in December called for armed officers to be installed in every school in the country.
+
+Former Arkansas Rep. Asa Hutchinson, who led the NRA's review, appeared to ease off slightly on the call for armed officers in every school -- he said it's "important" for every school to have at least one, but acknowledged these decisions are "locally made" based on unique budget circumstances.
+
+Hutchinson, though, did call for the creation of a 40-60 hour training program for armed officers.
+To accompany that, his group proposed a "model" state law that would allow certain personnel who have undergone this training to carry weapons on school grounds.
+
+"This is not talking about all teachers," he said.
+"Teachers should teach."
+
+The 225-page report also called for states to require schools to conduct a safety assessment and for a pilot program to be created assessing mental health as a pre-indicator for violence.
+
+Mark Mattioli, the father of one Newtown shooting victim, also spoke after Hutchinson's announcement to applaud the review effort.
+
+The review comes as Congress and a number of state legislatures pursue gun control legislation.
+While a few have focused on school security -- South Dakota has already approved legislation allowing for teachers to be armed -- many have concentrated on enacting or expanding assault weapons bans, strengthening background checks and passing other measures to restrict access to firearms.
+Connecticut, the home of the Sandy Hook school shooting, is the latest to advance a sweeping gun control proposal -- lawmakers announced a deal Monday on a package that is likely to win approval.
+
+But LaPierre in December argued that improving school security is paramount.
+He argued that if banks and members of Congress can have protection, schools across America should be afforded the same security.
+
+"It's now time for us to assume responsibly for our schools," he said.
+"The only way to stop a monster from killing our kids is to be permanently involved and invested in a plan of absolute protection."
+
+He added: "The only thing that stops a bad guy with a gun is a good guy with a gun."
+
+SUMMARY:
+
+The National Rifle Association (NRA) has released a report recommending that states allow more school personnel to carry weapons on school grounds, provided they undergo extensive training. The report, led by former Arkansas Rep. Asa Hutchinson, proposes a 40-60 hour training program for armed officers and a "model" state law to enable certain personnel to carry weapons on school grounds. The NRA's CEO, Wayne LaPierre, has argued that improving school security is paramount, stating that schools should have the same level of protection as banks and members of Congress. LaPierre believes that "the only thing that stops a bad guy with a gun is a good guy with a gun." The report's recommendations come as Congress and state legislatures pursue gun control legislation, with some focusing on school security and others on enacting or expanding assault weapons bans and strengthening background checks.
+
+The NRA's stance has been met with criticism from Democrats, who argue that the organization is rejecting gun control measures. However, the report's emphasis on school security and the need for "absolute protection" reflects a moral framing that prioritizes the safety of children and the importance of taking responsibility for their protection.
+
+END OF SUMMARY.
+
+Now, here is the target news article to summarize:
+Here is the news article:
+
+FORT WORTH, Texas (AP) — A white police officer who killed a black woman inside her Texas home while responding to a neighbor’s call about an open front door “didn’t have time to perceive a threat” before he opened fire, an attorney for the woman’s family said. “You didn’t hear the officer shout, ‘Gun, gun, gun,’” attorney Lee Merritt said after viewing video taken from a Fort Worth officer’s bodycam during Saturday’s shooting of Atatiana Jefferson, 28. “He didn’t have time to perceive a threat. That’s murder.” Her family told KXAS television that Jefferson was watching her 8-year-old nephew when she was killed early Saturday. The Fort Worth Police Department said in a statement that officers saw someone near a window inside the home and that one of them drew his duty weapon and fired after “perceiving a threat.” The video released by police shows two officers searching the home from the outside with flashlights before one shouts, “Put your hands up, show me your hands.” One shot is then fired through a window. “It’s another one of those situations where the people that are supposed to protect us are actually not here to protect us,” said Jefferson’s sister, Amber Carr. “You know, you want to see justice, but justice don’t bring my sister back,” Carr said. An aunt, Venitta Body, said the family does not understand why Jefferson was killed. “It’s like from the moment we got the call, it’s been more and more inconceivable and more confusing. And there has nothing been done in order to take away that confusion,” Body said. Police Lt. Brandon O’Neil said Sunday that the officer, who’s been on the force since April 2018, is on administrative leave pending the outcome of an investigation and will be interviewed about the fatal shooting on Monday. His name was not released. At a brief news conference at police headquarters, O’Neil confirmed that the officer did not announce he was police before he fired the fatal shot and that his failure to do so is part of the department’s investigation. O’Neil also confirmed that Jefferson’s 8-year-old nephew was in the room with Jefferson when she was shot. He said representatives of the police department have spoken with the woman’s family and “shared our serious and heartfelt concern for this unspeakable loss.” Her family has said she was watching her nephew at the time. O’Neil declined to answer reporters’ questions and said Fort Worth Police Chief Ed Kraus plans to conduct a more in-depth news conference on Monday. James Smith, who called a police non-emergency number about the open door, told reporters he was just trying to be a good neighbor. “I’m shaken. I’m mad. I’m upset. And I feel it’s partly my fault,” Smith said. “If I had never dialed the police department, she’d still be alive.” Smith said Jefferson and her nephew typically lived with an older woman, who’s been in the hospital. “It makes you not want to call the police department,” he said. In an audio recording of Smith’s call that was released by police, the neighbor said it was “not normal” for the house to leave its front door open for hours at that time of day. Merritt said Jefferson’s family expects “a thorough and expedient investigation.” The Fort Worth Police Department said it released bodycam footage soon after the shooting to provide transparency, but that any “camera footage inside the residence” could not be distributed due to state law. However, the bodycam video released to media included blurred still frames showing a gun inside a bedroom at the home. It’s unclear if the firearm was found near the woman, and police have not said that the officer who shot her thought she had a gun. The police statement released Saturday said only that officers who entered the residence after the shooting found a firearm. Police did not immediately respond to a message seeking comment Sunday. Democratic presidential candidate Sen. Bernie Sanders on Sunday called on the Justice Department to investigate. “The killings of unarmed Black Americans have got to end,” Sanders tweeted. “Atatiana Jefferson should be alive.” The shooting comes less than two weeks after a white former Dallas police officer was sentenced to 10 years in prison after being convicted of murder in the fatal shooting of her black neighbor inside his own apartment. Amber Guyger, 31, said during her trial that mistook Botham Jean’s apartment for her own, which was one floor below Jean’s. Merritt also represents Jean’s family.
+
+The summary has to be returned after a "SUMMARY:" token and ending with a "END OF SUMMARY." token. The summary should be no longer than 200 words.

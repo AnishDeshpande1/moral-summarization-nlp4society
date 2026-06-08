@@ -38,18 +38,32 @@ PICKLE_FILES = [
     "llama_345_test_set.pickle",
     "llama_commandr.pickle",
     "deepseek.pickle",
+    "llama3.1-8b-instruct-q4_K_M.pickle",
 ]
 
 # ------------------------------------------------------------------
 # Constants
 # ------------------------------------------------------------------
+# Original 5 methods — used by Llama-70B, Command-R, DeepSeek
 PROMPTING_METHODS = ["vanilla", "simple", "cot", "oracle", "class"]
+
+# 4 new few-shot methods — used by Llama-3.1-8B
+FEWSHOT_METHODS = ["simple_fewshot", "cot_fewshot",
+                   "simple_fewshot_mft", "cot_fewshot_mft"]
+
+# All 9 methods combined — use this when analysing the Llama-8B model
+ALL_PROMPTING_METHODS = PROMPTING_METHODS + FEWSHOT_METHODS
+
 PAPER_NAME_MAP = {
     "vanilla": "Plain",
     "simple": "Direct",
     "cot": "CoT",
     "oracle": "Oracle",
     "class": "Class",
+    "simple_fewshot": "Few-Shot Direct",
+    "cot_fewshot": "Few-Shot CoT",
+    "simple_fewshot_mft": "Few-Shot Direct+MFT",
+    "cot_fewshot_mft": "Few-Shot CoT+MFT",
 }
 
 # Metric-name normalization (one pickle uses QaFactEval, others QAFactEval).
@@ -210,7 +224,7 @@ def build_wide_by_method(long: pd.DataFrame) -> pd.DataFrame:
     wide = wide.merge(article_meta, on="article", how="left")
 
     front = ["model", "dataset", "article", "topic", "leaning", "metric"]
-    method_cols = [c for c in PROMPTING_METHODS + ["original"] if c in wide.columns]
+    method_cols = [c for c in ALL_PROMPTING_METHODS + ["original"] if c in wide.columns]
     return wide[front + method_cols]
 
 

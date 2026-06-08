@@ -1,0 +1,207 @@
+You have to summarize the following text preserving the moral framing that the author gave to it, with particular focus on the specific moral foundations highlighted in the text.
+
+Please study the following examples of news articles, their moral word extraction, and summaries preserving the moral framing:
+
+Example 1 (Political Ideology: Left, Moral Foundations: Authority/Subversion, Care/Harm, Fairness/Cheating):
+Here is the news article:
+
+Planned Parenthood and the ACLU sued Alabama Friday over the state’s near-total abortion ban — which is exactly what Alabama Republicans wanted.
+It’s the first step in what promises to be a long legal battle over whether to let the ban go into effect.
+
+Under Alabama’s law, abortions would only be allowed if a pregnancy posed a “serious health risk” to the mother.
+There are no exceptions for rape or incest, and abortion providers could spend up to 99 years in prison for performing the procedure.
+
+If that sounds unconstitutionally severe, Republicans engineered the law that way: Its backers wanted to force abortion rights advocates to sue, so that the law could be used as a vehicle to overturn Roe v. Wade, the 1973 Supreme Court decision that legalized abortion nationwide.
+
+“The Alabama legislature has been pushing abortion care further and further out of reach for years with medically unnecessary and politically-motivated restrictions, and this extreme abortion ban shows us just how far they’ll go to push their anti-abortion agenda,” Alexa Kolbi-Molinas, senior staff attorney at the ACLU Reproductive Freedom Project, said in a statement.
+“This law is blatantly unconstitutional, and the ACLU will not stand by while politicians emboldened by President [Donald] Trump’s anti-abortion agenda exploit our health and our lives for political gain.”
+
+The lawsuit was filed in U.S. district court in Alabama, on behalf of Planned Parenthood Southeast, Alabama’s three abortion clinics, and Yashica Robinson, a doctor who performs abortions in the state.
+The ACLU and Planned Parenthood lay out the long history of Alabama’s attempts to restrict abortions and argues that the “serious health risk” exception is tailored so narrowly as to be impossible to comply with.
+
+The lawsuit also argues that banning abortion will disproportionately harm black and low-income people.
+While black people make up less than a third of Alabama’s population, they account for over 60% of people who get abortions in the state, according to the lawsuit.
+Most of the abortion clinics’ patients are also low-income.
+
+In a call with journalists last week, shortly after the Alabama legislature passed the ban, a reporter asked Leana Wen, president of the Planned Parenthood Action Fund, what she would say to people who believe that filing a lawsuit over the ban would play right into anti-abortion activists’ hands.
+
+“We have no choice,” Wen replied.
+“For us, this is about our patients’ lives.
+We have to file lawsuits.
+We have to fight through every channel, through the legislatures, through the courts, through the ballot boxes.”
+
+So far this year, state legislatures have introduced more than 350 abortion restrictions, according to a tally by the Guttmacher Institute.
+Last week, Missouri’s legislature passed a bill to ban abortion after about eight weeks, or before many people know they’re pregnant; another four states have also passed laws that would ban abortion as early as six weeks into a pregnancy.
+
+None of those laws are currently in effect, and abortion remains legal in every state.
+
+Cover image: Kay Metcalf chants alongside opponents of the abortion law passed last week by the Missouri legislature on Tuesday, May 21, 2019 outside of Columbia City Hall.
+The recent laws regulating abortion in Missouri, Alabama and Georgia spurred protests nationwide.
+
+STEP 1:
+* extreme
+* unconstitutionally
+* severe
+* anti-abortion
+* medically
+* unnecessary
+* politically-motivated
+* restrictive
+* blatant
+* unconstitutional
+* exploit
+* emboldened
+* anti-abortion
+* harm
+* disproportionate
+
+SUMMARY:
+Planned Parenthood and the ACLU have sued Alabama over its near-total abortion ban, which is intentionally "extreme" and "unconstitutionally severe" to force a legal battle over Roe v. Wade. The law allows abortions only if the pregnancy poses a "serious health risk" to the mother, with no exceptions for rape or incest, and providers could face up to 99 years in prison. The ACLU argues that the law is "blatantly unconstitutional" and is part of a broader "anti-abortion agenda" that will "disproportionately harm" black and low-income people. The lawsuit claims that Alabama's restrictions have been pushing abortion care "further and further out of reach" for years. This is just one of over 350 abortion restrictions introduced in state legislatures this year, sparking protests nationwide. END OF SUMMARY.
+
+Example 2 (Political Ideology: Center, Moral Foundations: Fairness/Cheating):
+Here is the news article:
+
+Obama Team To Make Important, If Symbolic, Choice On Gay Marriage
+
+The Obama administration faces tricky political and legal questions on the subject of gay marriage.
+By the end of this month, the federal government is expected to file not just one but two briefs in a pair of same-sex marriage cases at the U.S. Supreme Court.
+
+But it is the Proposition 8 case from California that poses the thornier questions for the administration — questions so difficult that the president himself is expected to make the final decision on what arguments the Justice Department will make in the Supreme Court.
+
+Prop 8, as it is known, is the California ballot initiative banning same-sex marriage.
+It was narrowly approved by state voters in 2008.
+A federal district court struck down the law as unconstitutional discrimination in 2010.
+A federal appeals court later agreed, but on narrower grounds.
+Because there was a period of time in which same-sex couples could legally marry in California, the court said, it was unconstitutional for the state, through the ballot initiative, to take away a fundamental right it had previously granted.
+
+The state, under both Republican and Democratic governors, has declined to defend the measure in court.
+So its ban on gay marriage is being defended by the sponsors of the initiative.
+
+The Obama administration is not required to file any brief in the case because it does not directly involve federal law.
+But administration sources say the government will file a brief.
+Still unresolved is what the brief will say.
+And in this case, much more than most, there are numerous legal routes that the government can take.
+
+The ultimate question — the one perhaps most people want an answer to but may not get — is whether same-sex couples have a constitutional right to marry.
+A Supreme Court decision that says yes to that would invalidate laws in some 30 states.
+But there are many legal avenues short of such a far-reaching argument that would invalidate Proposition 8 in California and leave laws in other states intact.
+
+What makes this even dicier is that President Obama has changed his position, seemingly a lot, over the past eight months.
+In May, in an ABC interview, he for the first time endorsed same-sex marriage from a personal point of view, but he went on to say that the decision on legalizing gay marriage should be left to the states, where marriage matters are traditionally governed.
+
+"It is important for me to go ahead and affirm that I think same-sex couples should be able to get married.
+And I continue to believe that this is an issue that is going to be worked out at the local level, because historically this has not been a federal issue," he said.
+
+But eight months later at his inauguration, the president seemed to take a more expansive view.
+"Our journey is not complete until our gay brothers and sisters are treated like anyone else under the law.
+For if we are truly created equal, then surely the love we commit to one another must be equal as well," Obama said.
+
+That language suggests the president believes in a more basic constitutional right to marry, analogous to the right enunciated in a unanimous 1967 Supreme Court ruling that struck down laws barring interracial marriage.
+In that case, ironically, the federal government took no position in the Supreme Court.
+
+So what will Obama do now that he faces similar questions in a case about sexual orientation, not race?
+
+His administration could make a bold, full-throated defense of the right to marry, an argument that Obama seemed to suggest at his inaugural.
+Or it could argue a number of lesser positions: That California, having extended the right to marry to gay couples for a window of time, could not revoke the right.
+Or that California, like some other states, has a law extending all rights to same-sex couples, except the right to marry, and that such a distinction amounts to discrimination.
+Or it could argue that since the state is not defending the law, the case does not belong in court at all — that the sponsors of the initiative have no legal standing in court.
+
+For the gay community, and for those advocating traditional marriage between a man and a woman, the position the government takes in this case is hugely important — if nothing else, as a symbol.
+Both sides have made formal presentations at the Justice Department urging the administration to take their side.
+But the deadline has already passed for a brief siding with Proposition 8 supporters, leaving only the question of what a brief on the other side will say.
+
+Same-sex marriage advocates are holding their collective breath for now and maintaining a pretty studied public silence, hoping to avoid the impression that the gay community is pressuring the administration.
+
+Still, lawyers who argue regularly before the court are not so sure that the administration's brief, whatever it says, will make a big difference to the justices.
+
+"I'm never going to tell you that the solicitor general's position doesn't matter," says former Bush administration Solicitor General Paul Clement.
+But in this case, he says, "I think it matters less."
+
+Clement was hired by the House Republican leadership to defend the constitutionality of the Defense of Marriage Act, or DOMA, in a case that is paired with the Proposition 8 case in the Supreme Court.
+The reason he thinks the administration's brief in the Proposition 8 case matters less, he says, is "because we already know what their position is on DOMA and one can extrapolate."
+
+In the DOMA case, the Obama administration argues that the federal law is unconstitutional because it bars federal benefits to legally married same-sex couples — benefits that go automatically to legally married heterosexual couples.
+
+Supreme Court advocate Tom Goldstein, founder of SCOTUSblog, makes a different point — that sometimes Supreme Court briefs are aimed at more than one audience.
+He notes that in a truly historic case like this one, "I think part of what's going on ... is a statement about what is morally right and wrong.
+And so I think it could matter to Americans much more than it matters to the Supreme Court."
+
+STEP 1:
+* equal
+* right
+* equal
+* morally
+* right
+* wrong
+
+SUMMARY:
+The Obama administration is facing a crucial decision on gay marriage, with the President himself expected to make the final call on the Justice Department's arguments in the Proposition 8 case at the U.S. Supreme Court. The case poses a moral dilemma, as the administration must decide whether to take a bold stance on the constitutional right to marry, or argue lesser positions. The President's previous statements on the issue have been ambiguous, but his inaugural address suggested a more expansive view, stating that "our gay brothers and sisters are treated like anyone else under the law." The administration's brief will carry significant symbolic weight, as it will be seen as a statement on what is morally right and wrong. Same-sex marriage advocates are holding their breath, hoping the administration will take a strong stance in favor of equality and right. The outcome of this case could have far-reaching implications, potentially invalidating laws in 30 states. END OF SUMMARY.
+
+Example 3 (Political Ideology: Right, Moral Foundations: Authority/Subversion, Fairness/Cheating, Sanctity/Degradation):
+Here is the news article:
+
+President Trump on Friday became the first president to speak in person at the anti-abortion March for Life rally, on the heels of a new poll registering record-high dissatisfaction with U.S. abortion laws.
+
+“Unborn children have never had a stronger defender in the White House,” Trump said in a speech.
+“And as the Bible tells us, each person is wonderfully made.”
+
+He went on to slam Democrats for embracing “the most radical and extreme positions” and backing “taxpayer-funded abortion, all the way up until the moment of birth.” (Critics say that such procedures do not occur.)
+
+The March for Life says its mission is to “promote the beauty and dignity of every human life by working to end abortion.” Trump previously spoke at the rally remotely, while Vice President Mike Pence in 2017 became the first U.S. vice president to attend.
+
+March for Life president Jeanne Mancini applauded the Trump administration in a statement earlier in the week, noting that the administration had appointed anti-abortion judges and federal workers, cut taxpayer funding for abortions and called for an end to late-term abortions.
+“President Trump and his Administration have been consistent champions for life and their support for the March for Life has been unwavering,” she said.
+
+The results of a new Gallup poll released Wednesday suggested that discontent over U.S. abortion policy was at an all-time high (58%) and satisfaction was at an all-time low (32%).
+The survey of more than 1,000 adults, conducted earlier this month, tracked an upward trend in those who wanted abortion policy to be less restrictive.
+
+Traditionally, Gallup said, most people dissatisfied with abortion policy wanted stricter laws — but since 2017, the year Trump took office, the share of respondents desiring less-strict abortion policy has risen.
+Now, “roughly equal percentages of U.S. adults now are dissatisfied and favor less strict laws (22%) as are dissatisfied and want stricter laws (24%),” the report’s authors said.
+
+Mounting support for easing abortion policy was fueled by a rise in Democrats and independents expressing such sentiments over the last 10 years, the survey found.
+
+A flurry of states last year enacted restrictive anti-abortion laws, including a handful that banned abortion past a certain point in a pregnancy, and Alabama, which effectively outlawed abortion in most cases.
+Many of these laws have been blocked in court from taking effect.
+
+The Supreme Court will also hear arguments this year on June Medical Services v. Gee, which involves a Louisiana law requiring abortion providers to have admitting privileges at a local hospital.
+The court previously struck down a similar provision in Texas in 2016’s Whole Woman’s Health v. Hellerstedt.
+
+“Americans have grown increasingly dissatisfied with the nation’s abortion policies since 2017, largely reflecting Democrats’ — and to a lesser extent, independents’ — mounting view under Trump that the laws are too strict,” wrote the authors of the Gallup report.
+“While this may partly be a reaction to Trump’s rhetoric on the issue, it also aligns with an increase in abortion restrictions.”
+
+A separate poll published Wednesday by the Kaiser Family Foundation found that 59% of Americans believe abortion should be legal in most (32%) or all (27%) cases, while just 11% thought the procedure should be illegal in all cases.
+Nearly seven in 10 respondents said they didn’t want the landmark Supreme Court ruling Roe v. Wade, which affirmed the right to have an abortion, to be overturned.
+Democrats and independents were most likely to express that opinion, while a majority of Republicans (57%) said they wanted Roe overturned.
+
+But many respondents also backed some state abortion restrictions, including 69% who endorsed policies requiring the procedure be performed only by doctors with hospital-admitting privileges, 66% who supported 24-hour waiting periods between consultation with a provider and the procedure, and 57% who supported a requirement that doctors show and describe ultrasound images to abortion seekers.
+Still, criminalizing abortion (that is, through fines or prison time) for providers and abortion-seekers proved unpopular.
+
+A NPR/PBS News/Marist poll of 944 U.S. adults released in June 2019 echoed those results, showing that 77% of Americans wanted to keep Roe v. Wade in place, but many still wanted additional abortion restrictions or policy changes.
+
+Among the more than three-quarters of Americans who broadly supported Roe, 26% wanted the Supreme Court to keep it but add more restrictions, and 14% supported keeping it but reducing some restrictions, according to that poll.
+Some 21% wanted to see Roe expanded to secure abortion rights under any circumstance, while 16% wanted to keep it the way it is.
+
+STEP 1:
+* radical
+* extreme
+* wonderfully
+* beauty
+* dignity
+* champions
+* restrictive
+* stricter
+* dissatisfied
+* discontent
+* unwavering
+* stricter
+
+SUMMARY:
+President Trump became the first president to speak in person at the anti-abortion March for Life rally, where he slammed Democrats for embracing "radical and extreme positions" on abortion. Trump emphasized that "unborn children have never had a stronger defender in the White House" and quoted the Bible, saying "each person is wonderfully made." The March for Life aims to "promote the beauty and dignity of every human life" by working to end abortion. A new Gallup poll shows that discontent with U.S. abortion laws is at an all-time high, with 58% of Americans dissatisfied and only 32% satisfied. The poll also found that support for easing abortion policy has risen, particularly among Democrats and independents. Meanwhile, many states have enacted restrictive anti-abortion laws, which have been blocked in court. The Supreme Court will hear arguments on a Louisiana law requiring abortion providers to have admitting privileges at a local hospital. END OF SUMMARY.
+
+Now, here is the target news article to summarize:
+Here is the news article:
+
+Pro-abortion demonstrators in front of the Supreme Court in Washington, D.C., in 2016. (Gary Cameron/Reuters) Explicit support for abortion “all the way up to 40 weeks” is increasingly becoming a mainstream Democratic position. The quote is from Kathy Tran, a Virginia state legislator; but her bill has the support of the state’s supposedly moderate governor, Ralph Northam, who in defending it suggested that in some circumstances a full-term child should be delivered and then (at least) allowed to die. Most Democrats still would not go as far as Northam. But Tran’s position is shared by New York Democrats, who have passed a law stipulating that abortion at any stage of pregnancy is legal so long as an abortionist says it is necessary to protect a pregnant woman’s health. The law does not claim that the pregnancy itself has to threaten her health and does not limit health to physical health. It is a restriction designed to be unenforceable, and thus also to be deceptive. Many of the leading Democratic presidential candidates have endorsed similar federal legislation: It would wipe away any state laws that protected unborn children even late in pregnancy. Bans could remain on the books only if they included health exceptions rendering them, too, unenforceable. These Democrats are aware that the public does not share their enthusiasm for abortion late in pregnancy, and so they are explaining that it is only ever done for the most compelling medical reasons. Northam says that they are only done in cases of severe fetal abnormality or unviability. The available evidence does not bear out this contention, but the laws these Democrats support do not require such reasons anyway. Northam wants to deny any legal protections even for children who are viable and suffer no abnormalities. So do those presidential candidates. Killing a two-month-old infant is rightly prohibited and punished. Unborn children late in pregnancy differ from two-month-olds in no way that could plausibly justify this radical difference in treatment. To allow them to be killed, to expose them to lethal violence, to treat them as non-persons, is manifestly unjust. It is unjust to do these things even if one does not directly participate in the killing. And that injustice lays moral obligations on all of us. Those Democrats who have taken this extreme position should reconsider it. Those who have not should repudiate it. Republicans should expose the Democrats’ indefensible position to the light. So should journalists, by reporting on the Democrats’ stance rather than simply repeating their spin. Catholic bishops should stir themselves to do real pastoral work on those Catholic politicians who have fallen into this grievous moral error, which includes reminding them that those who obstinately persist in it have broken communion with the Church. And the Supreme Court — which believes, or pretends to believe, that the Constitution requires this policy of abortion-on-demand at any stage of pregnancy, a contention as absurd as it is outrageous — should find the earliest occasion possible to reverse its mistake.
+
+(1) First, you identify all the single words that are morally framed, focusing especially on the dimensions of Authority/Subversion, Care/Harm, Fairness/Cheating, Sanctity/Degradation. Identify this step as "STEP 1:" and report each word in a new line starting with *
+(2) Finally, you write a summary of the news article. Please preserve as many morally framed words as possible, particularly focusing on the moral dimensions of Authority/Subversion, Care/Harm, Fairness/Cheating, Sanctity/Degradation in your summary. The summary has to be returned after a "SUMMARY:" token and ending with a "END OF SUMMARY." token. The summary should be no longer than 200 words.

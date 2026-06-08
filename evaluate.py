@@ -13,6 +13,7 @@ parser.add_argument('--QaFactEval',    default=False, action='store_true')
 parser.add_argument('--llama',         default=False, action='store_true')
 parser.add_argument('--command-r',     default=False, action='store_true')
 parser.add_argument('--deepseek',      default=False, action='store_true')
+parser.add_argument('--llama-8b',      default=False, action='store_true')
 parser.add_argument('--only-test-set', default=False, action='store_true')
 parser.add_argument('--seed',          type=str,  default=None)
 
@@ -34,6 +35,8 @@ if args.command_r:
     models.append('c4ai-command-r-plus-4bit')
 if args.deepseek:
     models.append('DeepSeek-R1-Distill-Qwen-32B')
+if args.llama_8b:
+    models.append('llama3.1-8b-instruct-q4_K_M')
 
 start_time = time.time()
 
@@ -50,5 +53,11 @@ end_time = time.time()
 execution_time = end_time - start_time
 print(f"Execution time: {execution_time} seconds")
 
-with open('dict_of_dfs.pickle', 'wb') as f:
+import pathlib
+output_dir = pathlib.Path('results/automated_evaluation')
+output_dir.mkdir(parents=True, exist_ok=True)
+output_name = '_'.join(models).replace('/', '-') + '.pickle' if models else 'evaluation.pickle'
+output_path = output_dir / output_name
+with open(output_path, 'wb') as f:
     pickle.dump(evaluator.metrics, f)
+print(f"Results saved to: {output_path}")

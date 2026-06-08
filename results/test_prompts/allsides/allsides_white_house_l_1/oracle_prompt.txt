@@ -1,0 +1,57 @@
+You have to summarize the following text preserving the moral framing that the author gave to it.
+
+Here is the news article:
+
+John F Kelly visits the Aisne-Marne American Cemetery and Memorial in Belleau, France, on Nov. 10. For nearly two years, retired Marine Gen. John Kelly has served as chief of staff to President Donald Trump. On Saturday, he announced that he’ll end that tenure by the end of this year. He’ll leave the White House as chaotic and disordered as it was when he took the job. But the ins and outs of Kelly’s performance are less interesting than what he stood for in the larger context of the Trump era. If “Trumpism” has any meaning or ideological content separate from Donald Trump himself, it had a representative—if not an embodiment—in Kelly. What the outgoing chief of staff lacks in Trump’s intemperate attitude and undisciplined behavior, he makes up for in his commitment to basic elements of the president’s ideology—including his casual cruelty and tolerance for bigotry and bad behavior. We saw these traits during Kelly’s spat with Florida Rep. Frederica Wilson, which started after Wilson criticized the president for his insensitivity toward the widow of a slain soldier, who was black. Kelly accused Wilson of taking false credit for the construction of an FBI field office in Miami, calling her an “empty barrel” more concerned with herself than the FBI agents. Kelly supposedly made this accusation on the premise of Wilson’s speech at the building dedication ceremony, but video of the event shows the opposite—she had not, in fact, taken credit for the building’s funding. Kelly refused to apologize, signaling his disdain for Wilson, part of a pattern of open disrespect for black female critics of the administration. We saw these traits in an interview with Fox News where he blamed the Civil War on “the lack of the ability to compromise,” and praised Confederate Gen. Robert E. Lee as an “honorable man” along with the “men and women of good faith on both sides” of the conflict. (The Civil War broke out after more than a decade of conflict over the expansion of slavery.) Compounding the problem of these remarks was the context: They came just a few months after “Unite the Right,” a rally of white nationalists in Charlottesville, Virginia, that ended in violence—one counterdemonstrator was killed and dozens more were injured. In the wake of that tragedy, President Trump used the same “both sides” language to defend the actions of the racist protesters. Kelly might value normalcy and temperance over chaos and impulse, but he shares the president’s basic worldview. We saw them again following allegations of domestic abuse against Rob Porter, a senior aide to the president who had previously served as chief of staff for Kelly himself. Porter resigned his position after two ex-wives came forward with accusations and evidence of verbal and physical abuse, including kicking, throwing, and choking. But in the lead-up to that resignation, Porter was defiant, calling the allegations “outrageous.” Kelly knew that Porter had been subject to a protective order obtained by his second wife. Still, he backed him, calling Porter a “man of true integrity and honor.” Kelly was practically indifferent to the charges, an attitude that might have made this the most consequential scandal of his tenure, if not for what followed. What followed next was child separation. John Kelly didn’t just defend the administration’s “zero tolerance” policy toward immigrants who crossed the border illegally, criminally prosecuting them and placing their children in detention camps—he was one of its architects. And when asked if it was “cruel and heartless to take a mother away from her children,” Kelly shrugged. “The children will be taken care of—put into foster care or whatever,” he said in an interview with NPR. It was pure Trump: a succinct encapsulation of everything that defines the president’s rotten ideology, from the casual cruelty to the bigotry behind the dehumanization of an entire class of people. And it came from the “adult in the room,” the man who was supposed to tame Trump’s worst impulses and give the world a more measured, responsible administration. But therein lies the error. Kelly might value normalcy and temperance over chaos and impulse, but he shares the president’s basic worldview. Even if he could have wrangled Trump into something like a typical president, the Trump administration would likely still display the same enthusiasm for cruelty and contempt for common decency. Indeed, it might have been worse; a more disciplined Trump would be a more effective one, better able to translate his ethnonationalist instincts into concrete, actionable policy. In which case, it’s to our collective benefit that Kelly failed to control the president. To that point, if there’s any lesson to take from John Kelly’s tenure in the White House, it’s that the appearance of moderation is not moderation. And while official Washington might pine for someone to take the reins of the administration—for someone to truly be an “adult in the room”—the Kelly experience shows that this is overrated. What matters is the ethos of the administration, and that flows inexorably from the man at the top.
+
+The author used the following morally framed words in the article:
+* chaotic
+* disordered
+* behavior
+* cruelty
+* tolerance
+* bigotry
+* refused
+* signaling
+* disdain
+* disrespect
+* blamed
+* war
+* praised
+* conflict
+* expansion
+* slavery
+* violence—one
+* killed
+* injured
+* tragedy
+* used
+* defend
+* chaos
+* impulse
+* shares
+* abuse
+* kicking
+* throwing
+* choking
+* defiant
+* calling
+* backed
+* indifferent
+* scandal
+* separation
+* crossed
+* placing
+* take
+* shrugged
+* care
+* of—put
+* dehumanization
+* impulses
+* display
+* contempt
+* worse
+* effective
+* translate
+
+Please preserve as many morally framed words as possible in your summary. The summary has to be returned after a "SUMMARY:" token and ending with a "END OF SUMMARY." token. The summary should be no longer than 200 words.

@@ -1,0 +1,146 @@
+You have to summarize the following text preserving the moral framing that the author gave to it.
+
+Please study the following examples of news articles, their moral word extraction, and summaries preserving the moral framing:
+
+Example 1 (Political Ideology: Left):
+Here is the news article:
+
+President Donald Trump used Twitter to tear into social media companies Saturday morning, claiming they were “totally discriminating against Republican/Conservative voices.”
+
+But he does have a solution. Sort of.
+And it involves both sides.
+
+Trump tweeted that “too many voices are being destroyed, some good and some bad, and that cannot be allowed to happen.” So, he added: “Let everybody participate, good & bad, and we will all just have to figure it out!”
+
+Trump accused social media giants of “closing down the opinions of many people on the RIGHT, while at the same time doing nothing to others.”
+
+“Censorship is a very dangerous thing & impossible to police,” he added, before embarking on a now familiar rant about “fake news” CNN and MSNBC — which he admitted to sometimes watching, but “just with a grain of salt.”
+
+Trump did not reference any person in particular in his tirade against the tech companies, although a host of them have in recent weeks banned conspiracy theorist Alex Jones and his website Infowars from their platforms.
+
+STEP 1:
+* discriminating
+* destroyed
+* bad
+* dangerous
+* fake
+
+SUMMARY:
+President Donald Trump took to Twitter to accuse social media companies of "totally discriminating" against Republican and Conservative voices. He claimed that "too many voices are being destroyed, some good and some bad," and that censorship is a "very dangerous thing" that is "impossible to police." Trump's solution is to "let everybody participate, good & bad, and we will all just have to figure it out!" He also ranted against "fake news" outlets CNN and MSNBC, which he admits to watching "with a grain of salt." The tweets come after several social media companies banned conspiracy theorist Alex Jones and his website Infowars from their platforms. Trump's comments imply that social media companies are unfairly silencing certain voices, and that this "censorship" is a threat to free expression. END OF SUMMARY.
+
+Example 2 (Political Ideology: Center):
+Here is the news article:
+
+The San Francisco Board of Supervisors passed a resolution Tuesday that declares the National Rifle Association a "domestic terrorist organization."
+
+After connecting the NRA to an "epidemic of gun violence" in the U.S., the resolution urges San Francisco to distance itself from the organization by examining local vendors' and contractors' ties to the NRA.
+It also says the local government should avoid doing business with the NRA or organizations associated with it.
+
+"The National Rifle Association spreads propaganda that misinforms and aims to deceive the public about the dangers of gun violence," the resolution reads.
+
+While supervisors will be examining San Francisco's connections to the NRA, the resolution is also meant to pave the way for similar legislation at the local, state or federal level, Supervisor Catherine Stefani, who sponsored the resolution, told USA TODAY on Wednesday.
+
+The designation of domestic terrorist organization is justified because the NRA's opposition to gun control is "standing in the way of saving lives,” Stefani said.
+
+She said the resolution calls the “absolutely disgraceful" organization "out for what they really are.”
+
+The resolution says 100 Americans are killed daily by gun violence, making the U.S.'s gun homicide rate 25 times higher than any other "high-income" country.
+
+Guns:Walmart to no longer sell certain ammunition, ask customers to stop open carry in stores
+
+Texas shootings:Visitors at El Paso memorial ask how many more have to die after latest Texas shooting
+
+The resolution passed unanimously, according to Daniel Herzstein, a spokesperson for Stefani's office.
+
+The NRA condemned the resolution in a statement sent to USA TODAY Wednesday.
+"This is just another worthless and disgusting 'soundbite remedy' to the violence epidemic gripping our nation," spokeswoman Amy Hunter said in an emailed statement.
+
+"This is a reckless assault on a law-abiding organization, its members, and the freedoms they all stand for.
+We remain undeterred - guided by our values and belief in those who want to find real solutions to gun violence," the statement says.
+
+This is the second high-profile condemnation the NRA has issued this week.
+On Tuesday, the NRA said Walmart's decision to stop selling certain ammunition would hurt business and "not make us any safer."
+
+In the wake of recent mass shootings in California, Ohio and two in Texas, national attention has again grown on the issue of gun violence.
+
+Senate Majority Leader Mitch McConnell, R-Ky., has faced particular pressure to take up gun control legislation, but has maintained that President Donald Trump should support legislation before the Senate considers it.
+
+Trump's discussions about gun background checks with Wayne LaPierre, NRA head, made national headlines in August.
+
+STEP 1:
+* Epidemic
+* Propaganda
+* Deceive
+* Disgraceful
+* Absolutely
+* Worthless
+* Disgusting
+* Reckless
+* Assault
+* Undeterred
+* Guided
+* Freedoms
+
+SUMMARY:
+The San Francisco Board of Supervisors has passed a resolution declaring the National Rifle Association (NRA) a "domestic terrorist organization" due to its role in perpetuating an "epidemic of gun violence" in the US. The resolution accuses the NRA of spreading "propaganda" that "deceives" the public about the dangers of gun violence, and labels the organization as "absolutely disgraceful". The supervisors aim to distance themselves from the NRA by examining local vendors' and contractors' ties to the organization and avoiding business with it. The resolution is meant to pave the way for similar legislation at the local, state, or federal level. The NRA has condemned the resolution as a "worthless and disgusting'soundbite remedy'" and a "reckless assault" on its members and their freedoms. END OF SUMMARY.
+
+Example 3 (Political Ideology: Right):
+Here is the news article:
+
+Israeli Prime Minister Benjamin Netanyahu has said he’ll steer clear of the American presidential election, but he stars in a new ad set to air in the key battleground state of Florida that aims to make Iran a major campaign issue.
+
+Netanyahu, who has a famously frosty relationship with President Obama, mentions neither Obama nor Republican challenger Mitt Romney, with whom Netanyahu worked in the mid-1970s at Boston Consulting Group.
+His words are taken from a recent news conference, in which he expressed frustration at the Obama administration’s failure to establish “red lines” for reining in Iran and its rogue nuclear weapons program.
+
+"The fact is that every day that passes, Iran gets closer and closer to a nuclear bomb,” Netanyahu says.
+“The world tells Israel, wait, there's still time.
+And I say wait for what?
+Wait until when?"
+
+A voice-over at the end of the ad underscores the prime minister's message: "The world needs American strength, not apologies."
+
+The ad, paid for by nonprofit conservative advocacy group Secure America Now, could have a powerful influence in heavily-Jewish markets, including Miami.
+Florida is considered a toss-up in recent polling, and its 29 electoral votes could swing the election.
+
+“Sizable majorities in both states believe that Iran will share nuclear weapons with terrorists,” said Jeri Thompson, advisory board member for Secure America Now.
+“Support for Israel remains strong.
+In short, (Netanyahu's) a powerful messenger with a powerful message who the American people believe.”
+
+The ad, reportedly to air in Miami, West Palm Beach and Fort Myers, is costing Secure America $1 million, the organization confirmed to Fox News.
+
+A Fox News poll released Wednesday shows Obama leading Romney, 49 percent to 44 percent, in Florida.
+
+Meanwhile, Haaretz reported that the Republican Jewish Coalition has launched a separate $5 million TV advertising blitz aimed at Jewish voters in swing states.
+That campaign started Wednesday and runs through Nov. 5 in cable and broadcast TV markets in Florida, Nevada, Ohio and Pennsylvania.
+
+"This ad highlights the 'buyer's remorse' felt by many in the Jewish community, who voted for Obama four years ago but are now disillusioned with his economic policies and his policies toward Israel,” the coalition's executive director, Matt Brooks, said in a written statement Wednesday.
+“These ads, and the stories of the people in them, give voice to the nagging doubts that many Jewish voters feel about President Obama.
+To underscore that point, numerous polls have shown an erosion in Jewish support for the president."
+
+Netanyahu also made an appearance on NBC's "Meet the Press" last Sunday, urging Obama to take a tougher line with Iran over its nuclear program.
+
+"President Obama has said that he is determined to prevent Iran from getting nuclear weapons," he said on the Sunday morning show.
+"If you're determined to prevent Iran from getting nuclear weapons, it means you'll act before they get nuclear weapons."
+
+STEP 1:
+* frustration
+* rogue
+* strength
+* apologies
+* powerful
+* strong
+* disillusioned
+* doubts
+* tougher
+
+SUMMARY:
+Israeli Prime Minister Benjamin Netanyahu is starring in a new ad in Florida, urging the US to take a stronger stance against Iran's nuclear program. In the ad, Netanyahu expresses frustration with the Obama administration's failure to establish "red lines" for reining in Iran's rogue nuclear weapons program. He warns that every day that passes, Iran gets closer to a nuclear bomb, and asks, "Wait for what? Wait until when?" The ad, paid for by Secure America Now, aims to make Iran a major campaign issue and emphasizes the need for American strength, not apologies. The ad could have a powerful influence in heavily-Jewish markets, including Miami, where support for Israel remains strong. Meanwhile, the Republican Jewish Coalition has launched a separate $5 million TV advertising blitz aimed at Jewish voters in swing states, highlighting the "buyer's remorse" felt by many in the Jewish community who are disillusioned with Obama's economic policies and his policies toward Israel.
+END OF SUMMARY.
+
+Now, here is the target news article to summarize:
+Here is the news article:
+
+On March 4, the US State Depart-ment released its annual human rights report. Apart from criticizing the "axis of evil" countries for abusing human rights, it also listed abuses in several countries that are members of the anti-terrorist alliance. What is most interesting about the reports is the section on Israel. Since Israel suffers from terrorist attacks, the report says, it has been forced to take counter-terrorism measures, making its rights abuses understandable. What's more, post-Sept. 11 restrictions in the US on entering and leaving the country and on air travel, as well as measures curbing the civil rights of accused persons, are not discussed at all. The report is generally quite frank and its wording strong, but it proposes no corrective action. Consolidating the anti-terrorist alliance and expanding the war against terror are overshadowing concerns about human rights. In exchange for support for its war on terror, the US is tacitly agreeing to ignore abuses by other members of the anti-terror coalition. The most glaring examples are Russia's suppression of resis-tance to its rule in Chechnya, China's suppression of independence advocates in Xinjiang and the Falun Gong movement, and Israel's treatment of Palestinians. US activities, meanwhile, show no sign of promoting the universal values of democracy, human rights and peace. Six months have passed since Sept. 11 and the focus of US anger has turned to countries that have been labeled "rogue nations" and members of an "axis of evil." The US anti-terrorist alliance has become the embodiment of two-sided justice. "If you're not with us, you're against us." The human rights report poses a substantial challenge to the US interpretation of good and evil. Put simply, what we are seeing is the naked pursuit of US interests. No one who has ever studied realist political science will find this surprising. To earn legitimacy, however, US interests must be made to appear just. Even though almost all military mobilizations in history have been motivated by notions of good versus evil or of orthodoxy versus unorthodoxy, efforts to present the naked pursuit of US interests as a battle of good versus evil reflect a lack of understanding and tolerance. Demonizing the enemy will guarantee that peace will not be gained through war. The report expressly points out that, "It is extremely easy for terrorists to find supporters in countries where human rights are not respected and where individual freedom is repressed." To prove that human rights are important ammunition in the battle against terror, then, the US must attack terrorism to make human rights matter to these countries. If, however, US President George W. Bush still believes in the supremacy of human rights, he must not forget the breeding ground for terrorists that exists within the anti-terrorist alliance. The US is planning to extend military aid to several countries in the alliance to enable them to root out terrorists without using US forces. Such wishful thinking risks making the US an accomplice in the destruction of human rights. If the US, which claims to be the world's policeman, is incapable of looking beyond US interests or of practicing the universal values of human rights, democracy and peace, then shouldn't the international community reconsider the role played by the UN, or learn from the way the European parliament works? After all, compromising between the interests of many different countries is much better than succumbing to the interests of a single country. It is also an approach better suited to the new century and its increasing international diversity. Chien Hsi-chieh is a DPP legislator and executive director of the Peacetime Foundation of Taiwan.
+
+(1) First, you identify all the single words that are morally framed. Identify this step as "STEP 1:" and report each word in a new line starting with *
+(2) Finally, you write a summary of the news article. Please preserve as many morally framed words as possible in your summary. The summary has to be returned after a "SUMMARY:" token and ending with a "END OF SUMMARY." token. The summary should be no longer than 200 words.

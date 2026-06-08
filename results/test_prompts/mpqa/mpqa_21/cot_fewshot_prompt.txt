@@ -1,0 +1,178 @@
+You have to summarize the following text preserving the moral framing that the author gave to it.
+
+Please study the following examples of news articles, their moral word extraction, and summaries preserving the moral framing:
+
+Example 1 (Political Ideology: Left):
+Here is the news article:
+
+Severe illness from COVID-19 in children is rare.
+The risk of death from the coronavirus for an infected child is hundreds of times lower than for older adults.
+But serious illness, such as the recently documented rare inflammatory syndrome, does occur—just as serious illness occurs with influenza, which in most years kills 100 or more children, including many who get infected in schools.
+We don’t close our schools because of the risk of influenza, and we don’t necessarily need to close them because of the risk of COVID-19.
+
+The single most important thing we can do to keep our schools safe has nothing to do with what happens in schools.
+It’s how well communities control the coronavirus throughout the community.
+Such control of COVID-19 requires adhering to the three W’s—wear a mask, wash your hands, watch your distance—and boxing in the virus with strategic testing, effective isolation, complete contact tracing, and supportive quarantine—providing services and, if necessary, alternative temporary housing so patients and contacts don’t spread disease to others.
+
+The CDC has released helpful guidelines for safely reopening schools, which each state and school district will need to apply to its specific context.
+Localities will need to develop solutions tailored to their unique needs and based on the latest information on the virus.
+In places where the virus is spreading explosively, it may be difficult or impossible to have in-person schooling.
+But in most school districts most of the time, schools should look to reopen by following these eight basic safety measures.
+
+First, shield the most vulnerable.
+Children, older staff, and those who have underlying health conditions that put them at high risk should not return to school in person unless there is little or no community transmission; the school system should enable them to participate remotely to the greatest extent possible.
+
+Second, reduce risk wherever possible.
+Large in-person student assemblies will be out.
+Cafeterias may need to close, with students instead eating in classrooms.
+On-site food preparation may be replaced by prepackaged meals and disposable dishware.
+And schools can reduce the number of surfaces touched by multiple people, for example, by keeping hallway doors open.
+Some essential services must continue—such as in-school meals, which many students depend on.
+Others may need to be modified—libraries will likely need capacity restrictions.
+
+Sarah Cohodes: A better fall is possible
+
+Because group singing increases risk, large choir rehearsals will need to stop.
+In areas where the coronavirus is under good control, band and orchestra practice may be able to continue.
+Team sports may be too risky; clusters of cases have been reported among college and professional sports teams.
+Recess and physical-education classes are possible if students play outdoors in small groups, wear masks, and observe physical-distancing guidelines.
+
+STEP 1:
+* rare
+* serious
+* important
+* safe
+* supportive
+* helpful
+* unique
+* vulnerable
+* high
+* essential
+* better
+
+SUMMARY:
+Severe illness from COVID-19 in children is rare, but serious illness can occur. To keep schools safe, it's important to control the coronavirus throughout the community by adhering to the three W's and implementing strategic testing, effective isolation, and complete contact tracing. The CDC has released helpful guidelines for safely reopening schools, which each state and school district must apply to their unique context. In places where the virus is spreading explosively, it may be difficult or impossible to have in-person schooling. However, in most school districts, schools can reopen by following eight basic safety measures, including shielding the most vulnerable, reducing risk wherever possible, and continuing essential services. By taking these steps, a better fall is possible. END OF SUMMARY.
+
+Example 2 (Political Ideology: Center):
+Here is the news article:
+
+Israel and Middle East policy have a tendency of surfacing in presidential politics in rather combustible ways.
+And a new advertisement that will run in areas of Florida with large Jewish populations attempts to stoke anxiety over American policies in the region, using a news clip of Prime Minister Benjamin Netanyahu of Israel warning of the risks of a nuclear Iran.
+
+“The fact is that every day that passes, Iran gets closer and closer to nuclear arms,” Mr. Netanyahu is shown saying.
+
+For dramatic effect, a soundtrack fit for an episodic drama like “Homeland” plays as the prime minister continues.
+“The world tells Israel, ‘Wait. There’s still time.’
+And I say wait for what?
+Wait until when?”
+Then an unseen announcer concludes: “The world needs American strength, not apologies.”
+
+That line is a not-so-veiled swipe at President Obama.
+Mitt Romney and other Republicans have criticized his foreign policy as apologetic, toward volatile countries like Iran.
+
+The group that produced the ad, Secure America Now, is run by two longtime Republican strategists, Nelson Warfield ? and John ?McLaughlin, and ?Pat Caddell, a former aide to Jimmy Carter who is now a Fox News contributor.
+They have reserved $500,000 of airtime in Fort Myers, West Palm Beach and Miami.
+
+A senior Israeli official said the government was not consulted on the ad and did not approve it.
+
+STEP 1:
+* anxiety
+* dramatic
+* volatile
+* apologetic
+* strength
+* swipe
+
+SUMMARY:
+A new advertisement in Florida, targeting areas with large Jewish populations, aims to stoke anxiety over American policies in the Middle East. The ad features Prime Minister Benjamin Netanyahu warning of the risks of a nuclear Iran, with a dramatic soundtrack. Netanyahu's message is clear: "Wait for what? Wait until when?" implying that the world is being too apologetic towards Iran. The ad concludes with the line "The world needs American strength, not apologies," a not-so-veiled swipe at President Obama's foreign policy. The group behind the ad, Secure America Now, is run by Republican strategists and has reserved $500,000 of airtime. Interestingly, the Israeli government was not consulted on the ad and did not approve it. The ad's message is clear: American strength is needed, not apologies.
+
+END OF SUMMARY.
+
+Example 3 (Political Ideology: Right):
+Here is the news article:
+
+Last week, President Donald Trump erupted with fury over a series of public revelations of private facts — some top-secret and some office gossip — that painted him and his White House in a bad light.
+The president ordered the FBI to investigate some of these so-called leaks and his own White House counsel to investigate others.
+
+There are numerous issues related to the leaking of government information.
+They include the leaking of classified information, the leaking of confidential communications and the publishing of leaked material.
+
+Here is the back story.
+
+It is a felony to reveal classified information to any person who lacks a classified clearance, as some in the intelligence community have recently done to embarrass, control, intimidate or infuriate the president.
+The National Security Agency employs over 60,000 domestic spies, but they work in compartmentalized areas.
+Thus, not all of them have access to all the data collected by all of their colleagues.
+Only about 100 spies have access to the top-secret data that was leaked about the president.
+
+When members of the intelligence community leaked lurid allegations about the future president's alleged behavior in a Moscow hotel room, which he has vehemently denied, and when some leaked the partial transcripts of telephone conversations between retired Lt. Gen. Michael Flynn and the Russian ambassador to the U.S. — shortly before Flynn became the president's national security adviser — and when some leaked an intelligence report that contradicted the president's publicly stated conclusions on the likelihood of dangerous people immigrating to the U.S. from the seven predominately Muslim countries named in the president's now enjoined temporary travel ban, one can understand the presidential anger.
+
+And leaks are a two-sided coin.
+Adding to Trump's woes caused by too much revealing is the other side of that coin — too much concealing.
+This comes into play when one has a duty to reveal.
+That duty arises from the legal obligation of spies to pass on to their superiors — and ultimately to the president — all of the material information they have acquired about America's friends and enemies.
+
+Selectively concealing and revealing this type of intelligence data, thereby manipulating the presidential judgment, when one has a duty to reveal substantially all of it is a form of interference with a governmental function — namely, the president's exercise of his judgment — and that is a felony.
+
+As if all this were not enough for a young presidency to deal with, Trump finds himself with a White House staff leaking to the press Oval Office gossip about confidential conversations from within the White House that the participants in those conversations had every reason to believe would not be made public.
+This resulted in the temporary seizure of government-issued cellphones held by a dozen or so staffers so their bosses could learn whether any had spoken to the press.
+The cellphones episode was itself leaked, apparently by a participant not happy with it.
+
+What's going on here?
+
+These events are either the growing pains of a new presidential administration, still partially staffed by those loyal to former President Barack Obama, or the product of sinister forces from people attempting to exercise their own judgment about America's foes by frustrating and manipulating the judgment of the president — whom the voters elected to exercise the constitutional powers to make those judgment calls.
+The latter situation would be perilous, as it would mean we have unelected, unaccountable, and unnamed people pulling the levers of power in the field of national security.
+
+The leaks of confidential communications from within the White House may be a pain in the neck for the president, but they are not criminal.
+And generally, a boss can look at an employee's cellphone, as long as the employer of the boss and the employee owns the phone — except when the employer is the government.
+The Fourth Amendment insulates government employees from governmental reach into its employees' cellphones.
+Absent an employee's waiving his Fourth Amendment rights, the government may not seize work-related (governmental) or personal phones without a search warrant.
+
+Can the media publish these leaks?
+
+In a word, yes.
+The media may publish anything that is of material interest to the public, notwithstanding its level of secrecy or how it was acquired.
+The First Amendment — which the courts have construed to treat the media as the eyes and ears of the public — protects absolutely the publication by the media of leaked data, whether gossip or top-secret, that the public wants to hear.
+
+The courts have also ruled that everything about the president is of material public interest — meaning no criminal or civil action can be taken against the media for the publication of any leaked materials that reflect on the president as a person or as a government official.
+When The New York Times published a probably stolen copy of Trump's tax returns, it did so with impunity.
+
+One can see why Trump rails against the press.
+Yet he has taken an oath to preserve, protect and defend the very constitutional principles that protect and liberate a free press from the anger of the government, no matter how well-grounded that anger may be.
+One of his predecessors who was savaged by the press, Thomas Jefferson, wrote that accountability and transparency in government are of such overriding value that he'd prefer newspapers without a government to a government without newspapers.
+
+STEP 1:
+* felony
+* embarrass
+* control
+* intimidate
+* infuriate
+* duty
+* concealing
+* manipulating
+* interference
+* felony
+* sinister
+* perilous
+* unelected
+* unaccountable
+* unnamed
+* pain
+* criminal
+* waiving
+* insulates
+* impunity
+* accountability
+* transparency
+* overriding
+* savaged
+
+SUMMARY:
+President Trump's administration is dealing with a series of leaks, including classified information and confidential communications, which has sparked fury and investigations. However, the article highlights that leaks are a two-sided coin, and concealing information can be just as problematic as revealing it. The duty to reveal information is crucial, and selectively concealing it can be a form of interference with the president's judgment, which is a felony. The article also notes that the media has the right to publish leaked information, even if it's top-secret, as it is of material interest to the public. Trump's anger towards the press is understandable, but he has taken an oath to protect the very constitutional principles that protect a free press. The article concludes that accountability and transparency in government are of overriding value. END OF SUMMARY.
+
+Now, here is the target news article to summarize:
+Here is the news article:
+
+It's not another ice age, but at least it's cooler As countries gear up for battles over ratifying the 1997 Kyoto Protocol, a recent study suggests that the world already has stepped along the path to a future cooler than it might have been. Researchers at NASA's Goddard Institute for Space Studies (GISS) in New York report that declining greenhouse-gas emissions since the late 1980s have slowed the growth rate of the atmosphere's ability to retain heat. The researchers link the slower rate to implementation of the 1987 Montreal Protocol, in which countries agreed to phase out production of gases that erode the Earth's protective ozone layer. Known collectively as chlorofluorocarbons, these gases also trap heat thousands of times as effectively as carbon dioxide - the main focus of Kyoto. If the rate of increase in greenhouse gases had been maintained at the peak reached in 1980, the climate by 2050 would have reached temperatures not currently anticipated until 2100, when CO 2 concentrations in the atmosphere are expected to have doubled, the researchers calculate. The slowdown also "is due in part to the slower growth of methane and carbon dioxide, for reasons that aren't well understood and need more study," notes James Hansen, the NASA researcher who conducted the study with Makiko Sato, also with the GISS. The slower growth in carbon-dioxide concentrations could be due to increased CO 2 uptake by land-based plants and marine organisms, he suggests. The work grows out of a longer-term effort by the two scientists to explore paths to adjusting the globe's thermostat other than the politically charged effort embodied in the Kyoto Protocol. By focusing on carbon dioxide, the pact sets its sights on curbing the greenhouse gas held most responsible for contributing to the climate's warming during the past century. But curbs on CO 2 mean curbs on burning coal, oil, and natural gas - the fuels of booming economies. Drs. Hansen and Sato argue that policymakers can make significant headway by attacking other pollutants such as black carbon soot, ozone (smog) in the lower atmosphere, and methane from landfills, mining, and oil and gas production. The duo calculates that by reducing methane emissions by 30 percent, for example, the effect on climate would be comparable to the effect from cuts in CO 2 envisioned by the Kyoto Protocol during its first commitment period, which runs from 2008 to 2012. Their study appeared in the Dec. 18, 2001, issue of the Proceedings of the National Academy of Science.
+
+(1) First, you identify all the single words that are morally framed. Identify this step as "STEP 1:" and report each word in a new line starting with *
+(2) Finally, you write a summary of the news article. Please preserve as many morally framed words as possible in your summary. The summary has to be returned after a "SUMMARY:" token and ending with a "END OF SUMMARY." token. The summary should be no longer than 200 words.

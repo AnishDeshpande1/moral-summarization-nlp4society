@@ -1,0 +1,136 @@
+You have to summarize the following text preserving the moral framing that the author gave to it, with particular focus on the specific moral foundations highlighted in the text.
+
+Please study the following examples of news articles and their summaries preserving the moral framing:
+
+Example 1 (Political Ideology: Left, Moral Foundations: Authority/Subversion, Fairness/Cheating, Loyalty/Betrayal):
+Here is the news article:
+
+Trump’s grandiosity manifests itself in ways large and small.
+Through the first-person singular pronoun, he casts himself as the indispensable protagonist in the American story.
+At a Cabinet meeting last week, for example, he said, “I’m the one that did the capturing,” in reference to Islamic State terrorists.
+At another point, he said, “Look, I have the strongest economy ever.”
+
+Perhaps the most extreme expression of Trump’s vaulting self-conception is his use of the word treason.
+Treason is a crime so serious that the framers took steps to ensure that it wouldn’t be misused for partisan purposes.
+It is a betrayal of one’s country, defined in Article III of the Constitution as levying war against the United States, or “adhering to” enemies and giving them “aid and comfort.” That’s not how Trump has sought to define it: disloyalty to a political leader or antipathy for that leader’s behavior.
+
+Trump knows what treason means—or at least he once did.
+Talking to reporters aboard Air Force One in 2017, he described treason as Julius and Ethel Rosenberg passing secrets to the Soviet Union, acts of espionage that led to their execution in 1953.
+The word first popped up in his Twitter feed in September 2018, in reference to an anonymous op-ed in The New York Times describing how executive-branch officials resist Trump’s agenda.
+He has used the word two dozen times this year alone on Twitter, weaponizing it as his anger toward political opponents grows.
+Democrats who opposed his border measures, he tweeted in April, are “TREASONOUS.” Prosecutors working under Special Counsel Robert Mueller, he tweeted that same day, were perpetrating a “Treasonous Hoax!”
+
+The latest enemy of the state is Democratic Representative Adam Schiff of California, the Intelligence Committee chairman who is running the impeachment probe.
+“I want Schiff questioned at the highest level for Fraud & Treason,” Trump tweeted last month.
+The crime: characterizing Trump’s phone call with the Ukrainian president, Volodymyr Zelensky, in a way that didn’t match the rough transcript released by the White House.
+That doesn’t sound like grounds for lethal injection, but Trump doesn’t seem to care.
+Conspiring with Schiff is another traitorous villain, Trump told his 66 million Twitter followers earlier this month: House Speaker Nancy Pelosi, who authorized the impeachment probe.
+
+Trump’s use of the word is anachronistic in the modern era, echoing the way monarchs deployed it in centuries past.
+Carlton Larson, a professor at the UC Davis School of Law and an expert on treason, told me that Trump has misused the term in ways that “confuse loyalty to the country with loyalty to Trump, which is the old English idea that treason was betrayal of the king.
+
+“He’s completely inaccurate, woefully so, in his understanding of it, and it’s quite disturbing,” Larson continued.
+“I can’t think of another president who has tossed around that term so casually.
+In many countries, treason is used as a way to execute political opponents—and it’s because of that that we have a more limited definition.”
+
+SUMMARY:
+
+The article highlights President Trump's grandiose behavior, exemplified by his tendency to use the term "treason" loosely and inaccurately. Trump has used the word to describe political opponents, including Democrats who opposed his border measures, prosecutors working under Special Counsel Robert Mueller, and Democratic Representative Adam Schiff, who is leading the impeachment probe. This misuse of the term is anachronistic and echoes the way monarchs used it in centuries past to justify executing political opponents. Trump's understanding of treason is "woefully inaccurate" and "disturbing," according to a law professor. The article suggests that Trump's behavior is a threat to democratic norms and the rule of law, as he confuses loyalty to the country with loyalty to himself.
+
+END OF SUMMARY.
+
+Example 2 (Political Ideology: Center, Moral Foundations: Care/Harm, Fairness/Cheating):
+Here is the news article:
+
+WASHINGTON — President Trump on Monday said the F.B.I. ruined the life of his former national security adviser and said his Democratic opponent for president, Hillary Clinton, suffered no consequences after she lied “many times” to the F.B.I.
+
+Michael T. Flynn, Mr. Trump’s first national security adviser, pleaded guilty on Friday to lying to the F.B.I. when he was questioned early this year about his conversations with the Russian ambassador.
+He was the fourth person charged in the investigation of Robert S. Mueller III, the special counsel appointed to lead an inquiry into Russia’s influence on the 2016 election and possible ties to Trump associates.
+
+As he left for Utah on Monday, the president said he felt “very badly” for Mr. Flynn, whom he fired in February for lying to the vice president about the content of these conversations.
+
+Mr. Trump’s comments Monday on Mr. Flynn come at a time when the special counsel investigation is focusing intensely on the president’s inner circle.
+Mr. Trump once encouraged Mr. Flynn to seek an immunity deal.
+Presidents typically do not weigh in on federal investigations to avoid appearing to influence the outcome.
+
+“I feel badly for General Flynn,” Mr. Trump said on Monday. “I feel very badly.
+He’s led a very strong life and I feel very badly.
+Hillary Clinton lied many times to the F.B.I. Nothing happened to her.
+Flynn lied and they destroyed his life.”
+
+Mr. Trump did not cite specifically what Mrs. Clinton said that he considered a lie.
+
+Mrs. Clinton gave a voluntary interview to the bureau in July 2016 during its investigation into whether she or her aides broke the law by corresponding through a private email server set up for her use as secretary of state.
+A few days later, the F.B.I. director at the time, James B. Comey, recommended no charges be filed against her in the matter.
+
+SUMMARY:
+
+President Trump has expressed sympathy for his former national security adviser, Michael Flynn, who pleaded guilty to lying to the FBI about his conversations with the Russian ambassador. Trump feels "very badly" for Flynn, whom he fired in February for lying to the vice president. The president contrasted Flynn's fate with that of his Democratic opponent, Hillary Clinton, who he claims lied "many times" to the FBI but faced no consequences. Trump's comments come as the special counsel investigation into Russia's influence on the 2016 election and possible ties to Trump associates is intensifying its focus on his inner circle.
+
+The moral framing of this article suggests that Trump is attempting to deflect attention from his own administration's scandals by pointing fingers at his political opponents. By claiming that Clinton lied to the FBI with impunity, Trump is implying that the justice system is unfair and biased against him and his associates. This narrative is problematic, as it seeks to undermine the integrity of the FBI and the special counsel investigation, and perpetuates a culture of blame-shifting and dishonesty.
+
+END OF SUMMARY.
+
+Example 3 (Political Ideology: Right, Moral Foundations: Authority/Subversion, Fairness/Cheating):
+Here is the news article:
+
+The U.S. House launched the first public hearing Wednesday of Donald Trump’s impeachment investigation, the extraordinary process to determine whether the 45th president of the United States should be removed from office.
+
+Rep. Adam Schiff, the Democratic chairman of the House Intelligence Committee, immediately outlined the question at the core of the impeachment inquiry — whether the president used his office to pressure Ukraine officials for personal political gain.
+
+“The matter is as simple and as terrible as that,” Schiff said.
+“Our answer to these questions will affect not only the future of this presidency but the future of the presidency itself, and what kind of conduct or misconduct the American people may come to expect from their commander in chief.”
+
+It was a remarkable moment, even for a White House full of them.
+The hearing is the first chance for America, and the rest of the world, to see and hear for themselves about Trump's actions toward Ukraine and consider whether they are, in fact, impeachable offenses.
+
+The proceedings were being broadcast live, and on social media, from a packed hearing room on Capitol Hill.
+The country has been here only three times before, and never against the 21st century backdrop of real-time commentary, including from the Republican president himself.
+
+Testifying will be two seasoned diplomats, William Taylor, the graying former infantry officer now charge d'affaires in Ukraine, and George Kent, the deputy assistant secretary in Washington, telling the striking, if sometimes complicated story of a president allegedly using foreign policy for personal and political gain ahead of the 2020 election.
+
+So far, the narrative is splitting Americans, mostly along the same lines as Trump's unusual presidency.
+The Constitution sets a dramatic but vague bar for impeachment, and there's no consensus yet that Trump's actions at the heart of the inquiry meet the threshold of "high crimes and misdemeanors."
+
+Trump calls the whole thing a "witch hunt," a retort that echoes Nixon's own defense.
+“READ THE TRANSCRIPT,” he tweeted Wednesday.
+
+At its core, the inquiry stems from Trump’s July 25 phone call with Ukraine's newly elected president, Volodymyr Zelenskiy when he asked the Zelenskiy for “a favor.”
+
+Trump wanted the Ukraine government to investigate Democrats in the 2016 election and his potential 2020 rival, Joe Biden, all while holding as leverage military aid the young democracy relies on as it confronts an aggressive Russia.
+
+An anonymous whistleblower first alerted officials to concerns about the phone call.
+The White House released a rough transcript of the conversation, with portions deleted.
+
+Democratic House Speaker Nancy Pelosi was initially reluctant to launch a formal impeachment inquiry.
+But she pressed ahead in September after the whistleblower’s complaint.
+
+The White House has instructed administration officials not to testify in the inquiry.
+But over the past month, witness after witness has appeared behind closed doors to tell the investigators what they know.
+
+Most received subpoenas to appear, and both Taylor and Kent had fresh subpoenas Wednesday.
+
+Trump lashed out at the witnesses, tweeting they were “NEVER TRUMPERS,” but the two are career diplomats working for both Republican and Democratic administrations.
+There’s no evidence they engaged in partisan activity opposing Trump.
+
+Whether Wednesday's proceedings begin to end a presidency or help secure Trump's position, it was certain his chaotic term had finally arrived at a place he could not control and a force, the constitutional system of checks and balances, that he could not ignore.
+
+Unlike the Watergate hearings and Richard Nixon, there is not yet a "cancer-on-the-presidency" moment galvanizing public opinion.
+Nor is there the national shrug, as happened when Bill Clinton's impeachment ultimately didn't result in his removal from office.
+It's perhaps most like the partisanship-infused impeachment of Andrew Johnson after the Civil War.
+
+SUMMARY:
+
+The US House has launched the first public hearing of Donald Trump's impeachment investigation, a historic process to determine whether the President should be removed from office. The inquiry centers on whether Trump used his office to pressure Ukraine officials for personal political gain. Rep. Adam Schiff emphasized that the answer to this question will affect not only Trump's presidency but the future of the office itself. Two seasoned diplomats, William Taylor and George Kent, testified about Trump's alleged use of foreign policy for personal and political gain ahead of the 2020 election. The narrative has split Americans, with Trump calling the inquiry a "witch hunt." The Constitution sets a vague bar for impeachment, and it's unclear if Trump's actions meet the threshold of "high crimes and misdemeanors." The inquiry stems from Trump's July 25 phone call with Ukraine's president, where he asked for a "favor" to investigate Democrats and his potential 2020 rival, Joe Biden. The hearing marks a significant moment in Trump's presidency, where his chaotic term has finally reached a point he cannot control.
+
+END OF SUMMARY.
+
+Now, here is the target news article to summarize:
+Here is the news article:
+
+Harvard Law School professor and self-described liberal Democrat Alan Dershowitz slammed congressional Democrats Sunday, comparing them to the Russian secret police under the murderous dictator Josef Stalin for their efforts to impeach President Trump. Speaking on John Catsimatidis' radio show, Dershowitz said that every American should be "frightened" by the Democrats' efforts to "create crimes out of nothing." "The latest twist was people on television, particularly CNN and MSNBC, are saying that if the president or somebody else was to name the whistleblower in the Ukrainian situation, that person would be guilty of a crime. I said in the afternoon yesterday — searching the federal criminal statutes from beginning to end — I couldn't find the crime. It reminds me of Lavrentiy Beria, head of the KGB, said to Stalin, he said, 'Show me the man and I'll find you the crime.' Which he really meant, 'I'll make up the crime.'" "And so the Democrats are now making up crimes," Dershowitz continued. "First they made up collusion. 'Ahh! Collusion. It's a crime!' I searched the statute books. There's no crime of collusion except when businessmen get together to collude against the anti-trust laws, but no crime of collusion with a foreign country. Then after that, they said 'obstruction of Congress.' No, no, no, no, no. Obstruction of justice is a crime; obstruction of Congress is part of our system of checks and balances. If you get a subpoena from Congress, and you're the president or in the executive department, and you think you have an executive privilege, you have an obligation not to respond. That's not 'obstruction of Congress,' that's checks and balances under our Constitution." Dershowitz argued that in desperate effort to try to impeach President Trump, the Democrats are "just making crimes up ... and that means we are all in danger." "The ACLU should be up in arms, but they're silent," he concluded. Dershowitz, though a longtime liberal Democrat, has been scorned by Democrats lately due to his penchant for criticizing their impeachment efforts against President Trump. Since he began making the case against Trump's impeachment, he has been a regular guest on Fox News but has seen his invitations for appearance with left-leaning media corporations diminish. Dershowitz lambasted CNN specifically for their biased treatment, saying, "CNN has banned me from their airwaves; CNN will not allow me on their network," he said. "Because they don't want a liberal Democrat to be telling their viewers the truth about the Constitution." "Instead they have people out there who are just parroting the party line over and over and over again and misleading their viewers."
+
+For this target article, the author's moral framing heavily relies on the following Moral Foundation dimensions: Authority/Subversion, Care/Harm, Fairness/Cheating.
+Please pay special attention to preserving the moral framing related to these specific dimensions (Authority/Subversion, Care/Harm, Fairness/Cheating) in your summary.
+
+The summary has to be returned after a "SUMMARY:" token and ending with a "END OF SUMMARY." token. The summary should be no longer than 200 words.

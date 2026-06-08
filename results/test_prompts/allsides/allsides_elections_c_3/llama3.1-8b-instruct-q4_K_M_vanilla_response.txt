@@ -1,0 +1,7 @@
+SUMMARY:
+
+Cyberattacks on political organizations this summer have raised concerns about the integrity of the US election, with 38% of Americans worried that the election could be hacked. A survey by Carbon Black found that 1 in 5 respondents might not vote due to these fears, potentially affecting 15 million people. The Obama administration has blamed Russia for orchestrating a hacking campaign to sway public opinion and undermine trust in the election. Guccifer 2.0, a group claiming responsibility for the hack on the Democratic National Committee, hinted at more Election Day tampering over the weekend.
+
+Experts warn that even if hackers can't compromise actual voting systems, the internet campaign to spread fear of vote hacking may have a major impact on public trust. Republican candidate Donald Trump's claims that the election could be rigged have also contributed to concerns about the legitimacy of the vote. State officials are on guard for any potential signs of tampering and note that other disruptions, such as false fire alarms, can also affect the voting process.
+
+END OF SUMMARY.

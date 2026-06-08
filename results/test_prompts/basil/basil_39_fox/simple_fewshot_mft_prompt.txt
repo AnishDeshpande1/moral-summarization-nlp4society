@@ -1,0 +1,118 @@
+You have to summarize the following text preserving the moral framing that the author gave to it, with particular focus on the specific moral foundations highlighted in the text.
+
+Please study the following examples of news articles and their summaries preserving the moral framing:
+
+Example 1 (Political Ideology: Left, Moral Foundations: Authority/Subversion, Care/Harm, Fairness/Cheating):
+Here is the news article:
+
+Mary Cheney, the younger sister of Wyoming U.S Senate candidate Liz Cheney (R) and daughter of former Vice President Dick Cheney, criticized her sister's opposition to same-sex marriage in a Friday Facebook post, the New York Times reports.
+
+According to the Times, Mary Cheney, who is openly gay and married her partner, Heather Poe, in Washington, DC last year, took to Facebook to rebuke her sister's remarks.
+
+“For the record, I love my sister, but she is dead wrong on the issue of marriage," she wrote.
+
+"Freedom means freedom for everyone," she continued.
+"That means that all families — regardless of how they look or how they are made — all families are entitled to the same rights, privileges and protections as every other."
+
+On Friday, Liz Cheney issued a statement voicing her opposition to same-sex marriage.
+
+"I am strongly pro-life and I am not pro-gay marriage," she said.
+“I believe the issue of marriage must be decided by the states, and by the people in the states, not by judges and not even by legislators, but by the people themselves."
+
+The elder Cheney daughter is challenging Sen. Mike Enzi (R-Wyo.) in next year's Republican primary.
+Previously, she had spoken out against the military's former "don't ask, don't tell" policy.
+
+According to The Hill, Cheney sought to clarify her position after an alleged poll in Wyoming said she "supports abortion and aggressively promotes gay marriage."
+
+Her opposition also puts her at odds with her father, who offered support for gay marriage in 2009.
+
+"I think that freedom means freedom for everyone," the former vice president said.
+"As many of you know, one of my daughters is gay and it is something we have lived with for a long time in our family.
+I think people ought to be free to enter into any kind of union they wish."
+
+SUMMARY:
+
+Mary Cheney, the openly gay sister of Wyoming U.S. Senate candidate Liz Cheney, publicly criticized her sister's opposition to same-sex marriage on Facebook. Mary Cheney emphasized that "freedom means freedom for everyone" and that all families, regardless of their composition, deserve equal rights and protections. In contrast, Liz Cheney stated that she is "not pro-gay marriage" and believes the issue should be decided by the states and their people, rather than by judges or legislators. This stance puts Liz Cheney at odds with her father, former Vice President Dick Cheney, who has expressed support for gay marriage. The moral framing of this story highlights the importance of equality, freedom, and family values. It also raises questions about the role of personal relationships and experiences in shaping one's political beliefs and values.
+
+END OF SUMMARY.
+
+Example 2 (Political Ideology: Center, Moral Foundations: Care/Harm, Fairness/Cheating):
+Here is the news article:
+
+From his home at Mar-a-Lago, Donald J. Trump stirred up new controversy this week in the Republican presidential primary — and new alarm among party leaders that the front-runner for the nomination will drive away women from candidates running farther down the ballot in the fall.
+
+All week, Mr. Trump has slowly escalated a war of words on Twitter against Senator Ted Cruz of Texas, his main competition in the Republican race, based on an ad by a “super PAC” started by people who want to stop the New York developer from getting the nomination.
+The spot featured an old nude photo shoot of Mr. Trump’s wife Melania Trump, a former model, posing on his jet.
+
+Mr. Cruz has no affiliation with the super PAC, and he has denounced the ad.
+But Mr. Trump has continued to express disbelief.
+After threatening to “spill the beans” on Mr. Cruz’s wife, Heidi Cruz, who suffered a bout of depression years ago, he retweeted a post from someone who made a side-by-side photo comparison of Mrs. Cruz at an unflattering angle, and Mrs. Trump.
+
+On Wednesday, Mr. Cruz repeatedly quoted from the movie “The American President” to defend his wife, as she held an event and faced questions about Mr. Trump’s threats.
+But that was before Mr. Trump’s Twitter post with the pictures of the two women.
+And Mr. Cruz had finally had enough.
+
+Calling Mr. Trump a “sniveling coward,” Mr. Cruz told his rival to “leave Heidi the hell alone.”
+
+It’s useful to remember the news media outrage in 2012 when Todd Akin, running as the Republican nominee for Senate in Missouri, defended what he called “legitimate rape,” a remark that was overwhelmingly offensive to women.
+Under pressure from news outlets, the Republican Party tried to cauterize the wound that Mr. Akin had created by isolating him.
+
+Spouses are generally seen as off limits.
+And the responses to Mr. Trump’s comments among news media critics, over time, have been far more subdued.
+
+SUMMARY:
+
+Donald Trump has sparked outrage in the Republican presidential primary by attacking his rival Ted Cruz's wife, Heidi, on Twitter. Trump retweeted a post comparing an unflattering photo of Heidi Cruz to a glamorous photo of his own wife, Melania. This move has been widely condemned as a cowardly and offensive attack on a political opponent's spouse. The incident has raised concerns among party leaders that Trump's behavior will drive away women voters in the fall election. The media's response to Trump's comments has been surprisingly muted compared to the outcry over Todd Akin's "legitimate rape" remark in 2012. The incident highlights the importance of respecting personal boundaries and not using spouses as pawns in political battles. Trump's actions have been called out as sniveling and cowardly, and his behavior has sparked widespread alarm.
+
+END OF SUMMARY.
+
+Example 3 (Political Ideology: Right, Moral Foundations: Authority/Subversion, Care/Harm, Fairness/Cheating, Loyalty/Betrayal):
+Here is the news article:
+
+Christian leaders are responding with love, concern and warnings of civil disobedience in the aftermath of the Supreme Court's historical decision on marriage.
+
+The high court has declared that same-sex couples have a constitutional right to marry anywhere in the United States.
+
+They have already had the right in 36 states and the District of Columbia.
+Now, the remaining 14 states will no longer be allowed to uphold their definitions of traditional marriage.
+
+Former governor and presidential candidate Mike Huckabee tweeted that the ruling is "an out-of-control act of unconstitutional judicial tyranny."
+
+Bob Vander Plaats, a conservative activist in Iowa, told supporters the court "succumbed to demands to invent a new constitutional 'right' never imagined by our Founders."
+
+What impact with the gay marriage ruling have on religious liberty?
+CBN News spoke with Austin Nimocks of the Alliance Defending Freedom for his perspective.
+
+Rev. Albert Mohler, the president of the Southern Baptist Theological Seminary, admonished followers in a tweet, "the challenge for Christians now is to speak the truth in love and to speak love in truth.
+Love of neighbor means we cannot lie about marriage."
+
+Many Christian leaders believe the ruling will create a restricted role for people of faith in American society.
+
+"The Supreme Court has stripped all Americans of our freedom to debate and decide marriage policy through the democratic process," Jim Campbell, of the Alliance Defending Freedom Senior Legal Counsel, said.
+"The freedom to democratically address the most pressing social issues of the day is the heart of liberty."
+
+Many faith leaders believe the Supreme Court ruling recognizing gay marriage will put religious liberty will be at risk.
+
+In the weeks before the ruling came down, the Southern Baptist Convention partnered with the Alliance Defending Freedom to provide guidance for churches and other faith-based institutions called Protecting Your Ministry.
+CBN News interviewed Dr. Russell Moore about the booklet earlier this month.
+
+Rev. Samuel Rodriguez says the decision "serves as a defacto and legal catalyst for the marginalization of Americans who embrace a biblical worldview."
+
+Many leaders, such as Liberty Counsel's Mat Staver, have already called for civil disobedience in response to such a ruling.
+Others individuals and organizations are studying the ruling to determine the best ways to respond.
+
+SUMMARY:
+
+Christian leaders are responding with concern and warnings of civil disobedience after the Supreme Court's decision to legalize same-sex marriage nationwide. Many see this ruling as an attack on religious liberty and the democratic process. Rev. Albert Mohler emphasizes the importance of speaking the truth in love, while others, like Mike Huckabee and Bob Vander Plaats, condemn the ruling as "judicial tyranny" and an invention of a new constitutional right. Faith leaders believe this decision will restrict the role of people of faith in American society and put religious liberty at risk. Some, like Mat Staver, are already calling for civil disobedience in response. The ruling is seen as a threat to the freedom to debate and decide on social issues, which is essential to liberty. Christian leaders are urging followers to stand firm in their beliefs and to respond with love and truth.
+
+END OF SUMMARY.
+
+Now, here is the target news article to summarize:
+Here is the news article:
+
+Call it Cheney versus Cheney. Mary Cheney, one of ex-Vice President Dick Cheney’s two daughters, has taken to Facebook to blast her older sibling, Elizabeth, a Wyoming Senate candidate, for the latter’s stance on same-sex marriage, The New York Times is reporting. Mary Cheney, openly lesbian and married to Heather Poe since 2012, reportedly posted to her personal page on the social media site: “For the record, I love my sister, but she is dead wrong on the issue of marriage. “Freedom means freedom for everyone. That means that all families — regardless of how they look or how they are made — all families are entitled to the same rights, privileges and protections as every other.” The Times reports Liz Cheney on Friday first articulated her position on the controversial subject, saying it should be something for voters to decide on a state-by-state basis, and not a matter for “judges” or “legislators.” “I am not pro-gay marriage,” Liz Cheney reportedly said. “I believe the issue of marriage must be decided by the states, and by the people in the states, not by judges and not even by legislators, but by the people themselves.” Her sister replied by pulling no punches. “It’s not something to be decided by a show of hands,” Mary Cheney reportedly wrote on her personal Facebook page, concluding her internecine post by saying, “Please like and share if you agree.” Elizabeth Cheney declared in July she plans to challenge incumbent Senator Mike Enzi, also a Republican, in the state’s Republican primary. The election is slated for 2014. Former Vice President Cheney has publicly voiced support for same-sex marriage and, mirroring Elizabeth’s stance, has reportedly said the matter should be decided on a state-by-state basis.
+
+For this target article, the author's moral framing heavily relies on the following Moral Foundation dimensions: Care/Harm.
+Please pay special attention to preserving the moral framing related to these specific dimensions (Care/Harm) in your summary.
+
+The summary has to be returned after a "SUMMARY:" token and ending with a "END OF SUMMARY." token. The summary should be no longer than 200 words.

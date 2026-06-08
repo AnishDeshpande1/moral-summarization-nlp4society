@@ -1,0 +1,147 @@
+You have to summarize the following text preserving the moral framing that the author gave to it.
+
+Please study the following examples of news articles and their summaries preserving the moral framing:
+
+Example 1 (Political Ideology: Left):
+Here is the news article:
+
+Vision benefits are among those that will now be available to same-sex spouses.
+Benefits open to same-sex spouses
+
+The same-sex spouses of federal employees can begin applying for benefits including health insurance and retirement accounts immediately, the Obama administration said Friday, two days after the Supreme Court overturned a key provision of the Defense of Marriage Act.
+
+The Office of Personnel Management offered the guidance in a letter to the heads of executive departments and agencies, detailing access to many of the benefits to which legally married same-sex spouses will now have the same access heterosexual married couples do, including health, life, dental, vision and long-term care insurance.
+
+The memo, signed by acting director Elaine Kaplan, does not go into detail about the benefits available to same-sex couples who marry in one state but live in another where those unions are not legal.
+By omitting a specific reference to state laws, and repeating that benefits will be available to all legally married couples, OPM appears to be making the case that couples will have access to the listed benefits regardless of the state in which they live.
+
+President Barack Obama said Thursday that, “speaking as a president, not a lawyer,” he believes couples married in one state should be treated as married in all 50 states, but that his administration is working on the legalities of making that reality.
+
+In a statement Friday, the president applauded the expansion of access to federal benefits.
+“This is a critical first step toward implementing this week’s landmark Supreme Court decision declaring that all married couples — gay and straight — should be treated equally under federal law,” he said.
+“Thousands of gays and lesbians serve our country every day in the federal government.
+They, and their spouses and children, deserve the same respect and protection as every other family.
+
+Under the president’s direction, the Justice Department is leading the implementation of the repeal of Section 3 of DOMA.
+After the high court’s Wednesday ruling, Defense Secretary Chuck Hagel also said that the Pentagon will move quickly to expand benefits to same-sex couples.
+
+Attorney General Eric Holder welcomed Friday’s announcement.
+“Americans in same-sex marriages are entitled to equal protection and equal treatment under the law,” he said in a statement.
+“By extending health insurance and other important benefits to federal employees and their families, regardless of whether they are in same-sex or opposite-sex marriages, the Obama administration is making real the promise of this important decision.”
+
+The changes announced Friday “will make a meaningful, positive difference in the lives of many,” Holder said.
+“As the president directed, the Department of Justice will continue to coordinate with other federal agencies to implement this ruling as swiftly and smoothly as possible.
+I look forward to sharing additional information as it becomes available..”
+
+SUMMARY:
+
+The Obama administration has announced that same-sex spouses of federal employees can now apply for benefits, including health insurance and retirement accounts, following the Supreme Court's decision to overturn a key provision of the Defense of Marriage Act. This move marks a significant step towards implementing the court's landmark decision, which declared that all married couples, gay and straight, should be treated equally under federal law. The administration's guidance ensures that legally married same-sex spouses will have the same access to benefits as heterosexual married couples, regardless of the state in which they live. President Obama, Attorney General Eric Holder, and Defense Secretary Chuck Hagel have all welcomed the expansion of benefits, emphasizing that same-sex couples and their families deserve equal respect and protection under the law. This decision will make a meaningful, positive difference in the lives of many, and the administration will continue to work towards a swift and smooth implementation of the ruling.
+
+END OF SUMMARY.
+
+Example 2 (Political Ideology: Center):
+Here is the news article:
+
+WASHINGTON — It is a lesson politicians never seem to learn from others’ mistakes: The microphone is always on.
+
+The latest candidate to learn the hard way was Representative Bruce Braley, an Iowa Democrat running for Senate this year.
+Mr. Braley apologized to Senator Charles E. Grassley, Republican of Iowa, and “anyone I may have offended” after video emerged of him warning that “a farmer from Iowa who never went to law school, never practiced law” could become chairman of the Judiciary Committee.
+
+Mr. Braley is not running against Mr. Grassley, who plans to seek a seventh term in 2016.
+But as the ranking Republican on the Judiciary Committee, Mr. Grassley could assume the chairmanship if his party takes control of the Senate this year.
+Mr. Braley, speaking at a January fund-raiser in Corpus Christi, Tex., was explaining why he should go to the Senate instead of his Republican opponent.
+
+America Rising, a conservative political action committee that has vowed to use videos and opposition research to attack Democratic candidates, posted the footage on YouTube on Tuesday.
+Other Republicans quickly criticized Mr. Braley.
+
+Though their numbers are declining, farmers are still a powerful force in the Iowa, which ranks second in the country in total farm sales.
+Mr. Braley’s apology noted his family’s history with Iowa agriculture, including his own stint “doing farm jobs and working a grain elevator.”
+
+In another appeal to Iowa farmers, Joni Ernst, a candidate in the Republican Senate primary on June 3, announced in an ad that she grew up “castrating hogs on an Iowa farm.”
+Ms. Ernst said that qualified her to “cut pork” in Washington.
+
+SUMMARY:
+
+In a cautionary tale of the dangers of unguarded comments, Representative Bruce Braley, an Iowa Democrat running for Senate, was forced to apologize after a video emerged of him making disparaging remarks about farmers. At a January fundraiser, Braley warned that a farmer from Iowa without a law degree could become chairman of the Judiciary Committee, implying that such a person would be unqualified for the role. The video was posted online by a conservative political action committee, and Braley's comments were quickly criticized by Republicans. Braley apologized, citing his own family's history with Iowa agriculture, but the incident serves as a reminder that politicians should always assume the microphone is on. The episode also highlights the importance of appealing to Iowa's powerful farming community, as evidenced by Republican candidate Joni Ernst's ad touting her farm upbringing as qualification to "cut pork" in Washington. 
+
+END OF SUMMARY.
+
+Example 3 (Political Ideology: Right):
+Here is the news article:
+
+Colorado's top cop defends pot law after challenges from neighboring states
+
+Denver (AP) – Colorado's top law enforcement official promises to vigorously defend the state's historic law legalizing marijuana after Nebraska and Oklahoma asked the U.S. Supreme Court to declare it unconstitutional, saying the drug is freely flowing into neighboring states.
+
+The two states filed a lawsuit seeking a court order to prevent Colorado from enforcing the measure known as Amendment 64, which was approved by voters in 2012 and allows recreational marijuana for adults over 21.
+The complaint says the measure runs afoul of federal law and therefore violates the Constitution's supremacy clause, which says federal laws trump state laws.
+
+Colorado Attorney General John Suthers said the lawsuit was without merit.
+
+"Because neighboring states have expressed concern about Colorado-grown marijuana coming into their states, we are not entirely surprised by this action," he said.
+"However, it appears the plaintiffs' primary grievance stems from non-enforcement of federal laws regarding marijuana, as opposed to choices made by the voters of Colorado."
+
+The lawsuit says Colorado marijuana flows into neighboring states undermining their efforts to enforce their anti-marijuana laws.
+
+"This contraband has been heavily trafficked into our state," Nebraska Attorney General Jon Bruning said at a news conference in Lincoln.
+"While Colorado reaps millions from the sale of pot, Nebraska taxpayers have to bear the cost."
+
+Colorado has raised more than $60 million in taxes, licenses and fees from medical and recreational marijuana, which has been sold in stores since January.
+
+The lawsuit says the sales have strained Nebraska and Oklahoma's finances and legal systems.
+Police are spending more time and money making arrests, housing inmates, impounding vehicles, seizing drugs and handling other problems related to Colorado pot.
+
+Bruning, a Republican, blamed U.S. Attorney General Eric Holder for failing to enforce the federal law's ban on drugs in Colorado.
+
+In a policy statement last year, the U.S. Justice Department noted it doesn't have the resources to police all violations of federal marijuana law.
+It laid out eight federal law enforcement priorities that states need to protect if they want to authorize "marijuana-related conduct."
+They include keeping marijuana in-state — something Oklahoma and Nebraska says Colorado has failed to do.
+The suit doesn't contain statistics to support the claim.
+
+Law enforcement agencies have long said anecdotally that they are feeling the impacts of Colorado's legal weed, making more marijuana arrests and seizing more of the drug.
+
+But there's no way to know exactly how much legal pot is leaving Colorado.
+
+The Rocky Mountain High Intensity Drug Trafficking Area wrote in a recent report that the amount of Colorado pot seized on highways increased from an annual average of 2,763 pounds between 2005 and 2008 to a yearly average of 3,690 pounds from 2009 to 2013.
+The weed was headed for at least 40 different states.
+
+Scotts Bluff County Sheriff Mark Overman, in western Nebraska, said Colorado marijuana is extra potent, making it worth more in his region and giving sellers a greater financial incentive to do business there.
+
+"I think this is overdue, and I think other states should jump on board," Overman said of the lawsuit.
+"I'm very frustrated.
+I take an oath of office, as does every other police officer in this country.
+I don't just get to pick and choose which laws I enforce."
+
+Colorado Gov. John Hickenlooper told The Denver Post he spoke with Nebraska and Oklahoma officials about their concerns.
+
+"I'm not sure filing a lawsuit is the most constructive way to find a solution to whatever issues they are," he said.
+
+Legal scholars say it's too early to know how the Supreme Court might handle the case or if it will even accept it.
+
+"Right now, these regulations exist in legal no-man's-land," said Sam Kamin, a University of Denver law professor.
+"It's incredibly unusual for a state to be suing another state.
+(The lawsuit) certainly was a surprise to me given the movement at the federal level, which seems to be in favor of allowing states to experiment."
+
+It was unclear if other neighboring states would take similar action.
+Attorneys general in Utah and New Mexico said they had no immediate plans to join the suit.
+
+Brian Vicente, a Colorado attorney and legalization advocate who wrote Amendment 64, said the challenge is "political grandstanding" without merit.
+He said 23 states have enacted medical marijuana laws, and none have been overturned because of federal law.
+
+"I think it shows they are on the wrong side of history," Vicente said.
+"Colorado voters passed this measure, and more and more states are passing these laws.
+If the attorney general has a problem with how federal laws are being enforced he should bring that up with the U.S.
+attorney."
+
+SUMMARY:
+
+Colorado's Attorney General John Suthers is defending the state's marijuana law after neighboring states Nebraska and Oklahoma filed a lawsuit claiming it's unconstitutional. The lawsuit argues that Colorado's law, which allows recreational marijuana for adults, violates federal law and is causing marijuana to flow into their states, undermining their anti-marijuana laws. However, Suthers believes the lawsuit is without merit and that the real issue is the non-enforcement of federal laws regarding marijuana. Colorado has raised over $60 million in taxes and fees from marijuana sales, while Nebraska and Oklahoma claim they are bearing the costs of policing and housing inmates related to Colorado pot. The lawsuit has sparked debate, with some law enforcement officials supporting the challenge and others calling it "political grandstanding" without merit.
+
+END OF SUMMARY.
+
+Now, here is the target news article to summarize:
+Here is the news article:
+
+Nebraska, Oklahoma File Federal Suit Against Colorado Over Marijuana Legalization The states of Nebraska and Oklahoma filed a federal lawsuit in the U.S. Supreme Court Thursday, claiming that Colorado's legalization of recreational marijuana is unconstitutional under federal law. "Federal law undisputedly prohibits the production and sale of marijuana," Nebraska Attorney General Jon Bruning said Thursday in a statement. "Colorado has undermined the United States Constitution, and I hope the U.S. Supreme Court will uphold our constitutional principles." But Colorado Attorney General John Suthers isn't backing down. In a statement, he said he intends to defend the state's marijuana laws. “Because neighboring states have expressed concern about Colorado-grown marijuana coming into their states, we are not entirely surprised by this action," Suthers said. "However, it appears the plaintiffs’ primary grievance stems from non-enforcement of federal laws regarding marijuana, as opposed to choices made by the voters of Colorado. We believe this suit is without merit and we will vigorously defend against it in the U.S. Supreme Court.” Bruning, along with Oklahoma Attorney General Scott Pruitt, argue that under the U.S. Constitution's Supremacy Clause, Colorado's legalization of recreational marijuana is unconstitutional because marijuana remains illegal under federal law. The clause states that in general, federal law takes precedence over state law. "The illegal products being distributed in Colorado are being trafficked across state lines thereby injuring neighboring states like Oklahoma and Nebraska," Pruitt said in a statement. The regulation of recreational marijuana -- as seen in programs currently in place in Colorado and Washington state, as well as those that will soon go into effect in Oregon and Alaska -- remains illegal under the 1970 Controlled Substances Act. The states that have legalized marijuana or softened penalties for possession have only been able to do so because of federal guidance urging federal prosecutors to refrain from targeting state-legal marijuana operations. Colorado voters approved Amendment 64, legalizing recreational marijuana in the state, in 2012. The first retail marijuana shops opened their doors on New Years Day 2014. To date, 23 states and the District of Columbia have legalized marijuana for medical purposes. Four states have legalized recreational marijuana, along with voters in D.C. -- though the D.C. measure is the subject of a congressional Republican effort to block its implementation. With a majority of Americans now supporting marijuana legalization, and with states continuing to pass legalization laws, it seems unlikely that the federal government would push back against the legalizations. But it's not impossible. If the Supreme Court were to rule in favor of Nebraska and Oklahoma, all state marijuana laws, in any form, could be in jeopardy of being unraveled. Harvard economist Jeff Miron, a vocal supporter of marijuana policy reform, highlighted the precarious nature of state marijuana laws in a November op-ed for CNN, saying that Congress needs to act now on federal marijuana policy. "Despite the compelling case for legalization, and progress toward legalization at the state level, ultimate success is not assured," Miron wrote. "Federal law still prohibits marijuana, and existing jurisprudence (Gonzales v. Raich 2005) holds that federal law trumps state law when it comes to marijuana prohibition. So far, the federal government has mostly taken a hands-off approach to state medicalizations and legalizations, but in January 2017, the country will have a new president. That person could order the attorney general to enforce federal prohibition regardless of state law." Kevin Sabet, president of anti-legalization group Smart Approaches to Marijuana, applauded the action by Nebraska and Oklahoma. "We support this action by the attorneys general of Oklahoma and Nebraska because Colorado's decisions regarding marijuana are not without consequences to neighboring states, and indeed all Americans," Sabet said. "The legalization of marijuana is clearly in violation of the federal Controlled Substances Act and is not implemented in a vacuum." Mason Tvert, communications director for Marijuana Policy Project, told The Huffington Post that MPP agrees with Suthers' opinion that the suit is "without merit." "Nebraska officials are acting like bullies, and they have no business trying to dictate Colorado's marijuana laws," Tvert said to HuffPost. "They are wasting their taxpayers’ dollars by filing this suit and forcing Coloradans to pick up the bill for defending our state against it. Colorado's top law enforcement officials have better things to do and you’d think Nebraska’s would, as well. These guys are on the wrong side of history." Marijuana Industry Group's Mike Elliott echoed Tvert's sentiments, adding that despite the multi-decade federal war on drugs, marijuana remains "universally available" -- including in Nebraska and Oklahoma. "If Nebraska and Oklahoma succeed, they will put the violent criminal organizations back in charge," Elliott said. Rep. Jared Polis (D-Colo.), a vocal supporter of drug policy reform who has sponsored multiple bills seeking protection for state-legal marijuana businesses and advocated full-scale federal legalization of the drug, told HuffPost that Nebraska and Oklahoma attempting to overturn the will of Colorado's voters is "outrageous." "Our federalist system is based on individual states of being able to enact policies that benefit their citizens, without the interference of other states," Polis said.
+
+The summary has to be returned after a "SUMMARY:" token and ending with a "END OF SUMMARY." token. The summary should be no longer than 200 words.

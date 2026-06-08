@@ -1,0 +1,218 @@
+You have to summarize the following text preserving the moral framing that the author gave to it, with particular focus on the specific moral foundations highlighted in the text.
+
+Please study the following examples of news articles, their moral word extraction, and summaries preserving the moral framing:
+
+Example 1 (Political Ideology: Left, Moral Foundations: Authority/Subversion, Care/Harm, Fairness/Cheating, Loyalty/Betrayal):
+Here is the news article:
+
+Vision benefits are among those that will now be available to same-sex spouses.
+Benefits open to same-sex spouses
+
+The same-sex spouses of federal employees can begin applying for benefits including health insurance and retirement accounts immediately, the Obama administration said Friday, two days after the Supreme Court overturned a key provision of the Defense of Marriage Act.
+
+The Office of Personnel Management offered the guidance in a letter to the heads of executive departments and agencies, detailing access to many of the benefits to which legally married same-sex spouses will now have the same access heterosexual married couples do, including health, life, dental, vision and long-term care insurance.
+
+The memo, signed by acting director Elaine Kaplan, does not go into detail about the benefits available to same-sex couples who marry in one state but live in another where those unions are not legal.
+By omitting a specific reference to state laws, and repeating that benefits will be available to all legally married couples, OPM appears to be making the case that couples will have access to the listed benefits regardless of the state in which they live.
+
+President Barack Obama said Thursday that, “speaking as a president, not a lawyer,” he believes couples married in one state should be treated as married in all 50 states, but that his administration is working on the legalities of making that reality.
+
+In a statement Friday, the president applauded the expansion of access to federal benefits.
+“This is a critical first step toward implementing this week’s landmark Supreme Court decision declaring that all married couples — gay and straight — should be treated equally under federal law,” he said.
+“Thousands of gays and lesbians serve our country every day in the federal government.
+They, and their spouses and children, deserve the same respect and protection as every other family.
+
+Under the president’s direction, the Justice Department is leading the implementation of the repeal of Section 3 of DOMA.
+After the high court’s Wednesday ruling, Defense Secretary Chuck Hagel also said that the Pentagon will move quickly to expand benefits to same-sex couples.
+
+Attorney General Eric Holder welcomed Friday’s announcement.
+“Americans in same-sex marriages are entitled to equal protection and equal treatment under the law,” he said in a statement.
+“By extending health insurance and other important benefits to federal employees and their families, regardless of whether they are in same-sex or opposite-sex marriages, the Obama administration is making real the promise of this important decision.”
+
+The changes announced Friday “will make a meaningful, positive difference in the lives of many,” Holder said.
+“As the president directed, the Department of Justice will continue to coordinate with other federal agencies to implement this ruling as swiftly and smoothly as possible.
+I look forward to sharing additional information as it becomes available..”
+
+STEP 1:
+* equal
+* respect
+* protection
+* equal
+* entitled
+* equal
+* promise
+* meaningful
+* positive
+* swiftly
+* smoothly
+
+SUMMARY:
+The Obama administration has announced that same-sex spouses of federal employees can now apply for benefits, including health insurance and retirement accounts, immediately following the Supreme Court's overturn of the Defense of Marriage Act. This move is a "critical first step" towards implementing the landmark decision, ensuring that all married couples, gay and straight, are treated equally under federal law. President Obama believes that couples married in one state should be treated as married in all 50 states, and his administration is working on the legalities of making this a reality. The expansion of access to federal benefits is a step towards providing equal respect and protection to all families, regardless of sexual orientation. The Justice Department will continue to coordinate with other federal agencies to implement this ruling as swiftly and smoothly as possible. This change will make a meaningful, positive difference in the lives of many. END OF SUMMARY.
+
+Example 2 (Political Ideology: Center, Moral Foundations: Authority/Subversion, Care/Harm):
+Here is the news article:
+
+“The 360” shows you diverse perspectives on the day’s top stories and debates.
+
+What’s happening
+
+At least 54,000 residents and workers at nursing homes and other elder-care facilities have died of COVID-19 in the United States, according to data compiled by the New York Times in late June.
+The U.S. has more deaths connected to nursing homes than any country other than Brazil has in total.
+
+COVID-19 has proved to be especially dangerous for the elderly.
+People over 65 represent more than three-quarters of America’s nearly 131,000 coronavirus deaths.
+The age of nursing home residents, combined with the ease with which the virus spreads in communal spaces, has led to devastating outbreaks.
+Some facilities have been connected to more than 70 deaths.
+
+Across the U.S., there are about 1.4 million people living in nursing homes.
+Though their residents make up less than 1 percent of the country’s population, nursing homes account for more than 40 percent of America’s COVID-19 deaths.
+The fatality rate for nursing home residents who contract the virus is more than three times the national average, according to the New York Times.
+
+Why there’s debate
+
+To some experts, the coronavirus has highlighted flaws in the U.S. nursing home system that can only be fixed by radically changing the way the country cares for the elderly.
+Critics argue that nursing homes were vulnerable to the virus not just because they house older people in tight quarters, but also because of long-standing problems like limited resources, poor government support, underpaid staff, lack of oversight and financial structures that incentivize substandard care.
+The size of the country’s older population is expected to nearly double by 2050, which could further strain the already strained nursing home system.
+
+A better plan, some argue, would be a major increase in at-home care for seniors supported by government funds, new technology and community members.
+Some studies suggest that at-home care is cheaper and leads to better health outcomes.
+Shifting the majority of elder care to the home would allow nursing homes to focus on supporting people with intensive health needs, experts say.
+
+Others say a massive restructuring of elder care could leave behind poor people and people of color, who are less likely to have stable housing and the money needed to support at-home care.
+Many of the issues with the current system, they argue, can be fixed through more funding for care and staff pay, a more equitable health care system and more government accountability.
+
+Perspectives
+
+The government should help fund at-home care for seniors
+
+“The desire is there to stay at home, but until the government takes action, nothing will change.
+Maybe the extraordinary events of the past few months will finally be the catalyst we need to move forward to aging at home.” — Julian Gray and Frank Petrich, Pittsburgh Post-Gazette
+
+The virus has drawn attention to ongoing problems with nursing homes
+
+“The pandemic doesn’t have many silver linings, but as the number of nursing-home deaths piles up, the news media is being forced to cover a world many of us would prefer to ignore.” — Charles C. Camosy, New York Times
+
+Technology and family support can ease the burden of at-home care
+
+“One alternative is supporting in-home care for seniors to age in place, undergirded by technology that can virtually detect falls, provide companionship through robotics, monitor the frequency of sleeping and toilet visits, or even check how often the fridge door is opened.
+The pandemic should prompt us to explore these alternatives, or options for generational living where grandparents reside with younger generations, contributing to the mortgage and pitching in with child care.” — Michele L. Norris, Washington Post
+
+The country needs to prepare for a major spike in the elderly population
+
+“Long, full lives are our new normal — thanks in no small part to modern medicine.
+If the coronavirus pandemic has upsides, I hope one is that it challenges doctors, politicians, and everyone else to more thoughtfully adapt to this new reality for the human species.” — Louise Aronson, Atlantic
+
+STEP 1:
+* devastating
+* flaws
+* vulnerable
+* poor
+* underpaid
+* lack
+* substandard
+* strained
+* better
+* cheaper
+* intensive
+* poor
+* equitable
+* accountable
+* extraordinary
+* silver
+* ignore
+* burden
+* explore
+* alternatives
+* prompt
+* challenges
+* thoughtfully
+
+SUMMARY:
+The COVID-19 pandemic has highlighted the devastating flaws in the US nursing home system, where at least 54,000 residents and workers have died. The vulnerable elderly population, combined with limited resources, poor government support, underpaid staff, and lack of oversight, has led to substandard care. The fatality rate for nursing home residents who contract the virus is more than three times the national average. Experts argue that a better plan would be to increase at-home care for seniors, which is cheaper and leads to better health outcomes. However, others warn that a massive restructuring of elder care could leave behind poor people and people of color. The government needs to take extraordinary action to address these issues and prepare for a major spike in the elderly population. END OF SUMMARY.
+
+Example 3 (Political Ideology: Right, Moral Foundations: Authority/Subversion, Fairness/Cheating, Loyalty/Betrayal, Sanctity/Degradation):
+Here is the news article:
+
+Republicans on Thursday confronted House Intelligence Committee Chairman Rep. Adam B. Schiff for his two years of leveling conspiracy charges against President Trump, urging him to resign because they “have no faith in your ability to discharge your duties.”
+
+Mr. Schiff, California Democrat, defended himself by listing supposed inappropriate contacts between Trump associates and suspect foreigners.
+But he didn’t list a single instance of Trump people coordinating in Russian election interference, as he did at a hearing on March 20, 2017.
+
+Rep. Devin Nunes of California, the previous chairman and now ranking Republican, and other GOP members signed a letter to Mr. Schiff, who has reopened a Russia probe.
+The letter cited the decision by special counsel Robert Mueller to end his investigation without finding that Trump associates conspired with Russia to interfere in the 2016 election by hacking computers or posting social media broadsides against Democratic nominee Hillary Clinton.
+
+Under Mr. Nunes, the House Permanent Select Committee on Intelligence’s Republican majority also cleared the Trump campaign.
+
+“Your actions both past and present are incompatible with your duty as Chairman of this Committee, which alone in the House of Representatives has the obligation and authority to provide effective oversight of the U.S. intelligence community,” the letter states.
+“As such, we have no faith in your ability to discharge your duties in a manner consistent with your Constitutional responsibility and urge your immediate resignation as Chairman of this Committee.”
+
+Mr. Schiff reacted angrily Thursday as he convened a hearing with four expert witnesses on Russian influence operations and the actions of oligarchs to aid President Vladimir Putin.
+As he stared at Republicans, he began a refrain of “you might think it’s OK” as he listed events such as Donald Trump Jr. meeting with a Russian lawyer who claimed to have dirt on Mrs. Clinton.
+Witnesses say no such information was passed.
+
+He also noted that former campaign chairman Paul Manafort provided some type of polling data to Russia-linked Ukrainian officials and campaign adviser Roger Stone’s brief email exchange with a hacker who turned out to be a Russian intelligence operative.
+
+After the hearing, Mr. Schiff tweeted: “I say this to the President, and his defenders in Congress: You may think it’s okay how Trump and his associates interacted with Russians during the campaign.
+I don’t.
+I think it’s immoral.
+I think it’s unethical.
+I think it’s unpatriotic.
+And yes, I think it’s corrupt.”
+
+House Speaker Nancy Pelosi of California supported and defended Mr. Schiff amid the Republican criticism.
+
+“I’m so proud of the work of Chairman Adam Schiff,” Ms. Pelosi said.
+“I think they’re just scaredy-cats.
+They just don’t know what to do.”
+
+Republicans say that if there were collusion in the election, it was the Clinton campaign paying middleman to collect disinformation on Mr. Trump from the Kremlin and spread it around Washington to the FBI and news media.
+
+The Republican letter said, “Despite these Mueller findings, you continue to proclaim in the media that there is ‘significant evidence of collusion.’ You further have stated you ‘will continue to investigate the counterintelligence issues.
+That is, is the president or people around him compromised in any way by a hostile foreign power.’
+
+“Your willingness to continue to promote a demonstrably false narrative is alarming.
+The findings of the Special Counsel conclusively refute your past and present assertions and have exposed you as having abused your position to knowingly promote false information, having damaged the integrity of this Committee, and undermined faith in U.S. government institutions.”
+
+Rep. Michael R. Turner, Ohio Republican, likened Mr. Schiff to Sen. Joseph McCarthy, the virulent 1950s anti-communist who alleged that a number of U.S. government officials were working with the Soviet Union.
+
+“I believe the chair has abused his power,” Mr. Turner said.
+“He’s misrepresented the information we received in classified sessions.”
+
+“Now Mr. Chairman, when this body understood that McCarthyism was something to be rejected, it for years watched it,” he said.
+“But you are using that playbook.
+In McCarthyism, we had Russia chasing after Russian communists, and now we have Schiff chasing after Russian collusion.”
+
+Mr. Turner said Mr. Schiff is adding prosecutors to the staff, not intelligence analysts.
+It was a reference to former federal mob prosecutor Daniel Goldman, whom Mr. Schiff hired as his chief investigator.
+
+Mr. Goldman has wholeheartedly endorsed the Christopher Steele dossier.
+The Democratic Party-financed document hurls conspiracy charges at Mr. Trump and his associates, based on Kremlin sources.
+
+Mr. Mueller, in effect, rejected the charges.
+Republicans consider it a Kremlin hoax.
+
+STEP 1:
+* immoral
+* unethical
+* unpatriotic
+* corrupt
+* false
+* alarming
+* abused
+* knowingly
+* damaged
+* undermined
+* virulent
+* rejected
+* hoax
+
+SUMMARY:
+House Republicans confronted Rep. Adam Schiff, Chairman of the House Intelligence Committee, urging him to resign due to his "immoral" and "unethical" behavior in leveling conspiracy charges against President Trump. Schiff defended himself, listing supposed inappropriate contacts between Trump associates and suspect foreigners, but failed to provide evidence of Russian election interference. Republicans accused Schiff of promoting a "demonstrably false narrative" and "knowingly" spreading misinformation, which has "damaged" the integrity of the committee and "undermined" faith in U.S. government institutions. Schiff reacted angrily, calling the Republicans' actions "scaredy-cats" and stating that he thinks Trump's interactions with Russians during the campaign are "immoral", "unethical", and "unpatriotic". The controversy highlights the deepening partisan divide in the House. END OF SUMMARY.
+
+Now, here is the target news article to summarize:
+Here is the news article:
+
+Brazil and Germany call for implementation of Kyoto Protocol by September Brasilia, 14 (Agencia Brasil - ABr) - In a document entitled Partnership Brasil-Germany: Action Plan, both countrires have expressed interest in seeing the Kyoto Protocol take effect by the Sustainable Development Summit (Rio+10), that takes place in South Africa, next September. Brazil and Germany also call on other countries to ratify the protocol and work to enforce it. The document also states that Brazil and Germany intend to expand cooperation in the area of environment and sustainable development. Both countries expect to present common positions at the Rio+10 meeting. Finally, the document stresses the importance of the Pilot Program for Protection of Tropical Forests (PPG-7) and German participation in the program.
+
+(1) First, you identify all the single words that are morally framed, focusing especially on the dimensions of Authority/Subversion, Care/Harm. Identify this step as "STEP 1:" and report each word in a new line starting with *
+(2) Finally, you write a summary of the news article. Please preserve as many morally framed words as possible, particularly focusing on the moral dimensions of Authority/Subversion, Care/Harm in your summary. The summary has to be returned after a "SUMMARY:" token and ending with a "END OF SUMMARY." token. The summary should be no longer than 200 words.

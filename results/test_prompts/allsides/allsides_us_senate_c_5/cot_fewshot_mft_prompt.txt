@@ -1,0 +1,186 @@
+You have to summarize the following text preserving the moral framing that the author gave to it, with particular focus on the specific moral foundations highlighted in the text.
+
+Please study the following examples of news articles, their moral word extraction, and summaries preserving the moral framing:
+
+Example 1 (Political Ideology: Left, Moral Foundations: Authority/Subversion, Care/Harm, Fairness/Cheating):
+Here is the news article:
+
+He is also investigating corruption allegations involving Hunter Biden, son of the presumtive Democratic presidential nominee, stemming from the younger Biden’s role on the board of the Ukrainian gas company Burisma.
+Trump and congressional Republicans have claimed the former vice president sought to shield his son from a Ukrainian-led investigation into Burisma — though Biden denies the allegation.
+
+In both instances, Democrats have accused Johnson of abusing his power, misusing the Senate’s oversight resources to boost Trump’s political prospects and even operating a Russian disinformation front that jeopardizes U.S. election security — all serious allegations, even in today’s hyperpartisan Senate.
+But Johnson insists it’s just the opposite.
+
+“I’m a very nonpartisan guy.
+I just am,” Johnson said in an interview.
+“I like using the word nonpartisan.”
+
+Privately, Senate Republicans are worried that the efforts to relitigate the Russia investigation and the events of 2016 could backfire, according to a GOP senator who was granted anonymity to candidly address the situation.
+Republicans are especially concerned about the perception that their priorities are not in order as the country is reeling from the coronavirus pandemic, staggeringly high unemployment and unrest over recent police killings of unarmed African Americans.
+
+Despite the partisan tensions and intensifying harshness of the disputes, Johnson is unfazed by the criticism — even as he increasingly finds himself on defense.
+
+“I’m not doing anybody’s bidding,” said Johnson, who has chaired the Senate Homeland Security and Governmental Affairs Committee since 2015.
+“I am doing this because I’m concerned about this democracy, and I’m concerned about what happened starting before the election, during the transition, and what continued certainly through the impeachment trial.”
+
+According to Johnson, the Homeland Security panel’s probe has uncovered information that shows the incoming Trump administration was “sabotaged” by the outgoing Obama team.
+Johnson portrays his investigation as an honest effort to find the truth and reform the presidential transition process to ensure a peaceful transition of power.
+
+“I’m just a straight shooter.
+I call them as I see them,” he said.
+
+Democrats contend that’s far from the truth.
+They note that Johnson intends to release reports in the summer and the fall on his twin investigations, which would thrust the issues back into the spotlight as Election Day nears.
+They also point to his comments earlier this year in which he said former Vice President Joe Biden “has not adequately answered” for his son’s role on the board of a Ukrainian energy company, adding: “If I were a Democrat primary voter, I’d want these questions satisfactorily answered before I cast my final vote.”
+
+And after Johnson released a declassified list of former Obama administration officials who potentially “unmasked” former national security adviser Michael Flynn’s name in intelligence reports, the Trump campaign seized on the fact that Joe Biden’s name was on the list — even as Biden’s precise involvement was not clear.
+
+“We’re in the middle of a pandemic and a peaceful uprising against police brutality, and [Johnson is] running errands for the Republican National Committee,” Sen. Brian Schatz (D-Hawaii) said in a brief interview.
+“And it’s a misuse of his position.”
+
+Minutes later, Schatz ran into Johnson outside the Senate chamber and told him: “Hey Ron, somebody asked me about your investigations and I wasn’t that nice.” Johnson laughed and replied, “That’s OK.”
+
+Johnson later dismissed the interaction as being representative of the “collegial” nature of the Senate.
+But it also underscored the reality of how investigations into Trump’s political enemies that began after the Senate’s impeachment trial have been gripping the body ever since.
+
+As he defended himself, Johnson contended that Democrats are simply “afraid of the truth.”
+
+“Anybody that could take a look at what we already know and say, well we should just close our eyes and ears to this, let’s stop looking at this — I would say doesn’t really care about the fact that the transition was corrupted,” Johnson said.
+
+“I’m just tenacious.
+I’m dedicated to getting the information,” he added.
+“And the question I have for my Democratic colleagues — what are you afraid of?
+What part of the truth that I hope we can reveal are you worried about?”
+
+STEP 1:
+* nonpartisan
+* abuse
+* misusing
+* jeopardizes
+* serious
+* worried
+* concerned
+* sabotaged
+* honest
+* truth
+* reform
+* peaceful
+* satisfactorily
+* answered
+* errands
+* misuse
+* collegial
+* afraid
+* tenacious
+* dedicated
+* corrupted
+
+SUMMARY:
+Senator Ron Johnson is investigating corruption allegations involving Hunter Biden and the Ukrainian gas company Burisma, as well as the Russia investigation. Democrats accuse Johnson of abusing his power and misusing Senate resources to boost Trump's political prospects, jeopardizing U.S. election security. Johnson claims he is a "nonpartisan guy" who is concerned about the truth and the sabotage of the presidential transition process. He believes his investigation is an honest effort to reform the process and ensure a peaceful transition of power. Democrats, however, contend that Johnson's efforts are a misuse of his position and that he is running errands for the Republican National Committee. Johnson dismisses their concerns, saying they are simply "afraid of the truth" and that he is tenacious and dedicated to getting the information. END OF SUMMARY.
+
+Example 2 (Political Ideology: Center, Moral Foundations: Authority/Subversion, Care/Harm, Fairness/Cheating):
+Here is the news article:
+
+WASHINGTON (Reuters) - U.S. senators on Monday sparred over the shape of an impeachment trial of President Donald Trump, with Republican leader Mitch McConnell saying he has not ruled out hearing from witnesses as Democrats have demanded.
+
+McConnell, speaking on Fox News, stopped short of agreeing to a Democratic request for the Senate to agree ahead of time to take testimony during the trial expected to begin in early 2020.
+He cited the 1999 impeachment trial of President Bill Clinton, a Democrat, which ended in acquittal, as a model.
+
+“We haven’t ruled out witnesses,” McConnell said in an interview with “Fox & Friends.” “We’ve said, ‘Let’s handle this case just like we did with President Clinton.’ Fair is fair.”
+
+In that 1999 trial, he said, senators went through opening arguments, had a written question period and then decided what witnesses to call.
+There was limited testimony by video.
+
+Allowing witness testimony, particularly from current and former administration officials, was likely to prolong the trial and could bring up new evidence damaging to Republican Trump who was impeached by the Democratic-controlled House of Representatives last week.
+
+Chuck Schumer, the top Democrat in the Senate, said the trial must include witnesses.
+He urged his Senate colleagues to call for the release of relevant Trump administration documents.
+
+“It’s hard to imagine a trial not having documents and witnesses.
+If it doesn’t have documents and witnesses, it’s going to seem - to most of the American people - that it is a sham trial, a show trial,” Schumer said at a press conference in New York.
+
+The House voted along party lines to impeach Trump on two charges over his pressuring Ukraine to announce an investigation of former vice president Joe Biden and Biden’s son.
+Biden is a potential Democratic candidate to run against Trump in the November 2020 election.
+Hunter Biden was on the board of a Ukrainian energy company.
+
+Trump was charged with abuse of power and obstructing Congress’ investigation.
+He has said he did nothing wrong.
+There is little chance Trump will be convicted and removed from office by the Republican-controlled Senate.
+
+Trump on Monday accused Democrats of delaying tactics and urged for a quick conclusion to the impeachment process.
+
+House Speaker Nancy Pelosi has not yet transmitted the articles of impeachment to the Senate, a bid to pressure Senate Republicans to reach an accord with Schumer on trial rules.
+McConnell said the Senate could not take any action until it receives the articles.
+
+“What right does Crazy Nancy have to hold up this Senate trial.
+None!
+She has a bad case and would rather not have a negative decision.
+This Witch Hunt must end NOW with a trial in the Senate, or let her default & lose.
+No more time should be wasted on this Impeachment Scam!” Trump said on Twitter.
+
+Schumer has requested to have four witnesses subpoenaed for the trial.
+The White House blocked all four, including acting Chief of Staff Mick Mulvaney and former national security adviser John Bolton, from testifying during impeachment proceedings in the House of Representatives in December.
+
+STEP 1:
+* fair
+* sham
+* wrong
+* crazy
+* bad
+* witch
+* scam
+
+SUMMARY:
+US Senators are at odds over the format of President Trump's impeachment trial, with Republican leader Mitch McConnell suggesting he may consider hearing from witnesses, as Democrats have demanded. McConnell cited the 1999 impeachment trial of President Bill Clinton as a model, where senators decided on witnesses after opening arguments and a written question period. Democrats, however, are pushing for witnesses to be subpoenaed, including current and former administration officials, which could prolong the trial and bring up new evidence damaging to Trump. Senator Chuck Schumer warned that a trial without witnesses and documents would seem like a "sham trial" to the American people. Trump, meanwhile, accused Democrats of "delaying tactics" and urged for a quick conclusion to the impeachment process, calling it a "Witch Hunt" and an "Impeachment Scam". END OF SUMMARY.
+
+Example 3 (Political Ideology: Right, Moral Foundations: Authority/Subversion):
+Here is the news article:
+
+Republican senators kept up pressure on party Chairman Michael Steele Sunday to better explain -- and publicly apologize for -- his on-camera claim that Afghanistan is a "war of Obama's choosing" and may not be winnable.
+
+The backlash built quickly over the weekend as some prominent conservatives called for Steele's resignation.
+Speaking on "Fox News Sunday," Sen. Jim DeMint, R-S.C., would not go that far but said Steele must apologize to the troops.
+
+"Chairman Steele needs to apologize to our military, all the men and women who've been fighting in Afghanistan," he said.
+"This is America's war.
+It's not Obama's war."
+
+The GOP chairman is known for off-the-cuff and occasionally troublesome comments, but the Afghanistan remarks were too much to bear for some war-supporting Republicans.
+
+DeMint, who said Afghanistan is a war the United States must win, said Steele needs to "refocus" on the November election.
+He called Steele's comments "unacceptable" and "inaccurate."
+
+"We need a chairman who's focused," DeMint said.
+
+Speaking on ABC's "This Week," Sen. John McCain, R-Ariz., said Steele's comments were "wildly inaccurate."
+
+The Arizona Republican said Steele needs to assess whether he can still function in his job and must make "an appropriate decision" about his future.
+
+Trying to quell the furor, Steele issued a statement saying: "There is no question that America must win the war on terror.
+... And, for the sake of the security of the free world, our country must give our troops the support necessary to win this war."
+
+He sent an e-mail to RNC members saying he hoped his statement would "clear up any confusion" caused by his earlier remarks.
+
+That didn't seem to quiet the controversy in the slightest.
+Weekly Standard Editor Bill Kristol, who led the charge of conservatives calling for Steele to step down over the remark, said on "Fox News Sunday" that Steele still needs to go -- though he said Steele tried to convince him otherwise.
+
+"I think it would be better if he went," he said.
+
+STEP 1:
+* unacceptable
+* inaccurate
+* wildly
+* appropriate
+
+SUMMARY:
+Republican senators are calling for party Chairman Michael Steele to apologize for his "unacceptable" and "inaccurate" comments that Afghanistan is a "war of Obama's choosing" and may not be winnable. Sen. Jim DeMint demanded an apology to the troops, stating that Afghanistan is "America's war" and not Obama's. DeMint and Sen. John McCain deemed Steele's remarks "wildly inaccurate" and urged him to "refocus" on the November election. Steele's attempt to clarify his statement did little to quell the controversy, with Weekly Standard Editor Bill Kristol leading the charge for Steele's resignation. Kristol believes it would be "better" if Steele stepped down. The backlash highlights the importance of a chairman who is "focused" and supportive of the troops. Steele's future as chairman remains uncertain.
+
+END OF SUMMARY.
+
+Now, here is the target news article to summarize:
+Here is the news article:
+
+Senate Majority Leader Mitch McConnell Addison (Mitch) Mitchell McConnellGOP senators balk at lengthy impeachment trial Graham: Senate trial 'must expose the whistleblower' Graham says Schiff should be a witness in Trump impeachment trial MORE (R-Ky.) said the Senate Intelligence Committee should investigate recent CIA findings that the Russian government tried to influence the U.S. presidential election. Calling the allegations of Russian meddling “disturbing,” McConnell said Monday the intelligence panel should take the lead, dismissing calls by Sen. John McCain John Sidney McCain2020 Democrats make play for veterans' votes The Memo: Democrats confront prospect of long primary Defending their honor as we hear their testimony MORE (R-Ariz.) and others for a special select committee to review the matter. The Kentucky Republican said the Intelligence Committee is “more than capable of conducting a complete review of this matter.” “We’re going to follow the regular order. It’s an important subject and we intend to review it on a bipartisan basis,” he said when asked specifically if he would support a special bipartisan commission. McConnell noted that he sits on the panel as an ex-officio member and that incoming Senate Democratic Leader Charles Schumer Charles (Chuck) Ellis SchumerOvernight Health Care: Trump officials making changes to drug pricing proposal | House panel advances flavored e-cig ban | Senators press FDA tobacco chief on vaping ban Chad Wolf becomes acting DHS secretary Schumer blocks drug pricing measure during Senate fight, seeking larger action MORE (N.Y.) will soon join it in the same capacity. Schumer joined McCain and two other bipartisan lawmakers on a Sunday letter calling for an investigation spanning “across the jurisdictional lines of Congress.” McCain, a leading Senate voice on national security and the threat posed by Russia, also called Sunday for a special committee to delve into the issue. “I would like, in an ideal world, to have a select committee,” he CBS’s “Face the Nation,” explaining the leaders of the Senate Intelligence, Foreign Relations and Armed Services panels should play a role. McConnell noted that McCain will be conducting his own review of cybersecurity threats facing the nation as chairman of the Armed Services Committee. “Sen. McCain and Sen. Burr will both be looking at this issue and doing it on a bipartisan basis,” he said, referring to Senate Intelligence Committee Chairman Richard Burr Richard Mauze BurrGOP senators balk at lengthy impeachment trial Graham: Senate trial 'must expose the whistleblower' GOP chairman says Senate impeachment trial could last 6-8 weeks MORE (R-N.C.). McConnell made clear views Russian President Vladimir Putin as more of an adversary than a friend. “The Russians are not our friends. They invaded Crimea,” he said, noting that a group of senators this past week met with a delegation from Baltic counties. “To say that they’re nervous about the Russians is to put it mildly,” he said. “We ought to approach all of these issues on the assumption that the Russians do not wish us well,” he added. He declined, however, to comment on the possible appointment of ExxonMobile CEO Rex Tillerson, who has close ties with Putin, to serve as Secretary of State. He said he’s “been very impressed with nominations,” adding, “we’ll have to see who’s nominated as Secretary of State.” “Let’s wait until we get nominees,” he said. “I don’t want to comment on kind of a phantom nominee today.” While he strongly condemns allegations that Russia may have breached U.S. “cybersecurity measures,” the majority leader said leaked characterizations of the motivation behind Russian hacking should be weighed carefully, suggesting a possible partisan lens. He noted that prior to the election, the director of National Intelligence released a statement about hacking activities directed by the Russian government, but cautioned any leaks about U.S. intelligence findings “is irresponsible, likely illegally and potentially for partisan political gain.” Publications such as The New York Times, citing senior administration officials, reported that American intelligence agencies have concluded that Russia acted to help President-elect Donald Trump Donald John TrumpGOP senators balk at lengthy impeachment trial Warren goes local in race to build 2020 movement 2020 Democrats make play for veterans' votes MORE and harm Hillary Clinton Hillary Diane Rodham Clinton2020 Democrats make play for veterans' votes The Memo: Democrats confront prospect of long primary Manafort sought to hurt Clinton 2016 campaign efforts in key states: NYT MORE, the Democratic nominee. Jason Miller, a spokesman for President-elect Donald Trump, said he was unsure of the last time Trump and McConnell spoke, but dismissed efforts to investigate Russian interference in the election as coming from "people who are bitter their candidate lost." “This overall narrative, this is clearly an attempt to delegitimize Trump’s win," Miller said Monday. "That’s what’s going on here. First there was the recount nonsense, then the discussion of the popular vote, now it’s anonymous sources with conflicting information trying to raise other issues.” Trump has dismissed the CIA report, calling it “ridiculous” on Sunday and following up Monday on Twitter. "Can you imagine if the election results were the opposite and WE tried to play the Russia/CIA card," Trump tweeted Monday. "It would be called conspiracy theory!"
+
+(1) First, you identify all the single words that are morally framed, focusing especially on the dimensions of Authority/Subversion, Care/Harm, Fairness/Cheating. Identify this step as "STEP 1:" and report each word in a new line starting with *
+(2) Finally, you write a summary of the news article. Please preserve as many morally framed words as possible, particularly focusing on the moral dimensions of Authority/Subversion, Care/Harm, Fairness/Cheating in your summary. The summary has to be returned after a "SUMMARY:" token and ending with a "END OF SUMMARY." token. The summary should be no longer than 200 words.

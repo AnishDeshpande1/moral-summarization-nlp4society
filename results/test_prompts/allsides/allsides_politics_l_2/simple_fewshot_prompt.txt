@@ -1,0 +1,166 @@
+You have to summarize the following text preserving the moral framing that the author gave to it.
+
+Please study the following examples of news articles and their summaries preserving the moral framing:
+
+Example 1 (Political Ideology: Left):
+Here is the news article:
+
+Donald Trump has blocked the former White House counsel Don McGahn from testifying before Congress about the special counsel report on Russian election interference, prompting sharp criticism and even threats of impeachment.
+
+In a legal opinion released on Monday, the justice department said lawmakers on Capitol Hill cannot compel McGahn, who was subpoenaed by the House judiciary committee, to answer their questions under oath.
+
+“The Department of Justice has provided a legal opinion stating that, based on long-standing, bipartisan, and constitutional precedent, the former counsel to the president cannot be forced to give such testimony, and Mr McGahn has been directed to act accordingly,” the White House press secretary, Sarah Sanders, said in a statement.
+
+Trump must turn over financial records to House, judge rules – live
+
+“This action has been taken in order to ensure that future presidents can effectively execute the responsibilities of the office of the presidency.”
+
+McGahn is a central figure in special counsel Robert Mueller’s report, often standing in the way of Trump’s efforts to obstruct justice.
+According to investigators, McGahn threatened to resign when the president ordered him to have Mueller fired.
+
+McGahn was also dispatched by Trump to convince the former attorney general Jeff Sessions not to recuse himself from overseeing the Russia investigation.
+(Sessions did not heed the president’s demands.)
+
+Travelling to a rally in Pennsylvania, Trump was asked why he was asking McGahn to defy a congressional subpoena.
+“Well, as I understand it, they’re doing that for the office of the presidency, for future presidents,” he replied, according to a pool report.
+“I think it’s a very important precedent.
+And the attorneys say that they’re not doing that for me.
+They’re doing it for the office of the president.
+So we’re talking about the future.”
+
+The White House’s intervention was condemned by Jerry Nadler, the Democratic chairman of the judiciary committee.
+“The Mueller report documents a shocking pattern of obstruction of justice,” he said in a statement.
+“The president acted again and again – perhaps criminally – to protect himself from federal law enforcement.
+
+“Don McGahn personally witnessed the most egregious of these acts.
+President Trump knows this.
+He clearly does not want the American people to hear firsthand about his alleged misconduct, and so he has attempted to block Mr McGahn from speaking in public tomorrow.”
+
+The move is the latest example of the Trump administration’s “disdain for the law”, added Nadler, who said the committee will meet as planned on Tuesday morning and still expects McGahn to appear.
+
+Another Democratic member of the committee, David Cicilline, went further in his criticism, suggesting that impeachment of Trump would be warranted if McGahn did not respond to the subpoena.
+
+“Let me be clear: if Don McGahn doesn’t testify, it is time to open an impeachment inquiry,” he told the MSNBC network.
+“The president has engaged in an ongoing effort to impede our ability find the truth, to collect evidence, to do our work … No one is above the law, including the president of the United States.”
+
+Cicilline admitted he did not know if his view was shared by other members of Democratic leadership but added: “We may well be forced into a position to have to open a formal inquiry in order to facilitate the collection of the evidence that we need to see.”
+
+The justice department’s legal opinion does not prevent McGahn testifying if he so chooses, although it would be potentially at risk to his own career.
+Trump has mused about instructing Republicans to cease dealing with his law firm, Jones Day, the Associated Press reported.
+
+William Barr is acting like Trump's henchman
+
+Matthew Miller, former director of the office of public affairs for the justice department, tweeted: “Just show up and testify, McGahn.
+This isn’t about some garden-variety Congressional-executive branch dispute, but as one of your predecessors described it, a cancer on the presidency.
+Think about your place in history.”
+
+McGahn was subpoenaed by Nadler last month and, under instruction by the White House, failed to meet an initial deadline to appear before the committee.
+Nadler threatened to hold McGahn in contempt of Congress if he did not meet a second deadline of 21 May.
+
+McGahn, who left the White House last year, has increasingly become the subject of Trump’s ire following the release of the redacted Mueller report.
+Last week, the president tweeted he was “never a big fan” of McGahn and suggested it was the former White House counsel, and not Mueller, who was on his chopping block at the time of the investigation.
+
+The Trump administration has repeatedly blocked attempts at oversight by the Democratic-controlled House.
+Last month it instructed the former personnel security director Carl Kline not to testify at a hearing into alleged lapses in White House security clearance procedures.
+Last week the treasury secretary, Steven Mnuchin, refused to comply with a congressional subpoena to hand over Trump’s tax returns.
+
+Nadler’s committee has previously voted to hold the attorney general, William Barr, in contempt for refusing to provide the unredacted Mueller report and underlying evidence to Congress.
+
+SUMMARY:
+
+The Trump administration has sparked outrage by blocking former White House counsel Don McGahn from testifying before Congress about the special counsel report on Russian election interference. The Justice Department claims that lawmakers cannot compel McGahn to answer questions under oath, citing "long-standing, bipartisan, and constitutional precedent." Critics argue that this move is a blatant attempt to obstruct justice and protect Trump from accountability. Democratic leaders have condemned the administration's "disdain for the law" and threatened impeachment if McGahn does not respond to the subpoena. The move is seen as a dangerous precedent that undermines the rule of law and the separation of powers. As one expert noted, this is not just a "garden-variety Congressional-executive branch dispute," but a "cancer on the presidency." The administration's repeated attempts to block oversight and stonewall investigations have raised serious concerns about its commitment to transparency and accountability.
+
+END OF SUMMARY.
+
+Example 2 (Political Ideology: Center):
+Here is the news article:
+
+WASHINGTON — President Trump on Monday said the F.B.I. ruined the life of his former national security adviser and said his Democratic opponent for president, Hillary Clinton, suffered no consequences after she lied “many times” to the F.B.I.
+
+Michael T. Flynn, Mr. Trump’s first national security adviser, pleaded guilty on Friday to lying to the F.B.I. when he was questioned early this year about his conversations with the Russian ambassador.
+He was the fourth person charged in the investigation of Robert S. Mueller III, the special counsel appointed to lead an inquiry into Russia’s influence on the 2016 election and possible ties to Trump associates.
+
+As he left for Utah on Monday, the president said he felt “very badly” for Mr. Flynn, whom he fired in February for lying to the vice president about the content of these conversations.
+
+Mr. Trump’s comments Monday on Mr. Flynn come at a time when the special counsel investigation is focusing intensely on the president’s inner circle.
+Mr. Trump once encouraged Mr. Flynn to seek an immunity deal.
+Presidents typically do not weigh in on federal investigations to avoid appearing to influence the outcome.
+
+“I feel badly for General Flynn,” Mr. Trump said on Monday. “I feel very badly.
+He’s led a very strong life and I feel very badly.
+Hillary Clinton lied many times to the F.B.I. Nothing happened to her.
+Flynn lied and they destroyed his life.”
+
+Mr. Trump did not cite specifically what Mrs. Clinton said that he considered a lie.
+
+Mrs. Clinton gave a voluntary interview to the bureau in July 2016 during its investigation into whether she or her aides broke the law by corresponding through a private email server set up for her use as secretary of state.
+A few days later, the F.B.I. director at the time, James B. Comey, recommended no charges be filed against her in the matter.
+
+SUMMARY:
+
+President Trump has expressed sympathy for his former national security adviser, Michael Flynn, who pleaded guilty to lying to the FBI about his conversations with the Russian ambassador. Trump feels "very badly" for Flynn, whom he fired in February for lying to the vice president. The president contrasted Flynn's fate with that of his Democratic opponent, Hillary Clinton, who he claims lied "many times" to the FBI but faced no consequences. Trump's comments come as the special counsel investigation into Russia's influence on the 2016 election and possible ties to Trump associates is intensifying its focus on his inner circle.
+
+The moral framing of this article suggests that Trump is attempting to deflect attention from his own administration's scandals by pointing fingers at his political opponents. By claiming that Clinton lied to the FBI with impunity, Trump is implying that the justice system is unfair and biased against him and his associates. This narrative is problematic, as it seeks to undermine the integrity of the FBI and the special counsel investigation, and perpetuates a culture of blame-shifting and dishonesty.
+
+END OF SUMMARY.
+
+Example 3 (Political Ideology: Right):
+Here is the news article:
+
+The resurgent controversy over the Obama administration's initial story-line on the Benghazi attack underscores State Department concerns about the leadership's failure to act on documented warnings and security incidents.
+
+Draft "talking points" obtained by The Weekly Standard and ABC News depicted efforts by State Department spokeswoman Victoria Nuland in the days after the attack to strip out references to prior attacks in Benghazi.
+According to the excerpts, she argued that the administration should not give Congress ammunition to "beat up" on her department.
+
+During a press conference Monday, President Obama even acknowledged that the country now knows that "clearly (the staff in Benghazi) were not in a position where they were adequately protected."
+
+A review of now-public State Department records as well as a classified State Department cable, first reviewed and reported by Fox News, shows a steady stream of documented warnings to Washington from intelligence and State security officials on the ground in Libya that the Islamist threat was severe and growing.
+
+One of the most significant warnings was an August 2012 State Department classified cable, which has not been made public, that summarized an emergency meeting in Benghazi where the CIA briefed on the significant threat of terrorist activity.
+
+The cable, sent under Ambassador Chris Stevens' signature and marked SECRET, warned the office of Secretary of State Clinton that the CIA advised "ten Islamist militias and AQ training camps (were) within Benghazi."
+
+The cable also warned that the 17 February Brigade, the group charged with protecting the consulate, appeared to be compromised.
+It said "requests to provide a daily police presence have gone unanswered," adding there was also a "lack of host nation security support to the US mission."
+
+In addition to identifying the presence of Al Qaeda and Ansar al-Sharia in Benghazi, the groups ultimately blamed for the assault, a key section of the cable, which remains classified, seemed to foreshadow the attack itself.
+
+"RSO (Regional Security Officer) expressed concerns with the ability to defend Post in the event of a coordinated attack due to limited manpower, security measures, weapons capabilities, host nation support, and the overall size of the compound," it said.
+
+During congressional hearings in January, Clinton was asked whether she had seen the cable by Republican Rep. Michael McCaul.
+Clinton said she had no knowledge of the warning which former diplomatic security agents have told Fox News amounted to a "cry for help."
+
+"Congressman, that cable did not come to my attention," Clinton testified before the House Foreign Affairs committee.
+"I have made it very clear that the security cable did not come to my attention or above the assistant secretary level where the ARB (Accountability Review Board) placed responsibility where, as I think, Ambassador Pickering said the rubber hit the road."
+
+In February, Republican Sen. Lindsey Graham followed up on the classified cable.
+
+After the chairman of the Joint Chiefs of Staff confirmed he knew about the cable which summarized the August emergency meeting in Benghazi, Graham questioned why the military was read in when Clinton apparently was not.
+
+Gen. Martin Dempsey responded: "Well, I don't know that she didn't know about the cable."
+
+Graham said: "She said she didn't. Are you stunned that she didn't?"
+
+Dempsey said: "I would call myself surprised that she didn't."
+
+In addition to attacks in Benghazi on the British ambassador -- which forced the temporary closure of the U.K. operation -- the International Red Cross and United Nations, in the summer of 2012 the group Ansar al-Sharia was so well-established it held an annual conference in Benghazi to promote Islamic law.
+
+Records released by the House oversight committee, including a report from the regional security officer, also documented more than 200 cases of violence in Libya in the year leading up to the attack, specifically between June 2011 and July 2012.
+Another security review, on June 25, 2012, reported a spike in violence with "foreigners also increasingly targeted."
+
+While much has been made of the State Department's failure to respond to repeated security requests for extra help, a former diplomatic security agent and 20-year veteran of the department, who reviewed the publicly available documents on the condition of anonymity, told Fox News the multiple warnings present a compelling argument that State Department leadership was negligent.
+
+The State Department, in a document put out last week, noted that while an internal review found certain senior officials "demonstrated a lack of proactive leadership and management ability" in response to security concerns, there was no specific finding of misconduct.
+
+SUMMARY:
+
+The Obama administration's handling of the Benghazi attack has sparked controversy, with concerns over the State Department's failure to act on documented warnings and security incidents. Classified cables and records reveal a steady stream of warnings from intelligence and security officials on the ground in Libya, highlighting the severe and growing Islamist threat. A significant August 2012 cable warned of Al Qaeda and Ansar al-Sharia's presence in Benghazi, and foreshadowed the attack. Despite this, Secretary of State Clinton claimed she had no knowledge of the warning, which former diplomatic security agents deem a "cry for help." The State Department's internal review found senior officials demonstrated a "lack of proactive leadership and management ability" in response to security concerns, but no misconduct. The administration's failure to prioritize security and protect American lives is a grave moral failure, underscoring a lack of accountability and responsibility.
+
+END OF SUMMARY.
+
+Now, here is the target news article to summarize:
+Here is the news article:
+
+The Trump White House has released a list of officials in President Barack Obama’s administration who “may have received” access to National Security Agency reports from electronic surveillance in which Michael Flynn, who later became Trump’s national security adviser, was identified by name. NSA electronic surveillance of Russian Ambassador Sergey Kislyak had picked up secret conversations he had with Flynn in which Flynn attempted to influence Russia’s reaction to sanctions just imposed by Obama in response to Russia’s interference in the 2016 election. The list, declassified at the request of acting Director of National Intelligence Richard Grenell, was made public Wednesday by Sen. Charles Grassley (R-Iowa). It includes a note explaining that is not a list of people who asked that Flynn’s name be unredacted, or “unmasked,” in a report in which the identify of an American citizen would normally be hidden.” “Each individual was an authorized recipient of the original report,” it says, while noting it is not clear who actually saw the “unmasked information.” The note explains that 16 Obama officials requested “unmaskings for different NSA intelligence reports for select identified principals.” The report doesn’t include who those 16 people were, but does name 39 officials who then may or may not have seen the report that included Flynn’s identity. That list included FBI Director James Comey, Treasury Secretary Jacob Lew, Director of National Intelligence James Clapper, CIA Director John Brennan, White House Chief of Staff Denis McDonough, and Vice President Joe Biden. A memo to Grenell, signed by National Security Agency Director Paul Nakasone, says each named person was “an authorized recipient” of the information and that the unmasking was approved through the agency’s normal protocol. Translation: Officials with regular access to classified information were authorized to hear about Flynn’s suspect activities. But the list has already been seized on by promoters of President’s Trump “Obamagate” claim. This is a false claim that Obama was involved during the presidential transition in an effort to unfairly smear Flynn. Flynn pleaded guilty in late 2017 to lying to FBI agents about his conversations with Kislyak. But after public attacks on the case by Trump, the Justice Department, at the behest of Attorney General William Barr, is trying to drop the case. And Trump boosters are already misrepresenting the new information to bolster their phony claim. “List of Officials Who Sought to ‘Unmask’ Flynn Released: Biden Comey, Obama Chief of Staff Among Them,” a Fox News headline says, falsely. Sen. Rand Paul (R-Ky.) quickly misrepresented the list to smear Biden in a tweet. Declassified documents reveal V.P. Biden ordered the unmasking of General Flynn’s private conversation. Anyone think that Biden might have abused his power to go after a political opponent… — Senator Rand Paul (@RandPaul) May 13, 2020 While Biden was on the authorized list of people who may have seen Flynn’s name, so far there is no evidence that Biden personally ordered Flynn’s “unmasking.” But even if he did, it would hardly controversial that Biden and other officials would ask to review reports referencing an American involved in clandestine high level contacts with foreign governments. Flynn was no innocent actor as this was all unfolding. As the Justice Department noted in a court filing last week seeking to drop charges against him, the FBI investigated Flynn in 2016 due to suspicions that he was a Russian asset. In early 2017, the FBI was ready to drop that investigation, but agents continued investigating him after they learned he may have broken a law against private citizens interfering in foreign policy through his conversations with Kislyak, and other foreign officials. It’s safe to say no past incoming National Security advisers had the sort of red flags that Flynn did. In 2016, he had also secretly agreed to lobby for Turkey, even while he advised Trump. He also admitted lying to DOJ about this as part of his guilty plea. (He was also involved with a complicated plan through which a group of former military officials hoped to transfer sensitive nuclear technology to Saudi Arabia.) Flynn had potentially compromising ties to foreign states including Turkey as well as Russia. That may explain why the Obama officials given access to information by NSA on Flynn included the US Ambassadors to Turkey and to Russia.
+
+The summary has to be returned after a "SUMMARY:" token and ending with a "END OF SUMMARY." token. The summary should be no longer than 200 words.

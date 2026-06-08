@@ -1,0 +1,30 @@
+You have to summarize the following text preserving the moral framing that the author gave to it.
+
+Here is the news article:
+
+All nine Republican members of the House Intelligence Committee are calling on Rep. Adam Schiff (D-Calif.) to resign as its chairman over his public comments about the Russia investigation, which did not determine that President Donald Trump or anyone on his campaign conspired with Russia to win the 2016 election. Schiff has maintained his strong belief that the Trump campaign colluded with Russia, after the nearly two-year probe came to an end last week without directly implicating the president. “Undoubtedly there is collusion,” Schiff told The Washington Post on Tuesday. “We will continue to investigate the counterintelligence issues. That is, is the president or people around him compromised in any way by a hostile foreign power? ... It doesn’t appear that was any part of [special counsel Robert] Mueller’s report.” In a letter dated Thursday, the GOP committee members accused Schiff of standing “at the center of a well-orchestrated media campaign” about a possible Trump-Russia connection. The group even went so far as to link Schiff to leaked information about the investigation. “Your willingness to continue to promote a demonstrably false narrative is alarming,” they said, joining other top Republican lawmakers demanding Schiff’s ouster. Trump himself called on Schiff to resign Thursday in an early-morning tweet that accused the chairman of “unlawfully lying and leaking” information. The president said Schiff should be “forced” to step down from Congress entirely. Somewhat misleadingly, the GOP committee members stated in their letter that Mueller’s findings “conclusively refute” Schiff’s “past and present assertions” about the investigation. While Mueller says his report “does not conclude that the President committed a crime,” it “also does not exonerate him.” Questions about what the full report uncovered are still at the forefront of many Democrats’ minds, and the party is uniformly calling for the Justice Department to release it publicly. The Intelligence Committee Republicans’ letter concluded, “Your actions both past and present are incompatible with your duty as Chairman of this Committee, which alone in the House of Representatives has the obligation and authority to provide effective oversight of the U.S. intelligence community.” Schiff, in response to his critics, doubled down on his questions about the special counsel’s investigation, which indicted more than 30 people ― including several close to Trump. “I don’t think it’s OK,” he said Thursday. “I think it’s immoral. I think it’s unethical. I think it’s unpatriotic, and yes, I think it’s corrupt and evidence of collusion.”
+
+The author used the following morally framed words in the article:
+* collusion
+* continue
+* investigate
+* compromised
+* campaign
+* leaked
+* willingness
+* promote
+* narrative
+* lying
+* leaking
+* misleadingly
+* stated
+* crime
+* actions
+* provide
+* oversight
+* immoral
+* unethical
+* unpatriotic
+* corrupt
+
+Please preserve as many morally framed words as possible in your summary. The summary has to be returned after a "SUMMARY:" token and ending with a "END OF SUMMARY." token. The summary should be no longer than 200 words.

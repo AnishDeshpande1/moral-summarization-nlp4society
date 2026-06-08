@@ -1,0 +1,179 @@
+You have to summarize the following text preserving the moral framing that the author gave to it.
+
+Please study the following examples of news articles, their moral word extraction, and summaries preserving the moral framing:
+
+Example 1 (Political Ideology: Left):
+Here is the news article:
+
+Obama’s team is spinning the Republican National Convention as a complete miss.
+Obama's new challenge: Disappointment
+
+The watchword of the Republican National Convention in Tampa was disappointment — as in President Barack Obama has been one.
+
+You can hammer Obama on health care.
+Mock his golf outings.
+Demand to see his birth certificate and Harvard transcript, and call him a European socialist bent on turning the American Dream into a Belgian nightmare.
+He’ll throw his head back and laugh at you like a Bond villain.
+
+But tell voters he’s not the man America fell in love with in 2008 — and pine, however disingenuously, about his unfulfilled potential — and a shiver runs through his Chicago campaign headquarters.
+
+Obama’s team was spinning the convention as a complete miss, arguing that Republicans didn’t lay a glove on their man.
+Yet what emerged from Tampa was a subtle, clever shift in GOP messaging, a much more dangerous strategy for Obama than the kitchen-sink attacks that preceded the gathering.
+Republicans posed — rhetorically — as Obama 2008 voters, lamenting his unfulfilled expectations as if they had been with him all along instead of trying to block him at every turn.
+
+Both sides recognize the power of the disappointment theme: that the hope Obama offered for mending the economy, transforming the political process and even saving the earth has faded.
+
+“President Obama promised to begin to slow the rise of the oceans and heal the planet,” Mitt Romney said in accepting the Republican presidential nomination Thursday.
+“My promise is to help you and your family.”
+
+Or, as Sen. Marco Rubio put it, “Our problem with President Obama isn’t that he’s a bad person.
+Our problem is that he’s a bad president.”
+
+If Republicans landed a punch on Obama, it was the kind of strategic body blow that a skillful pugilist deploys to gain better position for the rest of the fight.
+
+No roundhouse, no jaw-splitter, no knockout.
+It was the kind of shot aimed at subtly shifting momentum and softening up the opponent in a way that may not be evident to the casual observer.
+
+Republicans honed their tone.
+
+The shrill hyperbole, petty critiques of Obama’s every move and Party of No intransigence disappeared into the heavy Tampa air.
+Surely, some of that will rain back down across other parts of the country during the closing months of the campaign, particularly as super PACs and other outside groups intensify their own lines of attack against Obama.
+
+There was plenty of tough criticism in Tampa — more mockery of Obama’s “you didn’t build that” line, more comparisons of his record to Jimmy Carter’s.
+But there were times — prime time, in particular — that the Republican convention looked and sounded like a Democratic gathering.
+
+An appealing young vice-presidential candidate, Paul Ryan, called his mom his role model and vowed to protect Medicare for seniors.
+
+Cuban-American Florida Sen. Marco Rubio and Mexican-American New Mexico Gov. Susana Martinez spoke of the unique opportunities that the United States afforded them to rise into leadership positions.
+
+STEP 1:
+* disappointment
+* disingenuously
+* clever
+* dangerous
+* bad
+* good
+* shrill
+* petty
+* intransigence
+* appealing
+* unique
+
+SUMMARY:
+The Republican National Convention in Tampa was deemed a success by the GOP, despite Obama's team spinning it as a complete miss. Republicans cleverly shifted their messaging, adopting a more subtle and dangerous strategy that focused on disappointment. They posed as Obama 2008 voters, lamenting his unfulfilled expectations and promising a more humble, achievable agenda. Mitt Romney and Sen. Marco Rubio delivered speeches that were more in line with Democratic values, touting the unique opportunities afforded by the United States. The tone was appealing, with a focus on protecting Medicare for seniors and honoring role models. The GOP's new approach is a strategic body blow to Obama's campaign, softening him up for the rest of the fight. END OF SUMMARY.
+
+Example 2 (Political Ideology: Center):
+Here is the news article:
+
+From his home at Mar-a-Lago, Donald J. Trump stirred up new controversy this week in the Republican presidential primary — and new alarm among party leaders that the front-runner for the nomination will drive away women from candidates running farther down the ballot in the fall.
+
+All week, Mr. Trump has slowly escalated a war of words on Twitter against Senator Ted Cruz of Texas, his main competition in the Republican race, based on an ad by a “super PAC” started by people who want to stop the New York developer from getting the nomination.
+The spot featured an old nude photo shoot of Mr. Trump’s wife Melania Trump, a former model, posing on his jet.
+
+Mr. Cruz has no affiliation with the super PAC, and he has denounced the ad.
+But Mr. Trump has continued to express disbelief.
+After threatening to “spill the beans” on Mr. Cruz’s wife, Heidi Cruz, who suffered a bout of depression years ago, he retweeted a post from someone who made a side-by-side photo comparison of Mrs. Cruz at an unflattering angle, and Mrs. Trump.
+
+On Wednesday, Mr. Cruz repeatedly quoted from the movie “The American President” to defend his wife, as she held an event and faced questions about Mr. Trump’s threats.
+But that was before Mr. Trump’s Twitter post with the pictures of the two women.
+And Mr. Cruz had finally had enough.
+
+Calling Mr. Trump a “sniveling coward,” Mr. Cruz told his rival to “leave Heidi the hell alone.”
+
+It’s useful to remember the news media outrage in 2012 when Todd Akin, running as the Republican nominee for Senate in Missouri, defended what he called “legitimate rape,” a remark that was overwhelmingly offensive to women.
+Under pressure from news outlets, the Republican Party tried to cauterize the wound that Mr. Akin had created by isolating him.
+
+Spouses are generally seen as off limits.
+And the responses to Mr. Trump’s comments among news media critics, over time, have been far more subdued.
+
+STEP 1:
+* controversy
+* alarm
+* war
+* disbelief
+* threatening
+* unflattering
+* defend
+* sniveling
+* coward
+* offensive
+* isolating
+* subdued
+
+SUMMARY:
+Donald Trump, the front-runner for the Republican presidential nomination, has sparked controversy and alarm among party leaders with his recent Twitter attacks on Senator Ted Cruz's wife, Heidi Cruz. Trump's threatening and sniveling behavior has been widely criticized, with many calling him a coward for targeting Mrs. Cruz. The attacks, which included a side-by-side photo comparison of Mrs. Cruz and Trump's wife Melania, have been deemed offensive and unflattering. Cruz has defended his wife, quoting from the movie "The American President" and telling Trump to "leave Heidi the hell alone." The incident has drawn comparisons to the 2012 controversy surrounding Todd Akin's comments on "legitimate rape," which were also widely condemned as offensive. END OF SUMMARY.
+
+Example 3 (Political Ideology: Right):
+Here is the news article:
+
+Donald Trump assumed the nation’s highest office Friday as the 45th president of the United States, vowing in a tough inaugural address to restore prosperity and “fight” for the country “with every breath.”
+
+In a succinct speech heavy on populist themes, the new president told Americans across the country they will “never be ignored again” and promised concrete results.
+
+“The time for empty talk is over. Now arrives the hour of action,” he said.
+
+The president addressed a packed crowd of spectators stretching from the Capitol across the National Mall on a mild but overcast and at-times drizzly day, after taking the oath of office along with Vice President Mike Pence. 
+The speech did not delve into policy details, and rather reprised objectives from his 2016 campaign on trade, immigration and national security.
+
+But the address was stitched together, more broadly, by an appeal for a “new national pride” and a rediscovery of American patriotism, as he described this as a salve for the country’s divisions.
+
+“When you open your heart to patriotism, there is no room for prejudice,” he said.
+
+He also rebuked those who have held power in Washington, saying a small group reaped the rewards of government while “the people did not share” in Washington’s wealth.
+
+The address completes Trump’s remarkable journey from political outsider written off by countless Beltway pundits to the most powerful man in the country.
+His campaign manager Kellyanne Conway noted in an earlier interview with Fox News that Trump was “making history” as a businessman with no prior political or military experience – someone successful in the private sector coming to Washington “owing nobody anything.”
+
+In blunt and unvarnished terms similar to the language used during his nomination acceptance address last summer, Trump on Friday lamented the jobs lost to foreign rivals – he described “rusted out factories scattered like tombstones” across the land – and the crime in America’s cities.
+
+“This American carnage stops right here and stops right now,” Trump said.
+
+Trump cast his presidency as a return to power for the people and vowed never to let them down.
+
+“From this day forward, it’s going to be only America first,” Trump said. 
+“I will fight for you with every breath in my body, and I will never, ever let you down. … 
+We will bring back our jobs, we will bring back our borders, we will bring back our wealth and we will bring back our dreams.”
+
+He also vowed to eradicate Islamic terrorism.
+
+Telling the American people this is “your moment” and “your day,” Trump closed his speech with the promise that started it all: “We will make America great again.”
+
+As Barack and Michelle Obama depart the White House after eight years in office, Trump will immediately be confronted with the challenge of governing, as he attempts to apply his CEO experience to running the nation. 
+His team has vowed a “robust” start to the Trump administration, which could include everything from rescinding controversial Obama actions to renegotiating trade deals to repealing and replacing the Affordable Care Act.
+
+An immediate task for the new administration will be to get Trump’s Cabinet nominees confirmed. 
+His advisers have complained that Democrats are slowing the process, and resisting the kind of swift confirmation the Senate gave many of Obama’s nominees in 2009.
+
+Before he spoke on Friday, throngs of protesters were causing disruptions on the edges of the security zone in Washington. 
+Some blocked checkpoints and forced their temporary closure earlier Friday morning, while elsewhere demonstrators resorted to violence and vandalism. 
+They clashed with police later in the afternoon, amid dozens of arrests.
+
+While dozens of House Democrats boycotted Friday’s ceremonies – a move that fueled disputes with Trump’s team over the weekend – other prominent Democrats and past presidents of both parties were in attendance for the transfer of power. 
+Democratic presidential nominee Hillary Clinton, whose loss to Trump marked one of the biggest upsets in modern political history, attended and tweeted shortly before Trump took the oath that she came to “honor our democracy & its enduring values.”
+
+“I will never stop believing in our country & its future,” she wrote.
+
+Donald and Melania Trump met with the Obamas earlier Friday morning after attending a church service in Washington. 
+The new first family headed later to the parade along Pennsylvania Avenue, before an evening of inaugural balls and other festivities.
+
+STEP 1:
+* pride
+* patriotism
+* prejudice
+* carnage
+* fight
+* power
+* people
+* dreams
+* great
+
+SUMMARY:
+Donald Trump was inaugurated as the 45th President of the United States, vowing to restore prosperity and "fight" for the country "with every breath." In his inaugural address, he appealed for a "new national pride" and a rediscovery of American patriotism, emphasizing that "when you open your heart to patriotism, there is no room for prejudice." He rebuked those who have held power in Washington, saying a small group reaped the rewards of government while "the people did not share" in Washington's wealth. Trump cast his presidency as a return to power for the people and vowed never to let them down, promising to eradicate Islamic terrorism and bring back American jobs, borders, wealth, and "dreams." He closed his speech with the promise to "make America great again." As he begins his presidency, Trump will face the challenge of governing and applying his CEO experience to running the nation. END OF SUMMARY.
+
+Now, here is the target news article to summarize:
+Here is the news article:
+
+President Trump on Friday became the first president to speak in person at the anti-abortion March for Life rally, on the heels of a new poll registering record-high dissatisfaction with U.S. abortion laws. “Unborn children have never had a stronger defender in the White House,” Trump said in a speech. “And as the Bible tells us, each person is wonderfully made.” He went on to slam Democrats for embracing “the most radical and extreme positions” and backing “taxpayer-funded abortion, all the way up until the moment of birth.” (Critics say that such procedures do not occur.) The March for Life says its mission is to “promote the beauty and dignity of every human life by working to end abortion.” Trump previously spoke at the rally remotely, while Vice President Mike Pence in 2017 became the first U.S. vice president to attend. March for Life president Jeanne Mancini applauded the Trump administration in a statement earlier in the week, noting that the administration had appointed anti-abortion judges and federal workers, cut taxpayer funding for abortions and called for an end to late-term abortions. “President Trump and his Administration have been consistent champions for life and their support for the March for Life has been unwavering,” she said. The results of a new Gallup poll released Wednesday suggested that discontent over U.S. abortion policy was at an all-time high (58%) and satisfaction was at an all-time low (32%). The survey of more than 1,000 adults, conducted earlier this month, tracked an upward trend in those who wanted abortion policy to be less restrictive. Traditionally, Gallup said, most people dissatisfied with abortion policy wanted stricter laws — but since 2017, the year Trump took office, the share of respondents desiring less-strict abortion policy has risen. Now, “roughly equal percentages of U.S. adults now are dissatisfied and favor less strict laws (22%) as are dissatisfied and want stricter laws (24%),” the report’s authors said. Mounting support for easing abortion policy was fueled by a rise in Democrats and independents expressing such sentiments over the last 10 years, the survey found. A flurry of states last year enacted restrictive anti-abortion laws, including a handful that banned abortion past a certain point in a pregnancy, and Alabama, which effectively outlawed abortion in most cases. Many of these laws have been blocked in court from taking effect. The Supreme Court will also hear arguments this year on June Medical Services v. Gee, which involves a Louisiana law requiring abortion providers to have admitting privileges at a local hospital. The court previously struck down a similar provision in Texas in 2016’s Whole Woman’s Health v. Hellerstedt. “Americans have grown increasingly dissatisfied with the nation’s abortion policies since 2017, largely reflecting Democrats’ — and to a lesser extent, independents’ — mounting view under Trump that the laws are too strict,” wrote the authors of the Gallup report. “While this may partly be a reaction to Trump’s rhetoric on the issue, it also aligns with an increase in abortion restrictions.” A separate poll published Wednesday by the Kaiser Family Foundation found that 59% of Americans believe abortion should be legal in most (32%) or all (27%) cases, while just 11% thought the procedure should be illegal in all cases. Nearly seven in 10 respondents said they didn’t want the landmark Supreme Court ruling Roe v. Wade, which affirmed the right to have an abortion, to be overturned. Democrats and independents were most likely to express that opinion, while a majority of Republicans (57%) said they wanted Roe overturned. But many respondents also backed some state abortion restrictions, including 69% who endorsed policies requiring the procedure be performed only by doctors with hospital-admitting privileges, 66% who supported 24-hour waiting periods between consultation with a provider and the procedure, and 57% who supported a requirement that doctors show and describe ultrasound images to abortion seekers. Still, criminalizing abortion (that is, through fines or prison time) for providers and abortion-seekers proved unpopular. A NPR/PBS News/Marist poll of 944 U.S. adults released in June 2019 echoed those results, showing that 77% of Americans wanted to keep Roe v. Wade in place, but many still wanted additional abortion restrictions or policy changes. Among the more than three-quarters of Americans who broadly supported Roe, 26% wanted the Supreme Court to keep it but add more restrictions, and 14% supported keeping it but reducing some restrictions, according to that poll. Some 21% wanted to see Roe expanded to secure abortion rights under any circumstance, while 16% wanted to keep it the way it is.
+
+(1) First, you identify all the single words that are morally framed. Identify this step as "STEP 1:" and report each word in a new line starting with *
+(2) Finally, you write a summary of the news article. Please preserve as many morally framed words as possible in your summary. The summary has to be returned after a "SUMMARY:" token and ending with a "END OF SUMMARY." token. The summary should be no longer than 200 words.

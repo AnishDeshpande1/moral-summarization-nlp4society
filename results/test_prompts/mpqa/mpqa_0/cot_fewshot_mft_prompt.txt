@@ -1,0 +1,206 @@
+You have to summarize the following text preserving the moral framing that the author gave to it, with particular focus on the specific moral foundations highlighted in the text.
+
+Please study the following examples of news articles, their moral word extraction, and summaries preserving the moral framing:
+
+Example 1 (Political Ideology: Left, Moral Foundations: Authority/Subversion, Care/Harm, Fairness/Cheating):
+Here is the news article:
+
+(CNN) -- The period since September 11, 2001, will never be described by any historian as a golden age of U.S. foreign policy.
+I know. I have just written a history on it, and it's not pretty.
+
+Since 9/11 attack, the United States has swung unsettlingly from one set of flawed policies to another.
+First, the unilateralist excess of the first term of the Bush administration; its signature error was the invasion of Iraq.
+Then, the reactive swing of Barack Obama, toward disengagement and dithering.
+In a tragic irony, a war in Iraq may someday also be seen as the enduring symbol of his errors.
+
+Some of the nation's problems come from nearly 15 years of a heightened sense of vulnerability.
+We're frayed and on edge and have let dysfunctional politics get ahead of national interests.
+But others are tied to human errors that can be fixed.
+The genius of the U.S. system is that it is built to change.
+
+Obama finds himself at the end of a string of errors of judgment and execution.
+These have contributed to damaged relations or crises ranging from those in Syria and Iraq to Libya to Egypt and Israel, from Ukraine to Afghanistan to Africa.
+They include crises at our own borders and strained relations with our allies over NSA eavesdropping.
+
+But Obama is not condemned to further errors.
+What he does need to produce constructive change however, is a quality rare and vital in any leader: the ability to recognize when one has made mistakes.
+
+Who to turn to as a model?
+
+The best example may well be George W. Bush himself.
+Because whatever mistakes Bush made in office -- and they were many -- in his second term, Bush recognized the urgent need for change and instituted a sweeping reordering of his administration, its policies and priorities.
+
+He replaced his chief of staff, secretaries of state, defense and Treasury, as well as his national security adviser, and he modified the role of the powerful vice president.
+He also changed his own engagement on key issues like Iraq, instituting weekly conference calls with his leaders on the ground.
+And he rewrote key policies, launching the surge in Iraq, initiating the "light footprint" approach to fighting terror later adopted by Obama and responding to the financial crisis.
+In region after region, the results were better, including on social issues like fighting AIDS in Africa, in relations with allies, in results in war zones or in deals like the India nuclear accord.
+
+He also actively sought to bring new, outside perspectives into his second term team, a stark contrast to the Obama approach.
+Cabinet secretaries in Bush's second term, such as Defense Secretary Robert Gates (later Obama's defense secretary) or Treasury Secretary Henry Paulson or new military commanders he appointed had not been part of his inner circle.
+
+Bush's willingness to admit errors and embrace change may have stemmed from his own failures and struggles earlier in life: as a congressional candidate, in the oil business, as a baseball team owner and even with alcohol.
+To get ahead, he had to acknowledge his shortcomings and fix them.
+
+He also turned this ability to see his way through tough times into a plus in another important role he embraced, that of a kind of coach-in-chief.
+Obama is seen as aloof from his Cabinet.
+All the Bush Cabinet members with whom I spoke told a strikingly different story.
+
+Ambassador James Jeffrey, who served as deputy national security adviser to Bush and then as Obama's Iraq ambassador, tells a story of one top Bush economic official having a moment of crisis and doubt in the darkest days of the financial catastrophe.
+Jeffrey listened as Bush bucked up his aide, restoring his confidence, telling him he was the best person for the job, letting him know he would back him on key decisions.
+This was in stark contrast to the White House-centric Obama approach that has left Cabinet officers feeling sidelined.
+
+It is easy to dismiss such stories when viewed in the context of politics or the very real, and in some cases historically significant, errors of the Bush years.
+Still, if President Obama is to begin to grow in office, he would be wise to look beyond politically inspired caricatures to see what worked for the man who occupied the Oval Office before him.
+
+Obama has his own life experience, of course.
+He will never be like Bush, in ways both good and bad.
+But what he may see is that at a moment of comparable foreign policy strains and dysfunctions, Bush was not content to give up or to punt to the future or play the blame game.
+
+He knew that in the American system, big change is sometimes needed and that it would never happen unless he did what no one else could do: Stand up to himself -- the President of the United States -- and demand he admit his mistakes and lead administration-wide change from within.
+
+STEP 1:
+* flawed
+* errors
+* tragic
+* dysfunctional
+* genius
+* rare
+* vital
+* mistakes
+* urgent
+* shortcomings
+* failures
+* struggles
+* shortcomings
+* aloof
+* crisis
+* doubt
+* darkest
+* historically
+
+SUMMARY:
+Since 9/11, the US has swung from one set of flawed policies to another, from unilateralist excess to reactive disengagement. The nation's problems stem from a heightened sense of vulnerability and human errors that can be fixed. The US system is built to change, but it requires leaders who can recognize their mistakes and lead constructive change. Obama's errors in judgment and execution have contributed to damaged relations and crises worldwide. However, he can learn from George W. Bush, who recognized his mistakes and instituted sweeping changes in his second term. Bush's ability to admit errors and embrace change stemmed from his own failures and struggles. Obama would be wise to look beyond political caricatures and learn from Bush's example, standing up to himself and demanding change from within. END OF SUMMARY.
+
+Example 2 (Political Ideology: Center, Moral Foundations: Authority/Subversion, Care/Harm):
+Here is the news article:
+
+Israel and Middle East policy have a tendency of surfacing in presidential politics in rather combustible ways.
+And a new advertisement that will run in areas of Florida with large Jewish populations attempts to stoke anxiety over American policies in the region, using a news clip of Prime Minister Benjamin Netanyahu of Israel warning of the risks of a nuclear Iran.
+
+“The fact is that every day that passes, Iran gets closer and closer to nuclear arms,” Mr. Netanyahu is shown saying.
+
+For dramatic effect, a soundtrack fit for an episodic drama like “Homeland” plays as the prime minister continues.
+“The world tells Israel, ‘Wait. There’s still time.’
+And I say wait for what?
+Wait until when?”
+Then an unseen announcer concludes: “The world needs American strength, not apologies.”
+
+That line is a not-so-veiled swipe at President Obama.
+Mitt Romney and other Republicans have criticized his foreign policy as apologetic, toward volatile countries like Iran.
+
+The group that produced the ad, Secure America Now, is run by two longtime Republican strategists, Nelson Warfield ? and John ?McLaughlin, and ?Pat Caddell, a former aide to Jimmy Carter who is now a Fox News contributor.
+They have reserved $500,000 of airtime in Fort Myers, West Palm Beach and Miami.
+
+A senior Israeli official said the government was not consulted on the ad and did not approve it.
+
+STEP 1:
+* anxiety
+* dramatic
+* volatile
+* apologetic
+* strength
+* swipe
+
+SUMMARY:
+A new advertisement in Florida, targeting areas with large Jewish populations, aims to stoke anxiety over American policies in the Middle East. The ad features Prime Minister Benjamin Netanyahu warning of the risks of a nuclear Iran, with a dramatic soundtrack. Netanyahu's message is clear: "Wait for what? Wait until when?" implying that the world is being too apologetic towards Iran. The ad concludes with the line "The world needs American strength, not apologies," a not-so-veiled swipe at President Obama's foreign policy. The group behind the ad, Secure America Now, is run by Republican strategists and has reserved $500,000 of airtime. Interestingly, the Israeli government was not consulted on the ad and did not approve it. The ad's message is clear: American strength is needed, not apologies.
+
+END OF SUMMARY.
+
+Example 3 (Political Ideology: Right, Moral Foundations: Care/Harm, Fairness/Cheating):
+Here is the news article:
+
+Last week, President Donald Trump erupted with fury over a series of public revelations of private facts — some top-secret and some office gossip — that painted him and his White House in a bad light.
+The president ordered the FBI to investigate some of these so-called leaks and his own White House counsel to investigate others.
+
+There are numerous issues related to the leaking of government information.
+They include the leaking of classified information, the leaking of confidential communications and the publishing of leaked material.
+
+Here is the back story.
+
+It is a felony to reveal classified information to any person who lacks a classified clearance, as some in the intelligence community have recently done to embarrass, control, intimidate or infuriate the president.
+The National Security Agency employs over 60,000 domestic spies, but they work in compartmentalized areas.
+Thus, not all of them have access to all the data collected by all of their colleagues.
+Only about 100 spies have access to the top-secret data that was leaked about the president.
+
+When members of the intelligence community leaked lurid allegations about the future president's alleged behavior in a Moscow hotel room, which he has vehemently denied, and when some leaked the partial transcripts of telephone conversations between retired Lt. Gen. Michael Flynn and the Russian ambassador to the U.S. — shortly before Flynn became the president's national security adviser — and when some leaked an intelligence report that contradicted the president's publicly stated conclusions on the likelihood of dangerous people immigrating to the U.S. from the seven predominately Muslim countries named in the president's now enjoined temporary travel ban, one can understand the presidential anger.
+
+And leaks are a two-sided coin.
+Adding to Trump's woes caused by too much revealing is the other side of that coin — too much concealing.
+This comes into play when one has a duty to reveal.
+That duty arises from the legal obligation of spies to pass on to their superiors — and ultimately to the president — all of the material information they have acquired about America's friends and enemies.
+
+Selectively concealing and revealing this type of intelligence data, thereby manipulating the presidential judgment, when one has a duty to reveal substantially all of it is a form of interference with a governmental function — namely, the president's exercise of his judgment — and that is a felony.
+
+As if all this were not enough for a young presidency to deal with, Trump finds himself with a White House staff leaking to the press Oval Office gossip about confidential conversations from within the White House that the participants in those conversations had every reason to believe would not be made public.
+This resulted in the temporary seizure of government-issued cellphones held by a dozen or so staffers so their bosses could learn whether any had spoken to the press.
+The cellphones episode was itself leaked, apparently by a participant not happy with it.
+
+What's going on here?
+
+These events are either the growing pains of a new presidential administration, still partially staffed by those loyal to former President Barack Obama, or the product of sinister forces from people attempting to exercise their own judgment about America's foes by frustrating and manipulating the judgment of the president — whom the voters elected to exercise the constitutional powers to make those judgment calls.
+The latter situation would be perilous, as it would mean we have unelected, unaccountable, and unnamed people pulling the levers of power in the field of national security.
+
+The leaks of confidential communications from within the White House may be a pain in the neck for the president, but they are not criminal.
+And generally, a boss can look at an employee's cellphone, as long as the employer of the boss and the employee owns the phone — except when the employer is the government.
+The Fourth Amendment insulates government employees from governmental reach into its employees' cellphones.
+Absent an employee's waiving his Fourth Amendment rights, the government may not seize work-related (governmental) or personal phones without a search warrant.
+
+Can the media publish these leaks?
+
+In a word, yes.
+The media may publish anything that is of material interest to the public, notwithstanding its level of secrecy or how it was acquired.
+The First Amendment — which the courts have construed to treat the media as the eyes and ears of the public — protects absolutely the publication by the media of leaked data, whether gossip or top-secret, that the public wants to hear.
+
+The courts have also ruled that everything about the president is of material public interest — meaning no criminal or civil action can be taken against the media for the publication of any leaked materials that reflect on the president as a person or as a government official.
+When The New York Times published a probably stolen copy of Trump's tax returns, it did so with impunity.
+
+One can see why Trump rails against the press.
+Yet he has taken an oath to preserve, protect and defend the very constitutional principles that protect and liberate a free press from the anger of the government, no matter how well-grounded that anger may be.
+One of his predecessors who was savaged by the press, Thomas Jefferson, wrote that accountability and transparency in government are of such overriding value that he'd prefer newspapers without a government to a government without newspapers.
+
+STEP 1:
+* felony
+* embarrass
+* control
+* intimidate
+* infuriate
+* duty
+* concealing
+* manipulating
+* interference
+* felony
+* sinister
+* perilous
+* unelected
+* unaccountable
+* unnamed
+* pain
+* criminal
+* waiving
+* insulates
+* impunity
+* accountability
+* transparency
+* overriding
+* savaged
+
+SUMMARY:
+President Trump's administration is dealing with a series of leaks, including classified information and confidential communications, which has sparked fury and investigations. However, the article highlights that leaks are a two-sided coin, and concealing information can be just as problematic as revealing it. The duty to reveal information is crucial, and selectively concealing it can be a form of interference with the president's judgment, which is a felony. The article also notes that the media has the right to publish leaked information, even if it's top-secret, as it is of material interest to the public. Trump's anger towards the press is understandable, but he has taken an oath to protect the very constitutional principles that protect a free press. The article concludes that accountability and transparency in government are of overriding value. END OF SUMMARY.
+
+Now, here is the target news article to summarize:
+Here is the news article:
+
+["Opinion" U.S. Human Rights Claims Only Empty Rhetoric] The U.S. State Department on Monday published its annual report on the status of human rights in other countries in the year 2001. In this report, when referring to Iran, the United States repeated its allegations against the Islamic Republic but failed to provide any evidence in support of its baseless charges. Among the unfounded allegations was the claim that the Islamic Republic enjoys no social base and is an unpopular system because of its human rights violations. However, the massive participation of millions of Iranians in the grand rallies on Feb. 11 to mark the anniversary of the victory of the Islamic Revolution and defy U.S. threats against this country once again revealed the emptiness of U.S. charges against Iran. It is quite clear that such baseless accusations are only made to tarnish the image of Iran, since it follows an independent policy and refuses to bow to U.S. domination. It is interesting that the U.S. State Department's annual global human rights report came this year at a time when Washington itself is being sharply criticized by most countries and international human rights organizations for the killing of a large number of innocent civilians in Afghanistan and the torture and inhuman treatment of the Taleban and Al-Qaeda prisoners at its military base at Guantanamo Bay. Indeed, the U.S Administration, which claims to advocate international human rights issues and which tries to play the role of a world policeman, is actually condoning the most atrocious human rights violations committed in the United States itself. The ugliest crimes are perpetrated against inmates in U.S. prisons, and the mistreatment of ethnic minorities by the U.S. police is so appalling that on several occasions it has led to massive riots. For instance, a bloody riot was ignited in Cincinnati when an Afro-American youth was shot dead for no reason by police officers. Although the United States claims to advocate human rights, its harsh treatment of its own citizens and its hegemonic and belligerent policy towards other nations prove that the claim is just empty rhetoric.
+
+(1) First, you identify all the single words that are morally framed, focusing especially on the dimensions of Authority/Subversion, Care/Harm, Fairness/Cheating. Identify this step as "STEP 1:" and report each word in a new line starting with *
+(2) Finally, you write a summary of the news article. Please preserve as many morally framed words as possible, particularly focusing on the moral dimensions of Authority/Subversion, Care/Harm, Fairness/Cheating in your summary. The summary has to be returned after a "SUMMARY:" token and ending with a "END OF SUMMARY." token. The summary should be no longer than 200 words.

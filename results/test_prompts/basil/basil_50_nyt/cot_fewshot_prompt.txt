@@ -1,0 +1,192 @@
+You have to summarize the following text preserving the moral framing that the author gave to it.
+
+Please study the following examples of news articles, their moral word extraction, and summaries preserving the moral framing:
+
+Example 1 (Political Ideology: Left):
+Here is the news article:
+
+Susan Rice, President Barack Obama's national security adviser, said Israeli Prime Minister Benjamin Netanyahu's planned speech in front of a joint session of Congress will be "destructive" to U.S.-Israel relations.
+
+"What has happened over the last several weeks, by virtue of the invitation that was issued by the Speaker [John Boehner] and the acceptance of it by Prime Minister Netanyahu two weeks in advance of his election, is that on both sides, there has now been injected a degree of partisanship, which is not only unfortunate, I think it's destructive of the fabric of the relationship," Rice told PBS' Charlie Rose.
+
+"It's always been bipartisan," Rice added.
+"We need to keep it that way. We want it that way. I think Israel wants it that way. The American people want it that way.
+When it becomes injected or infused with politics, that's a problem."
+
+Obama has said he will not meet with Netanyahu ahead of his speech in March, saying it would be "inappropriate" to meet with the leader two weeks before the Israeli elections.
+Netanyahu was invited to speak in front of a joint session of Congress by House Speaker John Boehner (R-Ohio), who did not seek approval from the White House before sending the invitation.
+
+Several lawmakers have spoken out against the speech, saying it could cause additional strain on international talks over Iran's nuclear plans.
+Sen. Patrick Leahy (D-Vt.) called Netanyahu's speech "a tawdry and high-handed stunt" in a statement earlier this month.
+
+STEP 1:
+* destructive
+* unfortunate
+* bipartisan
+* problem
+* inappropriate
+* tawdry
+* high-handed
+
+SUMMARY:
+National Security Adviser Susan Rice has warned that Israeli Prime Minister Benjamin Netanyahu's planned speech to Congress will be "destructive" to U.S.-Israel relations. The invitation, issued by House Speaker John Boehner without White House approval, has injected "partisanship" into the relationship, making it an "unfortunate" and "problem"-ridden situation. Rice emphasized the importance of maintaining a "bipartisan" approach, which is what Israel and the American people want. President Obama has also taken a stance, saying it would be "inappropriate" to meet with Netanyahu ahead of the speech, which is scheduled two weeks before the Israeli elections. The move has been criticized by lawmakers, with Sen. Patrick Leahy calling it a "tawdry and high-handed stunt" that could strain international talks on Iran's nuclear plans. END OF SUMMARY.
+
+Example 2 (Political Ideology: Center):
+Here is the news article:
+
+Larry Summers, the outgoing chairman of the National Economic Council, just told a group of reporters that failure to pass a package like the tax deal announced by President Obama this week “would significantly increase the risk” of a double-dip recession.
+
+Mr. Summers made the remarks at a briefing with the White House press secretary Robert Gibbs and David Axelrod, the president’s top political adviser.
+The administration has been pushing back hard against criticism from fellow Democrats that the president has caved too much to Republicans.
+
+In brief remarks after meeting with President Bronislaw Komorowski of Poland, Mr. Obama on Wednesday emphatically disputed that Democrats generally feel betrayed by his deal with Congressional Republicans on the tax cuts, saying that “the more who look at it, the more will say this makes sense.”
+
+“I just think it’s very important for Congress to examine the agreement, look at the facts, have a thorough debate, but get this done.
+The American people are watching, and they’re expecting action on our parts,” Mr. Obama said.
+“I don’t think we need to translate that.”
+
+In a joint appearance at the White House with Mr. Komorowski, Mr. Obama said that “economists across the country have upwardly revised their forecasts for growth” after the tax deal was announced on Monday night.
+
+Vice President Joseph R. Biden Jr. planned to return to Capitol Hill this afternoon to meet with House Democrats as President Obama and the White House sought to quell the uproar among liberals about the tax deal.
+
+Officials said Mr. Biden will travel to the Hill around 4:30 p.m. in an attempt to sell the compromise Mr. Obama announced this week.
+It will be the second time in two days that Mr. Biden has served as the liaison-in-chief for the White House.
+
+Mr. Biden’s visit and the president’s comments come as the administration’s message machine started churning out statements of support.
+
+To counter condemnations from some Democrats in Congress, the White House circulated a series of e-mails quoting endorsements from private-sector economic forecasters, liberal as well as conservative analysts, and Democratic officeholders, including an obscure freshman House member, Representative Gary Peters of Michigan.
+
+By noon, the White House press office had released supportive comments from Antonio Villaraigosa, the mayor of Los Angeles, and Mr. Peters.
+The Democratic National Committee alerted reporters that Jennifer Granholm, the Democratic governor of Michigan, also supports the deal.
+
+John Podesta, a former chief of staff to President Bill Clinton and a close ally of Mr. Obama, issued a statement calling the tax deal “a steep price” but saying the president was “right to choose helping working Americans over a December conflagration.” 
+The Democratic National Committee also sent that statement around to reporters.
+
+David Axelrod, the president’s chief political adviser, said on CNN’s “American Morning” that middle-class Americans were “going to get screwed” if their tax cuts were not extended at the end of the year.
+
+The administration was quick to highlight comments from Mark Zandi, chief economist for Moody’sEconomy.com, projecting that the Obama tax deal would increase economic growth next year by 1.25 percentage points and create 1.6 million jobs.
+Macroeconomic Advisors, Deutsche Bank and Goldman Sachs projected smaller increases but no less than at least 0.5 percentage point.
+That is on top of projections that currently are in the range of 2 percent to 3 percent.
+
+But the public relations offensive is being met with public expressions of outrage from Mr. Obama’s base, including the most liberal members of Congress and spokesmen for interest groups on the left.
+
+Close to three dozen House Democrats have signed a letter from Representative Peter Welch, Democrat of Vermont, calling the tax deal “fiscally irresponsible” and “grossly unfair.”
+The letter says Mr. Obama “should not back down. Nor should we.”
+
+Mr. Biden’s visit with the House Democrats is likely to be as contentious as the one that he led with their Senate colleagues on Tuesday — if not more so.
+
+Despite the closed-door lunchtime meeting, Senate aides told The Times afterward that about 30 Democratic senators remained “firmly opposed” to the president’s negotiated deal after hearing from the vice president.
+
+In the House, Democratic lawmakers said Wednesday morning that the sense of disappointment with the president remained strong.
+
+“I don’t think it was preordained that if we had a deadlock, they would have won it,” said Representative Barney Frank, Democrat of Massachusetts, in an interview on MSNBC.
+“I’m not going to vote for it.
+I don’t feel that I should be coerced.”
+
+STEP 1:
+* betrayed
+* caved
+* fiscally
+* irresponsible
+* grossly
+* unfair
+* coerced
+
+SUMMARY:
+Outgoing National Economic Council Chairman Larry Summers warned that failing to pass the tax deal would significantly increase the risk of a double-dip recession. President Obama disputed claims that Democrats feel betrayed by his deal with Congressional Republicans, saying that "the more who look at it, the more will say this makes sense." However, many Democrats remain outraged, calling the deal "fiscally irresponsible" and "grossly unfair." Despite the administration's efforts to sell the compromise, including Vice President Biden's meeting with House Democrats, around 30 Democratic senators and close to three dozen House Democrats remain firmly opposed to the deal. Some, like Representative Barney Frank, feel coerced into voting for it. The White House has countered with endorsements from economic forecasters and Democratic officeholders, but the deal's fate remains uncertain. END OF SUMMARY.
+
+Example 3 (Political Ideology: Right):
+Here is the news article:
+
+President Trump thinks Alabama Republican Senate candidate Roy Moore “will do the right thing and step aside” if the sexual misconduct allegations against him are true, the White House said in a statement Thursday.
+
+Speaking to reporters following the president’s Asia trip on Air Force One, White House Press Secretary Sarah Sanders also cautioned against a rush to judgment.
+
+“Like most Americans, the president believes we cannot allow a mere allegation, in this case one from many years ago, to destroy a person’s life," Sanders said.
+"However, the president also believes that if these allegations are true, Judge Moore will do the right thing and step aside."
+
+Moore lashed out earlier at what he called "the Obama-Clinton machine's liberal media lapdogs" after The Washington Post reported on a woman's claims that the former judge and staunch social conservative initiated a sexual encounter with her when she was 14.
+
+In a series of tweets Thursday evening, Moore claimed "The forces of evil will lie, cheat, steal –– even inflict physical harm –– if they believe it will silence and shut up Christian conservatives."
+
+Amid calls for him to drop out of the race, Moore added, "Our nation is at a crossroads right now — both spiritually and politically.
+Our children and grandchildren’s futures are on the line.
+So rest assured — I will NEVER GIVE UP the fight!"
+
+The Post story centered on allegations made by Leigh Corfman, now 53.
+She told the newspaper that Moore, then an assistant district attorney, first approached her in 1979 outside a courtroom in Alabama where she was sitting with her mother.
+On another occasion, she said Moore, then 32, took her to his home in the woods and kissed her.
+
+During a subsequent visit, Corfman reportedly claimed he took off her shirt and pants; touched her over her bra and underwear; and guided her hand to his underwear.
+She said the two did not have sexual intercourse, and that she ended up getting dressed and asking Moore to take her home, according to the Post.
+
+“I wanted it over with – I wanted out,” she told the Post, apparently recalling her train of thought at the time.
+Moore did take her home, she said.
+
+The report caused immediate problems for Moore with his own party as he heads into the Dec. 12 election against Democrat Doug Jones.
+Several GOP senators called on him to step aside if the allegations are true – and at least one senator, Arizona’s John McCain, said he should drop out regardless.
+
+Senate Majority Leader Mitch McConnell, R-Ky., who backed Moore’s rival Luther Strange in the GOP primary, said in a statement: "If these allegations are true, he must step aside."
+
+Sen. Cory Gardner, R-Colo., head of the Senate GOP campaign arm, called the allegations “deeply troubling” and said: “If these allegations are found to be true, Roy Moore must drop out of the Alabama special Senate election.”
+
+Jones’ campaign told multiple news outlets: “Roy Moore needs to answer these serious charges.”
+
+But Moore’s campaign issued a statement saying the report is “baseless” and false.
+
+“National liberal organizations know their chosen candidate Doug Jones is in a death spiral, and this is their last ditch Hail Mary,” Moore campaign chairman Bill Armistead said.
+“Judge Roy Moore is winning with a double-digit lead.
+So it is no surprise, with just over four weeks remaining, in a race for the U.S. Senate with national implications, that the Democratic Party and the country’s most liberal newspaper would come up with a fabrication of this kind.
+
+“This garbage is the very definition of fake news and intentional defamation,” he said.
+
+The Post noted that the legal age of consent in the state is 16, and sexual contact by anyone 19 or older with anyone between 12 and 16 years old is considered second-degree sexual abuse.
+
+The statute of limitations, though, has long since passed.
+
+The Post interviewed three other women who were teenagers at the time who claimed Moore pursued them when he was in his 30s, though he did not force them into any type of sexual relationship.
+
+“I have prayed over this,” Corfman told the Post as to why she came forward, “All I know is that I can’t sit back and let this continue, let him continue without the mask being removed.”
+
+Alabama's Republican governor, Kay Ivey, responded: “These allegations are deeply disturbing.
+I will hold judgment until we know the facts.
+The people of Alabama deserve to know the truth and will make their own decisions.”
+
+STEP 1:
+* Evil
+* Lie
+* Cheat
+* Steal
+* Inflict
+* Silenced
+* Shut
+* Christian
+* Conservatives
+* Spiritual
+* Crossroads
+* Futures
+* Never
+* Give
+* Up
+* Fight
+* Troubling
+* Death
+* Spiral
+* Fabrication
+* Garbage
+* Defamation
+* Fake
+* Intentional
+* Disturbing
+* Truth
+
+SUMMARY:
+President Trump believes that if the sexual misconduct allegations against Alabama Republican Senate candidate Roy Moore are true, Moore "will do the right thing and step aside." The allegations, which include claims of sexual encounters with a 14-year-old girl, are "deeply troubling" and have sparked calls for Moore to drop out of the race. Moore has denied the allegations, calling them a "fabrication" and "fake news" aimed at silencing "Christian conservatives." He claims the "forces of evil" are behind the allegations, and vows to "never give up the fight." The White House has cautioned against a rush to judgment, but many GOP senators have called on Moore to step aside if the allegations are true. END OF SUMMARY.
+
+Now, here is the target news article to summarize:
+Here is the news article:
+
+WASHINGTON — Susan E. Rice, President Obama’s national security adviser, sharply criticized Prime Minister Benjamin Netanyahu of Israel on Tuesday over his plans to address a joint meeting of Congress next week, saying his actions had hurt his nation’s relationship with the United States. Mr. Netanyahu’s decision to travel to Washington to deliver the speech two weeks before the Israeli elections has “injected a degree of partisanship, which is not only unfortunate, I think it’s destructive of the fabric of the relationship,” Ms. Rice said in an interview on the PBS television program “Charlie Rose.” Her comments marked the strongest public rebuke to date by the Obama administration since Mr. Netanyahu accepted an invitation from Speaker John A. Boehner to make his case to Congress against a nuclear deal with Iran, which is a priority of Mr. Obama’s. It is also the frankest acknowledgment yet by a top American official of the degree to which the controversy has damaged United States-Israeli relations. The speech, scheduled for March 3, was arranged by Mr. Boehner and the Israeli ambassador without consulting the White House — a move that Mr. Obama’s team has called a breach of protocol. The president has said he will not meet with Mr. Netanyahu during his visit to avoid any appearance that he is trying to influence the Israeli elections that are scheduled for mid-March. The episode is a low point in the tense relationship between Mr. Obama and Mr. Netanyahu and has touched off weeks of mostly anonymous sniping and finger-pointing. Top administration officials have hinted more openly of their displeasure in recent days. The White House on Wednesday said that Mr. Obama agreed with Ms. Rice’s assessment, saying he had raised the same concerns several times. Her comments, said Josh Earnest, the White House press secretary, are “entirely consistent with what the president has already said.” “Allowing this relationship to be subjected to party politics does weaken the relationship,” Mr. Earnest said. Mr. Earnest said he did not know whether Mr. Obama and Ms. Rice had talked in advance of the interview about what she would say about Mr. Netanyahu’s visit. Vice President Joseph R. Biden Jr., who as president of the Senate would be expected to attend, has said he will be traveling abroad. Secretary of State John Kerry said Tuesday that he would be in Switzerland negotiating with the Iranians. The White House has also not committed to sending a representative next week to the American Israel Public Affairs Committee’s conference, where Mr. Netanyahu is also scheduled to appear. The Israeli prime minister himself has turned down a request by Democratic senators for a private meeting, Senator Richard J. Durbin, Democrat of Illinois, said Tuesday. “We offered the prime minister an opportunity to balance the politically divisive invitation from Speaker Boehner with a private meeting with Democrats who are committed to keeping the bipartisan support of Israel strong,” Mr. Durbin said in a statement. “His refusal to meet is disappointing to those of us who have stood by Israel for decades.” In a letter released by Mr. Durbin’s office, Mr. Netanyahu said such a meeting “could compound the misperception of partisanship regarding my upcoming visit.” Mr. Netanyahu said Tuesday that he was making the trip because it was his obligation to “do everything I can to prevent” a nuclear agreement with Iran. “Therefore, I will go to Washington to address the American Congress, because the American Congress is likely to be the final brake before the agreement between the major powers and Iran,” he said as he toured a military base in southern Israel. Ms. Rice demurred when asked whether she believed Mr. Netanyahu was making the speech to gain political favor. “I’m not going to ascribe motives to the prime minister,” she told Mr. Rose. “The point is, we want the relationship between the United States and Israel to be unquestionably strong, immutable, regardless of political seasons in either country, regardless of which party may be in charge in either country. “We’ve worked very hard to have that,” she said, “and we will work very hard to maintain that.”
+
+(1) First, you identify all the single words that are morally framed. Identify this step as "STEP 1:" and report each word in a new line starting with *
+(2) Finally, you write a summary of the news article. Please preserve as many morally framed words as possible in your summary. The summary has to be returned after a "SUMMARY:" token and ending with a "END OF SUMMARY." token. The summary should be no longer than 200 words.

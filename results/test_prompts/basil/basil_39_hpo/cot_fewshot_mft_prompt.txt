@@ -1,0 +1,146 @@
+You have to summarize the following text preserving the moral framing that the author gave to it, with particular focus on the specific moral foundations highlighted in the text.
+
+Please study the following examples of news articles, their moral word extraction, and summaries preserving the moral framing:
+
+Example 1 (Political Ideology: Left, Moral Foundations: Authority/Subversion, Fairness/Cheating):
+Here is the news article:
+
+House Speaker Nancy Pelosi is not upset over Michigan Rep. Rashida Tlaib’s vulgar comment on impeaching President Donald Trump, said just hours after Thursday’s swearing-in ceremony on the House floor.
+
+Asked for her reaction to Tlaib’s “colorful language” ― the new Democratic congresswoman vowed to “impeach that motherfucker,” referring to Trump ― Pelosi said it was a free speech issue.
+
+“I probably have a generational reaction to it, but in any event I’m not in the censorship business,” she told MSNBC’s Joy Reid in a town hall interview set to air in full Friday evening.
+
+“I don’t like that language.
+I wouldn’t use that language,” the House speaker continued, noting that she doesn’t tell her colleagues what to say.
+
+“But I don’t think it’s any worse than what the president has said,” she concluded.
+Trump infamously bragged about grabbing women “by the pussy” in a leaked tape from 2005; since taking office he has referred to certain other nations as “shithole countries” and slung insults at a wide range of political foes.
+
+Pelosi reasoned that while Trump’s comments have the power to “impact people’s lives,” the new congresswoman’s comments do not.
+
+Tlaib, who became one of the first Muslim women in Congress on Thursday, dropped the expletive as she spoke to a crowd of supporters at an event hosted by the progressive group MoveOn.
+
+Talking about her victory, she said: “And when your son looks at you and says, ‘Mama, look, you won.
+Bullies don’t win.’
+And I say, ‘Baby, they don’t.’
+Because we’re gonna go in there, and we’re gonna impeach the motherfucker.”
+
+As she passed the microphone, the crowd erupted into cheers.
+
+Pelosi told Reid that the comment might fire up Trump’s base, but doesn’t actually make much of a difference to actual House business.
+
+Any controversy over Tlaib’s comment concerns the “freedom of speech of an individual member,” not the stance of the Democratic caucus, Pelosi said.
+
+Trump appeared to respond to Tlaib over Twitter Friday morning, writing: “They only want to impeach me because they know they can’t win in 2020, too much success!”
+
+STEP 1:
+* Vulgar
+* Colorful
+* Censorship
+* Worse
+* Infamously
+* Shithole
+* Insults
+* Bullies
+
+SUMMARY:
+House Speaker Nancy Pelosi defended Michigan Rep. Rashida Tlaib's "vulgar" comment on impeaching President Donald Trump, calling it a "free speech" issue. Tlaib vowed to "impeach that motherfucker" in a speech, which Pelosi acknowledged was not language she would use, but noted that Trump's own comments have been "infamously" offensive, including bragging about grabbing women and referring to certain nations as "shithole countries". Pelosi argued that while Trump's comments have the power to "impact people's lives", Tlaib's comments do not. The House Speaker also downplayed the controversy, saying it concerns the "freedom of speech of an individual member", not the stance of the Democratic caucus. Trump responded on Twitter, claiming that Democrats only want to impeach him because they know they can't win in 2020. END OF SUMMARY.
+
+Example 2 (Political Ideology: Center, Moral Foundations: Fairness/Cheating):
+Here is the news article:
+
+Mary Cheney, the younger sister of Liz Cheney, a Wyoming Senate candidate, sharply criticized her sister’s stance on same-sex marriage and urged her own Facebook friends to share the message.
+
+Posting on Facebook on Friday evening, Mary Cheney, who is gay and married her longtime partner last year, wrote: “For the record, I love my sister, but she is dead wrong on the issue of marriage.”
+
+Their father, former Vice President Dick Cheney, supports same-sex marriage, and the younger Cheney echoed some of his language on the issue when she added, “Freedom means freedom for everyone.”
+
+“That means that all families — regardless of how they look or how they are made — all families are entitled to the same rights, privileges and protections as every other,” Mary Cheney wrote.
+
+Earlier Friday, Liz Cheney revealed her position on same-sex marriage, a topic she has kept relatively quiet about since declaring her candidacy in July against incumbent Senator Mike Enzi, Republican of Wyoming.
+
+“I am not pro-gay marriage,” Liz Cheney said in a statement responding to an apparent push poll against her in Wyoming.
+“I believe the issue of marriage must be decided by the states, and by the people in the states, not by judges and not even by legislators, but by the people themselves.”
+
+That position — deferring to the will of the voters on a state-by-state basis — may represent something of a compromise between total support or opposition.
+But it did little to placate her sister.
+
+“It’s not something to be decided by a show of hands,” Mary Cheney wrote.
+
+And to emphasize that she was not shying away from drawing attention to her view, Mary Cheney concluded her Facebook post: “Please like and share if you agree.”
+
+In an e-mail, Mary Cheney declined to comment further on her sister’s position, saying she would let her Facebook post speak for itself.
+
+The Cheney family dispute mirrors the broader disagreement among Republicans on same-sex marriage.
+Less than a decade after George W. Bush and Dick Cheney won re-election in part thanks to conservative enthusiasm over enshrining traditional marriage into law, some in the party believe they are losing voters, particularly younger ones, over an issue on which public opinion has changed rapidly.
+But other Republicans believe traditional marriage is a pillar of family values, and in some cases are reluctant to abandon their social conservative base on the issue.
+
+Liz Cheney’s stance underlines the degree to which full-throated support for same-sex marriage, even in a libertarian-leaning state like Wyoming, still poses a political risk in a Republican primary.
+
+Mr. Enzi opposes legalizing same-sex marriage.
+
+STEP 1:
+* freedom
+* dead
+* wrong
+* entitled
+* rights
+* privileges
+* protections
+* pro-gay
+* opposition
+* compromise
+* pillar
+* values
+* risk
+
+SUMMARY:
+Mary Cheney, the gay sister of Wyoming Senate candidate Liz Cheney, publicly criticized her sister's stance on same-sex marriage, calling it "dead wrong." Mary Cheney, who is married to her longtime partner, emphasized that "freedom means freedom for everyone" and that all families, regardless of how they are made, are "entitled to the same rights, privileges, and protections." Liz Cheney, on the other hand, believes that the issue of marriage should be decided by the states and the people, rather than by judges or legislators. Mary Cheney argued that this is not an issue to be decided by a "show of hands," implying that it is a matter of fundamental rights. The disagreement between the Cheney sisters reflects the broader debate among Republicans on same-sex marriage, with some seeing it as a "pillar" of family values and others recognizing the need to adapt to changing public opinion. END OF SUMMARY.
+
+Example 3 (Political Ideology: Right, Moral Foundations: Care/Harm):
+Here is the news article:
+
+Call it Cheney versus Cheney.
+
+Mary Cheney, one of ex-Vice President Dick Cheney’s two daughters, has taken to Facebook to blast her older sibling, Elizabeth, a Wyoming Senate candidate, for the latter’s stance on same-sex marriage, The New York Times is reporting.
+
+Mary Cheney, openly lesbian and married to Heather Poe since 2012, reportedly posted to her personal page on the social media site: “For the record, I love my sister, but she is dead wrong on the issue of marriage.
+
+“Freedom means freedom for everyone.
+That means that all families — regardless of how they look or how they are made — all families are entitled to the same rights, privileges and protections as every other.”
+
+The Times reports Liz Cheney on Friday first articulated her position on the controversial subject, saying it should be something for voters to decide on a state-by-state basis, and not a matter for “judges” or “legislators.”
+
+“I am not pro-gay marriage,” Liz Cheney reportedly said.
+“I believe the issue of marriage must be decided by the states, and by the people in the states, not by judges and not even by legislators, but by the people themselves.”
+
+Her sister replied by pulling no punches.
+
+“It’s not something to be decided by a show of hands,” Mary Cheney reportedly wrote on her personal Facebook page, concluding her internecine post by saying, “Please like and share if you agree.”
+
+Elizabeth Cheney declared in July she plans to challenge incumbent Senator Mike Enzi, also a Republican, in the state’s Republican primary.
+The election is slated for 2014.
+
+Former Vice President Cheney has publicly voiced support for same-sex marriage and, mirroring Elizabeth’s stance, has reportedly said the matter should be decided on a state-by-state basis.
+
+STEP 1:
+* wrong
+* freedom
+* entitled
+* right
+* privileges
+* protections
+* pro-gay
+* show
+
+SUMMARY:
+In a rare public display of sibling disagreement, Mary Cheney, an openly lesbian woman, took to Facebook to blast her sister Elizabeth Cheney, a Wyoming Senate candidate, for her stance on same-sex marriage. Mary Cheney wrote that her sister is "dead wrong" on the issue, emphasizing that "freedom means freedom for everyone" and that all families are "entitled to the same rights, privileges, and protections." Elizabeth Cheney, on the other hand, believes that the issue of marriage should be decided by the states and the people, not by judges or legislators. Mary Cheney countered that it's not something to be decided by a "show of hands." The sisters' disagreement highlights the complex and contentious nature of the same-sex marriage debate. END OF SUMMARY.
+
+Now, here is the target news article to summarize:
+Here is the news article:
+
+Mary Cheney, the younger sister of Wyoming U.S Senate candidate Liz Cheney (R) and daughter of former Vice President Dick Cheney, criticized her sister's opposition to same-sex marriage in a Friday Facebook post, the New York Times reports. According to the Times, Mary Cheney, who is openly gay and married her partner, Heather Poe, in Washington, DC last year, took to Facebook to rebuke her sister's remarks. “For the record, I love my sister, but she is dead wrong on the issue of marriage," she wrote. "Freedom means freedom for everyone," she continued. "That means that all families — regardless of how they look or how they are made — all families are entitled to the same rights, privileges and protections as every other." On Friday, Liz Cheney issued a statement voicing her opposition to same-sex marriage. "I am strongly pro-life and I am not pro-gay marriage," she said. “I believe the issue of marriage must be decided by the states, and by the people in the states, not by judges and not even by legislators, but by the people themselves." The elder Cheney daughter is challenging Sen. Mike Enzi (R-Wyo.) in next year's Republican primary. Previously, she had spoken out against the military's former "don't ask, don't tell" policy. According to The Hill, Cheney sought to clarify her position after an alleged poll in Wyoming said she "supports abortion and aggressively promotes gay marriage." Her opposition also puts her at odds with her father, who offered support for gay marriage in 2009. "I think that freedom means freedom for everyone," the former vice president said. "As many of you know, one of my daughters is gay and it is something we have lived with for a long time in our family. I think people ought to be free to enter into any kind of union they wish."
+
+(1) First, you identify all the single words that are morally framed, focusing especially on the dimensions of Authority/Subversion, Care/Harm, Fairness/Cheating. Identify this step as "STEP 1:" and report each word in a new line starting with *
+(2) Finally, you write a summary of the news article. Please preserve as many morally framed words as possible, particularly focusing on the moral dimensions of Authority/Subversion, Care/Harm, Fairness/Cheating in your summary. The summary has to be returned after a "SUMMARY:" token and ending with a "END OF SUMMARY." token. The summary should be no longer than 200 words.

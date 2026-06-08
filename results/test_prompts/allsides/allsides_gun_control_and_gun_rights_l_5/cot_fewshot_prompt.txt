@@ -1,0 +1,245 @@
+You have to summarize the following text preserving the moral framing that the author gave to it.
+
+Please study the following examples of news articles, their moral word extraction, and summaries preserving the moral framing:
+
+Example 1 (Political Ideology: Left):
+Here is the news article:
+
+Obama Gun Control Proposals Unveiled, Marking Biggest Legislative Effort In A Generation
+
+WASHINGTON -- In a bold and potentially historic attempt to stem the increase in mass gun violence, President Barack Obama unveiled on Wednesday the most sweeping effort at gun control policy reform in a generation.
+
+"This is our first task as a society: keeping our children safe.
+This is how we will be judged," Obama said.
+“We can’t put this off any longer."
+
+The proposal, which comes at the end of a month-long review process spearheaded by Vice President Joe Biden, is broken down into four key subsections: law enforcement, the availability of dangerous firearms and ammunition, school safety and mental health.
+
+In an effort to touch on all four of those elements, the president recommended requiring criminal background checks for all gun sales; reinstating the assault weapons ban; restoring a 10-round limit on ammunition magazines; eliminating armor-piercing bullets; providing mental health services in schools; allocating funds to hire more police officers; and instituting a federal gun trafficking statute, among other policies.
+The cost of the package, senior officials estimated, would be roughly $500 million, some of which could come from already budgeted funds.
+
+Because these recommendations require congressional approval, the administration is supplementing its proposal with 23 executive actions that will be taken immediately.
+Those actions include requiring federal agencies to hand over relevant data for a background check system; providing law enforcement officials, first responders and school officials with better training for active shooting situations; directing the Centers for Disease Control to research the causes and prevention of gun violence; and many more.
+
+"I intend to use whatever weight this office holds to make them a reality," said the president, speaking about his full set of recommendations.
+"If there's even one life that can be saved, then we've got an obligation to try."
+
+The approach is so sweeping that what would have otherwise been a headline-grabbing announcement received second billing.
+The president on Wednesday will nominate Byron Todd Jones, the acting director of the Bureau of Alcohol, Tobacco, Firearms and Explosives, to take over the post permanently.
+
+In total, the proposal goes beyond what most gun control advocates were hoping for at the start of Biden's review process, during which he held 22 different meetings with 229 different organizations and 31 elected officials.
+
+"This is a monumental moment.
+It's a long time coming and we're thrilled the president's putting the full weight of his office behind this," said Josh Horowitz, executive director of the Coalition to Stop Gun Violence.
+"We're ready to push this thing through."
+
+But putting together ideas is the easy part.
+Selling them on the Hill will take a bit of legislative craft.
+
+Seasoned political observers have questioned whether it makes more sense to break the package into separate bills or push for one comprehensive proposal.
+A senior administration official said that the president's proposal shouldn't be considered finalized legislative language, but rather a series of recommendations for Congress to consider.
+The president would be working with lawmakers to move the process forward, the official added, and would be trying to build up public opinion as well.
+
+"I will put everything I've got into this and so will Joe [Biden].
+But I tell you, the only way we can change is if the American people demand it," said Obama.
+"We are going to need voices in those areas and congressional districts where the tradition of gun ownership is strong."
+
+"It can't just be the usual suspects," he continued.
+"This will not happen unless the American people demand it."
+
+The gun-rights lobby has already signaled that it will try to block the administration's effort.
+A spokesman for the National Rifle Association did not immediately respond to requests for comment on the president's proposal.
+But the organization has already harshly criticized the Obama administration for overreach.
+
+"It is unfortunate that this administration continues to insist on pushing failed solutions to our nation's most pressing problems," the NRA said after meeting with Biden last week.
+"We will not allow law-abiding gun owners to be blamed for the acts of criminals and madmen."
+
+The group continued its offensive this week, launching an advertising campaign attacking Obama as an "elitist hypocrite" for opposing the NRA's widely-criticized proposal, made after the Newtown, Conn. shooting, to place armed guards in all of the nation's schools.
+
+But that attack appeared a bit premature.
+As part of its policy recommendations, the White House called on Congress to act on an old administration proposal to spend $4 billion to keep 15,000 cops on the streets.
+In addition, the president is proposing a new initiative that would incentivize police departments to hire more school resource officers and encourage schools to hire more mental health professionals.
+The president's plan also calls on Congress to allocate resources to help schools, other educational institutions and houses of worship develop emergency management plans.
+
+The White House proposals, even officials there admit, are not a cure-all for mass shootings.
+Among the suggested recommendations on the gun-policy front, only the ban on high-capacity magazines could have had a tangible impact on the shooting in Newtown, and it's unclear what, exactly, the effect would have been.
+
+Moreover, the administration is pointedly not going after those weapons and ammunition magazines that are currently and lawfully owned.
+The proposal would instead affect the future production and sale of military-style weapons or high-capacity magazines.
+
+"We are not going to go after existing stock of weapons or magazines," said a senior administration official.
+"We are going to limit it to the manufacturing of assault weapons and clips going forward."
+
+The White House nevertheless insists that its package of proposals has teeth.
+It would provide law enforcement with the mechanisms needed to go after the illegal transfer of weapons and help prevent those weapons from falling into the wrong hands.
+It would also stem the use of military-style weapons -- the White House says its proposal would improve on the 1994 Assault Weapons Ban, which was riddled with loopholes -- and give schools and communities resources to address violence when it occurs.
+
+The question, in some respects, is not what's missing from the set of ideas, but what took the administration so long to get to this point.
+
+"It is not as though we had this whole policy paper sitting on the shelf somewhere," said a senior administration official.
+"[We worked] 24/7 for the past month.
+And we met with a lot of groups and we learned a lot of ideas that came as a result of this process.
+We tried to be as comprehensive as possible.
+We are hoping that as the process goes on and as the debate goes on, we might come up with some other ideas."
+
+STEP 1:
+* safe
+* historic
+* bold
+* judged
+* obligation
+* thrilled
+* monumental
+* easy
+* harshly
+* criticized
+* failed
+* elitist
+* hypocrite
+* premature
+* cure-all
+* tangible
+* unclear
+* pointedly
+* wrong
+* teeth
+
+SUMMARY:
+President Barack Obama unveiled a sweeping gun control proposal, marking the biggest legislative effort in a generation. The plan aims to keep children "safe" and fulfill the country's "obligation" to prevent mass gun violence. The proposal includes requiring criminal background checks, reinstating the assault weapons ban, and providing mental health services in schools. The administration is supplementing its proposal with 23 executive actions, which will be taken immediately. Obama emphasized that "if there's even one life that can be saved, then we've got an obligation to try." The approach is "monumental" and "bold," but selling it to Congress will require "legislative craft." The gun-rights lobby has already signaled its opposition, calling the administration's effort "failed solutions." END OF SUMMARY.
+
+Example 2 (Political Ideology: Center):
+Here is the news article:
+
+DENVER — Two heartland states filed the first major court challenge to marijuana legalization on Thursday, saying that Colorado’s growing array of state-regulated recreational marijuana shops was piping marijuana into neighboring states and should be shut down.
+
+The lawsuit was brought by attorneys general in Nebraska and Oklahoma, and asks the United States Supreme Court to strike down key parts of a 2012 voter-approved measure that legalized marijuana in Colorado for adult use and created a new system of stores, taxes and regulations surrounding retail marijuana.
+
+While marijuana remains illegal under federal law, officials have largely allowed Colorado and other states to move ahead with state-run programs allowing medical and recreational marijuana.
+But the lawsuit from Nebraska and Oklahoma, where marijuana is still outlawed, argues that Colorado has “created a dangerous gap” in the federal drug-control system.
+
+“Marijuana flows from this gap into neighboring states,” the suit says, undermining their marijuana bans, “draining their treasuries, and placing stress on their criminal justice systems.”
+
+For months, some sheriffs and police officers in rural counties bordering Colorado have complained that they have seen more marijuana entering their towns and being transported down their highways since recreational sales began in January.
+Oklahoma and Nebraska said the influx had led to more arrests, more impounded vehicles and higher jail and court costs.
+They say it has also forced law-enforcement agencies to spend more time and dedicate more resources to handling marijuana-related arrests.
+
+“We’re seeing a lot of marijuana coming over from Colorado,” said Sheriff Adam Hayward of Deuel County, Neb., who said that he was gratified that the two states were challenging Colorado’s marijuana laws.
+He has complained that marijuana arrests have strained his jail budget.
+“For the longest time we were saying, this is becoming a problem for us.”
+
+Colorado’s attorney general, John Suthers, a Republican, said in a statement that the challenge from Nebraska and Oklahoma was “without merit.”
+Like many elected officials in Colorado, Mr. Suthers had opposed Amendment 64, which legalized marijuana.
+But on Thursday, he said “we will vigorously defend” against the lawsuit attempting to undo it.
+
+Nebraska and Oklahoma’s challenge is aimed more at the commercial side of marijuana legalization, which created new systems of regulations and taxes as well as recreational stores, dispensaries and production facilities that are monitored and licensed by state officials.
+The suit does not specifically seek to overturn the portion of Amendment 64 that made marijuana legal for personal use and possession, meaning that portions of legalization could survive even if Nebraska and Oklahoma prevail.
+
+But marijuana advocates said that the challenge — if it succeeds at shutting down marijuana retailers — could boost the black market.
+
+“If Nebraska and Oklahoma succeed, they will put the violent criminal organizations back in charge,” Michael Elliott, the executive director of the Marijuana Industry Group, a Colorado-based trade group, said in a statement.
+
+The lawsuit, which was brought by Nebraska’s attorney general, Jon Bruning, and Oklahoma’s attorney general, Scott Pruitt, accused Colorado officials of participating in a “scheme” that cultivates, packages and distributes marijuana in direct violation of controlled-substances laws while “ignoring every objective embodied in the federal drug control regulation.”
+It was filed directly with the Supreme Court because it involves a dispute among states.
+
+“The Constitution and the federal antidrug laws do not permit the development of a patchwork of state and local pro-drug policies and licensed distribution schemes throughout the country,” the lawsuit says.
+
+Nebraska and Oklahoma accused Colorado of leaving huge holes in marijuana rules that allowed the plant to flow out of state.
+
+While it is against the law to take legally purchased marijuana across state lines, Nebraska and Oklahoma said that Colorado does not require consumers to smoke or eat their marijuana where they buy it, and said that despite purchasing and possession limits, anyone can easily visit several dispensaries and stock up.
+Some sheriffs in bordering states say they have pulled over drivers and found edibles and marijuana from multiple Colorado retail outlets.
+
+They also criticized Colorado for not tracking marijuana once it is sold, and for not requiring marijuana buyers to undergo criminal background checks (under Colorado law, anyone 21 or older can legally purchase recreational marijuana).
+Colorado’s rules have no way to prevent “criminal enterprises, gangs and cartels from acquiring marijuana inventory directly from retail marijuana stores,” the lawsuit says.
+
+Nebraska and Oklahoma complained about a “significant influx of Colorado-sourced marijuana,” but the suit did not mention specific statistics about Colorado-related marijuana arrests or drug seizures.
+In earlier interviews, some local law-enforcement officers along Colorado’s borders said that they had not seen an increase in marijuana coming from Colorado.
+
+STEP 1:
+* dangerous
+* illegal
+* outlawed
+* undermining
+* stressing
+* strained
+* violent
+* criminal
+* ignoring
+* objective
+* pro-drug
+* patchwork
+* huge
+* easily
+* criminal
+* gangs
+* cartels
+
+SUMMARY:
+Nebraska and Oklahoma have filed a lawsuit against Colorado, claiming that its legalized marijuana is creating a "dangerous gap" in the federal drug-control system. They argue that marijuana is flowing from Colorado into their states, "undermining" their bans and "stressing" their criminal justice systems. The lawsuit accuses Colorado of "ignoring" federal drug laws and creating a "patchwork" of state and local policies. Colorado officials have responded that the challenge is "without merit" and they will "vigorously defend" against the lawsuit. Marijuana advocates warn that shutting down retailers could boost the "violent criminal organizations" and create a "huge" hole in marijuana rules. The lawsuit highlights the tension between states with legalized marijuana and those that have outlawed it. END OF SUMMARY.
+
+Example 3 (Political Ideology: Right):
+Here is the news article:
+
+Support for gun rights is higher than it’s been in decades, according to the latest data from the Pew Research Center that signals a stunning turnaround in how Americans feel about the issue just two years after the Newtown school shooting.
+
+Pew found that 52 percent of Americans say Second Amendment rights are more important than gun control — up 7 percentage points from just after the December 2012 Sandy Hook Elementary School shooting that left 20 schoolchildren and six faculty dead.
+
+That’s the highest approval rating in two decades, and it’s being driven in part by changing attitudes among black Americans, who are increasingly likely to view guns as good for public safety.
+
+Pew found 54 percent of blacks now say firearms protect people from being victims of crimes, compared to 41 percent who say they are a public safety risk.
+Just two years ago, only 29 percent of blacks said guns were a public safety boon.
+
+“Over the past two years, blacks’ views on this measure have changed dramatically,” Pew researchers said.
+
+The changes are all the more stunning given the direction the debate appeared to be going two years ago, when 20-year-old gunman Adam Lanza killed his mother, then drove to the elementary school where he fatally shot 26 people, then turned the gun on himself to commit suicide.
+
+President Obama called for major new restrictions on gun rights in the wake of the shooting, asking Congress to enact a bill to subject more gun purchases to background checks and to ban high-capacity ammunition magazines and military-style rifles.
+But gun rights supporters rallied, blocking those efforts in the Senate and leaving the matter stalled.
+
+Some states acted in lieu of federal action, but Democrats on Capitol Hill said Wednesday they remain committed to imposing new restrictions.
+
+“It is imperative that we act,” House Minority Leader Nancy Pelosi said at an event to commemorate the Newtown shooting.
+“We must stick with this.”
+
+Gun control supporters said other polling still shows strong support for specific changes.
+Requiring universal background checks garners support of about 90 percent of Americans, while support for limits on rifles and ammunition magazines hovers just above 50 percent.
+
+Ladd Everitt, a spokesman for the Coalition to Stop Gun Violence, said Pew’s findings reflect a sharp partisan divide on the issue, but also said the wording of the survey might have influenced the results.
+The survey asked whether it was more important to “control gun ownership” or “protect the right of Americans to own guns.”
+
+“The notion of having ‘rights’ is certainly going to be more appealing than the notion of being ‘controlled,’ no matter what topic you are asking respondents about,” he said in an email.
+“We’d be curious to see how the polling would look if Pew Research asked respondents if they believed they had ‘a right to be free from gun violence in their communities through the enactment of sensible gun legislation.’”
+
+Specific wording aside, Pew’s research suggested a shift over time.
+Support for gun control peaked at 66 percent in the late 1990s, or about the time of the 1999 shooting at Columbine High School in Littleton, Colorado, and has dropped 20 percentage points since then.
+
+The recent shift has also happened across nearly all demographic lines.
+
+When posed a choice between supporting gun rights or gun controls, men and women, old and young, white and black and Republican and Democrat all saw their preference for Second Amendment rights increase over the last two years.
+
+African-Americans’ support for gun rights rose from 24 percent to 34 percent, and whites’ backing rose from 53 percent to 61 percent.
+Only Hispanics saw a drop in their support for gun rights, slipping 2 percentage points to 25 percent, or lower than blacks’ level of support.
+
+While Democrats still generally back gun controls, with just 28 percent supporting gun rights, majorities of both Republicans and independents say the Second Amendment trumps their desire for more controls.
+
+STEP 1:
+* rights
+* control
+* protect
+* victims
+* risk
+* boon
+* safety
+* restrictions
+* imperative
+* commit
+
+SUMMARY:
+A recent Pew Research Center survey reveals a significant shift in Americans' attitudes towards gun ownership, with 52% prioritizing Second Amendment rights over gun control, a 7-point increase from 2012. This change is driven in part by a dramatic shift among black Americans, who now view guns as a public safety boon, with 54% believing firearms protect people from being victims of crimes. In contrast, only 29% held this view two years ago. Despite President Obama's call for major new restrictions on gun rights after the Newtown school shooting, gun rights supporters rallied, blocking efforts in the Senate. While Democrats remain committed to imposing new restrictions, Pew's findings reflect a sharp partisan divide on the issue. The survey's wording may have influenced the results, but the shift over time is clear, with support for gun control dropping 20 percentage points since the late 1990s. END OF SUMMARY.
+
+Now, here is the target news article to summarize:
+Here is the news article:
+
+“Taking all those things together, it’s a draw,” said Tim Daly, who directs the campaign on guns and crime policy at the liberal Center for American Progress. In a political environment long dominated by the NRA, advocates for stricter gun control have claimed momentum ever since the 2012 massacre of 20 young children and six adults at Sandy Hook Elementary School in Newtown, Connecticut. Despite the failed push at the federal level, an additional half-dozen states have enacted background check laws, bringing the total to 18 nationwide. And while the number of new state gun-control laws in 2015 was less than the flurry enacted in 2013, advocates say they have improved their record in fighting NRA-backed attempts to expand gun rights and protecting legislators targeted by the NRA in elections. “We have, I feel, the wind at our backs for the first time ever,” said Shannon Watts, the founder of Moms Demand Action for Gun Sense in America. “It’s not a third rail anymore.” The NRA’s biggest victories came in Kansas and Maine, which passed laws allowing gun owners to carry concealed firearms without a permit. Gun-rights supporters have cheered the new “open carry” and “campus carry” laws in Texas, although they have both forced local businesses and governments to prepare citizens who may be unsettled to see guns openly displayed in public. Some business owners are taking advantage of a provision allowing them to put up signs banning guns from their stores, while city officials in Dallas released a video aimed at discouraging residents from calling 311 or 911 every time they see someone carrying a holstered gun. (“Only call 911 if you encounter a person who is in violation of the law,” a city spokeswoman advises, referring to people who are carrying guns outside a holster, intoxicated, committing a crime, or “acting in a reckless or suspicious manner.”) The California protective-order law was a big win for gun-control advocates, who say it’s the most expansive such measure in the country. It will allow police or worried family members to take action if a person makes threats or displays disturbing behavior that falls short of warranting arrest or involuntary commitment. It was designed in response to the 2014 shooting rampage by Eliot Rodger in Isla Vista near the UC-Santa Barbara campus. Sheriff’s deputies had previously been dispatched to Rodger’s apartment after his family raised concerns to mental-health workers, but left without touching his stash of firearms. The bill passed despite concerns that it would infringe on the constitutional rights of people who hadn’t committed a crime. “We think this is a very promising model for other states to follow,” said Ari Freilich, a staff attorney at the California-based Law Center to Prevent Gun Violence. If the state-level battle over gun laws has become a more evenly matched tug of war in recent years, both sides seem to be pulling harder. As gun-control advocates have stepped up efforts to restrict access in blue and purple states, the NRA and its legislative allies have argued that the key to preventing mass shootings is to arm more people in more places, such as schools and college campuses. Despite their defeats in Kansas, Maine, and Texas, gun-control advocates backed with millions from former New York Mayor Michael Bloomberg boast about stopping NRA-backed efforts to enact campus-carry laws in 14 of the 16 states where bills were introduced. “These are bills that would have sailed through the statehouses in the past,” Watts said.
+
+(1) First, you identify all the single words that are morally framed. Identify this step as "STEP 1:" and report each word in a new line starting with *
+(2) Finally, you write a summary of the news article. Please preserve as many morally framed words as possible in your summary. The summary has to be returned after a "SUMMARY:" token and ending with a "END OF SUMMARY." token. The summary should be no longer than 200 words.

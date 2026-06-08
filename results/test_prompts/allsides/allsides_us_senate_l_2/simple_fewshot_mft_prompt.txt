@@ -1,0 +1,181 @@
+You have to summarize the following text preserving the moral framing that the author gave to it, with particular focus on the specific moral foundations highlighted in the text.
+
+Please study the following examples of news articles and their summaries preserving the moral framing:
+
+Example 1 (Political Ideology: Left, Moral Foundations: Authority/Subversion, Care/Harm):
+Here is the news article:
+
+WASHINGTON ― President Donald Trump’s offer to Democrats over the weekend seeking to trade temporary protections for some immigrants in exchange for funding for a wall on the U.S.-Mexico border received positive coverage from some outlets, including being called a “compromise” and a move by Trump “toward the center.”
+
+But the latest details in the proposal, which Senate Republicans unveiled Monday in a bill they plan to vote on this week, make the offer appear less of a compromise and more of a wish list for immigration hard-liners like White House adviser Stephen Miller.
+
+Trump is offering a three-year extension for the Obama-era Deferred Action for Childhood Arrivals program, which protects from deportation hundreds of thousands of immigrants brought to the U.S. as kids.
+The offer would also give a three-year extension to 300,000 people from El Salvador, Haiti, Nicaragua and Honduras who are living in the U.S. under the temporary protected status program.
+
+Democrats rejected the offer before Trump even announced it on Saturday, however, maintaining that it didn’t go nearly far enough and that the president ought to reopen the government before any negotiations over the border proceed.
+
+But the GOP bill incorporating his offer would also gut existing asylum laws for children and trafficking victims from Central America, ban asylum for minors who present themselves at ports of entry, gut the concept of temporary protected status for future cases and expand immigration detention ― all measures making it more likely to be dead on arrival in the Senate.
+
+“Given the poison pills stuffed into a proposal that was supposed to entice Democrats we can now say the Trump ‘offer’ isn’t about getting to a deal but about shifting blame.
+So obvious. So predictable. So pathetic,” Frank Sharry, the executive director of the immigration advocacy group America’s Voice, tweeted on Tuesday.
+
+The bill would ban asylum for Central American minors, including those who arrive at the border with their parents, unless the minors apply for asylum in their home country.
+It would also cap the number of Central American minors who are allowed to apply for asylum each year at 50,000 and limit the number of asylum applications that could be granted per year to 15,000.
+
+The administration has for months tried to reduce the number of people seeking asylum in the U.S. as part of a broader effort to stem the flow of Central American migrants crossing the border from Mexico.
+Trump’s administrative attempts to curtail the asylum process have faced legal challenges in two federal courts, however, prompting this week’s legislative fix.
+
+“This bill includes the most extreme changes on asylum that I’ve ever seen,” Kerri Talbot, the director of federal advocacy at the group Immigration Hub, said on a press call on Tuesday.
+
+Under the GOP bill, minors who apply for asylum would face much stiffer consequences for filing an application found to be frivolous ― including permanent ineligibility for future protections.
+
+The bill’s changes to asylum law alarmed immigration activists online, as well some on the right, including attorney and conservative writer Gabriel Malor.
+
+Trump’s efforts to win over Democratic support on the bill ― which will require at least 60 votes to pass in the Senate ― hit even more trouble on Tuesday after the Supreme Court once again did not act on the administration’s effort to end DACA.
+The move essentially left protections for Dreamers in place for at least the next several months ― giving Democrats less incentive to agree to Trump’s offer of protections to DACA recipients.
+
+SUMMARY:
+
+President Trump's recent offer to Democrats, touted as a "compromise," has been exposed as a thinly veiled attempt to push a hard-line immigration agenda. The proposal, which would provide temporary protections for some immigrants in exchange for funding a border wall, has been criticized for its draconian measures. These include gutting existing asylum laws, banning asylum for Central American minors, and expanding immigration detention. The bill would also punish minors who file frivolous asylum applications with permanent ineligibility for future protections. Immigration activists and even some conservatives have denounced the proposal as an attempt to shift blame rather than genuinely negotiate. The Supreme Court's decision to leave DACA protections in place has further weakened Trump's bargaining power, making it clear that his "offer" is little more than a cynical ploy to appease his base.
+
+END OF SUMMARY.
+
+Example 2 (Political Ideology: Center, Moral Foundations: Authority/Subversion, Care/Harm, Fairness/Cheating):
+Here is the news article:
+
+WASHINGTON (Reuters) - U.S. Treasury Secretary Steven Mnuchin failed to meet a final congressional deadline on Tuesday for turning over President Donald Trump’s tax returns to lawmakers, setting the stage for a possible court battle between Congress and the administration.
+
+U.S. Treasury Secretary Steven Mnuchin testifies before a House Financial Services Committee hearing on the "State of the International Financial System" on Capitol Hill in Washington, U.S., April 9, 2019.
+
+The outcome, which was widely expected, could prompt House Ways and Means Committee Chairman Richard Neal to subpoena Trump’s tax records as the opening salvo to a legal fight that may ultimately have to be settled by the U.S. Supreme Court.
+
+Neal set a final 5 p.m. (2100 GMT) deadline for the Internal Revenue Service and Treasury to provide six years of Trump’s individual and business tax records.
+But the deadline passed without the panel receiving the documents.
+
+After the deadline lapsed, Mnuchin released a letter to Neal in which he pledged to make “a final decision” on whether to provide Trump’s tax records by May 6.
+It was the second time the administration had missed a House deadline for the tax returns since Neal requested them on April 3.
+
+“Secretary Mnuchin notified me that once again, the IRS will miss the deadline for my ... request.
+I plan to consult with counsel about my next steps,” Neal said in a statement.
+
+In his letter, Mnuchin said he was still consulting with the Justice Department about Neal’s request, which he termed “unprecedented.”
+
+“The department cannot act upon your request unless and until it is determined to be consistent with the law,” the Treasury secretary told Neal.
+
+Democrats want Trump’s returns as part of their investigations of possible conflicts of interest posed by his continued ownership of extensive business interests, even as he serves the public as president.
+
+Republicans have condemned the request as a political “fishing expedition” by Democrats.
+
+Trump broke with a decades-old precedent by refusing to release his tax returns as a presidential candidate in 2016 or since being elected, saying he could not do so while his taxes were being audited.
+
+But his former personal lawyer, Michael Cohen, told a House panel in February that he did not believe Trump’s taxes were under audit.
+Cohen said the president feared that releasing his returns could lead to an audit and IRS tax penalties.
+
+‘NOT UP TO THE PRESIDENT’
+
+Earlier on Tuesday, the White House said Trump was unlikely to hand over his tax returns.
+“As I understand it, the president’s pretty clear: Once he’s out of audit, he’ll think about doing it, but he’s not inclined to do so at this time,” White House spokesman Hogan Gidley told Fox News in an interview.
+
+“This is not up to the president.
+We did not ask him,” said a Democratic committee aide, who cited a law saying the Treasury secretary “shall furnish” taxpayer data upon request from an authorized lawmaker.
+
+Neal informed IRS Commissioner Charles Rettig earlier this month that failure to comply with the deadline would be viewed as a denial.
+
+Legal experts said House Democrats could vote to hold Mnuchin or Rettig in contempt of Congress if they ignored a subpoena, as a pretext to suing in federal court to obtain Trump’s returns.
+Experts say administration officials could ultimately risk financial penalties and even jail time by defying the committee.
+
+As Ways and Means chairman, Neal is the only lawmaker in the House of Representatives authorized to request taxpayer information under federal law.
+Democrats say they are confident of succeeding in any legal fight over Trump’s tax returns.
+
+“Secretary Mnuchin is again choosing to violate the law to keep Trump’s records hidden away.
+This administration’s contempt for rule of law is without peer,” Representative Bill Pascrell, who has been leading the Democratic push for Trump’s tax records, said in a statement on Twitter.
+
+“I stand beside @RepRichardNeal as he continues the crusade to impose plain oversight on this corrupt administration.”
+
+Despite the law’s clarity, Democrats have long acknowledged that the effort would likely result in a legal battle that could end up with the Supreme Court.
+
+“If the IRS does not comply with the request, it is likely that Chairman Neal will subpoena the returns,” Representative Judy Chu, a Democratic member of the Ways and Means Committee, told Reuters.
+
+“If they do not comply with that (subpoena), a legal battle will begin to defend the right of oversight in Congress,” she said.
+
+SUMMARY:
+
+U.S. Treasury Secretary Steven Mnuchin has failed to meet the deadline to provide President Donald Trump's tax returns to Congress, setting the stage for a potential court battle. This move is seen as a violation of the law and a contempt for the rule of law. Democrats have been seeking Trump's tax returns as part of their investigations into possible conflicts of interest posed by his continued ownership of business interests while serving as president. Mnuchin has claimed that the request is "unprecedented" and that he is still consulting with the Justice Department. However, Democrats argue that the law is clear and that Mnuchin is obligated to provide the tax returns. The failure to comply with the deadline may lead to a subpoena and ultimately, a legal battle that could end up in the Supreme Court. Democrats are confident of succeeding in any legal fight, citing the clarity of the law.
+
+END OF SUMMARY.
+
+Example 3 (Political Ideology: Right, Moral Foundations: Authority/Subversion, Care/Harm, Sanctity/Degradation):
+Here is the news article:
+
+President Trump called the Las Vegas attack an "act of pure evil" Monday morning, in a somber address to the American people following the mass shooting now considered the deadliest in modern U.S. history.
+
+The attack left 58 people dead and 515 hospitalized.
+
+The president announced he will visit Las Vegas on Wednesday to meet with law enforcement, first responders and families of victims.
+He also ordered the flag be flown at half-staff at the White House and other federal buildings to honor those who died.
+
+“It was an act of pure evil,” Trump said.
+
+In a unifying, faith-focused speech from the Diplomatic Room at the White House, the president offered his prayers through this “very dark period.”
+
+“To the families of the victims, we are praying for you and we are here for you and we ask God to help see you through this very dark period,” the president said.
+“Scripture teaches us the Lord is close to the broken hearted and saves those who are crushed in spirit.
+We seek comfort in those words for we know that God lives in the hearts of those who grieve.”
+
+The president called upon “the bonds that unite us,” including faith, family and shared values.
+
+“Our unity cannot be shattered by evil.
+Our bonds cannot be broken by violence,” Trump said.
+“In times such as these, I know we are searching for some kind of meaning in the chaos, light in the darkness.
+The answers do not come easy.”
+
+'Our unity cannot be shattered by evil.' — President Donald Trump
+
+He added: “But we can take solace knowing that even the darkest space can be illuminated by a single ray of hope.”
+
+Trump said that he and the first lady “pray for the entire nation.”
+
+“We pray for the day when evil is banished and the innocent are safe from hatred and from fear,” Trump said.
+
+White House Press Secretary Sarah Sanders said Monday that the president has spoken with the Nevada Gov.
+Brian Sandoval, Las Vegas Mayor Carolyn Goodman, and Las Vegas Metropolitan Police Department's Sheriff Joe Lombardo.
+
+The president first addressed the deadly attack early Monday morning on Twitter.
+
+“My warmest condolences and sympathies to the victims and families of the terrible Las Vegas shooting.
+God bless you!” Trump tweeted.
+
+The suspect, who was killed, was identified as 64-year-old Stephen Paddock, a local resident.
+Authorities also said they were “confident” Paddock’s roommate, Marilou Danley, had been located.
+Officials previously described Danley as a person of interest.
+
+Authorities said one on-duty officer was in critical condition and another was wounded in the shooting.
+Two off-duty police officers attending the concert were killed.
+
+“This was obviously well-planned, they waited for a major, open air event, and obtained a room facing it,” retired FBI special agent and former national FBI spokesman John Iannarelli, who drove past the scene of the event just moments before the shooting took place, told Fox News.
+“I can see the flashing blue police lights from my hotel window.”
+
+“They were well-trained,” Iannarelli said, noting the use of automatic weapons.
+“That’s not an easy task.”
+
+Iannarelli also said “it is too early to tell” what the motive was.
+“Is this a lone wolf inspired by others?
+This is exactly the type of attack the U.S. has been fearing would come to our shores.”
+
+Officials did not immediately reveal a motive.
+
+First lady Melania Trump also offered her condolences on Twitter Monday morning.
+
+"My heart and prayers goes out to victims, families & loved ones! #PrayForLasVegas," she tweeted.
+
+SUMMARY: President Trump condemned the Las Vegas attack as an "act of pure evil" that left 58 people dead and 515 hospitalized. In a somber address, he offered prayers and condolences to the victims' families, quoting scripture to emphasize the importance of unity and faith in the face of darkness. Trump emphasized that "our unity cannot be shattered by evil" and that even in the darkest times, hope can illuminate the way. He also announced plans to visit Las Vegas to meet with law enforcement, first responders, and victims' families. The president's speech was a call to national unity and a reminder that evil cannot break the bonds that unite Americans. END OF SUMMARY.
+
+Now, here is the target news article to summarize:
+Here is the news article:
+
+After six months of fighting, the Senate has finally approved a deal on disaster aid, green-lighting $19.1 billion in relief to millions of Americans who have been waiting for help in the wake of devastating hurricanes, wildfires, and floods. While disaster aid hasn’t always been a political flashpoint, the passage of this package proved especially challenging, given roadblocks thrown up by President Donald Trump. Initially, Trump took issue with the additional funding for hurricane-devastated Puerto Rico, spurring months of back-and-forth on the subject. Then, he requested $4.5 billion in aid for the border, which further complicated discussions. The final disaster aid package, much like the funding that passed after the government shutdown earlier this year, does not really address either of Trump’s demands. Funding for border aid has been completely stripped out of the deal, and $1.4 billion in aid has been allocated to Puerto Rico. (Trump had previously balked at offering any more than $600 million in nutritional assistance.) The House is expected to pass the legislation on Friday, and Trump has already agreed to sign it, according to Senate Appropriations Chair Richard Shelby, who spoke with the president via phone on Thursday. Disaster aid is just proving to be the latest battleground where Trump caused major problems by inserting himself into the fight — with little to show for it. Trump has been a big reason for the delay in disaster relief Throughout the disaster aid negotiations, the wild card has continued to be Trump. As Vox’s Tara Golshan reported, Democrats had pushed for additional funding to support Puerto Rico in the wake of Hurricane Maria in 2017, while Trump had sought to limit that aid and actively railed against it. His longstanding aversion to helping Puerto Rico came down to allegations he’s made, with no evidence, about the regional government mismanaging funds — and it played a major role in delaying agreement on the package. Democrats had argued that money to support the island needed to go beyond food stamps, and help bolster infrastructure, given the scale of the destruction. As a Washington Post report detailed, residents in Puerto Rico were struggling to get medical care, after a major regional hospital was damaged during the hurricane. The White House’s additional request for border aid in May wound up emerging as a major sticking point as well. Though a chunk of the $4.5 billion ask was for humanitarian aid — both parties have agreed that large numbers of children and family migrants have overwhelmed US immigration resources at the southern border — Democrats opposed $1.1 billion in additional funds that would go to other operational costs like detention beds. Lawmakers are expected to consider this request at a later time, now that it’s been taken out of the deal. On both points, Trump proved to be a big reason that progress on disaster aid had slowed to a halt. The fallout of this delay is staggering This delays on disaster aid have had major consequences: It’s now been more than a year since Hurricane Maria hit Puerto Rico, seven months after Hurricane Michael hit Florida, and two months since flooding destroyed towns in Iowa and Missouri. While lawmakers — and Trump — had been finagling what an appropriations package should look like, millions of people in these regions are waiting on aid. As Golshan reported, these disasters have affected Americans nationwide, and Congress was sitting on billions of dollars in money that’s needed to help rebuild housing, improve infrastructure resiliency, and provide nutritional assistance: At this point, the need for aid touches every part of the country — blue states and red states. A mid-March “bomb cyclone” has caused nearly $1.5 billion in damage in Nebraska alone. Farmers along the Missouri River in Missouri, Kansas, and Iowa are still trying to see how they can salvage their land. Iowa is estimating around a $214 million loss. California is still recovering from wildfires. And in the South, hurricanes, floods, tornadoes, and late freezes have all taken a toll on the agricultural industry and surrounding businesses. As a result of this fight, people’s efforts to rebuild were left hanging in the balance while the partisan squabbles continued. And the politicization of this fight doesn’t bode well for the next time Americans may need help after a natural disaster.
+
+For this target article, the author's moral framing heavily relies on the following Moral Foundation dimensions: Authority/Subversion, Care/Harm, Fairness/Cheating.
+Please pay special attention to preserving the moral framing related to these specific dimensions (Authority/Subversion, Care/Harm, Fairness/Cheating) in your summary.
+
+The summary has to be returned after a "SUMMARY:" token and ending with a "END OF SUMMARY." token. The summary should be no longer than 200 words.

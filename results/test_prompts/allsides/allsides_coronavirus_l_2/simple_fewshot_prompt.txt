@@ -1,0 +1,149 @@
+You have to summarize the following text preserving the moral framing that the author gave to it.
+
+Please study the following examples of news articles and their summaries preserving the moral framing:
+
+Example 1 (Political Ideology: Left):
+Here is the news article:
+
+Having failed to lead the best-prepared nation in the world against one pandemic, Donald Trump has made it more vulnerable to another.
+He has, for example, frayed international bonds further by trying to pull the U.S. out of the World Health Organization.
+Whether he has the legal authority to do so is still unclear, but even if the threat is empty, “some of the effects will be immediate,” says Loyce Pace, the president of the Global Health Council.
+U.S. officials and experts will start disengaging from international institutions, and that might encourage other nations to follow suit.
+
+This won’t just harm the WHO at the time when it is most needed, but will also further diminish America’s already damaged international standing.
+A country that has badly mishandled its own outbreak, that has bought up the world’s stock of important drugs, and that has petulantly withdrawn from global alliances is less likely to receive warnings or support if a new crisis emerges.
+
+There is an optimistic scenario if a second virus begins to spread: The new pathogen finds it harder to move around an alert world, is rapidly detected wherever it arrives, and fizzles out because cautious citizens have their guard up.
+
+As long as people stay vigilant against the current pandemic—keeping their distance, wearing masks, avoiding indoor crowds—they should theoretically be guarded against a second respiratory virus.
+It used to be common for measles and pertussis to interfere with each other, so that if one spiked, the other would subside.
+That might be because kids who got one disease would stay home, reducing their risk of the other.
+“It’s nothing to do with a vaccine or the immune system,” says Sarah Cobey, an immunologist at the University of Chicago.
+“It’s just people being careful.”
+
+The same tests that are being used to diagnose COVID-19 could also be tweaked to cover the new pathogen.
+One company is already developing a fast “multiplex” test that could look for four respiratory viruses—the new coronavirus, two types of flu, and respiratory syncytial virus (RSV)—in a single nasal swab.
+And if the new pathogen is a flu strain, existing vaccines could be tweaked to protect against it.
+That would still take several months, but the existence of a seasonal flu vaccine offers an invaluable head start.
+
+Read: We don’t even have a COVID-19 vaccine, and the conspiracies are here
+
+This future is easier to imagine in countries like South Korea, New Zealand, and Germany, which have successfully controlled COVID-19.
+It seems less likely in nations like the U.S., Brazil, Russia, and India, which are stretched and struggling.
+
+In such places, COVID-19 would effectively cloak the spread of any new respiratory virus with similar symptoms, which “could have a chance to take off before we realized it had,” Cameron said.
+A new virus would also be harder to spot because “all the resources we would normally use to detect potential viruses of concern have been redirected for COVID-19,” says Lauren Sauer, who works on disaster preparedness at Johns Hopkins Medicine.
+She means everything from physical equipment like swabs and storage tubes, to health-care workers who administer and process tests, to public-health experts who analyze the data or conduct contact tracing.
+These are either running out or burning out.
+A second respiratory virus would further tax the same resources that the U.S. has already failed to adequately marshal for COVID-19.
+
+SUMMARY:
+
+Donald Trump's mishandling of the COVID-19 pandemic has made the US more vulnerable to another pandemic. His attempt to withdraw from the World Health Organization has frayed international bonds and may encourage other nations to follow suit, ultimately harming the WHO and America's international standing. The US's failure to control its own outbreak, hoarding of important drugs, and withdrawal from global alliances will make it less likely to receive warnings or support if a new crisis emerges. While a second virus may be harder to detect in countries like the US, Brazil, Russia, and India, which are struggling to control COVID-19, a more optimistic scenario exists in countries like South Korea, New Zealand, and Germany, which have successfully controlled the pandemic. The moral of the story is that a country's failure to take responsibility for its own pandemic response can have far-reaching consequences, making it more vulnerable to future health crises.
+
+END OF SUMMARY.
+
+Example 2 (Political Ideology: Center):
+Here is the news article:
+
+VA says it’ll stop almost all use of unproven drug on vets
+
+Veterans Affairs Secretary Robert Wilkie speaks during a House Appropriations Subcommittee on Military Construction, Veterans Affairs, and Related Agencies hearing on Capitol Hill in Washington, Thursday, May 28, 2020, on the Department of Veterans Affairs response to COVID-19.
+
+WASHINGTON (AP) — Veterans Affairs Secretary Robert Wilkie said Thursday that his department has all but stopped use of an unproven malaria drug on veterans with COVID-19.
+
+At a House hearing, he defended initial use of hydroxychloroquine on coronavirus patients as justified “to give them hope,” given few treatment options at the time.
+But Wilkie said that government-run VA hospitals have “ratcheted it down” — to just three prescriptions in the last week — as studies pointed to possible dangers and other possible treatments were brought online.
+“I expect that trend to continue in the future,” he added.
+
+President Donald Trump has heavily pitched the drug — even saying in recent days he had been taking it to prevent coronavirus infection — without scientific evidence of its effectiveness.
+
+“We are all learning as we go in this crisis,” Wilkie told a House appropriations subcommittee.
+“Our mission is to preserve and protect life.”
+
+The department, which is the nation’s largest hospital system, has recently been turning to remdesivir.
+Preliminary results from a major study found reduced recovery time, as well as convalescent plasma.
+
+According to the VA’s website, 13,657 veterans have been infected with the coronavirus, and 1,200 have died.
+
+Major veterans organizations had called on the VA to explain its use of hydroxychloroquine after an analysis of VA hospital data was published month showing hundreds of veterans who took the drug saw no benefit for COVID-19.
+About 28% of veterans who were given hydroxychloroquine plus usual care died, versus 11% of those getting routine care alone.
+
+VA data provided Thursday to Congress show that weekly prescriptions for hydroxychloroquine surged from about two in mid-March to a peak of 404 about two weeks later as Trump began promoting its use.
+They remained at higher levels before tapering off in late April amid backlash over results of the VA hospital analysis and as remdesivir emerged as a form of treatment.
+In all, 1,370 veterans were prescribed hydroxychloroquine for COVID-19.
+
+Wilkie said Thursday that he expected the VA to continue using the drug in limited forms such as clinical trials, based in part on the guidance of Dr. Anthony Fauci, the nation’s top infectious-diseases expert and a member of the White House coronavirus task force.
+
+That answer drew a rebuke from Rep. Nita Lowey, D-N.Y., chair of the appropriations committee, who said the VA should have been listening to Fauci’s counsel urging caution on the drug from the start.
+
+“I hope VA will respond to the science that is clearly coming from Dr. Fauci, rather than some wishful thinking coming from the president,” Lowey said.
+
+No large, rigorous studies have found hydroxychloroquine safe or effective for COVID-19, and it can cause heart rhythm problems and other serious side effects.
+The Food and Drug Administration has warned against the drug and said hydroxychloroquine should only be used for the coronavirus in formal studies.
+
+The VA has said it prescribed the drug only when medically appropriate, after full discussion between doctor and patient about the risks.
+
+SUMMARY:
+
+The US Department of Veterans Affairs (VA) has largely stopped using the unproven malaria drug hydroxychloroquine to treat COVID-19 in veterans, citing possible dangers and lack of scientific evidence. VA Secretary Robert Wilkie defended the initial use of the drug, saying it was meant "to give them hope" when few treatment options were available. However, as studies revealed potential risks and other treatments became available, the VA reduced its use of hydroxychloroquine. The department is now turning to proven treatments like remdesivir. The VA's decision comes after major veterans organizations called for an explanation of its use of hydroxychloroquine, which was shown to have no benefit for COVID-19 and increased mortality rates. The moral imperative to "preserve and protect life" should guide medical decisions, rather than "wishful thinking" or political influence.
+
+END OF SUMMARY.
+
+Example 3 (Political Ideology: Right):
+Here is the news article:
+
+Support for gun rights is higher than it’s been in decades, according to the latest data from the Pew Research Center that signals a stunning turnaround in how Americans feel about the issue just two years after the Newtown school shooting.
+
+Pew found that 52 percent of Americans say Second Amendment rights are more important than gun control — up 7 percentage points from just after the December 2012 Sandy Hook Elementary School shooting that left 20 schoolchildren and six faculty dead.
+
+That’s the highest approval rating in two decades, and it’s being driven in part by changing attitudes among black Americans, who are increasingly likely to view guns as good for public safety.
+
+Pew found 54 percent of blacks now say firearms protect people from being victims of crimes, compared to 41 percent who say they are a public safety risk.
+Just two years ago, only 29 percent of blacks said guns were a public safety boon.
+
+“Over the past two years, blacks’ views on this measure have changed dramatically,” Pew researchers said.
+
+The changes are all the more stunning given the direction the debate appeared to be going two years ago, when 20-year-old gunman Adam Lanza killed his mother, then drove to the elementary school where he fatally shot 26 people, then turned the gun on himself to commit suicide.
+
+President Obama called for major new restrictions on gun rights in the wake of the shooting, asking Congress to enact a bill to subject more gun purchases to background checks and to ban high-capacity ammunition magazines and military-style rifles.
+But gun rights supporters rallied, blocking those efforts in the Senate and leaving the matter stalled.
+
+Some states acted in lieu of federal action, but Democrats on Capitol Hill said Wednesday they remain committed to imposing new restrictions.
+
+“It is imperative that we act,” House Minority Leader Nancy Pelosi said at an event to commemorate the Newtown shooting.
+“We must stick with this.”
+
+Gun control supporters said other polling still shows strong support for specific changes.
+Requiring universal background checks garners support of about 90 percent of Americans, while support for limits on rifles and ammunition magazines hovers just above 50 percent.
+
+Ladd Everitt, a spokesman for the Coalition to Stop Gun Violence, said Pew’s findings reflect a sharp partisan divide on the issue, but also said the wording of the survey might have influenced the results.
+The survey asked whether it was more important to “control gun ownership” or “protect the right of Americans to own guns.”
+
+“The notion of having ‘rights’ is certainly going to be more appealing than the notion of being ‘controlled,’ no matter what topic you are asking respondents about,” he said in an email.
+“We’d be curious to see how the polling would look if Pew Research asked respondents if they believed they had ‘a right to be free from gun violence in their communities through the enactment of sensible gun legislation.’”
+
+Specific wording aside, Pew’s research suggested a shift over time.
+Support for gun control peaked at 66 percent in the late 1990s, or about the time of the 1999 shooting at Columbine High School in Littleton, Colorado, and has dropped 20 percentage points since then.
+
+The recent shift has also happened across nearly all demographic lines.
+
+When posed a choice between supporting gun rights or gun controls, men and women, old and young, white and black and Republican and Democrat all saw their preference for Second Amendment rights increase over the last two years.
+
+African-Americans’ support for gun rights rose from 24 percent to 34 percent, and whites’ backing rose from 53 percent to 61 percent.
+Only Hispanics saw a drop in their support for gun rights, slipping 2 percentage points to 25 percent, or lower than blacks’ level of support.
+
+While Democrats still generally back gun controls, with just 28 percent supporting gun rights, majorities of both Republicans and independents say the Second Amendment trumps their desire for more controls.
+
+SUMMARY:
+
+According to the latest Pew Research Center data, support for gun rights has reached a two-decade high, with 52% of Americans prioritizing Second Amendment rights over gun control. This marks a stunning turnaround since the Newtown school shooting in 2012. Notably, black Americans' views on gun ownership have shifted dramatically, with 54% now believing firearms protect people from crime, up from 29% two years ago. The survey's findings reflect a sharp partisan divide, with Democrats still backing gun controls, while Republicans and independents prioritize gun rights. Despite this shift, support for specific changes, such as universal background checks, remains strong. The moral imperative to act on gun violence, emphasized by House Minority Leader Nancy Pelosi, seems to be losing traction amidst the growing support for gun rights.
+
+END OF SUMMARY.
+
+Now, here is the target news article to summarize:
+Here is the news article:
+
+Severe illness from COVID-19 in children is rare. The risk of death from the coronavirus for an infected child is hundreds of times lower than for older adults. But serious illness, such as the recently documented rare inflammatory syndrome, does occur—just as serious illness occurs with influenza, which in most years kills 100 or more children, including many who get infected in schools. We don’t close our schools because of the risk of influenza, and we don’t necessarily need to close them because of the risk of COVID-19. The single most important thing we can do to keep our schools safe has nothing to do with what happens in schools. It’s how well communities control the coronavirus throughout the community. Such control of COVID-19 requires adhering to the three W’s—wear a mask, wash your hands, watch your distance—and boxing in the virus with strategic testing, effective isolation, complete contact tracing, and supportive quarantine—providing services and, if necessary, alternative temporary housing so patients and contacts don’t spread disease to others. The CDC has released helpful guidelines for safely reopening schools, which each state and school district will need to apply to its specific context. Localities will need to develop solutions tailored to their unique needs and based on the latest information on the virus. In places where the virus is spreading explosively, it may be difficult or impossible to have in-person schooling. But in most school districts most of the time, schools should look to reopen by following these eight basic safety measures. First, shield the most vulnerable. Children, older staff, and those who have underlying health conditions that put them at high risk should not return to school in person unless there is little or no community transmission; the school system should enable them to participate remotely to the greatest extent possible. Second, reduce risk wherever possible. Large in-person student assemblies will be out. Cafeterias may need to close, with students instead eating in classrooms. On-site food preparation may be replaced by prepackaged meals and disposable dishware. And schools can reduce the number of surfaces touched by multiple people, for example, by keeping hallway doors open. Some essential services must continue—such as in-school meals, which many students depend on. Others may need to be modified—libraries will likely need capacity restrictions. Sarah Cohodes: A better fall is possible Because group singing increases risk, large choir rehearsals will need to stop. In areas where the coronavirus is under good control, band and orchestra practice may be able to continue. Team sports may be too risky; clusters of cases have been reported among college and professional sports teams. Recess and physical-education classes are possible if students play outdoors in small groups, wear masks, and observe physical-distancing guidelines.
+
+The summary has to be returned after a "SUMMARY:" token and ending with a "END OF SUMMARY." token. The summary should be no longer than 200 words.

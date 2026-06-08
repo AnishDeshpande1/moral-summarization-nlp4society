@@ -1,0 +1,20 @@
+Here is the target news article with the morally framed words extracted:
+
+STEP 1:
+* pejorative
+* demean
+* humiliate
+* harass
+* protected
+* harassment
+* damages
+* single
+* comment
+* discriminatory
+* anti-discrimination
+* unwelcome
+* severe
+* pervasive
+
+SUMMARY:
+The New York City Commission on Human Rights has declared that using the term "illegal alien" pejoratively to describe an undocumented person violates laws designed to protect employees and tenants from discrimination. The city's interpretation of the law is so broad that it may be unconstitutional under the First Amendment, as it eliminates the requirement for conduct to be severe or pervasive enough to make the work environment hostile. This has raised concerns about limiting free speech in the name of anti-harassment or anti-discrimination. The government cannot simply prohibit people from making politically incorrect statements about undocumented people—it must limit the scope of anti-discrimination mandates to satisfy the broad free speech guarantees enjoyed by all people. The commission's guidance may result in fines of up to $250,000 for employers and landlords who use such terms with intent to demean or harass. END OF SUMMARY.

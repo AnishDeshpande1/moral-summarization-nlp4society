@@ -1,0 +1,245 @@
+You have to summarize the following text preserving the moral framing that the author gave to it.
+
+Please study the following examples of news articles, their moral word extraction, and summaries preserving the moral framing:
+
+Example 1 (Political Ideology: Left):
+Here is the news article:
+
+President Donald Trump tweeted on Thursday that Defense Secretary Jim Mattis, a retired Marine general who was one of Trump’s first Cabinet picks, would be retiring at the end of February.
+
+Mattis, who served more than four decades in the military and headed the U.S. Central Command from 2010 to 2013, won Senate confirmation as defense secretary on Jan. 20, 2017, shortly after Trump’s inauguration.
+
+The Pentagon chief, nicknamed “Mad Dog Mattis” during his time as a Marine, echoed Trump’s call for strengthening the military and beefing up its combat readiness.
+The budget bill the president signed into law in February earmarked $700 billion for the Defense Department this fiscal year ― a more than 15 percent increase over the previous year and the biggest hike in military spending since 2002.
+
+Mattis’ resignation letter addressed to Trump indicates his final day in office will be Feb. 28.
+
+“I am proud of the progress that has been made over the past two years on some of the key goals articulated in our National Defense Strategy: putting the Department on a more sound budgetary footing, improving readiness and lethality in our forces, and reforming the Department’s business practices for greater performance, he wrote.
+
+“Our troops continue to provide the capabilities needed to prevail in conflict and sustain strong U.S. global influence.”
+
+In the unusual letter, Mattis also wrote that he and Trump had differing views on Russian and Chinese authoritarianism: “Because you have the right to have a Secretary of Defense whose views are better aligned with yours on these and other subjects, I believe it is right for me to step down from my position.”
+
+Earlier this week, Trump went against Mattis by abruptly withdrawing U.S. troops from Syria.
+Mattis had previously argued that a small U.S. presence should remain because the counterterrorism mission there is ongoing and removing troops now would cause more problems for the region.
+Additionally, forces were withdrawn despite the concern by many Republicans that “leaving would strengthen the hand of Russia and Iran, which both support Syrian President Bashar al Assad.”
+
+News of Mattis’ departure comes in the wake of reports that the White House had been discussing who might replace him, a topic that was first reported by The Washington Post in early September.
+
+Some of the top names that were reportedly under consideration included four-star Army Gen. Jack Keane, Sen. Tom Cotton (R-Ark.), Sen. Lindsey Graham (R-S.C.), former Treasury Department official David McCormick and former Republican Sen. Jim Talent of Missouri.
+
+Trump denied that he had been looking to replace Mattis, telling reporters that he was “very happy” with him.
+
+That assurance came ahead of the release of a book by acclaimed Watergate journalist Bob Woodward, which reported that Mattis once told staffers that Trump has the understanding of a “fifth- or sixth-grader.” Mattis has denied having said that.
+
+A major split between Trump and Mattis concerned Russian President Vladimir Putin.
+The defense secretary has characterized Putin as trying to undermine NATO and assaulting Western democracies while violating international norms.
+
+“[Putin’s] actions are designed not to challenge our arms at this point, but to undercut and compromise our belief in our ideals,” Mattis told U.S. Naval War College graduates at a commencement ceremony in June.
+
+Trump, in contrast, has praised Putin’s leadership skills and recently roiled U.S. allies by calling for Russia’s reinstatement to the Group of Seven major industrial nations.
+Russia was expelled from what was then the Group of Eight after its annexation of Crimea from Ukraine.
+
+Mattis had also argued that the U.S. should consider staying in the Iran nuclear deal unless Tehran was found not to be abiding by the multi-nation agreement.
+Iran was following the pact’s rules, according to the International Atomic Energy Agency, which monitors the use of nuclear energy and has verified Iranian compliance with the accord multiple times since 2015.
+
+Trump went on to pull out of the deal in May, claiming that it had been poorly negotiated during the Obama administration.
+
+Mattis opposed Trump’s proposed ban on transgender service members, as well as the use of torture in the interrogation of terrorist suspects.
+
+His most prominent moment in the public spotlight occurred in April when he handled briefings on Trump’s decision to conduct targeted airstrikes against Syria in response to the alleged use of chemical weapons by Assad’s regime in that nation’s civil war.
+
+Even then, Mattis’ recommendation that congressional approval be sought for the strikes put him at odds with the president.
+Trump overruled the defense secretary and unilaterally ordered the military assault.
+
+Mattis joins a growing list of high-profile departures from the administration.
+Trump fired Secretary of State Rex Tillerson earlier this year, and Tom Price stepped aside as secretary of health and human services last fall amid ethical questions about his travel practices.
+
+Reince Priebus lasted barely six months as White House chief of staff, and Sean Spicer had a similarly short tenure as press secretary.
+
+White House Communications Director Hope Hicks, a Trump aide before he won the presidency, announced her resignation in February.
+
+White House deputy chief of staff Joe Hagin, who also served in the Ronald Reagan, George H.W. Bush and George W. Bush administrations, is expected to leave his post in July, Politico reported.
+
+STEP 1:
+* proud
+* right
+* authoritarianism
+* strengthen
+* prevail
+* sustain
+* strong
+* abruptly
+* concern
+* happy
+* undermine
+* assaulting
+* violating
+* compromise
+* belief
+* ideals
+* roiled
+* poorly
+* opposed
+
+SUMMARY:
+Defense Secretary Jim Mattis, nicknamed "Mad Dog Mattis", will retire at the end of February, citing differing views with President Trump on Russian and Chinese authoritarianism. Mattis, a retired Marine general, had served over four decades in the military and was one of Trump's first Cabinet picks. In his resignation letter, Mattis wrote that he was "proud" of the progress made on key goals, including strengthening the military and improving readiness. However, Mattis and Trump had differing views on Russia and China, with Mattis characterizing Putin as trying to "undermine" NATO and "assaulting" Western democracies. Trump, on the other hand, has praised Putin's leadership skills. Mattis also opposed Trump's decision to withdraw troops from Syria, citing concerns that it would "strengthen" the hand of Russia and Iran. Mattis joins a growing list of high-profile departures from the administration. END OF SUMMARY.
+
+Example 2 (Political Ideology: Center):
+Here is the news article:
+
+WASHINGTON (Reuters) - U.S. Democrats on Monday sought to bolster the case for impeaching President Donald Trump, describing his pressuring of Ukraine to investigate a political rival as a “clear and present danger” to free and fair elections and national security.
+
+In a raucous hearing that could lay the groundwork for a vote later this week on formal impeachment charges in the House of Representatives Judiciary Committee, the top Democrat on the panel said there was extensive proof of Trump’s wrongdoing.
+
+“The evidence shows that Donald J. Trump, the president of the United States, has put himself before his country.
+He has violated his most basic responsibilities to the people.
+He has broken his oath,” Representative Jerrold Nadler said in an opening statement.
+
+Republicans fired back, peppering the hearing with objections, points of order and other parliamentary maneuvers, forcing Nadler to gavel them into silence.
+The proceedings were briefly disrupted by a man who shouted that Democrats were committing treason before he was led away by police.
+
+“Presumption has now become the standard instead of truth,” said Representative Doug Collins, the ranking Republican on the panel.
+“They’re desperate to have an impeachment vote on this president.”
+
+The hearing on Monday was a key step before determining charges, known as articles of impeachment, that the full Democratic-controlled House is likely to vote on before Christmas.
+
+If Trump is impeached, a trial would be held in the Republican-controlled Senate, where a two-thirds majority of those present would be needed to vote to remove the president from office.
+A conviction is considered unlikely.
+
+The heart of the impeachment battle, which has divided Americans, is whether Trump abused his power by pressuring Ukraine to investigate former Vice President Joe Biden, who is seeking the Democratic nomination to face Trump in the 2020 election, and then obstructed Congress’ investigation.
+
+Trump denies wrongdoing and has called the probe a hoax.
+
+The House Judiciary panel is expected to vote by the end of the week on whether to send formal charges to the full House.
+
+That would set up an inevitable clash with the White House and its Republican allies, who have branded the impeachment inquiry a fanciful but not factual effort by Democrats to unseat a president who has done nothing to merit removal from office.
+
+No current House Republican has come out in favor of impeaching Trump.
+
+The White House has refused to participate in the hearings in the House, including those before the Judiciary Committee, because it says the process is unfair.
+
+White House spokeswoman Stephanie Grisham tweeted during Monday’s testimony that there was no evidence of wrongdoing by Trump and that “there’s no obstruction whatsoever.”
+
+In a letter to Collins, Nadler denied Republicans’ request for eight witnesses to appear before the inquiry.
+
+FILE PHOTO: U.S. President Donald Trump delivers remarks at the Israeli American Council National Summit in Hollywood, Florida, U.S., December 7, 2019.
+
+‘BALONEY’
+
+It has been 20 years since Americans last witnessed impeachment proceedings, when Republicans brought charges against Democratic President Bill Clinton arising from a sexual relationship he had with a White House intern.
+He was acquitted in the Senate.
+
+After weeks of investigation into Trump’s request that Ukraine investigate Biden and his businessman son, Hunter Biden, the committee is focused on two articles charging Trump with abuse of power and obstruction of Congress.
+
+Democrats have accused Trump of abusing his power by withholding $391 million in security aid to Ukraine - a vulnerable U.S. ally facing Russian aggression - and holding back a coveted White House meeting with Ukrainian President Volodymyr Zelenskiy as leverage to pressure Kiev into investigating the Bidens.
+
+But they appeared to back away from basing one of the articles of impeachment on former Special Counsel Robert Mueller’s report on Russian interference in the 2016 U.S. elections.
+Some Democrats believe Trump’s campaign colluded with Moscow, an allegation that has been denied by Trump and was not established by Mueller’s probe.
+
+Daniel Goldman, the majority counsel for the House Intelligence Committee, picked up on Democrats’ argument that leaving Trump in office would open the door to further undermining of the U.S. electoral process.
+
+“Trump’s persistent and continuing effort to coerce a foreign country to help him cheat to win an election is a clear and present danger to our free and fair elections and to our national security,” Goldman said during Monday’s hearing.
+
+Stephen Castor, a Republican attorney, said the inquiry had uncovered no direct evidence of impeachable offenses and that Democrats’ case boiled down to a small part of Trump’s July 25 phone call with Zelenskiy.
+It was during that call that Trump sought investigations of the Bidens and a debunked theory that Ukraine, not Russia, interfered in the 2016 U.S. election.
+
+“To impeach a president who 63 million people voted for over eight lines in a call transcript is baloney.
+Democrats seek to impeach president Trump ... because they disagree with his policies,” Castor said.
+
+Separately, the U.S. Justice Department’s internal watchdog said on Monday it found numerous errors but no evidence of political bias by the FBI in opening a probe into contacts between Trump’s presidential campaign and Russia in 2016.
+
+Democrats intend to decide which articles to bring forward after Monday’s hearing, which also showcased the findings of a 300-page report by Intelligence Committee Democrats that levels allegations of sweeping abuse of power against Trump.
+
+Republicans have their own, 110-page report, which argues that the inquiry has relied on “unelected bureaucrats” who “fundamentally disagreed with President Trump’s style, world view and decisions” but presented no evidence amounting to an impeachable offense.
+
+STEP 1:
+* wrongdoing
+* responsibilities
+* oath
+* treason
+* truth
+* desperate
+* hoax
+* fanciful
+* unfair
+* wrongdoing
+* obstruction
+* baloney
+* danger
+* cheat
+* clear
+* present
+* danger
+
+SUMMARY:
+Democrats in the House Judiciary Committee sought to bolster the case for impeaching President Donald Trump, describing his pressuring of Ukraine to investigate a political rival as a "clear and present danger" to free and fair elections and national security. They argued that Trump has put himself before his country, violating his most basic "responsibilities" to the people and breaking his "oath". Republicans fired back, accusing Democrats of being "desperate" to impeach Trump and labeling the inquiry a "hoax" and "fanciful" effort. The hearing was marked by objections and parliamentary maneuvers, with one man shouting that Democrats were committing "treason" before being led away by police. The committee is focused on two articles charging Trump with "abuse of power" and "obstruction of Congress". Democrats believe Trump's actions are a "danger" to the electoral process, while Republicans argue that the inquiry has uncovered no direct evidence of impeachable offenses. END OF SUMMARY.
+
+Example 3 (Political Ideology: Right):
+Here is the news article:
+
+Acting Homeland Security Deputy Secretary Ken Cuccinelli was publicly harassed Wednesday by Maryland Gov. Martin O’Malley when the two ran into each other at a bar in Washington, D.C.
+
+They crossed paths at an Irish pub, The Dubliner, where they were both attending an event for graduates of Gonzaga College High School.
+Rather than being able to enjoy his Guinness, however, Cuccinelli was subject to a “passion-laced and shame-invoking tirade” by O’Malley over the Trump administration’s immigration policies.
+
+Martin O’Malley just drove Ken Cuccinelli out of the Dubliner in DC w/ a passion-laced and shame-invoking tirade on behalf of immigrant refugee children!!! — Siobhan Houton Arnold (@siobhanphilly) November 27, 2019
+
+O’Malley was so fired up Cuccinelli said his neck veins were “bulging.”
+
+“As I walked up to one of the bars among several in The Dubliner to order my Guinness, I heard screaming and cussing behind me to my left, which I did not immediately take notice of other than the fact that it was louder than everything else in the pub,” Cuccinelli said, recalling the incident in a statement to Fox News.
+
+“When I turned to look I saw O'Malley and he was obviously screaming at me.
+For a moment I thought he was trying to be funny, as we've met before, which I thought was strange.
+It was immediately clear that he was cursing and screaming for real, to the point of veins bulging on his neck.”
+
+Cuccinelli said O’Malley “also inspired one or two of his (apparent) buddies to join in the cussing assault.”
+
+Attempting to deescalate the situation, Cuccinelli left to go order at a different bar within the pub, but O’Malley followed him.
+
+“At which point O'Malley pushed his way through the small group to confront me face to face, still cursing me, the President, and my Italian ancestry and he got right up in my face, bumped up against me and invited me to take a swing at him,” he said, adding that he told O’Malley ‘one of us has to rise above this, and it's obviously not going to be you.’
+
+Cuccinelli then spotted a friend, who is a Democrat, and that person approached the men and “forced some friendly conversation in between Martin and I.”
+
+After a brief exchange, Cuccinelli went to another part of the bar to see his high school friends.
+
+“Martin's behavior was as sad as it was shocking,” Cuccinelli said in the statement.
+“I learned on the other side of the pub that Martin's screaming was so loud that people on the other side of the pub heard him.
+I also learned from others who have known Martin for years that while his behavior was shocking, it was not new to them.”
+
+He described some of the criticism from O’Malley as “odd” given that “they applied to President Obama's policies, a fact he clearly did not appreciate me pointing out (without screaming it, btw).”
+
+O’Malley seemed to have no regrets about his behavior, telling The Washington Post in a text: “We all let him know how we felt about him putting refugee immigrant kids in cages — certainly not what we were taught by the Jesuits at Gonzaga.”
+
+Cuccinelli, O’Malley also told the Post, is “the son of immigrant grandparents who cages children for a fascist president.”
+
+This is not the first time a Trump administration official has been publicly harassed, but it is likely the first time it's been done by such a prominent Democrat.
+
+Worse still, the left celebrated the harassment.
+
+Senior Adviser to Democrat presidential candidate Pete Buttigieg appears to be happy that a Democrat harassed a member of the Trump admin in public to the point where the official had to leave the event
+
+A presidential campaign promoting harassment of officials is disgusting https://t.co/B24u8YTaCn pic.twitter.com/g7DK8EqfPl — Ryan Saavedra (@RealSaavedra) November 29, 2019
+
+STEP 1:
+* shameful
+* screaming
+* cussing
+* assault
+* sad
+* shocking
+* fascist
+* disgusting
+* harassment
+
+SUMMARY:
+Maryland Gov. Martin O'Malley publicly harassed Acting Homeland Security Deputy Secretary Ken Cuccinelli at a Washington, D.C. bar, delivering a "passion-laced and shame-invoking tirade" over the Trump administration's immigration policies. Cuccinelli described O'Malley's behavior as "sad" and "shocking," with "veins bulging" on his neck as he cursed and screamed. O'Malley's "cussing assault" was so loud that people on the other side of the pub heard him. Despite Cuccinelli's attempts to deescalate the situation, O'Malley continued to harass him, even following him to another part of the bar. The left celebrated the harassment, with a senior adviser to Democrat presidential candidate Pete Buttigieg expressing happiness over the incident. This "disgusting" behavior promotes a culture of harassment and is unacceptable.
+END OF SUMMARY.
+
+Now, here is the target news article to summarize:
+Here is the news article:
+
+Former Defense Secretary Mattis Issues Stunning Rebuke Of Trump Retired Marine Gen. Jim Mattis, who resigned as President Trump's defense secretary nearly a year and a half ago over policy differences, has issued an extraordinary critique of the White House's handling of nationwide unrest, saying Trump has sought to divide Americans and warning against "militarizing our response" to the protests. "When I joined the military, some 50 years ago, I swore an oath to support and defend the Constitution," Mattis said in a statement published in The Atlantic. "Never did I dream that troops taking that same oath would be ordered under any circumstance to violate the Constitutional rights of their fellow citizens —much less to provide a bizarre photo op for the elected commander-in-chief, with military leadership standing alongside," Mattis wrote, referring to a series of events on Monday in which peaceful protesters were physically cleared from around the White House to make way for an appearance by the president, Bible in hand, outside a historic church. Mattis called Monday's actions "an abuse of executive authority." The broadside came on the same day that current Defense Secretary Mark Esper said at a Pentagon briefing that he opposed invoking the Insurrection Act — which allows the president to deploy the military within the United States — something Trump had threatened to do in a televised speech on Monday. Earlier this week, Esper had referred to unrest in the streets as a "battlespace," and Trump urged governors to use law enforcement and the National Guard to "dominate" the protesters. "We must reject any thinking of our cities as a 'battlespace' that our uniformed military is called upon to 'dominate,' " Mattis wrote. "At home, we should use our military only when requested to do so, on very rare occasions, by state governors." It is extraordinarily rare for military leadership to speak out against a sitting president, though Trump has come in for implicit criticism from senior ranks. After Trump said of a Unite the Right rally in Charlottesville, Va., in 2017, which turned deadly, that there were "very fine people on both sides," each of the military service chiefs — as well as the chairman of the Joint Chiefs of Staff – issued statements condemning bigotry. "I can absolutely and unambiguously tell you there is no place — no place — for racism and bigotry in the U.S. military or in the United States as a whole," said Gen. Joe Dunford, the Joint Chiefs of Staff chairman at the time. America’s military, our sons and daughters, will place themselves at risk to protect their fellow citizens. Their job is unimaginably hard overseas; harder at home. Respect them, for they respect you. America is not a battleground. Our fellow citizens are not the enemy. #BeBetter — GEN(R) Martin E. Dempsey (@Martin_Dempsey) June 1, 2020 Just this week, two former Joint Chiefs of Staff chairmen, Gen. Martin Dempsey and Adm. Mike Mullen, condemned the use of the military to quash the demonstrations on Monday. In a tweet, Dempsey said, "America is not a battleground. Our fellow citizens are not the enemy." In the opinion piece in The Atlantic titled "I Cannot Remain Silent," Mullen wrote regarding Trump's photo-op at St. John's Church, "Whatever Trump's goal in conducting his visit, he laid bare his disdain for the rights of peaceful protest in this country, gave succor to the leaders of other countries who take comfort in our domestic strife, and risked further politicizing the men and women of our armed forces." Mattis, who resigned and was then pushed out by Trump in December 2018 over disagreements with the White House's Syria policy, has remained largely silent about the president's job performance since leaving the defense post, telling NPR last year: "I don't discuss sitting presidents." He said he thought that Trump deserved "a period of quiet." However, days of nationwide protest over the death of George Floyd in police custody and the use of National Guard troops in Washington to disperse peaceful demonstrators have led Mattis — "angry and appalled" — to speak up. He said the protesters were only demanding equal justice under the law. "It is a wholesome and unifying demand — one that all of us should be able to get behind," he wrote. "We must not be distracted by a small number of lawbreakers," Mattis wrote, referring to the vandalism and looting that have sometimes occurred along with the largely peaceful protests. "The protests are defined by tens of thousands of people of conscience who are insisting that we live up to our values — our values as people and our values as a nation." Mattis accused the president of pursuing a divisive strategy. "Donald Trump is the first president in my lifetime who does not try to unite the American people— does not even pretend to try. "Instead he tries to divide us. We are witnessing the consequences of three years of this deliberate effort. We are witnessing the consequences of three years without mature leadership," he said. The president responded to the criticism in a tweet, calling Mattis "the world's most overrated General," an insult Trump has fired off in the past. Probably the only thing Barack Obama & I have in common is that we both had the honor of firing Jim Mattis, the world’s most overrated General. I asked for his letter of resignation, & felt great about it. His nickname was “Chaos”, which I didn’t like, & changed to “Mad Dog”... — Donald J. Trump (@realDonaldTrump) June 4, 2020 In Wednesday's statement, Mattis said the country's response to the pandemic showed that "it is not only our troops who are willing to offer the ultimate sacrifice for the safety of the community. Americans in hospitals, grocery stores, post offices, and elsewhere have put their lives on the line in order to serve their fellow citizens and their country." "We must reject and hold accountable those in office who would make a mockery of our Constitution. At the same time, we must remember Lincoln's 'better angels,' and listen to them, as we work to unite," he said.
+
+(1) First, you identify all the single words that are morally framed. Identify this step as "STEP 1:" and report each word in a new line starting with *
+(2) Finally, you write a summary of the news article. Please preserve as many morally framed words as possible in your summary. The summary has to be returned after a "SUMMARY:" token and ending with a "END OF SUMMARY." token. The summary should be no longer than 200 words.

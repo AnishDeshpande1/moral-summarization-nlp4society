@@ -1,0 +1,24 @@
+Here are the morally framed words extracted from the news article:
+
+STEP 1:
+* anti-LGBT
+* proud
+* admonish
+* distraction
+* violence
+* oppression
+* hateful
+* foreign
+* believe
+* accepting
+* friends
+* criticized
+* supports
+* oppose
+* federal
+* trust
+
+SUMMARY:
+The Republican party's platform has been deemed the most anti-LGBT in its history, but some pro-LGBT Republicans are calling Donald Trump their most supportive candidate. PayPal co-founder Peter Thiel addressed this issue during his speech at the GOP convention, stating "I don't pretend to agree with every plank in our party's platform" and acknowledging that the debate over transgender rights is a distraction from real problems. Despite the party's stance against same-sex marriage and support for conversion therapy, Trump has called himself a "friend of the gay community." However, his actions and those of his vice presidential pick, Mike Pence, suggest otherwise, with Pence holding views on LGBT rights that are considered more extreme than any vice-presidential nominee in modern history. The divide between words and actions raises questions about whether Trump truly supports LGBT individuals.
+
+END OF SUMMARY.

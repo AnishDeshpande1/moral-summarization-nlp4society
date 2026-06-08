@@ -1,0 +1,149 @@
+You have to summarize the following text preserving the moral framing that the author gave to it, with particular focus on the specific moral foundations highlighted in the text.
+
+Please study the following examples of news articles, their moral word extraction, and summaries preserving the moral framing:
+
+Example 1 (Political Ideology: Left, Moral Foundations: Care/Harm, Fairness/Cheating):
+Here is the news article:
+
+(CNN) Alabama Republican Senate candidate Roy Moore says he will sue the Washington Post over its report alleging he pursued sexual relationships with teenagers -- including a 14-year-old -- when he was in his 30s.
+
+"The Washington Post published another attack on my character and reputation because they are desperate to stop my political campaign.
+These attacks said I was with a minor child and are false and untrue -- and for which they will be sued," Moore said Sunday night during a campaign speech in Huntsville, Alabama.
+
+The Washington Post declined to comment Monday morning.
+
+It's not uncommon for public figures to threaten legal action against news organizations but ultimately fail to follow through.
+President Donald Trump threatened to sue The New York Times last year after it published the accounts of two women who claimed Trump touched them inappropriately.
+His lawyers never filed a lawsuit.
+
+More recently, disgraced Hollywood mogul Harvey Weinstein initially threatened to sue the Times after it first reported allegations of sexual misconduct against him, but that suit never materialized
+
+The Washington Post report Thursday was based on interviews with more than 30 people.
+As well as the allegations that Moore had sexual contact with the then 14-year-old when he was aged 32, three other women also told The Post that Moore pursued them when they were between the ages of 16 and 18.
+
+The woman who was 14 years old at the time claimed he took her to his house, undressed down to his underwear and undressed her down to her bra and underwear and touched her and moved her hand to touch his underwear, which could have been sexual offenses due to her age, but the statutes of limitations in effect during that time have passed.
+
+None of the other three women told the Post that Moore sexually harassed, or assaulted them, or forced them into a relationship.
+Alabama's legal age of consent is 16.
+
+Moore has denied the allegations since they were published.
+He called the claims " completely false " Friday when appearing on Sean Hannity's syndicated radio show.
+
+Speaking at a Veterans Day event at the Mid-Alabama Republican Club in Birmingham Saturday, Moore called the allegations "fake news" and "yet another attack on my character and reputation in a desperate attempt to stop my political campaign for the United States Senate."
+
+He added that the alleged incidents happened nearly 40 years ago and called them "very hurtful to me personally -- I have the highest regard for the protection of young children," before adding that he has never provided alcohol to a minor and has "not been guilty of sexual misconduct with anyone."
+
+Moore added that there were ongoing "investigations" looking into the motivations behind the Post article, and promised "revelations" about the story to come in the next few days, though he did not provide further specifics.
+
+A number of Republicans withdrew their endorsements of Moore following the Washington Post article, including the National Republican Senatorial Committee, which severed a joint fundraising agreement that benefits Moore's campaign.
+
+STEP 1:
+* false
+* untrue
+* desperate
+* attack
+* character
+* reputation
+* fake
+* hurtful
+* highest
+* guilty
+* misconduct
+
+SUMMARY:
+Alabama Republican Senate candidate Roy Moore has denied allegations of pursuing sexual relationships with teenagers, including a 14-year-old, when he was in his 30s, calling the claims "completely false" and "fake news". Moore accused The Washington Post of launching a "desperate" attack on his character and reputation to stop his political campaign. The Post's report, based on interviews with over 30 people, alleged that Moore had sexual contact with the 14-year-old and pursued three other women between the ages of 16 and 18. Moore has threatened to sue The Washington Post over the report, which he claims is "hurtful" to him personally. He emphasized his "highest regard for the protection of young children" and denied any "sexual misconduct" with anyone. Several Republicans have withdrawn their endorsements of Moore following the report. END OF SUMMARY.
+
+Example 2 (Political Ideology: Center, Moral Foundations: Care/Harm):
+Here is the news article:
+
+Representative Bob Etheridge, Democrat of North Carolina, issued an apology on Monday for grabbing a young man by the hand, arm and neck – as a video camera rolled – as the man tried to ask him whether he supports President Obama’s agenda.
+
+“I deeply and profoundly regret my reaction and I apologize to all involved,” Mr. Etheridge said in a statement. 
+“Throughout my many years of service to the people of North Carolina, I have always tried to treat people from all viewpoints with respect. 
+No matter how intrusive and partisan our politics can become, this does not justify a poor response.”
+
+He added, “I have and I will always work to promote a civil public discourse.”
+
+A young man, dressed in a jacket and tie, approached the congressman on a sidewalk, saying: “Hi, Congressman. How are you? Do you fully support the Obama agenda?”
+
+Mr. Etheridge, a seven-term House member, can be seen on the video repeatedly asking the young man to identify himself. 
+After a few seconds, the congressman grabs the camera and the young man.
+
+“Tell me who you are,” Mr. Etheridge said. “Tell me who you are.”
+
+The young man is not identified in the video, which was made last week. 
+A second person accompanying him pulled out another camera to record the congressman’s actions. 
+The video received widespread attention on Monday after it was posted on the Web site of Andrew Breitbart, a conservative Web publisher and former editor of The Drudge Report. 
+It was circulated by the National Republican Congressional Committee.
+
+“Bob Etheridge has lost it,” said Jon Thompson, a Republican spokesman. 
+“His conduct is unbecoming of a member of Congress.”
+
+Mr. Etheridge, who represents a conservative district south of Raleigh, faces a re-election challenge, but his race is not among the top Republican targets in the country. 
+He won two years ago by 36 percentage points, and Mr. Obama carried his district by 6 percent.
+
+Vice President Joseph R. Biden Jr. resumed the White House campaign for gun control on Tuesday by reporting on executive action taken unilaterally by the administration and pressing Congress to take up legislation again.
+
+STEP 1:
+* regret
+* apologize
+* respect
+* civil
+* poor
+* unbecoming
+* lost
+
+SUMMARY:
+Representative Bob Etheridge, a Democrat from North Carolina, issued an apology for his regretful reaction to a young man's question about supporting President Obama's agenda. In a video, Etheridge can be seen grabbing the man by the hand, arm, and neck, and repeatedly asking him to identify himself. Etheridge deeply regrets his poor response and apologizes to all involved, stating that he has always tried to treat people with respect, regardless of their viewpoints. He emphasized the importance of promoting a civil public discourse. The video, which was posted on a conservative Web site, has received widespread attention and has been circulated by the National Republican Congressional Committee, with a Republican spokesman calling Etheridge's conduct "unbecoming of a member of Congress" and saying he has "lost it." END OF SUMMARY.
+
+Example 3 (Political Ideology: Right, Moral Foundations: Authority/Subversion):
+Here is the news article:
+
+Republican senators kept up pressure on party Chairman Michael Steele Sunday to better explain -- and publicly apologize for -- his on-camera claim that Afghanistan is a "war of Obama's choosing" and may not be winnable.
+
+The backlash built quickly over the weekend as some prominent conservatives called for Steele's resignation.
+Speaking on "Fox News Sunday," Sen. Jim DeMint, R-S.C., would not go that far but said Steele must apologize to the troops.
+
+"Chairman Steele needs to apologize to our military, all the men and women who've been fighting in Afghanistan," he said.
+"This is America's war.
+It's not Obama's war."
+
+The GOP chairman is known for off-the-cuff and occasionally troublesome comments, but the Afghanistan remarks were too much to bear for some war-supporting Republicans.
+
+DeMint, who said Afghanistan is a war the United States must win, said Steele needs to "refocus" on the November election.
+He called Steele's comments "unacceptable" and "inaccurate."
+
+"We need a chairman who's focused," DeMint said.
+
+Speaking on ABC's "This Week," Sen. John McCain, R-Ariz., said Steele's comments were "wildly inaccurate."
+
+The Arizona Republican said Steele needs to assess whether he can still function in his job and must make "an appropriate decision" about his future.
+
+Trying to quell the furor, Steele issued a statement saying: "There is no question that America must win the war on terror.
+... And, for the sake of the security of the free world, our country must give our troops the support necessary to win this war."
+
+He sent an e-mail to RNC members saying he hoped his statement would "clear up any confusion" caused by his earlier remarks.
+
+That didn't seem to quiet the controversy in the slightest.
+Weekly Standard Editor Bill Kristol, who led the charge of conservatives calling for Steele to step down over the remark, said on "Fox News Sunday" that Steele still needs to go -- though he said Steele tried to convince him otherwise.
+
+"I think it would be better if he went," he said.
+
+STEP 1:
+* unacceptable
+* inaccurate
+* wildly
+* appropriate
+
+SUMMARY:
+Republican senators are calling for party Chairman Michael Steele to apologize for his "unacceptable" and "inaccurate" comments that Afghanistan is a "war of Obama's choosing" and may not be winnable. Sen. Jim DeMint demanded an apology to the troops, stating that Afghanistan is "America's war" and not Obama's. DeMint and Sen. John McCain deemed Steele's remarks "wildly inaccurate" and urged him to "refocus" on the November election. Steele's attempt to clarify his statement did little to quell the controversy, with Weekly Standard Editor Bill Kristol leading the charge for Steele's resignation. Kristol believes it would be "better" if Steele stepped down. The backlash highlights the importance of a chairman who is "focused" and supportive of the troops. Steele's future as chairman remains uncertain.
+
+END OF SUMMARY.
+
+Now, here is the target news article to summarize:
+Here is the news article:
+
+There was something missing from Al Franken’s speech on Thursday. Sen. Franken (D-MN) was resigning after multiple women reported that he had groped or otherwise sexually harassed them. He had apologized before, saying in a news conference just a few days ago, “I know that I’ve let a lot of people down.” Surely the speech announcing his resignation was a chance for him to show contrition before the Senate, the country, and, perhaps most importantly, the women who had risked public shaming to report their experiences with him. But Franken did not take that chance. He did not apologize. Instead, he gave advice on running for office, focused on his own struggles rather than those of survivors, and seemed to take back the apologies he had already offered. In his speech, Franken squandered an opportunity to do good, and instead offered a master class in what not to do when accused of sexual misconduct. Earlier this week, sociologist David Karp explained to Vox his five-point checklist for helpful public apologies: Specifically acknowledge the harm done, admit your role in it, express remorse, explain which behaviors you’ll stop in the future, and share your plan for making amends. Franken’s statement on Thursday failed on the very first step. Franken said that in responding to women’s reports of his behavior, he “wanted to be respectful” of the broader conversation around harassment and men’s abuses of power. That decision, he said, may have given “some people the false impression that I was admitting to doing things that, in fact, I haven't done. Some of the allegations against me are simply not true. Others I remember very differently.” Contrast that with Franken’s statement, at a news conference late last month, that, “there are some women, and one is too many, who feel that I have done something disrespectful that’s hurt them, and for that I am tremendously sorry.” “I know that I am going to have to be much more conscious when in these circumstances,” he went on, “much more careful, much more sensitive, and that this will not happen again.” As of Wednesday, eight women had publicly reported that Franken groped, kissed, or tried to kiss them without their consent. Several said he grabbed their butts or breasts during photo ops. Franken has specifically denied at least one of the allegations, and has responded less clearly, or not at all, to others, ABC News reports. These are the possibilities: Franken was sincere in his apology in November, and is taking it back now to preserve some of his reputation. Or he was insincere and offered the apology as, in the best case, some sort of favor to the women involved or, in the worst case, an attempt to save his own skin. Either way, he has never offered the women who came forward the first thing they deserve: a clear explanation of what, if anything, he believes he did wrong and what, if anything, he is committed to changing. Franken began his speech on Thursday by talking about the recent public discussion around sexual harassment. “We were finally beginning to listen to women about the ways in which men's actions affect them,” he said. “The moment was long overdue. I was excited for that conversation and hopeful that it would result in real change that made life better for women all across the country and in every part of our society.” He had an opportunity, in his own speech, to contribute to that change. If he was in any way sincere in his previous apology, he could have been clear about his previous actions, expressed remorse, and explained what he would do differently. Instead, he talked about his own feelings, saying, “This has been a tough few weeks for me.” He offered his advice for those running for office, as though he were still a role model, cautioning that “there are a lot of long hours and late nights and hard lessons. And there is no guarantee that all your work and sacrifice will ever pay off.” And most importantly, by offering a vague denial of the reports by his accusers, he encouraged voters to doubt and shame them. He gave ammunition to those who believe their accounts are part of a right-wing plot, and to the many who still think women who report harassment are vindictive harpies seeking to harm men. Once Franken knew he would resign, he had a choice. He could do so in a way that helped a cause he claims to care about — protecting women from men’s abuses of power — or he could preserve some of his own reputation at the cost of harming that cause. He chose the latter. By going back on his earlier statements, he essentially took all of his accusers down with him. Franken was right about one thing: It is unfair (though not, perhaps, “an irony,” as he put it) that he will leave the Senate and Roy Moore, who has been accused of sexually pursuing teenage girls, will probably enter it. It is unfair that he will resign and Donald Trump, who has been accused of harassment, assault, or other sexual misconduct by more than a dozen women, will remain the president. These are injustices that remain to be fought. But by sacrificing his accusers for the benefit of his own political legacy, Franken made it harder, not easier, to fight them.
+
+(1) First, you identify all the single words that are morally framed, focusing especially on the dimensions of Authority/Subversion, Care/Harm, Fairness/Cheating. Identify this step as "STEP 1:" and report each word in a new line starting with *
+(2) Finally, you write a summary of the news article. Please preserve as many morally framed words as possible, particularly focusing on the moral dimensions of Authority/Subversion, Care/Harm, Fairness/Cheating in your summary. The summary has to be returned after a "SUMMARY:" token and ending with a "END OF SUMMARY." token. The summary should be no longer than 200 words.

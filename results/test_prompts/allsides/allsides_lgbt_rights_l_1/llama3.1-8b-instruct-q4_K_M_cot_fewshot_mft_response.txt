@@ -1,0 +1,38 @@
+Here is the target news article's moral word extraction and summary:
+
+STEP 1:
+* hate
+* equality
+* curtail
+* protests
+* gender
+* racial
+* LGBTQ+
+* communities
+* history
+* argument
+* rules
+* good faith
+* expectation
+* warnings
+* quarantining
+* intention
+* reining
+* moderation
+* influence
+* popular
+* front page
+* visibility
+* paranoia
+* genocide
+* ethnic cleansing
+* anti-trans
+* rhetoric
+* denial
+* access
+* bathrooms
+
+SUMMARY:
+Reddit has decided to shut down over 2,000 communities that have a history of hate speech and promoting prejudice against certain groups. The company's argument is that these communities consistently broke its rules and failed to meet its expectations for moderation. "All communities on Reddit must abide by our content policy in good faith," the company said. The purge includes subreddits such as "The_Donald" and "Gender Critical", which have promoted hate speech against Muslims, LGBTQ+ individuals, and trans people. Reddit's decision aims to curtail hate speech and promote equality among its users. By taking stronger action against those who try to weaponize parts of the platform against others, Reddit seeks to create a more inclusive environment for all. The company has reiterated that this is just the start of its mission to craft more rules around hate speech.
+
+END OF SUMMARY.

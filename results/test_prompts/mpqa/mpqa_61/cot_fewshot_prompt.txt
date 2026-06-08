@@ -1,0 +1,211 @@
+You have to summarize the following text preserving the moral framing that the author gave to it.
+
+Please study the following examples of news articles, their moral word extraction, and summaries preserving the moral framing:
+
+Example 1 (Political Ideology: Left):
+Here is the news article:
+
+Having failed to lead the best-prepared nation in the world against one pandemic, Donald Trump has made it more vulnerable to another.
+He has, for example, frayed international bonds further by trying to pull the U.S. out of the World Health Organization.
+Whether he has the legal authority to do so is still unclear, but even if the threat is empty, “some of the effects will be immediate,” says Loyce Pace, the president of the Global Health Council.
+U.S. officials and experts will start disengaging from international institutions, and that might encourage other nations to follow suit.
+
+This won’t just harm the WHO at the time when it is most needed, but will also further diminish America’s already damaged international standing.
+A country that has badly mishandled its own outbreak, that has bought up the world’s stock of important drugs, and that has petulantly withdrawn from global alliances is less likely to receive warnings or support if a new crisis emerges.
+
+There is an optimistic scenario if a second virus begins to spread: The new pathogen finds it harder to move around an alert world, is rapidly detected wherever it arrives, and fizzles out because cautious citizens have their guard up.
+
+As long as people stay vigilant against the current pandemic—keeping their distance, wearing masks, avoiding indoor crowds—they should theoretically be guarded against a second respiratory virus.
+It used to be common for measles and pertussis to interfere with each other, so that if one spiked, the other would subside.
+That might be because kids who got one disease would stay home, reducing their risk of the other.
+“It’s nothing to do with a vaccine or the immune system,” says Sarah Cobey, an immunologist at the University of Chicago.
+“It’s just people being careful.”
+
+The same tests that are being used to diagnose COVID-19 could also be tweaked to cover the new pathogen.
+One company is already developing a fast “multiplex” test that could look for four respiratory viruses—the new coronavirus, two types of flu, and respiratory syncytial virus (RSV)—in a single nasal swab.
+And if the new pathogen is a flu strain, existing vaccines could be tweaked to protect against it.
+That would still take several months, but the existence of a seasonal flu vaccine offers an invaluable head start.
+
+Read: We don’t even have a COVID-19 vaccine, and the conspiracies are here
+
+This future is easier to imagine in countries like South Korea, New Zealand, and Germany, which have successfully controlled COVID-19.
+It seems less likely in nations like the U.S., Brazil, Russia, and India, which are stretched and struggling.
+
+In such places, COVID-19 would effectively cloak the spread of any new respiratory virus with similar symptoms, which “could have a chance to take off before we realized it had,” Cameron said.
+A new virus would also be harder to spot because “all the resources we would normally use to detect potential viruses of concern have been redirected for COVID-19,” says Lauren Sauer, who works on disaster preparedness at Johns Hopkins Medicine.
+She means everything from physical equipment like swabs and storage tubes, to health-care workers who administer and process tests, to public-health experts who analyze the data or conduct contact tracing.
+These are either running out or burning out.
+A second respiratory virus would further tax the same resources that the U.S. has already failed to adequately marshal for COVID-19.
+
+STEP 1:
+* failed
+* vulnerable
+* frayed
+* damaged
+* badly
+* petulantly
+* withdrawn
+* cautious
+* vigilant
+* careful
+* struggling
+* stretched
+* failed
+* inadequately
+
+SUMMARY:
+Donald Trump's mishandling of the COVID-19 pandemic has made the US more vulnerable to another pandemic. His attempts to pull out of the World Health Organization have frayed international bonds, further damaging America's already damaged international standing. A country that has badly mishandled its own outbreak and petulantly withdrawn from global alliances is less likely to receive warnings or support if a new crisis emerges. In contrast, countries like South Korea, New Zealand, and Germany, which have successfully controlled COVID-19, are better prepared to handle a new respiratory virus. However, in countries like the US, Brazil, Russia, and India, which are stretched and struggling, a new virus could spread undetected, cloaked by the ongoing COVID-19 pandemic. END OF SUMMARY.
+
+Example 2 (Political Ideology: Center):
+Here is the news article:
+
+“The 360” shows you diverse perspectives on the day’s top stories and debates.
+
+What’s happening
+
+At least 54,000 residents and workers at nursing homes and other elder-care facilities have died of COVID-19 in the United States, according to data compiled by the New York Times in late June.
+The U.S. has more deaths connected to nursing homes than any country other than Brazil has in total.
+
+COVID-19 has proved to be especially dangerous for the elderly.
+People over 65 represent more than three-quarters of America’s nearly 131,000 coronavirus deaths.
+The age of nursing home residents, combined with the ease with which the virus spreads in communal spaces, has led to devastating outbreaks.
+Some facilities have been connected to more than 70 deaths.
+
+Across the U.S., there are about 1.4 million people living in nursing homes.
+Though their residents make up less than 1 percent of the country’s population, nursing homes account for more than 40 percent of America’s COVID-19 deaths.
+The fatality rate for nursing home residents who contract the virus is more than three times the national average, according to the New York Times.
+
+Why there’s debate
+
+To some experts, the coronavirus has highlighted flaws in the U.S. nursing home system that can only be fixed by radically changing the way the country cares for the elderly.
+Critics argue that nursing homes were vulnerable to the virus not just because they house older people in tight quarters, but also because of long-standing problems like limited resources, poor government support, underpaid staff, lack of oversight and financial structures that incentivize substandard care.
+The size of the country’s older population is expected to nearly double by 2050, which could further strain the already strained nursing home system.
+
+A better plan, some argue, would be a major increase in at-home care for seniors supported by government funds, new technology and community members.
+Some studies suggest that at-home care is cheaper and leads to better health outcomes.
+Shifting the majority of elder care to the home would allow nursing homes to focus on supporting people with intensive health needs, experts say.
+
+Others say a massive restructuring of elder care could leave behind poor people and people of color, who are less likely to have stable housing and the money needed to support at-home care.
+Many of the issues with the current system, they argue, can be fixed through more funding for care and staff pay, a more equitable health care system and more government accountability.
+
+Perspectives
+
+The government should help fund at-home care for seniors
+
+“The desire is there to stay at home, but until the government takes action, nothing will change.
+Maybe the extraordinary events of the past few months will finally be the catalyst we need to move forward to aging at home.” — Julian Gray and Frank Petrich, Pittsburgh Post-Gazette
+
+The virus has drawn attention to ongoing problems with nursing homes
+
+“The pandemic doesn’t have many silver linings, but as the number of nursing-home deaths piles up, the news media is being forced to cover a world many of us would prefer to ignore.” — Charles C. Camosy, New York Times
+
+Technology and family support can ease the burden of at-home care
+
+“One alternative is supporting in-home care for seniors to age in place, undergirded by technology that can virtually detect falls, provide companionship through robotics, monitor the frequency of sleeping and toilet visits, or even check how often the fridge door is opened.
+The pandemic should prompt us to explore these alternatives, or options for generational living where grandparents reside with younger generations, contributing to the mortgage and pitching in with child care.” — Michele L. Norris, Washington Post
+
+The country needs to prepare for a major spike in the elderly population
+
+“Long, full lives are our new normal — thanks in no small part to modern medicine.
+If the coronavirus pandemic has upsides, I hope one is that it challenges doctors, politicians, and everyone else to more thoughtfully adapt to this new reality for the human species.” — Louise Aronson, Atlantic
+
+STEP 1:
+* devastating
+* flaws
+* vulnerable
+* poor
+* underpaid
+* lack
+* substandard
+* strained
+* better
+* cheaper
+* intensive
+* poor
+* equitable
+* accountable
+* extraordinary
+* silver
+* ignore
+* burden
+* explore
+* alternatives
+* prompt
+* challenges
+* thoughtfully
+
+SUMMARY:
+The COVID-19 pandemic has highlighted the devastating flaws in the US nursing home system, where at least 54,000 residents and workers have died. The vulnerable elderly population, combined with limited resources, poor government support, underpaid staff, and lack of oversight, has led to substandard care. The fatality rate for nursing home residents who contract the virus is more than three times the national average. Experts argue that a better plan would be to increase at-home care for seniors, which is cheaper and leads to better health outcomes. However, others warn that a massive restructuring of elder care could leave behind poor people and people of color. The government needs to take extraordinary action to address these issues and prepare for a major spike in the elderly population. END OF SUMMARY.
+
+Example 3 (Political Ideology: Right):
+Here is the news article:
+
+President Obama warned Uganda Sunday over its plans to further criminalize homosexuality, saying it would "complicate our valued relationship."
+
+Defending gay rights around the world, as he has done at home, Obama said a bill that President Yoweri Museveni has pledged to sign will mark a "step backward" for all Ugandans and reflect poorly on the country's commitment to protect the human rights of its people.
+It also would represent a serious setback for anyone committed to freedom, justice and equal rights, Obama said.
+
+Obama said the United States stands for the protection of fundamental freedoms and universal human rights and believes people everywhere should be treated equally.
+
+"That is why I am so deeply disappointed that Uganda will shortly enact legislation that would criminalize homosexuality," Obama said in a written statement issued from Southern California, where he was spending the weekend.
+"The Anti-Homosexuality Bill in Uganda, once law, will be more than an affront and a danger to the gay community in Uganda.
+It will be a step backward for all Ugandans and reflect poorly on Uganda's commitment to protecting the human rights of its people.
+It also will mark a serious setback for all those around the world who share a commitment to freedom, justice and equal rights."
+
+"Enacting this legislation will complicate our valued relationship with Uganda," he said, adding that the U.S. has conveyed that message to Museveni.
+
+Homosexuality already is illegal in Uganda under a colonial-era law that criminalizes sex acts "against the order of nature."
+
+Museveni said last week that he plans to sign the new legislation, which has alarmed rights activists because it prescribes life imprisonment for acts of "aggravated homosexuality."
+Those acts are defined as sex acts where one of the partners is infected with HIV, sex with minors or the disabled and repeated sexual offenses among consenting adults.
+
+It was unclear when Museveni will sign the bill.
+Ugandan lawmakers passed it in December and Museveni since has been under heavy pressure to enact it.
+The measure enjoys broad support among Christian clerics and lawmakers who say it is needed to deter Western homosexuals from "recruiting" Ugandan children.
+
+Susan Rice, the U.S. national security adviser, said Sunday on Twitter that she spoke "at length" with Museveni on Saturday night and urged him not to sign the bill.
+
+The United States is Uganda's largest donor, sending more than $400 million in aid annually in recent years.
+If Museveni signs the bill, the U.S. is expected to review its relationship with the country with an eye on finding ways to register disappointment over the law.
+
+Uganda is one of many sub-Saharan African countries where homosexuals face severe discrimination, if not jail terms.
+Nigeria last month increased penalties against gays there.
+
+Obama has made support for gay rights a hallmark of his presidency.
+
+He supports same-sex marriage and his administration eliminated the Clinton-era ban on openly gay service in the military.
+
+For his State of the Union address last month, Obama included basketball player Jason Collins, the first male athlete on a major U.S. sports team to announce that he is gay, among guests chosen to sit with first lady Michelle Obama.
+Obama has said Collins' announcement marked a moment of progress for gays.
+
+Obama also welcomed last week's announcement by a University of Missouri football player and NFL hopeful that he is gay.
+
+The president also has spoken out against a Russian law banning gay propaganda, and included prominent gay athletes on the U.S. delegations to the opening and closing ceremonies at the Sochi Olympics.
+
+STEP 1:
+* freedom
+* justice
+* equal
+* fundamental
+* universal
+* human
+* rights
+* commitment
+* protect
+* valued
+* disappointment
+* setback
+* affront
+* danger
+* discrimination
+
+SUMMARY:
+President Obama expressed deep disappointment over Uganda's plans to further criminalize homosexuality, warning that it would "complicate our valued relationship" and mark a "step backward" for all Ugandans. The proposed law, which prescribes life imprisonment for "aggravated homosexuality," would reflect poorly on Uganda's commitment to protecting the human rights of its people and represent a serious setback for anyone committed to freedom, justice, and equal rights. Obama emphasized that the United States stands for the protection of fundamental freedoms and universal human rights, believing that people everywhere should be treated equally. The U.S. has conveyed its disappointment to President Museveni, and National Security Adviser Susan Rice urged him not to sign the bill. If enacted, the law would be a serious affront to the gay community in Uganda and a danger to those who share a commitment to freedom, justice, and equal rights. END OF SUMMARY.
+
+Now, here is the target news article to summarize:
+Here is the news article:
+
+Why Kyoto is a rip-off According to a study released last week by the Canadian Manufacturers and Exporters, implementation of the 1997 Kyoto global warming treaty would cost our economy 450,000 jobs and as much as $40-billion. But Jean Chretien is not worried. "I don't accept these figures," the Prime Minister said. "There is nothing to be gained by frightening people when all the facts are not known." But the $40-billion figure, far from being conceived to "frighten" Canadians, is plucked straight from government documents. According to a report released in 2000 by the National Air Issues Co-ordinating Committee on Climate Change, a group staffed by officials from the federal, provincial and territorial governments, hitting Canada's Kyoto target may mean "the loss of roughly one year's growth, or, viewed in absolute terms, in 2010, the loss in annual economic output of approximately $40-billion (or $1,100 per capita)." This is not a price worth paying. Governments are expected to protect the national economy, and they should deviate from that mission only when crucial national interests are at stake (fighting terrorism, for example). Yet rising temperatures pose little threat to Canada. In its authoritative Feb., 2001, report on the projected impacts of global warming, the Intergovernmental Panel on Climate Change identified several threats to Canadian ecosystems, but concluded that our farmers would generally benefit from warmer temperatures. (Non-farming Canadians, most of whom spend at least part of the winter months scraping ice off their cars, chopping firewood and shovelling their walks, will profit as well.) As for the globally felt benefits that would follow from Canada's implementation of the Kyoto protocol, they are slight. By 2010, our $40-billion sacrifice would yield an expected reduction in annual carbon and carbon-equivalent emissions of about 46-million tonnes -- just 1/200th of the world's total projected greenhouse gas output. Even if Canada managed to convince the United States and every other Kyoto signatory to ratify the protocol, world carbon dioxide emissions would still soar. According to the U.S. Energy Information Administration, world energy consumption will increase by about 60% between now and 2020, with most of the upsurge expected to come from developing nations, which are not covered by the Kyoto Protocol. Under the fully implemented treaty, carbon dioxide emissions would grow 26% during the 1990-2010 period. Without Kyoto, the figure would be 34%. The worldwide cost of that 8% dip: about $2-trillion in lost GDP -- give or take a trillion. There are better ways to spend that money. Instead of trying to cap carbon dioxide emissions -- a costly burden at home and an impossible task in the developing world -- we should focus on abating the damage global warming does in at-risk nations. If scientists are correct, higher temperatures and rising sea levels will depress grain yields in Africa and parts of Asia, fuel the spread of diseases, and threaten coastal nations such as Bangladesh and Senegal. But these problems can be abated, or even eliminated, with Western assistance. While helping Third World nations plant new crops, vaccinate people and relocate coastal towns will be costly, the bottom line will likely be only a fraction of Kyoto's 13-digit price tag.
+
+(1) First, you identify all the single words that are morally framed. Identify this step as "STEP 1:" and report each word in a new line starting with *
+(2) Finally, you write a summary of the news article. Please preserve as many morally framed words as possible in your summary. The summary has to be returned after a "SUMMARY:" token and ending with a "END OF SUMMARY." token. The summary should be no longer than 200 words.

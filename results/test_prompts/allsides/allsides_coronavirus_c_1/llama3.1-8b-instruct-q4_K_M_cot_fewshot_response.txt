@@ -1,0 +1,53 @@
+Here is the answer:
+
+Example 1 (Political Ideology: Left):
+* rare
+* serious
+* important
+* safe
+* supportive
+* helpful
+* unique
+* vulnerable
+* high
+* essential
+* better
+
+SUMMARY:
+Severe illness from COVID-19 in children is rare, but serious illness can occur. To keep schools safe, it's essential to control the coronavirus throughout the community by adhering to the three W's and implementing strategic testing, effective isolation, and complete contact tracing. The CDC has released helpful guidelines for safely reopening schools, which each state and school district must apply to their unique context. By taking these steps, a better fall is possible.
+
+Example 2 (Political Ideology: Center):
+* failed
+* mismanagement
+* cost
+* inflicted
+* damage
+* scared
+
+SUMMARY:
+The US has reported a record one-day spike in new COVID-19 cases, with over 47,000 new cases, sparking concern from Dr. Anthony Fauci, who warned that the number could soon double. The country is "not in total control" and the situation could "get very bad" unless a nationwide effort is made to combat the virus. President Trump's handling of the pandemic has been criticized as "historic mismanagement," which has "cost" lives and "inflicted" unnecessary damage to the economy.
+
+Example 3 (Political Ideology: Right):
+* rights
+* control
+* protect
+* victims
+* risk
+* boon
+* safety
+* restrictions
+* imperative
+* commit
+
+SUMMARY:
+A recent Pew Research Center survey reveals a significant shift in Americans' attitudes towards gun ownership, with 52% prioritizing Second Amendment rights over gun control. This change is driven in part by a dramatic shift among black Americans, who now view guns as a public safety boon, believing firearms protect people from being victims of crimes.
+
+Now, here is the target news article to summarize:
+* skepticism
+* game-changing
+* miracle cure
+* overly optimistic
+* tragedy
+
+SUMMARY:
+The development of an effective vaccine is considered essential for ending the pandemic. However, experts express skepticism about the possibility of a game-changing vaccine being ready by early 2021. Some worry that investing too much in this best-case scenario may backfire and undermine herd immunity. Others argue that preparing for years without a widely available vaccine would be more prudent, as rushing development could increase the risk of an unsafe vaccine reaching market. The tragedy is that there is a playbook to reduce cases and deaths right now, but waiting on a miracle cure in the future is causing unnecessary harm.

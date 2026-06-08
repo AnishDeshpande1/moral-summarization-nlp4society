@@ -1,0 +1,21 @@
+Here is the output for the target news article:
+
+STEP 1:
+* murder
+* threat
+* protect
+* justice
+* confusion
+* harm
+* unspeakable
+* loss
+* police
+* brutality
+* innocent
+* victim
+* investigation
+* accountability
+
+SUMMARY:
+A white police officer in Fort Worth, Texas, shot and killed a black woman, Atatiana Jefferson, 28, inside her home while responding to a neighbor's call about an open front door. The officer did not have time to "perceive a threat" before opening fire, according to the family's attorney, Lee Merritt. This is seen as "murder", Merritt said. The police department has released bodycam footage of the shooting, but it is unclear if the officer thought Jefferson had a gun. The incident has sparked outrage and calls for accountability, with Sen. Bernie Sanders calling on the Justice Department to investigate. The family's sister, Amber Carr, expressed her desire for "justice", saying that "you want to see justice, but justice don't bring my sister back". This shooting comes less than two weeks after a similar incident in Dallas, where a white former police officer was sentenced to 10 years in prison for killing an unarmed black man.
+END OF SUMMARY.

@@ -1,0 +1,159 @@
+You have to summarize the following text preserving the moral framing that the author gave to it.
+
+Please study the following examples of news articles, their moral word extraction, and summaries preserving the moral framing:
+
+Example 1 (Political Ideology: Left):
+Here is the news article:
+
+Republican presidential candidate Rick Perry pledges to end "[President Barack] Obama's war on religion" in a new television ad airing in Iowa, railing against open service of gays and lesbians in the military and the prohibition against prayer in public schools.
+
+"I'm not ashamed to admit I'm a Christian," says Perry.
+"But you don't need to be in the pews every Sunday to know that there's something wrong in this country when gays can serve openly in the military but our kids can't openly celebrate Christmas or pray in school."
+
+"As president, I'll end Obama's war on religion and I'll fight against liberal attacks on our religious heritage," the Texas governor continues.
+"Faith made America strong. It can make her strong again."
+
+Perry has recently stepped up his attacks on Obama for cultural issues.
+In a statement released Tuesday, he decried the Obama administration’s decision to use foreign aid to promote rights for gays and lesbians abroad.
+
+"This is just the most recent example of an administration at war with people of faith in this country," he said.
+"Investing tax dollars promoting a lifestyle many Americas of faith find so deeply objectionable is wrong.
+President Obama has again mistaken America's tolerance for different lifestyles with an endorsement of those lifestyles."
+
+Politico reported Tuesday that Perry bought $1 million in broadcast television time ahead of the Jan. 3 caucuses.
+The Dallas Morning Newsrecently reported that his presidential campaign plans to bring "more than 600 influential Texans" to Iowa in December.
+However, Perry netted just six percent support among likely Republican caucus-goers, according to a Des Moines Register poll released Saturday.
+
+STEP 1:
+* ashamed
+* wrong
+* faith
+* heritage
+* strong
+* objectionable
+* tolerance
+* endorsement
+
+SUMMARY:
+Republican presidential candidate Rick Perry is pledging to end what he calls "[President Barack] Obama's war on religion" in a new TV ad airing in Iowa. Perry, a self-proclaimed Christian, claims that Obama's administration is at war with people of faith, citing the open service of gays and lesbians in the military and the prohibition against prayer in public schools as examples. Perry argues that it's "wrong" that kids can't openly celebrate Christmas or pray in school, while gays can serve openly in the military. He vows to "fight against liberal attacks on our religious heritage" and claims that "faith made America strong. It can make her strong again." Perry has also criticized Obama's decision to use foreign aid to promote rights for gays and lesbians abroad, calling it "wrong" and an "endorsement" of a lifestyle many Americans of faith find "objectionable." END OF SUMMARY.
+
+Example 2 (Political Ideology: Center):
+Here is the news article:
+
+The San Francisco Board of Supervisors passed a resolution Tuesday that declares the National Rifle Association a "domestic terrorist organization."
+
+After connecting the NRA to an "epidemic of gun violence" in the U.S., the resolution urges San Francisco to distance itself from the organization by examining local vendors' and contractors' ties to the NRA.
+It also says the local government should avoid doing business with the NRA or organizations associated with it.
+
+"The National Rifle Association spreads propaganda that misinforms and aims to deceive the public about the dangers of gun violence," the resolution reads.
+
+While supervisors will be examining San Francisco's connections to the NRA, the resolution is also meant to pave the way for similar legislation at the local, state or federal level, Supervisor Catherine Stefani, who sponsored the resolution, told USA TODAY on Wednesday.
+
+The designation of domestic terrorist organization is justified because the NRA's opposition to gun control is "standing in the way of saving lives,” Stefani said.
+
+She said the resolution calls the “absolutely disgraceful" organization "out for what they really are.”
+
+The resolution says 100 Americans are killed daily by gun violence, making the U.S.'s gun homicide rate 25 times higher than any other "high-income" country.
+
+Guns:Walmart to no longer sell certain ammunition, ask customers to stop open carry in stores
+
+Texas shootings:Visitors at El Paso memorial ask how many more have to die after latest Texas shooting
+
+The resolution passed unanimously, according to Daniel Herzstein, a spokesperson for Stefani's office.
+
+The NRA condemned the resolution in a statement sent to USA TODAY Wednesday.
+"This is just another worthless and disgusting 'soundbite remedy' to the violence epidemic gripping our nation," spokeswoman Amy Hunter said in an emailed statement.
+
+"This is a reckless assault on a law-abiding organization, its members, and the freedoms they all stand for.
+We remain undeterred - guided by our values and belief in those who want to find real solutions to gun violence," the statement says.
+
+This is the second high-profile condemnation the NRA has issued this week.
+On Tuesday, the NRA said Walmart's decision to stop selling certain ammunition would hurt business and "not make us any safer."
+
+In the wake of recent mass shootings in California, Ohio and two in Texas, national attention has again grown on the issue of gun violence.
+
+Senate Majority Leader Mitch McConnell, R-Ky., has faced particular pressure to take up gun control legislation, but has maintained that President Donald Trump should support legislation before the Senate considers it.
+
+Trump's discussions about gun background checks with Wayne LaPierre, NRA head, made national headlines in August.
+
+STEP 1:
+* Epidemic
+* Propaganda
+* Deceive
+* Disgraceful
+* Absolutely
+* Worthless
+* Disgusting
+* Reckless
+* Assault
+* Undeterred
+* Guided
+* Freedoms
+
+SUMMARY:
+The San Francisco Board of Supervisors has passed a resolution declaring the National Rifle Association (NRA) a "domestic terrorist organization" due to its role in perpetuating an "epidemic of gun violence" in the US. The resolution accuses the NRA of spreading "propaganda" that "deceives" the public about the dangers of gun violence, and labels the organization as "absolutely disgraceful". The supervisors aim to distance themselves from the NRA by examining local vendors' and contractors' ties to the organization and avoiding business with it. The resolution is meant to pave the way for similar legislation at the local, state, or federal level. The NRA has condemned the resolution as a "worthless and disgusting'soundbite remedy'" and a "reckless assault" on its members and their freedoms. END OF SUMMARY.
+
+Example 3 (Political Ideology: Right):
+Here is the news article:
+
+The House of Representatives on Friday approved a sweeping election reform bill that serves as the touchstone to the House Democratic agenda but has been criticized by civil libertarians and Republicans over First Amendment concerns.
+
+The so-called “HR 1” measure embraced by House Democrats aims to curb big money in politics, make it easier to vote and bolster election security.
+It institutes a public financing system for congressional campaigns, requires presidential candidates to disclose tax returns and makes Election Day a federal holiday.
+
+The House approved the plan 234-193.
+But the measure is not expected to succeed in the Senate, where Majority Leader Mitch McConnell, R-Ky., has said the bill is dead on arrival.
+
+The American Civil Liberties Union, in a recent letter to Congress, encouraged lawmakers to vote against the bill because of “provisions that unconstitutionally impinge on the free speech rights of American citizens and public interest organizations.”
+
+“They will have the effect of harming our public discourse by silencing necessary voices that would otherwise speak out about the public issues of the day,” the ACLU wrote.
+
+One concern of civil libertarians is the bill’s inclusion of the DISCLOSE ACT, which would require all organizations that spend money on elections to disclose donors.
+
+The ACLU said it supports making organizations report spending for public communications like TV ads that expressly call for the election or defeat of a candidate for office, but it worries the DISCLOSE ACT goes beyond that.
+
+“These standards are unclear and entirely subjective, which will lead to confusion and, ultimately, less speech,” the ACLU said.
+
+Republicans called the bill a Democratic power grab that amounts to a federal takeover of elections.
+
+“Now, instead of getting money out of politics, the Democrats on this committee voted to pass a bill that will publicly fund – campaign travel, campaign dinners, and in some cases, the politicians themselves,” Illinois Rep. Rodney Davis wrote in an op-ed for The Hill.
+
+The White House said in a statement that the Democrats' plan would "micromanage" elections that now are run largely by states and would establish "costly and unnecessary program to finance political campaigns."
+
+But House Speaker Nancy Pelosi, D-Calif., said the bill "restores the people's faith that government works for the public interest, the people's interest, not the special interests."
+
+Trying to turn Republicans' words against them, Pelosi said, "Yes it is a power grab -- a power grab on behalf of the people."
+
+House GOP leader Kevin McCarthy of California said the legislation would undermine the integrity of elections by allowing convicted felons to vote, and would apply a one-size-fits-all standard to elections now run by states and local governments.
+
+Democrats called that a mischaracterization.
+
+To Rep. Zoe Lofgren, D-Calif., the bill "grabs power away from the elites and the power brokers and gives it to the people."
+
+She and other Democrats disputed the claim that taxpayers will pay for campaigns, noting that money for political campaigns would come from a surcharge on federal settlements made with banks and corporations that run afoul of the law.
+
+STEP 1:
+* Unconstitutionally
+* Silencing
+* Necessary
+* Power
+* Grab
+* Faith
+* Public
+* Interest
+* Special
+* Integrity
+* Elites
+* Power
+* Brokers
+
+SUMMARY:
+The House of Representatives has approved a sweeping election reform bill, HR 1, which aims to curb big money in politics, make voting easier, and bolster election security. However, the bill has been criticized by civil libertarians and Republicans over First Amendment concerns, with the ACLU arguing that certain provisions would "unconstitutionally impinge" on free speech rights and "silence necessary voices." Republicans have called the bill a "power grab" that would amount to a federal takeover of elections, while Democrats argue it would "restore the people's faith" in government and give power back to the people. The bill would institute a public financing system for congressional campaigns, require presidential candidates to disclose tax returns, and make Election Day a federal holiday. Despite the controversy, the bill is not expected to succeed in the Senate. END OF SUMMARY.
+
+Now, here is the target news article to summarize:
+Here is the news article:
+
+Two congressman — a Maryland Democrat and the Republican Chair of the Freedom Caucus — have introduced a bipartisan resolution condemning “blasphemy” laws, a move cheered by religious liberty advocates. Rep. Jamie Raskin and North Carolina Rep. Mark Meadows call on more than 70 governments to repeal laws punishing religious dissent, including blasphemy, heresy, and apostasy, or the renunciation of a religious belief, in House Resolution 512, which was introduced earlier this week. Under the legislation, Congress would recognize that “blasphemy, heresy, and apostasy laws inappropriately position governments as arbiters of religious truth and empower officials to impose religious dogma on individuals or minorities through the power of the government or through violence sanctioned by the government.” Religious freedom restrictions are on the rise, according to alarming new reports from international organization’s watchdog reports. The resolution cites some, including Russia’s ban on Jehovah’s Witnesses as an “extremist organization,” the detention of nearly a million Uighur Muslims in northwest China, and Pakistan’s use of wide-ranging blasphemy laws. “As of May 2018, USCIRF The U.S. Commission on International Religious Freedom was aware of approximately 40 individuals on death row for blasphemy in Pakistan or serving life sentences,” states the resolution,” reads the resolution, which was introduced in the House Foreign Affairs Committee. On Friday, the U.S. Commission on International Religious Freedom, a bipartisan group established by Congress, cheered the resolution, saying such laws are often weaponized to target marginalized religious communities. “Widespread bipartisan support for this resolution will help to raise awareness of the egregious acts of persecution and violence that these laws legitimize,” said USCIRF Vice Chair Gayle Manchin, in a statement emailed to media. “We echo the resolution’s call for all prisoners held on blasphemy, heresy, or apostasy charges to be released.” The United Nations, through Articles 18 and 19 of the International Covenant on Civil and Political Rights, also uphold civil rights for religious practice and expression and are endorsed by HR 512. Currently, the President and the Secretary of State can designate countries as “countries of particular concern for religious freedom” under 1998’s federal international religious freedom act. This resolution would add blasphemy, apostasy, and heresy as reasons for nations to be added to the list. In its latest report from December 2018, USIRF requested that 16 nations — including Russia, Pakistan, and China — be placed on the “nation of particular concern” list. As of Nov. 2018, only 10 of those nations have been designated as CPCs (Burma, China, Eritrea, Iran, North Korea, Pakistan, Saudi Arabia, Sudan, Tajikistan, and Turkmenistan). The resolution also notes nations that’ve taken steps to repeal blasphemy laws, including Ireland, Greece, and Canada. Earlier this year, the Republic of Ireland passed a law repealing a 2009 statute that criminalized blasphemy. Canada also criminalized “blasphemous libel” until 2018, though the statute had not resulted in a conviction since 1935.
+
+(1) First, you identify all the single words that are morally framed. Identify this step as "STEP 1:" and report each word in a new line starting with *
+(2) Finally, you write a summary of the news article. Please preserve as many morally framed words as possible in your summary. The summary has to be returned after a "SUMMARY:" token and ending with a "END OF SUMMARY." token. The summary should be no longer than 200 words.

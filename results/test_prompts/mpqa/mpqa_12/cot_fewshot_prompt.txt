@@ -1,0 +1,168 @@
+You have to summarize the following text preserving the moral framing that the author gave to it.
+
+Please study the following examples of news articles, their moral word extraction, and summaries preserving the moral framing:
+
+Example 1 (Political Ideology: Left):
+Here is the news article:
+
+Obama’s team is spinning the Republican National Convention as a complete miss.
+Obama's new challenge: Disappointment
+
+The watchword of the Republican National Convention in Tampa was disappointment — as in President Barack Obama has been one.
+
+You can hammer Obama on health care.
+Mock his golf outings.
+Demand to see his birth certificate and Harvard transcript, and call him a European socialist bent on turning the American Dream into a Belgian nightmare.
+He’ll throw his head back and laugh at you like a Bond villain.
+
+But tell voters he’s not the man America fell in love with in 2008 — and pine, however disingenuously, about his unfulfilled potential — and a shiver runs through his Chicago campaign headquarters.
+
+Obama’s team was spinning the convention as a complete miss, arguing that Republicans didn’t lay a glove on their man.
+Yet what emerged from Tampa was a subtle, clever shift in GOP messaging, a much more dangerous strategy for Obama than the kitchen-sink attacks that preceded the gathering.
+Republicans posed — rhetorically — as Obama 2008 voters, lamenting his unfulfilled expectations as if they had been with him all along instead of trying to block him at every turn.
+
+Both sides recognize the power of the disappointment theme: that the hope Obama offered for mending the economy, transforming the political process and even saving the earth has faded.
+
+“President Obama promised to begin to slow the rise of the oceans and heal the planet,” Mitt Romney said in accepting the Republican presidential nomination Thursday.
+“My promise is to help you and your family.”
+
+Or, as Sen. Marco Rubio put it, “Our problem with President Obama isn’t that he’s a bad person.
+Our problem is that he’s a bad president.”
+
+If Republicans landed a punch on Obama, it was the kind of strategic body blow that a skillful pugilist deploys to gain better position for the rest of the fight.
+
+No roundhouse, no jaw-splitter, no knockout.
+It was the kind of shot aimed at subtly shifting momentum and softening up the opponent in a way that may not be evident to the casual observer.
+
+Republicans honed their tone.
+
+The shrill hyperbole, petty critiques of Obama’s every move and Party of No intransigence disappeared into the heavy Tampa air.
+Surely, some of that will rain back down across other parts of the country during the closing months of the campaign, particularly as super PACs and other outside groups intensify their own lines of attack against Obama.
+
+There was plenty of tough criticism in Tampa — more mockery of Obama’s “you didn’t build that” line, more comparisons of his record to Jimmy Carter’s.
+But there were times — prime time, in particular — that the Republican convention looked and sounded like a Democratic gathering.
+
+An appealing young vice-presidential candidate, Paul Ryan, called his mom his role model and vowed to protect Medicare for seniors.
+
+Cuban-American Florida Sen. Marco Rubio and Mexican-American New Mexico Gov. Susana Martinez spoke of the unique opportunities that the United States afforded them to rise into leadership positions.
+
+STEP 1:
+* disappointment
+* disingenuously
+* clever
+* dangerous
+* bad
+* good
+* shrill
+* petty
+* intransigence
+* appealing
+* unique
+
+SUMMARY:
+The Republican National Convention in Tampa was deemed a success by the GOP, despite Obama's team spinning it as a complete miss. Republicans cleverly shifted their messaging, adopting a more subtle and dangerous strategy that focused on disappointment. They posed as Obama 2008 voters, lamenting his unfulfilled expectations and promising a more humble, achievable agenda. Mitt Romney and Sen. Marco Rubio delivered speeches that were more in line with Democratic values, touting the unique opportunities afforded by the United States. The tone was appealing, with a focus on protecting Medicare for seniors and honoring role models. The GOP's new approach is a strategic body blow to Obama's campaign, softening him up for the rest of the fight. END OF SUMMARY.
+
+Example 2 (Political Ideology: Center):
+Here is the news article:
+
+Splashed across the cover of this week’s Newsweek magazine is a picture of the Republican presidential candidate and Tea Party favorite Representative Michele Bachmann.
+Her eyes are open wide — very, very wide — focused intensely somewhere off in the distance, just a smidge too high above the camera.
+At the bottom of the page, floating across her torso in bold white letters, are the words “The Queen of Rage.”
+
+Many in the conservative blogosphere are not pleased.
+
+“Exactly what were the editors thinking putting this kind of a picture of a sitting congresswoman and presidential candidate on their cover?” wrote Noel Sheppard on the conservative Web site News Busters, under the headline “Newsweek Puts Picture of Michele Bachmann on Cover That Makes Her Look Crazy.”
+
+A blogger on the Web site Freedom’s Lighthouse said, “Can anyone really say with a straight face that the Mainstream Media is not totally biased against conservatives?”
+
+But even some unlikely allies have emerged to decry the cover as disrespectful.
+
+“It’s sexist,” said Terry O’Neill, the president of the National Organization for Women, to the news Web site the Daily Caller, which is run by the conservative commentator Tucker Carlson.
+
+“Gloria Steinem has a very simple test,” Ms. O’Neill continued.
+“If this were done to a man or would it ever be done to a man – has it ever been done to a man?
+Surely this has never been done to a man.”
+
+Monday night, Newsweek responded to the controversy by posting an “outtakes” gallery on its Daily Beast Web site, showcasing other photos taken for the article.
+The pictures show Ms. Bachmann shaking hands with voters, standing by herself in the corner of a room and signing autographs, all with the same wide-eyed intensity as in the cover shot.
+
+The cover goes with an article by Lois Romano about Ms. Bachmann’s place in the Tea Party movement and on the national stage.
+The article itself seems to have spawned little outrage.
+
+This is not the first time Newsweek has caused a stir with its cover choices.
+In 2009, the editors selected a photo of Sarah Palin in running shorts, which the former governor — and many others — called “sexist.”
+
+Just this past June, the news magazine ran a computer generated image of Catherine, the new Duchess of Cambridge, walking alongside Princess Diana, who has been dead for nearly 14 years.
+
+The Atlantic Wire ran a story about that cover called, simply, “How Creepy Is Princess Diana’s Ghost on the Cover of Newsweek?”
+
+STEP 1:
+* biased
+* disrespectful
+* sexist
+* creepy
+* outrage
+
+SUMMARY:
+Newsweek magazine's latest cover featuring Republican presidential candidate Michele Bachmann has sparked controversy, with many in the conservative blogosphere calling it "biased" and "disrespectful". The cover photo shows Bachmann with an intense, wide-eyed stare, which some have likened to making her look "crazy". Even unlikely allies, such as the National Organization for Women, have deemed the cover "sexist", arguing that a similar photo would never be used for a male candidate. This is not the first time Newsweek has caused a stir with its cover choices, having previously published a photo of Sarah Palin in running shorts that was also labeled "sexist", and a computer-generated image of Princess Diana that was dubbed "creepy". The article itself, which explores Bachmann's place in the Tea Party movement, has sparked little "outrage" compared to the cover photo. END OF SUMMARY.
+
+Example 3 (Political Ideology: Right):
+Here is the news article:
+
+Israeli Prime Minister Benjamin Netanyahu has said he’ll steer clear of the American presidential election, but he stars in a new ad set to air in the key battleground state of Florida that aims to make Iran a major campaign issue.
+
+Netanyahu, who has a famously frosty relationship with President Obama, mentions neither Obama nor Republican challenger Mitt Romney, with whom Netanyahu worked in the mid-1970s at Boston Consulting Group.
+His words are taken from a recent news conference, in which he expressed frustration at the Obama administration’s failure to establish “red lines” for reining in Iran and its rogue nuclear weapons program.
+
+"The fact is that every day that passes, Iran gets closer and closer to a nuclear bomb,” Netanyahu says.
+“The world tells Israel, wait, there's still time.
+And I say wait for what?
+Wait until when?"
+
+A voice-over at the end of the ad underscores the prime minister's message: "The world needs American strength, not apologies."
+
+The ad, paid for by nonprofit conservative advocacy group Secure America Now, could have a powerful influence in heavily-Jewish markets, including Miami.
+Florida is considered a toss-up in recent polling, and its 29 electoral votes could swing the election.
+
+“Sizable majorities in both states believe that Iran will share nuclear weapons with terrorists,” said Jeri Thompson, advisory board member for Secure America Now.
+“Support for Israel remains strong.
+In short, (Netanyahu's) a powerful messenger with a powerful message who the American people believe.”
+
+The ad, reportedly to air in Miami, West Palm Beach and Fort Myers, is costing Secure America $1 million, the organization confirmed to Fox News.
+
+A Fox News poll released Wednesday shows Obama leading Romney, 49 percent to 44 percent, in Florida.
+
+Meanwhile, Haaretz reported that the Republican Jewish Coalition has launched a separate $5 million TV advertising blitz aimed at Jewish voters in swing states.
+That campaign started Wednesday and runs through Nov. 5 in cable and broadcast TV markets in Florida, Nevada, Ohio and Pennsylvania.
+
+"This ad highlights the 'buyer's remorse' felt by many in the Jewish community, who voted for Obama four years ago but are now disillusioned with his economic policies and his policies toward Israel,” the coalition's executive director, Matt Brooks, said in a written statement Wednesday.
+“These ads, and the stories of the people in them, give voice to the nagging doubts that many Jewish voters feel about President Obama.
+To underscore that point, numerous polls have shown an erosion in Jewish support for the president."
+
+Netanyahu also made an appearance on NBC's "Meet the Press" last Sunday, urging Obama to take a tougher line with Iran over its nuclear program.
+
+"President Obama has said that he is determined to prevent Iran from getting nuclear weapons," he said on the Sunday morning show.
+"If you're determined to prevent Iran from getting nuclear weapons, it means you'll act before they get nuclear weapons."
+
+STEP 1:
+* frustration
+* rogue
+* strength
+* apologies
+* powerful
+* strong
+* disillusioned
+* doubts
+* tougher
+
+SUMMARY:
+Israeli Prime Minister Benjamin Netanyahu is starring in a new ad in Florida, urging the US to take a stronger stance against Iran's nuclear program. In the ad, Netanyahu expresses frustration with the Obama administration's failure to establish "red lines" for reining in Iran's rogue nuclear weapons program. He warns that every day that passes, Iran gets closer to a nuclear bomb, and asks, "Wait for what? Wait until when?" The ad, paid for by Secure America Now, aims to make Iran a major campaign issue and emphasizes the need for American strength, not apologies. The ad could have a powerful influence in heavily-Jewish markets, including Miami, where support for Israel remains strong. Meanwhile, the Republican Jewish Coalition has launched a separate $5 million TV advertising blitz aimed at Jewish voters in swing states, highlighting the "buyer's remorse" felt by many in the Jewish community who are disillusioned with Obama's economic policies and his policies toward Israel.
+END OF SUMMARY.
+
+Now, here is the target news article to summarize:
+Here is the news article:
+
+FLORIDA ASTRONAUTS REPAIR SPACE STATION WINGS CAPE CANAVERAL -- Two space-walking astronauts went out on a repair job Monday and wrapped thermal covers around a pair of motors that turn the International Space Station's giant solar wings. NASA hopes the covers will shield the motors against the temperature extremes of space and eliminate power spikes and stalls. The motors keep the solar wings pointing toward the sun and generating electricity. Astronauts Linda Godwin and Daniel Tani floated out of space shuttle Endeavour and grabbed onto the ship's robot arm for a 50-foot ride up the side of the space station.
+
+(1) First, you identify all the single words that are morally framed. Identify this step as "STEP 1:" and report each word in a new line starting with *
+(2) Finally, you write a summary of the news article. Please preserve as many morally framed words as possible in your summary. The summary has to be returned after a "SUMMARY:" token and ending with a "END OF SUMMARY." token. The summary should be no longer than 200 words.
