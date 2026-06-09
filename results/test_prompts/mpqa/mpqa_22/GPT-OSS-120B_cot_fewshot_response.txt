@@ -1,0 +1,16 @@
+**STEP 1:**
+* unique  
+* highly  
+* complex  
+* hostile  
+* flawless  
+* smoothly  
+* successfully  
+* powerful  
+* pivotal  
+* flawless (already)  
+* successful (as “successfully”)  
+* robust (implied? not in text)  
+
+**SUMMARY:**  
+Astronauts Steve Smith and Rex Walheim prepared the first outer‑space railway for its inaugural test, releasing the Mobile Transporter from its launch restraints after a six‑hour spacewalk. The tiny rail car will move the **unique**, **highly** **complex** Canadarm2 robot along the 120‑metre S‑0 truss, a **pivotal** structure that will eventually support thousands of square metres of solar panels. Despite operating in an **extremely hostile** environment, Canadarm2 performed **flawlessly** and **smoothly**, lifting the new truss segment and transporting the crew to work sites. Canadian engineers **successfully** bypassed a joint anomaly, demonstrating the arm’s **powerful** capabilities. The rail system, soon to include a hand‑car, will enable astronauts to travel the length of the station—longer than a football field—facilitating future construction. **END OF SUMMARY.**

@@ -1,6 +1,11 @@
 # The github repo for the EMONA dataset kept in the root
 EMONA_dataset/
 
+# API keys / secrets - never commit
+models/openrouter_api_key
+*_api_key
+*.key
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]

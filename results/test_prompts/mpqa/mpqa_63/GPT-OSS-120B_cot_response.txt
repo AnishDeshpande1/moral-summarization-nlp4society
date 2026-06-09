@@ -1,0 +1,10 @@
+**STEP 1:**  
+*snag  
+*problem  
+*danger  
+*nuisance  
+
+**SUMMARY:**  
+Astronauts attempted the inaugural run of the International Space Station’s first permanent railcar, but a snag quickly turned the test into a problem. In zero‑g, the one‑ton flatcar floated slightly off the rail, causing its magnetic sensors to lose contact with the iron strips and triggering the automatic latching system to shut down. Ground controllers had to intervene manually each time the car stopped, and astronaut Carl Walz sent computer commands to get it moving again. NASA manager Ben Sellari called the episode “how the mobile transporter works in zero‑g” and warned the nuisance could require a software tweak. Engineers assure there is no danger of the $190 million railcar rolling off the 44‑foot girder, thanks to safety rings at both ends. The railcar, slated for use later this summer to transport the station’s 58‑foot robot arm, will soon resume testing after the final spacewalk to finish installing the supporting girder.  
+
+**END OF SUMMARY.**
