@@ -1,0 +1,24 @@
+Alright, I need to summarize this article about John Lewis and the events in Selma. The user wants the summary to preserve the moral framing based on specific foundations: Authority/Subversion, Care/Harm, Fairness/Cheating, and Sanctity/Degradation. 
+
+First, I'll read through the article to understand the key points. It's about the 1965 march where John Lewis and others were attacked by state troopers, leading to the Voting Rights Act. The article details the violent confrontation and its impact.
+
+Now, focusing on the moral foundations:
+
+1. **Authority/Subversion**: The state troopers are enforcing segregationist policies, which is a form of authority. The marchers are subverting this authority by challenging it, which is a moral act against oppression.
+
+2. **Care/Harm**: The violence against the marchers, including Lewis's injuries, highlights the harm caused by systemic oppression. The care aspect is shown by the marchers' determination to fight for justice despite the risks.
+
+3. **Fairness/Cheating**: The marchers are fighting for the right to vote, which was denied to African Americans. This is a fairness issue, seeking equal rights and opposing the cheating of denying them their rights.
+
+4. **Sanctity/Degradation**: The violent attack on the marchers is a degradation of human dignity. The marchers' nonviolent approach contrasts with the state's violent response, emphasizing the sanctity of their cause.
+
+I need to ensure these points are clearly reflected in the summary. I'll structure it by starting with the event, then the moral challenges, the outcome, and Lewis's legacy. I'll keep it concise, under 200 words, and make sure each moral foundation is addressed.
+
+Let me draft the summary, making sure each of these elements is included and flows logically.
+</think>
+
+SUMMARY:  
+
+The article recounts the pivotal moment in the U.S. civil rights movement when John Lewis, a young civil rights leader, led a peaceful march across the Edmund Pettus Bridge in Selma, Alabama, on March 7, 1965. Defying Alabama’s segregationist authority, Lewis and the marchers sought to challenge systemic racism and demand voting rights for African Americans. The confrontation with state troopers, who violently attacked the peaceful demonstrators, became a defining moment in the struggle for racial justice. The troopers’ brutal actions, authorized by Governor George C. Wallace, underscored the moral subversion of authority in upholding segregation and denying basic rights. Lewis’s resilience in the face of violent harm highlighted the care and sacrifice required to combat injustice. The march ultimately led to the passage of the Voting Rights Act, a victory for fairness and equality. The article also reflects on the moral degradation of systemic oppression and the enduring legacy of Lewis’s unwavering commitment to redeeming the soul of America through nonviolent resistance and necessary trouble.  
+
+END OF SUMMARY.

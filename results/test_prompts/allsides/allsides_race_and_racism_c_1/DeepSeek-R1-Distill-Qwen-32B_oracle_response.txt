@@ -1,0 +1,15 @@
+Okay, so I need to help the user summarize a news article while preserving the moral framing. The user has provided the article and a list of morally framed words. My task is to create a concise summary using as many of those words as possible without exceeding 200 words. 
+
+First, I'll read through the article to understand the main points. It's about John Lewis's role in the 1965 Selma march, the violence they faced, and the impact on the Voting Rights Act. The key moral elements include struggle, racial discrimination, violence, and the fight for voting rights.
+
+I need to identify the most important events and the moral language used. The article mentions the state troopers attacking the marchers, John Lewis's injury, the subsequent legal actions, and the eventual passage of the Voting Rights Act. The morally charged words like "violence," "brutality," "struggle," and "voting" are crucial to include.
+
+I should structure the summary to highlight Lewis's leadership, the confrontation on the bridge, the injuries, and the outcome. I'll make sure to incorporate words like "illegal," "spasm," "violence," and "fractured" to maintain the moral tone.
+
+I also need to keep it within 200 words, so I'll be concise but thorough. I'll start by introducing John Lewis and the event, then describe the confrontation, the injuries, and the aftermath leading to the Voting Rights Act. I'll end with his legacy and the moral message he conveyed.
+
+Now, I'll draft the summary, ensuring it flows well and includes the necessary moral framing words. I'll check the word count to make sure it's under 200. If it's too long, I'll trim unnecessary details while keeping the essential moral elements intact.
+</think>
+
+SUMMARY:  
+John Lewis, a civil rights icon, led a peaceful voting rights march in Selma, Alabama, on March 7, 1965, when state troopers attacked the demonstrators in what became known as Bloody Sunday. Lewis, 25 at the time, was beaten and suffered a fractured skull. The troopers, acting on Governor George C. Wallace's orders, used brutal force to disperse the marchers, who were advocating for racial equality and the right to vote. The confrontation shocked the nation and led to the passage of the federal Voting Rights Act. Lewis, alongside Hosea Williams, faced state-sanctioned violence as troopers jabbed nightsticks, leaving bodies tangled and screams ringing out. Despite the chaos, Lewis remained steadfast, later testifying about the attack and continuing his struggle against segregation. His message of nonviolent resistance and the need to "get in good trouble" to redeem America's soul became a hallmark of the civil rights movement. Lewis's legacy endures as a symbol of courage and determination in the fight for justice. END OF SUMMARY.

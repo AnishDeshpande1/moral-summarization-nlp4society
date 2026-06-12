@@ -1,0 +1,14 @@
+Alright, I need to help the user by summarizing the given news article. The user provided a detailed article about the GOP's actions regarding abortion legislation in the House of Representatives. They want a concise summary, no more than 200 words, starting with "SUMMARY:" and ending with "END OF SUMMARY."
+
+First, I'll read through the article to understand the main points. The article discusses two bills: one banning federal taxpayer funds for abortions, which passed, and another targeting "late-term" abortions that was withdrawn due to opposition from moderate Republicans. The opposition was due to a provision requiring rape victims to file police reports for abortion access. This led to internal conflict within the GOP, with some members arguing the bill sent a negative message, especially ahead of the 2016 elections.
+
+I need to capture the key events: the passage of the first bill, the withdrawal of the second, the reasons behind the opposition, the reaction from both sides, and the implications for the Republican party's strategy.
+
+I should structure the summary to first mention the passage of the taxpayer funds bill, then the withdrawal of the late-term abortion bill, the reasons for its withdrawal, the reactions from both moderate Republicans and anti-abortion groups, and the impact on the party's legislative agenda.
+
+I need to keep it concise, ensuring each sentence adds value without unnecessary details. Also, I must adhere to the word limit and formatting instructions provided.
+
+Now, I'll draft the summary, making sure it's clear and covers all essential points without exceeding 200 words.
+</think>
+
+SUMMARY: The GOP-controlled House passed a bill banning federal taxpayer funds for abortions, following the withdrawal of a more contentious "late-term" abortion ban due to opposition from moderate Republicans. The bill barring federal funds passed 242-179, with three Democrats supporting it. The White House threatened a veto. The vote coincided with the annual "March for Life" and the 42nd anniversary of Roe v. Wade. The initial bill, targeting abortions after 20 weeks, was withdrawn after criticism over a provision requiring rape victims to file police reports for abortion access. Moderate Republicans argued the bill sent a negative message, especially to women and young people. House Democratic leader Nancy Pelosi criticized the GOP for focusing on abortion instead of job creation. Anti-abortion groups were disappointed with the withdrawal, while some Republicans expressed frustration over the party's internal conflict. The incident highlighted growing divisions within the GOP and its legislative priorities. END OF SUMMARY.

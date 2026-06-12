@@ -1,0 +1,14 @@
+Okay, I need to help the user by summarizing the given news article while preserving the moral framing. The user has specified that I should use the morally framed words provided and keep the summary under 200 words. 
+
+First, I'll read through the article to understand the main points. It's about Planned Parenthood and the ACLU suing Alabama over a near-total abortion ban. The law is designed to challenge Roe v. Wade. The article mentions that the law lacks exceptions for rape and incest, and providers could face long prison terms. The lawsuit argues the law is unconstitutional and disproportionately affects black and low-income individuals.
+
+I need to identify the key morally charged words from the article: risk, exceptions, rape, incest, spend, engineered, wanted, used, overturn, pushing, unnecessary, politicallymotivated, ban, push, unconstitutional, stand, emboldened, exploit, gain, restrict, tailored, impossible, banning, harm, choice, fight, restrictions.
+
+Now, I'll structure the summary. Start with the lawsuit, mention the law's strictness, the lack of exceptions, and the intent to challenge Roe v. Wade. Highlight the ACLU's stance on the law being unconstitutional and the disproportionate impact on certain groups. Conclude with the ongoing legal battle and the broader context of abortion restrictions nationwide.
+
+I'll make sure to include as many of the specified words as possible without making the summary too long. I'll also ensure the moral framing is clear, emphasizing the conflict between the state's actions and the rights being defended.
+
+Finally, I'll write the summary, keeping it concise and within the word limit. I'll check that all key points are covered and that the moral terms are appropriately used to convey the article's message effectively.
+</think>
+
+SUMMARY: Planned Parenthood and the ACLU have sued Alabama over its near-total abortion ban, which lacks exceptions for rape or incest and criminalizes providers with up to 99 years in prison. The law, designed to challenge Roe v. Wade, allows abortions only in cases of serious health risk, with a narrowly tailored exception deemed impossible to meet. The lawsuit argues the ban is unconstitutional and disproportionately harms black and low-income communities, who make up the majority of abortion seekers in Alabama. The ACLU and Planned Parenthood aim to overturn the law, calling it politically motivated and medically unnecessary. The legal battle reflects a broader push by anti-abortion advocates to restrict access nationwide, with over 350 abortion restrictions introduced this year. The plaintiffs emphasize the moral imperative to fight for reproductive rights, stating that standing idly by while politicians exploit health and lives for political gain is unacceptable. END OF SUMMARY.

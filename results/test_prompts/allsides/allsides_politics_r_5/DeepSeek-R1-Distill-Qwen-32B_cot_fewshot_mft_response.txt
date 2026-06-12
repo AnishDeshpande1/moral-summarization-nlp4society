@@ -1,0 +1,34 @@
+Okay, so I need to summarize this news article about George Papadopoulos and his role as a "proactive cooperator" with the Mueller investigation. The user wants me to focus on the moral framing, specifically the dimensions of Authority/Subversion, Fairness/Cheating, and Loyalty/Betrayal. 
+
+First, I'll read through the article to understand the key points. Papadopoulos accepted a plea deal for lying to the FBI about his contacts with Russians. The court documents refer to him as a "proactive cooperator," which suggests he might have worn a wire or engaged in undercover work. The White House downplayed his role, saying he played a small part and there was no collusion. The Mueller team's actions are under scrutiny for potential obstruction of justice.
+
+Now, I need to extract the morally framed words. Looking for words related to the three dimensions:
+
+- Authority/Subversion: Maybe "proactive cooperator," "undercover work," "wire," "collusion," "secret."
+- Fairness/Cheating: "Lied," "plea deal," "premature disclosure," "justice," "collusion."
+- Loyalty/Betrayal: "Cooperate," " betrayal," "collusion," "secret."
+
+I'll list these as STEP 1.
+
+Next, the summary needs to include these moral words while preserving the moral framing. I'll structure it to highlight Papadopoulos's cooperation, the implications for the investigation, and the White House's response, focusing on the moral aspects like fairness, loyalty, and subversion.
+
+I should make sure the summary is concise, around 200 words, and includes the key points: Papadopoulos's role, the speculation about his methods, the White House's dismissal, and the potential impact on the investigation.
+
+I'll start by introducing Papadopoulos and his plea deal, then move to his cooperation and the speculation around it. Then, I'll mention the White House's response and the implications for the Mueller investigation, tying it back to the moral dimensions like fairness and betrayal.
+
+Let me draft that, making sure to include the moral words and keep the focus on the ethical aspects highlighted in the article.
+</think>
+
+STEP 1:
+* proactive
+* cooperator
+* collusion
+* secret
+* lied
+* plea
+* deal
+* justice
+* betrayal
+
+SUMMARY:
+George Papadopoulos, a former Trump campaign adviser, has been revealed as a "proactive cooperator" with federal investigators, sparking speculation that he may have worn a wire to assist the Mueller investigation into Russian interference in the 2016 election. Papadopoulos, who accepted a plea deal for lying to the FBI about his contacts with Russian nationals, is believed to have provided significant information to prosecutors. His cooperation has raised questions about the extent of his involvement in potential collusion between the Trump campaign and the Russian government. The White House has downplayed Papadopoulos's role, denying any collusion, but legal analysts suggest his actions could have significant implications for the investigation. The revelation of Papadopoulos's status as a "proactive cooperator" highlights the ethical complexities surrounding loyalty and betrayal in the context of the ongoing probe. END OF SUMMARY.

@@ -1,0 +1,26 @@
+Alright, so I need to summarize the given news article while preserving the moral framing based on the specified dimensions: Authority/Subversion, Care/Harm, and Fairness/Cheating. Let me start by understanding the article.
+
+The article is about Senator Lindsey Graham's actions regarding the confirmation of Chuck Hagel as Defense Secretary and John Brennan as CIA Director. Graham is demanding more information about the Obama administration's response during the Benghazi attacks. He's threatening to hold up their confirmations until the White House provides details.
+
+Now, breaking down the moral dimensions:
+
+1. **Authority/Subversion**: This involves respect for authority and social order. Graham is challenging the administration's authority by withholding confirmations, implying a lack of accountability.
+
+2. **Care/Harm**: The attacks resulted in the deaths of four Americans, so there's a focus on the harm caused and the need for care in handling such crises.
+
+3. **Fairness/Cheating**: Graham accuses the administration of withholding information, suggesting a lack of transparency and fairness. He's seeking accountability to ensure the process is fair.
+
+I should structure the summary to highlight these points. Start with Graham's actions, then move into the moral implications regarding each dimension. Make sure to keep it concise, under 200 words.
+
+I need to ensure the summary reflects the moral framing without adding personal opinions. Focus on the key points: Graham's threats, the demand for information, the implications on authority, care, and fairness.
+
+Also, include the opposition's viewpoint briefly, like Senator Reed's criticism, to show the debate's scope.
+
+Let me draft the summary, ensuring each moral dimension is addressed clearly and succinctly.
+</think>
+
+SUMMARY:
+
+Republican Sen. Lindsey Graham has threatened to delay the confirmation of President Obama’s nominees for Defense Secretary and CIA Director until the White House provides more details about the administration’s response to the 2012 Benghazi attacks. Graham’s actions reflect concerns about accountability, fairness, and the care shown to American lives during the crisis. He accuses the administration of failing to provide a clear accounting of its actions, suggesting a lack of transparency and a potential subversion of authority. Graham’s demand for information highlights the moral imperative of fairness and accountability, particularly in times of national crisis. He has also criticized the administration for its handling of the attacks, which resulted in the deaths of four Americans, emphasizing the care and protection owed to those under U.S. protection. Democrats, however, have criticized Graham’s tactics as unprecedented and inappropriate, arguing that his focus on Benghazi is being used to block nominations rather than address substantive concerns.
+
+END OF SUMMARY.

@@ -1,0 +1,12 @@
+Alright, I need to help the user by summarizing the given news article while preserving the moral framing. Let me start by understanding the article's content. It's about the Obama administration's stance on Proposition 8, a case regarding same-sex marriage in California. The article discusses the legal and political implications, including the president's evolving views on the issue.
+
+The user wants a summary that includes as many of the morally charged words as possible. I should identify those words first: discrimination, unconstitutional, take, right, marry, legalizing, married, treated, equal, barring, bold, fullthroated, revoke, extending, bars, samesex, heterosexual.
+
+I need to ensure the summary captures the moral aspects without losing the essence. The key points are the administration's decision-making, the legal arguments, and the symbolic importance of their stance. I should mention the potential impact on other states and the president's shift from state-level decisions to a more federal approach.
+
+I also need to keep the summary concise, under 200 words. I'll structure it to first introduce the case, then discuss the administration's options, followed by the implications and the moral framing.
+
+Let me draft the summary, making sure to include the necessary moral terms and maintain the original framing. I'll check the word count to ensure it's within limits. Finally, I'll format it correctly with the tokens as specified.
+</think>
+
+SUMMARY: The Obama administration faces a moral and legal dilemma over same-sex marriage, particularly in the Proposition 8 case from California. The initiative, which bans same-sex marriage, was struck down by federal courts as unconstitutional discrimination. The administration must decide whether to defend or oppose the law, with the president personally weighing in. Obama has shifted from supporting state-level decisions on marriage to suggesting a broader constitutional right to marry, akin to interracial marriage rights. The administration could argue that California, having granted and then revoked the right to marry for same-sex couples, engaged in unconstitutional discrimination. Alternatively, it could challenge the standing of Proposition 8's defenders. The case carries symbolic weight, as it reflects the administration's stance on equality and discrimination. The decision could influence laws in other states and set a precedent for federal recognition of same-sex marriage. END OF SUMMARY.

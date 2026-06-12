@@ -1,0 +1,33 @@
+Okay, I need to summarize this news article about a shooting in Springfield, Mo. The user wants me to focus on the moral framing, especially the Care/Harm dimension. Let me start by reading the article carefully.
+
+So, the article describes a gunman who randomly fired from his vehicle, killing five people, including a police officer and himself. There were also injured individuals. The police chief, Paul Williams, is described as emotional when talking about the officers' actions. The gunman's motives are unclear.
+
+First, I need to identify the morally framed words, particularly those related to Care/Harm. Let me go through the article again. Words like "killed," "dead," "injured," "grieving," "courageous," "hero," "sacrifice," "sorrow," "bravery," "grateful," "surreal," "devastating," "impact," and "loss" come to mind. These words highlight the harm caused and the care shown by the officers.
+
+Now, for the summary. I should include the main events: the gunman's actions, the casualties, the officers' bravery, and the community's reaction. I need to preserve the moral framing, especially focusing on Care/Harm. I'll mention how the officers acted heroically, the loss felt by the community, and the impact on the police department.
+
+I'll start by stating the incident, then move on to the victims and the officers' actions. I'll highlight the emotional response from the police chief and the community's gratitude. I'll make sure to include the morally framed words to emphasize the Care/Harm aspects.
+
+Let me structure it: start with the shooting, describe the casualties, mention the officers' bravery, include the emotional impact, and conclude with the community's reaction. Keep it concise, under 200 words.
+
+I should avoid any markdown and just write the summary clearly, making sure it flows well and captures the moral dimensions highlighted in the article.
+</think>
+
+**STEP 1:**  
+* killed  
+* dead  
+* injured  
+* grieving  
+* courageous  
+* hero  
+* sacrifice  
+* sorrow  
+* bravery  
+* grateful  
+* surreal  
+* devastating  
+* impact  
+* loss  
+
+**SUMMARY:**  
+A gunman killed five people, including a police officer and himself, during a shooting spree in Springfield, Mo. The gunman fired randomly from his vehicle before crashing into a convenience store, where he opened fire, leaving three citizens dead. Police Chief Paul Williams described the incident as "devastating," with one officer, Christopher Walsh, killed while trying to rescue a victim. Walsh's "courageous" actions were praised as "heroic." Another officer, Josiah Overton, was injured but not critically. The gunman’s motives remain unclear. The community expressed "sorrow" and "gratitude" for the first responders' bravery. The shooting has had a profound "impact" on the police department and community, with many feeling the "loss" of their fellow citizens and officer. END OF SUMMARY.

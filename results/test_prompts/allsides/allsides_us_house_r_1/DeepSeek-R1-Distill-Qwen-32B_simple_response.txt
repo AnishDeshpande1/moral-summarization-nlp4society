@@ -1,0 +1,13 @@
+Alright, let's tackle this query. The user wants a summary of a news article, preserving the moral framing. First, I need to understand what the article is about. It's about the House Judiciary Committee's impeachment case against Trump, focusing on his actions related to Ukraine. The moral framing here is about Trump putting his personal interests above the country, which is a key point to highlight.
+
+I should start by identifying the main elements: the committee's chairman, Jerrold Nadler, his arguments, the charges like abuse of power and bribery, the context of Trump's request to Ukraine regarding Biden, and the Republican counterarguments. Also, the whistleblower's role and the quid pro quo aspect are crucial.
+
+I need to make sure the summary is concise, under 200 words, and captures the moral aspect. So, I'll mention Nadler's emphasis on the president's duty to put the country first. I'll include the charges, the evidence from Sondland, and the Republican defense. It's important to note that no witness linked the aid holdup to the investigations.
+
+I'll structure it by introducing the committee's stance, outline the charges, mention the evidence, and then present the opposing arguments. This way, the moral framing is clear: Trump's actions are seen as a betrayal of public trust, while Republicans argue it's not criminal.
+
+Finally, I'll ensure the summary flows well and stays within the word limit, ending with the required tokens. Double-checking for clarity and that all key points are covered without unnecessary details.
+</think>
+
+SUMMARY:  
+House Judiciary Committee Chairman Jerrold Nadler emphasized that President Trump's actions, including seeking a political favor from Ukraine, constitute a betrayal of public trust. Nadler argued that Trump used his office for personal gain, violating his constitutional duty to prioritize the country over self-interest. The committee is preparing impeachment articles alleging abuse of power, bribery, and obstruction of Congress. Democrats accuse Trump of leveraging military aid to pressure Ukraine into investigating Biden's son, Hunter, while Republicans claim his actions were unconventional but not criminal. Key evidence includes a whistleblower complaint and testimony from Ambassador Gordon Sondland, who suggested a quid pro quo arrangement. Trump denies wrongdoing, calling the process a partisan "sham." The case hinges on whether Trump's actions constitute a corrupt scheme warranting impeachment. END OF SUMMARY.

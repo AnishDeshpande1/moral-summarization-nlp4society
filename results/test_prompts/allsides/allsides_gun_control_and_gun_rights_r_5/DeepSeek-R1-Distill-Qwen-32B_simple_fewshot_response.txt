@@ -1,0 +1,17 @@
+Okay, so I need to summarize this news article about New York City's stop-and-frisk policy and Mayor Bloomberg's stance on it. The user has provided examples of how to summarize with different political ideologies, so I should follow that structure. 
+
+First, I'll read the article to understand the main points. Mayor Bloomberg has been using stop-and-frisk to combat crime, but a judge ruled it unconstitutional, leading to the City Council overriding his veto. The article also discusses Bloomberg's gun control efforts and his criticism of the NRA. 
+
+I need to preserve the moral framing the author gave. The article seems to support Bloomberg's stop-and-frisk policy, suggesting it's effective in reducing crime, and criticizes the judge's ruling as overreaching. It also defends the NRA against Bloomberg's accusations, arguing they don't influence stop-and-frisk. 
+
+I should highlight the key points: the City Council's override, the judge's ruling, Bloomberg's arguments about crime reduction, the effectiveness of stop-and-frisk, and the NRA's stance. 
+
+I need to make sure the summary is concise, around 200 words, and ends with the specified tokens. I'll structure it to first mention the City Council's action, then Bloomberg's response, the effectiveness of stop-and-frisk, and the criticism of the judge's ruling. I'll also include the NRA's position and the author's support for Bloomberg's policy.
+
+I should avoid any markdown and keep the language clear and neutral, but reflecting the author's pro-Bloomberg and pro-stop-and-frisk perspective. I'll ensure that the summary captures the moral arguments presented, such as the importance of public safety and the criticism of overreach in the ruling.
+</think>
+
+SUMMARY:  
+New York City Mayor Michael Bloomberg's stop-and-frisk policy, aimed at reducing crime, has faced legal challenges and political backlash. A federal judge ruled the tactic unconstitutional, citing racial profiling, prompting Bloomberg to appeal, arguing it has cut crime and saved lives. The City Council recently overrode Bloomberg's veto, creating an inspector general to oversee such tactics. Bloomberg claims the move endangers minorities, who benefit most from crime reduction. Critics argue stop-and-frisk has been effective in removing illegal guns and reducing violence. The NRA, often blamed by Bloomberg, has not taken an official stance on stop-and-frisk but supports tougher sentencing for illegal gun possession. The article defends Bloomberg's policy, arguing it prioritizes public safety, while criticizing the judge's ruling as overreaching.  
+
+END OF SUMMARY.

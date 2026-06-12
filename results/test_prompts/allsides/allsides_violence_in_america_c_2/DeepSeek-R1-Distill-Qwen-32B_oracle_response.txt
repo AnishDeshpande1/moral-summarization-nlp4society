@@ -1,0 +1,17 @@
+Alright, so the user has given me a query where they want to summarize a news article while preserving the moral framing. They provided the article and a list of morally framed words that need to be included. 
+
+First, I need to understand the task clearly. The user is acting as a news summarizer assistant and a moral expert. They want the summary to include as many of the specified moral terms as possible without exceeding 200 words. The summary should start with "SUMMARY:" and end with "END OF SUMMARY."
+
+I'll start by reading the article to grasp the main points. It's about Patrick Crusius, who carried out a mass shooting in El Paso, Texas, targeting Mexicans. He's been indicted for capital murder, and the death penalty is sought. The article also mentions other mass shootings around the same time, the political implications, and reactions from authorities and the public.
+
+Next, I'll identify the key morally charged words from the list provided: shooting, murder, dead, jailed, gunning, indicted, massacre, shootings, attack, targeting, inflaming, division, violence, killing, injuring, killed, wounded, firing, attacks, mistakes.
+
+I need to ensure these words are included in the summary. I'll structure the summary to cover the indictment, the nature of the crime, the impact on the community, the political context, and the reactions from both supporters and critics.
+
+I'll also make sure the summary is concise, under 200 words, and flows naturally. It's important to highlight the moral aspects without adding personal opinions, just presenting the facts with the included moral terms.
+
+Finally, I'll review the summary to ensure all required words are included and that the summary meets the word limit and formatting instructions.
+</think>
+
+SUMMARY:  
+Patrick Crusius, 21, was indicted for capital murder in connection with the El Paso mass shooting that left 22 dead. Crusius allegedly targeted Mexicans and authored a screed blaming the "Hispanic invasion of Texas." Prosecutors seek the death penalty, while his defense vows to use "every legal tool" to prevent execution. The massacre, part of a series of mass shootings last month, reignited debates over guns and immigration. Crusius drove from Texas to El Paso, where most victims had Hispanic last names, including eight Mexican nationals. Survivors held vigils, while federal authorities consider hate-crime charges. The shootings in El Paso, Dayton, and West Texas highlighted rising violence and political division. Texas Gov. Greg Abbott faced criticism for resisting stricter gun laws, while Democrats accused him of insufficient action. The attacks also sparked accusations that President Trump's rhetoric inflamed tensions. Crusius remains jailed, on suicide watch, as the case processes. END OF SUMMARY.

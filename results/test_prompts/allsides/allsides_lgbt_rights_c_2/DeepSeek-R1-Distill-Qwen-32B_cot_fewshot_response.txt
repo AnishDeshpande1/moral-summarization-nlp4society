@@ -1,0 +1,117 @@
+Okay, so I need to summarize this news article while preserving the moral framing. Let me start by reading through the article carefully to understand the key points and the moral language used.
+
+The article talks about the Republican Party's platform being anti-LGBT, which is described as the most anti-LGBT in history by the Log Cabin Republicans. Some pro-LGBT Republicans, however, support Donald Trump, seeing him as their most supportive candidate. There's a speech by Peter Thiel, a PayPal co-founder, at the GOP convention where he expresses pride in being gay and a Republican but also criticizes the party's platform on certain issues, like transgender rights, calling it a distraction. 
+
+Thiel's speech is highlighted for its moral framing, using words like "proud" and "distraction." The article then contrasts Trump's statements, where he claims to be a "friend of the gay community," but his party's platform is against same-sex marriage, supports conversion therapy, allows discrimination against LGBT couples, and enforces bathroom laws based on birth certificates. Trump's support is unclear; he mentions protecting LGBTQ citizens but doesn't clarify his stance on same-sex marriage, supporting state-level decisions instead. 
+
+Additionally, Mike Pence, Trump's VP pick, is noted for having extreme views against LGBT rights, which is criticized by a Democrat. The article uses words like "anti-LGBT," "oppose," "conversion therapy," "discriminate," "protect," "extreme," and "oppressive."
+
+So, for STEP 1, I need to list all the morally framed single words from the article. These include words that convey approval, disapproval, or moral judgment. Let me go through the article again to pick them out.
+
+Looking through the text, I see words like "anti-LGBT," "oppose," "conversion therapy," "discriminate," "protect," "extreme," "oppressive," "friend," "proud," "distraction," "support," "oppose," "protect," "extreme," "oppressive." Wait, some of these might be repeated or not single words. Let me make sure each is a single word and morally framed.
+
+- anti-LGBT (though it's two words, but maybe "anti" is the moral word)
+- oppose
+- conversion
+- therapy (not moral, but part of "conversion therapy")
+- discriminate
+- protect
+- extreme
+- oppressive
+- friend
+- proud
+- distraction
+- support
+- oppose
+- protect
+- extreme
+- oppressive
+
+Wait, maybe "conversion therapy" is a term, but "conversion" and "therapy" are separate. So perhaps "conversion" is the moral word here, but it's part of a phrase. Similarly, "discriminate" is a verb but used in a moral context. 
+
+Alternatively, maybe the article uses "oppose" multiple times, "protect," "extreme," "oppressive," "friend," "proud," "distraction," "support." Let me list them as single words:
+
+* anti
+* oppose
+* conversion
+* therapy
+* discriminate
+* protect
+* extreme
+* oppressive
+* friend
+* proud
+* distraction
+* support
+
+Wait, but "conversion therapy" is a policy, so "conversion" might not stand alone as a moral word. Maybe "conversion" isn't the right choice. Let me think again.
+
+The key morally framed words are likely:
+
+- anti-LGBT (but as a compound, maybe just "anti")
+- oppose
+- conversion (as part of a policy)
+- therapy (not moral)
+- discriminate
+- protect
+- extreme
+- oppressive
+- friend
+- proud
+- distraction
+- support
+
+But perhaps "conversion therapy" is a term, so the moral words are "oppose," "discriminate," "protect," "extreme," "oppressive," "friend," "proud," "distraction," "support."
+
+I think that's a better list. So, I'll compile them as:
+
+* anti
+* oppose
+* conversion
+* discriminate
+* protect
+* extreme
+* oppressive
+* friend
+* proud
+* distraction
+* support
+
+Wait, "conversion" might not be the best choice. Let me check the article again. It mentions "conversion therapy," which is a policy, so "conversion" is part of that. Maybe "conversion" isn't a standalone moral word. Alternatively, "conversion therapy" is a policy, so perhaps "conversion" isn't the right choice. Let me focus on the verbs and adjectives that carry moral weight.
+
+So, the morally framed words are:
+
+- anti
+- oppose
+- discriminate
+- protect
+- extreme
+- oppressive
+- friend
+- proud
+- distraction
+- support
+
+I think that's a better list. Now, moving on to the summary. I need to write a concise summary (under 200 words) that includes as many of these moral words as possible, preserving the author's framing.
+
+The summary should cover the main points: the GOP's anti-LGBT platform, Thiel's speech, Trump's ambiguous support, the party's policies, and Pence's extreme views.
+
+I'll start by stating the GOP's anti-LGBT platform, mention Thiel's speech where he's proud but critical, Trump's unclear stance, the party's policies, and Pence's extreme views.
+
+Putting it all together, making sure to include the moral words and keep it concise.
+</think>
+
+**STEP 1:**
+* anti
+* oppose
+* discriminate
+* protect
+* extreme
+* oppressive
+* friend
+* proud
+* distraction
+* support
+
+**SUMMARY:**
+The Republican Party has adopted an "anti-LGBT" platform, criticized by the Log Cabin Republicans as the most "anti" in history. Meanwhile, pro-LGBT Republicans view Donald Trump as their most "supportive" candidate. PayPal co-founder Peter Thiel's speech at the GOP convention highlighted his "proud" identity as gay and Republican, while criticizing the party's stance on transgender rights as a "distraction." Trump claims to be a "friend" of the gay community but has been vague on key issues, supporting state-level decisions on same-sex marriage and opposing federal support. His vice presidential pick, Mike Pence, has been labeled as having "extreme" views on LGBT rights, criticized for promoting "oppressive" policies. The GOP platform opposes same-sex marriage, supports "conversion therapy," and allows discrimination against LGBT couples, reflecting a broader "oppressive" stance. END OF SUMMARY.

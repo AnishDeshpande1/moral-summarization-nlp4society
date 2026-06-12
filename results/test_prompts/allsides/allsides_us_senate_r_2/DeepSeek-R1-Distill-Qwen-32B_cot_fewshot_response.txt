@@ -1,0 +1,94 @@
+Okay, so I need to summarize the news article about Rex Tillerson's Senate confirmation hearing. The user wants me to first extract all the morally framed single words and then write a summary preserving those moral framings. 
+
+First, I'll read through the article to identify words that carry moral connotations. Let's go step by step.
+
+The article mentions that Rubio pressed Tillerson to call Putin a "war criminal." So "war criminal" is definitely a moral term. Then, Rubio finds it "discouraging" that Tillerson can't cite that. "Discouraging" is a bit more about emotion, but maybe not strictly moral. 
+
+Next, Rubio tries to get Tillerson to label Saudi Arabia as a "human rights violator." That's a strong moral term. Also, Rubio questions Duterte's practices, which are "controversial." "Controversial" is more about debate than morality. 
+
+Tillerson doesn't "bite" on Rubio's attempts, meaning he doesn't take the bait. "Bite" here isn't a moral term. He describes Russia as an "unfriendly adversary," which has a negative connotation. 
+
+Tillerson says Russia "poses a danger," which is a negative assessment. He also mentions that Russia's claim to Crimea was "illegal," a clear moral judgment. The absence of a "firm" response from the Obama admin is seen as weak. "Weak" is a negative trait. 
+
+Tillerson talks about China's "illegal" island-building. "Illegal" again is a moral term. He calls radical Islam a "grave risk," which is a negative assessment. Syria's situation is too "competing" in goals, but "competing" isn't moral. 
+
+ISIS is an "imminent threat," which is a negative term. Cyber intrusions are the "greatest threat," another negative. Tillerson says the government "stumbled" under Obama, implying failure. "Stumbled" is more about mishandling. 
+
+He mentions "leading" to avoid "confusion and danger," which are negative. Protesters are "filled with" and "ejected" for screaming, but those aren't moral terms. 
+
+So compiling the moral words: war criminal, discouraging, human rights violator, unfriendly, danger, illegal, firm, weak, illegal, grave, imminent, greatest, stumbled, leading, confusion, danger, ejected, screamed. Wait, some of these might not be single words or might not carry strong moral connotations. Let me double-check.
+
+"War criminal" is definitely moral. "Discouraging" is more about frustration. "Human rights violator" is moral. "Unfriendly" is negative but not strictly moral. "Danger" is a negative outcome. "Illegal" is moral. "Firm" is positive, but in the context of a weak response, it's more about strength. "Weak" is a negative trait. "Illegal" again. "Grave" is serious, but not inherently moral. "Imminent" is about urgency. "Greatest" is superlative. "Stumbled" is about failure. "Leading" is positive. "Confusion" and "danger" are negative outcomes. "Ejected" and "screamed" are actions, not moral terms.
+
+Wait, maybe I'm overcomplicating. The user's examples included words like "dirty," "lying," etc. So perhaps I should focus on words that are explicitly negative or positive in a moral sense. 
+
+So, the morally framed words would be: war criminal, discouraging, human rights violator, unfriendly, danger, illegal, firm, weak, illegal, grave, imminent, greatest, stumbled, leading, confusion, danger.
+
+Wait, but "discouraging" is more about emotion. "Firm" is positive, but in the context of a weak response, it's about strength. "Weak" is negative. "Illegal" is moral. "Grave" is serious. "Imminent" is urgency. "Greatest" is superlative. "Stumbled" is failure. "Leading" is positive. "Confusion" and "danger" are negative outcomes.
+
+I think I might have included some that aren't strictly moral. Maybe I should stick to words that inherently carry a moral judgment, like "war criminal," "illegal," "human rights violator," "unfriendly," "danger," "weak," "stumbled," "confusion," "danger."
+
+Wait, but "unfriendly" is more about being unfriendly, not necessarily a moral failing. "Danger" is a consequence. "Weak" is a negative trait. "Illegal" is a legal/moral term. "Human rights violator" is definitely moral. "War criminal" is moral. "Stumbled" is about failure, which could imply negligence. "Confusion" and "danger" are negative outcomes but not inherently moral.
+
+Hmm, perhaps I should list all the words that are explicitly moral or have strong connotations. Let me go through the article again:
+
+- "war criminal"
+- "discouraging"
+- "human rights violator"
+- "unfriendly"
+- "danger"
+- "illegal"
+- "weak"
+- "illegal" (again)
+- "grave"
+- "imminent"
+- "greatest"
+- "stumbled"
+- "leading"
+- "confusion"
+- "danger"
+
+I think "war criminal," "human rights violator," "illegal," "weak," "grave," "imminent," "stumbled," "confusion," and "danger" are the key morally framed words. 
+
+Now, for the summary, I need to include as many of these as possible while keeping it under 200 words. I'll structure it to highlight the main points: the clash between Rubio and Tillerson, Tillerson's refusal to label Putin a war criminal, his stance on Russia, and the broader implications.
+
+I should start by introducing the clash, mention the key moral terms, and conclude with Tillerson's vision and the hearing's atmosphere. I'll make sure to include words like "war criminal," "illegal," "weak," "grave," "imminent," "stumbled," "confusion," and "danger" where appropriate.
+
+Let me draft the summary:
+
+Secretary of State nominee Rex Tillerson clashed with Sen. Marco Rubio during his Senate confirmation hearing. Rubio pressed Tillerson to label Russian President Vladimir Putin a "war criminal," but Tillerson refused, emphasizing a more deliberative approach. Tillerson called Russia an "unfriendly adversary" and criticized its "illegal" annexation of Crimea, while acknowledging the "weak" response from the Obama administration. He also declined to label Saudi Arabia a "human rights violator" or Philippines President Duterte's practices as "controversial." Tillerson described radical Islam as a "grave risk" and cyber intrusions as the "greatest threat" to the U.S. The hearing highlighted Tillerson's cautious yet firm stance on foreign policy, amid concerns about the administration's handling of global challenges. END OF SUMMARY.
+
+Wait, that's 105 words. I can add more details without exceeding 200. Let me include more points, like the "danger" posed by Russia, the "stumbled" government, and the "confusion" without U.S. leadership.
+
+Revised summary:
+
+Secretary of State nominee Rex Tillerson clashed with Sen. Marco Rubio during his Senate confirmation hearing, with Rubio pressing him to label Russian President Vladimir Putin a "war criminal." Tillerson refused, emphasizing a more deliberative approach, calling Russia an "unfriendly adversary" and criticizing its "illegal" annexation of Crimea. He acknowledged the "weak" response from the Obama administration, which allowed Russia to perceive it as "weak." Tillerson also declined to label Saudi Arabia a "human rights violator" or Philippines President Duterte's practices as "controversial." He described radical Islam as a "grave risk" and cyber intrusions as the "greatest threat" to the U.S. Tillerson warned that without strong leadership, the world could fall into "confusion and danger." The hearing highlighted his cautious yet firm stance on foreign policy, amid concerns about the administration's handling of global challenges. END OF SUMMARY.
+
+That's 127 words. I can add more details about the "danger" posed by Russia and the "stumbled" government.
+
+Final summary:
+
+Secretary of State nominee Rex Tillerson clashed with Sen. Marco Rubio during his Senate confirmation hearing, with Rubio pressing him to label Russian President Vladimir Putin a "war criminal." Tillerson refused, emphasizing a more deliberative approach, calling Russia an "unfriendly adversary" and criticizing its "illegal" annexation of Crimea. He acknowledged the "weak" response from the Obama administration, which allowed Russia to perceive it as "weak." Tillerson described radical Islam as a "grave risk" and cyber intrusions as the "greatest threat" to the U.S., warning that without strong leadership, the world could fall into "confusion and danger." He also declined to label Saudi Arabia a "human rights violator" or Philippines President Duterte's practices as "controversial." The hearing highlighted his cautious yet firm stance on foreign policy, amid concerns about the administration's handling of global challenges. END OF SUMMARY.
+
+That's 135 words. I think that captures the moral framing adequately.
+</think>
+
+STEP 1:
+* war criminal
+* discouraging
+* human rights violator
+* unfriendly
+* danger
+* illegal
+* weak
+* illegal
+* grave
+* imminent
+* greatest
+* stumbled
+* leading
+* confusion
+* danger
+
+SUMMARY:
+Secretary of State nominee Rex Tillerson clashed with Sen. Marco Rubio during his Senate confirmation hearing, with Rubio pressing him to label Russian President Vladimir Putin a "war criminal." Tillerson refused, emphasizing a more deliberative approach, calling Russia an "unfriendly adversary" and criticizing its "illegal" annexation of Crimea. He acknowledged the "weak" response from the Obama administration, which allowed Russia to perceive it as "weak." Tillerson described radical Islam as a "grave risk" and cyber intrusions as the "greatest threat" to the U.S., warning that without strong leadership, the world could fall into "confusion and danger." He also declined to label Saudi Arabia a "human rights violator" or Philippines President Duterte's practices as "controversial." The hearing highlighted his cautious yet firm stance on foreign policy, amid concerns about the administration's handling of global challenges. END OF SUMMARY.

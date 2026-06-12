@@ -1,0 +1,37 @@
+Alright, I need to help the user with their query. They provided a news article and specific instructions on how to process it. Let me break down what they're asking for.
+
+First, the user wants me to act as a news summarizer and a moral expert. They've given me a news article about Rev. Franklin Graham and the cancellation of his event in Liverpool. The task has two main parts: identifying morally framed words and writing a summary that preserves those moral framings.
+
+For the first part, I need to go through the article and pick out words that carry moral connotations. I should list each word with a star and in a new line under STEP 1. Words like "compatible," "values," "condemn," "love," "sin," etc., seem to fit here. I need to make sure I capture all the relevant terms without missing any.
+
+Next, the summary. It should be concise, under 200 words, and include as many of the identified moral words as possible. I'll have to condense the article, focusing on the key points: Graham's event being canceled, the reasons given by the venue, the protests, Graham's response, and his stance on homosexuality and free speech.
+
+I should also ensure that the summary flows well and accurately represents the article's content while highlighting the moral aspects. I need to avoid adding any personal opinions and stick strictly to summarizing the given text.
+
+Let me start by reading the article carefully to identify all the morally framed words. Once I have that list, I'll craft a summary that includes those words, making sure it's within the word limit and captures the essence of the article.
+</think>
+
+**STEP 1:**  
+\*compatible  
+\*values  
+\*condemn  
+\*love  
+\*sin  
+\*penalty  
+\*separation  
+\*forgiveness  
+\*cleansing  
+\*homophobic  
+\*hate  
+\*preacher  
+\*Gospel  
+\*inclusive  
+\*platforming  
+\*rebuttal  
+\*protesters  
+\*evangelist  
+
+**SUMMARY:**  
+Rev. Franklin Graham, an evangelist and son of Billy Graham, was scheduled to speak at ACC Liverpool as part of his U.K. tour. However, the venue canceled his event, citing his biblical view of marriage as incompatible with their values. Critics, including the Liverpool Labour LGBT Network, called him a "homophobic hate preacher" and protested his appearance. Graham responded with an open letter to the LGBTQ community, stating he was not there to condemn them but to share the Gospel. He admitted seeing homosexuality as a sin but emphasized that all are sinners in need of forgiveness. Graham also defended free speech and religious liberty, claiming the Gospel is inclusive and born of love, inviting the LGBTQ community to attend his events.  
+
+**END OF SUMMARY.**

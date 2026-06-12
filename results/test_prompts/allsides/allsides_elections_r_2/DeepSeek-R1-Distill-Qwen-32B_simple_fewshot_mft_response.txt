@@ -1,0 +1,35 @@
+Okay, I need to summarize the given news article while preserving the moral framing related to Authority/Subversion, Care/Harm, and Fairness/Cheating. Let me read the article carefully.
+
+The article is about a Project Veritas video showing Kyle Jurek, a Sanders campaign organizer, making controversial statements. He talks about cities burning if Trump is re-elected, supports re-education camps, compares Trump supporters to Nazis, and praises Soviet gulags. He also predicts violence at the Democratic convention.
+
+First, I should identify the moral foundations mentioned. Authority/Subversion is evident in his criticism of Trump and the suggestion of re-education, which subverts traditional authority. Care/Harm is involved because he predicts violence and harm, both against police and through city burnings. Fairness/Cheating comes into play with his support for re-education, implying that those who don't conform need to be 'fixed,' which could be seen as unfair.
+
+I need to make sure the summary highlights these aspects without going into too much detail. I should mention the key points: Jurek's statements about violence, support for gulags, and re-education. Also, note the moral dimensions each point touches on.
+
+I should structure the summary to first introduce the video and Jurek's role, then outline his statements, and finally touch on the moral framing. Keep it concise, under 200 words.
+
+Let me draft the summary:
+
+The article discusses a Project Veritas video featuring Kyle Jurek, a Sanders campaign organizer, making inflammatory statements. He predicts violence if Trump is re-elected, supports re-education camps for Trump supporters, and praises Soviet gulags. His comments reflect a subversion of authority and a disregard for fairness, suggesting that dissenters need harsh treatment. The video also raises concerns about harm, with predictions of riots and violence at the Democratic convention. The moral framing highlights issues of authority, care, and fairness, with Jurek's rhetoric challenging traditional norms and potentially justifying harmful actions.
+
+Wait, that's a bit long. Let me make it more concise, ensuring each moral foundation is clearly linked.
+
+Revised summary:
+
+A Project Veritas video revealed Kyle Jurek, a Sanders campaign organizer, advocating for violence and re-education if Trump is re-elected. Jurek predicted riots, compared Trump supporters to Nazis, and praised Soviet gulags, reflecting a subversion of authority and a disregard for fairness. His statements also raised concerns about harm, suggesting potential violence against police and urban areas. The moral framing emphasizes challenges to authority, potential harm, and unfair treatment of dissenters.
+
+That's better, but let me check the word count. It's around 100 words, so I can add more details without exceeding 200.
+
+Final version:
+
+A Project Veritas video featuring Kyle Jurek, a Sanders campaign organizer, highlights controversial statements about violence and re-education if Trump is re-elected. Jurek predicted riots, compared Trump supporters to Nazis, and praised Soviet gulags, reflecting a subversion of authority and a disregard for fairness. His comments also raised concerns about harm, suggesting potential violence against police and urban areas. The moral framing underscores challenges to authority, potential harm, and unfair treatment of dissenters, revealing a radical approach to political opposition.
+
+Yes, this captures all the necessary points and the moral dimensions effectively.
+</think>
+
+A Project Veritas video featuring Kyle Jurek, a Sanders campaign organizer, highlights controversial statements about violence and re-education if Trump is re-elected. Jurek predicted riots, compared Trump supporters to Nazis, and praised Soviet gulags, reflecting a subversion of authority and a disregard for fairness. His comments also raised concerns about harm, suggesting potential violence against police and urban areas. The moral framing underscores challenges to authority, potential harm, and unfair treatment of dissenters, revealing a radical approach to political opposition.
+
+SUMMARY:
+A Project Veritas video revealed Kyle Jurek, a Bernie Sanders campaign organizer, making inflammatory statements predicting violence if President Trump is re-elected. Jurek advocated for re-education camps for Trump supporters, compared them to Nazis, and praised Soviet-style gulags, reflecting a subversion of authority and disregard for fairness. He also predicted riots at the Democratic National Convention, raising concerns about harm to police and urban areas. The moral framing emphasizes challenges to authority, potential harm, and unfair treatment of dissenters, highlighting radical rhetoric within the Sanders campaign.
+
+END OF SUMMARY.

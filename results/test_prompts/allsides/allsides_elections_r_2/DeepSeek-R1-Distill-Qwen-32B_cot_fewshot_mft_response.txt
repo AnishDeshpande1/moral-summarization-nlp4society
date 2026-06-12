@@ -1,0 +1,41 @@
+Alright, I'm trying to figure out how to approach this query. The user wants me to summarize a news article while preserving the moral framing, specifically focusing on Authority/Subversion, Care/Harm, and Fairness/Cheating. 
+
+First, I need to understand the structure they provided. They have examples where they extract moral words and then write a summary. So, I should follow that pattern.
+
+Looking at the target article, it's about a Sanders campaign organizer making inflammatory statements. I need to identify the moral words. Words like "burn," "violence," "reeducation," "Nazis," "gulags," "reeducated," "fascists," "violence," "drag," "light," "burn," "lose," "chaos," "anger," "destruction," "rebellion," "subversion," "destruction," "rebellion," "subversion." These fit into the moral dimensions mentioned.
+
+Next, the summary needs to include these words while preserving the moral framing. I should start by introducing the video and the organizer's statements, then mention the implications and reactions. I need to keep it concise, under 200 words.
+
+I should ensure that the summary highlights the moral issues, like the threat to authority, the harm predicted, and the fairness in reeducation. Also, mention the Sanders campaign's response or lack thereof, and the broader implications for the party.
+
+I need to make sure the summary flows logically, starting with the incident, the statements made, the context, and then the reactions and implications. I'll avoid technical jargon and keep it clear and straightforward.
+
+Finally, I'll review the summary to ensure it captures all the key moral points and stays within the word limit. I'll make sure it's accurate and reflects the original article's content while emphasizing the moral dimensions as required.
+</think>
+
+### STEP 1:
+* burn
+* violence
+* reeducation
+* Nazis
+* gulags
+* reeducated
+* fascists
+* violence
+* drag
+* light
+* burn
+* lose
+* chaos
+* anger
+* destruction
+* rebellion
+* subversion
+* destruction
+* rebellion
+* subversion
+
+---
+
+### SUMMARY:
+A Project Veritas video revealed inflammatory statements made by Kyle Jurek, a campaign organizer for Democratic presidential hopeful Sen. Bernard Sanders. Jurek predicted that "cities burn" if President Trump wins reelection and threatened violence against police at the 2020 Democratic National Convention in Milwaukee. He expressed support for ideological reeducation of Trump voters, comparing them to Nazis, and praised Soviet-style gulags as a means of reeducation. Jurek also threatened chaos and destruction, stating that police would be "beaten" in riots, and warned that Milwaukee would burn if Sanders does not secure the nomination. He equated Trump supporters to fascists, claiming they need to be "reeducated" through violent means, and aligned himself with antifa, asserting that "the only thing fascists understand is violence." Jurek's statements sparked outrage, with critics questioning whether the Sanders campaign would distance itself from him. The video highlights the potential for chaos and subversion within the Democratic party, raising concerns about the broader implications for the 2020 election. END OF SUMMARY.

@@ -1,0 +1,26 @@
+Alright, I need to summarize the given news article while preserving the moral framing. First, I'll go through the article to identify the morally framed words. Let me read through it again.
+
+The article talks about the Obama administration's decision on filing briefs in the Proposition 8 case. It mentions the federal government's stance on same-sex marriage, the legal arguments, and the moral implications. Words like "constitutional," "discrimination," "fundamental," "equality," "basic," "discriminate," "pressure," "symbol," and "morally" stand out as they carry moral connotations.
+
+Next, I need to craft a summary that includes these words. The summary should be concise, around 200 words, and capture the essence of the article, highlighting the moral aspects.
+
+I'll start by stating that the Obama administration faces a moral and legal decision on same-sex marriage. I'll mention the Proposition 8 case and the various legal arguments they could make. It's important to note the shift in the president's stance and the symbolic importance of their decision. I'll also include the perspectives of both sides and the potential impact on public opinion.
+
+I need to ensure that the morally framed words are naturally integrated into the summary without forcing them. The summary should flow smoothly while reflecting the moral dimensions discussed in the article.
+
+Let me put this together step by step, making sure each key point is covered and the moral framing is preserved.
+</think>
+
+STEP 1:
+* constitutional
+* discrimination
+* fundamental
+* equality
+* basic
+* discriminate
+* pressure
+* symbol
+* morally
+
+SUMMARY:
+The Obama administration faces a critical moral and legal decision on same-sex marriage as it prepares to file briefs in the Proposition 8 case before the U.S. Supreme Court. Proposition 8, a California ballot initiative banning same-sex marriage, has sparked intense debate over constitutional rights and discrimination. The administration must decide whether to argue that same-sex couples have a fundamental right to marry, which would invalidate similar laws in other states, or to take a narrower stance, such as challenging California's reversal of marriage rights for gay couples. President Obama's evolving position, from supporting state-level decisions to advocating for equality under the law, adds complexity to the case. The administration's brief is seen as a symbolic statement on the morality of same-sex marriage, with both sides urging a favorable ruling. While legal experts debate the impact of the brief on the justices, its broader message to the American public could be more significant, reflecting a broader societal discussion on equality and discrimination. END OF SUMMARY.

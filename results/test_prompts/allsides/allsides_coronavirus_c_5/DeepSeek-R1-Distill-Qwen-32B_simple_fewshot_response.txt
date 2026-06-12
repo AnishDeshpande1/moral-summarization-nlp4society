@@ -1,0 +1,18 @@
+Okay, I need to summarize the given news article about the VA stopping the use of hydroxychloroquine. Let me read through the article first to understand the main points.
+
+The article starts by stating that the VA is almost stopping the use of hydroxychloroquine, an unproven malaria drug, on veterans with COVID-19. Robert Wilkie, the VA Secretary, defended the initial use as giving hope when there were few options. However, as studies showed possible dangers, the VA reduced its use to just three prescriptions in the last week. President Trump has been promoting this drug without evidence, and the VA is now moving towards remdesivir and convalescent plasma.
+
+The article mentions that over 13,000 veterans were infected, with 1,200 deaths. Veterans organizations were concerned after data showed no benefit and higher death rates for those taking hydroxychloroquine. Prescriptions peaked at 404 in late March as Trump promoted it, then tapered off in April.
+
+Wilkie plans to continue using the drug only in clinical trials, following Dr. Fauci's guidance. Rep. Lowey criticized the VA for not listening to Fauci earlier, emphasizing the need to follow science. The FDA has warned against using hydroxychloroquine outside of studies due to lack of evidence and potential side effects.
+
+Now, I need to craft a summary that captures these points while preserving the moral framing. The article highlights the VA's shift from using an unproven drug to more evidence-based treatments, influenced by scientific studies and criticism. It also touches on political influence from Trump versus expert advice.
+
+I should mention the VA's decision to stop using hydroxychloroquine, the initial reasons, the reduction in prescriptions, the impact of studies and Trump's promotion, the shift to remdesivir, the statistics on veterans, the criticism from organizations and Rep. Lowey, and the FDA's stance. The moral framing here is about prioritizing scientific evidence over political influence to protect patient safety.
+
+Let me structure this into a concise summary, making sure it's under 200 words and flows well.
+</think>
+
+The Department of Veterans Affairs (VA) has significantly reduced the use of hydroxychloroquine for treating COVID-19 in veterans, citing concerns over its effectiveness and safety. Initially, the VA used the drug to provide hope during a time of limited treatment options. However, as studies highlighted potential risks and alternative treatments like remdesivir emerged, the VA scaled back its use, with only three prescriptions in the last week. President Trump's promotion of the drug without scientific backing was a factor in its initial use, but the VA now prioritizes evidence-based approaches. Data showed no significant benefit from hydroxychloroquine, with higher mortality rates among those treated with it. The VA plans to continue using the drug only in clinical trials, following guidance from Dr. Anthony Fauci. Rep. Nita Lowey criticized the VA for not heeding scientific caution earlier, emphasizing the importance of adhering to evidence. The FDA has warned against using hydroxychloroquine outside of studies due to lack of efficacy and safety concerns. The VA's shift reflects a commitment to prioritizing scientific research over political influence to ensure patient safety. 
+
+END OF SUMMARY.

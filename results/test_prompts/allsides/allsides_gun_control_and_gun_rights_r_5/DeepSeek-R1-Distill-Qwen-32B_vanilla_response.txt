@@ -1,0 +1,14 @@
+Alright, I need to help the user by summarizing the given news article. The user has specified that I should return the summary after a "SUMMARY:" token and end with "END OF SUMMARY." Also, the summary should be no longer than 200 words. 
+
+First, I'll read through the article to understand the main points. The article discusses New York City Mayor Michael Bloomberg's efforts to implement gun control measures and his use of stop-and-frisk tactics. It mentions the City Council overriding his veto on two bills related to creating an inspector general for the NYPD and allowing more people to sue for racial profiling. The article also touches on Bloomberg's criticism of the NRA and the legal challenges against the stop-and-frisk program.
+
+I need to condense this information into a concise summary. I'll start by identifying the key elements: Bloomberg's gun control efforts, the stop-and-frisk program, the City Council's actions, the legal ruling against stop-and-frisk, and the political reactions, including Bloomberg's criticism of the NRA.
+
+I should ensure that each main point is covered without going into too much detail. I'll also need to mention the opposing views, such as Mike Long's support for stop-and-frisk and the NRA's stance on the issue.
+
+Now, I'll structure the summary to flow logically, starting with Bloomberg's initiatives, moving to the recent political developments, and then touching on the legal and public responses. I'll keep an eye on the word count to stay within the limit.
+
+Finally, I'll make sure the summary is clear and concise, using proper grammar and punctuation. I'll avoid any markdown formatting as per the instructions and ensure that the summary starts with "SUMMARY:" and ends with "END OF SUMMARY."
+</think>
+
+SUMMARY: New York City Mayor Michael Bloomberg has spent millions advocating for gun control and using stop-and-frisk tactics to reduce crime. However, the City Council recently overrode his veto, creating an NYPD inspector general to oversee stop-and-frisk and allowing more lawsuits for racial profiling. Bloomberg argues this move puts minorities at higher risk, as they benefited most from crime reduction. A federal judge ruled stop-and-frisk unconstitutional, citing racial profiling targeting blacks and Hispanics. Bloomberg, who credits the tactic with reducing crime, plans to appeal. Critics, like Conservative Party Chairman Mike Long, support stop-and-frisk, calling it essential for safety. Bloomberg also criticized the NRA, linking it to gun control opponents, though the NRA has no official stance on stop-and-frisk. The NRA advocates for tougher penalties for illegal gun possession. Bloomberg's other gun control measures, like bans on assault weapons, have not reduced crime. The legal battle over stop-and-frisk continues, with opponents arguing it is racist. END OF SUMMARY.

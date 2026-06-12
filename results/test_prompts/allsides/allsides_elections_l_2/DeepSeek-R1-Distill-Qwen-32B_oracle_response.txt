@@ -1,0 +1,14 @@
+Okay, so I need to help this user by summarizing a news article while preserving the moral framing. The user is a news summarizer assistant and a moral expert, so they want the summary to reflect the author's moral perspective. 
+
+First, I'll read the article to understand the main points. It's about Trump wanting to hold a convention despite the pandemic, which the author sees as morally wrong. The article uses words like "backfired," "insistence," "costing," and "stoking death" to frame Trump's actions negatively.
+
+I need to include as many of these morally charged words as possible in the summary. The summary should be concise, under 200 words, and structured to highlight Trump's self-absorption and the negative consequences of his actions.
+
+I'll start by outlining Trump's intent, whether to shift blame or create conflict. Then, mention the potential consequences like setting up a pandemic hotspot, insulting people, and endangering supporters. I'll include Biden's criticism, emphasizing leadership and morality.
+
+I should make sure the summary flows logically, connecting Trump's actions to the moral failings highlighted by the author. I'll avoid adding my own opinions, just stick to the author's framing.
+
+Finally, I'll ensure the summary starts with "SUMMARY:" and ends with "END OF SUMMARY." without any markdown. Keeping it clear and within the word limit is crucial.
+</think>
+
+SUMMARY: The article criticizes President Trump for his decision to hold the Republican convention during the pandemic, framing it as morally reckless. Trump's intent may have been to shift blame onto Democratic Governor Cooper or create conflict, but this backfired as Republican governors now offer to host the event, despite the risks. The author highlights Trump's self-absorption, noting he is willing to endanger his supporters' lives for political optics, ignoring the moral and political consequences. By insisting on holding the convention, Trump risks creating a pandemic hotspot, insulting North Carolinians, and endangering residents of the new state. Former Vice President Biden condemns Trump's behavior, calling it selfish and dangerous, and accuses him of stoking death. The author contrasts Trump's reckless actions with the qualities of responsible leadership, labeling his conduct as that of a schoolyard bully. Trump's refusal to wear masks and insistence on hosting the convention exemplify his lack of empathy and coherence, further disqualifying him from leadership. END OF SUMMARY.

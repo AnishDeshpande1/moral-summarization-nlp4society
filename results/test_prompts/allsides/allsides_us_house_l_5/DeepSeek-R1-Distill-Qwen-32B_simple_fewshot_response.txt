@@ -1,0 +1,15 @@
+Alright, I need to summarize this news article about the Republican immigration bill. The user wants a summary that preserves the moral framing the author gave. Let me read through the article carefully.
+
+The article talks about a Republican immigration bill that's supposed to prevent family separation at the border. But the author argues that it's misleading. The bill doesn't actually stop family separation; it just changes how families are detained. Instead of separating kids from parents, they can be detained together indefinitely. The Flores agreement, which limited detention, is being overturned. The bill allows the Trump administration to keep families in detention longer, which is what they wanted all along. The author is critical, saying the bill is deceptive and continues to harm immigrant families.
+
+I need to capture the moral angle here. The author is framing this as a deceptive move that continues to separate families under a different guise. The bill's true intent is to enable indefinite detention, which is inhumane. The moral issue is about misleading the public and the inhumane treatment of immigrants.
+
+So, the summary should highlight that the bill doesn't end family separation but allows indefinite detention, which the author sees as a continuation of harmful policies. It's important to mention the Flores agreement being overturned and the deceptive claims by Republicans.
+
+I should keep it concise, under 200 words, and make sure the moral framing is clear. The user also provided examples, so I can follow that structure.
+</think>
+
+SUMMARY:  
+The Republican immigration bill, presented as a "compromise," claims to end family separation at the US-Mexico border. However, the author argues this is misleading, as the bill does not outlaw family separation but instead removes legal protections that prevent indefinite detention of children and families. The Flores agreement, which required children to be released "without unnecessary delay" and kept in the least restrictive conditions, would be overturned. The bill allows the Trump administration to detain families together indefinitely, effectively continuing the harm caused by family separation under a different guise. While the bill claims to prevent separation, it enables the indefinite detention of children and parents, which the author describes as a deceptive and inhumane policy. The moral framing highlights the deceptive nature of the bill and its continuation of policies that harm immigrant families.  
+
+END OF SUMMARY.

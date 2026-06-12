@@ -1,0 +1,14 @@
+Alright, I need to help the user by summarizing the provided news article while preserving the moral framing. The user specified that I should act as a news summarizer and a moral expert. 
+
+First, I'll read through the article to understand the main points. It's about a Project Veritas video where Kyle Jurek, a Sanders campaign organizer, made controversial statements. He talked about violence if Trump is reelected, supported reeducation camps, and praised gulags. The article also mentions the Sanders campaign's response and the criticism towards Project Veritas.
+
+I need to make sure the summary captures the moral implications. The article presents Jurek's statements as extreme and violent, which could be seen as a negative portrayal of the Sanders campaign. I should highlight the key quotes and the context in which they were made.
+
+I'll structure the summary to include Jurek's threats, his support for gulags, the reference to the 1968 DNC riots, and the comparison to Nazis. Also, I should mention the Sanders campaign's lack of response and the criticism against Project Veritas.
+
+I need to keep it concise, under 200 words, and ensure it's clear and unbiased, just reflecting the author's moral framing. I'll avoid adding any personal opinions but present the facts as they are in the article.
+
+Finally, I'll make sure to start with "SUMMARY:" and end with "END OF SUMMARY." as per the instructions.
+</think>
+
+SUMMARY: A Project Veritas video revealed statements by Kyle Jurek, a Bernie Sanders campaign organizer, suggesting violence if President Trump is reelected, including "cities burn" and riots at the Democratic National Convention. Jurek also advocated for re-educating Trump supporters, comparing them to Nazis, and praised Soviet-style gulags as a means of breaking the "privilege" of billionaires. He aligned with antifa, stating that "fascists understand only violence," and criticized less radical liberals. The Sanders campaign did not respond to the allegations. Critics accused Project Veritas of deceptive editing, though the organization denied such claims. The video raises questions about the moral and violent rhetoric within the Sanders campaign's inner circles. END OF SUMMARY.

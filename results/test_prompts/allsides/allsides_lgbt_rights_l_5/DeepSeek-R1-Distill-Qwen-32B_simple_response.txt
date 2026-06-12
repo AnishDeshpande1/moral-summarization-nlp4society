@@ -1,0 +1,13 @@
+Alright, I need to summarize the given news article while preserving the moral framing. Let me read through the article first to understand the main points.
+
+The article talks about the Obama administration allowing same-sex spouses of federal employees to access benefits like health insurance and retirement accounts. This comes after the Supreme Court overturned part of the Defense of Marriage Act (DOMA). The Office of Personnel Management (OPM) sent a memo detailing these benefits, which include health, life, dental, vision, and long-term care insurance. They mention that these benefits are available regardless of the state where the couple resides, even if the state doesn't recognize same-sex marriages. President Obama supports this, stating that all married couples should be treated equally under federal law. The article also mentions that the Department of Justice is working on implementing these changes, and other officials like Eric Holder and Chuck Hagel support the move, emphasizing equal treatment under the law.
+
+Now, I need to capture the moral framing, which seems to be about equality and justice for same-sex couples. The summary should highlight that the administration is taking steps to ensure equal benefits, reflecting a commitment to fairness and respect for all families.
+
+I should structure the summary to include the key points: the benefits now available, the reason behind the change (Supreme Court decision), the administration's support, and the moral stance on equality. I'll make sure to keep it concise, within 200 words, and end with the specified tokens.
+
+Let me draft the summary step by step, ensuring each important point is included without going over the word limit.
+</think>
+
+SUMMARY:  
+The Obama administration has announced that same-sex spouses of federal employees can now access benefits such as health insurance and retirement accounts, following the Supreme Court's overturning of a key DOMA provision. The Office of Personnel Management (OPM) issued guidance ensuring legally married same-sex couples have equal access to benefits, including health, life, dental, vision, and long-term care insurance. While the memo does not explicitly address couples living in states that do not recognize same-sex marriage, it emphasizes federal recognition of legal marriages. President Obama and Attorney General Eric Holder praised the move, highlighting the administration's commitment to equality and justice for all married couples. The changes reflect a broader effort to implement the Supreme Court's ruling, ensuring federal benefits are extended to same-sex couples nationwide. END OF SUMMARY.

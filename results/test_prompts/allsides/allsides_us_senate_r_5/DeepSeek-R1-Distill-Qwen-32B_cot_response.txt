@@ -1,0 +1,54 @@
+Alright, let me try to figure out how to approach this query. The user has provided a news article and wants a summary that preserves the moral framing. They also want me to identify the morally framed words first. 
+
+First, I need to understand what morally framed words are. These are words that carry a judgment or imply a moral stance, like "criticized," "deception," or "accountability." They reflect the author's moral perspective on the events.
+
+Looking at the article, it's about Senator Lindsey Graham delaying the confirmation of Obama's nominees until more information is provided about the Benghazi attacks. There are several moral implications here, such as accountability, transparency, and obstruction.
+
+I'll start by reading through the article to identify all the single words that are morally framed. Words like "criticized," "handling," "deception," "stonewalled," "unprecedented," "inappropriate," "accountability," "deception," "delayed," "denied," "deceived," "stonewalled," "account," "help," "confirm," "information," "accountable," "crisis," "block," "opposed," "support," "back," "action," "stop," "produce," "nuclear," "weapon," "dwell," "tragedy," "block," "unprecedented," "inappropriate."
+
+Next, I need to write a concise summary that includes as many of these words as possible. The summary should be under 200 words and reflect the moral framing. I'll structure it to highlight Graham's actions, the Republican opposition, and the Democratic response, ensuring the moral terms are included to convey the author's perspective.
+
+I should also make sure the summary flows logically, starting with Graham's suggestion, the context of the Benghazi attacks, his demands, the opposition from Democrats, and the broader implications of accountability and transparency.
+
+Finally, I'll double-check that all identified moral words are included and that the summary accurately reflects the article's content while preserving the moral framing.
+</think>
+
+### STEP 1:  
+* Criticized  
+* Handling  
+* Deception  
+* Stonewalled  
+* Unprecedented  
+* Inappropriate  
+* Accountability  
+* Deception  
+* Delayed  
+* Denied  
+* Deceived  
+* Stonewalled  
+* Account  
+* Help  
+* Confirm  
+* Information  
+* Accountable  
+* Crisis  
+* Block  
+* Opposed  
+* Support  
+* Back  
+* Action  
+* Stop  
+* Produce  
+* Nuclear  
+* Weapon  
+* Dwell  
+* Tragedy  
+* Block  
+* Unprecedented  
+* Inappropriate  
+
+---
+
+### SUMMARY:  
+Republican Sen. Lindsey Graham has demanded that President Obama’s nominees for CIA and Defense Secretary be held up until the White House provides a full accounting of its actions during the Benghazi attacks. Graham criticized the administration’s handling of the crisis, accusing it of delaying, denying, deceiving, and stonewalling. He vowed to block nominations until the White House answers questions about its response, including whether it contacted the Libyan government for assistance. Democrats, however, called Graham’s actions unprecedented and inappropriate, arguing that his focus on the tragedy to obstruct nominations is not appropriate. Meanwhile, other Republicans, like Sen. James Inhofe, have threatened to filibuster the Hagel nomination, raising concerns about his support for Israel and U.S. military action against Iran’s nuclear program. The debate highlights ongoing tensions over accountability and transparency in the wake of the Benghazi tragedy.  
+END OF SUMMARY.

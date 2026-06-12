@@ -1,0 +1,54 @@
+Alright, so I need to summarize this news article while preserving the moral framing, especially focusing on the dimensions of Authority/Subversion, Care/Harm, Fairness/Cheating, and Loyalty/Betrayal. Let me start by reading through the article to understand the key points.
+
+The article is about the House passing a $4.5 billion emergency aid package for border migrant families and children. It mentions that the bill passed with some resistance from progressives and Hispanic lawmakers, but eventually passed along party lines. The funding is meant for shelter, food, medical care, and legal assistance. There are concerns about the conditions in detention centers, reports of poor facilities, and the death of children in custody. The bill also includes measures to prevent funds from being used for the border wall or immigration enforcement. The White House threatens a veto, arguing that the bill doesn't support border security. There's a mention of a Republican attempt to get Trump to reject the Senate bill and demand more funding for enforcement. The urgency is high as agencies are running out of money, and there's pressure to pass the bill before the July 4 recess.
+
+Now, I need to identify the morally framed words. Let's go through the article again and pick out words related to the specified dimensions.
+
+- **Emergency aid**: This relates to Care/Harm, as it's about providing assistance.
+- **Humanitarian emergency**: Again, Care/Harm.
+- **Crucial funding**: Care/Harm.
+- **Cruel immigration policies**: Care/Harm.
+- **Tear apart families**: Care/Harm.
+- **Terrorize communities**: Care/Harm.
+- **Strategic safeguards**: Fairness/Cheating, ensuring funds are used correctly.
+- **Border wall funding**: Authority/Subversion, as it's about government control and policies.
+- **Detention beds**: Care/Harm, as it's about conditions and treatment.
+- **Partisan bills**: Fairness/Cheating, as it's about political division.
+- **Score political points**: Fairness/Cheating.
+- **Hard work of making law**: Fairness/Cheating, implying cooperation.
+- **Avoiding doing the hard work**: Fairness/Cheating.
+- **Harsh conditions**: Care/Harm.
+- **Die in custody**: Care/Harm.
+- **Triple capacity**: Care/Harm, indicating overcrowding.
+- **Veto threat**: Authority/Subversion, as it's about rejecting legislation.
+- **Border security**: Authority/Subversion.
+- **Immigration enforcement**: Authority/Subversion.
+
+Wait, I might have missed some. Let me go through the article again.
+
+- **Full-court press**: This is about Authority/Subversion, as it's an intense effort to get the bill passed.
+- **Mini-revolt**: Authority/Subversion, as it's internal dissent.
+- **Must-do legislation**: Authority/Subversion, indicating urgency and necessity.
+- **Presidential signature**: Authority/Subversion.
+- **Accusations of ignoring plight**: Care/Harm.
+- **Score political points**: Fairness/Cheating.
+- **Avoiding doing the hard work**: Fairness/Cheating.
+- **Harsh conditions**: Care/Harm.
+- **Die in custody**: Care/Harm.
+- **Triple capacity**: Care/Harm.
+- **Veto threat**: Authority/Subversion.
+- **Border security**: Authority/Subversion.
+- **Immigration enforcement**: Authority/Subversion.
+
+I think that's a comprehensive list. Now, for the summary, I need to incorporate as many of these moral terms as possible, focusing on the four dimensions. The summary should be concise, around 200 words, capturing the essence of the article while highlighting the moral aspects.
+
+I should start by stating the passage of the bill, mention the funding and its purpose (Care/Harm), the opposition and internal dissent (Authority/Subversion), the conditions in detention centers (Care/Harm), the threat of veto and political maneuvering (Authority/Subversion, Fairness/Cheating), and the overall urgency (Care/Harm, Authority/Subversion).
+
+I need to ensure that the summary flows well and includes the key moral elements without being too verbose. Let me draft it step by step, making sure each sentence touches on the relevant moral dimension.
+</think>
+
+**Summary:**
+
+The House passed a $4.5 billion emergency aid package to address the humanitarian crisis at the U.S.-Mexico border, providing crucial funding for migrant families and unaccompanied children. This bill, which passed along party lines, aims to improve Care/Harm by ensuring access to food, shelter, medical care, and legal assistance. However, it faced opposition from progressives and Hispanic lawmakers, reflecting internal dissent and Authority/Subversion within the party. The bill also includes measures to prevent funds from being used for a border wall or immigration enforcement, highlighting Fairness/Cheating by ensuring resources are allocated humanely.
+
+Conditions in detention centers, including overcrowding and inadequate facilities, have led to the death of children in custody, underscoring the urgent Care/Harm needs. The White House threatened a veto, arguing the bill lacks funding for border security, a move seen as Authority/Subversion and a rejection of bipartisan efforts. Despite these challenges, the bill's passage reflects a commitment to addressing the plight of migrants, though political maneuvering and partisanship continue to complicate the process. END OF SUMMARY.

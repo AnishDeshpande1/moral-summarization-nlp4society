@@ -1,0 +1,40 @@
+Alright, so I've got this query where the user wants me to summarize a news article while preserving the moral framing. They also want me to identify all the morally framed single words first. Hmm, okay, let's break this down.
+
+First, I need to understand the article. It's about anti-Semitic outbursts by celebrities like Ice Cube and DeSean Jackson, and the lack of strong response from the public and other figures. The author is concerned that this apathy contributes to a broader problem of social justice.
+
+Now, the user has specified two main steps. Step 1 is to identify all the single words that are morally framed. I should go through the article and pick out words that carry a moral judgment or connotation. Words like "hateful," "apathy," "discriminate," "prejudice," etc. These are terms that convey judgment or evaluation, so I'll list them each with an asterisk.
+
+Next, the summary. I need to condense the article into a concise summary, keeping the moral framing intact. That means using those identified words to maintain the original tone and message. I should focus on the key points: the celebrities' anti-Semitic comments, the muted response, the impact on social justice movements, and the author's call for solidarity against all forms of injustice.
+
+I also need to ensure the summary is under 200 words. I'll start by stating the main issue, mention the celebrities involved, the lack of outrage, and the consequences. Then, I'll include the reference to Billie Holiday's song and Martin Luther King Jr.'s quote to emphasize the message of unity and justice.
+
+I should also make sure the summary flows logically, connecting each point smoothly. Maybe start with the incidents, then the response, the implications, and end with the call to action. That way, it's clear and maintains the moral stance the article presents.
+
+Wait, did I miss any morally framed words? Let me quickly scan through the article again. Words like "apathy," "prejudice," "discriminate," "scapegoat," "oppression," "injustice," "freedom," "solidarity." Yep, those are all important and should be included in the summary.
+
+I think that's about it. I'll structure the summary to include these elements, ensuring it's concise and preserves the moral framing as per the user's request.
+</think>
+
+**STEP 1:**  
+* Hateful  
+* Perpetuates  
+* Racism  
+* Apatholypse  
+* Anti-Semitic  
+* Discriminate  
+* Cultural stereotypes  
+* Oppression  
+* Scapegoat  
+* Prejudice  
+* Dehumanizing  
+* Marginalized  
+* Emboldened  
+* Hate groups  
+* Injustice  
+* Freedom  
+* Solidarity  
+
+**SUMMARY:**  
+The article highlights the troubling rise of anti-Semitic statements by celebrities like Ice Cube, DeSean Jackson, and Chelsea Handler, as well as the lack of strong public condemnation. This muted response, or "meh-rage," is seen as contributing to an "Apatholypse," a growing apathy toward social justice. The author argues that such prejudice, when left unchecked, perpetuates racism and undermines movements like Black Lives Matter. Celebrities, with their platforms, have a responsibility to avoid spreading harmful stereotypes, as their words can influence millions. The article also critiques the Trump administration for exploiting anti-Semitic tropes, further emboldening hate groups. The lack of genuine contrition from those involved, including Ice Cube and Stephen Jackson, further exacerbates the problem. The author emphasizes that injustice against any group threatens justice for all, urging solidarity and outrage against all forms of oppression.  
+
+**END OF SUMMARY.**

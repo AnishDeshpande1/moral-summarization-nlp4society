@@ -1,0 +1,36 @@
+Alright, I need to help the user by summarizing the given news article while preserving the moral framing. Let me start by understanding the task.
+
+First, the user wants me to identify morally framed words related to specific dimensions: Authority/Subversion, Care/Harm, Fairness/Cheating, Loyalty/Betrayal. I'll go through the article and pick out words that fit these categories.
+
+Looking at the article, it's about the positive impact of immigrants on America. Words like "greatness," "shining city upon a hill," "bluster," "abuse," "surplus," "deficit," "crime," "bureaucratic," "convoluted," "underground," "public safety," "health risks," "pointless," "subsidized," "freedom," "opportunity," "American dream," "welcome," "disparage" come to mind. These words touch on the moral aspects mentioned.
+
+Next, I need to write a concise summary that includes these moral words. The summary should highlight the contributions of immigrants, the flaws in the current system, and the moral implications of policies like building a wall.
+
+I'll structure the summary by first stating the importance of immigrants, then addressing the criticisms and their flaws, followed by the consequences of strict policies, and finally emphasizing the need for a better system. I'll make sure to include the identified moral words to maintain the framing.
+
+Let me ensure the summary is under 200 words and flows naturally, connecting each point logically. I'll also check that the moral dimensions are clearly represented through the chosen words.
+</think>
+
+STEP 1:  
+* greatness  
+* shining city upon a hill  
+* bluster  
+* abuse  
+* surplus  
+* deficit  
+* crime  
+* bureaucratic  
+* convoluted  
+* underground  
+* public safety  
+* health risks  
+* pointless  
+* subsidized  
+* freedom  
+* opportunity  
+* American dream  
+* welcome  
+* disparage  
+
+SUMMARY:  
+Immigrants are the backbone of America's "greatness," contributing to its prosperity and identity. Contrary to anti-immigrant rhetoric, immigrants have built and sustained the nation, founding iconic companies like Budweiser and McDonald’s, as well as thousands of new businesses. Immigrants, regardless of status, introduce specialized skills and create millions of jobs. Critics often ignore these contributions, instead focusing on unfounded claims of abuse of social programs or crime. However, studies show undocumented immigrants pay more into Medicare than they receive, while native-born residents create a deficit. Similarly, native-born males are far more likely to commit crimes than foreign-born individuals. The real issue lies in the unnecessarily bureaucratic and convoluted U.S. citizenship process, which incentivizes unlawful alternatives and increases public safety and health risks. Rounding up 11 million undocumented immigrants is impractical, and calls for increased government spending, such as building a wall, are irresponsible. Immigrants, both documented and undocumented, come to the U.S. for freedom and opportunity. Native-born citizens and lawmakers should welcome them, not disparage them, as immigrants are what made America great in the past and will continue to make it great in the future. END OF SUMMARY.

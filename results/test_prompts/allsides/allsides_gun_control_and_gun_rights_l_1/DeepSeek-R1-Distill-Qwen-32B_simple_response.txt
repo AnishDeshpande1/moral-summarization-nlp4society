@@ -1,0 +1,18 @@
+Alright, so the user wants me to summarize a news article while preserving the moral framing. They mentioned that I'm a news summarizer and a moral expert. Let me break this down.
+
+First, I need to read the article carefully. It's from CNN and talks about mayors dealing with gun violence and mass shootings. The author, who's a mayor, discusses how cities are now known for memorials instead of monuments. He mentions specific cities like Las Vegas, Orlando, etc., and the responsibility mayors feel in the wake of these tragedies.
+
+The article also touches on the role of hate speech and the NRA's influence. The author emphasizes that mayors are taking action, especially focusing on young people's demands for change. There's a personal element too, with the author sharing family stories and how these cities are part of their heritage.
+
+Now, the user wants a summary that's no more than 200 words, ending with specific tokens. I need to make sure it captures the moral aspects, like the burden on mayors, the impact of hate and gun violence, and the hope from young people.
+
+I should start by highlighting the main points: the shift from monuments to memorials, mayors' responsibilities, the influence of hate speech and the NRA, and the actions being taken by mayors, especially involving youth. I also need to include the personal connection to emphasize the moral weight.
+
+I'll structure the summary to first introduce the issue, then the mayors' role, followed by the challenges they face, and conclude with the hope from young people and the author's personal stake.
+
+Let me check the word count as I draft to ensure it's concise. Also, I need to make sure the moral framing is clear, showing the burden and the proactive steps taken despite obstacles.
+
+Finally, I'll end with the required tokens to meet the user's formatting request.
+</think>
+
+SUMMARY: The article highlights the moral burden faced by mayors in addressing gun violence and mass shootings, emphasizing the tragic normalization of such events in American cities. The author, a mayor, reflects on the responsibility of leading communities in the wake of hate-driven violence, noting the failure of federal leadership and the NRA's influence. Mayors are taking proactive steps, particularly by empowering young people to advocate for gun safety and confront hate speech. The author shares personal family stories, connecting their heritage to the cities affected by violence, and underscores the importance of involving youth in efforts to build a safer nation. The moral framing centers on the need for courage, unity, and a collective commitment to ending gun violence and intolerance, ensuring a future where everyone feels safe and belongs. END OF SUMMARY.

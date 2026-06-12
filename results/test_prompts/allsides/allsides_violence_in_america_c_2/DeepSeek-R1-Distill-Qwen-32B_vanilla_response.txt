@@ -1,0 +1,14 @@
+Okay, so the user wants me to summarize a news article about the El Paso shooting. Let me read through the article first. It's about Patrick Crusius being indicted for capital murder after the mass shooting that killed 22 people. He's targeting Mexicans, and there's a manifesto involved. The article also mentions other shootings around the same time and the political reactions, especially regarding gun control and immigration.
+
+I need to make sure the summary is concise, under 200 words. I should include the main points: who Crusius is, the charges, the manifesto, the targeting of Mexicans, the political reactions, the other shootings, and the debate over gun control. Also, mention that Texas is seeking the death penalty and that Crusius's lawyers are fighting it.
+
+I should structure it so each sentence covers a key point without getting too detailed. Maybe start with the indictment, then the manifesto, the impact on the community, the other shootings, and the political responses. I'll keep each sentence short and to the point to stay within the word limit.
+
+Wait, I should also note that the shootings happened in August, and the indictment was in September. Also, the fact that Crusius drove from Texas to El Paso, which is a border city with a large Hispanic population. The survivors' vigils and the hate crime possibility are important too.
+
+I think I have all the key points. Now, I'll put them together in a logical flow, making sure each sentence transitions smoothly and covers the essential information without unnecessary details. Let me check the word count as I go to ensure it's under 200.
+</think>
+
+SUMMARY:  
+Patrick Crusius, 21, has been indicted for capital murder in connection with the August 3 mass shooting at a Walmart in El Paso, Texas, which left 22 dead. Crusius, who targeted Mexicans, surrendered to police and allegedly confessed to the attack. Prosecutors seek the death penalty, while his defense vows to use "every legal tool" to prevent execution. Crusius, who authored a manifesto blaming the "Hispanic invasion of Texas," drove over 10 hours from his hometown near Dallas to carry out the attack. Most victims had Hispanic last names, and eight were Mexican nationals. Federal prosecutors are considering hate-crime charges. The shooting, part of a series of mass shootings in August, reignited debates over gun control and immigration. Texas Gov. Greg Abbott has opposed new gun-control measures, while Democrats and gun-control advocates criticize his recommendations as insufficient. Survivors have held vigils, and Crusius remains in isolation on suicide watch.  
+END OF SUMMARY.

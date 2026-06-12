@@ -1,0 +1,25 @@
+Alright, I need to help the user by summarizing the given news article while preserving the moral framing. First, I should identify the morally framed words. Let me read through the article again.
+
+The article talks about the VA stopping the use of hydroxychloroquine, which is an unproven drug. Words like "unproven," "hope," "dangers," "justified," "caution," "wishful thinking," "rushed," "backlash," "lack of transparency," "ethics," and "public trust" stand out as morally charged.
+
+Next, I need to write a concise summary. I'll start by stating that the VA has almost stopped using the unproven drug. I should mention that it was initially used to give hope but later reduced due to studies showing dangers. Also, the influence of President Trump's promotion of the drug is important. I'll include the shift to remdesivir and the criticism from Rep. Lowey about following scientific guidance. Finally, I'll note the FDA's warnings and the VA's commitment to science and transparency.
+
+I need to ensure the summary is under 200 words and includes the morally framed words identified. I'll structure it to flow logically, starting with the decision, reasons behind it, criticism, and the current stance.
+</think>
+
+**STEP 1:**  
+* Unproven  
+* Hope  
+* Dangers  
+* Justified  
+* Caution  
+* Wishful thinking  
+* Rushed  
+* Backlash  
+* Lack of transparency  
+* Ethics  
+* Public trust  
+
+**SUMMARY:**  
+The Department of Veterans Affairs (VA) has nearly halted the use of hydroxychloroquine, an unproven malaria drug, for treating COVID-19 in veterans. Initially, the VA used the drug to give patients hope, given limited treatment options. However, as studies highlighted potential dangers and alternative treatments like remdesivir emerged, prescriptions dropped significantly, to just three in the last week. VA Secretary Robert Wilkie defended the initial use but emphasized learning from the crisis, stating the VA’s mission is to preserve and protect life. The decision drew criticism from Rep. Nita Lowey, who urged the VA to follow scientific guidance from Dr. Anthony Fauci rather than the "wishful thinking" of President Trump. The VA has shifted to remdesivir, with preliminary studies showing reduced recovery times. Hydroxychloroquine, which lacks rigorous scientific backing and can cause serious side effects, is now only used in clinical trials, as per FDA warnings. The VA’s handling of the drug has faced backlash over a lack of transparency and ethical concerns, highlighting the importance of adhering to scientific evidence and public trust.  
+**END OF SUMMARY.**

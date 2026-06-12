@@ -1,0 +1,16 @@
+Okay, so the user wants me to summarize a news article while preserving the moral framing. They provided the article and a list of morally framed words. I need to make sure I include as many of those words as possible in the summary without making it too long—under 200 words.
+
+First, I'll read through the article to understand the main points. It's about 14 Wisconsin parents suing a school district over a policy allowing students to use preferred gender identities without notifying parents. The policy was announced in 2018, and the lawsuit argues it violates constitutional rights related to parental involvement and religious freedom.
+
+Next, I'll identify the key morally framed words from the list provided. Words like "allowing," "notifying," "prohibits," "vindicate," "violated," "policy," "transition," "interferes," etc., are important to include.
+
+I'll structure the summary to include the main elements: who is suing, the reason (policy allowing gender identity without notification), the constitutional arguments, and the stance of the school district. I need to make sure each of these points uses the morally charged words appropriately.
+
+I should also keep the summary concise. I'll start by stating the lawsuit, then explain the policy, the arguments against it, and the district's response. I'll make sure each sentence incorporates the necessary moral language without making it sound forced.
+
+Let me draft a version and check the word count. If it's over, I'll trim any unnecessary details while keeping the moral framing intact.
+
+Finally, I'll ensure the summary starts with "SUMMARY:" and ends with "END OF SUMMARY." as instructed.
+</think>
+
+SUMMARY: A group of 14 Wisconsin parents has filed a lawsuit against the Madison Metropolitan School District (MMSD) over its policy allowing students to use their preferred gender identity and pronouns without notifying parents. The lawsuit, filed by conservative law firm WILL, argues that the policy violates parents' constitutional right to direct their children's upbringing and raises concerns about hiding children's gender struggles from their families. The policy, announced in 2018, enables students to transition socially at school without parental consent, while legally changing a child's name requires parental approval. The parents claim the policy interferes with their ability to guide their children through life-altering decisions and violates religious freedom, as they believe gender is binary as intended by God. The district defends its commitment to affirming students' gender identities but has not yet responded to the lawsuit. END OF SUMMARY.

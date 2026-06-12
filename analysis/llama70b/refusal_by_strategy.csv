@@ -1,0 +1,9 @@
+strategy,total,ok,refusal,format_miss,no_summary,refusal_safety,refusal_moderation,refusal_rate,unusable_rate
+vanilla,213,213,0,0,0,0,0,0.0,0.0
+simple,213,213,0,0,0,0,0,0.0,0.0
+cot,214,214,0,0,0,0,0,0.0,0.0
+oracle,214,214,0,0,0,0,0,0.0,0.0
+simple_fewshot,214,209,0,5,0,0,0,0.0,0.0
+cot_fewshot,213,213,0,0,0,0,0,0.0,0.0
+simple_fewshot_mft,214,213,0,1,0,0,0,0.0,0.0
+cot_fewshot_mft,214,214,0,0,0,0,0,0.0,0.0

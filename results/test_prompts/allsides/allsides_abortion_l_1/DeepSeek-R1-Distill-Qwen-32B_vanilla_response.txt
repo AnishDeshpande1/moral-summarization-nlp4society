@@ -1,0 +1,16 @@
+Alright, so I'm trying to help this user who wants a summary of a news article. The user provided the article and specified that the summary should be after a "SUMMARY:" token and end with "END OF SUMMARY." It also needs to be no longer than 200 words.
+
+First, I need to read through the article to understand the main points. The article is about Planned Parenthood and the ACLU suing Alabama over a near-total abortion ban. The law is designed to challenge Roe v. Wade, with strict restrictions and severe penalties. The lawsuit argues the law is unconstitutional and disproportionately affects black and low-income individuals. There's also context about other states introducing similar abortion restrictions.
+
+I should identify the key elements: who is suing, the reason behind the law, the specifics of the ban, the legal arguments, and the broader context of other states' actions. I need to condense this into a concise summary without exceeding 200 words.
+
+I'll start by stating that the lawsuit was filed over Alabama's abortion ban, which aims to challenge Roe v. Wade. Then mention the restrictions, such as allowing abortions only for serious health risks and no exceptions for rape or incest. Highlight the penalties for providers. Next, explain the legal arguments about the law being unconstitutional and its impact on specific groups. Finally, add the context about other states introducing similar laws but none in effect yet.
+
+I should ensure the summary flows logically and covers all critical points without unnecessary details. Also, I need to make sure it's within the word limit. Let me check the word count after drafting to confirm.
+
+Okay, I think I've got all the essential information. Time to put it together clearly and concisely.
+</think>
+
+SUMMARY:  
+Planned Parenthood and the ACLU have sued Alabama over its near-total abortion ban, which prohibits abortions except in cases of serious health risks to the mother, with no exceptions for rape or incest. The law, designed to challenge Roe v. Wade, imposes up to 99 years in prison for providers performing abortions. The lawsuit, filed in U.S. district court, argues the law is unconstitutional and disproportionately harms Black and low-income individuals, who make up a significant majority of abortion seekers in Alabama. The plaintiffs, including Planned Parenthood Southeast and three abortion clinics, aim to prevent the law from taking effect. The case is part of a broader trend of states introducing restrictive abortion laws, with over 350 such measures proposed this year. None of these laws are currently in effect, and abortion remains legal nationwide.  
+END OF SUMMARY.

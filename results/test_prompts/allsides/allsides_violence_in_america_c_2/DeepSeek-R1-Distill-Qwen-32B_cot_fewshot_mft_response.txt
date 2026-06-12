@@ -1,0 +1,40 @@
+Alright, I need to help the user summarize the given news article while preserving the moral framing. The user provided examples, so I should follow that structure. 
+
+First, I'll read through the article to understand the main points. It's about Patrick Crusius being indicted for a mass shooting at a Walmart in El Paso. The article mentions the impact on the community, the legal proceedings, and the political implications, especially regarding immigration and gun control.
+
+Next, I need to identify the morally framed words focusing on Authority/Subversion, Care/Harm, and Fairness/Cheating. I'll go through the article and pick out words that fit these categories. For example, "massacre" relates to Care/Harm, "indictment" to Authority/Subversion, and "discrimination" to Fairness/Cheating.
+
+Once I have the list, I'll write the summary. I need to make sure it's concise, around 200 words, and includes the key moral elements. I'll start by stating the indictment, mention the attack details, the legal actions, the community's reaction, and the political debates sparked by the shooting.
+
+I should ensure that the summary reflects the moral dimensions highlighted, such as the harm caused, the authority's role in the legal process, and the fairness issues related to immigration rhetoric. I'll also touch on the broader impact on gun control debates and the political responses.
+
+Finally, I'll review the summary to make sure it flows well and accurately represents the article's moral framing without adding any personal opinions or extra information.
+</think>
+
+### STEP 1:
+* Massacre
+* Indictment
+* Capital murder
+* Death penalty
+* Execution
+* Discrimination
+* Invasion
+* Division
+* Violence
+* Hate crime
+* Background checks
+* Gun control
+* Safety
+* Justice
+* Prosecution
+* Rhetoric
+* Targeting
+* Isolation
+* Vigil
+* Mistakes
+* Insufficient
+
+---
+
+### SUMMARY:
+Patrick Crusius, 21, has been indicted for capital murder in connection with the August 3 mass shooting at a Walmart in El Paso, Texas, which left 22 dead. Prosecutors are seeking the death penalty for Crusius, who allegedly targeted Mexicans and authored a screed blaming the "Hispanic invasion of Texas." The attack has reignited debates over gun control and immigration, with critics linking the rhetoric to President Trump's divisive statements on immigration. Survivors and the community have held vigils, while Crusius remains isolated in jail on suicide watch. The shooting, part of a series of mass shootings last month, has fueled calls for stricter gun laws and accountability. Texas Gov. Greg Abbott has resisted calls for new gun-control measures, instead focusing on voluntary background checks, a stance criticized as insufficient by Democrats and gun-control advocates. The case highlights the intersection of violence, rhetoric, and justice in a deeply divided nation. END OF SUMMARY.

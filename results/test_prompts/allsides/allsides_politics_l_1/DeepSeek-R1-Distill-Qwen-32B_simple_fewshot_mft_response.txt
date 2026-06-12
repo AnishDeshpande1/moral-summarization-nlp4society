@@ -1,0 +1,17 @@
+Alright, I need to summarize the given news article while preserving the moral framing related to the specified dimensions: Authority/Subversion, Care/Harm, Fairness/Cheating, and Loyalty/Betrayal. 
+
+First, I'll read through the article to understand the main points. Mattis is criticizing Trump for dividing the country, which relates to Loyalty/Betrayal. He contrasts this with the unity shown during the Normandy invasion, emphasizing the importance of unity. 
+
+Next, Mattis talks about the military's role and how Trump's actions, like using troops for photo ops, undermine the apolitical nature of the military, which ties into Authority/Subversion. 
+
+He also expresses concern about the erosion of trust between the military and civilians, which is a Care/Harm issue because it affects the well-being of society. 
+
+Lastly, Mattis criticizes the militarization of responses to protests, highlighting a failure in leadership and fairness, as it's the responsibility of civilian leaders to maintain order, which touches on Fairness/Cheating.
+
+I'll structure the summary to include these points, ensuring each moral foundation is addressed clearly and concisely.
+</think>
+
+SUMMARY:  
+Defense Secretary Jim Mattis, in a public statement, criticizes President Donald Trump for failing to unite the American people and instead dividing the nation, a violation of the principle of "In Union there is Strength." Mattis contrasts Trump's divisive leadership with the unity shown during the Normandy invasion, emphasizing the moral duty to reject division. He condemns the militarization of responses to protests, such as the use of troops for photo ops, as a betrayal of the military's apolitical nature and a threat to the trust between soldiers and civilians. Mattis highlights the importance of civilian leaders maintaining public order and warns against eroding the moral bond between the military and society. His statement reflects a deep concern for the erosion of unity, fairness, and loyalty, as well as the subversion of authority and care for citizens.  
+
+END OF SUMMARY.

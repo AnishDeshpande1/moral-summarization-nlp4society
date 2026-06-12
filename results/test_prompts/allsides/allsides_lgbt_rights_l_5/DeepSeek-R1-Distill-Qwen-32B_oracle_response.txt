@@ -1,0 +1,13 @@
+Alright, I need to help the user by summarizing the given news article while preserving the moral framing. First, I'll read through the article to understand the main points. It's about the Obama administration expanding benefits to same-sex spouses following the Supreme Court's decision on DOMA.
+
+The user mentioned that the assistant is a news summarizer and a moral expert, so I should focus on the moral implications. The article uses words like "available," "open," "access," "equally," "deserve," and "respect." These words highlight the moral aspects of equality and justice.
+
+I need to condense the article into a summary under 200 words. I'll start by identifying key events: the overturning of DOMA, the benefits now available, and the administration's commitment to equality. I should include quotes from Obama and Holder to emphasize the moral stance.
+
+I'll structure the summary to mention the benefits, the administration's actions, and the broader implications. I must ensure that the morally framed words are included to maintain the author's tone. I'll avoid technical jargon and keep the language clear and concise.
+
+Finally, I'll check the word count and make sure the summary flows logically, highlighting the moral progress and the administration's proactive steps. I'll ensure that the summary ends with a positive note about the meaningful changes brought by the ruling.
+</think>
+
+SUMMARY:  
+The Obama administration has expanded federal benefits to same-sex spouses, following the Supreme Court's overturning of a key provision of the Defense of Marriage Act (DOMA). Same-sex spouses of federal employees can now access benefits such as health insurance, retirement accounts, and vision care, mirroring those available to heterosexual couples. The Office of Personnel Management (OPM) emphasized that legally married same-sex couples will have equal access to these benefits, regardless of their state of residence. President Obama expressed his belief that couples married in one state should be treated as married in all 50 states, while the administration works on the legalities. Attorney General Eric Holder praised the move, stating that same-sex couples are entitled to equal treatment under the law. The changes reflect a critical step toward implementing the Supreme Court's landmark decision, ensuring that all married couples—gay and straight—are treated equally. These updates aim to make a meaningful, positive difference in the lives of federal employees and their families, aligning with the administration's commitment to justice and equality. END OF SUMMARY.

@@ -1,0 +1,42 @@
+Alright, I need to help the user with their query. They provided a detailed news article and specific instructions on how to process it. Let me break it down.
+
+First, the user wants me to act as a news summarizer and moral expert. They have two main tasks: identify morally framed words and write a summary preserving those words.
+
+Looking at the article, it's about Trump's decision to hold a convention during the pandemic. The author uses strong moral language, so I need to extract those words. I'll go through each sentence, pick out words that carry a moral judgment. Words like "reckless," "selfish," "reprehensible," etc., stand out.
+
+Next, I need to summarize the article, keeping as many of these words as possible. The summary should be concise, under 200 words. I'll focus on the main points: Trump's intent, the consequences, Biden's criticism, and the moral implications.
+
+I should ensure the summary flows well and includes the key moral terms. I'll structure it to highlight Trump's self-absorption, the risks, and Biden's opposing viewpoint.
+
+Finally, I'll make sure to format the response correctly, starting with STEP 1 for the words and then the SUMMARY section. Keeping everything clear and within the word limit is important.
+
+I think I've covered all the user's requirements. Time to put it all together.
+</think>
+
+**STEP 1:**  
+* Selfish  
+* Reckless  
+* Disregarding  
+* Outshone  
+* Out-polled  
+* Insult  
+* Dangerous  
+* Recklessness  
+* Macho  
+* Folly  
+* Falsely masculine  
+* Stoking death  
+* Vanity  
+* Endanger  
+* Vulnerable  
+* Torment  
+* Missing a step  
+* Missing something  
+* False bravado  
+* Schoolyard bully  
+* Unaccountable  
+* Election thrashing  
+
+**SUMMARY:**  
+The article critiques President Trump's decision to hold a Republican convention during the pandemic, highlighting his self-absorbed and reckless behavior. Trump's intent to shift blame or create a political fight is seen as morally reprehensible, as it endangers thousands of people, including his own supporters. Former Vice President Joe Biden condemns Trump's actions, calling them selfish, dangerous, and falsely masculine, while accusing him of stoking death. Trump's refusal to wear a mask and insistence on holding the convention are criticized as reckless and unconcerned for the vulnerable. Biden contrasts Trump's behavior with the qualities of responsible adulthood, labeling it false bravado and the conduct of a schoolyard bully. Trump's actions are seen as a display of vanity and recklessness, further alienating voters and risking a political defeat.  
+**END OF SUMMARY.**

@@ -1,0 +1,18 @@
+Okay, so the user has given me a query where they want me to summarize a news article, preserving the moral framing. They also mentioned that I should act as a news summarizer assistant and a moral expert. 
+
+First, I need to understand the article. It's about the Trump administration sending troops to the US-Mexico border in response to a migrant caravan. The key points are the deployment of troops, the intention not to shoot migrants, the apprehension plan, the political context, and the moral implications.
+
+I should focus on the moral aspects. The article highlights the humanitarian crisis, the government's use of fear for political gain, and the migrants' desperation. I need to make sure these elements are included in the summary.
+
+The user wants the summary after "SUMMARY:" and ending with "END OF SUMMARY." It should be under 200 words. I'll need to condense the information without losing the moral framing.
+
+I'll start by outlining the main points: troop deployment, intention not to shoot, apprehension, political strategy, migrants' situation, and the moral issues involved. Then, I'll craft a concise summary that ties these together, emphasizing the ethical concerns and the government's approach.
+
+I should also ensure that the summary is clear and flows well, avoiding any markdown as per the instructions. Keeping it within the word limit is crucial, so I'll need to be concise but comprehensive.
+
+Finally, I'll review the summary to make sure it captures the moral framing accurately and stays within the required length. That should fulfill the user's request effectively.
+</think>
+
+SUMMARY:  
+Homeland Security Secretary Kirstjen Nielsen stated that American soldiers deployed to the US-Mexico border have "no intention" of shooting migrants attempting to cross, though all will be apprehended. The Trump administration is sending 800 active-duty troops to the border, a move tied to the president's strategy to exploit immigration fears for political gain ahead of the midterm elections. The caravan, primarily Honduran migrants fleeing violence and poverty, has grown to around 7,000 people but faces challenges, including dwindling numbers due to hardships. Trump has framed the caravan as a national emergency, using it to promote anti-immigration rhetoric and accuse Democrats of supporting illegal immigration. Migrants, however, remain focused on seeking a better future for their families, with many unaware of the political storm their journey has sparked. The government is also considering denying asylum applications, a move likely to face legal challenges. Nielsen emphasized the safety of border agents, acknowledging their authority to use force in self-defense. The situation highlights the humanitarian crisis and the moral implications of the administration's hardline approach.  
+END OF SUMMARY.

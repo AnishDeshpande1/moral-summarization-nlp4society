@@ -1,0 +1,33 @@
+Alright, so I need to summarize this news article about Chicago's spike in homicides and gun violence. The user wants me to focus on the moral framing, specifically the dimensions of Authority/Subversion, Care/Harm, and Fairness/Cheating. 
+
+First, I'll read through the article to understand the key points. It's about how Chicago had a record number of homicides in 2016, more than New York and LA combined. The main factors seem to be the influx of illegal guns, the emboldening of criminals due to perceived leniency from the criminal justice system, and the impact of the Laquan McDonald shooting video on police behavior and public trust.
+
+Now, I need to identify the morally framed words. Looking through the article, words like "sobering," "staggering," "spike," "emboldened," "deterrent," "joke," "arrests," "justice," "fair," "scrutinized," "opportunity," and "nefarious" stand out. These relate to the moral dimensions mentioned.
+
+Next, I'll structure the summary. I should start by stating the record number of homicides and shootings. Then, mention the factors contributing to the violence, like the increase in illegal guns and the impact of the McDonald shooting. I need to highlight how the police's caution and the criminal justice system's leniency have emboldened criminals. Also, the lack of deterrent and the perception that the system is a "joke" ties into Fairness/Cheating.
+
+I should ensure the summary is concise, around 200 words, and includes as many of the identified moral words as possible. I'll make sure to connect each point back to the moral dimensions to preserve the author's framing.
+
+Let me put this together step by step. Start with the statistics, then the causes, the impact on police behavior, the public trust issue, and the systemic problems. Make sure each sentence ties into the moral aspects without getting too technical.
+
+I think that's a solid approach. Time to draft the summary accordingly.
+</think>
+
+### STEP 1:  
+* Sobering  
+* Staggering  
+* Spike  
+* Emboldened  
+* Deterrent  
+* Joke  
+* Arrests  
+* Justice  
+* Fair  
+* Scrutinized  
+* Opportunity  
+* Nefarious  
+
+---
+
+### SUMMARY:  
+Chicago ended 2016 with a sobering record of 762 homicides, the highest in two decades, and 3,550 shooting incidents, marking a staggering increase compared to 2015. The surge in violence, particularly in poor, predominantly black neighborhoods, has been linked to the influx of illegal guns and a perceived lack of deterrent against gun crime. Police Superintendent Eddie Johnson noted that criminals feel emboldened, as they see little consequence for their actions, with gang members even describing the criminal justice system as "a joke." The spike in violence has also been tied to public outrage over police shootings, such as the fatal shooting of Laquan McDonald, which has made officers more cautious and criminals more emboldened to commit nefarious acts. The city has scrambled to address the crisis, but systemic issues, including lenient gun laws and a decline in arrests, have exacerbated the problem, leaving Chicago at the center of a national dialogue on gun violence and justice. END OF SUMMARY.

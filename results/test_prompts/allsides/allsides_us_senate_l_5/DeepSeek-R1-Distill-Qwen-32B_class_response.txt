@@ -1,0 +1,12 @@
+Alright, I need to help the user by summarizing the given news article while preserving the moral framing. The user has specified that I should use the morally framed words provided by the author. Let me start by reading the article carefully to understand the context and the key points.
+
+The article discusses a bill proposed by Democrats to address pay discrimination against women. Republicans oppose it, arguing it benefits trial lawyers and burdens employers. The author uses words like "discrimination," "ahead," "wanting," etc., which I need to include in the summary.
+
+I should identify the main elements: the bill's purpose, Republican opposition, the political context, and the reactions from both sides. I'll need to condense this into a concise summary, ensuring that the moral framing words are retained.
+
+I should structure the summary to first introduce the bill and its supporters, then outline the opposition's stance, and conclude with the ongoing efforts to pass the bill. Keeping it under 200 words is crucial, so I'll focus on the most impactful points.
+
+Now, I'll draft the summary, making sure to incorporate the moral terms and maintain the essence of the article's narrative.
+</think>
+
+SUMMARY: A Democratic bill aimed at combating gender-based pay discrimination was blocked by Republicans, who argued it would reward trial lawyers at employers' expense. The measure, which failed to reach the required 60 votes, would have closed loopholes in the 1963 Equal Pay Act, requiring employers to prove pay differences were job-performance related and allowing women to sue for discrimination. Democrats criticized Republicans for prioritizing politics over women's rights, while Republicans accused the bill of being an overreach that would burden employers with costly lawsuits. Senate Majority Leader Harry Reid accused Republicans of ignoring the issue, while Sen. Mike Enzi called the bill a "trial lawyers bonanza." Moderate Republican Sen. Olympia Snowe also opposed the bill, calling it "regrettable." Democrats, led by Sen. Barbara Mikulski, vowed to reintroduce the measure until it passes. END OF SUMMARY.

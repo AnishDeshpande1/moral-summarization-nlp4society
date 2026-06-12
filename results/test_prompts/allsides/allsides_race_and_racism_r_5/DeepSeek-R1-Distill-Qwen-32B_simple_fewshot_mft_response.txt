@@ -1,0 +1,18 @@
+Alright, I need to summarize the given news article while preserving the moral framing related to Authority/Subversion, Care/Harm, and Fairness/Cheating. Let me break down the article and identify the key points that align with these moral foundations.
+
+The article starts with President Obama addressing the recent events involving police shootings of black males and the retaliatory attack in Dallas. He urges optimism and unity, which touches on Care/Harm by emphasizing the importance of not letting a few actions define the entire nation. This shows a focus on care and preventing harm by promoting unity.
+
+Next, Obama mentions the task force he's reviving, which includes police and community activists. This relates to Fairness/Cheating as it aims to address systemic issues and ensure fair treatment, particularly in law enforcement. The task force's goal is to find solutions that balance police authority with community trust, which ties into Authority/Subversion by addressing how power is used and perceived.
+
+Obama also discusses the decrease in violent crime, which is a Care/Harm aspect, showing progress in reducing harm. He calls for reducing racial tension and making it harder for people to act on anger with weapons, which again ties into Care/Harm by preventing violence.
+
+The mention of gun laws and armed protesters highlights the Fairness/Cheating dimension, as it addresses the need for equitable policies that prevent harm without infringing on rights. Obama's emphasis on the importance of addressing gun issues to protect both communities and police officers ties into both Care/Harm and Authority/Subversion.
+
+Overall, the summary should reflect Obama's emphasis on unity, addressing systemic issues through collaboration, and the importance of fair policies to reduce harm and maintain trust in authority.
+</think>
+
+SUMMARY:
+
+President Obama addressed the nation’s racial tensions following recent police shootings of black males and the Dallas sniper attack, urging unity and optimism. He emphasized that the U.S. has not regressed to the 1960s level of racial conflict and highlighted progress in reducing violent crime. Obama revived a task force to address police-community relations, involving police, civil rights activists, and others. He called the Dallas sniper and the Orlando shooter "demented individuals," asserting they do not represent the American people. Obama also linked gun violence to racial tensions, advocating for measures to prevent such acts. He acknowledged the challenges faced by police in gun-filled communities and stressed the need for sensible gun laws to protect both officers and citizens. Obama’s remarks focused on fostering unity, addressing systemic issues, and reducing racial tensions through collaborative efforts and fair policies.
+
+END OF SUMMARY.

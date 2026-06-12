@@ -1,0 +1,13 @@
+Alright, I need to help the user by summarizing the given news article while preserving the moral framing. Let me start by reading the article carefully to understand the key points.
+
+The article discusses the debate over the government's role in disaster response, specifically in the context of Hurricane Sandy. President Obama emphasizes federal government assistance, while Mitt Romney supports local and voluntary efforts. The moral framing here is about responsibility and effectiveness—Obama's approach is seen as necessary for large-scale issues, while Romney's focuses on community initiative but risks underfunding crucial services.
+
+I should highlight the contrast between the two leaders' positions. It's important to mention that Romney doesn't dismiss government entirely but advocates for decentralization. Also, the article notes that states like New Jersey praise the federal response, which supports Obama's stance. However, the Republican perspective is cautious about federal spending, pointing out the budgetary implications.
+
+I need to keep the summary concise, under 200 words, and ensure it captures the moral debate without bias. I'll structure it to first present Obama's federal approach, then Romney's local and voluntary methods, followed by the implications and the states' responses. This way, the summary maintains the original moral framing about the responsibilities and effectiveness of different levels of government in disaster relief.
+</think>
+
+SUMMARY:  
+President Obama emphasized the federal government's role in disaster relief during Hurricane Sandy, offering support and resources to affected communities. He highlighted the importance of a centralized approach, stating, "America's with you," and promising to remove bureaucratic obstacles to aid. In contrast, Mitt Romney advocated for local and voluntary efforts, using a parable to stress individual responsibility and decentralized action. Romney argued that disaster relief should be pushed back to states and the private sector, though he acknowledged federal involvement remains necessary.  
+
+Despite Republican concerns about federal spending, states like New Jersey praised the federal response, with Gov. Chris Christie thanking Obama and FEMA for their effectiveness. The article underscores the moral debate over whether federal intervention or local initiative is more effective in disaster recovery. Obama will continue advocating for federal involvement, touring Sandy-affected areas to emphasize his administration's commitment. END OF SUMMARY.

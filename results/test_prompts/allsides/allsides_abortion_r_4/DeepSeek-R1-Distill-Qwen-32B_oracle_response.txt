@@ -1,0 +1,20 @@
+Okay, so I need to help the user by summarizing the given news article while preserving the moral framing. The user provided the article and a list of morally framed words. My task is to create a concise summary using those words as much as possible.
+
+First, I'll read through the article to understand the main points. It's about the abortion laws in Alabama and New York, the political reactions, and the moral arguments surrounding them. The author discusses how both extremes are extreme, referencing President Trump's statements and the reactions from Democrats and the media.
+
+I notice that the author uses words like "pushing," "allowing," "execution," and "distortion" to frame the issue morally. My summary needs to include these terms to maintain the moral perspective.
+
+I'll start by identifying the key events: Alabama's near-total abortion ban, New York's liberalization, and the political strategies behind them. I should mention how both laws are seen as extreme by the public, as indicated by polling data.
+
+Next, I'll incorporate the moral language. For example, President Trump is "pushing" late-term abortion, which is "allowing" extreme procedures. The author criticizes the media for "distorting" and "exaggerating" the issue, highlighting the polarization.
+
+I should also touch on the legal implications, like how Roe v. Wade is seen as a "heavy-handed intervention" and how states are reacting by passing laws that might challenge this precedent.
+
+Finally, I'll conclude by noting the political divide and the need for compromise, using terms like "compromise" and "polarizing" to emphasize the ongoing conflict.
+
+I need to keep the summary under 200 words, so I'll make sure each sentence is concise and only includes the most important points. I'll structure it to flow logically, starting with the laws, moving to the reactions, and ending with the implications and call for compromise.
+
+Let me draft this step by step, ensuring I include all necessary moral terms and maintain the author's framing.
+</think>
+
+SUMMARY: The article examines the moral and political framing of abortion laws in Alabama and New York, highlighting extreme positions on both sides. President Trump criticized Democrats for "pushing" late-term abortions, describing it as "allowing children to be ripped from their mother’s womb," a claim labeled a "distortion" and "exaggeration." Democrats and the media accused Trump of "lying," while the author notes that Virginia governor Ralph Northam’s comments were misinterpreted. Tran’s "legislation" in Virginia, which would have allowed late-term abortions, was part of a trend in liberal states to loosen abortion laws, though it ultimately did not pass. Meanwhile, Alabama’s near-total abortion ban is seen as "unconstitutional" under Roe v. Wade, but its sponsors aim to challenge the precedent with the court’s new conservative majority. The author argues that Roe v. Wade "imposed" a permissive abortion regime, polarizing the debate and leading to "extreme" positions. Polling shows most Americans support "compromise," but parties remain "responsive" to activists, leading to "polarizing" rhetoric. The media’s focus on Alabama’s "ban" over New York’s "liberalization" reflects its bias, while the author suggests overturning Roe could allow states to "reflect" majority opinions, though the "political passion" may persist. END OF SUMMARY.

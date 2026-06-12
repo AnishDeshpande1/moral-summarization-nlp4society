@@ -1,0 +1,65 @@
+Okay, so I need to help summarize this news article about the Republican immigration bill. The user provided examples of how to extract moral words and then create a summary preserving those moral framings. Let me break this down step by step.
+
+First, I'll read through the article to understand the main points. It's about a Republican immigration bill that's supposed to end family separation, but the author argues it doesn't. The bill removes protections that prevent indefinite detention of families, which the Trump administration has been using to separate children from parents. The Flores agreement, which limits how long children can be detained, is being overturned by this bill. The bill allows for indefinite detention of families, which the administration wants to do instead of separating them.
+
+Now, I need to identify the morally framed words related to Authority/Subversion, Care/Harm, and Fairness/Cheating. Let me go through the article again and pick out those words.
+
+- "Lying": This is a moral word under Fairness/Cheating.
+- "Separating": This relates to Care/Harm, as it's about the harm done to families.
+- "Prosecute": This is about authority and possibly subversion.
+- "Illegal": Fairness/Cheating, as it's about breaking the law.
+- "Loopholes": Fairness/Cheating, implying the system is being exploited.
+- "Forcing": Authority/Subversion, as it's about imposing actions.
+- "Indefinitely": This could relate to Care/Harm, as it's about prolonged detention.
+- "Detain": Authority/Subversion, as it's about confinement.
+- "Held": Similar to detain, under Authority/Subversion.
+- "Railed": Fairness/Cheating, as it's about criticizing the system.
+- "Disappear": Care/Harm, as it's about the negative impact on individuals.
+- "Prosecuting": Again, Authority/Subversion.
+- "Ultimately": Not a moral word, so I'll skip.
+- "Essentially": Not a moral word.
+- "Jails": Care/Harm, as it's about confinement and harm.
+- "Months": Not a moral word.
+- "Years": Not a moral word.
+- "Legal status": Fairness/Cheating, as it's about rights and fairness.
+- "Deported": Care/Harm, as it's about the consequences of immigration enforcement.
+
+Wait, I think I might have missed some. Let me check again. The article mentions "lied," "separating," "prosecute," "illegal," "loopholes," "forcing," "indefinitely," "detain," "held," "railed," "disappear," "prosecuting," "jails," "deported." So those are the moral words.
+
+Now, for the summary. I need to make sure it's concise, under 200 words, and includes the moral words identified. The summary should highlight that the Republican bill doesn't actually end family separation but allows indefinite detention, which is a shift in authority and causes harm by detaining families longer. It also touches on fairness by removing legal protections.
+
+I'll start by stating that the Republican bill claims to end family separation but actually allows indefinite detention. Mention the Flores agreement being overturned, the removal of legal protections, and how this shifts from separation to prolonged detention. Highlight the moral implications of authority, care, and fairness.
+
+Let me draft that:
+
+"The Republican immigration bill claims to end family separation at the border but actually allows the Trump administration to indefinitely detain families together in ICE custody. The bill overturns the Flores agreement, which previously required children to be released without unnecessary delay and kept in the least restrictive conditions. By removing these protections, the bill gives the administration the authority to detain families indefinitely, effectively shifting from separating families to detaining them together in harsh conditions. This move raises concerns about fairness, as it removes legal safeguards meant to protect vulnerable children and families. The bill's provisions enable prolonged detention, which could result in families being held in jail-like facilities for months or years, causing significant harm to their well-being."
+
+I think that covers the main points and includes the moral words. Let me check the word count. It's around 150 words, so that's good. I included "authority," "fairness," "protections," "harsh," "harm," "well-being." Wait, "harsh" and "well-being" weren't in the extracted words, but they fit the moral framing. Maybe I should stick strictly to the extracted words. Let me adjust:
+
+"The Republican immigration bill claims to end family separation at the border but actually allows the Trump administration to indefinitely detain families together in ICE custody. The bill overturns the Flores agreement, which previously required children to be released without unnecessary delay and kept in the least restrictive conditions. By removing these protections, the bill gives the administration the authority to detain families indefinitely, effectively shifting from separating families to detaining them together. This move raises concerns about fairness, as it removes legal safeguards meant to protect vulnerable children and families. The bill's provisions enable prolonged detention, which could result in families being held in facilities for months or years, causing significant harm."
+
+That's better, using the extracted words more accurately.
+</think>
+
+The Republican immigration bill claims to end family separation at the border but actually allows the Trump administration to indefinitely detain families together in ICE custody. The bill overturns the Flores agreement, which previously required children to be released without unnecessary delay and kept in the least restrictive conditions. By removing these protections, the bill gives the administration the authority to detain families indefinitely, effectively shifting from separating families to detaining them together. This move raises concerns about fairness, as it removes legal safeguards meant to protect vulnerable children and families. The bill's provisions enable prolonged detention, which could result in families being held in facilities for months or years, causing significant harm.
+
+**Moral Words Identified:**
+- Lying
+- Separating
+- Prosecute
+- Illegal
+- Loopholes
+- Forcing
+- Indefinitely
+- Detain
+- Held
+- Railed
+- Disappear
+- Prosecuting
+- Jails
+- Deported
+
+**Summary:**
+The Republican immigration bill claims to end family separation at the border but actually allows the Trump administration to indefinitely detain families together in ICE custody. The bill overturns the Flores agreement, which previously required children to be released without unnecessary delay and kept in the least restrictive conditions. By removing these protections, the bill gives the administration the authority to detain families indefinitely, effectively shifting from separating families to detaining them together. This move raises concerns about fairness, as it removes legal safeguards meant to protect vulnerable children and families. The bill's provisions enable prolonged detention, which could result in families being held in facilities for months or years, causing significant harm.
+
+END OF SUMMARY.

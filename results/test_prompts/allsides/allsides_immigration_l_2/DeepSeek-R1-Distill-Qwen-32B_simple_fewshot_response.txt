@@ -1,0 +1,21 @@
+Okay, so I need to summarize this news article about Chicago's new ordinance regarding ICE. The user provided examples of summaries that preserved the moral framing, so I should follow that approach. 
+
+First, I'll read through the article to understand the main points. It's about Chicago passing an ordinance to restrict ICE's access to police databases and assistance. The mayor is proud of supporting immigrant communities and sees this as a step towards protecting them. The article mentions that ICE arrests in the Chicago area dropped because of this lack of cooperation. 
+
+I notice the moral framing here is about protecting immigrants and maintaining community trust. The article emphasizes that ICE has been used politically against immigrants, which is a negative action. Chicago's stance is portrayed as a positive effort to uphold values of inclusion and safety.
+
+I need to make sure the summary includes the key elements: the ordinance's provisions, the impact on ICE arrests, the moral stance against ICE's actions, and the support for immigrant communities. I should keep it concise, under 200 words, and maintain the moral perspective presented in the article.
+
+Let me structure this: start with the announcement of the ordinance, its provisions, the impact on ICE, the reason behind it (protecting immigrants), and the broader moral statement about immigration policy.
+
+I should avoid any bias beyond what's presented. The article clearly states that Chicago's actions are good because they protect immigrants and prevent fear in the community. So the summary should reflect that positive framing.
+
+I also need to include that the ordinance doesn't hinder law enforcement for serious crimes, which is an important point to balance the narrative.
+
+Putting it all together, the summary should highlight Chicago's proactive stance, the specific measures taken, the positive impact on the community, and the criticism of ICE's role under the current administration.
+</think>
+
+SUMMARY:  
+Chicago has passed a new ordinance to bolster protections for its immigrant and refugee communities, restricting ICE's access to police databases and assistance. The ordinance codifies previous executive actions, ensuring ICE cannot use CPD resources for immigration enforcement unless under rare, special circumstances. This move follows a significant drop in ICE arrests in the Chicago area in 2019, attributed to local officials' refusal to cooperate with ICE. The city's leadership, including Mayor Lori Lightfoot, emphasizes the importance of protecting immigrant families and maintaining community trust, while criticizing the federal government for politicizing ICE and targeting immigrants. The ordinance aligns with Chicago's long-standing commitment to being a "Welcoming City," promoting unity, inclusion, and equity. It underscores the principle that immigration policy should prioritize welcoming newcomers rather than fostering fear. Chicago's actions reflect a moral stance against demonizing immigrants and aim to ensure the city remains a safe and inclusive home for all.  
+
+END OF SUMMARY.

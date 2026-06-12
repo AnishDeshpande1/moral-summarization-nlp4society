@@ -1,0 +1,28 @@
+Okay, so I need to help the user summarize a news article while preserving the moral framing. The user provided examples, so I should follow that structure. 
+
+First, I need to identify the morally framed words in the article. The user mentioned focusing on Authority/Subversion, Care/Harm, and Fairness/Cheating. Let me read through the article again.
+
+The article talks about the Trump administration sending troops to the border, using emergency powers, denying asylum, and the impact on migrants. Words like "apprehended," "force," "deny," "emergency," "protection," "justice," "fairness," "humanitarian," "rights," "opportunity," and "citizenship" stand out as morally charged. I'll list these under STEP 1.
+
+Next, the summary needs to include these words while highlighting the moral dimensions. I should mention the deployment of troops, the intention not to shoot but to apprehend, the use of emergency powers to deny asylum, and the criticism about fairness and humanitarian concerns. Also, include the migrants' perspective and their hope for a better future.
+
+I need to make sure the summary is concise, under 200 words, and captures the key moral points without getting bogged down in details. I'll structure it to first state the administration's actions, then the moral criticisms, and finally the migrants' situation.
+
+Let me put it all together, ensuring each morally framed word is included and the summary flows logically.
+</think>
+
+### STEP 1:
+* apprehended
+* force
+* deny
+* emergency
+* protection
+* justice
+* fairness
+* humanitarian
+* rights
+* opportunity
+* citizenship
+
+### SUMMARY:
+Homeland Security Secretary Kirstjen Nielsen stated that American soldiers have "no intention" of shooting migrants attempting to cross into the U.S. from Mexico, but they will be "apprehended." The Trump administration plans to deploy 800 active-duty troops to the southern border, as part of a strategy to address a caravan of Central American migrants. Nielsen emphasized the safety of border agents, noting they have the "ability of force to defend themselves." The government is considering using emergency powers to deny asylum applications, a move that would likely face legal challenges. Trump has framed the caravan as a "National Emergency," using it to rally his base and criticize Democrats as "pro-illegal immigration." Migrants, many fleeing poverty and violence, have expressed a desire for a better future for their children, calling for a more "humanitarian" approach. Those who reach the U.S. border can claim asylum, but the process is lengthy and uncertain. END OF SUMMARY.

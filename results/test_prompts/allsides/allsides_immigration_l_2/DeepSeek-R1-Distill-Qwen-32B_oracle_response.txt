@@ -1,0 +1,18 @@
+Okay, so I need to summarize this news article while preserving the moral framing the author used. The user provided a list of morally framed words, so I should make sure to include as many of those as possible in the summary. The summary needs to be concise, around 200 words, and start with "SUMMARY:" and end with "END OF SUMMARY."
+
+First, I'll read through the article to understand the main points. It's about Chicago's efforts to protect immigrants by restricting ICE's access to local databases and assistance. They've passed an ordinance to codify these protections, which has led to a decrease in ICE arrests. The author emphasizes values like support, protection, and inclusion, while criticizing the federal government for demonizing immigrants.
+
+I should highlight the key actions Chicago took, such as prohibiting ICE access, establishing reporting requirements, and providing legal guidance. Also, mention the positive impact on community trust and the criticism of the federal administration's policies.
+
+I need to incorporate the morally framed words like "support," "protected," "prohibit," "establish," "provide," "safe," "protected," "demonized," "welcoming," etc. I'll structure the summary to first state the problem, then Chicago's response, the impact, and the moral stance against federal actions.
+
+Let me draft a few sentences, making sure to include the key points and the moral language. I'll check the word count to ensure it's under 200 words.
+
+Wait, the user also provided an example response. I should look at that to see how they structured it and which words they included. That example is helpful for understanding the expected format and the inclusion of moral terms.
+
+I think I have a good outline now. I'll start by stating the decrease in ICE arrests due to Chicago's policies, then explain the ordinance, its provisions, the impact on ICE's operations, and the moral critique of federal actions. I'll make sure to use the specified moral words to frame the summary appropriately.
+
+Let me put it all together, ensuring it flows well and stays within the word limit. I'll review to include as many of the listed moral terms as possible without making it sound forced.
+</think>
+
+SUMMARY: Chicago has taken significant steps to protect its immigrant and refugee communities, enacting an ordinance to prohibit ICE from accessing local databases and seeking police assistance for immigration enforcement. This move, which codifies previous executive actions, aims to safeguard residents and maintain community trust. ICE's reduced arrest numbers in Chicago highlight the city's resistance to federal policies, which the author criticizes for demonizing immigrants. The ordinance ensures legal protections and education for immigrants, while emphasizing values of inclusion, equity, and unity. By prioritizing the well-being of its diverse population, Chicago reaffirms its commitment to being a welcoming city, countering federal actions that foster fear and division. END OF SUMMARY.

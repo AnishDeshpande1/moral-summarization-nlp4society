@@ -1,0 +1,18 @@
+Alright, I need to summarize the given news article while preserving the moral framing. The user has provided examples, so I should follow that structure. First, I'll identify the morally framed words from the article. The article talks about federal benefits for same-sex spouses, which relates to fairness and equality. Words like "expand," "respect," "protection," "equal," "discrimination," "equality," and "discriminate" stand out. These are tied to fairness and care.
+
+Next, I'll craft a summary that includes these words, focusing on how the Obama administration is expanding benefits to ensure equal treatment. I should mention the benefits available, like health insurance and retirement accounts, and note that the administration is working on the legal aspects to make this happen nationwide. Highlighting the positive impact on families and the administration's commitment to fairness and equality will be key.
+
+I need to keep the summary concise, under 200 words, and make sure it flows naturally. I'll start by stating the main action, then detail the benefits, address the state law issue, and conclude with the administration's commitment. I'll avoid jargon and ensure the moral dimensions are clear.
+</think>
+
+### STEP 1:
+* expand
+* respect
+* protection
+* equal
+* discrimination
+* equality
+* discriminate
+
+### SUMMARY:
+The Obama administration has announced that same-sex spouses of federal employees can now access benefits such as health insurance and retirement accounts, following the Supreme Court’s overturning of a key provision of the Defense of Marriage Act. The Office of Personnel Management (OPM) issued guidance ensuring that legally married same-sex couples have the same access to benefits as heterosexual couples, including health, life, dental, vision, and long-term care insurance. While the memo does not explicitly address couples living in states where their marriage is not recognized, OPM emphasizes that benefits will be available to all legally married couples, regardless of their state of residence. President Obama expressed his belief that couples married in one state should be treated as married in all 50 states, while the administration works on the legal implementation. Attorney General Eric Holder praised the expansion, stating that it reflects the administration’s commitment to equal treatment and respect for all families. The changes aim to make a meaningful, positive difference in the lives of many, ensuring fairness and equality under federal law. END OF SUMMARY.

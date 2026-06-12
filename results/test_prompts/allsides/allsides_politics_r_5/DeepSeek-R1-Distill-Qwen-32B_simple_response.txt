@@ -1,0 +1,12 @@
+Alright, let me break down how I approached this query. The user wants a summary of a news article, preserving the moral framing. First, I read through the article to understand the key points. It's about George Papadopoulos, a Trump campaign adviser, who cooperated with Mueller's investigation.
+
+I need to make sure the summary captures the moral aspects. The article discusses Papadopoulos lying to the FBI and his role as a cooperator. I should highlight his cooperation and its implications, like possibly wearing a wire, which is a significant step in the investigation.
+
+I also need to keep it concise, under 200 words. I'll start by stating Papadopoulos's role as a cooperator, mention his plea deal, and his potential use of a wire. I'll include the speculation from experts and the White House's response to show the broader implications.
+
+Finally, I'll structure the summary to flow logically, ensuring it's clear and within the word limit. I'll make sure to end with the required tokens to meet the user's formatting needs.
+</think>
+
+SUMMARY:  
+George Papadopoulos, a former Trump campaign adviser, has been described as a "proactive cooperator" in federal investigations, suggesting he may have worn a wire to assist Robert Mueller's team. Papadopoulos pleaded guilty to lying to the FBI about his contacts with Russians and acknowledged arranging meetings between the Trump campaign and Russian officials. Prosecutors requested court filings be sealed to protect his role as a cooperator. Legal experts speculate Papadopoulos may have recorded conversations with Trump associates, significantly advancing the investigation. The White House dismissed Papadopoulos's role, denying collusion with Russia. His cooperation has sparked widespread speculation about its impact on Mueller's probe.  
+END OF SUMMARY.

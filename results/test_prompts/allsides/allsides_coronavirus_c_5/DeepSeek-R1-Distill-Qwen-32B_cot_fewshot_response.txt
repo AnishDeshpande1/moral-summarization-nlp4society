@@ -1,0 +1,26 @@
+Alright, I need to help the user by summarizing a news article while preserving the moral framing. Let me start by understanding the task. The user provided examples of how to extract morally framed words and create summaries. My job is to apply the same method to the target article.
+
+First, I'll read the target article carefully. It's about the VA stopping the use of hydroxychloroquine on veterans with COVID-19. The key points are that the drug was initially used but later reduced as studies showed potential dangers. President Trump promoted it, but the VA is now relying on other treatments like remdesivir. There's also criticism from a congresswoman about the VA not listening to scientific advice early on.
+
+Now, I need to identify the morally framed words. Looking for words that carry ethical or evaluative connotations. From the article, words like "unproven," "hope," "dangers," "benefit," "died," "surged," "wishful thinking," "science," and "risks" stand out. These words highlight the ethical considerations in using the drug.
+
+Next, I'll summarize the article, making sure to include these moral terms. I should mention the VA's decision to stop using the drug, the initial justification for hope, the reduction in prescriptions, the criticism from Trump's promotion, and the shift to more effective treatments. Also, include the congresswoman's rebuke about following science instead of wishful thinking.
+
+I need to keep the summary concise, under 200 words, and ensure it flows naturally while preserving the moral framing. I'll structure it by starting with the VA's action, then the initial use, the reduction, the criticism, and the current stance on using the drug only in clinical trials based on scientific advice.
+
+Let me put it all together, making sure each morally framed word is included and the summary accurately reflects the article's content and ethical implications.
+</think>
+
+### STEP 1:
+* unproven
+* hope
+* dangers
+* benefit
+* died
+* surged
+* wishful thinking
+* science
+* risks
+
+### SUMMARY:
+The Department of Veterans Affairs (VA) has all but stopped using the unproven malaria drug hydroxychloroquine on veterans with COVID-19, as studies pointed to possible dangers and other treatments emerged. VA Secretary Robert Wilkie defended the initial use of the drug as a way to "give them hope" but acknowledged that its use has been significantly reduced, with only three prescriptions in the last week. President Donald Trump's promotion of the drug without scientific evidence has faced criticism, particularly from Rep. Nita Lowey, who urged the VA to follow the science and guidance of Dr. Anthony Fauci, rather than "wishful thinking." The VA has shifted to using treatments like remdesivir, which has shown reduced recovery time, and convalescent plasma. Hydroxychloroquine is now expected to be used only in limited clinical trials, as no large, rigorous studies have proven its safety or effectiveness for COVID-19. END OF SUMMARY.

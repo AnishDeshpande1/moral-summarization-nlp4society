@@ -1,0 +1,20 @@
+Alright, I need to summarize this article about the rise of a new generation protesting against racial injustice in America. The user wants a concise summary, no longer than 200 words, and it should be returned after the "SUMMARY:" token and end with "END OF SUMMARY."
+
+First, I'll read through the article to understand the main points. The author reflects on their experiences in the civil rights movement, like the 1960 library protest. They compare it to the current movement sparked by George Floyd's murder. The article mentions the progress made in the 60s, such as the Public Accommodations Act and Voting Rights Act, but notes that racism and systemic issues persist. The new generation's protests are larger and more widespread, with significant white participation. The author believes this movement has the potential to bring about significant change despite facing resistance.
+
+I need to capture these key points: the comparison between past and present movements, the progress and remaining issues, the scale of current protests, and the potential for change. I'll structure the summary to first mention the comparison, then the historical context, the current movement's scale, and conclude with the hope for change.
+
+I should make sure the summary is within 200 words and flows naturally. I'll avoid including too many specific details to keep it concise. Also, I need to ensure that the summary starts and ends with the specified tokens.
+
+Let me draft the summary:
+
+The article reflects on the inspiring rise of a new generation protesting racial injustice in America, drawing parallels to the civil rights movement of the 1960s. The author recounts their participation in the 1960 Greenville Library protest, highlighting the persistence of segregation despite legal progress. The movement achieved significant milestones like the Public Accommodations Act and Voting Rights Act but failed to eliminate systemic racism. Today's protests, sparked by George Floyd's murder, are the largest in U.S. history, with widespread participation, including record white involvement. Despite facing resistance, the author believes this new generation has the potential to drive transformative change, echoing the moral force of past movements.
+
+Now, I'll check the word count. It's around 150 words, so it's well within the limit. I'll make sure it starts with "SUMMARY:" and ends with "END OF SUMMARY."
+
+I think this captures the essence of the article without going into too much detail, making it suitable for a news summary.
+</think>
+
+SUMMARY:  
+The article reflects on the inspiring rise of a new generation protesting racial injustice in America, drawing parallels to the civil rights movement of the 1960s. The author recounts their participation in the 1960 Greenville Library protest, highlighting the persistence of segregation despite legal progress. The movement achieved significant milestones like the Public Accommodations Act and Voting Rights Act but failed to eliminate systemic racism. Today's protests, sparked by George Floyd's murder, are the largest in U.S. history, with widespread participation, including record white involvement. Despite facing resistance, the author believes this new generation has the potential to drive transformative change, echoing the moral force of past movements.  
+END OF SUMMARY.

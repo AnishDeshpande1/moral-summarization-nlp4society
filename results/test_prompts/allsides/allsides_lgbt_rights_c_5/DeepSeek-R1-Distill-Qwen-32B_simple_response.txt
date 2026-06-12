@@ -1,0 +1,18 @@
+Alright, so I'm trying to figure out how to summarize this news article. The user wants a summary that preserves the moral framing the author gave. The article is about Obama's administration dealing with the Proposition 8 case regarding same-sex marriage. 
+
+First, I need to understand the key points. The Obama team is making a decision on whether to support or oppose Proposition 8, which bans same-sex marriage in California. This is a significant legal and political issue because it could set a precedent for other states. 
+
+The article mentions that the administration is expected to file a brief, but the content is undecided. There are several legal arguments they could take, ranging from a broad constitutional right to marry to more limited arguments based on California's specific circumstances. 
+
+I also notice that Obama's stance has evolved over time. Initially, he believed the issue should be left to the states, but later he suggested a more federal approach, comparing it to interracial marriage rights. This shift is important because it reflects a change in perspective on the moral and legal implications.
+
+The moral framing here is crucial. The case isn't just about legal technicalities but about fundamental rights and equality. The article highlights that the administration's stance will be symbolic, affecting public perception and the broader societal debate on same-sex marriage.
+
+I should also consider the implications of the decision. If the administration argues for a constitutional right, it could invalidate laws in many states. However, they might take a more cautious approach to avoid a broad ruling. The fact that the state isn't defending the law adds another layer, questioning the standing of the initiative's sponsors.
+
+In the summary, I need to capture these elements: the legal and political dilemma, the possible arguments, Obama's evolving stance, and the moral symbolism of the decision. It's important to convey that this isn't just a legal case but a significant moment in the fight for equality and civil rights.
+
+I should make sure the summary is concise, around 200 words, and clearly highlights the moral and legal aspects without getting bogged down in too many details. I'll structure it to first present the situation, then the possible arguments, followed by the implications and the symbolic importance.
+</think>
+
+SUMMARY: The Obama administration faces a significant moral and legal dilemma as it prepares to file a brief in the Proposition 8 case, which challenges California's ban on same-sex marriage. The case raises questions about whether same-sex couples have a constitutional right to marry, a decision that could invalidate similar laws in over 30 states. While the administration could argue for a broad constitutional right to marry, it might instead take a narrower approach, such as focusing on California's history of granting and then revoking the right to marry for same-sex couples. President Obama's evolving stance on the issue—initially supporting state-level decisions but later suggesting a more federal approach—adds complexity. The administration's decision is not only legally significant but also morally symbolic, reflecting broader societal debates about equality and civil rights. END OF SUMMARY.

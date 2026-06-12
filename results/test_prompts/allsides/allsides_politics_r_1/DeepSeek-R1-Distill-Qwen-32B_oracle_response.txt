@@ -1,0 +1,14 @@
+Alright, so I'm trying to help this user who wants a news summary that preserves the moral framing from the original article. The user provided the article and the specific morally framed words they want included. 
+
+First, I need to read through the article to understand the main points. It's about President Trump threatening to regulate or close down social media companies he accuses of silencing conservative voices. Twitter added fact-check labels to his tweets, which upset him. There's also mention of a court case and tech companies' responses. 
+
+Next, I should identify the key morally framed words: censoring, silence, regulate, close, censor, freedom, violating. I need to make sure these words are included in the summary without changing their context.
+
+I'll start by outlining the main events: Trump's threat, Twitter's fact-check labels, the court case, Zuckerberg's comment, and the ACLU's stance. Then, I'll weave in the moral terms naturally. For example, Trump is censoring by threatening to regulate or close platforms, which he claims is about freedom.
+
+I also need to keep the summary under 200 words, so I'll be concise but include all necessary points. I'll make sure the summary flows logically, starting with Trump's threat, moving through the reactions, and ending with the broader implications.
+
+Finally, I'll double-check that all the moral words are included and that the summary accurately reflects the article's tone and content.
+</think>
+
+SUMMARY: President Donald Trump has threatened to regulate or close down social media companies he accuses of silencing conservative voices, following Twitter's decision to tag his tweets with fact-check warnings. Trump's strongest threat yet comes amid a broader conservative backlash against Big Tech, with shares of Twitter and Facebook falling. The dispute highlights concerns over censorship, freedom of speech, and the role of online platforms in shaping public discourse. Trump claims tech companies are conspiring to suppress conservative views, while tech leaders argue against government interference, citing the First Amendment and the importance of open platforms. The American Civil Liberties Union has warned that Trump's actions could violate constitutional rights. Meanwhile, a court upheld the dismissal of a lawsuit accusing Google, Facebook, Twitter, and Apple of anti-conservative bias. Zuckerberg has criticized the idea of government censorship, while Twitter and other platforms continue to grapple with balancing misinformation and free expression. END OF SUMMARY.

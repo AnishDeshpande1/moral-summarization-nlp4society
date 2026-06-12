@@ -1,0 +1,12 @@
+Alright, so the user wants me to summarize a news article while preserving the moral framing. They provided the article and a list of morally framed words. I need to make sure the summary includes as many of those words as possible without exceeding 200 words.
+
+First, I'll read through the article to understand the main points. The House passed a $4.5 billion aid package for migrants, despite some internal resistance. Pelosi managed to quell a mini-revolt among progressives. The bill includes funds for shelter, food, and medical care, and it blocks money for the border wall. The Senate is considering a different bill, and there's a threat of veto from Trump. There are reports of poor conditions in detention centers, which adds urgency.
+
+Now, I'll identify the key morally framed words to include: quelled, mini-revolt, prevent, emergency, ensure, care, provide, assistance, protecting, shelter, feed, mandate, standards, block, policies, tear, terrorize, raids, veto, failure, ignoring, aid, housed, died, overwhelmed, establish, assist, treatment.
+
+I need to structure the summary to include these words naturally. I'll start by mentioning the passage of the bill, Pelosi's role, the funding details, the opposition, the urgency due to conditions, and the political implications.
+
+I should make sure the summary flows well and covers all critical aspects without being too lengthy. Let me draft it, ensuring each sentence incorporates the moral framing words appropriately.
+</think>
+
+SUMMARY: The House passed a $4.5 billion emergency border aid package, after House Speaker Nancy Pelosi quelled a mini-revolt by progressives and Hispanic lawmakers. The bill aims to prevent a humanitarian emergency by ensuring care for migrant families and unaccompanied children, providing shelter, food, medical care, and legal assistance. It mandates improved standards for children in influx shelters and blocks funding for Trump's border wall. Pelosi emphasized protecting families and ensuring funds are used for humanitarian needs, not raids or detention beds. The bill faced opposition from Republicans, with the Senate proposing a different measure. Three moderates supported the House bill, while four Democratic freshmen voted no. The White House threatened a veto, arguing the bill hampers border security. Urgency grew as reports of dire conditions in detention centers, including overcrowding and child deaths, highlighted the need for action. The legislation aims to establish new care standards and ensure adequate assistance for migrants. END OF SUMMARY.

@@ -1,0 +1,30 @@
+Alright, I need to help the user by summarizing a news article while preserving the moral framing. The user provided examples, so I should follow that structure. First, I'll read the target article carefully to understand the context and the moral dimensions involved.
+
+The article is about Republicans confronting Rep. Adam Schiff, the chairman of the House Intelligence Committee, over his claims of Trump-Russia collusion. They're demanding his resignation because they don't trust his ability to perform his duties. Schiff, on the other hand, is defending his actions, citing various contacts between Trump associates and Russians, though he hasn't found any direct collusion. Mueller's report didn't find collusion either, but Schiff continues to investigate.
+
+Now, I need to identify the morally framed words. Looking through the article, I see words like "conspiracy," "false," "abuse," "corrupt," "scare tactics," "McCarthyism," "hoax," "unpatriotic," "immoral," "unethical," and "deception." These words relate to Authority/Subversion, Fairness/Cheating, Loyalty/Betrayal, and Sanctity/Degradation.
+
+Next, I'll write the summary, making sure to include these moral terms. I'll start by stating that Republicans accused Schiff of promoting a false narrative, which ties into Fairness/Cheating. They mention his actions as an abuse of power, which is Authority/Subversion. Schiff counters by listing contacts but without proof, which could relate to Sanctity/Degradation as he's accusing Trump of immorality and corruption.
+
+I should also include the comparison to McCarthyism, highlighting Loyalty/Betrayal and Sanctity/Degradation. The mention of the Steele dossier as a hoax ties into Fairness/Cheating and Sanctity/Degradation. The debate over the integrity of the committee and government institutions touches on Authority/Subversion and Loyalty/Betrayal.
+
+I need to keep the summary concise, around 200 words, and ensure it captures the moral framing accurately. I'll structure it to first present the Republicans' accusations, then Schiff's defense, and the broader implications of the debate.
+
+Let me put it all together, making sure each moral dimension is represented and the key points are covered without exceeding the word limit.
+</think>
+
+**STEP 1:**  
+* conspiracy  
+* false  
+* abuse  
+* corrupt  
+* scare tactics  
+* McCarthyism  
+* hoax  
+* unpatriotic  
+* immoral  
+* unethical  
+* deception  
+
+**SUMMARY:**  
+Republicans on the House Intelligence Committee accused Chairman Adam Schiff of promoting a "false narrative" about Trump-Russia collusion, urging his resignation due to a lack of faith in his ability to discharge his duties. Schiff defended himself by listing contacts between Trump associates and Russians, though he provided no evidence of coordination in election interference. The special counsel, Robert Mueller, found no collusion, but Schiff continued to investigate, claiming "significant evidence of collusion." Republicans criticized Schiff for "abusing his power" and "misrepresenting classified information," likening him to Sen. Joseph McCarthy, who engaged in McCarthyism by falsely accusing individuals of disloyalty. Schiff, however, argued that Trump's associates' interactions with Russians were "immoral," "unethical," and "unpatriotic," calling them "corrupt." Republicans dismissed his claims as "deception" and accused him of advancing a "hoax" through the Christopher Steele dossier, which Mueller rejected. The debate over Schiff's integrity and the committee's role in overseeing intelligence operations highlighted ongoing divisions over loyalty, fairness, and the sanctity of government institutions. END OF SUMMARY.

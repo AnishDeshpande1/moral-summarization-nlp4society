@@ -1,0 +1,18 @@
+Okay, I need to summarize the given news article while preserving the moral framing as per the user's instructions. Let me start by reading the article carefully.
+
+The article is about Republicans confronting Rep. Adam Schiff, the chairman of the House Intelligence Committee, for his claims of Trump-Russia collusion. They demanded his resignation because they have no faith in his ability to discharge his duties. Schiff defended himself by listing contacts between Trump associates and foreign individuals but couldn't provide evidence of coordination with Russia. The Republicans pointed out that Mueller's investigation found no collusion. Schiff, however, insists on continuing his probe, claiming it's about whether Trump or his associates were compromised by a foreign power. Pelosi supports Schiff, while Republicans liken him to McCarthy, accusing him of promoting a false narrative and damaging the committee's integrity.
+
+Now, I need to capture the key points and the moral framing. The moral framing seems to be from a right-leaning perspective, as seen in the examples provided. The summary should highlight that Republicans are accusing Schiff of promoting a false narrative, while Schiff and Democrats argue he's pursuing accountability. I should maintain the tone that reflects the right's perspective, emphasizing the Republicans' stance against Schiff's actions.
+
+I'll structure the summary by first stating the confrontation, then Schiff's defense, the Republican arguments, and the moral framing about the integrity of the committee and the investigation.
+
+I should keep it concise, under 200 words, and make sure to include the essential elements without getting bogged down in details. Also, I need to ensure that the moral framing is preserved, showing the conflict between Schiff's investigation and the Republican accusations of a false narrative.
+
+Let me draft the summary step by step, ensuring each key point is included and the tone aligns with the right-leaning perspective.
+</think>
+
+SUMMARY:
+
+Republicans on the House Intelligence Committee have demanded Rep. Adam Schiff's resignation, accusing him of promoting a false narrative about Trump-Russia collusion despite Special Counsel Robert Mueller's findings. Schiff, who has reopened the probe, defended his stance by listing contacts between Trump associates and foreign individuals but failed to provide evidence of coordination with Russia. Republicans argue that Mueller's conclusion of no collusion undermines Schiff's claims and that his actions have damaged the committee's integrity. Schiff, however, insists on continuing the investigation, asserting it is about whether Trump or his associates were compromised by a hostile foreign power. House Speaker Nancy Pelosi supports Schiff, while Republicans liken him to Sen. Joseph McCarthy, accusing him of abusing his power and promoting false information. The moral framing reflects a conflict between Schiff's pursuit of accountability and Republican claims of a politically motivated witch hunt.
+
+END OF SUMMARY.

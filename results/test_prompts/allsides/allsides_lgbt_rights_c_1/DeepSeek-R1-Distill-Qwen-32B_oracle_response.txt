@@ -1,0 +1,19 @@
+Alright, I need to help the user by summarizing the given news article while preserving the moral framing. First, I should understand the article's content. It's about Julie Berman, a trans rights activist in Toronto, who was murdered. The article discusses her activism, the context of violence against the trans community, and the reactions from her friends and organizations.
+
+The user has specified that the summary should include as many morally framed words as possible. They provided a list, so I need to ensure those terms are included where appropriate. The summary should be concise, under 200 words, and structured to highlight the moral aspects.
+
+I'll start by identifying the key points: Julie's murder, her activism, the statistics on violence against trans people, the community's response, and the broader context of violence. I need to weave in words like "murdered," "transphobia," "violence," "vulnerable," etc., to maintain the moral tone.
+
+I should also mention the study about trans people facing violence and the community's efforts to support each other. Ending with a reflection on the need for awareness and solidarity ties it all together.
+
+Now, putting it all together in a coherent, concise summary that hits all the main points and uses the specified moral language.
+</think>
+
+SUMMARY:  
+Julie Berman, a Toronto trans rights activist, was murdered on Dec. 22, 2019, in an incident that mirrored the transphobia and violence she had long fought against. At a 2017 Trans Day of Remembrance event, Julie had spoken about the murder of a trans friend, only for the same fate to befall her two years later. Her friend, Davina Hader, described the tragedy as "heartbreaking," noting that Julie’s activism had urged her community to remain vigilant. Julie, a hairdresser and long-time community advocate, had struggled to survive while advocating for LGBTQ+ inclusion.  
+
+Toronto police charged Colin Harnack with her murder. The suspect is not a known member of the LGBTQ+ community. Julie’s death highlights the alarming rates of violence against trans individuals, as highlighted by a 2015 study showing 20% of Ontario’s trans people had been physically or sexually assaulted for being trans. Olivia Nuamah, executive director of Pride Toronto, emphasized that violence remains a part of life for many trans people, particularly those who are vulnerable.  
+
+Since 2017, Toronto’s trans community has faced three violent deaths, including Julie’s. Her murder serves as a stark reminder of the ongoing challenges and threats faced by trans individuals. Julie’s activism and commitment to her community will be deeply missed, leaving a legacy of advocacy and resilience.  
+
+END OF SUMMARY.

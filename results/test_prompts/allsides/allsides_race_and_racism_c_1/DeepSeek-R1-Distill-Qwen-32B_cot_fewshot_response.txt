@@ -1,0 +1,60 @@
+Okay, so I'm trying to figure out how to approach this task. The user wants me to summarize a news article while preserving the moral framing that the author provided. They also want me to extract all the morally framed single words from the article. 
+
+First, I need to understand what "morally framed words" are. From the examples given, it looks like these are words that carry a strong moral or ethical connotation. Words like "traitorous," "heroic," "injustices," etc., which evoke feelings of right and wrong, justice, or social issues.
+
+Looking at the target article about John Lewis, I should go through it and pick out all the words that fit this category. I'll need to be careful to only include single words and not phrases. 
+
+Once I have all those words, I need to write a summary that includes as many of them as possible without making the summary too long. The summary should capture the essence of the article, focusing on the moral aspects highlighted by the author.
+
+I should also make sure that the summary flows naturally and doesn't just list the moral words. The goal is to preserve the author's moral framing, so the summary should reflect the same tone and emphasis on justice, bravery, and the fight against oppression.
+
+I'll start by reading through the article to identify the key moral points and the words associated with them. Then, I'll compile the list of morally framed words. After that, I'll craft the summary, ensuring it's concise and includes the important moral elements from the article.
+
+I need to be careful not to include too many words, as the summary should be no longer than 200 words. I'll have to balance between including enough moral framing words and keeping the summary clear and to the point.
+
+Also, I should make sure that the summary accurately reflects the events described in the article, such as the Bloody Sunday march, the passage of the Voting Rights Act, and John Lewis's legacy as a civil rights hero.
+
+I think I've got a good plan. Now, I'll proceed to extract the morally framed words and then write the summary accordingly.
+</think>
+
+### STEP 1:
+* racial
+* discrimination
+* freedom
+* segregationist
+* violence
+* brutality
+* peaceful
+* hero
+* courage
+* justice
+* freedom
+* civil
+* rights
+* illegal
+* brutal
+* chaos
+* freedom
+* heroism
+* nonviolent
+* necessary
+* trouble
+* redeem
+* soul
+* America
+* freedom
+* justice
+* courage
+* civil
+* rights
+* freedom
+* heroism
+* nonviolent
+* necessary
+* trouble
+* redeem
+* soul
+* America
+
+### SUMMARY:
+John Lewis, a hero of the U.S. civil rights movement, died at age 80, leaving a legacy of courage and justice. On March 7, 1965, Lewis led hundreds of peaceful marchers across the Edmund Pettus Bridge in Selma, Alabama, to demand voting rights. The marchers faced brutal state-sanctioned violence, as Alabama troopers attacked them with nightsticks and tear gas, an event that became known as "Bloody Sunday." Lewis was beaten and suffered a fractured skull but remained steadfast in his commitment to freedom and justice. The confrontation shocked the nation and helped lead to the passage of the federal Voting Rights Act. Lewis's heroism and nonviolent resistance inspired generations, and he continued to advocate for justice until his death. His life was a testament to the power of courage and the necessity of standing up against oppression to redeem the soul of America. END OF SUMMARY.

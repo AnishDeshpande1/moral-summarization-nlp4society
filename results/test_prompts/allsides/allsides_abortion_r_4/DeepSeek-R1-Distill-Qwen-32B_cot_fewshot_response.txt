@@ -1,0 +1,33 @@
+Alright, I need to summarize the given news article while preserving the moral framing. First, I'll read through the article to understand the main points. It's about the political and moral debate surrounding abortion laws in Alabama and New York. The author discusses how both extremes are seen as extreme by the public, with Trump's comments and the reactions from different sides. 
+
+I should identify the morally framed words. Words like "extreme," "aggressively," "rip," "execution," "distortion," "exaggeration," "liberalize," "viable," "emotional," "frenzy," "unconstitutional," "incremental," "absolutist," "compromise," "extremism," "polarized," "passion," and "defuse" stand out. These words carry moral connotations and are crucial for the summary.
+
+Next, I'll craft the summary. It should mention both Alabama and New York's laws being seen as extreme, Trump's comments, the media's reaction, public opinion, and the implications of Roe v. Wade. I'll ensure to include the morally framed words to maintain the original framing.
+
+I'll start by stating that both laws are seen as extreme. Then, mention Trump's claims and the media's response. Highlight the public's conflicted views and the impact of Roe v. Wade. Conclude with the potential for compromise if Roe is overturned.
+
+I need to keep the summary concise, under 200 words, and include all key points without losing the moral perspective. I'll make sure each sentence flows logically, connecting the political actions with the public's reaction and the broader implications of abortion laws.
+</think>
+
+### STEP 1:
+* extreme
+* aggressively
+* rip
+* execution
+* distortion
+* exaggeration
+* liberalize
+* viable
+* emotional
+* frenzy
+* unconstitutional
+* incremental
+* absolutist
+* compromise
+* extremism
+* polarized
+* passion
+* defuse
+
+### SUMMARY:
+The article discusses the polarized debate over abortion laws in Alabama and New York, with both extremes seen as "extreme" by the American public. President Trump criticized Democrats for "aggressively pushing late-term abortion," claiming it allows "children to be ripped from their mother’s womb." While Democrats and media outlets dismiss his claims as "distortion" and "exaggeration," the article highlights the broader conflict over abortion rights. In New York, Democrats liberalized abortion laws, while Alabama passed a near-total ban. Polling shows most Americans support early-stage abortions but oppose late-term ones, with only 13% backing third-trimester abortions. The media's disproportionate focus on Alabama's law reflects its bias, while New York's law received less attention. The article argues that Roe v. Wade created a polarized dynamic, allowing pro-choice extremism but not pro-life extremism. Alabama's law, seen as "unconstitutional," aims to challenge Roe, while New York's seeks to create a "sanctuary" for abortion rights. The pro-life movement is split between incrementalists and those seeking to "go for broke." The article concludes that overturning Roe could allow states to reflect majority opinion, potentially reducing political passion but not eliminating it. END OF SUMMARY.

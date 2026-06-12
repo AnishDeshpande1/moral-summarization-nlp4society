@@ -1,0 +1,15 @@
+metric,strat_a,strat_b,n_common,mean_a,mean_b,mean_diff_a_minus_b,wilcoxon_p,ttest_p,better,direction
+moral_count,cot_fewshot,cot,37,7.946,7.297,0.649,0.14117,0.09818,cot_fewshot,higher
+moral_count,cot_fewshot_mft,cot,32,7.594,6.469,1.125,0.02837,0.01756,cot_fewshot_mft,higher
+moral_count,simple_fewshot,simple,52,6.962,6.885,0.077,0.79301,0.81992,simple_fewshot,higher
+moral_count,simple_fewshot_mft,simple,52,6.712,6.885,-0.173,0.79614,0.5949,simple,higher
+moral_count,cot,simple,42,7.405,6.69,0.714,0.0821,0.09595,cot,higher
+moral_count,cot_fewshot,simple_fewshot,45,8.111,7.0,1.111,0.01278,0.00798,cot_fewshot,higher
+moral_count,cot_fewshot_mft,simple_fewshot_mft,40,7.825,6.45,1.375,0.0014,0.00084,cot_fewshot_mft,higher
+moral_div,cot_fewshot,cot,37,0.229,0.24,-0.011,0.59972,0.40353,cot_fewshot,lower
+moral_div,cot_fewshot_mft,cot,32,0.234,0.259,-0.025,0.17403,0.1446,cot_fewshot_mft,lower
+moral_div,simple_fewshot,simple,50,0.247,0.248,-0.001,0.90706,0.9368,simple_fewshot,lower
+moral_div,simple_fewshot_mft,simple,52,0.267,0.25,0.017,0.28513,0.32525,simple,lower
+moral_div,cot,simple,42,0.238,0.261,-0.023,0.27818,0.23985,cot,lower
+moral_div,cot_fewshot,simple_fewshot,43,0.216,0.24,-0.024,0.39815,0.15443,cot_fewshot,lower
+moral_div,cot_fewshot_mft,simple_fewshot_mft,40,0.234,0.269,-0.034,0.24493,0.10945,cot_fewshot_mft,lower

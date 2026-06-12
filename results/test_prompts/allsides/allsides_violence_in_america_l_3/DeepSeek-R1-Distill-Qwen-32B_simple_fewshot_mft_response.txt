@@ -1,0 +1,22 @@
+Alright, so I need to summarize this news article about Chicago's violent crime spike in 2016. The user wants the summary to preserve the moral framing related to Authority/Subversion, Care/Harm, and Fairness/Cheating. Let me break this down.
+
+First, I'll read through the article to get the main points. Chicago had a record number of homicides and shootings, mostly in poor, predominantly black areas. The police superintendent, Eddie Johnson, points out several factors contributing to the violence, including the influx of illegal guns, the emboldening of criminals due to public distrust in police after the Laquan McDonald shooting, and the perception that the criminal justice system isn't a deterrent.
+
+Now, considering the moral foundations:
+
+1. **Authority/Subversion**: The article talks about the breakdown of trust in authority, especially the police. The Laquan McDonald shooting video led to protests and a loss of public trust, making criminals feel emboldened. This relates to Authority/Subversion because it's about the erosion of respect for law enforcement and the resulting increase in crime.
+
+2. **Care/Harm**: The high number of homicides and shootings clearly involve harm to individuals. The police superintendent mentions that most victims had gang ties or past arrests, but that doesn't negate the harm caused. The city's efforts to add police and implement new technologies show a desire to care for the community by reducing violence.
+
+3. **Fairness/Cheating**: There's a perception that the criminal justice system isn't fair. Johnson points out that minor offenders spend more time in jail than gun offenders, which is seen as unfair. This contributes to the lack of deterrent effect because criminals feel they can get away with violent crimes without facing proportionate consequences.
+
+I need to make sure the summary captures these elements without getting bogged down in too many details. I'll focus on the key points: the spike in violence, the factors contributing to it (illegal guns, loss of trust in police, and perceived unfairness in the justice system), and the city's responses.
+
+I should also mention the impact on the community, especially the poor and black neighborhoods, to highlight the Care/Harm aspect. Additionally, the mention of state laws affecting police stops ties into Fairness/Cheating, as the increased paperwork makes it harder for officers to act, which criminals exploit.
+
+Putting it all together, the summary should succinctly convey how the breakdown of authority, the resulting harm to the community, and the perception of unfairness in the justice system have contributed to Chicago's violent crime surge. It should also touch on the city's efforts to address these issues.
+</think>
+
+SUMMARY:
+
+Chicago experienced its most violent year in two decades, with 762 homicides and 3,550 shooting incidents in 2016, surpassing New York and Los Angeles combined. The surge in violence, particularly in poor, predominantly black neighborhoods, has been attributed to the influx of illegal guns and a perceived lack of deterrent from the criminal justice system. Police Superintendent Eddie Johnson highlighted that gang members view the court system as "a joke," emboldening criminals to commit violent acts. The city's struggle with gun violence has been exacerbated by public distrust in law enforcement following the Laquan McDonald shooting, which sparked protests and weakened public trust. Johnson noted that criminals exploit the media's coverage of police actions, leading to increased violence. The city has scrambled to address the crisis, adding 1,000 officers and implementing initiatives like street cameras and gunshot-detection systems. However, the moral imperative to restore public safety and trust remains urgent, as the cycle of violence continues to harm vulnerable communities. END OF SUMMARY.

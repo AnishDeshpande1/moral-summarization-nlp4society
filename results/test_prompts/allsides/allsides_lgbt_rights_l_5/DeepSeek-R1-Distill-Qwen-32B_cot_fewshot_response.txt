@@ -1,0 +1,26 @@
+Alright, I need to summarize the given news article while preserving the moral framing. Let me start by reading the article carefully.
+
+The article is about the Obama administration extending federal benefits to same-sex spouses after the Supreme Court overturned part of DOMA. The benefits include health insurance, retirement accounts, etc. The Office of Personnel Management (OPM) issued a memo detailing these benefits, and the administration is working on the legal aspects to ensure same-sex couples are treated equally nationwide.
+
+Now, I'll identify the morally framed words. Words like "respect," "protection," "equal," "discrimination," "discriminatory," "just," "fairness," "equal treatment," and "equality" stand out as they carry moral connotations.
+
+Next, I need to craft a concise summary that includes these words. The summary should highlight the administration's actions, the benefits provided, and the moral stance against discrimination.
+
+I'll structure the summary by first stating the main action (extension of benefits), mention the specific benefits, note the administration's commitment to equality, and conclude with the broader impact on discrimination.
+
+I need to ensure the summary is under 200 words and flows naturally while preserving the moral framing.
+</think>
+
+STEP 1:  
+* respect  
+* protection  
+* equal  
+* discrimination  
+* discriminatory  
+* just  
+* fairness  
+* equal treatment  
+* equality  
+
+SUMMARY:  
+The Obama administration has extended federal benefits, including health insurance and retirement accounts, to same-sex spouses of federal employees, following the Supreme Court’s overturning of a key provision of the Defense of Marriage Act (DOMA). The Office of Personnel Management (OPM) issued guidance ensuring that legally married same-sex couples have the same access to benefits as heterosexual couples, emphasizing "equal protection and equal treatment under the law." While the memo does not explicitly address couples living in states where their marriage is not recognized, President Obama stated that all married couples should be treated equally nationwide. Attorney General Eric Holder praised the move, calling it a step toward "making real the promise of this important decision." The administration is working to implement the ruling swiftly, aiming to "make a meaningful, positive difference in the lives of many" by upholding principles of fairness and equality. END OF SUMMARY.

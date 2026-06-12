@@ -1,0 +1,14 @@
+Alright, so the user has provided a query where they want me to summarize a news article. They've given specific instructions on how the summary should be formatted, including the use of "SUMMARY:" and "END OF SUMMARY." tokens, and a word limit of 200 words. 
+
+First, I need to read through the provided news article carefully. The article is about a shooting incident in Springfield, Missouri. It mentions that a gunman killed several people, including a police officer, before dying himself. There are details about the gunman's actions, the police response, and the aftermath.
+
+I should identify the key points: the date and location of the incident, the number of casualties, the gunman's identity, the police officers involved, and the impact on the community. I also need to note that the gunman's motives are unclear and that the police are still investigating.
+
+Next, I need to condense this information into a concise summary. I should avoid including too many details about individual victims unless they're central to the story. The focus should be on the main events and outcomes.
+
+I should also ensure that the summary is under 200 words and properly formatted with the specified tokens. I'll need to check for clarity and ensure that all critical information is included without exceeding the word limit.
+
+Finally, I'll review the summary to make sure it accurately reflects the article's content and adheres to the user's formatting requirements.
+</think>
+
+SUMMARY: A shooting incident in Springfield, Mo, on March 15, 2020, left five people dead, including a police officer and the gunman. The gunman, identified as 31-year-old Joaquin S. Roman, fired randomly from his vehicle before crashing into a convenience store, where he opened fire inside. Among the dead were store employee Troy D. Rapp, customer Matthew J. Hicks-Morris, and Army veteran Police Officer Christopher Walsh, who was killed while trying to rescue a victim. Another officer, Josiah Overton, was injured but not critically. The gunman died from a self-inflicted gunshot. Police Chief Paul Williams described the gunman as a "roving active shooter" who targeted multiple locations in the city. The incident has left the community in shock, with officials expressing grief over the losses. END OF SUMMARY.

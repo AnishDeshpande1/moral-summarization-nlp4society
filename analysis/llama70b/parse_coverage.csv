@@ -1,0 +1,9 @@
+strategy,articles_total,articles_with_summary,parse_failure_rate
+vanilla,400,213,0.468
+simple,400,213,0.468
+cot,400,214,0.465
+oracle,400,214,0.465
+simple_fewshot,400,214,0.465
+cot_fewshot,400,213,0.468
+simple_fewshot_mft,400,214,0.465
+cot_fewshot_mft,400,214,0.465

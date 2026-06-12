@@ -1,0 +1,31 @@
+Okay, so I need to help summarize this news article while preserving the moral framing, especially focusing on Authority/Subversion, Care/Harm, and Fairness/Cheating. Let me start by reading the article carefully.
+
+The article talks about the Senate considering two bills to end the government shutdown. The first bill would provide $5.7 billion for a border wall and other concessions, while the second is a short-term measure to reopen the government until Feb. 8. The House has already approved the short-term bill, but it needs 60 votes in the Senate, which is unlikely. Trump has also threatened to veto it.
+
+Mitch McConnell is pushing for the first bill, saying it's an opportunity to end the shutdown if Democrats put the country ahead of politics. Chuck Schumer and Nancy Pelosi are criticizing the bill, calling it complicity in the shutdown and unacceptable. House Democrats have their own bill without border wall funding, which will likely die in the Senate. Some centrist Democrats are trying to find a compromise, suggesting a vote on a border wall next month if the government reopens.
+
+Trump is firm on the border wall, calling it essential for national security. The proposed bill includes protections for young immigrants and disaster aid but changes asylum rules, limiting the number of Central American minors who can apply. Critics see this as a Trojan Horse and a major change to asylum protections.
+
+So, the moral words here relate to authority (shutdown, complicity, hostage, threat, veto), care (suffering, chaos, bargaining chip, reopening government), and fairness (compromise, concessions, Trojan Horse, betrayal, fairness in immigration policies).
+
+I need to extract these words first in STEP 1, then write a concise summary using them, focusing on the moral dimensions. The summary should be under 200 words, preserving the moral framing.
+</think>
+
+**STEP 1:**
+* shutdown
+* complicity
+* hostage
+* threat
+* veto
+* suffering
+* chaos
+* bargaining chip
+* reopening
+* compromise
+* concessions
+* Trojan Horse
+* betrayal
+* fairness
+
+**SUMMARY:**
+The Senate is set to vote on two bills to end the government shutdown, a standoff now in its 32nd day. The first bill offers $5.7 billion for a border wall and other concessions, while the second is a short-term measure to reopen the government until Feb. 8. Both require 60 votes, a threshold unlikely to be met. Senate Majority Leader Mitch McConnell urged Democrats to prioritize the country over politics, but Minority Leader Chuck Schumer and House Speaker Nancy Pelosi criticized the border wall bill as complicity in the shutdown. House Democrats propose a bill without wall funding, certain to fail in the GOP-led Senate. Centrist Democrats seek a compromise, suggesting a future border wall vote if the government reopens. President Trump remains firm on the wall, deeming it essential for national security. The proposed bill includes protections for young immigrants and disaster aid but limits asylum for Central American minors, criticized as a Trojan Horse undermining asylum fairness. END OF SUMMARY.

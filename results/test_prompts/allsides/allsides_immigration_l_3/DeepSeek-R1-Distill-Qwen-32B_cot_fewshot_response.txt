@@ -1,0 +1,30 @@
+Okay, I need to help the user summarize this news article while preserving the moral framing. Let me start by understanding the task. The user provided examples where they extracted moral words and then wrote a summary using those words. My job is to do the same for the given article.
+
+First, I'll read through the article carefully. It's about the Trump administration sending troops to the border to handle a migrant caravan. The key points are about the deployment of troops, the intention not to shoot migrants, the apprehension of all migrants, the use of emergency powers to deny asylum, and the political context leading up to the midterms.
+
+Now, I need to identify the morally framed words. Looking through the article, I see words like "fear," "welcome," "justice," "safety," "emergency," "humanitarian," "fairness," "rights," "opportunity," "crisis," "protection," "emergency," "fairness," "rights," "opportunity," "crisis," "protection," "emergency," "fairness," "rights," "opportunity," "crisis," "protection," "emergency," "fairness," "rights," "opportunity," "crisis," "protection." Wait, that seems repetitive. Let me check again.
+
+The article mentions "fear," "welcome," "justice," "safety," "emergency," "humanitarian," "fairness," "rights," "opportunity," "crisis," "protection." These words carry moral connotations, so I'll list them as * fear, * welcome, * justice, * safety, * emergency, * humanitarian, * fairness, * rights, * opportunity, * crisis, * protection.
+
+Next, I need to write a summary that includes these words. The summary should be concise, around 200 words, and capture the essence of the article while preserving the moral framing.
+
+I'll start by mentioning the deployment of troops and the intention not to shoot migrants. Then, I'll touch on the emergency powers to deny asylum and the focus on border security. I'll include the political context and Trump's framing of the caravan as a crisis. Finally, I'll note the migrants' perspective and their hope for a better future.
+
+Putting it all together, I'll ensure the summary flows logically and includes all the moral words identified. I'll make sure it's within the word limit and clearly conveys the moral aspects presented in the article.
+</think>
+
+### STEP 1:
+* fear  
+* welcome  
+* justice  
+* safety  
+* emergency  
+* humanitarian  
+* fairness  
+* rights  
+* opportunity  
+* crisis  
+* protection  
+
+### SUMMARY:
+Homeland Security Secretary Kirstjen Nielsen stated that American soldiers have “no intention” of shooting migrants attempting to cross into the U.S. from Mexico, though all will be apprehended as part of President Trump’s plan to close the border. Trump has dispatched at least 800 active-duty troops to the southern border, leveraging fears about immigration to galvanize support ahead of the November midterms. Nielsen emphasized the safety of border agents, noting they have the authority to use force in self-defense. The administration is also considering denying asylum applications under emergency powers, a move likely to face legal challenges. Trump has framed the caravan of Central American migrants, fleeing violence and poverty, as a crisis, claiming it threatens U.S. security. While Trump has urged the migrants to return home, they continue their journey, seeking a better future for their children. The situation highlights tensions between border security and humanitarian concerns, as well as the political stakes of the midterm elections. END OF SUMMARY.

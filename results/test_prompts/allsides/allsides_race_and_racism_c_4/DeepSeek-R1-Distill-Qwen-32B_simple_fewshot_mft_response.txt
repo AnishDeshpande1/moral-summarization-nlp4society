@@ -1,0 +1,20 @@
+Alright, so I need to summarize this news article about the Tulsa Race Massacre. The user has specified that the summary should focus on the moral foundations of Care/Harm and Fairness/Cheating. I should make sure to highlight how the events relate to these dimensions.
+
+First, I'll read through the article to understand the key points. The article discusses the recent discovery of mass graves in Tulsa, Oklahoma, linked to the 1921 race massacre. The Greenwood District, known as Black Wall Street, was destroyed, leading to many deaths and displacement. The event has been underreported and minimized in history.
+
+I need to identify how Care/Harm is involved. The massacre caused significant harm, with many deaths and destruction of homes and businesses. The survivors and their descendants have suffered from the loss and the erasure of their history. This ties into the Care/Harm foundation because it's about the suffering caused by violence and neglect.
+
+Next, Fairness/Cheating comes into play. The event was minimized and labeled as a riot, which is unfair. The perpetrators were not held accountable, and the victims were blamed. This systematic erasure of the truth is a form of cheating, as it denies justice and recognition to the victims and their community.
+
+I should also mention the ongoing efforts to uncover the truth, such as the use of ground-penetrating radar and planned excavations. This shows a push for fairness and accountability, which is essential for healing and justice.
+
+In the summary, I'll need to weave these points together, ensuring that the moral framing is clear. I'll start by introducing the discovery, then explain the historical context, the harm caused, the unfair treatment, and the current efforts towards justice.
+
+I should keep the summary concise, around 200 words, and make sure it's clear and impactful. I'll avoid getting bogged down in too many details and focus on the key moral aspects.
+
+Let me structure it: start with the discovery, then the event's impact, the historical erasure, the moral implications, and the current efforts. That should cover all necessary points while preserving the moral framing.
+</think>
+
+SUMMARY: Scientists in Tulsa, Oklahoma, have discovered evidence of mass graves linked to the 1921 Tulsa Race Massacre, a tragic event that has been largely overlooked in U.S. history. The massacre, which destroyed the thriving Greenwood District, known as "Black Wall Street," left 35 city blocks in ruins, thousands homeless, and at least 36 dead, though historians estimate the death toll could be as high as 300. The violence was sparked by an unproven accusation of a black man assaulting a white woman, unleashing white mobs who burned, looted, and killed with impunity. Despite the scale of the tragedy, the event was minimized and labeled as a "riot," a euphemism that obscured the deliberate targeting of a successful black community. The historical record was actively erased, with news accounts destroyed, and the event excluded from textbooks for decades. This erasure reflects a broader pattern of suppressing uncomfortable truths about racial violence in America. The recent discovery of potential mass graves highlights the need for accountability and justice, as efforts to uncover the truth and honor the victims continue. The massacre serves as a stark reminder of the enduring consequences of racial violence and the importance of confronting history with fairness and care.
+
+END OF SUMMARY.

@@ -1,0 +1,14 @@
+Alright, I need to help the user by summarizing the provided news article while preserving the moral framing. The user is a news summarizer assistant and a moral expert, so the summary should highlight the ethical and historical implications.
+
+First, I'll read through the article to understand the main points. It's about the discovery of mass graves from the 1921 Tulsa race massacre, which is a significant event in U.S. history that's often overlooked. The article discusses the destruction of the Greenwood District, known as Black Wall Street, and how the event has been downplayed or erased from historical records.
+
+I need to ensure that the summary captures the moral issues, such as the systemic erasure of the event and its impact on the community. I'll mention the use of ground-penetrating radar as a scientific effort to uncover the truth. It's important to note the historical context and the recent efforts to bring awareness, like the HBO show and upcoming films.
+
+I should keep the summary concise, under 200 words, and make sure it's clear and impactful. I'll structure it to first present the discovery, then the historical background, followed by the reasons for the massacre being forgotten, and finally the current efforts to remember and address it.
+
+I'll also need to include the moral framing, such as the mislabeling of the event as a riot and the broader implications of how American history has been sanitized. This will highlight the ethical issues surrounding the suppression of this part of history.
+
+Finally, I'll make sure to end with the required tokens and keep the language formal yet accessible, suitable for a news summary.
+</think>
+
+SUMMARY: Scientists in Tulsa, Oklahoma, have uncovered evidence of mass graves linked to the 1921 Tulsa Race Massacre, a tragic event often overlooked in U.S. history. The Greenwood District, known as "Black Wall Street," was destroyed when white mobs burned buildings, looted homes, and killed residents, leaving thousands homeless. The death toll was officially reported as 36 but is now believed to be as high as 300. The massacre has been downplayed or erased from historical records, with efforts to minimize its impact by labeling it a "riot" and suppressing documentation. Recent discoveries and cultural projects, such as an HBO drama and planned films, aim to bring attention to this forgotten chapter. Local leaders hope to complete excavations and DNA testing by the 100th anniversary in 2021. The event challenges the narrative of black progress in America, highlighting the systemic erasure of racial violence and its lasting impact on communities. END OF SUMMARY.

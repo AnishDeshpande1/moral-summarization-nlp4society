@@ -1,0 +1,48 @@
+Alright, so I need to help the user with their query. They provided a detailed news article and specific instructions on how to process it. Let me break this down.
+
+First, the user wants me to act as a news summarizer and a moral expert. The task has two main parts. The first is to identify all the single words in the article that are morally framed. Then, I need to write a summary preserving those moral words.
+
+Looking at the article, it's about Chicago's stance against ICE, supporting immigrants. The mayor is proud of their policies, which protect immigrants and refuse ICE cooperation. The article also talks about the moral implications of immigration policies and the impact on communities.
+
+For step one, I need to find words that carry moral weight. Words like "support," "values," "protection," "justice," etc. I'll go through the article and pick out each morally charged word, listing them with asterisks.
+
+Next, the summary needs to capture the essence while including as many of these moral words as possible. The summary should be concise, under 200 words, and include the key points: Chicago's policies, ICE's reduced arrests, the moral stance against demonizing immigrants, and the positive impact on the community.
+
+I should ensure the summary flows naturally and highlights the moral framework presented in the article. It's important to maintain the tone and key messages without losing the moral emphasis.
+
+I think I've got the structure. First, list the moral words, then craft a concise summary that includes them. I'll make sure to stay within the word limit and keep the summary informative and aligned with the original article's moral perspective.
+</think>
+
+**STEP 1:**  
+* support  
+* values  
+* diversity  
+* beacon of hope  
+* sacred  
+* protect  
+* prohibit  
+* assistance  
+* immigration enforcement  
+* transparency  
+* reporting  
+* legal guidance  
+* terminate  
+* criminal enterprises  
+* counter-terrorism  
+* human trafficking  
+* money laundering  
+* demonize  
+* unity  
+* inclusion  
+* equity  
+* opportunity  
+* standing up  
+* division  
+* demonization  
+* values  
+* heritage  
+* foundation  
+* success  
+
+**SUMMARY:**  
+Chicago has taken a strong stance to protect its immigrant and refugee communities by passing the Accountability on Communication and Transparency Ordinance, which prohibits ICE from accessing local police databases or seeking assistance for immigration enforcement. The city’s refusal to cooperate with ICE has led to a significant drop in arrests, a move celebrated as a victory for immigration rights. Mayor Lori Lightfoot emphasized that Chicago’s policies are rooted in values of diversity, inclusion, and unity, rejecting the demonization of immigrants. The ordinance ensures community trust and safeguards against fear-driven immigration policies. While immigration policy is complex, the city remains committed to welcoming its newest residents and fostering a culture of equity and opportunity. END OF SUMMARY.

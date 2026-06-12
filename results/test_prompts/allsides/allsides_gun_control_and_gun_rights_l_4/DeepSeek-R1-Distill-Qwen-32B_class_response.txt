@@ -1,0 +1,16 @@
+Okay, so the user has given me a query where I need to act as a news summarizer assistant and a moral expert. The task is to summarize a provided news article while preserving the moral framing that the author used. 
+
+First, I need to understand the article. It's about the response to mass shootings in the US, comparing it to Australia's actions after their mass shootings. The author suggests four steps the US should take, like banning rapid-fire weapons, improving background checks, etc. The morally framed words are listed, so I need to make sure those are included in the summary.
+
+I should start by identifying the main points: the sit-in by House Democrats, the comparison to Australia, the four steps, and the argument against assault weapons. Then, I'll need to condense this into a concise summary, keeping the moral language intact.
+
+I have to make sure the summary is under 200 words and starts with "SUMMARY:" and ends with "END OF SUMMARY." Also, I should avoid any markdown and keep the thinking process natural.
+
+Wait, the user provided an example response. I should check that to see how they structured it. They included the key points, used the morally framed words, and kept it within the word limit. I need to follow that structure.
+
+I should also ensure that the summary flows logically, starting with the context of the sit-in, then the comparison to Australia, followed by the four steps, and ending with the argument against assault weapons. This way, the moral framing is preserved throughout.
+
+I think I've got a good grasp. Now, I'll draft the summary, making sure to include all the necessary points and the specified moral words without exceeding the word limit.
+</think>
+
+SUMMARY: The article addresses the moral imperative to address mass shootings in the U.S., drawing comparisons to Australia's successful response to similar tragedies. Following the Orlando shooting, House Democrats staged a sit-in, highlighting the urgent need for politically feasible solutions. The author advocates for four key steps: banning rapid-fire weapons, improving background checks, strengthening the prohibited purchaser list, and enforcing stricter gun laws. Morally framed terms like "shooting," "mayhem," "profit," and "killing" emphasize the urgency and severity of the issue. The author argues that tightening gun laws, including banning assault weapons, is essential to prevent future tragedies, while addressing the moral failure of lax regulations and the profit-driven gun industry. END OF SUMMARY.

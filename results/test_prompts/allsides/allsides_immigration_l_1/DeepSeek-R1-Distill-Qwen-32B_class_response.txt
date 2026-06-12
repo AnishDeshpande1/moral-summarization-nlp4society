@@ -1,0 +1,18 @@
+Alright, so the user has given me a query where they want a news summarizer assistant who's also a moral expert. They provided a specific news article and asked for a summary that preserves the moral framing the author used. The user even listed the morally framed words they want included.
+
+First, I need to understand the article's main points. It's about how immigrants contribute to America's greatness, countering Trump's anti-immigrant stance. The author uses positive terms like "sustained" and "freedom," while negative terms like "abuse" and "smuggling" highlight the problems with anti-immigrant policies.
+
+Next, I should identify the key sections: the economic contributions of immigrants, the myth about social program abuse, the crime rate myth, and the flaws in the citizenship process. Each section uses specific moral words that need to be included in the summary.
+
+I need to make sure the summary is concise, under 200 words, and includes as many of the listed moral terms as possible. I'll start by highlighting the positive contributions, then address the criticisms, and finally discuss the issues with the current system.
+
+I should structure the summary to flow logically: immigrants built and sustain America, their economic contributions, refute the criticisms about social programs and crime, and then discuss the bureaucratic issues causing problems. Ending with a call to welcome immigrants ties it back to the moral framing.
+
+I also need to use the exact moral words provided, like "sustained," "ignore," "abuse," etc., to maintain the author's tone. I'll ensure each paragraph in the summary touches on these points without being too lengthy.
+
+Finally, I'll review the summary to make sure it's within the word limit and that all key points are covered while preserving the moral perspective. This way, the summary effectively communicates the author's message while adhering to the user's instructions.
+</think>
+
+SUMMARY:  
+The article emphasizes that immigrants are integral to America's greatness, countering anti-immigrant rhetoric. Immigrants have built and sustained the nation, contributing specialized skills and founding iconic companies like Budweiser and McDonald’s. Over 40% of Fortune 500 businesses trace their origins to immigrants, generating millions of jobs and billions in revenue. Critics often ignore these contributions, instead focusing on undocumented immigrants supposedly abusing social programs like Medicare. However, studies show undocumented immigrants contribute more to Medicare than they receive, while native-born residents create a deficit. Similarly, crime rates are not linked to immigration; native-born males are more likely to be incarcerated. The current citizenship process is unnecessarily bureaucratic and convoluted, discouraging lawful immigration and encouraging smuggling. Rounding up undocumented immigrants or building walls is impractical, as most immigrants seek freedom and opportunity. Native-born citizens should welcome immigrants, recognizing their vital role in making America great now and in the future.  
+END OF SUMMARY.

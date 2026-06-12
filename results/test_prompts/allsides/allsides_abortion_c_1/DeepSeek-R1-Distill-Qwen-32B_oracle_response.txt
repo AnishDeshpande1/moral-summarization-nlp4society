@@ -1,0 +1,18 @@
+Alright, so the user has given me a query where I need to act as a news summarizer assistant and a moral expert. They provided a news article and specific instructions on how to summarize it while preserving the moral framing. 
+
+First, I need to understand the task. The user wants a summary that includes as many of the morally framed words as possible. The article is about a federal judge striking down a Trump administration rule related to healthcare workers refusing to participate in abortions or other procedures on moral or religious grounds. 
+
+I should start by reading the article carefully to identify the key points and the moral language used. The author uses words like "overstepped," "costly," "damaging," "untrue," "discriminatory," etc. These words convey a negative moral judgment on the rule.
+
+Next, I need to structure the summary. It should be concise, no more than 200 words, and include the main elements: the judge's decision, the reasoning behind it, the impact on healthcare, and the reactions from different groups.
+
+I should ensure that the morally framed words are preserved. For example, mentioning that the judge found the rule "costly" and "damaging" to emergency care. Also, highlighting that the rationale was based on a "lie" and that the complaints were "flatly untrue."
+
+I also need to include the opposing views, like Sen. Ben Sasse calling the ruling "absurd," and the support from Planned Parenthood and the American Psychological Association, emphasizing the potential for discrimination and harm to vulnerable populations.
+
+Finally, I should make sure the summary flows logically, starting with the judge's decision, the reasoning, the consequences, and the reactions from both sides. Keeping it within the word limit is crucial, so I'll need to be concise but comprehensive.
+
+I think I've covered all the necessary points. Now, I'll draft the summary, ensuring it meets all the requirements and preserves the moral framing effectively.
+</think>
+
+SUMMARY: A federal judge struck down a Trump administration rule allowing health care workers to refuse participation in abortions or other procedures on moral or religious grounds. Judge Paul A. Engelmayer ruled that the U.S. Health and Human Services Department overstepped its authority, claiming the rule was costly, damaging, and based on untrue claims of increased complaints. He described it as a "solution in search of a problem." Critics argued the rule would be discriminatory, interfere with access to health care, and jeopardize vulnerable populations. Supporters, like Sen. Ben Sasse, called the ruling "absurd." The rule expanded protections for health care workers, potentially allowing even non-medical staff to refuse duties, which could inhibit emergency care organization. Engelmayer emphasized that Congress, not HHS, should decide on such laws. END OF SUMMARY.

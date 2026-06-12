@@ -1,0 +1,14 @@
+Alright, let's tackle this query. The user wants me to summarize a news article about President Trump's response to the Las Vegas shooting. They provided the article and specific instructions on how to format the summary. 
+
+First, I need to read through the article carefully to understand the key points. The main events are President Trump addressing the nation, calling the attack an act of pure evil, the death toll, his plans to visit Las Vegas, the lowering of flags, and his unifying message. There's also information about the suspect, Stephen Paddock, and some details about the investigation.
+
+I should focus on the most important details: Trump's address, the number of casualties, his actions like visiting Las Vegas and the flag order, his message of unity, and the identification of the suspect. I also need to mention that the motive is unclear and that authorities are looking into it.
+
+I need to keep the summary concise, under 200 words. I'll structure it to first mention Trump's address and the attack's severity, then his actions, followed by the suspect and the ongoing investigation. I'll make sure to include Trump's unifying message and the first lady's condolences.
+
+I should avoid any unnecessary details, like the specific quotes or the roles of other officials unless they're crucial. The summary should flow logically, covering all essential points without being too lengthy.
+
+Finally, I'll format it with the "SUMMARY:" token at the beginning and "END OF SUMMARY." at the end, ensuring it's clear and meets the user's requirements.
+</think>
+
+SUMMARY: President Trump referred to the Las Vegas shooting as an "act of pure evil," calling it the deadliest mass shooting in modern U.S. history. The attack resulted in 58 deaths and 515 injuries. Trump announced plans to visit Las Vegas to meet with law enforcement, first responders, and victims' families. He ordered flags to be flown at half-staff and offered prayers for the nation, emphasizing unity, faith, and shared values. The suspect, 64-year-old Stephen Paddock, was killed during the attack. Authorities are investigating his roommate, Marilou Danley, though no motive has been identified yet. Trump and Melania Trump expressed condolences, with the latter tweeting her prayers for Las Vegas. END OF SUMMARY.

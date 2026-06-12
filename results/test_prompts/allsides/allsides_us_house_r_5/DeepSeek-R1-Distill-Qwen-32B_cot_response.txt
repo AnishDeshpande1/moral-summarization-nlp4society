@@ -1,0 +1,28 @@
+Okay, so I need to help the user by summarizing a news article while preserving the moral framing. The user has given a specific structure to follow, so I should make sure to adhere to that.
+
+First, I need to identify all the single words that are morally framed in the article. These are words that carry a moral judgment, like "scaredy-cats," "abused," or "corrupt." I'll go through the text and pick out each of these words, listing them under STEP 1 with each on a new line starting with *.
+
+Next, I have to write a concise summary of the article, keeping it under 200 words. The summary should include as many of the morally framed words as possible to preserve the author's framing. I'll need to make sure the summary captures the key points: Republicans confronting Schiff, his defense, the mention of Mueller's findings, the comparison to McCarthy, and the support from Pelosi.
+
+I should also ensure that the summary flows well and accurately reflects the article's content without adding any personal opinions. It's important to maintain the balance between summarizing and including the moral terms to stay true to the user's instructions.
+
+Finally, I'll structure the response with the identified words first and then the summary, making sure to use the specified tokens "SUMMARY:" and "END OF SUMMARY." to denote the sections.
+</think>
+
+**STEP 1:**  
+\*scaredy-cats  
+\*abused  
+\*corrupt  
+\*immoral  
+\*unethical  
+\*unpatriotic  
+\*false  
+\*hoax  
+\*abuse  
+\*damage  
+\*undermine  
+\*McCarthyism  
+
+**SUMMARY:**  
+Republicans demanded House Intelligence Committee Chairman Adam Schiff resign, accusing him of abusing his position by promoting false narratives about Russian collusion with the Trump campaign. Schiff defended himself by citing alleged inappropriate contacts between Trump associates and foreign individuals, though he did not provide evidence of direct coordination with Russia. Republicans pointed to Robert Mueller’s findings, which cleared Trump associates of conspiracy, and accused Schiff of damaging the committee’s integrity. Schiff, however, labeled Trump’s interactions with Russians as immoral, unethical, and corrupt. Republicans likened Schiff to McCarthy, accusing him of chasing false leads. Schiff’s hiring of a prosecutor linked to the discredited Steele dossier further fueled Republican criticism. Pelosi defended Schiff, dismissing Republicans as “scaredy-cats.” The dispute highlights ongoing divisions over Russia collusion claims and the integrity of U.S. government institutions.  
+**END OF SUMMARY.**
