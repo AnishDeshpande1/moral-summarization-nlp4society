@@ -15,6 +15,7 @@ parser.add_argument('--command-r',     default=False, action='store_true')
 parser.add_argument('--deepseek',      default=False, action='store_true')
 parser.add_argument('--only-test-set', default=False, action='store_true')
 parser.add_argument('--seed',          type=str,  default=None)
+parser.add_argument('--model',         type=str,  default=None)
 
 args = parser.parse_args()
 
@@ -34,6 +35,8 @@ if args.command_r:
     models.append('c4ai-command-r-plus-4bit')
 if args.deepseek:
     models.append('DeepSeek-R1-Distill-Qwen-32B')
+if args.model:
+    models.append(args.model)
 
 start_time = time.time()
 

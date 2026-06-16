@@ -84,8 +84,13 @@ class LlamaModelForClassification:
         self.model.gradient_checkpointing_enable({'use_reentrant': False})
 
     def get_bnb_config(self):
-        if 'bitsandbytes' not in self.config:
-            raise ValueError("BitsAndBytes configuration is required for this model.")
+        # Check if we can load the model on a GPU
+        self.device_map, self.device_type = get_device_map()
+
+        if 'bitsandbytes' not in self.config or self.device_type != 'cuda':
+            self.bnb_config = None
+            self.dtype = torch.float16
+            return
 
         # check if the compute type is a string
         if isinstance(self.config['bitsandbytes']['bnb_4bit_compute_dtype'], str):
@@ -95,9 +100,7 @@ class LlamaModelForClassification:
         self.bnb_config = BitsAndBytesConfig(**self.config['bitsandbytes'])
         self.dtype = self.bnb_config.bnb_4bit_compute_dtype
 
-        # Check if we can load the model on a GPU
-        self.device_map, self.device_type = get_device_map()
-        if self.device_type == 'cuda' and 'bitsandbytes' in self.config and self.verbose:
+        if self.device_type == 'cuda' and self.verbose:
             check_bf16_compatibility(self.config['bitsandbytes'])
 
     def load_base_model(self):
@@ -306,15 +309,32 @@ class LlamaModelForSequenceClassification(LlamaModelForClassification):
 
         return dataset_df
 
-
 class LlamaModelForSequenceCompletion:
-    def __init__(self, config):
-        self.config = config
-        self.verbose = config['verbose']
-        self.base_model_name = config['base_model_name']
-        self.base_model_path = os.path.join(config['hf_model_folder'], self.base_model_name)
-        if 'bitsandbytes' in config:
-            self.bnb_config = BitsAndBytesConfig(**config['bitsandbytes'])
+    def __init__(self, model_name_or_config, config=None):
+        if config is None:
+            self.config = model_name_or_config
+            self.base_model_name = self.config.get('base_model_name', 'meta-llama/Meta-Llama-3-8B-Instruct')
+        else:
+            self.config = config
+            self.base_model_name = model_name_or_config
+
+        self.verbose = self.config.get('verbose', True)
+
+        # Check if we should use Ollama
+        self.use_ollama = self.config.get('inference', {}).get('use_ollama', False)
+        if self.use_ollama:
+            self.ollama_model = self.config.get('inference', {}).get('ollama_model', 'llama3')
+            if self.verbose:
+                print(f"Initializing LlamaModelForSequenceCompletion in Ollama mode using model: {self.ollama_model}")
+            return
+
+        self.base_model_path = os.path.join(self.config.get('hf_model_folder', ''), self.base_model_name)
+        # If the local folder doesn't exist, load from Hub directly
+        if not os.path.exists(self.base_model_path):
+            self.base_model_path = self.base_model_name
+
+        if 'bitsandbytes' in self.config:
+            self.bnb_config = BitsAndBytesConfig(**self.config['bitsandbytes'])
             self.dtype = self.bnb_config.bnb_4bit_compute_dtype
         else:
             self.bnb_config = None
@@ -322,8 +342,8 @@ class LlamaModelForSequenceCompletion:
 
         # Check if we can load the model on a GPU
         self.device_map, self.device_type = get_device_map()
-        if self.device_type == "cuda" and 'bitsandbytes' in config and self.verbose:
-            check_bf16_compatibility(config['bitsandbytes'])
+        if self.device_type == "cuda" and 'bitsandbytes' in self.config and self.verbose:
+            check_bf16_compatibility(self.config['bitsandbytes'])
 
         # Load base model
         if self.bnb_config:
@@ -419,8 +439,57 @@ class LlamaModelForSequenceCompletion:
             temperature=0.6,
             top_p=0.9
             ):
+        if self.use_ollama:
+            import requests
+            url = "http://localhost:11434/api/chat"
+            payload = {
+                "model": self.ollama_model,
+                "messages": [
+                    {"role": "system", "content": system_content},
+                    {"role": "user", "content": query}
+                ],
+                "options": {
+                    "temperature": temperature,
+                    "top_p": top_p,
+                    "num_predict": max_tokens
+                },
+                "stream": False
+            }
+            if self.verbose:
+                print(f"Sending prompt to Ollama model {self.ollama_model}...")
+
+            try:
+                response = requests.post(url, json=payload)
+                response.raise_for_status()
+                res_json = response.json()
+                assistant_response = res_json["message"]["content"]
+            except Exception as e:
+                print(f"Error querying Ollama API: {e}")
+                # Fallback check if model needs to be pulled
+                if "not found" in str(e).lower() or (hasattr(e, 'response') and e.response is not None and "not found" in e.response.text.lower()):
+                    print(f"Model '{self.ollama_model}' not found in Ollama. Attempting to pull it...")
+                    pull_url = "http://localhost:11434/api/pull"
+                    try:
+                        pull_res = requests.post(pull_url, json={"name": self.ollama_model}, timeout=600)
+                        pull_res.raise_for_status()
+                        print(f"Successfully pulled '{self.ollama_model}'. Retrying request...")
+                        response = requests.post(url, json=payload)
+                        response.raise_for_status()
+                        res_json = response.json()
+                        assistant_response = res_json["message"]["content"]
+                    except Exception as pull_err:
+                        raise RuntimeError(f"Failed to pull model '{self.ollama_model}': {pull_err}. Please run 'ollama pull {self.ollama_model}' manually.") from pull_err
+                else:
+                    raise e
+
+            prompt = [
+                {"role": "system", "content": system_content},
+                {"role": "user", "content": query}
+            ]
+            return assistant_response, prompt + [{"role": "assistant", "content": assistant_response}]
+
         # Initialize pipeline
-        if not hasattr(self, 'pipe'):
+        if not hasattr(self, 'pipeline'):
             self.init_pipeline()
 
         # Prepare prompt in conversation format
@@ -431,7 +500,37 @@ class LlamaModelForSequenceCompletion:
         start_time = time.time()
 
         # Generate response
-        with torch.autocast(self.device_type):
+        if self.device_type == "cuda":
+            with torch.autocast(self.device_type):
+                outputs = self.pipeline(
+                    prompt,
+                    max_new_tokens=max_tokens,
+                    eos_token_id=self.terminators,
+                    do_sample=True,
+                    temperature=temperature,
+                    top_p=top_p,
+                )
+        elif self.device_type == "mps":
+            try:
+                with torch.autocast(self.device_type):
+                    outputs = self.pipeline(
+                        prompt,
+                        max_new_tokens=max_tokens,
+                        eos_token_id=self.terminators,
+                        do_sample=True,
+                        temperature=temperature,
+                        top_p=top_p,
+                    )
+            except Exception:
+                outputs = self.pipeline(
+                    prompt,
+                    max_new_tokens=max_tokens,
+                    eos_token_id=self.terminators,
+                    do_sample=True,
+                    temperature=temperature,
+                    top_p=top_p,
+                )
+        else:
             outputs = self.pipeline(
                 prompt,
                 max_new_tokens=max_tokens,

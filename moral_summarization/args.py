@@ -16,6 +16,9 @@ def parse_command_line_args(inference=False, training=False):
     if inference:
         parser.add_argument('--prompt-dir', type=str, default="/mnt/moral-summarization/results/test_prompts")
         parser.add_argument('--testing',    type=bool, action=argparse.BooleanOptionalAction, default=True)
+        parser.add_argument('--use-ollama', type=bool, action=argparse.BooleanOptionalAction, default=False)
+        parser.add_argument('--ollama-model', type=str, default="llama3")
+        parser.add_argument('--use-chaining', type=bool, action=argparse.BooleanOptionalAction, default=False)
 
     if training:
         parser.add_argument('--output-dir',   type=str,  default="/mnt/huggingface-models/trained-models")
@@ -40,6 +43,9 @@ def merge_args_in_config(args, config, inference=False, training=False):
             config['inference'] = {}
         config['inference']['prompt_dir'] = args.prompt_dir
         config['inference']['testing'] = args.testing
+        config['inference']['use_ollama'] = args.use_ollama
+        config['inference']['ollama_model'] = args.ollama_model
+        config['inference']['use_chaining'] = args.use_chaining
     
     if training:
         config['dataset_size'] = args.dataset_size

@@ -191,10 +191,17 @@ def get_tokenizer(model_path):
 
 
 def tokenize_text(text):
-    import torchtext
-    from torchtext.data import get_tokenizer as get_torchtext_tokenizer
-    tokenizer = get_torchtext_tokenizer("basic_english")
-    return tokenizer(text)
+    try:
+        import torchtext
+        from torchtext.data import get_tokenizer as get_torchtext_tokenizer
+        tokenizer = get_torchtext_tokenizer("basic_english")
+        return tokenizer(text)
+    except ModuleNotFoundError:
+        import re
+        text = text.lower()
+        text = re.sub(r'([.,!?()"[\]:;])', r' \1 ', text)
+        text = re.sub(r'\s+', ' ', text)
+        return text.strip().split()
 
 
 def get_text_length(text):

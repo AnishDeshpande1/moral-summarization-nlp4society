@@ -178,24 +178,32 @@ def get_summary_from_response(response_path):
 
     begin_token = find_summary_token(response)
     if begin_token is None:
-        print(f'No SUMMARY token found in response {response_path}')
-        return None
-
-    summary_start = [match.start() for match in re.finditer(begin_token, response)][-1]
-    summary_start += len(begin_token)
+        summary_start = 0
+    else:
+        # Use first match to avoid matching model repeating instructions at the end
+        matches = [match.start() for match in re.finditer(begin_token, response)]
+        summary_start = matches[0] + len(begin_token)
 
     end_token = find_end_of_summary_token(response)
     if end_token is None:
-        print(f'No END OF SUMMARY token found in response {response_path}')
         summary_end = len(response)
     else:
-        summary_end = [match.start() for match in re.finditer(end_token, response)][-1]
+        matches = [match.start() for match in re.finditer(end_token, response)]
+        summary_end = matches[0]
 
     if summary_start >= summary_end:
-        print(f'Invalid summary start and end found in response {response_path}')
         summary = response[summary_end:summary_start].strip()
     else:
         summary = response[summary_start:summary_end].strip()
+
+    # Strip any potential markdown bold markers (e.g. ** or *) leaked from headers
+    summary = summary.strip('*').strip()
+
+    # Clean up standard conversational intros if we fell back to start = 0
+    if begin_token is None:
+        for prefix in ["Here is the summary:", "here is the summary:", "Here's the summary:", "I'd be happy to help you summarize the article while preserving the moral framing."]:
+            if summary.startswith(prefix):
+                summary = summary[len(prefix):].strip()
 
     if len(summary) == 0 or summary is None:
         print(f'Empty summary found in response {response_path}')
