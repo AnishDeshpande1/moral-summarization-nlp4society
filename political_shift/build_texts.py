@@ -28,7 +28,6 @@ from transformers import AutoTokenizer
 # ------------------------------------------------------------------
 REPO_ROOT = Path(__file__).resolve().parents[1]
 SUMMARIES_DIR = REPO_ROOT / "results" / "summaries" / "allsides"
-TEST_PROMPTS_DIR = REPO_ROOT / "results" / "test_prompts" / "allsides"
 OUT_PATH = REPO_ROOT / "political_shift" / "data" / "texts.parquet"
 
 # ------------------------------------------------------------------
@@ -92,23 +91,6 @@ def parse_response_filename(fname: str) -> tuple[str, str, str] | None:
     return method, model, seed
 
 
-def parse_8b_response_filename(fname: str) -> tuple[str, str, str] | None:
-    """Parse ``<model>_<method>_response.txt`` (Llama 8B format) into ``(method, model, seed)``.
-
-    Returns seed as "1" since 8B runs have no seed in the filename.
-    """
-    stem = fname.removesuffix(".txt")
-    if not stem.endswith("_response"):
-        return None
-    stem = stem.removesuffix("_response")
-    # Known methods; split off the trailing method name.
-    for method in ("cot_fewshot_mft", "simple_fewshot_mft", "cot_fewshot", "simple_fewshot", "vanilla", "simple", "cot", "oracle", "class"):
-        if stem.endswith(f"_{method}"):
-            model = stem[: -(len(method) + 1)]
-            return method, model, "1"
-    return None
-
-
 # ------------------------------------------------------------------
 # Main build
 # ------------------------------------------------------------------
@@ -162,51 +144,6 @@ def build_rows() -> list[dict]:
                     "text": summary_body,
                 }
             )
-
-    # (c) Llama 8B summaries from test_prompts/ (different folder + filename convention).
-    if TEST_PROMPTS_DIR.exists():
-        for article_dir in sorted(p for p in TEST_PROMPTS_DIR.iterdir() if p.is_dir()):
-            article_id = article_dir.name
-            topic, leaning = parse_article_id(article_id)
-
-            # Article body — reuse the vanilla_prompt.txt in test_prompts if present.
-            vanilla_prompt = article_dir / "vanilla_prompt.txt"
-            if vanilla_prompt.exists():
-                article_body = extract_article_body(vanilla_prompt)
-                art_text_id = f"art:{article_id}"
-                existing_ids = {r["text_id"] for r in rows}
-                if article_body and art_text_id not in existing_ids:
-                    rows.append({
-                        "text_id": art_text_id,
-                        "kind": "article",
-                        "article_id": article_id,
-                        "leaning": leaning,
-                        "topic": topic,
-                        "method": None,
-                        "model": None,
-                        "seed": None,
-                        "text": article_body,
-                    })
-
-            for response_path in sorted(article_dir.glob("*_response.txt")):
-                parsed = parse_8b_response_filename(response_path.name)
-                if parsed is None:
-                    continue
-                method, model, seed = parsed
-                summary_body = extract_summary_body(response_path)
-                if not summary_body:
-                    continue
-                rows.append({
-                    "text_id": f"sum:{article_id}:{method}:{model}:{seed}",
-                    "kind": "summary",
-                    "article_id": article_id,
-                    "leaning": leaning,
-                    "topic": topic,
-                    "method": method,
-                    "model": model,
-                    "seed": seed,
-                    "text": summary_body,
-                })
 
     return rows
 
