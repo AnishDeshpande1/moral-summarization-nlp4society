@@ -213,3 +213,4 @@ def tokenize_text(text):
 
 def get_text_length(text):
     return len(tokenize_text(text))
+
