@@ -1,0 +1,5 @@
+SUMMARY:
+
+The development of a COVID-19 vaccine is underway, with over 100 potential vaccines in various stages of development. While experts are "cautiously optimistic" about having a vaccine ready by early 2021, there are concerns about the feasibility of rapid development and distribution. Some argue that investing too much in a quick fix may distract from developing effective testing, tracing, and therapeutic measures that can last in the long term. Others worry that rushing development may lead to unsafe vaccines, increase anti-vaccine sentiment, and ultimately undermine herd immunity. The moral imperative is clear: prioritizing a vaccine over other mitigation measures may lead to unnecessary deaths and prolong the pandemic. Instead, we should focus on developing a comprehensive strategy that includes testing, tracing, and therapeutic medicines, while also working towards a safe and effective vaccine.
+
+END OF SUMMARY.

@@ -1,0 +1,31 @@
+Alright, so I'm trying to help the user summarize this news article while preserving the moral framing. The user provided examples, so I need to follow that structure.
+
+First, I'll read the article carefully. It's about the Senate considering the Born-Alive Abortion Survivors Protection Act. The article criticizes Democrats for opposing the bill, suggesting it shows their commitment to unlimited abortion. It mentions Senator Ben Sasse reintroducing the bill after Governor Northam's comments. Democrats voted against it, arguing that born-alive infants don't exist or that existing laws prevent infanticide, which the article disputes. The bill is described as requiring medical care for infants born alive after an abortion, not regulating abortion itself. The article argues that opposing the bill dehumanizes the infants.
+
+Now, for STEP 1, I need to extract morally framed words. Looking for words related to Authority/Subversion, Care/Harm, Fairness/Cheating. Words like "commitment," "protection," "provide," "deny," "dehumanizing," "arbitrary," "deny," "rights," "oppose," "deny," "deny," "deny," "deny." These words highlight the moral dimensions.
+
+Next, the summary needs to incorporate these words. I should mention the bill's purpose, the opposition, the arguments, and the moral implications. It should be concise, under 200 words, and include the key moral points.
+
+I'll structure the summary by introducing the bill, the criticism of Democrats, their arguments, the lack of federal law, and the moral stance on dehumanization. I'll make sure to include the morally framed words to preserve the author's framing.
+
+Let me check if I covered all the points: the bill's purpose, the reintroduction by Sasse, the Democratic opposition, their rationales, the lack of federal law, the media's misrepresentation, and the moral critique. Yes, that should cover it.
+
+Now, I'll draft the summary, ensuring it's clear and within the word limit. I'll use the extracted moral words to highlight the framing.
+</think>
+
+STEP 1:  
+* commitment  
+* protection  
+* provide  
+* deny  
+* dehumanizing  
+* arbitrary  
+* deny  
+* rights  
+* oppose  
+* deny  
+* deny  
+* deny  
+
+SUMMARY:  
+The Senate is preparing to consider the Born-Alive Abortion Survivors Protection Act, a bill that highlights Democrats’ opposition to providing medical care to infants born alive after an attempted abortion. The legislation, reintroduced by Senator Ben Sasse, requires doctors to offer the same degree of care to these infants as any other newborn. However, 44 Democratic senators voted to block the bill last year, claiming that “born-alive” infants do not exist or that existing laws already prevent infanticide—arguments the author disputes. The bill does not regulate abortion itself but focuses solely on requiring medical care for infants who survive the procedure. Critics argue that opposing the bill dehumanizes these infants, as it suggests that the right to abortion includes the right to let an infant die of neglect. The legislation exposes the arbitrary nature of denying rights to a human being based solely on the circumstances of their birth. END OF SUMMARY.

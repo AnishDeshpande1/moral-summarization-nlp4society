@@ -1,0 +1,22 @@
+Here are the summaries for each of the three examples:
+
+**Example 1 (Political Ideology: Left)**
+
+SUMMARY:
+The U.S. has reached an agreement with Russia to secure Syria's chemical weapons stockpile, effectively taking the threat of military action off the table. The deal requires Syria to remove or destroy its chemical weapons by 2014 and allows for international inspections to begin in November. While the administration acknowledges that trusting Assad and Putin will be difficult, they see this as a necessary step towards preventing further violence. The agreement has been hailed as a diplomatic success, but critics argue that it does not hold Assad fully accountable for his actions.
+
+END OF SUMMARY.
+
+**Example 2 (Political Ideology: Center)**
+
+SUMMARY:
+The U.S. and Russia have reached an agreement on securing Syria's chemical weapons stockpile, which will be verified by international inspections. The deal allows for the removal or destruction of Syria's chemical weapons by 2014 and provides a framework for addressing potential future violations. While some lawmakers have expressed concerns about trusting Assad and Putin, the administration sees this as a necessary step towards preventing further violence. The agreement has been hailed as a diplomatic success, but its implementation will be closely watched.
+
+END OF SUMMARY.
+
+**Example 3 (Political Ideology: Right)**
+
+SUMMARY:
+President Obama's decision to reach an agreement with Russia on securing Syria's chemical weapons stockpile has been met with criticism from some lawmakers and experts. They argue that the deal does not hold Assad fully accountable for his actions and that trusting Putin is a mistake. The agreement requires Syria to remove or destroy its chemical weapons by 2014, but critics say it is unrealistic to expect Assad to comply. The decision has been seen as a defeat for Obama's efforts to take military action against Syria.
+
+END OF SUMMARY.

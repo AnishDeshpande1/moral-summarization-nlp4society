@@ -1,0 +1,20 @@
+Alright, I need to summarize this news article while preserving the moral framing related to Authority/Subversion, Care/Harm, and Fairness/Cheating. Let me break it down.
+
+First, the article is about the VA stopping the use of hydroxychloroquine for COVID-19 in veterans. The key points are that the VA initially used the drug but then reduced its use as studies showed possible dangers. President Trump was promoting the drug without evidence, which might have influenced the VA's initial decision. The VA is now focusing on remdesivir and convalescent plasma.
+
+Now, looking at the moral foundations:
+
+1. **Authority/Subversion**: The VA's decision to stop using the drug despite Trump's promotion shows a conflict between authority figures. The VA is following scientific evidence over political influence, which could be seen as resisting subversion.
+
+2. **Care/Harm**: The VA's actions aim to prevent harm to veterans by stopping a potentially dangerous treatment. They're prioritizing the well-being of their patients, which is a care-focused approach.
+
+3. **Fairness/Cheating**: The article mentions that the VA was prescribing the drug more when Trump was promoting it, which might imply that political influence affected medical decisions. The criticism from Rep. Lowey suggests that the VA should have followed scientific advice from the start, highlighting a fairness issue.
+
+I need to make sure the summary captures these elements. It should mention the reduction in hydroxychloroquine use, the initial justification, the shift due to scientific evidence, the criticism from Trump's promotion, and the move towards more effective treatments. Also, the part about the VA data showing higher mortality rates when using the drug should be included to emphasize the care and fairness aspects.
+
+I should structure the summary to first state the main action (VA stopping use), then explain the initial decision and the reasons for stopping, followed by the political influence and criticism, and conclude with the move to other treatments. This way, all moral foundations are addressed.
+
+I need to keep it concise, under 200 words, and make sure each moral dimension is clearly represented without going into too much detail.
+</think>
+
+SUMMARY: The Department of Veterans Affairs (VA) has significantly reduced the use of hydroxychloroquine for treating COVID-19 in veterans, citing concerns over its safety and efficacy. Initially, the VA used the drug to provide hope during a time of limited treatment options, but as studies highlighted potential dangers, prescriptions dropped to just three in the last week. President Trump's promotion of the drug without scientific evidence drew criticism, particularly from Rep. Nita Lowey, who emphasized the importance of following Dr. Anthony Fauci's guidance. The VA now prioritizes treatments like remdesivir, which has shown promise in reducing recovery time. The decision reflects a shift from political influence to science-based care, aiming to protect veterans' lives while addressing concerns about fairness and transparency in medical decision-making. END OF SUMMARY.

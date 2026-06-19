@@ -1,0 +1,36 @@
+Alright, I need to tackle this query where the user wants a news summary that preserves the moral framing. They provided a detailed article about Obama's stance on Uganda's anti-homosexuality bill. 
+
+First, I should identify the morally framed words as per the user's instructions. I'll go through the article and pick out words that carry moral weight, like "criminalize," "disappoint," and "backlash." I'll list each on a new line with an asterisk.
+
+Next, I need to summarize the article. The summary should be concise, around 200 words, and include as many of those moral terms as possible. I'll start by stating Obama's warning to Uganda, mention the bill's harsh penalties, and highlight his disappointment. I'll also note the support the bill has in Uganda and the potential consequences from the U.S., including aid review. Finally, I'll tie in Obama's broader support for gay rights to give context.
+
+I should make sure the summary flows well and captures the key points without getting too bogged down in details. It's important to maintain the moral perspective, so I'll focus on how the bill affects human rights and the relationship between the U.S. and Uganda.
+
+I also need to structure the response correctly, starting with the identified words under STEP 1 and then the summary after the specified tokens. Keeping everything clear and within the word limit is crucial. 
+
+I think I've covered all the necessary points. Time to put it all together and ensure it meets the user's requirements.
+</think>
+
+**STEP 1:**  
+* Criminalize  
+* Disappoint  
+* Backward  
+* Affront  
+* Danger  
+* Protect  
+* Human rights  
+* Freedom  
+* Justice  
+* Equal rights  
+* Setback  
+* Fundamental freedoms  
+* Universal human rights  
+* Treat equally  
+* Progress  
+* Discrimination  
+* Jail terms  
+* Ban  
+* Propaganda  
+
+**SUMMARY:**  
+President Obama strongly condemned Uganda's plans to criminalize homosexuality, warning that it would harm Uganda's relationship with the U.S. and mark a "step backward" for human rights. The Anti-Homosexuality Bill, which Uganda's President Yoweri Museveni plans to sign, would impose harsh penalties, including life imprisonment for "aggravated homosexuality." Obama emphasized the U.S.'s commitment to protecting fundamental freedoms and equal rights, expressing deep disappointment in Uganda's decision. The bill, which already criminalizes homosexuality under colonial-era law, has faced international backlash, particularly from rights activists and the U.S., which is Uganda's largest donor. Obama's stance reflects his administration's broader support for gay rights, including advocating for same-sex marriage and ending the ban on openly gay military service. The U.S. may review its aid to Uganda if the bill is enacted, highlighting the moral and diplomatic implications of the legislation. END OF SUMMARY.

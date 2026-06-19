@@ -1,0 +1,14 @@
+Alright, so the user has given me a query where they want a news summary that preserves the moral framing from the original article. They've provided the article, the morally framed words, and specific instructions on how to structure the summary. 
+
+First, I need to understand the key points of the article. It's about the Republican Party's stance on LGBT issues, with Peter Thiel's speech at the convention, Donald Trump's support, and Mike Pence's opposing views. The article highlights the tension between pro-LGBT Republicans and the party's platform.
+
+Next, I should identify the morally framed words the author used: friend, opposes, supports, refuse, protect, violence, oppression, opposing, rights, collapse. My summary needs to include as many of these as possible to maintain the moral tone.
+
+I need to structure the summary concisely, under 200 words. I'll start by introducing the conflicting perspectives within the GOP. Then, mention Thiel's speech and his stance, followed by Trump's ambiguous support and Pence's extreme opposition. I should highlight the specific policies the platform opposes and Trump's unclear position. Finally, I'll note the broader debate on social issues versus real problems.
+
+I have to ensure the summary flows logically, each sentence connecting the main points while using the morally charged words. I'll avoid adding any new information not present in the article. 
+
+Let me draft the summary, making sure each key point is covered and the moral framing is preserved. I'll check the word count to stay within the limit. Once done, I'll format it as per the user's instructions, starting with "SUMMARY:" and ending with "END OF SUMMARY."
+</think>
+
+SUMMARY: The Republican Party's 2016 platform has been criticized for being the most anti-LGBT in history, opposing same-sex marriage, supporting "conversion therapy," and backing laws that discriminate against LGBT individuals. Despite this, some pro-LGBT Republicans, including PayPal co-founder Peter Thiel, view Donald Trump as a supportive candidate. Thiel, in a speech at the GOP convention, expressed pride in being gay and a Republican, while also acknowledging disagreements with the party's platform. He criticized the transgender bathroom debate as a distraction from more pressing issues. Trump has described himself as a "friend of the gay community," but his support is unclear, as he has also backed the First Amendment Defense Act and favored state-level decisions on same-sex marriage. Trump's vice presidential pick, Mike Pence, has been labeled as having "more extreme" views on LGBT rights, opposing equal rights and calling gay marriage a sign of "societal collapse." The article highlights the tension between individual support for LGBT rights and the broader GOP platform, which opposes key rights and policies. END OF SUMMARY.

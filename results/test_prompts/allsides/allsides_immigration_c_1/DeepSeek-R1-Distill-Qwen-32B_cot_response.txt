@@ -1,0 +1,33 @@
+Okay, so the user wants me to summarize a news article while preserving the moral framing. First, I need to understand the article's content. It's about the Trump administration introducing new visa rules to restrict "birth tourism." Birth tourism is when women come to the U.S. to give birth so their kids get citizenship. The rules make it harder for them to get visas unless they have a medical need, and they have to prove they can pay for everything.
+
+Now, the user has specific steps. Step 1 is to identify all single words that are morally framed. I need to go through the article and pick out words that carry moral connotations. Words like "restrict," "abuses," "loophole," "siphoned," "integrity," "endemic," "exploit," "fraud," "evasion," "lucrative," "criminal," "schemes," "lied," "indictments." These words highlight the administration's stance against the practice, emphasizing it as a problem that needs fixing.
+
+Next, for the summary, I have to keep as many of these morally framed words as possible. The summary should be concise, under 200 words. I need to mention the new visa rules, the purpose behind them, the administration's arguments about protecting citizenship integrity and national security, the financial burden on taxpayers, and the industry's exploitation. I should also note the opposition and the potential risks to pregnant women.
+
+I should structure the summary to first state the action taken, then the reasons, followed by the arguments for and against, and the implications. I need to ensure that the moral framing is clear, using the identified words to convey the administration's perspective and the critics' viewpoints.
+
+I also need to make sure the summary flows well and covers all key points without being too detailed. I should avoid introducing new information not present in the article. It's important to balance the administration's stance with the critics' concerns to provide a fair summary.
+
+Finally, I need to format the response correctly, starting with STEP 1 listing the morally framed words, followed by the SUMMARY section, and ending with the specified tokens. Keeping everything within the word limit is crucial, so I'll have to be concise but thorough.
+</think>
+
+**STEP 1:**  
+* Restrict  
+* Abuses  
+* Loophole  
+* Siphoned  
+* Integrity  
+* Endemic  
+* Exploit  
+* Fraud  
+* Evasion  
+* Lucrative  
+* Criminal  
+* Schemes  
+* Lied  
+* Indictments  
+
+**SUMMARY:**  
+The Trump administration has introduced new visa rules to restrict "birth tourism," where foreign women travel to the U.S. to give birth and secure citizenship for their children. Under the rules, tourist visas will be denied if consular officers determine the primary purpose of the visit is childbirth. Applicants must prove they have a medical need and the financial means to cover all expenses. The administration claims this will protect U.S. citizenship integrity, national security, and taxpayers from financial burdens. Critics argue the policy could endanger pregnant women and raise concerns about how officers will assess intent. The practice, while legal, has faced scrutiny due to its association with fraud and exploitation. The rules aim to combat criminal activity linked to birth tourism, including visa fraud and false claims.  
+
+**END OF SUMMARY.**

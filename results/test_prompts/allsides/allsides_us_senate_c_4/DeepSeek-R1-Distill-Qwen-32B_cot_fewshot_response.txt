@@ -1,0 +1,10 @@
+Alright, so I need to summarize the given news article while preserving the moral framing. First, I'll go through the article and identify all the morally charged words. Then, I'll craft a summary that includes as many of these words as possible without making it too long.
+
+Looking at the article, the key points are about Republican senators warning Trump not to fire Mueller, the risks for Trump if he does, and the various criticisms from different sides. The morally framed words I spot include "warned," "firing," "probe," "attacks," "meddling," "harshly," "end," "presidency," "pushback," "frustrated," "corrupt," "witch hunt," "collusion," "innocent," "interference," "cause," "targeted," "leaked," "defamatory," and "corrupted."
+
+Now, I'll structure the summary to include these words, ensuring it's concise and captures the essence of the article. I'll start by mentioning the Republicans' warning, then Trump's actions and reactions, followed by the senators' concerns and the broader implications of Trump's moves on his presidency and the investigation.
+</think>
+
+**Summary:**
+
+Republican senators have warned President Donald Trump not to fire Special Counsel Robert Mueller, emphasizing that federal investigators must be allowed to continue their probe into Russian meddling in the 2016 election. Trump has renewed his Twitter attacks on the FBI and Mueller’s investigation, sparking concerns among Republicans. Senator Jeff Flake criticized Trump’s actions, while Lindsey Graham warned that firing Mueller could mark “the beginning of the end of his presidency.” Despite these concerns, White House lawyer Ty Cobb stated that Trump is not considering Mueller’s removal. Flake expressed hope for congressional pushback against any attempt to fire Mueller. Trump has accused the FBI of corruption and called the Russia probe a politically motivated witch hunt, while his lawyer, John Dowd, urged an end to the investigation. Rubio criticized the firing of Andrew McCabe, stating it should have been allowed to proceed. McCabe’s lawyer called Trump’s comments “childish, defamatory, and false.” END OF SUMMARY.

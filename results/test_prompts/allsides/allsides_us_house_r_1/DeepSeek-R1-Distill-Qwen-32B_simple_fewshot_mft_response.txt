@@ -1,0 +1,17 @@
+Okay, so I need to summarize this news article about the House Judiciary Committee's impeachment proceedings against President Trump. The user wants the summary to preserve the moral framing related to Authority/Subversion, Fairness/Cheating, and Loyalty/Betrayal.
+
+First, I'll read through the article to understand the key points. The article discusses Chairman Nadler's argument that Trump put himself before the country, which ties into Authority/Subversion because it's about misuse of power. The charges include abuse of power, bribery, and obstruction, which relate to Fairness/Cheating because they involve improper gain and obstruction of justice.
+
+Loyalty/Betrayal comes into play with Trump's actions towards Ukraine and the Biden family, suggesting a lack of loyalty to the country's interests. The article also mentions the quid pro quo, which is a fairness issue as it's about exchanging favors inappropriately.
+
+I need to make sure the summary highlights these moral foundations. I'll start by stating Nadler's argument about Trump's self-interest, then mention the charges and how they relate to the moral dimensions. I'll also include the Republican counterarguments briefly to show the opposing viewpoint but focus on the Democrats' framing.
+
+I should keep it concise, under 200 words, and ensure it captures the essence of the moral issues presented. I'll structure it by first introducing the main argument, then the charges, the evidence (like the phone call and quid pro quo), and the opposing views, all while tying back to the moral foundations.
+
+Let me draft the summary, making sure to include all these elements without going over the word limit. I'll check that each moral foundation is addressed clearly and that the summary flows logically from one point to the next.
+</think>
+
+SUMMARY:  
+House Judiciary Committee Chairman Jerrold L. Nadler argued that President Trump put his personal interests above the nation, emphasizing the moral imperative for public officials to prioritize the country over self-gain. The committee is preparing articles of impeachment, focusing on charges of abuse of power, bribery, and obstructing Congress, stemming from Trump's request for Ukraine to investigate his political rival, Joe Biden, and his son Hunter. Democrats allege Trump engaged in a quid pro quo scheme, withholding military aid to pressure Ukraine into conducting the investigation, which they argue undermines the integrity of free and fair elections. Republicans counter that Trump's actions, while unconventional, do not constitute criminality and that investigating Hunter Biden was legitimate. The evidence includes a July 25 phone call where Trump pressed Ukraine's president for the investigation, and testimony from Ambassador Gordon Sondland, who offered a quid pro quo for a White House visit. The moral framing highlights Trump's subversion of authority, betrayal of public trust, and fairness concerns, as Democrats argue his actions eroded democratic institutions.  
+
+END OF SUMMARY.

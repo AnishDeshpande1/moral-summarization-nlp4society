@@ -1,0 +1,4 @@
+SUMMARY:
+NASA’s first permanent railroad in orbit encountered a hiccup when the one‑ton railcar drifted slightly off its magnetic track in zero‑gravity, causing the automatic latching system to fail several times. Engineers traced the problem to the car’s tiny separation from the iron strips that guide it, a nuance of weightlessness that required ground controllers to intervene manually and send commands from astronaut Carl Walz to keep the car moving. Despite the setbacks, officials emphasized that the $190 million system is safely secured by rings on the girder, and there is no risk of it rolling off. The railcar, once fine‑tuned, will soon transport the station’s massive robot arm as additional girders are installed, marking a critical step in the ISS’s ongoing construction. NASA plans to adjust the software if needed, underscoring a commitment to responsible engineering and the safety of the space‑based infrastructure.
+
+END OF SUMMARY.

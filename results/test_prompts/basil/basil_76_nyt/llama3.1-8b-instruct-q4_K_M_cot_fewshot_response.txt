@@ -1,0 +1,20 @@
+Here is the identification of single words that are morally framed:
+
+STEP 1:
+* false
+* desperate
+* partisan
+* contrived
+* garbage
+* immoral
+* illegal
+* predatory
+* victim
+* guilty
+* trick
+* rape
+
+Now, here is a summary of the news article preserving as many morally framed words as possible:
+
+SUMMARY:
+Republican officials in Alabama have staunchly defended their party's Senate nominee, Roy S. Moore, against allegations that he made sexual advances toward four teenage girls when he was in his 30s. The Washington Post reported that Mr. Moore had approached a 14-year-old girl and engaged in predatory behavior. However, the officials dismissed the allegations as "false" and "desperate political attacks" by the Democratic Party. They also labeled the story as "contrived media garbage." Alabama's state auditor, Jim Ziegler, compared Mr. Moore to biblical Joseph, saying that his actions were not immoral or illegal, but rather a consensual relationship between an adult and a minor. The officials' responses highlight the partisan nature of their defense and raise questions about their moral compass. END OF SUMMARY.

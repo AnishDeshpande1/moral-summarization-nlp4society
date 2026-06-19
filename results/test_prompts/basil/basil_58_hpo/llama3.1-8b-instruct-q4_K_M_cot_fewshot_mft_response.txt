@@ -1,0 +1,21 @@
+Here is the output for the target news article:
+
+STEP 1:
+* failed
+* responsiveness
+* leadership
+* bigger
+* job
+* lead
+* brash
+* confrontational
+* major
+* blow
+* retaliation
+* caused
+* reversed
+* supported
+* played
+
+SUMMARY:
+New Jersey Gov. Chris Christie announced his candidacy for the presidency in 2016, citing a desire to "fight for the people of the United States of America." He criticized lawmakers in Washington, including President Barack Obama, for failing to lead and compromise. Christie emphasized the need for courage to choose and stand up against the status quo. His favorability rating soared after his response to Hurricane Sandy, but was later marred by the Bridgegate scandal, which caused a major blow to his reputation. Christie reversed his position on Common Core education standards, highlighting his willingness to adapt and lead. As chairman of the Republican Governors Association, he demonstrated leadership in raising money for GOP governors. Despite criticism for being brash and confrontational, Christie is running for president, citing a job that requires him to "lead" and make tough decisions. END OF SUMMARY.

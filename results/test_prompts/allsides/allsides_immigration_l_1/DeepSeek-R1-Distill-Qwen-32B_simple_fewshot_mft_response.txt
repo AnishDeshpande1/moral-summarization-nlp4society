@@ -1,0 +1,18 @@
+Alright, I need to summarize the given article while preserving the moral framing related to Authority/Subversion, Care/Harm, Fairness/Cheating, and Loyalty/Betrayal. Let me break it down.
+
+First, the article emphasizes that immigrants have been foundational to America's success. It mentions companies like Budweiser and McDonald’s, which were founded by immigrants or their descendants. This ties into the Care/Harm foundation because it highlights the positive impact immigrants have on the economy and society.
+
+Next, the article addresses critics who argue that undocumented immigrants abuse social programs. It counters this by citing a study showing immigrants contribute more to Medicare than they receive, which relates to Fairness/Cheating. This shows immigrants aren't cheating the system but actually contributing positively.
+
+The article also discusses the correlation between immigration and crime, pointing out that native-born males are more likely to be incarcerated. This again touches on Fairness/Cheating, challenging the stereotype that immigrants are criminals.
+
+The bureaucratic and convoluted citizenship process is criticized as a form of subversion against the values of freedom and opportunity. This relates to Authority/Subversion, as the current system undermines the principles it's supposed to uphold.
+
+Finally, the article calls for welcoming immigrants, which ties into Loyalty/Betrayal. It argues that supporting immigrants is loyal to the American ideal of opportunity and betrays that ideal when immigrants are disparaged.
+
+Putting it all together, the summary should highlight these points, ensuring each moral foundation is addressed concisely within the 200-word limit.
+</think>
+
+SUMMARY: The article emphasizes the critical role of immigrants in shaping America's success, challenging anti-immigrant rhetoric. Immigrants have contributed specialized skills, founded iconic companies, and created millions of jobs, highlighting their positive impact on the economy. The author critiques the notion that undocumented immigrants abuse social programs, citing a study showing they contribute more to Medicare than they receive, countering claims of unfairness. The article also debunks the link between immigration and crime, noting that native-born males are more likely to be incarcerated. It condemns the bureaucratic citizenship process as a betrayal of American values, arguing that it incentivizes unlawful alternatives and undermines public safety. The author advocates for welcoming immigrants, who seek freedom and opportunity, and rejects calls for rounding up undocumented individuals or building walls. Immigrants, the article asserts, are essential to America's greatness, both past and future, embodying loyalty to the nation's ideals.
+
+END OF SUMMARY.

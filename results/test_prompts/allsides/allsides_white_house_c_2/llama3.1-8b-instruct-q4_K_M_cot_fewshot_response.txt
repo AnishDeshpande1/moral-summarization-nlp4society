@@ -1,0 +1,88 @@
+Here is the analysis:
+
+**Example 1 (Political Ideology: Left)**
+
+STEP 1:
+* flawed
+* errors
+* tragic
+* dysfunctional
+* genius
+* rare
+* vital
+* mistakes
+* urgent
+* shortcomings
+* failures
+* struggles
+* shortcomings
+* aloof
+* crisis
+* doubt
+* darkest
+* historically
+
+SUMMARY:
+The US has swung from one set of flawed policies to another since 9/11, contributing to damaged relations and crises worldwide. President Obama's errors in judgment and execution have been a significant factor in these problems. However, he can learn from George W. Bush, who recognized his mistakes and instituted sweeping changes in his second term. Bush's ability to admit errors and embrace change was rare and vital for the nation's progress. Obama would be wise to look beyond political caricatures and learn from Bush's example, standing up to himself and demanding constructive change from within.
+
+END OF SUMMARY.
+
+**Example 2 (Political Ideology: Center)**
+
+STEP 1:
+* anxiety
+* dramatic
+* volatile
+* apologetic
+* strength
+* swipe
+
+SUMMARY:
+A new advertisement aims to stoke anxiety over American policies in the Middle East, warning of the risks of a nuclear Iran. The ad features Prime Minister Benjamin Netanyahu's message: "Wait for what? Wait until when?" implying that the world is being too apologetic towards Iran. The conclusion is clear: "The world needs American strength, not apologies." This swipe at President Obama's foreign policy is part of a larger effort to promote a stronger US stance in the region.
+
+END OF SUMMARY.
+
+**Example 3 (Political Ideology: Right)**
+
+STEP 1:
+* felony
+* embarrass
+* control
+* intimidate
+* infuriate
+* duty
+* concealing
+* manipulating
+* interference
+* felony
+* sinister
+* perilous
+* unelected
+* unaccountable
+* unnamed
+* pain
+* criminal
+* waiving
+* insulates
+* impunity
+* accountability
+* transparency
+* overriding
+* savaged
+
+SUMMARY:
+The Trump administration is dealing with a series of leaks, including classified information and confidential communications. However, the article highlights that concealing information can be just as problematic as revealing it, interfering with the president's judgment. The duty to reveal information is crucial, and the media has the right to publish leaked information, which is of material interest to the public. Trump's anger towards the press is understandable, but he must balance this with accountability and transparency in government.
+
+END OF SUMMARY.
+
+**Target News Article**
+
+STEP 1:
+* threat
+* provocative
+* intolerant
+
+SUMMARY:
+The US has imposed new economic sanctions on Iranian individuals and companies, citing Iran's missile tests and support for rebels in Yemen. The Treasury Department said that Iran's continued support for terrorism and development of its ballistic missile program poses a threat to the region and the US. National security adviser Michael Flynn called Iran "the world’s leading state sponsor of terrorism," and vowed to no longer tolerate its provocations. Lawmakers applauded the sanctions, but questioned some of the administration's sabre-rattling towards Iran.
+
+END OF SUMMARY.

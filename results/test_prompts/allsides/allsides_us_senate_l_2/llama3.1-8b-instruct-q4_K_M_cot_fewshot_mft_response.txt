@@ -1,0 +1,27 @@
+Here is the output:
+
+STEP 1:
+* aid
+* relief
+* devastated
+* roadblocks
+* demands
+* border
+* stripped
+* allocated
+* agreed
+* signed
+* battleground
+* problems
+* delay
+* partisan
+* squabbles
+* efforts
+* rebuild
+* balance
+* politicization
+
+SUMMARY:
+The Senate has finally approved a deal on disaster aid, green-lighting $19.1 billion in relief to millions of Americans who have been waiting for help in the wake of devastating hurricanes, wildfires, and floods. President Trump's insertion into the fight caused major problems, leading to a delay in disaster relief. Trump initially took issue with additional funding for hurricane-devastated Puerto Rico, spurring months of back-and-forth on the subject. The final package does not address either of Trump's demands, including $4.5 billion in aid for the border, which has been completely stripped out of the deal. Funding for Puerto Rico has been allocated to $1.4 billion, a fraction of what was initially requested. The fallout of this delay is staggering, with millions of people waiting on aid after natural disasters that have affected Americans nationwide.
+
+END OF SUMMARY.

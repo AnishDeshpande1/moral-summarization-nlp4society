@@ -1,0 +1,45 @@
+Okay, so I'm trying to help the user with their query. They want me to act as a news summarizer assistant and a moral expert. The task is to summarize a given news article while preserving the moral framing. The user provided specific steps: first, identify morally framed words, and then write a summary using those words.
+
+First, I need to understand what morally framed words are. These are words that carry a moral judgment, either positive or negative. For example, words like "fear," "illegal," "infiltrated," "suffering," etc., which imply a moral stance.
+
+Looking at the news article, I'll go through it paragraph by paragraph. The article talks about the Trump administration sending troops to the border, the caravan of migrants, and the moral implications of their actions.
+
+I'll start by reading each sentence and picking out words that have a moral connotation. For instance, "fear" is used in the context of Trump's campaign, which is a negative moral frame. "Illegal" is used to describe immigrants, which is a negative judgment. "Infiltrated" is another strong negative word. On the other hand, "humanitarian" is a positive moral frame.
+
+I'll list each of these words, making sure to include all instances. It's important to capture the author's moral perspective, so I need to be thorough.
+
+After identifying all the morally framed words, I'll move on to summarizing the article. The summary needs to be concise, no more than 200 words, and should include as many of those morally framed words as possible. I'll structure the summary to highlight the key points: Trump's actions, the moral implications, the migrants' situation, and the political context.
+
+I need to ensure that the summary flows well and accurately represents the article's content while emphasizing the moral aspects. I'll check that I'm not adding any personal bias, just reflecting the author's framing.
+
+Finally, I'll make sure the summary starts with "SUMMARY:" and ends with "END OF SUMMARY." and that it's within the word limit. I'll review the list of words and the summary to ensure they align correctly and that the moral framing is preserved.
+</think>
+
+**STEP 1:**  
+* Fear  
+* Illegal  
+* Infiltrated  
+* Sinister  
+* Emergency  
+* Asylum  
+* Humanity  
+* Exploitation  
+* Suffering  
+* Oppression  
+* Poverty  
+* Violence  
+* Exploitation  
+* Disconnected  
+* Discrimination  
+* Rights  
+* Justice  
+* Morality  
+* Humanity  
+* Exploitation  
+* Oppression  
+* Poverty  
+* Violence  
+* Exploitation  
+
+**SUMMARY:**  
+Homeland Security Secretary Kirstjen Nielsen clarified that U.S. soldiers have no intention of shooting migrants crossing into the U.S. from Mexico but emphasized that all migrants will be apprehended. The Trump administration is deploying 800 active-duty troops to the southern border, amid a caravan of thousands of Central American migrants fleeing poverty and violence. Trump has used the caravan to stoke fears about immigration, framing it as a national emergency to rally his base ahead of the midterms. The migrants, mostly Hondurans, face a long journey and uncertain fate, with many unaware of the political firestorm their journey has sparked. Trump has falsely claimed that "Middle Easterners" are part of the caravan and accused Democrats of organizing it. Migrants have responded by calling for a more humanitarian approach, emphasizing their desire for a better future for their children. The U.S. government is also considering denying asylum applications, a move that would likely face legal challenges. END OF SUMMARY.

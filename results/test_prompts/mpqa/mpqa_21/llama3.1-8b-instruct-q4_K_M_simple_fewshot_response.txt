@@ -1,0 +1,9 @@
+Here is the summary of the target news article:
+
+SUMMARY:
+
+A recent study by NASA researchers suggests that declining greenhouse-gas emissions since the late 1980s have slowed the growth rate of the atmosphere's ability to retain heat, potentially leading to a cooler future. The implementation of the Montreal Protocol, which phased out ozone-depleting gases, is credited with contributing to this slowdown. The researchers propose alternative approaches to addressing climate change, focusing on reducing emissions of pollutants such as black carbon soot, ozone, and methane from landfills, mining, and oil and gas production. They estimate that a 30% reduction in methane emissions would have a comparable effect on the climate to cuts in CO2 envisioned by the Kyoto Protocol. This study offers a glimmer of hope for mitigating the effects of climate change through targeted reductions in greenhouse-gas emissions.
+
+END OF SUMMARY.
+
+I preserved the moral framing of the article, which highlights the potential for human action to mitigate climate change and suggests that policymakers have alternative approaches available to them. The tone is neutral and informative, without any emotive language or value judgments.

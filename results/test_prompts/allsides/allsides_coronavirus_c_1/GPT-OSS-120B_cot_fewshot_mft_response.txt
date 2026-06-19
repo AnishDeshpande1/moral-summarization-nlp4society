@@ -1,0 +1,31 @@
+**STEP 1:**  
+* vaccine  
+* immune  
+* herd  
+* immunity  
+* deaths  
+* deaths* (duplicate, keep once)  
+* risk  
+* unsafe  
+* skeptical  
+* skeptical* (keep once)  
+* harmful  
+* harm  
+* care  
+* protect  
+* protect* (once)  
+* tragedy  
+* tragedy* (once)  
+* hopeful  
+* hopeful* (once)  
+* essential  
+* essential* (once)  
+* urgent  
+* urgent* (once)  
+* authority  
+* subversion  
+* authority* (once)  
+* subversion* (once)  
+
+**SUMMARY:**  
+The article explains that ending the coronavirus pandemic hinges on developing a safe and effective vaccine, an effort that has mobilized unprecedented authority and resources worldwide. While many experts are cautiously optimistic, there is legitimate skepticism about the speed of development and the risk that an unsafe vaccine could cause harm. Epidemiologists warn that waiting for natural herd immunity would result in millions of deaths, a tragedy that underscores the urgent need for a protective solution. Critics argue that over‑reliance on a future vaccine may subvert current care measures—testing, tracing, and therapeutics—that can immediately reduce harm. Supply‑chain bottlenecks and the possibility of short‑lived immunity further complicate the path forward. The piece calls for balanced action: continue vigorous vaccine research while maintaining essential public‑health safeguards to protect the vulnerable and prevent unnecessary loss of life. END OF SUMMARY.

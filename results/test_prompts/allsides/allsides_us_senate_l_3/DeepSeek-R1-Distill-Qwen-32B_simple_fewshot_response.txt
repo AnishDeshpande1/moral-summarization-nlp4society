@@ -1,0 +1,18 @@
+Alright, I need to summarize this news article about the First Step Act. The user wants a concise summary that preserves the moral framing from the original text. Let me start by reading through the article carefully to understand the key points.
+
+The article discusses the passage of the First Step Act in the Senate, which is a significant criminal justice reform bill. It received bipartisan support, which is notable. The bill aims to reduce mandatory minimum sentences for drug offenses, give judges more discretion, and improve prisoner rehabilitation. It also bans inhumane practices like shackling pregnant women. The act could affect thousands of inmates, offering them a chance for release or better conditions.
+
+I notice the moral framing here is about fairness and reducing mass incarceration. The article mentions how the war on drugs led to over-imprisonment, particularly affecting marginalized communities. Supporters, including public figures and advocacy groups, highlight the bill's potential to save money, improve community safety, and provide second chances.
+
+I should make sure the summary captures these elements: the bipartisan support, the main provisions of the bill, its impact on federal prisoners, and the moral arguments for reform. I need to keep it under 200 words and ensure it's clear and concise, highlighting the positive aspects and the consensus across political lines.
+
+Let me structure the summary: start with the passage in the Senate, mention the bipartisan support, outline the key reforms, and conclude with the moral implications and potential benefits. I'll avoid technical jargon to keep it accessible.
+
+I should also check for any specific details that are crucial, like the number of prisoners affected or the ending of certain mandatory sentences. Including these specifics will make the summary more informative.
+
+Finally, I'll ensure that the summary flows logically, starting from the bill's passage, its provisions, and ending with the broader impact and moral stance behind the legislation.
+</think>
+
+SUMMARY: The First Step Act, a landmark criminal justice reform bill, has passed the Senate with bipartisan support, 87-12. The legislation aims to reduce mandatory minimum sentences for drug-related crimes, give judges more discretion in sentencing non-violent offenders, and improve prisoner rehabilitation efforts. It also bans inhumane practices like shackling pregnant women and provides pathways for elderly and terminally ill inmates to return home. The bill retroactively extends the 2010 Fair Sentencing Act, potentially affecting thousands of drug offenders with disproportionately long sentences. Supporters, including public figures like Kim Kardashian West and Mark Cuban, applaud the bill as a step toward addressing the nation’s mass incarceration crisis and providing second chances. The act, which now heads to the House for final approval, reflects a rare consensus across political divides, with both progressives and law-and-order conservatives backing the reform. It is expected to save billions of dollars while promoting safer communities and healing for marginalized groups.
+
+END OF SUMMARY.

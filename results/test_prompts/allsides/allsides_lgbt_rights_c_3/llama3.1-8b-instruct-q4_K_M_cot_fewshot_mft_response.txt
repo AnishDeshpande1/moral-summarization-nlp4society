@@ -1,0 +1,22 @@
+Here is the response to the target news article:
+
+STEP 1:
+* welfare
+* abandoned
+* better
+* emotionally
+* economically
+* irresponsible
+* pressured
+* model
+* denied
+* rewarded
+* belied
+* contrary
+* distressed
+* justify
+
+SUMMARY:
+A federal appeals court has struck down same-sex-marriage bans in Wisconsin and Indiana, ruling that the states had given the court "no reasonable basis" for forbidding gay marriage. The decision highlights the welfare of American children as a key issue, with Judge Richard Posner arguing that many are better off emotionally and economically if their adoptive parents were married. However, he noted that heterosexual couples tend to be sexually irresponsible, producing unwanted children by the carload, while homosexual couples do not produce unwanted children and are model parents who should be rewarded with the right to marry. The decision also rejects the states' argument that the ban on same-sex marriage helps to foster a centuries-old tradition of marriage as between a man and a woman. Posner argued that mere distress is not enough to justify the ban, and that tradition cannot be a lawful ground for discrimination.
+
+END OF SUMMARY.

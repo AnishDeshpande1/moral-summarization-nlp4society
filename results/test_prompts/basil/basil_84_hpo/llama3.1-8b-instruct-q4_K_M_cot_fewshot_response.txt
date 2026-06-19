@@ -1,0 +1,53 @@
+Here are the single words that are morally framed:
+
+STEP 1:
+* troubling
+* politically
+* biased
+* bad
+* losers
+* clowns
+* hoax
+* collusion
+* obstruction
+* witch
+* hunt
+* damaged
+* reputation
+* sterling
+* severely
+* concern
+* idiot
+
+However, upon reviewing the target news article, I realized that there are more morally framed words. Here is the updated list:
+
+STEP 1:
+* troubling
+* politically
+* biased
+* bad
+* losers
+* clowns
+* hoax
+* collusion
+* obstruction
+* witch
+* hunt
+* damaged
+* reputation
+* sterling
+* severely
+* concern
+* idiot
+* pressure
+* punish
+* protected
+* harm
+* weaken
+
+Now, here is the summary:
+
+SUMMARY:
+FBI Special Agent Peter Strzok has been fired from the bureau despite a career FBI official's recommendation for a 60-day suspension and demotion. The decision is "deeply troubling" to Americans, as it contradicts FBI Director Chris Wray's earlier guarantee that the bureau would follow its regular process. Strzok's attorney claims the termination was taken in response to "political pressure" and to punish him for his "protected" speech, not based on a fair examination of the facts. The decision has sparked concerns about bias and the impact on the FBI's reputation. Trump celebrated the firing on Twitter, writing that the investigation into his campaign should be dropped and that the investigation into Clinton should be properly redone.
+
+END OF SUMMARY.

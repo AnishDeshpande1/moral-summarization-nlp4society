@@ -1,0 +1,22 @@
+Okay, so I need to summarize this news article while preserving the moral framing related to Authority/Subversion, Care/Harm, and Fairness/Cheating. Let me read through the article first to understand the main points.
+
+The article talks about a Republican immigration bill in the House. The bill is supposed to end family separation at the border, but the author argues that it's deceptive. The bill doesn't actually stop the Trump administration from separating families. Instead, it removes legal protections that prevent indefinite detention of children and families. The Flores agreement, which limits how long kids can be detained, is being overruled. The bill allows ICE to detain families indefinitely, which the author sees as a way for Trump to keep families in detention without separating them. However, this still causes harm by keeping children in detention for long periods.
+
+Looking at the moral foundations: 
+
+- **Authority/Subversion**: The bill is trying to change existing legal agreements (like the Flores agreement), which could be seen as subverting authority. The administration is using its power to override these protections.
+
+- **Care/Harm**: The main issue here is the harm caused to children and families by indefinite detention. The author is highlighting the moral failing of causing unnecessary harm to vulnerable groups.
+
+- **Fairness/Cheating**: The author argues that the bill is a deceptive move, promising to end family separation but actually allowing indefinite detention. This is seen as unfair and a cheat because it misleads the public about its intentions.
+
+I need to make sure the summary captures these points. It should mention that the bill doesn't stop family separation, removes protections, allows indefinite detention, and that this is deceptive. The moral framing should emphasize the subversion of authority, the harm caused, and the unfairness of the situation.
+
+Let me structure the summary: Start by stating the bill's claims, then explain what it actually does, and highlight the moral issues with it. Make sure to mention the Flores agreement, the indefinite detention, and the deception involved.
+
+I should keep it concise, under 200 words, and focus on the key moral points without getting bogged down in details. Also, ensure that the summary reflects the author's critical stance towards the bill and the administration's actions.
+</think>
+
+The Republican immigration bill claims to end family separation at the US-Mexico border, but it fails to address the root causes of the issue. Instead of stopping the separation of children from their parents, the bill removes legal protections that prevent indefinite detention of families. It overturns the Flores agreement, which previously required children to be released "without unnecessary delay" and kept in the least restrictive conditions. This change allows the Trump administration to detain families together indefinitely, effectively continuing the harm caused by prolonged detention. The bill's deceptive framing misleads the public into believing it addresses family separation, while it actually undermines existing protections and perpetuates the administration's harsh immigration policies. The moral framing highlights the subversion of authority through the repeal of legal agreements, the care/harm dimension by prolonging detention and causing distress to families, and the fairness/cheating aspect by misleading the public about its intentions. 
+
+END OF SUMMARY.

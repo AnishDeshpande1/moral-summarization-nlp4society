@@ -1,0 +1,17 @@
+Here is the target news article:
+
+Environmentalist groups staged a protest against the U.S. alternative to the Kyoto Protocol on curbing global warming near the U.S. Embassy in Tokyo on Sunday prior to President George W. Bush's arrival in the capital.
+
+STEP 1:
+* regrettable
+* negative
+* voluntary
+* mandatory
+* increase
+* reconsider
+* existing
+
+SUMMARY:
+Environmentalist groups protested against the U.S. alternative to the Kyoto Protocol near the U.S. Embassy in Tokyo, calling it "regrettable" and "negative". The protesters, including representatives of NGOs such as Friends of the Earth Japan, handed a letter to President Bush's guard, urging him to reconsider his climate policy plan and re-enter the Kyoto Protocol. They argue that the new plan would allow greenhouse gas emissions to increase by 30% compared to 1990 levels in 2010, making it an "existing" but inadequate framework for tackling global warming. The protesters also called on President Bush to take leadership in helping developing countries through "peaceful dialogue and fair economic support", and to stop all air raids on Afghanistan, cease nuclear experiments, and reduce U.S. military bases in Japan.
+
+END OF SUMMARY.

@@ -1,3 +1,6 @@
+# Name of the model subfolder inside --hf-model-folder
+base_model_name: Meta-Llama-3.1-8B-Instruct
+
 bitsandbytes:
   bnb_4bit_compute_dtype: bfloat16
   bnb_4bit_quant_type: nf4

@@ -1,0 +1,5 @@
+SUMMARY:
+
+While severe illness from COVID-19 in children is rare, serious cases can occur. However, the risk of death is significantly lower than for older adults. To keep schools safe, the most important factor is not what happens within schools, but rather how well communities control the coronavirus. Adhering to the three W's - wear a mask, wash your hands, watch your distance - and implementing strategic testing, isolation, contact tracing, and quarantine measures can help contain the virus. The CDC has released guidelines for safely reopening schools, which must be tailored to each locality's unique needs. In areas with low community transmission, schools can reopen by following eight basic safety measures, including shielding vulnerable individuals, reducing risk, and modifying essential services. By prioritizing community control and safety measures, schools can reopen safely and minimize the risk of COVID-19 transmission.
+
+END OF SUMMARY.

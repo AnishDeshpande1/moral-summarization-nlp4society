@@ -1,0 +1,18 @@
+Okay, so I'm trying to help the user with their query. They want me to act as a news summarizer and a moral expert. The task is to summarize a news article while preserving the moral framing the author used. 
+
+First, I need to read the article carefully. It's about Chicago's record-high homicides and shootings in 2016. The key points are the high numbers, the spike in illegal guns, the areas affected, and the impact of police actions on crime rates.
+
+The user provided a list of morally framed words. I need to make sure to include as many as possible without making the summary too long. The summary should be under 200 words and start with "SUMMARY:" and end with "END OF SUMMARY."
+
+I'll start by noting the record homicides and shootings. Then mention the illegal guns and the areas affected. I should include Superintendent Johnson's comments about the lack of deterrent and the impact of the Laquan McDonald case. Also, touch on the city's efforts to combat the violence.
+
+I need to ensure the summary flows well and covers all critical points while using the moral terms. Let me structure it: introduce the problem, explain the causes, mention the affected areas, discuss the police's perspective, and conclude with the city's response.
+
+I should avoid adding my own opinions, just stick to summarizing the article's content with the moral framing intact. Make sure each sentence is concise and includes the necessary moral terms without overcrowding.
+
+Finally, I'll check the word count to ensure it's within the limit and that all key points are covered. That should fulfill the user's request effectively.
+</think>
+
+SUMMARY:  
+In 2016, Chicago experienced its most violent year in two decades, with 762 homicides and 3,550 shooting incidents, surpassing New York and Los Angeles combined. The city saw a staggering 20% increase in illegal gun seizures, with 8,300 recovered. Police Superintendent Eddie Johnson linked the surge in violence to a flood of illegal guns and a lack of deterrents, citing the low consequences for gun offenders compared to other crimes. The majority of deaths and shootings occurred in poor, predominantly Black neighborhoods, with victims often tied to gangs. Johnson attributed the violence to emboldened criminals, partly due to public anger at police following the Laquan McDonald shooting, which sparked protests and weakened public trust in law enforcement. Critics argue that officers have become more reluctant to act, fearing scrutiny. The city has scrambled to address the surge with additional officers, street cameras, and gunshot-detection systems, but the violence continues to surge, highlighting systemic issues in crime prevention and justice.  
+END OF SUMMARY.

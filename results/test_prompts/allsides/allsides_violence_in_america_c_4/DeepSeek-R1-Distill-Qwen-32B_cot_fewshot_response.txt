@@ -1,0 +1,20 @@
+Okay, so I need to summarize this news article about the protests in St. Louis. The user provided examples, so I should follow that structure. First, I need to identify the morally framed words. Let me read through the article again.
+
+The article talks about protests turning violent, arrests, pepper spray, smashing windows, blocking highways, agitators, non-violent protesters, protecting the city, acquittal, riots, decontaminated, peaceful protest, ceramic flowerpots, news photographers arrested, bottles thrown, police car escaping, fear for lives, Black Lives Matter, institutional racism, lives can't be replaced, drug deal, planted weapon, judge's belief.
+
+Now, I need to extract the moral words. Words like "violent," "arrested," "protesters," "pepper spray," "smashed," "disorder," "agitation," "non-violent," "protect," "acquittal," "riots," "decontaminated," "peaceful," "ceramic," "photographers," "bottles," "escape," "fear," "lives," "Black Lives Matter," "racism," "replaced," "drug deal," "planted," "judge."
+
+Wait, some of these are more descriptive than moral. I should focus on words that carry a moral judgment. Words like "violent," "arrested," "smashed," "disorder," "agitation," "non-violent," "protect," "acquittal," "riots," "decontaminated," "peaceful," "photographers," "bottles," "escape," "fear," "lives," "Black Lives Matter," "racism," "replaced," "planted," "judge."
+
+But maybe some are more about the event than the moral framing. I think "violent," "smashed," "disorder," "agitation," "non-violent," "protect," "acquittal," "riots," "decontaminated," "peaceful," "photographers," "bottles," "escape," "fear," "lives," "Black Lives Matter," "racism," "replaced," "planted," "judge" are the moral words.
+
+Now, for the summary, I need to include as many of these as possible while keeping it concise. The summary should mention the protests, the violence, arrests, the cause (acquittal of the officer), the police response, the mayor's statement about agitators, the comparison to Ferguson riots, the Black Lives Matter movement, and the underlying issues of institutional racism.
+
+I should start with the main event: over 80 arrests after violent protests. Then mention the cause, the acquittal. Include the police's use of pepper spray, the smashing of windows, blocking highways. The mayor's statement about agitators. The police's control and their hard stance. The comparison to Ferguson and the Black Lives Matter movement. The fear for lives and the broader issue of racism. Finally, mention the trial details briefly.
+
+I need to make sure the summary is under 200 words and includes the moral words. Let me structure it step by step, ensuring each key point is covered with the appropriate moral language.
+</think>
+
+**Summary:**
+
+Over 80 people were arrested as violent protests erupted in St. Louis following the acquittal of a white policeman who shot a black man. The protests, marked by smashed windows and attempts to block highways, turned chaotic, with police using pepper spray and making mass arrests. Mayor Lyda Krewson attributed the violence to "agitators," while police emphasized control and protection of the city. The unrest echoed the 2014 Ferguson riots, reigniting concerns about institutional racism and the Black Lives Matter movement. Fear for lives and the broader issue of systemic racism underscored the protests, highlighting the community's frustration and the ongoing struggle for justice. The trial's details, including claims of a planted weapon, added to the tension, as the acquittal sparked widespread anger and calls for accountability. END OF SUMMARY.

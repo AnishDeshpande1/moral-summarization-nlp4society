@@ -1,0 +1,21 @@
+Here is the result:
+
+Target News Article:
+FILE - In this Aug. 6, 2019, file photo, police officers walk behind a Walmart at the scene of a mass shooting at a shopping complex in El Paso, Texas. Patrick Crusius, 21, was indicted Thursday, Sept. 12, 2019, for capital murder in connection with the Aug. 3 mass shooting that left 22 dead. He is jailed without bond.
+
+STEP 1:
+* Capital
+* Murder
+* Indicted
+* Guilty
+* Massacre
+* Gunmen
+* Killed
+* Victims
+* Dead
+* Anger
+* Mistakes
+* Violence
+
+SUMMARY:
+Patrick Crusius, 21, has been indicted for capital murder in connection with the El Paso mass shooting that left 22 dead. The massacre was a devastating event that sparked anger among gun control and immigration advocates. Prosecutors have alleged that Crusius targeted Mexicans, and his actions were motivated by hatred towards Hispanics. Despite this, Texas Gov. Greg Abbott reacted to the indictment with a simple "good". Survivors of the attack have held vigils around the city, calling for change and an end to violence. The recent mass shootings have fueled debates over gun control and immigration, and Abbott's response has been criticized as insufficient. The El Paso County District Clerk's office is still processing Crusius' indictment, which will be publicly available next week. END OF SUMMARY.

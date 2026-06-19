@@ -1,0 +1,37 @@
+Okay, I need to summarize the given news article while preserving the moral framing, especially focusing on Authority/Subversion, Care/Harm, and Fairness/Cheating. 
+
+First, I'll read through the article to understand its main points. It talks about a new generation protesting against racial injustice, drawing parallels to the civil rights movement of the 1960s. The author shares personal experiences of segregation and resistance, leading to significant legislative changes. However, systemic racism persists, and a new movement is challenging these issues, with widespread participation and political responses.
+
+Next, I'll identify the morally framed words. Looking for terms related to authority (like segregation, resistance, reform), care (injustice, equality, movement), and fairness (discrimination, equality, reform). I'll list these as per the instructions.
+
+Then, I'll craft a summary that includes these moral terms. I'll make sure to highlight the resistance against authority, the care for justice, and the fairness in addressing inequalities. I'll structure the summary to show the historical context, the current movement's impact, and the ongoing challenges.
+
+I need to keep the summary concise, around 200 words, and ensure it captures the essence of the moral dimensions highlighted in the article. I'll avoid adding any new information not present in the original text and focus on the key points: the rise of a new generation, the historical struggle, the persistence of racism, and the promise of change despite resistance.
+
+Finally, I'll review the summary to ensure it flows well and accurately reflects the moral framing as per the user's instructions.
+</think>
+
+### STEP 1:
+* segregation
+* resistance
+* reform
+* injustice
+* equality
+* discrimination
+* violence
+* agitators
+* opposition
+* police
+* vigilantes
+* movement
+* barriers
+* chains
+* apartheid
+* economic
+* inequality
+* privilege
+* powerful
+* conscience
+
+### SUMMARY:
+The rise of a new generation protesting against racial injustice is driving a transformative era in America, echoing the civil rights movement of the 1960s. The author reflects on their personal experiences of resistance against segregation, including a pivotal protest at the Greenville Library in 1960, which faced fierce opposition but ultimately contributed to landmark reforms like the Public Accommodations Act and the Voting Rights Act. However, systemic racism persists, manifesting in biased institutions such as red-lined neighborhoods, unequal schools, and a discriminatory criminal justice system. A new generation, inspired by the murder of George Floyd, has emerged to challenge these injustices, with unprecedented widespread participation and political responses, including police reform and the retirement of the Confederate emblem in Mississippi. Despite facing resistance from entrenched interests, this movement holds the promise of addressing economic inequalities, criminal injustice, and basic rights, threatening the privileges of the powerful. The author emphasizes that change is possible when people unite against injustice, urging everyone with a conscience to join this extraordinary movement for a better America. END OF SUMMARY.

@@ -1,0 +1,18 @@
+Okay, so I need to summarize this news article, but I have to make sure I preserve the moral framing that the author gave. Hmm, the user is a news summarizer assistant and a moral expert. That means I need to not only condense the information but also highlight the ethical or moral implications as presented in the original text.
+
+First, I'll read through the article to understand the main points. It's about Senator Lindsey Graham and his actions regarding the confirmation of Chuck Hagel as Defense Secretary and John Brennan as CIA Director. Graham is demanding more information about the Obama administration's response during the Benghazi attacks, which killed Ambassador Stevens and others.
+
+The moral framing here is about accountability and transparency. Graham is accusing the White House of not being clear about their actions that night, which is a moral issue because it's about how leaders handle crises and whether they're being honest with the public. The article also mentions that Democrats see his actions as unprecedented and inappropriate, which adds another layer of moral judgment about the appropriateness of his tactics.
+
+I need to make sure that in the summary, I include the key points: who is involved, what they're doing, the moral arguments on both sides. Also, the mention of other senators like Inhofe threatening a filibuster adds to the political tension, which is part of the moral debate about obstruction versus accountability.
+
+I should structure the summary to first introduce Graham's actions, then explain his moral stance, followed by the opposition's perspective. Keeping it under 200 words and making sure it's concise but covers all necessary points.
+
+I also need to avoid any markdown and keep it in plain text. The user specified to put the summary after "SUMMARY:" and end with "END OF SUMMARY." So I'll make sure to follow that formatting.
+
+Let me start drafting the summary, making sure to include the main elements: Graham's demand for information, the context of the Benghazi attacks, the moral accountability angle, the opposition from Democrats, and the political implications like the filibuster threat.
+
+I think that's a solid approach. Now, I'll write the summary accordingly, ensuring it's clear, concise, and preserves the moral framing.
+</think>
+
+SUMMARY: Republican Sen. Lindsey Graham has demanded transparency from the Obama administration regarding its response to the 2012 Benghazi attacks, insisting on accountability before confirming Chuck Hagel as Defense Secretary and John Brennan as CIA Director. Graham criticized the administration for allegedly withholding information about the president's actions during the crisis, accusing them of "delaying, denying, deceiving, and stonewalling." He vowed to block nominations until answers are provided, framing the issue as a matter of leadership accountability. Democrats, including Sen. Jack Reed, condemned Graham's actions as "unprecedented" and inappropriate, arguing that his focus on Benghazi was politically motivated. Meanwhile, Sen. James Inhofe threatened a filibuster to require 60 votes for Hagel's confirmation, reflecting broader Republican concerns about Hagel's stance on Israel and Iran. The debate highlights tensions over transparency, accountability, and the political use of national security issues. END OF SUMMARY.

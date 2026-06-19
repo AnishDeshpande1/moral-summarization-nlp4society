@@ -1,0 +1,14 @@
+Alright, let me try to figure out how to approach this query. The user wants me to act as a news summarizer and a moral expert. They provided a news article and specific instructions on how to summarize it, preserving the moral framing. 
+
+First, I need to understand the content of the article. It's about Trump wanting to hold a convention during the pandemic, the potential consequences, and Biden's criticism. The article is critical of Trump's actions, highlighting his selfishness and recklessness.
+
+The user's main request is to summarize the article, keeping the moral perspective intact. They want the summary to be concise, no more than 200 words, and to include specific tokens at the beginning and end. 
+
+I should start by identifying the key points: Trump's reasons for the convention, the potential backfire, Biden's criticism, and the moral implications. I need to ensure that the summary reflects the author's negative view of Trump's actions.
+
+I'll structure the summary by first stating Trump's intent, then the possible outcomes, followed by Biden's response, and conclude with the moral judgment. I'll make sure to use the required tokens and keep it within the word limit.
+
+Now, I'll draft the summary, making sure it's clear, concise, and maintains the original moral framing. I'll check the word count to ensure it's under 200 words and that it flows naturally.
+</think>
+
+SUMMARY: The article criticizes President Trump for his decision to hold the Republican National Convention during the pandemic, suggesting his actions are selfish and reckless. Trump’s intent may have been to shift blame onto Democratic Governor Roy Cooper or create a political fight, but it risks exacerbating the pandemic and alienating voters. The article condemns Trump for prioritizing political optics over public health, highlighting his disregard for the well-being of his supporters and the vulnerable. Former Vice President Joe Biden sharply criticized Trump’s behavior, calling it dangerous and morally reprehensible. Biden emphasized that true leadership requires empathy and responsibility, not reckless bravado. The article portrays Trump as a schoolyard bully, lacking coherence and empathy, and argues that his actions further diminish his chances of re-election. END OF SUMMARY.

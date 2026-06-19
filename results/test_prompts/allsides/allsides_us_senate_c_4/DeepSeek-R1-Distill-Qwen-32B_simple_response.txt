@@ -1,0 +1,16 @@
+Alright, so I've got this query where the user wants me to summarize a news article while preserving the moral framing. Let me break this down.
+
+First, I need to understand what the user is asking for. They provided a news article about President Trump and the Mueller investigation, and they want a summary that keeps the moral tone the author used. The summary should be under 200 words, start with "SUMMARY:" and end with "END OF SUMMARY."
+
+Okay, the article talks about Republican senators warning Trump not to fire Mueller, the risks for Trump if he does, and the pushback from Congress. There's also Trump's frustration with the investigation and his attacks on the FBI. The moral framing here is about the integrity of the investigation and the potential for political interference, which is a significant ethical issue.
+
+I need to make sure the summary captures the key points: the senators' warnings, the risks to Trump's presidency, the pushback expected, Trump's frustration, and the broader implications of political interference. I should also mention the support for Mueller's investigation from within Congress.
+
+I should keep the language clear and concise, sticking to the facts but highlighting the moral aspects. Maybe start by stating the main issue, then the warnings, Trump's response, and the potential consequences. Make sure it flows logically and stays within the word limit.
+
+Let me draft it out. Start with the main topic: Trump's potential firing of Mueller. Then mention the Republican senators' warnings and the risks involved. Include Trump's frustration and his attacks on the FBI. Highlight the pushback from Congress and the support for Mueller. Conclude with the ethical implications if Trump interferes.
+
+I think that covers all the necessary points while maintaining the moral framing. Let me check the word count to ensure it's under 200. Looks good. Time to put it all together.
+</think>
+
+SUMMARY: Republican senators have warned President Donald Trump not to fire Special Counsel Robert Mueller, emphasizing the importance of allowing federal investigators to complete their probe into Russian interference in the 2016 election. Trump has recently renewed his criticism of the FBI and Mueller’s investigation, sparking concerns about potential interference. Senators Jeff Flake and Lindsey Graham cautioned that firing Mueller could signal the "beginning of the end" of Trump's presidency and face significant congressional pushback. Trump’s personal lawyer, John Dowd, has called for an end to the Russia collusion probe, drawing criticism from fellow Republicans. Meanwhile, Trump has expressed frustration with the prolonged investigation, though the White House insists it is cooperating fully. The situation highlights the ethical and political risks of perceived interference in a high-stakes federal inquiry. END OF SUMMARY.

@@ -1,0 +1,16 @@
+Alright, I need to summarize the given news article while preserving the moral framing that the author provided. Let me start by reading the article carefully.
+
+The article is about Jim Mattis, a retired Marine general and former Defense Secretary under Trump, who has broken his silence to publicly condemn Trump's handling of the George Floyd protests. Mattis criticizes Trump's actions as dividing the country and undermining the Constitution. He contrasts this with the unity the military stands for, referencing historical examples like the Normandy invasion. Mattis also criticizes the use of the military in domestic protests, calling it a threat to the trusted bond between the military and civilians.
+
+Now, I need to capture the key points while maintaining the moral tone. The main elements are Mattis's break from silence, his criticism of Trump's divisiveness, the reference to the Constitution and unity, and his concern about militarizing domestic responses.
+
+I should structure the summary to first mention Mattis's decision to speak out, then his main criticisms, including the use of the military, and conclude with his call for unity and accountability.
+
+I'll make sure to keep it concise, under 200 words, and focus on the moral aspects he emphasizes, like the threat to constitutional rights and the importance of civilian leadership in maintaining order.
+</think>
+
+SUMMARY:  
+
+Jim Mattis, a retired Marine general and former Defense Secretary under Donald Trump, has broken his silence to condemn the president's handling of the George Floyd protests, calling it a threat to American unity and constitutional principles. Mattis criticized Trump's actions, including the deployment of military forces for domestic policing, as a violation of constitutional rights and a dangerous precedent. He emphasized the importance of unity, referencing the American ethos of "In Union there is Strength," and contrasted it with the divisiveness of Trump's leadership. Mattis also implicitly criticized the current administration for militarizing domestic responses, warning that such actions erode trust between the military and civilian society. His statement marks a definitive end to his period of silence, as he believes the American experiment is now directly threatened by Trump's actions.  
+
+END OF SUMMARY.

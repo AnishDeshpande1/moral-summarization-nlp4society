@@ -1,0 +1,4 @@
+SUMMARY:
+The space shuttle Atlantis launched from Cape Canaveral at 4:44 p.m., beginning a series of six shuttle flights planned over the next seven months to advance the construction of the International Space Station. Despite a computer glitch that required a last‑minute software reload and a four‑day delay caused by a liquid‑hydrogen vent leak, engineers successfully cleared the countdown with only 11 seconds to spare. NASA launch director Mike Leinbach urged commander Mike Bloomfield to “take a ride” after the brief postponement. The mission marks a milestone for U.S. spaceflight: mission specialist Jerry L. Ross, a grandfather, becomes the first astronaut to log seven spaceflights. Over the 11‑day flight, the crew will conduct four spacewalks to install the 44‑foot, 27,000‑pound “S‑Zero” keystone support unit, which will anchor a new solar array nearly an acre in size—about the length of a football field—bringing the ISS closer to completion.
+
+END OF SUMMARY.

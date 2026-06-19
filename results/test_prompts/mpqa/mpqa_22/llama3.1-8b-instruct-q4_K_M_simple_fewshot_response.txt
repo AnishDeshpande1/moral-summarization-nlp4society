@@ -1,0 +1,7 @@
+Here is the summary of the news article:
+
+SUMMARY:
+
+A major milestone was achieved in space exploration as the first railway in outer space was completed, with astronauts from the space shuttle Atlantis prepping it for its inaugural run. The rail car, part of the S-0 truss, will have a top speed of three centimeters per second and is designed to support thousands of square meters of solar panels generating power for the International Space Station. The Mobile Transporter, as the rail car is officially known, was successfully tested on its first run yesterday, despite an anomaly detected on one of its joints several weeks ago. Canadarm2, a robotic arm built by Canada's space agency, played a crucial role in installing the truss segment and has performed flawlessly so far. The completion of this railway is a significant step towards making space construction more efficient and paving the way for future missions to add more truss segments.
+
+END OF SUMMARY.

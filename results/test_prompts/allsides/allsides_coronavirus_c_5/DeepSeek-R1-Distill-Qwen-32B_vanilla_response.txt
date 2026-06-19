@@ -1,0 +1,26 @@
+Okay, so I need to help summarize this news article about the VA stopping the use of hydroxychloroquine for COVID-19 in veterans. Let me read through the article first to understand the key points.
+
+The article starts by mentioning that VA Secretary Robert Wilkie said they've almost stopped using hydroxychloroquine. He defended the initial use as giving hope when there were few options, but now they've reduced it to just three prescriptions last week. Studies showed possible dangers, and other treatments like remdesivir are being used more now.
+
+President Trump was promoting this drug, even taking it himself, but without scientific backing. Wilkie mentioned they're learning as they go and their mission is to preserve life. The VA has been turning to remdesivir and convalescent plasma, which have shown some benefits.
+
+The article also mentions that 13,657 veterans were infected, with 1,200 deaths. Veterans organizations were concerned after data showed no benefit, with higher death rates in those taking the drug. The prescriptions spiked in March when Trump started promoting it but then tapered off in April as more data came out.
+
+Wilkie said they might still use the drug in clinical trials, guided by Dr. Fauci. However, Rep. Nita Lowey criticized the VA for not listening to Fauci from the start and relying on the president's wishes instead. The article also notes that the FDA has warned against using hydroxychloroquine outside of studies due to safety concerns.
+
+So, the main points to include in the summary are:
+
+1. VA has almost stopped using hydroxychloroquine for COVID-19 in veterans.
+2. Initial use was to give hope, but studies showed risks.
+3. Transition to remdesivir and convalescent plasma.
+4. Trump's promotion led to increased prescriptions initially.
+5. Data showed no benefit, higher death rates.
+6. VA might continue using the drug in clinical trials.
+7. Criticism from Rep. Lowey and FDA warnings.
+
+I need to make sure the summary is concise, under 200 words, and covers these points clearly. I'll structure it by first stating the VA's decision, then the reasons, followed by the implications and criticism.
+</think>
+
+The U.S. Department of Veterans Affairs (VA) has significantly reduced the use of hydroxychloroquine for treating COVID-19 in veterans, with only three prescriptions in the last week. Initially, the drug was used to provide hope amid limited treatment options, but studies highlighted potential risks. The VA has shifted to remdesivir and convalescent plasma, which show promise in reducing recovery time. Hydroxychloroquine prescriptions surged in March due to President Trump's promotion but declined in April as data indicated no benefit, with higher death rates among users. The VA may continue using the drug in clinical trials, though Rep. Nita Lowey criticized the delay in following expert guidance. The FDA warns against its use outside studies due to safety concerns. 
+
+END OF SUMMARY.

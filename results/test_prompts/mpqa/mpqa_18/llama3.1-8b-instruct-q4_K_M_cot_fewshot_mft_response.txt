@@ -1,0 +1,18 @@
+Here is the analysis of the target news article:
+
+STEP 1:
+* home
+* commander
+* robot
+* spare
+* personal
+* hobbies
+* fisherman
+* tie
+* baskets
+* psychological
+
+SUMMARY:
+The new crew settled in at the International Space Station, with Russian Yuri Onufrienko taking over as space station commander from American Frank Culbertson. The cosmonaut was eager to start his half-year stay on board, along with astronauts Daniel Bursch and Carl Walz. As they moved into their new home, they brought with them personal items reflecting their hobbies, including Onufrienko's fishing gear and Bursch's weaving material for baskets. The crew used the space station's robot arm to lift a cargo carrier loaded with food, clothes, science experiments, and spare parts. Once emptied, it will be filled with dirty laundry, trash, and used equipment and put back on Endeavour for the ride home. With this new crew in place, the space station will continue its mission, providing a home for astronauts in space for the next half-year. END OF SUMMARY.
+
+Note: The morally framed words in this article are mostly related to General Morality, specifically focusing on concepts like "home", "commander", and "robot" that convey a sense of responsibility and care. However, there is no strong moral framing or emphasis on specific moral dimensions like Authority/Subversion, Loyalty/Betrayal, Sanctity/Degradation, Fairness/Cheating, Care/Harm, etc. The article primarily focuses on the factual details of the new crew's arrival at the space station.

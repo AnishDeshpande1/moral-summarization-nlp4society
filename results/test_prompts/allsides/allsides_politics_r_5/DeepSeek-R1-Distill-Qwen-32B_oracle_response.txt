@@ -1,0 +1,17 @@
+Okay, so I need to help the user by summarizing a news article while preserving the moral framing. The user provided the article and a list of morally framed words. My task is to create a concise summary using those words. 
+
+First, I'll read through the article to understand the main points. It's about George Papadopoulos, a former Trump campaign adviser, who pleaded guilty to lying to the FBI. He's now a "proactive cooperator" helping Robert Mueller's investigation into Russian interference. The article mentions that he might have worn a wire to record conversations, which could be significant for the investigation.
+
+Now, I need to identify the key elements to include in the summary. The main points are Papadopoulos's plea deal, his cooperation, the potential use of a wire, and the implications for the investigation. I should also mention the charges he faced, the arrest, and the Trump team's denial of collusion.
+
+I'll make sure to use the morally framed words provided, such as "lying," "investigating," "interference," "undermine," "activity," "arrested," "lied," "investigation," "collusion," "claimed," "downplayed," "laundering," and "conspiracy." 
+
+I need to keep the summary under 200 words, so I'll be concise. I'll start by stating that Papadopoulos accepted a plea deal for lying to the FBI. Then, mention his role as a proactive cooperator and the speculation about wearing a wire. I'll include his arrest and the charges, the emails and social media showing his lies, and the contacts with Russian officials. The Trump team's response is important too. Finally, I'll note the speculation about the wire and its potential impact on the investigation.
+
+I should structure the summary to flow logically, starting with his plea, cooperation, arrest, charges, the evidence, contacts, Trump's response, and the implications. I'll make sure each sentence is clear and uses the moral terms appropriately.
+
+Let me draft the summary, ensuring it's within the word limit and includes all necessary points with the correct moral framing.
+</think>
+
+SUMMARY:  
+George Papadopoulos, a former Trump campaign adviser, accepted a plea deal for lying to the FBI about his contacts with Russians. Court documents reveal he is a "proactive cooperator" with federal investigators, suggesting he may have worn a wire to assist Robert Mueller's investigation into Russian interference in the 2016 election. Prosecutors requested court filings be sealed to prevent undermining his ability to cooperate. Papadopoulos was arrested in July for lying about his interactions with Russian nationals, including discussions about arranging meetings between Russian officials and the Trump campaign. Emails and social media exchanges proved his claims were false. The Trump team downplayed his role, denying collusion with Russia. Papadopoulos' cooperation, including potential wire recordings, has sparked speculation about its impact on Mueller's investigation. END OF SUMMARY.

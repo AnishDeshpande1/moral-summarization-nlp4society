@@ -1,0 +1,43 @@
+Alright, so the user has given me a query where they want me to act as a news summarizer assistant and a moral expert. They provided a news article about Sandy and the debate over the government's role, along with specific instructions on how to process it.
+
+First, I need to understand the two main steps they outlined. The first step is to identify all the single words that are morally framed in the article. The second step is to write a concise summary that preserves these morally framed words. The summary should be under 200 words and follow a specific format with tokens.
+
+I should start by carefully reading the article to identify the morally framed words. These are words that carry a moral connotation, such as 'help', 'critical', 'faith', 'voluntary', 'individual','responsibility', 'outstanding', 'praise','reduce', 'borrowing', 'jeopardize', 'future', 'kids', 'active', 'hard-hit', 'Promise', 'deliver', 'appreciate', 'generous', 'effective', 'dependable', 'proactive', 'generous', 'effective', 'dependable', 'proactive', 'generous', 'effective', 'dependable', 'proactive'.
+
+Next, I need to craft a summary that includes as many of these words as possible while keeping it under 200 words. The summary should reflect the moral framing presented in the article, highlighting the debate between Obama and Romney regarding the federal government's role versus local and voluntary efforts.
+
+I also need to ensure that the summary follows the specified format, starting with "SUMMARY:" and ending with "END OF SUMMARY." I should make sure to include key points from the article, such as Obama's support, Romney's focus on individual action, the praise from Governor Christie, and the broader implications of federal spending on disaster relief.
+
+Finally, I'll review the summary to ensure it meets all the user's requirements and accurately reflects the moral framing of the original article.
+</think>
+
+**STEP 1:**  
+* help  
+* critical  
+* faith  
+* voluntary  
+* individual  
+* responsibility  
+* outstanding  
+* praise  
+* reduce  
+* borrowing  
+* jeopardize  
+* future  
+* kids  
+* active  
+* hard-hit  
+* Promise  
+* deliver  
+* appreciate  
+* generous  
+* effective  
+* dependable  
+* proactive  
+* generous  
+* effective  
+* dependable  
+* proactive  
+
+**SUMMARY:**  
+President Obama emphasized the federal government's role in aiding Sandy victims, offering prayers and resources, while Romney highlighted individual and local efforts, advocating for decentralized disaster relief. Romney's canned food drive and parable on collective responsibility contrasted with Obama's focus on federal support. Romney previously argued for reducing federal disaster spending, a stance now inconvenient amid Sandy's impact. Obama, however, has been praised for FEMA's effective response, with New Jersey Governor Chris Christie commending the federal effort. The debate over federal vs. local disaster relief continues, with Romney avoiding direct questions on FEMA funding. Obama will further advocate for federal involvement in Sandy recovery efforts. END OF SUMMARY.

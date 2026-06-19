@@ -1,0 +1,23 @@
+Here is the target news article with the single words that are morally framed identified:
+
+STEP 1:
+* pejorative
+* demean
+* humiliate
+* harass
+* protected
+* unconstitutional
+* free
+* speech
+* damages
+* discriminatory
+* harassment
+* unwelcome
+* severe
+* pervasive
+* hostile
+* limiting
+
+SUMMARY:
+New York City's Commission on Human Rights has declared that using the term "illegal alien" pejoratively to describe an undocumented person violates laws designed to protect employees and tenants from discrimination. The city's interpretation of the law may be unconstitutional under the First Amendment, as it does not limit the scope of anti-discrimination mandates. The guidance notes that even a single comment made in circumstances where it would signal discriminatory views about one's immigration status or national origin can constitute harassment. This is problematic, as government decrees to prohibit free speech in the name of anti-harassment or anti-discrimination must come with certain limiting conditions to survive a First Amendment test. The city's approach may eliminate the modest limit on liability found in federal law, and it is alarming that New York City has taken this step.
+END OF SUMMARY.

@@ -1,0 +1,23 @@
+Here is the target news article:
+
+Venezuela's new dawn Venezuelans awoke on Friday to a country transformed by the dramatic and violent events of the last 24 hours, which left at least 11 people dead and more than 80 injured.
+
+STEP 1:
+* shellshock
+* bloodshed
+* peaceful
+* middle-class
+* defenceless
+* horrible
+* lies
+* tolerable
+* accepted
+* detained
+* possible
+* charges
+* power
+* vacuum
+* uncertainty
+
+SUMMARY:
+Venezuela awoke to a transformed country after the violent events of the last 24 hours, leaving at least 11 people dead and over 80 injured. The general strike and oil industry stoppage were ended by new President Pedro Carmona's first act as head of the transition government, changing the country's name from the Bolivarian Republic of Venezuela to simply the Republic of Venezuela. The previous day saw bloodshed during a peaceful rally of over 100,000 middle-class Venezuelans demanding President Hugo Chavez's resignation outside Miraflores palace. Armed supporters of Chavez fired at marchers, leading to the final straw for the military. Chavez was detained and could face charges for his role in the killings, leaving Venezuela with a power vacuum and uncertainty about how its problems will be solved.

@@ -1,0 +1,7 @@
+SUMMARY:
+
+A recent study by NASA researchers suggests that declining greenhouse-gas emissions since the late 1980s have slowed the growth rate of the atmosphere's ability to retain heat. This slowdown is linked to the implementation of the Montreal Protocol, which phased out production of gases that erode the ozone layer and also trap heat. If emissions had continued at their peak rate in 1980, temperatures by 2050 would be higher than expected for 2100. The researchers argue that policymakers can make significant headway in reducing greenhouse gas emissions by targeting other pollutants such as black carbon soot, ozone (smog), and methane from landfills and oil production.
+
+Reducing methane emissions by 30% is estimated to have an effect on climate comparable to cutting CO2 emissions envisioned by the Kyoto Protocol. The study suggests that a cooler future may already be inevitable due to declining greenhouse-gas emissions.
+
+END OF SUMMARY.

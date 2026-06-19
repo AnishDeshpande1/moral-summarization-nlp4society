@@ -1,0 +1,9 @@
+Here is the summary of the target news article, preserving the moral framing related to General Morality:
+
+SUMMARY:
+
+A Russian supply ship docked to the International Space Station on Wednesday, but may have missed a proper linkup. NASA officials expressed concern that the potential problem could delay tonight's planned launch of space shuttle Endeavour. The issue arose when Russian flight controllers outside Moscow did not receive the expected indication that the hooks had closed and latched. However, after Russian engineers determined the supply ship was attached securely enough for the steering system to operate, everything was turned back on.
+
+The incident highlights the importance of precision and attention to detail in space exploration. The potential consequences of a loose fit could have been severe, including damage to the orbiting complex. Fortunately, no major issues arose, and the space station's systems were safely restored. The incident serves as a reminder of the complexities and challenges involved in space travel and the need for careful planning and execution.
+
+END OF SUMMARY.

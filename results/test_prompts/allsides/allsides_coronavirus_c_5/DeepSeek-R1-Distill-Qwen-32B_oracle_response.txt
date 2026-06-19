@@ -1,0 +1,16 @@
+Okay, so I need to summarize this news article while preserving the moral framing the author used. The user has already given a sample summary, but I should make sure I understand the process. Let me break it down.
+
+First, I read the article about the VA stopping the use of hydroxychloroquine for COVID-19 in veterans. The author uses specific morally charged words like "use," "preserve," "protect," "study," etc. My task is to summarize the article, keeping as many of these words as possible.
+
+I should identify the main points: the VA initially used hydroxychloroquine, then reduced its use due to studies showing possible dangers. They're now using remdesivir and convalescent plasma. There's criticism from veterans' organizations and a mention of President Trump promoting the drug. The VA is now following Dr. Fauci's guidance and only using the drug in clinical trials.
+
+Now, I need to condense this into a summary under 200 words, using the morally framed words. I should ensure that each key point is covered without going into too much detail. Also, I must start with "SUMMARY:" and end with "END OF SUMMARY."
+
+Let me draft this, making sure to include words like "use," "study," "preserve," "protect," etc. I'll structure it to flow logically, starting with the VA's action, reasons, alternatives, criticism, and current stance.
+
+I should check the word count to stay within limits. Maybe combine some sentences to keep it concise. Also, ensure that the moral implications are clear, like the VA's mission to protect lives and the criticism regarding scientific guidance.
+
+Alright, I think I have a good structure. Now, I'll write the summary accordingly.
+</think>
+
+SUMMARY: The Department of Veterans Affairs (VA) has significantly reduced its use of hydroxychloroquine for COVID-19 treatment in veterans, citing studies that highlighted potential dangers. Initially, the drug was used to provide hope amid limited treatment options, but its use has tapered off as safer alternatives like remdesivir and convalescent plasma have emerged. VA Secretary Robert Wilkie emphasized the department's mission to preserve and protect lives, acknowledging that they are learning as they navigate the crisis. The decision to limit hydroxychloroquine use follows criticism from veterans' organizations and scientific guidance cautioning against its effectiveness. While the VA plans to continue using the drug in limited clinical trials, as advised by Dr. Anthony Fauci, Rep. Nita Lowey criticized the VA for not heeding scientific counsel earlier. The VA has prescribed hydroxychloroquine to 1,370 veterans, with data showing higher mortality rates among those treated with the drug. The FDA has warned against its use outside formal studies due to potential side effects. END OF SUMMARY.

@@ -1,0 +1,41 @@
+Okay, so I need to help the user with their query. They provided a news article and instructions on how to summarize it while preserving the moral framing. The user wants me to first identify all the morally framed single words and then write a concise summary.
+
+First, I'll read through the article to understand the context. It's about the Obama administration expanding benefits to same-sex spouses after the Supreme Court overturned part of DOMA. The moral framing here is about equality, justice, and respect.
+
+For STEP 1, I need to find all the single words that carry moral connotations. I'll go through each sentence and pick out words that relate to values like equality, fairness, justice, etc. Words like "benefits," "equal," "respect," "protection," "equality," "equal treatment," "promise," "additional," "difference," "positive," "meaningful," "respect," "protection," "equality," "equal treatment," "promise," "additional," "difference," "positive," "meaningful," "respect," "protection," "equality," "equal treatment," "promise," "additional," "difference," "positive," "meaningful."
+
+Wait, I think some of these are repeated, but I'll list each occurrence separately as per the user's instruction. Each word should be on a new line starting with *.
+
+Next, for the summary, I need to condense the article into 200 words or less, keeping as many of those morally framed words as possible. I'll focus on the key points: the expansion of benefits, the administration's actions, the president's stance, and the reactions from other officials.
+
+I should structure the summary to highlight the administration's decision, the types of benefits, the legal implications, and the positive impact on same-sex couples. I'll make sure to include words like "equal," "respect," "protection," and "equality" to maintain the moral framing.
+
+I also need to mention President Obama's support and the reactions from the Attorney General and Defense Secretary to show the broader support for these changes. The summary should conclude with the positive outcome for the families involved.
+
+I'll make sure the summary flows well and stays within the word limit. Let me draft it and check the word count to ensure it's concise yet comprehensive.
+</think>
+
+**STEP 1:**  
+* benefits  
+* equal  
+* respect  
+* protection  
+* equality  
+* equal treatment  
+* promise  
+* additional  
+* difference  
+* positive  
+* meaningful  
+* respect  
+* protection  
+* equality  
+* equal treatment  
+* promise  
+* additional  
+* difference  
+* positive  
+* meaningful  
+
+**SUMMARY:**  
+The Obama administration has expanded federal benefits to same-sex spouses of federal employees, including health, vision, and retirement benefits, following the Supreme Court's overturning of a key provision of the Defense of Marriage Act (DOMA). The Office of Personnel Management (OPM) issued guidance ensuring legally married same-sex couples have equal access to benefits, regardless of state laws. President Obama emphasized the importance of treating married couples equally under federal law, while Attorney General Eric Holder praised the move as a step toward equal protection and treatment. Defense Secretary Chuck Hagel also pledged to expand benefits for same-sex couples in the military. These changes aim to make a meaningful, positive difference in the lives of thousands of federal employees and their families, ensuring they receive the same respect and protection as heterosexual couples. END OF SUMMARY.

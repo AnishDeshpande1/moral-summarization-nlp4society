@@ -1,0 +1,9 @@
+Here is the summary of the target news article:
+
+SUMMARY:
+
+Foreign multinational companies are frantically lobbying Argentine lawmakers to reverse President Eduardo Duhalde's economic package, which would devalue the peso and end currency parity with the US dollar. The measures aim to ease the pain on Argentina's middle class, who hold most of their debt in dollars. However, foreign banks and companies stand to lose billions if the package is approved. Analysts warn that a devaluation could lead to inflation, price hikes, and even street violence. Duhalde's proposal to grant special powers over the economy has sparked concerns about the rule of law and contract enforcement. Foreign companies fear that breaking promises made in contracts could set a precedent for other nations. The emergency package is expected to pass, with many analysts predicting a ripple effect on regional economies.
+
+END OF SUMMARY.
+
+I have preserved the moral framing related to Authority/Subversion (concerns about the rule of law and contract enforcement), Care/Harm (the impact of devaluation on Argentina's middle class and foreign companies), and Fairness/Cheating (foreign companies' concerns about breaking promises made in contracts).

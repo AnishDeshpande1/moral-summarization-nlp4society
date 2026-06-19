@@ -1,0 +1,15 @@
+Here is the result for the target news article:
+
+STEP 1:
+* devastating
+* responsibilities
+* lagging
+* reticence
+* necessary
+* excellent
+* modernize
+
+SUMMARY:
+The European Union has made significant progress in combating climate change by ratifying the Kyoto Protocol, while the United States' recent climate protection program falls short of expectations. The US plan to reduce emissions by 18% between 2002 and 2012 is considered weak, and absolute US emissions will increase by 24.5% despite improved energy efficiency. Climate experts warn that without decisive action, consequences of climate change will be dramatic, including a 5.8°C temperature increase, sea level rise, and more frequent hurricanes. EU environment ministers called on the United States to assume its responsibilities under the framework agreement on climate change by stabilizing greenhouse gas emissions at 1990 levels. The European Union's dominant role in climate protection has benefits for its economy, including creating hundreds of thousands of new jobs. The return of the United States to the Kyoto process remains a goal, and the door is still open for it to rejoin.
+
+END OF SUMMARY.

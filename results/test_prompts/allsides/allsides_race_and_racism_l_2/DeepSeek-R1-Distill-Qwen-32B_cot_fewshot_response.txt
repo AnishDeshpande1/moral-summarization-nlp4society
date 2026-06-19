@@ -1,0 +1,59 @@
+Okay, I need to summarize this news article while preserving the moral framing. First, I'll read through the article to understand the main points. It's about the rise of a new generation protesting against racial injustice, drawing parallels to the civil rights movement of the 1960s. The author shares personal experiences from the 1960s, like being arrested for entering a whites-only library, and reflects on the progress made since then, such as the Civil Rights Act and Voting Rights Act. However, the author points out that racism and institutional structures still exist, leading to the current protests following George Floyd's murder. The new generation's movement is broader, with more white participation, leading to some policy changes but facing resistance. The author ends on a hopeful note, emphasizing the potential for change.
+
+Now, for the moral framing words. I need to identify single words that carry moral connotations. From the article, I can pick words like inspiring, change, racial injustice, civil rights movement, segregation, arrest, violate, constitutional, movement, build, resist, opposition, violent, agitators, tarred, socialists, communists, resistance, reform, banned, chokeholds, Confederate, flag, inequality, economic, political, rights, privileges, powerful, moral force, opportunity, conscience, pulse, extraordinary.
+
+Next, I'll structure the summary. It should start with the new generation's protests and their significance, mention the author's personal experience, the progress from the 60s, the ongoing issues, the current movement's impact and challenges, and the hopeful conclusion.
+
+I need to ensure the summary is concise, around 200 words, and includes as many of the moral words as possible without making it too long. I'll focus on the key events and the moral implications, highlighting the movement's goals and the resistance it faces.
+
+Let me draft the summary: The article discusses the rise of a new generation protesting racial injustice, reminiscent of the 1960s civil rights movement. The author shares personal experiences of segregation and the fight for equality, which led to significant legislative changes. Despite progress, systemic racism persists, prompting current protests following George Floyd's murder. This movement, with unprecedented white participation, is driving reforms but faces resistance from powerful interests. The author emphasizes the moral imperative for change, urging everyone to support this extraordinary movement for a better America.
+
+I need to incorporate more moral words without making it too wordy. Maybe mention the moral force and the opportunity for change. Also, include terms like inequality, economic, political rights, and the threat to privileges.
+
+Finalizing the summary: The new generation's protests against racial injustice, inspired by the 1960s civil rights movement, aim to dismantle systemic inequalities. The author recounts personal struggles against segregation, leading to landmark laws. Despite progress, issues like unequal schools and criminal justice remain. The current movement, with broad participation, is pushing for reforms but faces resistance. The author highlights the moral imperative to join this movement, emphasizing its potential to transform America.
+
+I think that captures the essence while preserving the moral framing. Now, I'll list the moral words and write the summary accordingly.
+</think>
+
+**STEP 1:**
+* inspiring
+* change
+* racial
+* injustice
+* civil
+* rights
+* movement
+* segregation
+* arrest
+* violate
+* constitutional
+* movement
+* build
+* resist
+* opposition
+* violent
+* agitators
+* tarred
+* socialists
+* communists
+* resistance
+* reform
+* banned
+* chokeholds
+* Confederate
+* flag
+* inequality
+* economic
+* political
+* rights
+* privileges
+* powerful
+* moral
+* force
+* opportunity
+* conscience
+* pulse
+* extraordinary
+
+**SUMMARY:**
+The article highlights the inspiring rise of a new generation protesting against racial injustice, reminiscent of the 1960s civil rights movement. The author recounts personal experiences of segregation and the fight for constitutional rights, which led to significant reforms like the Civil Rights and Voting Rights Acts. Despite progress, systemic inequalities persist, prompting current protests following George Floyd's murder. This movement, with unprecedented white participation, aims to reform areas like criminal justice and economic inequality, facing resistance from powerful interests. The author emphasizes the moral imperative for change, urging everyone to join this extraordinary movement to transform America. END OF SUMMARY.

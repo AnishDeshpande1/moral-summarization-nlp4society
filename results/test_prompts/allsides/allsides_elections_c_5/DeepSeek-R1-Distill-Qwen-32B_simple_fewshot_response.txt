@@ -1,0 +1,15 @@
+Okay, I need to summarize this news article about Sandy and the debate over the government's role. The user provided examples, so I should follow that structure. First, I'll read the article carefully to understand the main points.
+
+The article talks about President Obama offering federal help after Sandy, emphasizing the government's role. On the other hand, Mitt Romney supports local efforts and the private sector, as seen in his canned food drive and past statements. There's a mention of Romney's past argument for decentralizing disaster relief, which is relevant. Also, the article notes that Republican Governor Chris Christie praised the federal response, which is interesting because it's a political point.
+
+I need to preserve the moral framing. The article presents a contrast between Obama's federal approach and Romney's local/private sector approach. The moral implications are about responsibility and effectiveness in disaster response. Obama's approach is seen as compassionate and comprehensive, while Romney's is about self-reliance and efficiency.
+
+I should make sure the summary is concise, under 200 words, and includes the key points: Obama's federal help, Romney's local efforts, Romney's past stance, Christie's praise, and the underlying debate about government's role. I'll structure it to highlight the contrast and the moral aspects each side represents.
+
+Let me draft the summary, ensuring it flows well and captures the essence without getting bogged down in details. I'll check the word count to stay within limits. Also, I'll make sure to include the moral framing, showing how each approach reflects different values.
+</think>
+
+SUMMARY:  
+President Obama emphasized the federal government's role in disaster relief during Hurricane Sandy, offering both prayers and tangible assistance to affected communities. His approach contrasts with Mitt Romney's focus on local and voluntary efforts, as Romney highlighted individual responsibility and decentralized disaster response during a canned food drive for storm victims. Romney's past stance on reducing federal involvement in disaster relief, including potential cuts to FEMA funding, highlights the broader debate over the government's role in crises. Meanwhile, Republican Governor Chris Christie praised Obama's federal response, acknowledging its effectiveness despite political differences. The storm underscores the moral debate between federal intervention and local autonomy, with Obama advocating for a comprehensive, compassionate federal role, while Romney emphasizes self-reliance and efficiency.  
+
+END OF SUMMARY.

@@ -1,0 +1,6 @@
+I can summarize the news article while preserving the moral framing used by the author.
+
+SUMMARY:
+New Jersey Governor Chris Christie is expected to announce his candidacy for the White House in 2016, but faces a challenging road ahead. His reputation has been marred by scandals and plummeting popularity in his home state, causing many of his former supporters to defect to other candidates. Despite these setbacks, Christie may be able to leverage his brash and combative personality to appeal to voters. As a skilled debater, he has honed the ability to connect with ordinary people at town hall meetings, where he often leaves a lasting impression. However, this approach also risks alienating some constituents who are put off by his confrontational style. With low poll numbers and a fundraising deficit, Christie's prospects for success remain uncertain.
+
+END OF SUMMARY.

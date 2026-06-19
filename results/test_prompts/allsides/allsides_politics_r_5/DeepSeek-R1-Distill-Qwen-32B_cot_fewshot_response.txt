@@ -1,0 +1,43 @@
+Okay, so I need to summarize this news article about George Papadopoulos and his cooperation with the Mueller investigation. The user wants me to first extract the morally framed words and then write a summary preserving those words. 
+
+Let me start by reading through the article to understand the main points. Papadopoulos accepted a plea deal for lying to the FBI about his contacts with Russians. The court documents call him a "proactive cooperator," which suggests he might have worn a wire to help the investigation. The article mentions that his cooperation could involve undercover work, and legal analysts speculate about the implications of his role. The White House downplays his involvement, saying he played a small part and there was no collusion.
+
+Now, I need to identify the morally framed words. These are words that carry a positive or negative moral connotation. Let me go through the article again and pick out those words.
+
+- Lied: Negative, as it's about deception.
+- Proactive: Positive, indicating initiative.
+- Cooperator: Positive, showing willingness to help.
+- Undercover: Neutral, but in context, it's about helping the investigation.
+- Collusion: Negative, implying illegal coordination.
+- Secret: Neutral, but in this context, it's about hiding information.
+- Speculation: Neutral, but it's about potential wrongdoing.
+- Implications: Neutral, but in this context, it's about the consequences of his actions.
+
+Wait, maybe I missed some. Let me check again.
+
+The article mentions "proactive cooperator," so proactive and cooperator are key. It also talks about "collusion," which is a negative term. "Lied" is definitely a negative moral word. "Secret" is used in the context of the arrest being a secret, which could imply something hidden or underhanded. "Speculation" and "implications" are more about the analysis, but they don't carry strong moral connotations. Maybe I should include "undercover" as it's about the method of cooperation, which is a positive action in the context of law enforcement.
+
+So, the morally framed words I identified are: lied, proactive, cooperator, undercover, collusion, secret, speculation, implications.
+
+Wait, "undercover" is more of a method than a moral term. Maybe it's better to include it as it's part of the cooperation process. Alternatively, maybe "collusion" is the main negative term, and "proactive" and "cooperator" are positive. "Secret" could imply something hidden, which might have a negative connotation in this context.
+
+I think I've got the main ones. Now, I need to write the summary, making sure to include these words where appropriate.
+
+The summary should mention that Papadopoulos lied, was a proactive cooperator, possibly undercover, and that the case involves collusion. The White House downplays his role, saying there was no collusion. The speculation is about his wiretapping, which has implications for the investigation.
+
+I should structure the summary to include these points, preserving the moral framing. Let me make sure the summary is concise, around 200 words, and includes all the key points and moral words.
+</think>
+
+**Summary:**
+
+George Papadopoulos, a former Trump campaign adviser, accepted a plea deal for lying to the FBI about his contacts with Russians. Court documents revealed he is a "proactive cooperator," suggesting he may have worn a wire to assist the Mueller investigation. This cooperation implies he engaged in undercover work, potentially recording conversations with individuals suspected of involvement in criminal activity. The case highlights the issue of collusion between the Trump campaign and the Russian government, which the White House denies. Papadopoulos's role as a "proactive cooperator" has sparked speculation about his involvement in wiretapping, which could have significant implications for the investigation. His cooperation is seen as a crucial step in uncovering potential wrongdoing, despite the White House's attempt to downplay his involvement. END OF SUMMARY.
+
+**STEP 1:**
+* lied
+* proactive
+* cooperator
+* undercover
+* collusion
+* secret
+* speculation
+* implications

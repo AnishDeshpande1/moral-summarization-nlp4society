@@ -1,0 +1,24 @@
+Okay, so I need to summarize this news article about the Trump administration's new visa rules targeting birth tourism. Let me read through the article first to understand the main points.
+
+The article starts by explaining that the Trump administration published new visa rules to restrict "birth tourism," where women come to the U.S. to give birth so their children can get U.S. citizenship. The rules state that applicants will be denied tourist visas if consular officers determine their primary purpose is to give birth. They also mention that those with medical needs can still apply but must prove they can cover all expenses, including transportation and living costs.
+
+The White House press secretary, Stephanie Grisham, is quoted saying that this closes an immigration loophole, protects national security, and defends taxpayers from costs associated with birth tourism. The article notes that while birth tourism is legal, there have been cases of authorities arresting operators for visa fraud or tax evasion. Women often openly state their intentions when applying for visas and even show contracts with doctors and hospitals.
+
+The new rules specify that visiting the U.S. primarily for a child's citizenship isn't considered a legitimate recreational activity. The article also mentions that the Trump administration has been turning away pregnant women at the U.S.-Mexico border as part of a broader immigration crackdown. However, President Trump has struggled with the issue of birthright citizenship, which is protected by the Constitution, making it difficult to change.
+
+Critics argue that the new policy could put pregnant women at risk, as consular officers can't directly ask about pregnancy but still have to determine if the primary purpose is giving birth. The birth tourism industry is lucrative, with companies charging up to $80,000 and attracting women from countries like Russia and China. There are no exact figures on how many women come to the U.S. for this purpose, but an estimate from 2012 suggests around 36,000 foreign-born women gave birth and left.
+
+The summary needs to be concise, under 200 words, and include the key points: the new visa rules, their purpose, the administration's stance, the legal status of birth tourism, the industry's profitability, and criticisms or challenges. I should make sure to highlight the main actions taken by the Trump administration and the implications of these rules.
+
+Let me structure this step by step. First, introduce the new visa rules aimed at birth tourism. Then, explain how the rules work—denying visas if the primary purpose is giving birth, requiring proof of medical need and financial capability. Mention the administration's reasoning, including national security and taxpayer protection. Note that birth tourism is legal but has some associated issues like fraud. Highlight the industry's profitability and the estimate of foreign women giving birth. Finally, touch on the criticism about potential risks to pregnant women and the broader context of immigration policies.
+
+I need to ensure that the summary flows logically, covering each main point without getting too detailed. I should avoid jargon and keep it clear and straightforward. Let me check the word count as I draft to stay within the limit.
+
+Wait, the user provided a sample summary, so I can use that as a reference. It's structured well, so I can follow a similar approach but ensure it's my own wording. I'll make sure to include all key elements without missing any critical points.
+
+Also, I should end the summary with the specified tokens, "SUMMARY:" at the beginning and "END OF SUMMARY." at the end. Keeping it within 200 words is crucial, so I'll have to be concise but thorough.
+
+Let me draft the summary now, making sure to cover all the essential points from the article in a clear and concise manner.
+</think>
+
+SUMMARY: The Trump administration has introduced new visa rules to curb "birth tourism," where foreign women travel to the U.S. to give birth, securing citizenship for their children. Under these rules, tourist visas will be denied if the primary purpose is giving birth, requiring proof of medical need and financial capability. The administration aims to protect national security and taxpayer funds. While birth tourism is legal, it has faced scrutiny due to fraud cases. The lucrative industry, attracting women from countries like Russia and China, charges up to $80,000. Critics argue the policy risks pregnant women's safety, as officers cannot directly inquire about pregnancy. The U.S. has been targeting this practice, reflecting broader immigration restrictions. END OF SUMMARY.

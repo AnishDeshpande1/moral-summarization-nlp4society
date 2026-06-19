@@ -1,0 +1,16 @@
+# Config for running inference locally via Ollama (low-VRAM machines).
+# Use with:  python prompting.py --config-file ollama_config.yaml --prompt-dir results/test_prompts
+#
+# For the full DelftBlue / large-GPU transformers run, use peft_config.yaml instead.
+
+backend: ollama
+
+ollama:
+  # Ollama model tag. Pull it first:  ollama pull llama3.1:8b-instruct-q4_K_M
+  model: llama3.1:8b-instruct-q4_K_M
+  host: http://localhost:11434
+  # Context window. Few-shot prompts are long; raise if you see truncation,
+  # lower to save memory. 8192 covers the simple/cot prompts comfortably.
+  num_ctx: 8192
+  # Per-request timeout (seconds). CPU-offloaded generation on a small GPU is slow.
+  request_timeout: 1200

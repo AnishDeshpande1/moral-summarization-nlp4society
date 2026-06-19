@@ -1,0 +1,20 @@
+Alright, let's tackle this query. The user wants me to summarize a news article while preserving the moral framing. They provided the article and specific instructions. First, I need to understand the main points of the article.
+
+The article is about Planned Parenthood and the ACLU suing Alabama over a near-total abortion ban. The law is strict, allowing abortions only if the mother's health is at serious risk, with no exceptions for rape or incest. The penalty for providers is severe, up to 99 years in prison. The goal of the law is to challenge Roe v. Wade.
+
+I should note the legal action taken, the lawsuit details, the arguments presented by the ACLU and Planned Parenthood, including the disproportionate impact on black and low-income communities. Also, the broader context of state abortion restrictions this year is important.
+
+Now, considering the moral framing, the article presents the law as extreme and unconstitutional, highlighting the impact on vulnerable populations. I need to ensure the summary reflects this perspective, emphasizing the ACLU and Planned Parenthood's stance against the law.
+
+I should keep the summary concise, under 200 words, starting with the lawsuit, the law's specifics, the intent to challenge Roe v. Wade, the plaintiffs' arguments, and the broader context of state actions.
+
+Let me structure it step by step: introduce the lawsuit, describe the law, mention the intent, outline the plaintiffs and their arguments, and conclude with the national context.
+
+I need to make sure the moral implications are clear, showing the law's severity and its impact on marginalized groups. Avoiding any bias beyond what's presented in the article is crucial.
+
+Finally, I'll format it with the required tokens, making sure it's within the word limit and flows naturally.
+</think>
+
+SUMMARY:  
+Planned Parenthood and the ACLU filed a lawsuit against Alabama over its near-total abortion ban, which prohibits abortions unless a pregnancy poses a "serious health risk" to the mother, with no exceptions for rape or incest. The law, designed to challenge Roe v. Wade, imposes up to 99 years in prison for providers performing abortions. The lawsuit argues the law is unconstitutional and disproportionately harms Black and low-income communities, as Black individuals make up over 60% of abortion patients in Alabama, despite being less than a third of the population. The plaintiffs include Planned Parenthood Southeast, Alabama’s abortion clinics, and a doctor. The ACLU and Planned Parenthood aim to fight the law through legal channels, emphasizing the importance of protecting patients’ lives. This case is part of a broader trend, with states introducing over 350 abortion restrictions this year, though none are currently in effect.  
+END OF SUMMARY.

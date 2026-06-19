@@ -1,0 +1,12 @@
+The original text contains the following morally framed words:
+
+* "unique" (to describe Canadarm2's complexity)
+* "flawlessly" (used twice to describe the arm's performance and the test run)
+* "pivotal role" (to emphasize the importance of Canadarm2 in the mission)
+
+Here is a summary preserving these morally framed words:
+
+SUMMARY:
+The International Space Station took a major step forward with the installation of its first railway, made possible by Canadarm2, a uniquely complex robot that has performed flawlessly throughout its pivotal role. The rail car, part of the 13-meter-long S-0 truss, will support thousands of square meters of solar panels generating power for the station. In a remarkable feat, astronauts Steve Smith and Rex Walheim released launch restraints on the rail car during their six-hour spacewalk, paving the way for its first test run. Despite an initial anomaly detected in one of Canadarm2's joints, Canadian engineers successfully bypassed the problem area, ensuring the arm continued to operate flawlessly.
+
+END OF SUMMARY.

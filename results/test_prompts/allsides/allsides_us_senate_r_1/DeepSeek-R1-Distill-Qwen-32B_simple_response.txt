@@ -1,0 +1,14 @@
+Alright, so I need to summarize this news article while preserving the moral framing. The article is about the Born-Alive Abortion Survivors Protection Act in the Senate. It's critical of Democrats for opposing the bill, which requires medical care for infants born alive after an abortion.
+
+First, I should identify the key points. The bill was reintroduced by Senator Ben Sasse after Governor Northam's controversial comments. Democrats voted against it, claiming it's "anti-abortion." They argue that "born-alive" infants don't exist, but there's evidence they do. The article also points out that only 33 states have such laws, and New York repealed theirs.
+
+The moral argument here is that opposing the bill dehumanizes newborns. The article suggests that Democrats' stance implies the right to abortion includes letting an infant die, which is a strong moral critique.
+
+I need to make sure the summary is concise, under 200 words, and includes these elements: the bill's purpose, Democratic opposition, their rationales, the evidence against their claims, and the moral implications.
+
+I should structure it by introducing the bill, mentioning the opposition, their arguments, the counterarguments, and then the moral critique. Make sure to highlight the dehumanizing aspect as the central moral point.
+
+Also, the summary should start after "SUMMARY:" and end with "END OF SUMMARY." without any markdown.
+</think>
+
+SUMMARY: The Senate is set to consider the Born-Alive Abortion Survivors Protection Act, a bill criticized for exposing Democrats' support for unlimited legal abortion. The legislation mandates medical care for infants born alive after an abortion. Senator Ben Sasse reintroduced it following Virginia Governor Ralph Northam's controversial remarks about letting newborns die. In 2019, 44 Democrats voted to block the bill, claiming "born-alive" infants don't exist or that existing laws prevent infanticide. However, evidence shows such infants do survive, and only 33 states have relevant laws, with New York repealing its protections. Democrats label the bill "anti-abortion," arguing it limits health-care options, though it doesn't regulate abortion access but requires treating newborns born alive similarly to other infants. Critics argue opposing the bill dehumanizes newborns, suggesting the pro-choice stance includes the right to let infants die if they were targets for abortion. The bill highlights the moral inconsistency of denying rights to a newborn based on prior abortion intentions. END OF SUMMARY.

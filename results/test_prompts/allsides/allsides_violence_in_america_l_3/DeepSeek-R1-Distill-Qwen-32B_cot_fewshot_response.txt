@@ -1,0 +1,35 @@
+Okay, so I need to summarize this news article about Chicago's violence in 2016. The user wants me to extract the morally framed words first and then write a summary preserving those words. Let me start by reading the article carefully.
+
+The article mentions Chicago having 762 homicides, the highest in two decades, more than New York and LA combined. That's a lot of violence. The police department's data shows a significant increase in shooting incidents too. The main points are about the surge in gun violence, the influx of illegal guns, and the impact of police shootings on public trust.
+
+Looking for morally framed words, I see words like "sobering," "staggering," "spike," "lamented," "flood," "illegal," "emboldened," "deterrent," "joke," "scrambled," "initiatives," "protests," "charged," "murder," "reluctant," "cautious," "opportunity," and "nefarious." These words carry moral weight, indicating issues like failure, blame, or consequence.
+
+Now, for the summary, I need to include as many of these words as possible while keeping it concise. I should mention the record number of homicides, the factors contributing to the violence, the police's response, and the impact on public trust. I'll also highlight the initiatives they're trying to implement to reduce crime.
+
+I need to make sure the summary flows well and covers all the key points without exceeding 200 words. Let me structure it step by step: start with the alarming statistics, then the causes (illegal guns, police shootings), the police's response, the community's reaction, and the measures being taken.
+
+I should avoid technical jargon and keep the language clear. Also, ensure that the moral framing is preserved by using the extracted words where appropriate. Let me draft it now, making sure each sentence includes relevant moral terms and covers the necessary information succinctly.
+</think>
+
+STEP 1:  
+*sobering  
+*staggering  
+*spike  
+*lamented  
+*flood  
+*illegal  
+*emboldened  
+*deterrent  
+*joke  
+*scrambled  
+*initiatives  
+*protests  
+*charged  
+*murder  
+*reluctant  
+*cautious  
+*opportunity  
+*nefarious  
+
+SUMMARY:  
+Chicago ended 2016 with a sobering record of 762 homicides, the highest in two decades, surpassing New York and Los Angeles combined. The city also saw 1,100 more shooting incidents than in 2015, highlighting a staggering surge in violence. Police Superintendent Eddie Johnson attributed the spike to a flood of illegal guns and the emboldening of criminals, who perceive little deterrent to committing violent crimes. The lack of fear from the criminal justice system, combined with Illinois' lax gun laws, has allowed gang members to arm themselves with impunity, viewing the court system as "a joke." The majority of the violence occurred in poor, predominantly black neighborhoods, with victims often having prior gang ties or arrests. Mayor Rahm Emanuel scrambled to address the crisis by adding 1,000 officers and implementing initiatives like street cameras and gunshot-detection systems. However, Johnson acknowledged that officers have become more cautious, in part due to fear of becoming the next viral video, and state laws requiring extensive paperwork for stops have further reduced police activity. Criminals, watching the media, see an opportunity to commit nefarious acts. END OF SUMMARY.

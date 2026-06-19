@@ -1,0 +1,18 @@
+Here are the single words that are morally framed:
+
+STEP 1:
+* class
+* respect
+* hurtful
+* judged
+* learned
+* grow
+* pledge
+* hurtful (again, because it's repeated)
+
+And here is a summary of the news article, preserving as many morally framed words as possible:
+
+SUMMARY:
+The communications director for Rep. Stephen Fincher had to apologize for her Facebook post critical of President Obama's daughters during his Thanksgiving address. Elizabeth Lauten wrote that Malia and Sasha should "try showing a little class" and respect their positions, implying that they were coming up short in the "good role model" department. She also took a shot at the president and first lady, saying they didn't respect their positions or the nation. Her words were hurtful to many people, including those who defended the girls' right to express themselves freely. After prayer and reflection, Lauten apologized for her original post, pledging to learn from the experience and grow as a person. The White House did not comment on the issue.
+
+END OF SUMMARY.

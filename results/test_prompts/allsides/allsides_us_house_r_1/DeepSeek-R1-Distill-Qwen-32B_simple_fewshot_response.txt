@@ -1,0 +1,24 @@
+Okay, so I need to summarize this news article about the House Judiciary Committee's impeachment case against President Trump. The user wants the summary to preserve the moral framing from the article. Let me read through the article carefully to understand the key points and the underlying moral arguments.
+
+The article starts by mentioning Jerrold Nadler, the chairman of the House Judiciary Committee, stating that the Democrats' impeachment case argues Trump put himself before the country. Nadler emphasizes that public officials, especially the president, shouldn't use their office for private gain. He calls the process "solemn and serious" and believes it's necessary to address threats to American institutions like free elections.
+
+On the other side, Trump denies any wrongdoing and labels the impeachment as a partisan "sham." The charges include abuse of power, bribery, and obstructing the congressional probe, all linked to Trump asking Ukraine to investigate Biden and his son Hunter. Republicans argue that Trump's actions, while unconventional, aren't criminal and that investigating Hunter Biden is legitimate.
+
+The article details the July 25 phone call where Trump pressured Ukraine's president for investigations. A whistleblower accused Trump of withholding military aid as leverage, which Democrats argue is a quid pro quo deal. The White House's transcript didn't show a direct quid pro quo, but Democrats maintain it was implied through a shadow foreign policy by Giuliani.
+
+Witnesses like Gordon Sondland testified about offering a White House visit as leverage, but Trump denied any quid pro quo. The military aid was delayed for about two months, resuming after the whistleblower complaint became public. Trump acknowledges wanting the investigation into the Bidens and the DNC server, which Democrats tie to his actions.
+
+Now, considering the moral framing. The Democrats argue Trump's actions were self-serving, violating his oath and the Constitution. They see this as a threat to democracy and the rule of law. Republicans counter that Trump's actions weren't criminal and that the investigation into Biden was justified, framing the impeachment as politically motivated.
+
+I need to capture these moral arguments in the summary. It should highlight the Democrats' concern about Trump's self-interest and the Republicans' defense of his actions as legitimate. The summary should be concise, around 200 words, and include the key points without going into too much detail.
+
+I should structure the summary by first introducing the impeachment case, then outline the Democrats' arguments, followed by the Republicans' counterarguments, and conclude with the nature of the charges and the underlying moral debate.
+
+Let me draft the summary, making sure to include all these elements while keeping it within the word limit and preserving the moral framing.
+</think>
+
+SUMMARY:
+
+The House Judiciary Committee, led by Chairman Jerrold Nadler, has advanced the Democrats' impeachment case against President Trump, arguing that Trump prioritized personal gain over the nation's interests. Nadler emphasized that no public official, especially the president, should exploit their office for private advantage, asserting that Trump's actions threaten democratic institutions like free elections. The case centers on Trump's request for Ukraine to investigate political rival Joe Biden and his son Hunter, which Democrats allege constitutes abuse of power, bribery, and obstruction of Congress. Republicans counter that Trump's actions, though unconventional, do not meet the threshold for criminality and that investigating Hunter Biden was legitimate. Key evidence includes a July phone call where Trump pressured Ukraine's president for investigations, with a whistleblower accusing Trump of withholding military aid as leverage. While the White House denied a direct quid pro quo, Democrats argue the pressure campaign implied one. Trump denies wrongdoing, calling the impeachment a partisan "sham." The moral framing pits Democrats' concern over Trump's self-interest against Republicans' defense of his actions as a legitimate foreign policy move, highlighting a clash over the integrity of American democracy.
+
+END OF SUMMARY.

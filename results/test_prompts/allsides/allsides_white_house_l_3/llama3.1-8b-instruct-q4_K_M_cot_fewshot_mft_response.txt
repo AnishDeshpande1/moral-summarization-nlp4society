@@ -1,0 +1,25 @@
+Here is the result for STEP 1:
+
+* bigotry
+* protect
+* terrorism
+* terrorists
+* antiterror
+* condemn
+* targeted
+* bullied
+* fabric
+* contribution
+* positive
+* national security
+* Islamophobia
+* conspiracy
+* Muslim
+* American
+
+And here is the summary:
+
+SUMMARY:
+President Barack Obama visited a mosque in Baltimore, seeking to counter "inexcusable political rhetoric against Muslim-Americans" from Republican presidential candidates. He described Muslims as essential to America's fabric and encouraged them to speak out against terrorism. Obama decried GOP plans that would single out Muslims for extra scrutiny, saying it would only amplify terrorist messages. He demanded that people of all faiths be accepted without bias into the United States, citing conversations with young Muslim parents whose children were worried about being removed from the country. Obama also called on media to present more positive depictions of Muslims and lift up their contributions to American society. His visit was seen as a public rejection of Islamophobia and an attempt to "amplify" the voices of Muslim leaders who condemn terrorism. By promoting acceptance and understanding, Obama aimed to show that America truly protects all faiths.
+
+END OF SUMMARY.

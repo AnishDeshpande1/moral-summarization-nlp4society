@@ -1,0 +1,15 @@
+Okay, I need to summarize the given news article while preserving the moral framing related to Authority/Subversion and Care/Harm. Let me read through the article first.
+
+The article discusses the aftermath of Hurricane Sandy and the differing approaches of President Obama and Mitt Romney regarding disaster response. Obama emphasizes the federal government's role, offering prayers and federal resources. Romney, on the other hand, focuses on local efforts and private initiatives, citing a story about students cleaning a football field.
+
+The moral framing here seems to center on Authority/Subversion and Care/Harm. Obama's approach highlights the federal government's authority and responsibility to care for those affected, ensuring their safety and well-being. Romney's stance supports decentralized authority, relying on local governments and voluntary efforts, which could be seen as subverting federal authority but also emphasizing community care.
+
+I should structure the summary to reflect these points. Start by mentioning the debate over government's role in disaster response. Highlight Obama's federal approach and Romney's emphasis on local efforts. Include the moral implications: Obama's use of authority to provide care versus Romney's focus on community action and reduced federal involvement. Also, note the political implications, like Romney's stance on federal spending and the potential clash with state officials.
+
+Make sure the summary is concise, under 200 words, and clearly ties the moral foundations to each candidate's approach.
+</think>
+
+SUMMARY:  
+The aftermath of Hurricane Sandy has reignited the debate over the federal government's role in disaster response, highlighting the moral dimensions of authority and care. President Obama emphasized the federal government's critical role in providing support, stating that the nation stands behind those affected and will do everything possible to aid recovery. This approach underscores the moral foundation of authority, as Obama asserts federal responsibility to ensure collective care and protection. In contrast, Mitt Romney focused on local and voluntary efforts, advocating for decentralized disaster relief and highlighting individual responsibility. Romney's approach reflects a moral emphasis on subverting federal authority in favor of community-driven solutions. While Romney acknowledges the importance of federal assistance, he argues for reducing federal involvement to promote self-reliance and private-sector involvement. The moral framing of this debate centers on whether federal authority should lead in disaster response or if local efforts and private initiatives should take precedence, ultimately shaping the balance between care for the vulnerable and the principle of limited government.  
+
+END OF SUMMARY.

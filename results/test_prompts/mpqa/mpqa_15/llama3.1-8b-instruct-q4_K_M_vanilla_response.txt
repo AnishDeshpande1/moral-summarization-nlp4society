@@ -1,0 +1,4 @@
+SUMMARY:
+The space shuttle Atlantis successfully launched from Cape Canaveral on Monday, carrying seven astronauts and a large cargo of hardware towards the International Space Station. The launch was delayed by four days due to a leak in a fueling pipe, but engineers were able to fix the issue with just 11 seconds to spare. This is the first of six launches scheduled for the next seven months, aimed at completing the space station. Mission specialist Jerry L. Ross became the first astronaut to make seven space flights on this mission. The astronauts will perform four space walks over the course of their 11-day mission, installing a crucial center support unit called "S-Zero", which will hold a massive solar energy array nearly an acre in size.
+
+END OF SUMMARY.

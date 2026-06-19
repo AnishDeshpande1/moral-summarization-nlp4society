@@ -1,0 +1,32 @@
+Alright, so the user has provided a query where they want me to summarize a news article while preserving the moral framing. They've also included specific instructions on how to approach this task, which involves two main steps: identifying morally framed words and then writing a concise summary.
+
+First, I need to understand what morally framed words are. These are words that carry a strong moral or ethical connotation, often used to influence opinion or judgment. Examples might include words like "lies," "failure," "crime," "deportation," etc. My job is to go through the article and pick out each of these words, listing them under STEP 1.
+
+Next, I have to write a summary that includes as many of these morally framed words as possible. The summary needs to be under 200 words, so I have to be concise. I should focus on the key points of the article: Trump softening his immigration stance, his claims about inner cities being unsafe, and the unemployment statistics he cited. Each of these points has moral implications, so I need to highlight them while keeping the summary clear and within the word limit.
+
+I also need to make sure that the summary accurately reflects the content of the article without adding any personal opinions. It's important to stick to the facts but still incorporate the moral language used by the author.
+
+Now, looking at the article, the main points are Trump's shift on immigration, his claims about crime rates in inner cities, and the unemployment statistics. Each of these sections uses morally charged language, so I'll need to include terms like "lies," "failure," "crime," "deportation," "unemployment," and "statistics" in the summary.
+
+I should structure the summary to first mention Trump softening his stance, then his claims about inner cities, and finally the unemployment statistics. Each section should be brief but informative, ensuring that the moral framing is preserved.
+
+I also need to be careful with the word count. The summary must be concise, so I'll have to paraphrase some parts without losing the essential information. For example, instead of listing all the specific points about the unemployment rate, I can mention that Trump's statistics were misleading and based on flawed data.
+
+Overall, my approach is to methodically identify the morally framed words, then craft a summary that weaves them into a coherent and concise overview of the article, adhering strictly to the user's instructions.
+</think>
+
+### STEP 1:  
+* Lies  
+* Amnesty  
+* Deportation  
+* Flip-flopping  
+* Citizenship  
+* Crime  
+* Poverty  
+* Failure  
+* Unemployment  
+* Misleading  
+
+### SUMMARY:  
+The article discusses Donald Trump's recent shifts in his campaign messaging, particularly on immigration and African American unemployment. Trump softened his stance on immigration, suggesting undocumented immigrants could pay taxes and work toward legalization, though he denied flip-flopping. His campaign also targeted Hispanic and African American voters, but polling shows he trails significantly behind Hillary Clinton among non-white voters. Trump also claimed that inner cities are more dangerous than war zones, despite crime rates declining nationally. Additionally, he cited misleading statistics about African American unemployment, claiming 58% of young black individuals are unemployed, a figure criticized as statistically flawed. Trump’s rhetoric and data have drawn criticism for being morally questionable and factually inaccurate.  
+END OF SUMMARY.

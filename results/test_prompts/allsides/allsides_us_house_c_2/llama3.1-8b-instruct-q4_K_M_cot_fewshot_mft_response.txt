@@ -1,0 +1,68 @@
+Here are the morally framed words for each article:
+
+Example 1:
+* dirty
+* lying
+* bitter
+* suspicious
+* colluded
+* lying
+* misleading
+* shithole
+
+Summary:
+Michael Cohen's prepared opening statement for his testimony before the House Oversight Committee is explosive. He claims he overheard a call between Trump and Roger Stone, where Stone told Trump about WikiLeaks' plans to release hacked emails during the presidential campaign. This is the most direct allegation yet that Trump was in the loop about WikiLeaks' plans. Cohen also alleges that Trump encouraged him to make misleading claims about talks to build a Trump Tower in Moscow and made racist remarks in private, calling a country run by a black person a "shithole." With no further reason to keep Trump's secrets, Cohen now seems to want to spill all he knows about Trump, under oath. However, his credibility will be challenged due to his past lying to Congress.
+
+Example 2:
+* inflammatory
+* provocative
+* humbling
+* sad
+* respect
+* kindness
+* friendship
+* bridges
+* walls
+* hate
+* crimes
+* surge
+* encouraged
+* far-right
+* extremists
+* invasion
+* terrorists
+* financed
+* slaughtered
+* optics
+* anti-Semitic
+* lies
+* denounce
+* white
+* nationalism
+* immoral
+
+Summary:
+U.S. President Donald Trump visited the Pittsburgh synagogue where 11 worshipers were slain in an anti-Semitic attack, amid widespread disapproval for his inflammatory rhetoric that critics say may have provoked the deadliest attack on American Jewry. Thousands of protesters, including members of the Jewish community, held an anti-Trump rally, singing Old Testament psalms and carrying signs with slogans such as "We build bridges not walls." Trump's visit came just seven days before national elections, with critics arguing that his rhetoric has contributed to a surge in white nationalist and neo-Nazi activity.
+
+Example 3:
+* pride
+* patriotism
+* prejudice
+* carnage
+* fight
+* power
+* people
+* dreams
+* great
+
+Summary:
+Donald Trump was inaugurated as the 45th President of the United States, vowing to restore prosperity and "fight" for the country "with every breath." He appealed for a "new national pride" and a rediscovery of American patriotism, emphasizing that "when you open your heart to patriotism, there is no room for prejudice."
+
+Target News Article:
+* resumption
+* action
+* investigations
+* nod
+
+Summary:
+Sondland testified that he communicated with a leading Ukrainian official that the resumption of U.S. aid would likely not occur until Ukraine took some kind of action on the public statement about proposed investigations into the D.N.C. server. He told Vice President Mike Pence that he believed the aid was being held up pending investigations, and Pence just nodded. Sondland testified that Trump asked him if the Ukrainians were in fact going to pursue investigations, and Sondland replied that they'd do whatever the president wanted. This suggests that Trump wanted an inquiry into the conspiracy theory that Ukraine, not Russia, hacked the D.N.C., which is why Sondland repeatedly spoke about proposed investigations involving the "D.N.C. server."

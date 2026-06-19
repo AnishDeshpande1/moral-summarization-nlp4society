@@ -1,0 +1,20 @@
+**STEP 1:**
+* concerned
+* fear
+* influence
+* undermine
+* disinformation
+* credibility
+* legitimacy
+* threat
+* warning
+* alarm
+* disruption
+* distrust
+* confidence
+* integrity
+* transparency
+
+**SUMMARY:**
+A wave of cyber‑attacks and public warnings this election cycle has created widespread **fear** and left many voters **concerned** that the vote could be **hacked**. A Carbon Black survey found 38 % of Americans **concerned** and 18 % **very concerned**, with 20 % saying they might stay home, potentially denying 15 million people the chance to vote. The Obama administration blames senior Russian officials for the DNC breach, while the hacker group Guccifer 2.0 continues to issue **warnings** and calls for others to **monitor** the election, a tactic experts say is meant to **undermine** confidence through **disinformation**. Security officials stress that even without a successful breach, the **threat** of perceived tampering can **disrupt** voting, erode **credibility** and **legitimacy**, and fuel post‑election challenges. State election officials remain on **alert**, emphasizing the need for **integrity**, **transparency**, and public **confidence** to prevent the **alarm** from turning into a broader **disruption** of the democratic process.  
+END OF SUMMARY.

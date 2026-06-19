@@ -1,0 +1,75 @@
+Alright, I'm trying to figure out how to approach this user's query. They want me to act as a news summarizer assistant and a moral expert. The task is to summarize a given news article while preserving the moral framing, specifically focusing on the moral foundations of Authority/Subversion, Care/Harm, and Fairness/Cheating.
+
+First, I need to understand the structure of the examples provided. Each example includes a news article, a step where moral words are extracted, and a summary that incorporates those words while maintaining the moral framing. My job is to replicate this process for the target article provided.
+
+Looking at the target article, it's about Donald Trump's campaign, focusing on his stance on immigration, his claims about inner cities, and African American unemployment. I need to extract the morally framed words from this article, focusing on the specified dimensions.
+
+I'll start by reading through the article carefully. I'll look for words that relate to authority, care, harm, fairness, and cheating. For example, words like "deportation," "amnesty," "failure," "unemployment," and "suffering" stand out. These terms carry moral weight and relate to the foundations mentioned.
+
+Next, I'll list these words in the STEP 1 section, each on a new line prefixed with an asterisk. This helps in identifying the key moral elements in the article.
+
+After extracting the moral words, I need to write a concise summary that incorporates these terms while preserving the moral framing. The summary should highlight Trump's shifting stance on immigration, his claims about inner cities, and the misleading statistics on unemployment. It's important to mention how these claims affect trust and perceptions among different voter groups.
+
+I also need to ensure that the summary doesn't exceed 200 words and flows naturally, maintaining the moral dimensions throughout. I'll focus on Trump's contradictions, the misleading statistics, and the implications for his campaign's credibility.
+
+Finally, I'll review the summary to make sure it accurately reflects the article's content and maintains the moral framing as required. This process ensures that the summary is both informative and aligned with the user's instructions.
+</think>
+
+### STEP 1:
+* soften
+* signature
+* court
+* trail
+* lead
+* lie
+* paid
+* Mexico
+* ultra-hardline
+* undocumented
+* migrants
+* proposals
+* deportation
+* force
+* rounding
+* humane
+* legalize
+* flip-flopping
+* citizenship
+* path
+* contradict
+* amnesty
+* taxes
+* pay
+* crime
+* war zones
+* safer
+* inner cities
+* failed
+* poverty
+* rejection
+* horrible education
+* no housing
+* ownership
+* crime
+* levels
+* unheard
+* hell
+* lose
+* unemployment
+* suffer
+* control
+* jobs
+* misleading
+* statistics
+* sectors
+* labor force
+* retired
+* divide
+* population
+* unemployment
+* misleading
+
+---
+
+### SUMMARY:
+Donald Trump, the GOP nominee, softened his stance on immigration during his campaign, attempting to court non-white voters by discussing African American unemployment. However, his claims about immigration and inner cities have been widely criticized as misleading. Trump initially proposed a "great wall" along the US-Mexico border, paid for by Mexico, and suggested deporting undocumented migrants. However, he later appeared to contradict his hardline stance, offering a path for undocumented immigrants to stay in the US by paying taxes and back taxes, though he denied granting amnesty. Trump also claimed that crime in American inner cities is more dangerous than war zones, a statement that contradicts declining crime trends. Additionally, he cited a misleading statistic about African American unemployment, claiming 58% of young black men and women are unemployed, which economists argue is statistically flawed. Trump's contradictory statements and misleading claims have raised concerns about his credibility among non-white voters. END OF SUMMARY.

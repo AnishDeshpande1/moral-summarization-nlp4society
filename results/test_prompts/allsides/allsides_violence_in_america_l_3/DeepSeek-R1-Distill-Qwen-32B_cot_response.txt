@@ -1,0 +1,31 @@
+Alright, I need to help the user by summarizing the given news article while preserving the moral framing. Let me start by understanding the task. The user provided a detailed query where they want me to first identify morally framed words and then write a concise summary using those words.
+
+First, I'll read through the article to get a sense of the main points. It's about the surge in homicides and shootings in Chicago, the reasons behind it, and the police's response. The moral framing here likely revolves around issues like violence, gun control, justice, and community impact.
+
+Now, for Step 1, I need to extract all single words that carry moral connotations. Words like "sobering," "staggering," "spike," "illegal," "emboldened," "deterrent," "joke," "predominantly," "arrests," "protests," "weakness," "scrutinized," and "nefarious" come to mind. These words highlight the moral aspects of the situation, such as the severity of the crime, the failure of the justice system, and the impact on the community.
+
+Next, for the summary, I need to condense the article into 200 words, incorporating as many of these morally framed words as possible. I'll start by stating the record number of homicides and shootings, then move on to the reasons: illegal guns, police's reluctance due to public scrutiny, and the lack of deterrent. I'll mention the affected areas and the police's initiatives, but also note the criticism they face. Finally, I'll touch on the broader implications, like the loss of public trust and the perception of a weakened police force.
+
+I should ensure the summary flows logically, connecting each point with the moral framing words. It's important to highlight the systemic issues and the community's suffering to maintain the original article's tone.
+
+Let me draft the summary, making sure it's concise and includes all the key points with the appropriate moral language. I'll check the word count to stay within the limit. Once done, I'll review it to ensure it accurately reflects the article's content and maintains the moral perspective.
+</think>
+
+**STEP 1:**  
+* Sobering  
+* Staggering  
+* Spike  
+* Illegal  
+* Emboldened  
+* Deterrent  
+* Joke  
+* Predominantly  
+* Arrests  
+* Protests  
+* Weakness  
+* Scrutinized  
+* Nefarious  
+
+**SUMMARY:**  
+Chicago experienced a record-breaking year of violence in 2016, with 762 homicides and 3,550 shooting incidents, the highest in two decades. The surge in illegal guns and a lack of deterrents have fueled the crisis, particularly in poor, predominantly black neighborhoods. Police Superintendent Eddie Johnson linked the violence to public distrust in law enforcement, sparked by high-profile incidents like the Laquan McDonald shooting. Gangs and criminals exploit this weakness, emboldened by the perception that the justice system is a "joke." The city's efforts to combat violence, including adding officers and installing cameras, face criticism as crime persists. The moral failure of the system and the suffering of communities highlight the urgent need for reform.  
+**END OF SUMMARY.**

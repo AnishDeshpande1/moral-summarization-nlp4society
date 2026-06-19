@@ -1,0 +1,11 @@
+Alright, so I need to help this user by summarizing a news article about Obama's visit to a mosque. The user provided the article and specified that the summary should be under 200 words, starting with "SUMMARY:" and ending with "END OF SUMMARY." 
+
+First, I'll read through the article to understand the main points. The key elements are Obama visiting a mosque in the US for the first time, his purpose to counter anti-Muslim rhetoric from Republicans, his message about Muslims being an essential part of America, and his criticism of GOP counterterrorism plans. He also mentioned conversations with Muslim parents worried about their children, the historical context of Islam in America, and the call for positive media portrayals.
+
+I need to condense this into a concise summary. I'll start by mentioning the visit and its purpose. Then, highlight his main message about Muslims fitting into America. Include his criticism of singling out Muslims for scrutiny. Mention the conversations with parents and the historical context. Also, note the media representation part and the fact that some Muslims felt the visit was too late. Finally, add a bit about Obama's previous mosque visits abroad and the conspiracy theories.
+
+I should make sure the summary flows logically and covers all the essential points without being too lengthy. Let me structure it step by step to ensure clarity and brevity.
+</think>
+
+SUMMARY:  
+President Barack Obama visited a mosque in Baltimore, marking his first visit to a U.S. mosque, to address anti-Muslim rhetoric from Republican candidates. He emphasized that Muslims are an essential part of America, stating, "You fit right here" and rejecting plans to single out Muslims for surveillance. Obama condemned GOP counterterrorism strategies, warning they could amplify terrorist messages. He also discussed conversations with Muslim parents worried about their children being targeted, calling for acceptance without bias. Obama highlighted the contributions of Muslim-Americans and urged media to portray them positively, not just in relation to national security. While some praised the visit, others criticized it as too late. This visit aimed to counter Islamophobia and conspiracy theories, with Obama acknowledging he is not the first president targeted by such claims. END OF SUMMARY.

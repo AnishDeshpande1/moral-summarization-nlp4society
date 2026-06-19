@@ -1,0 +1,7 @@
+To provide an accurate response, I'll need the list of morally framed words used by the author. Please provide that information so I can preserve them in my summary.
+
+Once I have the list, I will create a summary of the article, preserving as many morally framed words as possible, and returning it with the following tokens:
+
+`SUMMARY:` 
+...summary...
+`END OF SUMMARY.`

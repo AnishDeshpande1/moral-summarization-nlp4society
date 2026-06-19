@@ -1,0 +1,16 @@
+Here is the response to the target news article:
+
+STEP 1:
+* special
+* apolitical
+* fluid
+* overwhelming
+* problematic
+* conflict-of-interest
+* credibility
+* badly
+
+SUMMARY:
+President Trump is close to choosing a new F.B.I. director, with Joseph I. Lieberman emerging as the front-runner. However, members of Trump's staff have urged him to take more time in making this critical hire, citing concerns about Lieberman's lack of federal law enforcement experience and potential conflict-of-interest accusations. Despite these reservations, Trump appears increasingly likely to leave for a nine-day foreign trip without picking a new director. The White House remains divided on the selection process, with some officials praising Lieberman's bipartisan reputation as a way to lend credibility to the president. Others have expressed serious doubts about Lieberman's suitability due to his age and potential conflicts of interest. Meanwhile, Democrats are pushing back against the notion that Lieberman would be an overwhelming choice, casting him as a conservative Democrat in name only. The F.B.I.'s agents prize their independence as one of Washington's few apolitical institutions, making this selection particularly important.
+
+END OF SUMMARY.

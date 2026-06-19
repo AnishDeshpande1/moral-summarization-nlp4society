@@ -1,0 +1,28 @@
+Alright, so I need to summarize this article while preserving the moral framing related to the specified foundations. Let me read through the article again to understand the key points.
+
+The article discusses the forgiveness shown by the victims' relatives after the Charleston shooting, highlighting the Christian principle of love over vengeance. The author admires this but also feels frustration, comparing it to the Jewish approach of not becoming victims again. He mentions the historical context of African-Americans using both Christian forgiveness and nationalist, sometimes violent, responses. The author questions why there isn't more outward violence and suggests that America is lucky the response has been peaceful.
+
+Now, focusing on the moral foundations:
+
+1. **Care/Harm**: The victims' forgiveness is an act of care despite harm. The author acknowledges this but also points out the harm caused by the shooter and systemic issues.
+
+2. **Fairness/Cheating**: The article touches on the unfairness of the violence and systemic racism, questioning why the response isn't more confrontational.
+
+3. **Loyalty/Betrayal**: The victims' loyalty to their faith and community is shown through forgiveness, while the shooter's betrayal is evident.
+
+4. **Authority/Subversion**: The Christian approach subverts the natural desire for revenge, while the nationalist approach might subvert authority by advocating for self-defense.
+
+5. **Sanctity/Degradation**: The forgiveness is a sacred act, while the violence and systemic oppression degrade the victims.
+
+I need to ensure the summary captures these elements without losing the moral nuances. I'll structure it to highlight the admiration for forgiveness, the frustration with the lack of anger, and the comparison to Jewish nationalism. I'll also touch on the historical context and systemic issues.
+
+Let me draft a concise version, keeping it under 200 words and ensuring each moral foundation is addressed.
+</think>
+
+The author reflects on the victims' relatives' forgiveness of Dylann Roof, the Charleston shooter, as a profound expression of Christian love, despite the absence of remorse from the perpetrator. This act of forgiveness is seen as noble, yet the author feels frustrated, questioning whether responding with anger is less admirable. Drawing parallels to Jewish nationalism, which emphasizes self-protection, the author contrasts this with African-Americans' historical Christian approach to suffering, which has inspired movements like civil rights. However, the author also acknowledges a less dominant strand of black struggle, characterized by nationalism and a readiness to confront injustice with force. The article highlights the moral tension between forgiveness and retribution, emphasizing the victims' choice of non-confrontation and the systemic injustices they have endured. The author marvels at the victims' restraint, suggesting that America is fortunate for their peaceful response despite centuries of oppression.
+
+SUMMARY:
+
+The article examines the victims' relatives' forgiveness of Dylann Roof, the Charleston shooter, as a noble yet perplexing act of Christian love, despite Roof's lack of remorse. The author admires this forgiveness but questions whether anger is less commendable, contrasting it with Jewish nationalism, which emphasizes self-defense. The article highlights African-Americans' historical use of Christian forgiveness to combat oppression, while also acknowledging a less dominant strand advocating for self-defense. The author reflects on the moral tension between forgiveness and retribution, emphasizing the victims' peaceful response despite systemic injustices. The article concludes by marveling at the victims' restraint, suggesting America is fortunate for their non-confrontational approach despite centuries of oppression.
+
+END OF SUMMARY.

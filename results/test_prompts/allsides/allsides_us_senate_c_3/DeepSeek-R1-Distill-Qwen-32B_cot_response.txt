@@ -1,0 +1,33 @@
+Alright, let me try to figure out how to approach this query. The user wants me to act as a news summarizer assistant and a moral expert. They provided a detailed news article about the government shutdown and the various bills being proposed. 
+
+First, I need to understand the two main tasks here. The first step is to identify all the single words that are morally framed in the article. The user specified that each word should be listed with a * and under STEP 1. I'll need to go through the article and pick out words that carry moral connotations, like "complicity," "hostage," or "Trojan Horse." These words are used to convey the author's judgment on the situation.
+
+Next, I have to write a summary of the article, making sure to preserve as many of these morally framed words as possible. The summary needs to be concise, under 200 words, and should capture the essence of the political stalemate, the proposed bills, and the reactions from both parties. I'll need to ensure that the summary reflects the moral framing by including those key words identified in the first step.
+
+I should also be careful to follow the formatting instructions precisely. The summary should start after the "SUMMARY:" token and end with "END OF SUMMARY." I'll make sure not to include any markdown and keep the language clear and straightforward.
+
+I'm a bit concerned about accurately capturing all the morally framed words without missing any. I'll need to read through the article carefully, perhaps multiple times, to ensure I don't overlook any. Also, when summarizing, I need to maintain the balance between being concise and including enough detail to reflect the moral perspectives presented in the original text.
+
+Another thing to consider is the user's deeper needs. They might be looking for a concise yet comprehensive summary that highlights the ethical dimensions of the political situation. By preserving the moral framing, the summary can provide a clearer understanding of the underlying tensions and values at play in the shutdown.
+
+I should also check the word count to make sure the summary doesn't exceed 200 words. Being concise while including all necessary details might be a bit challenging, but I can manage it by focusing on the key points and using the morally framed words effectively.
+
+Overall, the key steps are: identify morally framed words, then craft a summary that includes them while staying within the word limit. I'll proceed methodically to ensure both tasks are completed accurately.
+</think>
+
+### STEP 1:  
+* Complicity  
+* Hostage  
+* Shutdown  
+* Bargaining chip  
+* Standoff  
+* Confrontational  
+* Compromise  
+* Trojan Horse  
+* Destroy  
+* Historic change  
+* Closing down  
+* Protections  
+
+### SUMMARY:  
+The Senate is set to vote on two bills to end the longest government shutdown in history. The first bill includes $5.7 billion for a border wall and other concessions, while the second is a short-term measure to reopen the government until February 8. Senate Majority Leader Mitch McConnell urged Democrats to prioritize the country over politics, while President Trump insisted on border wall funding, calling it essential for national security. House Democrats proposed a bill without wall funding, which is unlikely to pass the GOP-led Senate. Centrist Democrats are pushing for a compromise, but Trump has threatened to veto any measure that doesn’t include wall funding. The proposed Senate bill, which includes $5.7 billion for the wall and protections for young immigrants, has been criticized as a "Trojan Horse" that would dismantle asylum protections. The shutdown continues to impact the American people, with both parties at odds over funding priorities. END OF SUMMARY.

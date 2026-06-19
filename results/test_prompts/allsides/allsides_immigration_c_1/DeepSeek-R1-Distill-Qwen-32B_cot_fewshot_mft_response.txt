@@ -1,0 +1,38 @@
+Alright, so I need to summarize the given news article while preserving the moral framing, especially focusing on Authority/Subversion, Care/Harm, and Fairness/Cheating. Let me start by reading through the article carefully.
+
+The article is about the Trump administration introducing new visa rules to restrict "birth tourism." Birth tourism is when women come to the U.S. to give birth so their children can get U.S. citizenship. The new rules state that applicants will be denied tourist visas if consular officers determine their primary purpose is to give birth. They must prove they have a medical need and can afford the expenses. The administration claims this closes a loophole, protects national security, and defends taxpayers from costs associated with birth tourism. They argue it's not a legitimate activity for pleasure or recreation.
+
+Now, I need to identify the morally framed words related to the specified dimensions. Let's go through the article again and pick out the relevant terms.
+
+- "glaring immigration loophole" - relates to Authority/Subversion as it's about exploiting a system.
+- "endemic abuses" - Care/Harm, as it's about widespread mistreatment.
+- "national security risks" - Authority/Subversion, concerning threats to security.
+- "protect" - Care/Harm, about safeguarding.
+- "American taxpayers" - Fairness/Cheating, as it's about financial burden.
+- "siphoned away" - Fairness/Cheating, indicating misuse of funds.
+- "integrity" - Fairness/Cheating, about maintaining honesty.
+- "citizenship" - Authority/Subversion, relating to rights and status.
+- "criminal activity" - Fairness/Cheating, involving illegal actions.
+- "lied" - Fairness/Cheating, about deception.
+
+Next, I'll structure the summary, making sure to include these moral terms. The summary should highlight the administration's actions, the reasons given, and the implications regarding the moral dimensions.
+
+I need to ensure the summary is concise, around 200 words, and flows naturally while incorporating the moral framing. I'll start by stating the new rules, their purpose, and the arguments made by the administration. Then, I'll touch on the criticism and the broader implications.
+
+I should also mention the potential risks, like putting pregnant women at risk, and the lucrative nature of the birth tourism industry. This shows the Care/Harm aspect. The focus on integrity and preventing fraud ties into Fairness/Cheating.
+
+Putting it all together, the summary will outline the new visa rules, the administration's justifications, the moral arguments presented, and the criticisms, all while adhering to the specified moral dimensions.
+</think>
+
+STEP 1:
+* glaring
+* endemic
+* national
+* protect
+* siphoned
+* integrity
+* criminal
+* lied
+
+SUMMARY:
+The Trump administration has introduced new visa rules to restrict "birth tourism," where foreign women travel to the U.S. to give birth, ensuring their children gain U.S. citizenship. Under the rules, applicants will be denied tourist visas if consular officers determine their primary purpose is to give birth. Those with medical needs must prove they can afford all expenses, including transportation and living costs. The administration claims this will "close this glaring immigration loophole," combat "endemic abuses," and protect against "national security risks." They argue it will also defend American taxpayers from "siphoned" dollars used to finance birth tourism. Critics argue the rules could put pregnant women at risk, as consular officers cannot ask about pregnancy during visa interviews but must still determine intent. The administration emphasizes the "integrity" of American citizenship and aims to eliminate "criminal activity" linked to birth tourism, where foreign nationals have lied about their travel purposes. END OF SUMMARY.

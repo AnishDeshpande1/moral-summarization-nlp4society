@@ -1,0 +1,53 @@
+Alright, I need to summarize the given news article while preserving the moral framing, especially focusing on Authority/Subversion, Fairness/Cheating, and Loyalty/Betrayal. 
+
+First, I'll read through the article to understand the main points. The article is about Rex Tillerson's confirmation hearing where he clashes with Sen. Marco Rubio. Key issues include Russia's actions, Tillerson's reluctance to label Putin as a war criminal, his business ties, and his views on other countries like Cuba and Saudi Arabia.
+
+Next, I'll identify the morally framed words. Looking for words related to authority, fairness, and loyalty. Words like "incredulous," "war criminal," "broadside," "aggressive," "allege," "meddling," "weak," "stumbled," "betrayal," "unfriendly," "controversial," "violator," "murdered," "ally," "protester," "reject," "dictate," "confusion," "danger," "stumble," "lead," "confusion," "danger," "betrayal," "unfriendly," "controversial," "violator," "murdered," "ally," "protester," "reject," "dictate," "confusion," "danger," "stumble," "lead," "confusion," "danger," "betrayal," "unfriendly," "controversial," "violator," "murdered," "ally," "protester," "reject," "dictate," "confusion," "danger," "stumble," "lead."
+
+Now, I'll structure the summary. It should include the clash between Tillerson and Rubio, the key issues discussed, and the moral dimensions. I'll make sure to use the identified words where appropriate.
+
+I'll start by introducing the clash, then move on to specific points like Russia's actions, Tillerson's stance on Putin, and his views on other countries. I'll also touch on his business ties and the protesters' presence.
+
+Finally, I'll ensure the summary is concise, around 200 words, and captures the moral framing as required.
+</think>
+
+STEP 1:
+* incredulous
+* war criminal
+* broadsides
+* aggressive
+* alledge
+* meddling
+* weak
+* stumbled
+* betrayal
+* unfriendly
+* controversial
+* violator
+* murdered
+* ally
+* protester
+* reject
+* dictate
+* confusion
+* danger
+* stumble
+* lead
+* confusion
+* danger
+* betrayal
+* unfriendly
+* controversial
+* violator
+* murdered
+* ally
+* protester
+* reject
+* dictate
+* confusion
+* danger
+* stumble
+* lead
+
+SUMMARY:
+Secretary of State nominee Rex Tillerson clashed with Sen. Marco Rubio during his Senate confirmation hearing, with Rubio aggressively pressing Tillerson to label Russian President Vladimir Putin a "war criminal." Tillerson, however, refused to do so, instead emphasizing his more deliberative approach to diplomacy. The exchange highlighted tensions over U.S. policy toward Russia, with Tillerson calling it an "unfriendly adversary" while stopping short of labeling it an enemy. Tillerson also faced scrutiny over his business ties to Russia and the Obama administration's handling of Ukraine, with Rubio questioning his reluctance to brand Russia's actions as "illegal." Tillerson acknowledged the absence of a strong U.S. response to Russia's annexation of Crimea as a "weak" move, but he also criticized the Obama administration for "stumbling" in its approach to global affairs. The hearing also touched on China's activities in the South China Sea, radical Islam, and Syria, with Tillerson emphasizing the need to focus on defeating ISIS. Despite the heated exchanges, Tillerson's testimony revealed a notably harder line on Russia than President-elect Donald Trump's previous statements. Meanwhile, protesters, including those dressed as a T-Rex referencing Tillerson's name, were ejected from the hearing. END OF SUMMARY.

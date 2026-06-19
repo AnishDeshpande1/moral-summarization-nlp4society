@@ -1,0 +1,23 @@
+# DelftBlue inference config: Llama-3-70B-Instruct on a single A100 80GB.
+# The paper's primary model. Loaded in 4-bit via bitsandbytes (~40-45 GB VRAM).
+#
+# Run:
+#   python prompting.py --config-file configs/llama70b_a100.yaml \
+#       --hf-model-folder /scratch/$USER/huggingface-models \
+#       --prompt-dir results/test_prompts --no-testing
+
+# Subfolder under --hf-model-folder holding the weights.
+base_model_name: Meta-Llama-3-70B-Instruct
+
+# Filename tag for responses. Kept identical to base_model_name so that
+# `evaluate.py --llama` (which looks for 'Meta-Llama-3-70B-Instruct') finds them.
+model_tag: Meta-Llama-3-70B-Instruct
+
+# In-process transformers + bitsandbytes backend (not Ollama).
+backend: transformers
+
+bitsandbytes:
+  load_in_4bit: true
+  bnb_4bit_quant_type: nf4
+  bnb_4bit_use_double_quant: true   # extra ~0.4 bit/param saving; A100 handles it
+  bnb_4bit_compute_dtype: bfloat16  # A100 (compute capability 8.0) supports bf16

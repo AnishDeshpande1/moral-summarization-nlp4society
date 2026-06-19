@@ -1,0 +1,58 @@
+Okay, I need to help the user by summarizing the given news article while preserving the moral framing. Let me start by understanding the task.
+
+First, the user provided examples of how to extract moral words and create summaries. They want me to do the same for the target article. The article is about Donald Trump's campaign, focusing on his stance on immigration, crime in inner cities, and African American unemployment.
+
+I'll begin by reading the article carefully. It mentions that Trump softened his immigration stance, talked about African American unemployment, and claimed inner cities are unsafe. There are specific quotes and statistics that carry moral implications.
+
+For STEP 1, I need to extract all single words that are morally framed. These are words that carry a judgment or evaluation. Let me go through the article again and pick out those words.
+
+Looking at the article, words like "lied," "failed," "failed," "failed," "failed," "horrible," "no," "crime," "hell," "unemployment," "suffering," "control," "unemployed," "eye-popping," "statistic," "misleading," "distorting," "manipulation," "crime," "hell," "failed," "failed," "failed," "failed," "horrible," "no," "crime," "hell," "unemployment," "suffering," "control," "unemployed," "eye-popping," "statistic," "misleading," "distorting," "manipulation" stand out. These words carry moral judgments about Trump's statements and policies.
+
+Now, for the summary. I need to condense the article into a concise summary, preserving the moral framing. The summary should include the key points: Trump's softened immigration stance, his claims about inner cities being unsafe, the unemployment statistics, and the criticism of his claims.
+
+I'll start by mentioning Trump's softened stance on immigration, then move to his claims about inner cities being unsafe, followed by the unemployment statistics and the criticism of those claims. I'll make sure to include the moral words like "lied," "failed," "horrible," "crime," "unemployed," and "misleading."
+
+I should ensure the summary is under 200 words and flows naturally, maintaining the moral framing as presented in the article. Let me put it all together, making sure each sentence captures a key point without losing the moral context.
+</think>
+
+**STEP 1:**  
+*lied*  
+*failed*  
+*failed*  
+*failed*  
+*failed*  
+*horrible*  
+*no*  
+*crime*  
+*hell*  
+*unemployment*  
+*suffering*  
+*control*  
+*unemployed*  
+*eye-popping*  
+*statistic*  
+*misleading*  
+*distorting*  
+*manipulation*  
+*crime*  
+*hell*  
+*failed*  
+*failed*  
+*failed*  
+*failed*  
+*horrible*  
+*no*  
+*crime*  
+*hell*  
+*unemployment*  
+*suffering*  
+*control*  
+*unemployed*  
+*eye-popping*  
+*statistic*  
+*misleading*  
+*distorting*  
+*manipulation*  
+
+**SUMMARY:**  
+Donald Trump's campaign has been marked by controversial statements and shifting positions on key issues. Trump softened his stance on immigration, claiming undocumented immigrants would pay back taxes and work toward legal status, though he denied offering amnesty. His claims about crime in inner cities being "safer than war zones" were widely criticized as misleading and offensive. Trump also repeated a statistic claiming 58% of young African Americans are unemployed, which experts deemed statistically misleading. His rhetoric, including claims of "failure" in Democratic-run cities and "horrible" conditions for African Americans, has been widely condemned as manipulative and harmful. Trump's attempts to court non-white voters have been met with skepticism, as his statements often clash with the lived experiences of these communities. END OF SUMMARY.

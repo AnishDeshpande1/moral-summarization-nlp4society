@@ -1,0 +1,18 @@
+Alright, I need to summarize this news article while preserving the moral framing the author provided. Let me start by reading through the article to understand the key points and the tone.
+
+The article is about protests in St. Louis after a white police officer was acquitted for shooting a black man. The protests turned violent over three nights, with many arrests. The police used pepper spray and made mass arrests. The mayor and police commissioner are mentioned, with the mayor blaming a small group of agitators while the police commissioner took a hard stance.
+
+I should note the moral aspects here. The author seems to highlight the contrast between the majority of peaceful protesters and the minority causing violence. There's also the issue of systemic racism and the impact on the community, especially the fear among parents for their children.
+
+I need to condense this into a summary of no more than 200 words, making sure to include the key events, the reactions from officials, and the moral implications. I'll structure it to first describe the protests and violence, then the officials' responses, and finally the underlying issues and fears.
+
+I should avoid technical jargon and keep the summary clear and concise. I'll make sure to mention the acquittal, the peaceful vs. violent protesters, the police actions, the officials' statements, and the broader context of systemic racism and the Black Lives Matter movement.
+
+Let me check the word count as I draft to ensure it's within the limit. Also, I'll use the "SUMMARY:" and "END OF SUMMARY." tokens as instructed.
+
+I think that covers all the necessary points while maintaining the moral framing. Time to put it all together.
+</think>
+
+SUMMARY:  
+Protests in St. Louis over the acquittal of a white police officer who shot a black man turned violent for three consecutive nights, with over 80 arrests on the third night. Police used pepper spray and made mass arrests after demonstrators defied dispersal orders. Mayor Lyda Krewson blamed "agitators" for the violence, while Acting Police Commissioner Lawrence O’Toole emphasized control and protection of the city. The protests followed the acquittal of former officer Jason Stockley, charged with the 2011 killing of Anthony Lamar Smith. Violence included window-smashing and highway blockades, reminiscent of the 2014 Ferguson riots. Police confiscated weapons and decontaminated officers after being hit with an unknown chemical. While the majority of protesters were peaceful, clashes occurred, with some using bats or hammers. The protests, organized by the Ferguson frontline, highlight concerns about institutional racism and police accountability. A mother active in the movement expressed fear for her children, emphasizing the broader impact of systemic issues. The acquittal reignited tensions, with some fearing for their safety amid ongoing unrest.  
+END OF SUMMARY.

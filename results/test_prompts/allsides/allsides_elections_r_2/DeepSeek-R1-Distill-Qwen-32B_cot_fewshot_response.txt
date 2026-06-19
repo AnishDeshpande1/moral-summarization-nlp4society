@@ -1,0 +1,37 @@
+Alright, I need to help the user by summarizing the given news article while preserving the moral framing. Let me start by understanding the task. The user provided examples where they extracted moral words and then wrote a summary using those words. My job is to do the same for the new article.
+
+First, I'll read through the article carefully. It's about a Project Veritas video showing Kyle Jurek, a Sanders campaign organizer, making controversial statements. He talks about cities burning if Trump is re-elected, supports reeducation camps, compares Trump supporters to Nazis, and praises Soviet gulags. He also predicts violence at the DNC.
+
+Now, I need to extract all the single morally framed words. I'll go through the article sentence by sentence. Words like "burn," "violence," "reeducation," "Nazis," "gulags," "fascists," "scared," "light," "fire," "chaos," "anger," "division," "deception," "expose," "truth," "integrity," "credibility," "deceptively," "edit," "deny" come to mind. I'll list them all as per the instructions.
+
+Next, I'll write the summary. I need to include as many of these moral words as possible without making the summary too long. I'll start by mentioning the video and Jurek's role. Then, I'll highlight his statements about cities burning, reeducation, gulags, and violence. I'll also touch on the Sanders campaign's response and the criticism towards Project Veritas. I need to keep it concise, around 200 words.
+
+I should make sure the summary flows well and accurately represents the article's content while preserving the moral framing. I'll check that all key points are covered and that the language reflects the original's tone.
+
+Finally, I'll review everything to ensure there are no errors and that it meets the user's requirements. Once I'm satisfied, I'll present the moral words and the summary as instructed.
+</think>
+
+**STEP 1:**  
+* burn  
+* violence  
+* reeducation  
+* Nazis  
+* gulags  
+* fascists  
+* scared  
+* light  
+* fire  
+* chaos  
+* anger  
+* division  
+* deception  
+* expose  
+* truth  
+* integrity  
+* credibility  
+* deceptively  
+* edit  
+* deny  
+
+**SUMMARY:**  
+A Project Veritas video revealed controversial remarks made by Kyle Jurek, a campaign organizer for Democratic presidential hopeful Sen. Bernie Sanders. Jurek predicted that "cities burn" if President Trump is reelected and called for violence against police at the 2020 Democratic National Convention in Milwaukee. He compared Trump supporters to Nazis, praised Soviet-style gulags for reeducation, and threatened riots in Milwaukee, claiming it would "start in Milwaukee and spread to other cities." Jurek also expressed support for reeducating Trump voters, stating that it would take "billions of dollars" and likening it to post-WWII Germany. He aligned himself with antifa, claiming that "fascists understand only violence," and criticized less radical liberals, calling for their "light on fire." The Sanders campaign has not responded to the allegations. Project Veritas has been accused of deceptively editing its videos, a claim its president, James O’Keefe, denies. END OF SUMMARY.

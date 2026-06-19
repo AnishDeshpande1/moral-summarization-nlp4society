@@ -1,0 +1,29 @@
+Okay, I need to help the user by summarizing a news article while preserving the moral framing. First, I should understand the user's requirements. They want me to identify morally framed words and then write a concise summary using those words.
+
+Looking at the article, it's about the House Judiciary Committee's impeachment case against Trump. The key moral points are about Trump using his office for personal gain, putting himself before the country, abuse of power, bribery, obstruction, and threats to democratic institutions.
+
+I'll start by extracting the morally framed words. Words like "abuse of power," "bribery," "obstruction," "quid pro quo," "shadow foreign policy," "undermining," "corruption," "extortion," "favor," "blind partisanship," and "betrayal" stand out. These terms carry strong moral connotations and are central to the article's framing.
+
+Next, I need to craft a summary that includes these words. I'll ensure the summary is under 200 words and captures the essence of the article, focusing on the moral aspects. I'll mention the key points: the impeachment case, the charges, the evidence from the phone call and witnesses, Trump's denial, Republican arguments, and the implications for democracy.
+
+I should structure the summary to flow logically, starting with the committee's actions, moving to the evidence, then Trump's response, and ending with the broader implications. This way, the moral framing remains clear and the summary is concise.
+
+Finally, I'll review the summary to make sure it includes all the identified moral terms and accurately reflects the article's content without adding personal opinions. It's important to stay neutral and objective while preserving the moral nuances presented by the author.
+</think>
+
+**STEP 1:**  
+* Abuse  
+* Bribery  
+* Obstruction  
+* Quid pro quo  
+* Shadow foreign policy  
+* Undermining  
+* Corruption  
+* Extortion  
+* Favor  
+* Blinders  
+* Betrayal  
+
+**SUMMARY:**  
+The House Judiciary Committee, led by Chairman Jerrold Nadler, has advanced the impeachment case against President Trump, accusing him of placing personal gain above the nation. Democrats argue Trump abused his power by seeking a "quid pro quo" with Ukraine, withholding military aid in exchange for investigations into political rival Joe Biden and his son Hunter. Republicans counter that Trump's actions, while unconventional, do not constitute criminality. Key evidence includes a phone call where Trump pressured Ukraine's president for investigations, and testimony from Ambassador Gordon Sondland, who offered a White House visit as leverage. Trump denies wrongdoing, calling the process a partisan "sham." The case centers on charges of abuse of power, bribery, and obstructing Congress, with Democrats warning of threats to democratic institutions. Republicans defend the legitimacy of investigating Hunter Biden's ties to Ukraine's energy sector. The impeachment inquiry highlights deep partisan divides over Trump's actions and their implications for the rule of law.  
+**END OF SUMMARY.**

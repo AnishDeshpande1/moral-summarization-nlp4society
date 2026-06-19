@@ -1,0 +1,3 @@
+SUMMARY:  
+Two brave astronauts, Linda Godwin and Daniel Tani, performed a daring space‑walk from the shuttle Endeavour to repair the International Space Station’s solar wing motors. Using the station’s robotic arm, they rode 50 feet to the exterior, where they carefully wrapped thermal covers around the motors that steer the giant solar arrays toward the sun. The covers are intended to protect the equipment from the harsh temperature extremes of space, preventing power spikes and stalls that could jeopardize the station’s electricity supply. Their courageous effort exemplifies the dedication and skill of NASA’s crew in safeguarding vital space infrastructure.  
+END OF SUMMARY.

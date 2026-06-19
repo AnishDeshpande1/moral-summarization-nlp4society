@@ -1,0 +1,14 @@
+Alright, I need to help the user by summarizing the given news article while preserving the moral framing. The user mentioned they are a news summarizer assistant and a moral expert, so they likely want a concise yet nuanced summary.
+
+First, I'll read through the article to understand the main points. It discusses the Charleston church shooting and the victims' forgiveness of the perpetrator, Dylann Roof. The author reflects on the moral implications of forgiveness versus retribution, drawing parallels with Jewish nationalism and African-American responses to oppression.
+
+I should highlight the contrast between Christian forgiveness and nationalist responses. The article also touches on historical African-American approaches, like MLK's non-violence and Malcolm X's calls for resistance. It ends by questioning why more violence isn't directed outward, comparing it to Jewish responses in similar situations.
+
+I need to keep the summary under 200 words, so I'll focus on the key moral concepts: forgiveness as noble, the debate over passive vs. active resistance, and the historical context. I'll make sure to mention the author's admiration mixed with frustration and the comparison to Jewish nationalism.
+
+Now, I'll structure the summary to include these elements, ensuring it's concise and captures the moral framing without getting too detailed. I'll start by mentioning the forgiveness, then the moral debate, historical context, and the comparison to Jewish responses. Finally, I'll note the author's reflection on American fortune in the victims' response.
+
+I should avoid jargon and keep it clear, making sure each point flows logically to the next. Let me draft this, keeping an eye on the word count to stay within limits.
+</think>
+
+SUMMARY: The article reflects on the moral implications of forgiveness expressed by the victims of the Charleston church shooting, where African-Americans forgave the white supremacist perpetrator, Dylann Roof. The author admires this act of Christian love and forgiveness, which contrasts with the natural urge for vengeance. However, the author also feels frustration, questioning whether it is less admirable to respond with righteous anger rather than passivity. The piece explores the historical context of African-American responses to oppression, highlighting the tension between Christian forgiveness and nationalist resistance, as seen in figures like Malcolm X. The author contrasts this with Jewish nationalism, emphasizing self-defense and resilience, and wonders why African-Americans have not embraced more confrontational responses to systemic injustice. The article concludes by acknowledging the moral nobility of forgiveness but also reflecting on the potential value of resistance and self-defense in the face of profound injustice. END OF SUMMARY.

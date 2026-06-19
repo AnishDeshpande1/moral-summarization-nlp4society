@@ -1,0 +1,9 @@
+SUMMARY:
+
+Indiana Governor Mike Pence is addressing a growing controversy over the state's Religious Freedom Restoration Act, which he signed into law last week. The law aims to protect individuals or companies from being forced to take actions that impose a substantial burden on their religious beliefs. However, critics argue it sanctions discrimination against gays and lesbians by allowing Christian vendors to refuse service to same-sex couples without fear of legal reprisals.
+
+Pence has said he will seek legislation to clarify the intent of the law, but offered no details. He rejected assertions that the law discriminates against gays and lesbians, saying "tolerance is a two-way street." The backlash has led several businesses and governments to halt business with Indiana, including Salesforce.com, Angie's List, and the city of Seattle.
+
+Pence defended the law by pointing out its origins in federal legislation signed by President Bill Clinton. However, critics argue that the Indiana law includes different wording that could open the door to wider discrimination.
+
+END OF SUMMARY.

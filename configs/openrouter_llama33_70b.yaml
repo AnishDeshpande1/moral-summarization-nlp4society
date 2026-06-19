@@ -1,0 +1,31 @@
+# Inference config: Meta-Llama-3.3-70B-Instruct via the OpenRouter API.
+# No GPU needed. Set your key first:  export OPENROUTER_API_KEY=sk-or-...
+#
+# Run:
+#   python prompting.py --config-file configs/openrouter_llama33_70b.yaml \
+#       --prompt-dir results/test_prompts --no-testing
+
+backend: openrouter
+
+openrouter:
+  # :free tier is rate-limited upstream; the backend honors Retry-After and
+  # retries many times. Drop ':free' to use the paid model if caps block you.
+  model: meta-llama/llama-3.3-70b-instruct:free
+  # api_key: sk-or-...        # else read from OPENROUTER_API_KEY or models/openrouter_api_key
+  request_timeout: 120
+  max_retries: 30
+  max_backoff: 60
+
+# Filename tag for responses (selected at eval time via run_evaluation.py --model).
+model_tag: Meta-Llama-3.3-70B-Instruct
+
+# Process whole-dataset strategy by strategy, in this order (few-shot first).
+strategy_order:
+  - cot_fewshot
+  - simple_fewshot
+  - simple
+  - cot
+  - cot_fewshot_mft
+  - simple_fewshot_mft
+  - vanilla
+  - oracle

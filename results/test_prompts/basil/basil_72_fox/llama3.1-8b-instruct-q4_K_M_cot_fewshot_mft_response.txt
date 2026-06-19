@@ -1,0 +1,23 @@
+Here are the morally framed words:
+
+STEP 1:
+* mistake
+* intriguing
+* loyalty
+* betrayal
+* wrong
+* right
+* mistake (again)
+
+However, upon closer inspection, I realize that only the following words are morally framed and related to Loyalty/Betrayal:
+
+STEP 1:
+* loyalty
+* betrayal
+
+Here is a summary of the news article:
+
+SUMMARY:
+President Trump said Thursday he is “very close” to naming a new FBI director to replace James Comey. His leading contender, former Democratic Sen. Joe Lieberman, met with Trump at the White House on Wednesday afternoon to discuss leading the law enforcement agency. However, some Democrats argue that it would be a "mistake" to nominate him, citing his past actions as a "betrayal" of the party. On the other hand, Senate Majority Whip John Cornyn praised Lieberman's potential ability to get 100 votes in the Senate, suggesting that he could be a strong choice for the position. Trump's decision will likely have significant implications for the FBI and its relationship with the White House.
+
+END OF SUMMARY.

@@ -1,0 +1,71 @@
+Alright, let me try to figure out how to approach this query. The user is asking me to act as a news summarizer and a moral expert. They provided a specific news article and outlined two main tasks: identifying morally framed words and then summarizing the article while preserving those moral terms.
+
+First, I need to understand what morally framed words are. These are words that carry a positive or negative connotation related to ethics or values. For example, words like "greatness," "common denominator," or "anti-immigrant" have moral implications.
+
+Looking at the article, I should go through each sentence and pick out words that have such connotations. I'll list them under STEP 1, each on a new line with an asterisk. It's important to be thorough here, as missing a word might affect the summary's moral framing.
+
+Next, the summary needs to be concise, under 200 words. I should include as many of the identified moral words as possible without making it sound forced. The summary should capture the main points: the positive role of immigrants in building and sustaining America, the economic contributions, the debunking of common criticisms, and the call for a more just immigration process.
+
+I also need to ensure the summary flows well and maintains the original's tone, which is supportive of immigrants. I should avoid technical jargon and keep it accessible, yet impactful.
+
+Finally, I'll structure the response with STEP 1 listing the words, followed by the SUMMARY section, making sure to end with the specified tokens. I should double-check the word count to stay within limits and ensure clarity.
+
+Overall, the key is to balance thorough word extraction with a coherent, morally framed summary that reflects the article's message accurately.
+</think>
+
+### STEP 1:  
+* greatness  
+* common denominator  
+* anti-immigrant  
+* bluster  
+* specialized skills  
+* celebrated  
+* shining city upon a hill  
+* sustained  
+* profitable  
+* celebrated  
+* founded  
+* offspring  
+* trace  
+* businesses  
+* jobs  
+* services  
+* goods  
+* employ  
+* undocumented  
+* abuse  
+* social programs  
+* Medicare  
+* surplus  
+* deficit  
+* native-born  
+* critics  
+* crime  
+* underground economies  
+* unintended social consequences  
+* prohibition  
+* organized crime  
+* public safety  
+* health risks  
+* human smuggling  
+* impractical  
+* irresponsible  
+* debt  
+* wall  
+* pointless  
+* taxpayer subsidized  
+* government project  
+* unlawfully  
+* visas  
+* flee  
+* economic hardship  
+* political hardship  
+* American dream  
+* disparage  
+* welcome  
+
+---
+
+### SUMMARY:  
+The article highlights immigrants as the backbone of America's greatness, countering anti-immigrant rhetoric. Immigrants have built and sustained the nation, contributing specialized skills and founding many of the country's most profitable companies. Despite critics arguing that undocumented immigrants abuse social programs, studies show they contribute more to Medicare than they receive. Similarly, native-born individuals are more likely to commit crimes than foreign-born counterparts. The current citizenship process is overly bureaucratic, leading to unlawful alternatives and increased public safety risks. Building a wall or deporting undocumented immigrants is impractical and fiscally irresponsible. Immigrants, both documented and undocumented, seek freedom and opportunity. Welcoming them is essential for America's future greatness.  
+END OF SUMMARY.

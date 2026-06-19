@@ -1,0 +1,17 @@
+Alright, I need to summarize the given news article about President Trump's response to the Las Vegas attack. The user wants the summary to preserve the moral framing from the original text. 
+
+First, I'll read through the article to understand the key points. President Trump called the attack an "act of pure evil," offered condolences, and announced a visit to Las Vegas. He emphasized unity, faith, and shared values. He also ordered flags to be flown at half-staff. The article mentions the suspect, Stephen Paddock, and some details about the attack's planning.
+
+Now, I need to focus on the moral framing. The article highlights Trump's emphasis on unity, faith, and shared values as a response to the tragedy. He's presenting a message of hope and resilience despite the evil act. This framing is meant to unite the nation and provide comfort during a difficult time.
+
+I should structure the summary to include Trump's address, the somber tone, his call for unity, the mention of the suspect, and the planning of the attack. I'll keep it concise, around 200 words, and ensure it captures the moral elements he emphasized.
+
+Let me draft the summary, making sure to highlight Trump's focus on unity and faith, the impact of the attack, and the response efforts. I'll also include the details about the suspect and the attack's planning to provide context without going into too much detail.
+
+Finally, I'll review the summary to ensure it stays within the word limit and accurately reflects the moral framing presented in the original article.
+</think>
+
+SUMMARY:  
+President Trump addressed the nation following the Las Vegas mass shooting, calling it an "act of pure evil" and expressing condolences to the victims and their families. He announced plans to visit Las Vegas to meet with law enforcement, first responders, and victims' families, while also ordering flags to be flown at half-staff. In a unifying speech, Trump emphasized faith, family, and shared values, stating that "our unity cannot be shattered by evil." He offered prayers for the nation, seeking comfort in the belief that God is close to the broken-hearted. The president also acknowledged the complexity of finding meaning in such tragedies, urging hope in the face of darkness. The suspect, Stephen Paddock, was identified as the gunman, and authorities are investigating the attack, which was described as well-planned and carried out with automatic weapons.  
+
+END OF SUMMARY.

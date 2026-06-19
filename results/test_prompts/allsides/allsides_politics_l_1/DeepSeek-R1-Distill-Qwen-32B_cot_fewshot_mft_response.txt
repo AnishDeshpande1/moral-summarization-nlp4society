@@ -1,0 +1,38 @@
+Alright, I need to summarize the given news article while preserving the moral framing. Let me first read through the article to understand the main points.
+
+The article is about Jim Mattis, a former Defense Secretary, who criticizes President Trump for not uniting the American people and instead dividing them. Mattis contrasts Trump's leadership with the unity shown during the Normandy invasion, referencing the Nazi slogan "Divide and Conquer" versus the American "In Union there is Strength." He also condemns the use of military troops in domestic protests, which he sees as a violation of constitutional rights and a threat to the military's apolitical nature.
+
+Now, I need to extract the morally framed words. The key moral dimensions here are Authority/Subversion, Care/Harm, Fairness/Cheating, and Loyalty/Betrayal. Let's go through the article and pick out the relevant words.
+
+1. **Divide** - This relates to Authority/Subversion as it's about splitting the country.
+2. **Conquer** - Part of the Nazi slogan, also ties into Authority/Subversion.
+3. **Unite** - Opposite of divide, promoting unity, which is a positive Authority/Subversion aspect.
+4. **Strength** - Positive outcome of unity, under Authority/Subversion.
+5. **Violate** - Under Fairness/Cheating, as it's about breaking constitutional rights.
+6. **Photo op** - Suggests misuse of authority, under Authority/Subversion.
+7. **Erode** - Under Care/Harm, as it's about damaging trust.
+8. **Trust** - Positive aspect under Care/Harm.
+9. **Battlespace** - Under Authority/Subversion, as it's a military term used inappropriately.
+10. **Dominate** - Again, Authority/Subversion, as it's about controlling the civilian society.
+11. **Answerable** - Fairness/Cheating, as it's about accountability.
+12. **Experiment** - Refers to the American system, under Authority/Subversion.
+13. **Crisis** - Under Care/Harm, as it's a critical situation affecting the nation.
+
+Next, I need to write the summary. I'll start by introducing Mattis's criticism of Trump, then move on to his references to historical unity and the military's role. I'll highlight the moral dimensions by using the extracted words where appropriate.
+
+I should ensure the summary is concise, around 200 words, and includes the key moral points. I'll make sure to mention the division vs. unity, the constitutional violation, and the erosion of trust between the military and civilians.
+
+Let me structure the summary:
+
+1. Mattis criticizes Trump for dividing the country instead of uniting.
+2. He contrasts this with the American ethos of unity, referencing historical events.
+3. Mattis condemns the use of military troops in domestic protests.
+4. He criticizes the militarization of responses and the impact on trust.
+5. Mattis's statement highlights the threat to the American experiment and the need for unity.
+
+I'll make sure each point flows logically and includes the morally framed words to preserve the author's framing.
+</think>
+
+**Summary:**
+
+Jim Mattis, a former Defense Secretary, has criticized President Trump for fostering division rather than unity among Americans. Mattis contrasts Trump's leadership with the historical unity exemplified during the Normandy invasion, highlighting the American ethos of "In Union there is Strength" against the Nazi slogan "Divide and Conquer." He condemns the deployment of military troops in domestic protests, viewing it as a violation of constitutional rights and a misuse of authority. Mattis warns that such actions erode trust between the military and civilians, threatening the apolitical nature of the armed forces. His statement underscores the crisis facing the American experiment, emphasizing the need for unity and accountability to uphold the nation's values. END OF SUMMARY.

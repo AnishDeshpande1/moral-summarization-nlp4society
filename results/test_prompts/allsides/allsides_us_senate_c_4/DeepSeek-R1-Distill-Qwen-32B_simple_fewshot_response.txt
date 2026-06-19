@@ -1,0 +1,15 @@
+Alright, I need to summarize the given news article while preserving the moral framing. Let me read through the article first.
+
+The article is about Republican senators warning President Trump not to fire Robert Mueller, the Special Counsel. Trump has been attacking the FBI and Mueller on Twitter, especially after firing Andrew McCabe. Flake and Graham are critical, with Graham saying firing Mueller would end Trump's presidency. The White House denies considering Mueller's removal. Trump's frustration with the probe is evident, and he's facing criticism from both parties. McCabe's firing is seen as politically motivated, and his lawyer is defending him.
+
+I need to capture the key points: Trump's threats against Mueller, Republican opposition, the potential consequences, and the political implications. I should highlight the moral issues, like undermining the investigation and the integrity of the process.
+
+Let me structure the summary: Start with Trump's threat, mention Republican warnings, White House denial, Trump's frustration, McCabe's firing context, and the broader implications.
+
+I should keep it concise, around 200 words, and ensure the moral framing is clear—Trump's actions threaten the rule of law and accountability.
+</think>
+
+SUMMARY:  
+Republican senators have warned President Trump not to fire Special Counsel Robert Mueller, emphasizing the importance of allowing federal investigators to continue their probe into Russian interference in the 2016 election. Trump’s recent Twitter attacks on the FBI and Mueller, following the firing of Andrew McCabe, have raised concerns about potential interference with the investigation. Senators Jeff Flake and Lindsey Graham have cautioned against such actions, with Graham stating that firing Mueller would mark “the beginning of the end of his presidency.” The White House has denied any consideration of Mueller’s removal, but Trump’s growing frustration with the probe has drawn criticism from both parties. McCabe’s firing, seen by some as politically motivated, has further fueled concerns about the integrity of the investigation. Trump’s personal lawyer, John Dowd, has called for the probe to end, but Republican Representative Trey Gowdy has criticized this approach, urging Mueller to continue his work without interference. The situation highlights the moral stakes of allowing an independent investigation to proceed, with many Republicans warning against actions that could undermine the rule of law and public trust in the justice system.  
+
+END OF SUMMARY.

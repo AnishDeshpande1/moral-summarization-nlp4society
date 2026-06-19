@@ -1,0 +1,22 @@
+Okay, I need to summarize the given news article while preserving the moral framing based on the specified dimensions: Authority/Subversion, Care/Harm, and Sanctity/Degradation. 
+
+First, I'll read through the article to understand the key points. President Trump addressed the Las Vegas shooting, calling it an act of pure evil. He expressed sympathy, ordered flags at half-staff, and planned a visit. He emphasized unity, faith, and shared values. The suspect was identified, and authorities are looking into motives.
+
+Now, focusing on the moral dimensions:
+
+1. **Care/Harm**: The article highlights the tragedy, the victims, and the president's expressions of sympathy. This is about caring for the victims and their families, and the harm caused by the attack.
+
+2. **Authority/Subversion**: Trump's role as a leader providing comfort and unity. He's using his authority to offer support and maintain social order, which counters the subversion caused by the attack.
+
+3. **Sanctity/Degradation**: The attack is described as evil, which touches on the sanctity of life and the degradation caused by such violence.
+
+I need to ensure the summary captures these elements. It should mention Trump's address, his expressions of care, the unity message, and the moral condemnation of the attack.
+
+I'll structure the summary to first state the event and Trump's response, then delve into the moral aspects, highlighting care, unity (authority), and the evil act (sanctity). I'll keep it concise, within 200 words, and make sure it flows naturally while preserving the moral framing.
+</think>
+
+SUMMARY:
+
+President Trump addressed the nation following the Las Vegas shooting, calling it an "act of pure evil" and expressing deep sympathy for the victims and their families. He ordered flags to be flown at half-staff and announced plans to visit Las Vegas to show solidarity with the community. Trump emphasized unity, faith, and shared values, urging the nation to find hope in the midst of tragedy. His speech focused on comforting the grieving, invoking scripture to highlight God's closeness to the broken-hearted, and reaffirming the resilience of American bonds against violence. Trump also acknowledged the need for meaning and light in the face of chaos, while expressing prayers for the nation's safety and the eventual banishment of evil. The attack, carried out by a lone gunman, has been described as well-planned and executed with automatic weapons, leaving 58 dead and hundreds injured. Authorities are investigating the motive, but it remains unclear whether the suspect was inspired by others or acted independently. The moral framing of the article underscores the sanctity of life, the harm caused by such violence, and the authority of leadership in providing comfort and unity during a national crisis.
+
+END OF SUMMARY.

@@ -1,0 +1,27 @@
+Okay, so I need to summarize this news article about the VA stopping the use of hydroxychloroquine on veterans with COVID-19. The user provided some examples, so I should follow that structure. First, I have to extract the morally framed words related to Authority/Subversion, Care/Harm, and Fairness/Cheating. Let me read through the article again.
+
+The article mentions that the VA has almost stopped using hydroxychloroquine, which is an unproven drug. The Secretary, Robert Wilkie, defended its initial use as giving hope, but then they reduced its use as studies showed possible dangers. President Trump was promoting the drug despite no scientific evidence. The VA is now using remdesivir and convalescent plasma. There's also data showing higher death rates among veterans who took hydroxychloroquine. The VA faced criticism from veterans' organizations and Congress, especially from Rep. Nita Lowey, who rebuked the VA for not listening to Dr. Fauci's cautionary advice. The FDA warned against using the drug outside of studies.
+
+Now, identifying the moral words. For Authority/Subversion, words like "defended," "promoted," "rebuke," "caution," "wishful thinking." For Care/Harm, terms like "hope," "dangers," "deaths," "risks," "safest," "benefit," "science." Fairness/Cheating might include "wishful thinking," "medically appropriate," "discussions," "studies," "evidence."
+
+Next, the summary should include these words while preserving the moral framing. I need to highlight the authority dynamics between the VA, Trump, and Fauci, the care aspects of patient outcomes, and the fairness in decision-making based on scientific evidence.
+
+Putting it all together, the summary should mention the VA stopping the drug, Wilkie's defense, Trump's promotion, the negative outcomes, the shift to other treatments, the criticism from Lowey, and the FDA's stance. I'll make sure to include the moral words to reflect the framing.
+</think>
+
+**STEP 1:**  
+* defended  
+* promoted  
+* rebuke  
+* caution  
+* wishful thinking  
+* hope  
+* dangers  
+* deaths  
+* risks  
+* safest  
+* benefit  
+* science  
+
+**SUMMARY:**  
+The Veterans Affairs (VA) has almost stopped using hydroxychloroquine on veterans with COVID-19, as studies indicated possible dangers. VA Secretary Robert Wilkie defended the initial use of the drug as a way to "give hope," but its use has been significantly reduced, with only three prescriptions in the last week. President Trump's promotion of the drug, despite a lack of scientific evidence, drew criticism, especially after data showed higher death rates among veterans who took hydroxychloroquine. The VA is now focusing on remdesivir and convalescent plasma. Rep. Nita Lowey rebuked the VA for not listening to Dr. Anthony Fauci's cautionary advice from the start, emphasizing the need to follow "science" rather than "wishful thinking." The FDA has warned against using hydroxychloroquine outside of formal studies, highlighting the importance of medically appropriate discussions about risks and benefits. END OF SUMMARY.

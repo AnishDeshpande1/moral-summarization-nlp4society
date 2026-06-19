@@ -1,0 +1,21 @@
+Here is the output of the news article summarization task:
+
+STEP 1:
+* hostage
+* shame
+* sympathy
+* chaos
+* untenable
+* single-handedly
+* compromise
+* unfair
+* obstruction
+* reasonable
+* serious
+* broken
+* reform
+* reopen
+* watching
+
+SUMMARY:
+President Trump's immigration compromise package has been met with sharp reactions from Democratic and Republican lawmakers. Democrats have accused Trump of holding the government "hostage" by shutting it down to get funding for his border wall, saying it is an "untenable" position that puts 800,000 federal workers at risk. Senate Minority Leader Schumer called Trump's proposal "one-sided and ineffective," while House Speaker Pelosi said it doesn't include a permanent solution for Dreamers and TPS recipients. On the other hand, Republican lawmakers praised the president for his willingness to negotiate, calling his offer "reasonable" and "serious." The country is now watching as Democrats and Republicans try to reach an agreement to end the shutdown.

@@ -1,0 +1,16 @@
+Okay, so I need to help the user summarize this news article. They mentioned that I'm a news summarizer assistant, so my main goal is to create a concise summary. The user provided the article and specific instructions on how to format the summary, using "SUMMARY:" and "END OF SUMMARY." tokens, and keeping it under 200 words.
+
+First, I'll read through the article to understand the main points. The article is about Senator Lindsey Graham's actions regarding President Obama's nominees for CIA and Defense Department. He's trying to delay their confirmations until more information is provided about the Benghazi attacks.
+
+I should identify the key elements: who is involved (Graham, Obama, Hagel, Brennan), what he's doing (delaying confirmations), why (to get more info on Benghazi), and any opposition or support from others. Also, note any other senators involved, like Inhofe and Reed, and their stances.
+
+Next, I need to condense this information into a summary. I'll start by stating Graham's suggestion to hold up the appointments. Then mention his reasons, the criticism from Democrats, and the context of the Benghazi attacks. I'll include the points about accountability, the phone calls, and the opposition from other Republicans and support from Democrats.
+
+I should ensure the summary is clear and under 200 words. I'll avoid any unnecessary details and focus on the main actions and reasons. Also, make sure to include the key quotes or points made by the senators, like "No confirmation without information" and the criticism from Reed.
+
+Finally, I'll structure the summary to flow logically, starting with Graham's actions, then the reasons, the opposition, and the context. I'll make sure to end with the conclusion that the confirmation process is becoming contentious.
+
+Let me put this together, keeping each sentence concise and ensuring all main points are covered without exceeding the word limit. I'll also check that the summary starts with "SUMMARY:" and ends with "END OF SUMMARY." as instructed.
+</think>
+
+SUMMARY: Republican Sen. Lindsey Graham has suggested delaying the confirmation of President Obama's nominees for CIA and Defense Department heads until the White House provides more details about its response to the 2012 Benghazi attacks. Graham criticized the administration's handling of the incident, which killed Ambassador Christopher Stevens and three others, and demanded accountability from the White House. He vowed to block the confirmation of Defense Secretary nominee Chuck Hagel and CIA nominee John Brennan until questions about the White House's actions during the attacks are answered. Graham accused the administration of "delaying, denying, deceiving, and stonewalling" and emphasized the need for transparency. Meanwhile, Oklahoma Sen. James Inhofe threatened to filibuster Hagel's nomination, requiring 60 votes for confirmation. Democrats support Hagel, but many Republicans oppose him due to concerns about his stance on Israel and Iran. Some senators, like Rhode Island's Jack Reed, criticized Graham's tactics as "unprecedented" and inappropriate. END OF SUMMARY.

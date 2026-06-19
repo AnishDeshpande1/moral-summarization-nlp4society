@@ -1,0 +1,57 @@
+Okay, so I'm trying to help this user who wants a news summary with a focus on moral framing. They provided a detailed news article about a shooting in Springfield, Mo. My task is to first identify all the morally framed words and then write a concise summary preserving those terms.
+
+First, I need to understand what morally framed words are. These are words that carry a strong moral or emotional connotation, such as "hero," "courageous," "sorrow," etc. They reflect the author's judgment or evaluation of the events.
+
+Looking at the article, I'll go through it paragraph by paragraph to spot these words. 
+
+In the first paragraph, words like "killed," "gunman," and "randomly" stand out. "Killed" is a strong term, and "randomly" suggests the lack of justification, which is a moral judgment.
+
+Next, the article mentions "roving active shooter," "crashed," "opened fire," and "left five people dead." These terms describe the actions but also carry moral weight because they imply harm and violence.
+
+The police chief's statement includes "hero," "courageous actions," and "example to us all." These are clearly morally framed, praising the officer's bravery.
+
+The article also talks about the impact on the community with words like "shock," "sorrow," "grateful," and "support." These reflect the emotional and moral response to the event.
+
+Additionally, terms like "provoked," "surreal," and "investigating" are used, which imply innocence and the ongoing moral evaluation of the situation.
+
+Now, for the summary, I need to condense the article into 200 words, making sure to include as many of these morally framed words as possible. The summary should highlight the gunman's actions, the police response, the casualties, and the community's reaction.
+
+I'll start by outlining the main events: the gunman's rampage, the crash, the shooting inside the store, the deaths, and the officers' heroic actions. Then, I'll mention the community's shock and gratitude towards the first responders.
+
+I need to ensure that the summary flows logically, maintaining the moral perspective by using words like "hero," "courageous," "sorrow," and "grateful."
+
+Let me piece this together, making sure each sentence includes the necessary moral terms without making it too verbose. I'll check the word count to stay under 200 words.
+
+Finally, I'll review the summary to ensure it captures the essence of the article and preserves the moral framing as required.
+</think>
+
+**STEP 1:**  
+* killed  
+* gunman  
+* randomly  
+* roving  
+* active shooter  
+* crashed  
+* opened fire  
+* left five people dead  
+* motives  
+* unclear  
+* voice broke  
+* actions  
+* bravery  
+* heroic  
+* shock  
+* sorrow  
+* grateful  
+* support  
+* investigation  
+* provoke  
+* surreal  
+* impact  
+* grieving  
+* own  
+
+**SUMMARY:**  
+A gunman killed five people, including a police officer and himself, in a shooting spree in Springfield, Mo. The gunman fired randomly from his vehicle, crashing into a convenience store where he opened fire, leaving three citizens and an officer dead. Officer Christopher Walsh was killed while trying to rescue a victim, described as a hero by Police Chief Paul Williams. Another officer, Josiah Overton, was injured but not critically. The gunman, identified as Joaquin S. Roman, died from a self-inflicted gunshot. The community expressed shock and sorrow, with Kum & Go spokesman Aeriel Rubin thanking first responders for their courage. The incident has deeply affected the police department, which is still investigating the crime scenes and grieving the loss of Officer Walsh.  
+
+**END OF SUMMARY.**

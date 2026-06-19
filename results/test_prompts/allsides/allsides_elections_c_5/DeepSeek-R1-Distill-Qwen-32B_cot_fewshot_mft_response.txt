@@ -1,0 +1,39 @@
+Alright, so I need to summarize this news article about Sandy and the debate over the government's role. The user wants me to focus on the moral dimensions of Authority/Subversion and Care/Harm. Let me break this down.
+
+First, I'll read through the article to understand the main points. It's about how President Obama and Mitt Romney approach disaster relief differently. Obama emphasizes the federal government's role, while Romney supports local efforts and private initiatives.
+
+Now, I need to identify the morally framed words related to Authority/Subversion and Care/Harm. From the article, words like "help," "resources," "support," "active," "federal," "states," "private," "decentralized," "voluntary," "individual," "community," "cooperation," "assistance," "aid," "collaboration," "coordination," "unity," "self-reliance," "collective," "solidarity," "assistance," "aid," "collaboration," "coordination," "unity," "self-reliance," "collective," "solidarity" stand out. These words reflect the moral foundations of care and authority.
+
+Next, I'll craft a summary that preserves these moral framings. I'll make sure to highlight how each candidate's approach aligns with these foundations. Obama's federal involvement shows a commitment to care and support, while Romney's emphasis on local efforts reflects a belief in authority and self-reliance.
+
+I should keep the summary concise, around 200 words, and ensure it captures the essence of the debate without getting too detailed. I'll focus on the key points: Obama's federal response, Romney's support for local and private efforts, and the implications of each approach in terms of authority and care.
+
+Finally, I'll review the summary to make sure it flows well and accurately represents the moral dimensions discussed in the article.
+</think>
+
+### STEP 1:
+* help  
+* resources  
+* support  
+* active  
+* federal  
+* states  
+* private  
+* decentralized  
+* voluntary  
+* individual  
+* community  
+* cooperation  
+* assistance  
+* aid  
+* collaboration  
+* coordination  
+* unity  
+* self-reliance  
+* collective  
+* solidarity  
+
+---
+
+### SUMMARY:
+President Obama emphasized the federal government's role in disaster relief during Sandy, offering "the full resources of the federal government" to affected communities. He stressed that "America's with you" and promised to "do everything we can" to help recover. Romney, on the other hand, highlighted the importance of local and voluntary efforts, recounting a parable about individual responsibility and community cooperation. While Romney acknowledged the need for federal involvement, he argued for decentralizing disaster relief to states and the private sector. The debate reflects differing views on the balance between federal authority and local autonomy. Obama's approach focuses on federal support and unity, while Romney's emphasizes self-reliance and community action. END OF SUMMARY.

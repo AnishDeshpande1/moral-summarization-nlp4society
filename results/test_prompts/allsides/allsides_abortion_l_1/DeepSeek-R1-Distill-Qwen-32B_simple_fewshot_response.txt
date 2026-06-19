@@ -1,0 +1,23 @@
+Okay, so I need to summarize this news article about Alabama's abortion ban. The user wants the summary to preserve the moral framing from the original text. Let me read through the article carefully.
+
+First, the article mentions that Planned Parenthood and the ACLU sued Alabama over their near-total abortion ban. The law is extremely restrictive, only allowing abortions if the mother's health is at serious risk. There are no exceptions for rape or incest, and providers could face up to 99 years in prison. 
+
+The article points out that Alabama Republicans designed the law to be unconstitutional, hoping it would lead to a challenge that could overturn Roe v. Wade. This is a key point because it shows the political strategy behind the law.
+
+The lawsuit argues that the law is unconstitutional and that it disproportionately affects black and low-income individuals, who make up a significant portion of abortion patients in Alabama. This highlights the moral implications of the law, emphasizing how it impacts marginalized communities.
+
+Planned Parenthood's president, Leana Wen, mentions that they have no choice but to sue because it's about protecting their patients' lives. This underscores the moral obligation to fight the law, even if it plays into the opponents' hands.
+
+The article also notes that other states have introduced similar restrictive laws, but none are currently in effect. This shows a broader trend of anti-abortion legislation across the country.
+
+Now, I need to make sure the summary captures the main points: the lawsuit, the restrictive nature of the law, the intention to challenge Roe v. Wade, the disproportionate impact on certain groups, and the moral obligation to fight the law. I should keep it concise, under 200 words, and maintain the moral framing presented in the original article.
+
+I should structure the summary to first mention the lawsuit and the law's provisions, then explain the political intent behind the law, followed by the arguments against it, including the impact on specific communities, and conclude with the necessity to fight the law despite the challenges.
+
+Let me draft that, making sure each point flows logically and stays within the word limit.
+</think>
+
+SUMMARY:  
+Planned Parenthood and the ACLU have sued Alabama over its near-total abortion ban, which allows abortions only if a pregnancy poses a "serious health risk" to the mother, with no exceptions for rape or incest. The law, designed to challenge Roe v. Wade, imposes severe penalties on providers, including up to 99 years in prison. The lawsuit argues the law is unconstitutional and disproportionately harms Black and low-income individuals, who make up a majority of abortion patients in Alabama. The ACLU and Planned Parenthood emphasize that the law’s narrow exceptions are impossible to comply with and that it violates constitutional rights. Leana Wen of Planned Parenthood stated that fighting the law is necessary to protect patients' lives, despite the political strategy behind it. The case marks a significant step in the broader battle over abortion rights nationwide.  
+
+END OF SUMMARY.

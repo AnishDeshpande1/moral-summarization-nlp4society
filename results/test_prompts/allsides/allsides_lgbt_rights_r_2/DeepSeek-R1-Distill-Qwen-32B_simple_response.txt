@@ -1,0 +1,12 @@
+Okay, so I need to help the user by summarizing this news article. The user specified that I should preserve the moral framing the author gave. First, I should read the article carefully to understand the key points and the moral angles involved.
+
+The article is about Rev. Franklin Graham, who was supposed to speak in Liverpool but had his event canceled. The venue officials said his views on marriage being between one man and one woman were incompatible with their values. There were protests, especially from the Liverpool Labour LGBT Network, calling him a homophobic hate preacher. Graham responded by writing an open letter, stating he's not there to condemn but to present the Gospel, while still maintaining that homosexuality is a sin. He also emphasized free speech and religious liberty.
+
+So, the moral framing here involves issues of free speech versus inclusion, religious beliefs conflicting with LGBTQ rights, and the tension between presenting a message of love versus being perceived as hateful. The summary needs to capture these elements without taking sides, just presenting the facts as they are framed.
+
+I should structure the summary to include the cancellation of the event, the reason given by the venue, the protests, Graham's response, his stance on homosexuality as a sin, his emphasis on love and inclusion, and his defense of free speech. It's important to keep it concise, under 200 words, and make sure each point is clear.
+
+I need to ensure that the summary doesn't add any personal opinions but reflects the moral perspectives presented in the article. That way, the user gets a balanced view of the situation with the moral dimensions intact.
+</think>
+
+SUMMARY: Rev. Franklin Graham, an evangelist and son of Billy Graham, was scheduled to speak in Liverpool as part of a UK tour. However, his event at ACC Liverpool was canceled due to the venue's officials stating that Graham's biblical interpretation of marriage as a union between one man and one woman was "incompatible with our values." Protesters, including the Liverpool Labour LGBT Network, criticized Graham as a "homophobic hate preacher." In response, Graham wrote an open letter to the LGBTQ community, clarifying that he is not there to condemn them but to present the Gospel. He acknowledged that he views homosexuality as a sin but emphasized that the Gospel is inclusive and that all are welcome to attend his events. Graham also defended free speech and religious liberty, stating he is coming out of love, not hate. END OF SUMMARY.

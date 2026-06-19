@@ -1,0 +1,14 @@
+Alright, I need to summarize this news article while preserving the moral framing the author used. The user provided a list of morally framed words, so I should make sure to include as many of those as possible.
+
+First, I'll read through the article to understand the main points. It's about President Obama and Mitt Romney's approaches to disaster relief after Sandy. Obama emphasizes federal government involvement, while Romney focuses on local efforts and private sector solutions.
+
+I should highlight the key moral terms like "thoughts," "prayers," "help," "named," "keep," "delivering," "disasters," "borrowing," and "jeopardizing." These words carry specific moral connotations that the author used to frame the debate.
+
+I'll structure the summary to contrast Obama and Romney's approaches. Obama's use of "thoughts and prayers" and the federal government's active role versus Romney's emphasis on individual and local efforts. I should mention Romney's past comments on reducing federal spending, which ties into "borrowing" and "jeopardizing" the future.
+
+Also, I need to note the praise from Governor Christie for the federal response and the ongoing debate over FEMA funding. Keeping it concise, under 200 words, and ensuring the moral framing is preserved.
+
+Let me draft the summary, making sure to include the morally framed words naturally within the context. I'll check the word count to stay within the limit. Once done, I'll present it after the "SUMMARY:" token and end with "END OF SUMMARY."
+</think>
+
+SUMMARY: President Obama emphasized the federal government's role in disaster relief after Sandy, offering "thoughts and prayers" and pledging federal resources to help affected communities. He stressed that "America's with you," signaling a commitment to support recovery efforts. In contrast, Mitt Romney highlighted the virtue of individual and local action, sponsoring a canned food drive and advocating for decentralized disaster relief. Romney argued that reducing federal involvement and relying on the private sector could be more effective, though he acknowledged the need for government assistance. State disaster officials have generally supported Obama's approach, with Republican Gov. Chris Christie praising the federal response as "outstanding." However, Romney's past comments on federal spending, including disaster relief, remain controversial, as he warned against "borrowing" excessively and "jeopardizing" the future for younger generations. The debate over the federal government's role in disaster response continues to shape the political landscape. END OF SUMMARY.

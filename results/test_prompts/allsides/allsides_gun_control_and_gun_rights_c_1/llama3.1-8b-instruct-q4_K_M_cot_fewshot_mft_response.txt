@@ -1,0 +1,67 @@
+Here is the answer to the problem:
+
+**Example 1:**
+
+STEP 1:
+* flagrant
+* morally
+* dubious
+* rogue
+* crazy
+* tyrants
+* hopeless
+* controversial
+* immediacy
+* harshly
+* brazen
+* martyr
+
+SUMMARY:
+Kentucky county clerk Kim Davis is being hauled into federal court for defying the law and denying gay people their constitutionally protected rights, citing her religious beliefs. This morally dubious stand has appealed to some conservative presidential candidates, including Mike Huckabee, Rand Paul, and Bobby Jindal, who are cheering on her defiance of the Constitution. The situation could escalate further if Davis is punished harshly, potentially inspiring others to defy the Constitution and champion brazen illegality in the service of anti-gay discrimination.
+
+**Example 2:**
+
+STEP 1:
+* safety
+* security
+* tragedy
+* fear
+* prey
+* saturate
+* armed
+* fortress
+* solutions
+* safer
+* politics
+
+SUMMARY:
+A National Rifle Association task force has released a report recommending that armed police officers, security guards, or staff members be present in every American school to ensure "safety" and "security". Critics argue that this approach is a misguided response to "tragedy" and would lead to schools becoming "armed fortresses", while supporters see it as a necessary step to make schools "safer".
+
+**Example 3:**
+
+STEP 1:
+* Extreme
+* Significant
+* Disgusted
+* Worst
+* Violent
+* Disgusting
+* Unfortunate
+* Peaceful
+* Cordial
+
+SUMMARY:
+A night of protests in Minnesota turned into an "extreme incident" with over 100 arrests and 21 police officers injured. The protests, sparked by the recent police killings of black men, started peacefully but escalated into rioting with demonstrators pelting police officers with rocks, rebar, and incendiary devices.
+
+**Target News Article:**
+
+STEP 1:
+* Heroic
+* Courageous
+* Significant
+* Bravery
+
+SUMMARY:
+A man fired randomly from his vehicle several times while driving through a southwest Missouri city before eventually crashing into a convenience store, where he walked inside, opened fire and left five people dead, including a police officer and himself. Police identified the shooter as 31-year-old Joaquin S. Roman of Springfield. Officer Christopher Walsh, 32, was shot and killed as he tried to rescue a victim, while another officer was injured in the line of duty. The victims' families are still grieving, and authorities are investigating multiple crime scenes.
+
+END OF SUMMARY.

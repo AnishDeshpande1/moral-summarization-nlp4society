@@ -1,0 +1,39 @@
+Alright, I need to summarize the given news article while preserving the moral framing. Let me start by reading through the article to understand the context and the key points.
+
+The article discusses the ongoing government shutdown, with the Senate planning to vote on two bills to fund the government. The first bill includes $5.7 billion for a border wall and other concessions offered by Trump. The second is a short-term measure to reopen the government until Feb 8. There's a lot of political maneuvering, with Democrats opposing the border wall funding and Trump threatening to veto any bill that doesn't include it.
+
+I should identify the morally framed words first. Looking through the text, words like "shutdown," "concessions," "compromise," "Trojan Horse," "Stephen Miller special," "destroy," "attack," "attack," "opposition," "hostage," "bargaining chip," "unconstitutional," "cave," and "unfair" stand out as having moral connotations.
+
+Now, for the summary, I need to include these words while keeping it concise. I'll start by stating the Senate's plan to vote on the bills. Then, I'll mention the opposition from Democrats and Trump's threat to veto. I'll include the criticisms from immigration groups about the bill being a "Trojan Horse" and the impact on asylum seekers. Finally, I'll note the House Democrats' alternative bill and the ongoing political deadlock.
+
+I need to ensure that the summary flows well and includes all the key moral points without being too lengthy. Let me structure it step by step, making sure each point is clear and the moral framing is preserved.
+</think>
+
+**Summary:**
+
+The Senate plans to vote on two bills to end the government shutdown, with one offering $5.7 billion for a border wall, while Democrats oppose it, calling it a "Trojan Horse." Critics argue the bill attacks asylum protections, limiting applications to 50,000 annually. Trump threatens veto unless the wall is funded, while Democrats propose an alternative without wall money. The shutdown continues amid accusations of using the American people as "bargaining chips." END OF SUMMARY.
+
+---
+
+**Moral Framing Words Identified:**
+
+* Shutdown
+* Concessions
+* Compromise
+* Trojan Horse
+* Stephen Miller special
+* Destroy
+* Attack
+* Attack
+* Opposition
+* Hostage
+* Bargaining chip
+* Unconstitutional
+* Cave
+* Unfair
+
+---
+
+**Summary:**
+
+The Senate is set to vote on two bills to end the government shutdown, with one offering $5.7 billion for a border wall and other concessions. Democrats oppose this bill, calling it a "Trojan Horse" that attacks asylum protections by limiting applications to 50,000 annually. President Trump has threatened to veto any bill that doesn't include wall funding, while House Democrats propose an alternative without wall money. The shutdown continues amid accusations of using the American people as "bargaining chips" and "hostage" in a political standoff. END OF SUMMARY.

@@ -1,0 +1,13 @@
+Here are the steps to summarize the target news article:
+
+STEP 1:
+* egocentric
+* stupid
+* false
+* profanity
+* angered
+
+SUMMARY:
+Former Mexican President Vicente Fox has categorically stated that Mexico will not pay for Donald Trump's proposed border wall, calling it a "stupid" idea. Fox, who was president from 2000 to 2006, also described Trump as "egocentric," lacking in any political values. His successor, Felipe Calderón, expressed similar concerns about the wall, stating that Mexico will not pay "any single cent" and that the wall would be "completely useless." Fox's comments come after Trump's recent claim that he did well with Hispanic voters in the Nevada caucuses, which Fox dismissed as following a "false prophet." Trump has insisted that he would have the leverage to compel Mexico to pay for the wall, but it appears that his plan is facing strong opposition from the Mexican government. The exchange between the two leaders highlights the ongoing debate over border security and the role of Mexico in funding a proposed wall.
+
+END OF SUMMARY.

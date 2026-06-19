@@ -1,0 +1,22 @@
+Here is the output for the given news article:
+
+STEP 1:
+* lies
+* attack
+* family
+* faithless
+* garbage
+* utter
+* tabloid
+* smear
+* henchmen
+* stupidity
+* false
+* integrity
+* personal
+* feud
+* liar
+* coward
+
+SUMMARY:
+The war of words between Donald Trump and Ted Cruz has escalated, with both candidates engaging in a series of personal attacks. Cruz blamed Trump for the National Enquirer story alleging he had extramarital affairs, calling it a "tabloid smear" and a "garbage, complete and utter lies." Trump retaliated by threatening to "spill the beans" about Cruz's wife Heidi, but Cruz shot back, accusing Trump of being a "coward" for targeting his family. The personal feud has raised questions about the integrity and faithfulness of both candidates. The controversy is particularly damaging because it involves the wives of the two candidates, making it a matter of loyalty and betrayal. Trump's actions have been seen as a breach of sanctity and a degradation of the dignity of his opponent's family. END OF SUMMARY.

@@ -1,0 +1,34 @@
+# Inference config: GPT-OSS-120B via the OpenRouter API.
+# No GPU needed. Key read from models/openrouter_api_key (or OPENROUTER_API_KEY).
+#
+# Run:
+#   python prompting.py --config-file configs/openrouter_gptoss_120b.yaml \
+#       --prompt-dir results/test_prompts --no-testing
+
+backend: openrouter
+
+openrouter:
+  # :free tier is rate-limited upstream; the backend honors Retry-After and
+  # retries many times. Drop ':free' to use the paid model if caps block you.
+  model: openai/gpt-oss-120b:free
+  # api_key: sk-or-...        # else read from OPENROUTER_API_KEY or models/openrouter_api_key
+  request_timeout: 120
+  max_retries: 30
+  max_backoff: 60
+  # The OpenInference (JAX) provider for gpt-oss rejects a per-request seed and
+  # fails every call with it. Must be false for this model.
+  use_seed: false
+
+# Filename tag for responses (selected at eval time via run_evaluation.py --model).
+model_tag: GPT-OSS-120B
+
+# Process whole-dataset strategy by strategy, in this order (few-shot first).
+strategy_order:
+  - cot_fewshot
+  - cot
+  - simple_fewshot
+  - simple
+  - cot_fewshot_mft
+  - simple_fewshot_mft
+  - vanilla
+  - oracle

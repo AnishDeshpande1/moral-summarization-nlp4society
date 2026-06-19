@@ -1,0 +1,13 @@
+Alright, I need to summarize this news article while preserving the moral framing. The article is from a mayor, likely Eric Adams, discussing gun violence and the role of mayors and young people in addressing it. 
+
+First, I'll identify the main points. The mayor talks about how many cities are dealing with mass shootings, the responsibility of mayors, the influence of hate speech, and the need for action beyond NRA talking points. He mentions working across political lines and involving youth in solutions.
+
+Next, I need to capture the moral elements. The mayor emphasizes the burden on communities, the need to address hate and gun access, and the importance of youth leadership. The tone is urgent and hopeful, focusing on collective action and the future.
+
+I'll structure the summary to highlight these points concisely, ensuring it's under 200 words. I'll make sure to mention the mayors' unity, the focus on youth, and the moral imperative to act against gun violence and hate.
+</think>
+
+SUMMARY:  
+The article highlights the moral responsibility of mayors and communities to address gun violence and hate-driven tragedies. The author, a mayor, reflects on the shared burden of cities like Gilroy, Dayton, and El Paso, which have experienced mass shootings fueled by racism, anti-immigrant sentiment, and hate speech. The author emphasizes the need for mayors to take proactive steps, including addressing hate speech and reducing gun access, rather than relying on Washington or NRA rhetoric. They stress the importance of involving young people in solutions, as they represent the future and demand meaningful change. The author calls for a collective effort to build a nation where everyone feels safe and belongs, honoring the resilience of past generations and striving for a future free from fear.  
+
+END OF SUMMARY.

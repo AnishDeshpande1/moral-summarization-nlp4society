@@ -1,0 +1,35 @@
+Here is the target news article with the morally framed words extracted:
+
+STEP 1:
+* threats
+* violence
+* anarchy
+* coercion
+* freedom
+* progress
+* destruction
+* rule of law
+* public safety
+* extremist
+* peaceful
+* protests
+* looting
+* arson
+* innocent bystanders
+* attacks
+* government officials
+* property
+* rights
+* tolerance
+* complicit
+* deprivation
+* opposition
+* constitutional values
+* democracy
+* governance
+* lawlessness
+
+SUMMARY:
+Attorney General William Barr has established a task force to combat "violent anti-government extremists" who pose threats to the rule of law and public safety. These individuals have engaged in acts of violence, including attacks on government officials and destruction of property. Barr noted that these extremist groups seek to deny constitutional rights to others and resort to methods that are illegal. The task force will provide training and resources to local law enforcement to arrest perpetrators of violence and develop detailed information about violent anti-government extremist individuals and networks. Barr's announcement came as President Donald Trump signed an executive order protecting American monuments, memorials, and statues from destruction. The goal is to ultimately eliminate these threats and promote a more peaceful and law-abiding society.
+
+END OF SUMMARY.

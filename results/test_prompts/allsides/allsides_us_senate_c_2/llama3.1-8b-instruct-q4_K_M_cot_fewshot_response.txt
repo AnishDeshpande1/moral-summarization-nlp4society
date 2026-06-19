@@ -1,0 +1,24 @@
+Here are the steps for summarizing the target news article:
+
+STEP 1:
+* compassion
+* amnesty
+* entitled
+* risks
+* prepared
+* bleed
+* die
+* chance
+* fix
+* comprehensive
+* progress
+* shifted
+* ravaged
+* devastated
+* blocked
+* stand-alone
+
+SUMMARY:
+House Democrats have introduced a bill to grant permanent protections to undocumented immigrants brought to the country as children, known as Dreamers. However, the fate of these young people will ultimately rest in the hands of Senate Republicans, who have struggled for nearly two decades to come up with a solution that they and their conservative base can endorse. The party's shift on immigration has been drastic, from viewing the DREAM Act as an act of "compassion" to seeing it as an act of "amnesty." The internal battle within the Republican Party over supporting Dreamers has only become more acute, leaving senators little payoff to support a stand-alone bill. Despite this, many Republicans, including Sen. Lindsey Graham and Sen. Tim Scott, believe that a comprehensive solution is possible if both sides are willing to make concessions. However, the prospects of the House bill passing in the Republican-led Senate appear dire.
+
+END OF SUMMARY.

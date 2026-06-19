@@ -1,0 +1,38 @@
+Okay, so I need to help the user with their query. They provided a detailed news article and specific instructions on how to process it. Let me break this down.
+
+First, the user wants me to act as a news summarizer and a moral expert. My task is to summarize the article while preserving the moral framing. They've given clear steps: identify morally framed words and then write a summary using those words.
+
+Looking at the article, it's about a mass shooting in El Paso, the defendant Patrick Crusius, and the surrounding events and reactions. The user wants me to extract single words that carry moral implications. I'll go through the text and pick out words like "mass shooting," "capital murder," "hate crime," etc. These words are charged with moral judgment, so they're key to the summary.
+
+Next, I need to write a concise summary, under 200 words, using as many of these words as possible. The summary should capture the main points: the indictment, the defendant's background, the motives, political reactions, and the impact on the community. I should also mention the subsequent shootings and the political debates on gun control and immigration.
+
+I have to ensure the summary flows naturally while including all the morally framed words. I'll structure it by first introducing the case, then the defendant's actions and motives, followed by the legal and political responses, and finally the broader implications and community reactions.
+
+I should double-check that I'm not missing any important details, like the hate crime charges, the victims' demographics, and the political fallout, including Governor Abbott's response and the gun control debates. Also, noting the vigils and the survivors' reactions adds depth to the moral framing.
+
+I think I've covered all the necessary points. Now, I'll compile the list of morally framed words and then craft the summary, making sure it's within the word limit and includes all the key elements.
+</think>
+
+**STEP 1:**  
+* Mass shooting  
+* Capital murder  
+* Indicted  
+* Guilty  
+* Death penalty  
+* Hate crime  
+* Targeting  
+* Invasive  
+* Xenophobic  
+* Racist  
+* Divisive  
+* Inflaming  
+* Mistakes  
+* Insufficient  
+* Gun control  
+* Advocacy  
+* Vigils  
+* Justice  
+
+**SUMMARY:**  
+Patrick Crusius, 21, was indicted for capital murder in connection with the El Paso mass shooting that killed 22 people. Prosecutors seek the death penalty, while his defense aims to prevent execution. Crusius allegedly targeted Mexicans, as indicated by a screed he wrote, which echoed President Trump’s immigration rhetoric. The shooting sparked national debate over guns and immigration. Federal authorities are considering hate-crime charges. Survivors held vigils, while Crusius remains isolated in jail. The attack was part of a series of mass shootings last month, fueling anger among gun control and immigration advocates. Texas Governor Greg Abbott faced criticism for resisting new gun-control measures, while Democrats and advocates criticized his recommendations as insufficient. The case highlights the ongoing struggle to address gun violence and racial tensions in America.  
+**END OF SUMMARY.**

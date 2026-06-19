@@ -1,0 +1,3 @@
+SUMMARY:
+Two NASA astronauts, Linda Godwin and Daniel Tani, performed a critical space‑walk from the shuttle Endeavour to repair the International Space Station’s solar array drive‑mechanisms. Using the station’s robotic arm, they rode 50 feet along the exterior and installed thermal blankets over the two motors that steer the massive solar wings. The blankets are intended to protect the motors from the harsh temperature swings of orbit, preventing power spikes and stalls that could jeopardize the station’s ability to keep its panels pointed at the Sun and generate electricity. This maintenance mission underscores the crew’s dedication to keeping the ISS operating safely and efficiently.
+END OF SUMMARY.

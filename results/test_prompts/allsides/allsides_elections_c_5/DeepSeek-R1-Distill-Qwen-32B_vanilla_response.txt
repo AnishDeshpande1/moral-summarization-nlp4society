@@ -1,0 +1,14 @@
+Alright, I need to help the user by summarizing the given news article. Let me read through it carefully first.
+
+The article talks about Hurricane Sandy and the debate over the government's role in disaster response. President Obama emphasizes federal assistance, while Republicans like Romney prefer local and voluntary efforts. Romney's example with the high school cleanup shows his belief in decentralized action. The article also mentions how FEMA under Obama has improved, with state officials praising the federal response. However, some Republicans still target FEMA's budget for cuts.
+
+I should focus on the key points: the contrasting views on federal vs. local efforts, examples from Obama and Romney, FEMA's role, and the political implications, especially regarding funding.
+
+I need to make sure the summary is concise, under 200 words, and captures all these elements without getting too detailed. I'll structure it by introducing the debate, explaining both sides, mentioning Romney's stance, FEMA's effectiveness, and the ongoing political tension over funding.
+
+Let me draft the summary, ensuring it's clear and covers all main points without exceeding the word limit.
+</think>
+
+SUMMARY:  
+President Obama emphasized federal government support for Sandy victims, offering prayers and resources, while Republicans, including Mitt Romney, advocate for local and voluntary efforts. Romney highlighted individual action, citing a high school cleanup example, though he did not dismiss government aid entirely. During a Republican debate, Romney argued for decentralizing disaster relief, suggesting states and private sectors should handle more. Despite this, Romney avoided discussing FEMA funding at a recent event. Obama has promised streamlined federal aid, with FEMA director Craig Fugate, a former state official, leading efforts. Republican Gov. Chris Christie praised the federal response, though states like Texas and Oklahoma, which rely on federal disaster aid, highlight the political tension over FEMA funding. Romney's past comments on cutting federal spending create an awkward backdrop as Obama tours Sandy-affected areas to stress the need for federal involvement.  
+END OF SUMMARY.

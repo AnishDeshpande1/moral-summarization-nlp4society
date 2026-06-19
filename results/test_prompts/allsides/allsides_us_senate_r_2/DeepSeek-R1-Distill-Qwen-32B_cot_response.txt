@@ -1,0 +1,33 @@
+Alright, let me try to figure out how to approach this query. The user has provided a detailed news article and wants me to summarize it while preserving the moral framing. They also specified two steps: first, identifying all the morally framed single words, and then writing a summary that includes as many of those words as possible.
+
+Okay, starting with STEP 1. I need to go through the article and pick out words that carry a moral connotation. Words like "war criminal," "aggressive," "forceful," etc. I should list each of these words, each on a new line with an asterisk. I need to make sure I don't miss any, so I'll read through the article carefully.
+
+Next, for the summary, I have to condense the article into 200 words or less. The key is to include the morally framed words identified in STEP 1. I should structure the summary to highlight the main points: the clash between Tillerson and Rubio, Tillerson's stance on Russia, his refusal to label Putin as a "war criminal," his criticisms of the Obama administration, and his broader foreign policy views. I also need to mention the lighter moments and the protesters to give a complete picture.
+
+I should ensure that the summary flows well and covers all the important aspects without getting too bogged down in details. It's crucial to maintain the moral framing by using the identified words appropriately. I'll make sure the summary is concise and captures the essence of the article, including Tillerson's positions and the reactions during the hearing.
+
+Finally, I'll double-check to ensure that all the morally framed words are included and that the summary doesn't exceed the word limit. This should meet the user's requirements effectively.
+</think>
+
+**STEP 1:**  
+* War criminal  
+* Discouraging  
+* Globally accepted  
+* Human rights violator  
+* Murdered  
+* Danger  
+* Unpredictable  
+* Alarm  
+* Unfriendly adversary  
+* Weak response  
+* Illegal  
+* Grave risk  
+* Imminent threat  
+* Greatest and most complex threat  
+* Stumbled  
+* Confusion  
+* Danger  
+* Rejected  
+
+**SUMMARY:**  
+Secretary of State nominee Rex Tillerson faced intense questioning from Sen. Marco Rubio during his confirmation hearing, with Rubio pressing Tillerson to label Russian President Vladimir Putin a "war criminal." Tillerson declined, emphasizing his "clear-eyed and realistic" approach to diplomacy. Tillerson criticized the Obama administration's handling of Russia's annexation of Crimea, calling it a "taking of territory that was not theirs," and urged a firmer response. He also refused to categorize Saudi Arabia as a "human rights violator" or condemn Philippine President Rodrigo Duterte's practices. Tillerson described Russia as an "unfriendly adversary" and acknowledged it as a "danger" to NATO allies. While he criticized China's "illegal" island-building in the South China Sea and radical Islam as a "grave risk," he also admitted the U.S. had "stumbled" under the Obama administration. Tillerson's testimony included a moment of levity when he dodged a question about ExxonMobil's climate policies. The hearing also saw protesters, including Code Pink activists, disrupting the proceedings. END OF SUMMARY.

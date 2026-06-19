@@ -104,3 +104,8 @@ python generate_prompts.py \
    `python prompting.py --config-file peft_config.yaml --hf-model-folder <location-of-models> --prompt-dir results/test_prompts`
 4. **Automated Evaluation**:
    `python evaluate.py --llama --QaFactEval --results-dir results/test_prompts`
+
+
+# License 
+
+MIT License is provided by the authors for any work, analysis and data used in this repository and project. Others are free to replicate and use this code for research or personal use.

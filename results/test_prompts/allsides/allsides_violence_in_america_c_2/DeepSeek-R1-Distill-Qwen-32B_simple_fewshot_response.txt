@@ -1,0 +1,18 @@
+Okay, so I need to summarize this news article about the El Paso mass shooting. The user wants the summary to preserve the moral framing from the original text. Let me start by reading through the article carefully.
+
+The article talks about Patrick Crusius, a 21-year-old man who was indicted for capital murder after the August 3 shooting that killed 22 people at a Walmart in El Paso. The prosecution is seeking the death penalty. Crusius' lawyers are planning to use every legal tool to prevent execution. Texas Governor Greg Abbott responded with a simple "good" tweet. The article mentions that Crusius targeted Mexicans and had a manifesto linking his actions to President Trump's immigration rhetoric. The attack was part of a series of mass shootings that sparked debates on guns and immigration. Crusius drove from Texas to El Paso, and most victims were Hispanic. Federal prosecutors are considering hate-crime charges. The shootings led to political blowback, with Democrats and gun-control advocates pushing for stricter laws, while Texas officials have been slow to act.
+
+Now, the user provided examples of summaries with different political ideologies. The first example was left-leaning, the second center, and the third right-leaning. The target article doesn't explicitly state a political ideology, but the context of the shootings and the political reactions suggest a left-leaning moral framing, as it discusses the impact of Trump's rhetoric and the need for gun control.
+
+I need to make sure the summary captures the key points: the indictment, the motive linked to Trump's rhetoric, the impact on the community, and the political responses. Also, include the fact that the prosecution is seeking the death penalty and the reaction from the governor. The summary should be concise, around 200 words, and highlight the moral aspects like the targeting of Mexicans and the broader implications of Trump's statements.
+
+I should structure the summary to first state the indictment, then the motive and manifesto, the impact on the community, the political reactions, and the ongoing debates. Make sure to mention the hate-crime possibility and the political inaction regarding gun control.
+
+Let me draft the summary step by step, ensuring all key points are included without exceeding the word limit. I'll start with the indictment, then the motive, the victims, the political context, the hate-crime aspect, and conclude with the political blowback and ongoing debates.
+</think>
+
+**SUMMARY:**
+
+Patrick Crusius, 21, has been indicted for capital murder in connection with the August 3 mass shooting at a Walmart in El Paso, Texas, which left 22 people dead. Prosecutors are seeking the death penalty, while Crusius' defense team aims to prevent execution. Crusius, who targeted Mexicans, authored a manifesto linking his actions to President Trump's immigration rhetoric. The attack, part of a series of mass shootings, reignited debates on guns and immigration. Most victims were Hispanic, and federal prosecutors are considering hate-crime charges. The shootings sparked political blowback, with Democrats and gun-control advocates calling for stricter laws, while Texas officials have been slow to act. Crusius' actions highlight the impact of divisive rhetoric and the need for comprehensive gun control measures.  
+
+**END OF SUMMARY.**

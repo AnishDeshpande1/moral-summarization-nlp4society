@@ -1,0 +1,14 @@
+Okay, so I need to summarize this news article about the First Step Act. The user wants the summary to preserve the moral framing related to Authority/Subversion, Care/Harm, and Fairness/Cheating. Let me break this down.
+
+First, I'll read through the article to understand the main points. The First Step Act is a bipartisan bill that passed in the Senate with significant support. It aims to reform the criminal justice system by reducing mandatory minimum sentences for drug offenses, giving judges more discretion, and investing in prisoner rehabilitation. It also bans inhumane practices like shackling pregnant women and helps elderly or terminally ill inmates get released. Plus, it retroactively applies the 2010 Fair Sentencing Act, which could affect thousands of people.
+
+Now, focusing on the moral foundations. Authority/Subversion: The bill challenges the existing authority of strict sentencing laws, promoting a shift towards more humane and fair practices. Care/Harm: It addresses the harm caused by mass incarceration, especially for non-violent offenders, and aims to rehabilitate rather than punish. Fairness/Cheating: The bill corrects disparities in sentencing, like the crack vs. powder cocaine laws, ensuring a fairer system.
+
+I need to make sure these points are clearly reflected in the summary. I'll structure it by highlighting the bipartisan support, the specific reforms, and the moral implications tied to each foundation. Also, I should keep it concise, under 200 words, and end with the required tokens.
+
+Let me draft the summary, ensuring each moral dimension is addressed. I'll mention the reduction of mandatory sentences (Fairness), the focus on rehabilitation and ending inhumane practices (Care), and the challenge to strict authority (Authority). I'll also note the bipartisan nature to show a shift in approach.
+
+I think that covers all the necessary points while preserving the moral framing the user specified. Time to put it all together concisely.
+</think>
+
+SUMMARY: The First Step Act, a landmark bipartisan bill, passed the Senate 87-12, aiming to reform the criminal justice system by reducing mandatory minimum sentences for drug offenses, expanding rehabilitation opportunities, and ending inhumane practices like shackling pregnant women. The bill challenges the authority of strict sentencing laws, promoting a shift toward fairness and care. It addresses the harm caused by mass incarceration, particularly for non-violent offenders, and seeks to provide second chances through rehabilitation and re-entry programs. By retroactively applying the 2010 Fair Sentencing Act, the bill aims to correct disparities in crack vs. powder cocaine sentencing, benefiting thousands. The legislation reflects a moral commitment to fairness, care, and reducing systemic harm, while also addressing the overreach of punitive measures. END OF SUMMARY.

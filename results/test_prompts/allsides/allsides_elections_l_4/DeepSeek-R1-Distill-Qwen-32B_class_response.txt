@@ -1,0 +1,14 @@
+Okay, so I'm trying to help the user by summarizing this news article. The user mentioned that I should preserve the moral framing the author used. First, I need to understand what the article is about. It seems to be about Donald Trump's campaign, specifically his stance on immigration and his attempts to court non-white voters.
+
+Looking at the text, I see that the author uses several morally charged words like "lies," "failed," "crime," "deportation," and "manipulation." My goal is to include as many of these words as possible in the summary without losing the essence of the article.
+
+The article talks about Trump softening his immigration policies, which was a key part of his campaign. He mentioned pathways to citizenship and back taxes, which seems contradictory to his earlier hardline stance. The author points out that this shift is an attempt to gain more Hispanic and African American votes, as he's trailing in the polls.
+
+Then, the article discusses Trump's claims about inner cities being unsafe, comparing them to war zones. The author argues that this is misleading because crime rates have actually been declining. Additionally, Trump's claim about high unemployment rates among African Americans is criticized as statistically incorrect.
+
+I need to make sure the summary includes these points while using the morally framed words. I'll structure it to first mention the softening of immigration stance, then the misleading claims about inner cities and unemployment, and finally the criticism of these tactics.
+
+I should also keep the summary concise, under 200 words, and make sure it flows logically. Let me draft it step by step, ensuring each key point is covered and the moral framing is preserved.
+</think>
+
+SUMMARY: GOP nominee Donald Trump softened his stance on immigration, a signature issue of his campaign, suggesting a path to citizenship for undocumented migrants while denying flip-flopping. He emphasized back taxes and no amnesty, attempting to court non-white voters amid polling showing him trailing Hillary Clinton among non-white voters. Trump also claimed inner cities are "safer than war zones," a misleading statement countered by declining crime trends. His claim that 58% of young African Americans are unemployed was criticized as statistically misleading, as the actual unemployment rate is 25.7%. Trump's outreach to African American and Hispanic voters, despite low support, highlights his effort to address their concerns while maintaining his hardline immigration rhetoric. END OF SUMMARY.

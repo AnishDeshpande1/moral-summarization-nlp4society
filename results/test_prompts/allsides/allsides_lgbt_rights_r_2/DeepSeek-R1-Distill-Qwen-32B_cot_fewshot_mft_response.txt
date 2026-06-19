@@ -1,0 +1,39 @@
+Okay, I need to summarize the given news article while preserving the moral framing, especially focusing on Care/Harm and Fairness/Cheating. Let me start by reading the article carefully.
+
+The article is about Rev. Franklin Graham, an evangelist, whose speaking event in Liverpool was canceled. The venue officials said his views on marriage being between one man and one woman are incompatible with their values. There were protests against him, and a group called him a homophobic hate preacher. Graham responded by saying he's coming to present the Gospel, not to condemn, but he still believes homosexuality is a sin. He also defended free speech and religious liberty.
+
+Now, I need to identify the morally framed words, focusing on Care/Harm and Fairness/Cheating. Let me go through the article again.
+
+Key points:
+- Event canceled because views incompatible with values (Fairness/Cheating)
+- Protesters rebuked venue leaders (Care/Harm)
+- Called homophobic hate preacher (Care/Harm)
+- Graham says he's not to condemn, but to present Gospel (Care/Harm)
+- Believes homosexuality is a sin (Fairness/Cheating)
+- Defends free speech and religious liberty (Fairness/Cheating)
+- Says Gospel is inclusive, coming out of love (Care/Harm)
+
+So, the morally framed words I can extract are: incompatible, rebuking, homophobic, hate, sin, defend, freedom, love, inclusive, welcome.
+
+Now, I need to write a summary that includes these words, focusing on Care/Harm and Fairness/Cheating. The summary should be concise, around 200 words.
+
+I'll start by stating the event was canceled, mention the reason, protesters' reaction, Graham's response, his beliefs, and his defense of rights. I'll make sure to include the morally framed words where appropriate.
+
+Let me structure the summary:
+
+1. Event canceled because of Graham's views on marriage.
+2. Venue said his views incompatible with their values.
+3. Protesters rebuked the venue, calling him homophobic.
+4. Graham responded, saying he's presenting the Gospel, not to condemn.
+5. He believes homosexuality is a sin but emphasizes love and inclusion.
+6. Defends free speech and religious liberty.
+
+Putting it all together, ensuring the moral framing is preserved.
+</think>
+
+The Rev. Franklin Graham's speaking event in Liverpool was canceled due to his views on marriage, which the venue deemed incompatible with their values. Protesters, including the Liverpool Labour LGBT Network, rebuked the venue for allowing Graham, calling him a homophobic hate preacher. Graham responded by stating he aims to present the Gospel, not to condemn, while maintaining that homosexuality is a sin. He emphasized love and inclusion, inviting the LGBTQ community to attend his events, and defended the rights to free speech and religious liberty. END OF SUMMARY.
+
+(Step 1: Morally framed words identified: incompatible, rebuking, homophobic, hate, sin, defend, freedom, love, inclusive, welcome.)
+
+SUMMARY:
+Rev. Franklin Graham's speaking event in Liverpool was canceled as his views on marriage were deemed incompatible with the venue's values. Protesters, including the Liverpool Labour LGBT Network, rebuked the venue, labeling Graham a homophobic hate preacher. Graham responded, stating he aims to present the Gospel, not to condemn, while acknowledging homosexuality as a sin. He emphasized love and inclusion, inviting the LGBTQ community to attend, and defended free speech and religious liberty. END OF SUMMARY.

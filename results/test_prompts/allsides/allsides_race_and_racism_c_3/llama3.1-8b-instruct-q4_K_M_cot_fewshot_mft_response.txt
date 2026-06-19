@@ -1,0 +1,67 @@
+Here are the results:
+
+Example 1:
+* false
+* untrue
+* desperate
+* attack
+* character
+* reputation
+* fake
+* hurtful
+* highest
+* guilty
+* misconduct
+
+SUMMARY:
+Alabama Republican Senate candidate Roy Moore has denied allegations of pursuing sexual relationships with teenagers, including a 14-year-old, when he was in his 30s. He accused The Washington Post of launching a "desperate" attack on his character and reputation to stop his political campaign. The Post's report alleged that Moore had sexual contact with the 14-year-old and pursued three other women between the ages of 16 and 18. Moore has threatened to sue The Washington Post over the report, which he claims is "hurtful" to him personally.
+
+Example 2:
+* heroic
+* tragic
+* terrible
+* evil
+* heroic
+* tragic
+* horrific
+* extremely
+* upsetting
+* evil
+* domestic
+* terrorism
+
+SUMMARY:
+A tragic and terrible shooting occurred at West Freeway Church of Christ in White Settlement, Texas. The heroic actions of two volunteer security team members saved an "untold number of lives." The gunman opened fire during a livestreamed service, causing chaos and panic among the 240 parishioners.
+
+Example 3:
+* Extreme
+* Significant
+* Disgusted
+* Worst
+* Violent
+* Disgusting
+* Unfortunate
+* Peaceful
+* Cordial
+
+SUMMARY:
+A night of protests in Minnesota turned into an "extreme incident" with over 100 arrests and 21 police officers injured. The protests, sparked by the recent police killings of black men, started peacefully but escalated into rioting.
+
+Target News Article:
+
+STEP 1:
+* combustible
+* murderous
+* health
+* economic
+* inequalities
+* combustible
+* right-wingers
+* itching
+* gasoline
+* revolution
+* senseless
+* pleading
+
+SUMMARY:
+The death of George Floyd was the spark for a country already on the brink. The video showed the "senselessness" of his death, and it was more than just his death - it was the way he died, in front of our eyes, on video everywhere, pleading for his life. The weight of systemic racism became too much to bear as people took to the streets in cities across the country, demanding justice and change.

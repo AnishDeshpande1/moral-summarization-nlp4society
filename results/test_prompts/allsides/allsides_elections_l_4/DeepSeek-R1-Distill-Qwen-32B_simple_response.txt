@@ -1,0 +1,10 @@
+Okay, I need to summarize this news article about Donald Trump's campaign adjustments, focusing on the moral framing the author used. The article talks about Trump softening his stance on immigration, trying to court non-white voters, and making claims about African American unemployment and inner city safety. 
+
+First, I should identify the key points: Trump's shift on immigration, his claims about crime rates, and the unemployment statistics. The author points out that Trump's statements are misleading, like the crime rate being higher than in war zones when it's actually declining. Also, the unemployment figure of 58% is misleading because it includes people not seeking jobs. 
+
+I need to highlight the moral issues here. The author seems critical of Trump for using deceptive claims to appeal to minority voters, which could be seen as manipulative. The softening on immigration might be seen as a positive step, but the way he's handling it is inconsistent and confusing. 
+
+I should structure the summary to include these points, making sure to note the misleading nature of his statements and the moral implications of using such tactics to gain votes. I'll keep it concise, under 200 words, and make sure to end with the required tokens.
+</think>
+
+SUMMARY: Donald Trump softened his stance on immigration, suggesting a path to legalization without amnesty, while trying to appeal to Hispanic and African American voters. His claims about inner cities being more dangerous than war zones and African American unemployment rates were criticized as misleading, with crime statistics showing a decline and unemployment figures manipulated to exaggerate the issue. Trump's inconsistent messaging and deceptive claims raised ethical concerns about his campaign tactics. END OF SUMMARY.

@@ -1,0 +1,29 @@
+Alright, let me try to figure out how to approach this query. The user has provided a detailed news article and wants a summary that preserves the moral framing used by the author. They've specified that I should use as many of the morally charged words as possible and keep the summary under 200 words. 
+
+First, I need to understand the content of the article. It's about Republicans confronting Adam Schiff, the chairman of the House Intelligence Committee, over his handling of the Russia probe. Schiff is accused of not finding any collusion between Trump associates and Russia, and Republicans are calling for his resignation. They argue that his actions are incompatible with his duties and that he's promoting a false narrative. Schiff defends himself by listing interactions between Trump associates and Russians, but Mueller found no collusion. There's also mention of the Steele dossier and comparisons to McCarthyism.
+
+Next, I need to identify the morally framed words from the list provided. These include words like "discharge," "interference," "immoral," "unpatriotic," "corrupt," "abused," "damaged," etc. I should ensure that these words are included in the summary to maintain the moral tone.
+
+I'll start by summarizing the main points: Republicans confront Schiff, accuse him of failing in his duties, mention Mueller's findings, Schiff's defense, Pelosi's support, Republican counterarguments about Clinton campaign collusion, and the comparison to McCarthyism.
+
+I need to make sure each of these points is concise and that the moral language is integrated naturally. For example, when mentioning Schiff's actions, I can use words like "immoral," "unpatriotic," and "corrupt." When describing Republicans' accusations, words like "abused," "damaged," and "undermined" fit well.
+
+I also need to keep the summary under 200 words, so I'll have to be concise but thorough. Let me outline the key points to cover:
+
+1. Republicans confront Schiff over Russia probe.
+2. Accuse him of failing to discharge duties, promoting false narrative.
+3. Mueller found no collusion.
+4. Schiff lists interactions but no evidence of interference.
+5. Pelosi supports Schiff.
+6. Republicans counter with Clinton campaign collusion claims.
+7. Schiff compared to McCarthy, accused of misrepresenting info.
+8. Steele dossier mentioned, Mueller rejected charges.
+
+Now, I'll draft the summary, ensuring each point is covered with the appropriate moral language. I'll check the word count to stay within the limit.
+
+I should also make sure the summary flows logically, starting with the confrontation, moving through the accusations and defenses, and ending with the implications and comparisons made by Republicans.
+
+Finally, I'll review the summary to ensure all key points are included and that the moral framing is preserved as per the user's instructions.
+</think>
+
+SUMMARY: Republicans accused House Intelligence Committee Chairman Adam Schiff of failing to discharge his duties responsibly, citing his promotion of a false narrative about Russian election interference. They urged his resignation, claiming his actions were incompatible with his constitutional oversight role. Schiff defended himself by listing interactions between Trump associates and Russians, but Mueller found no collusion. Republicans argued Schiff's continued investigation damaged the committee's integrity and undermined faith in U.S. institutions. Schiff called Trump's associates' interactions with Russians immoral, unethical, unpatriotic, and corrupt. Pelosi defended Schiff, while Republicans accused him of misrepresenting classified information and chasing a McCarthy-like narrative. They criticized his addition of prosecutors, referencing the discredited Steele dossier. END OF SUMMARY.

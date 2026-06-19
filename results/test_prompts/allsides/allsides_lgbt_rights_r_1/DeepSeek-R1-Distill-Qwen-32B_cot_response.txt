@@ -1,0 +1,56 @@
+Alright, I need to help the user by summarizing the news article while preserving the moral framing. The user has specified two steps: first, identifying all the morally framed single words, and then writing a summary that includes as many of these words as possible.
+
+Starting with STEP 1, I'll read through the article to pick out words that carry moral connotations. Words like "unconstitutional," "fundamental," "right," "upbringing," "vindicate," "prohibit," "switch sexes," "pivotal," "health," "future," "consent," "commitment," "affirming," "disrupt," "gender binary," "right," "choose," "name," "pronouns," "permission," "protect," "beliefs," "reserved," "public," "interfere," "guide," "life-altering," "professional help," "gender dysphoria," "compelling," "government interest," "secret," "struggles," "interfere," "religious freedom," "guarantee," "intend," "male," "female," "hide," "right," "guide," "accordance," "beliefs."
+
+Now, for the summary, I need to condense the article into 200 words, making sure to include these morally charged words. The key points are the lawsuit by 14 parents against MMSD for allowing students to use preferred names and pronouns without parental notification. The policy is seen as violating parental rights, constitutional rights, and religious freedom. The district's stance is to affirm gender identity, but parents argue this interferes with their role in their children's upbringing and health decisions. The summary should highlight the conflict between parental rights and the school's inclusive policy, emphasizing the moral and constitutional arguments presented by both sides.
+</think>
+
+**STEP 1:**  
+* unconstitutional  
+* fundamental  
+* right  
+* upbringing  
+* vindicate  
+* prohibit  
+* switch sexes  
+* pivotal  
+* health  
+* future  
+* consent  
+* commitment  
+* affirming  
+* disrupt  
+* gender binary  
+* right  
+* choose  
+* name  
+* pronouns  
+* permission  
+* protect  
+* beliefs  
+* reserved  
+* public  
+* interfere  
+* guide  
+* life-altering  
+* professional help  
+* gender dysphoria  
+* compelling  
+* government interest  
+* secret  
+* struggles  
+* interfere  
+* religious freedom  
+* guarantee  
+* intend  
+* male  
+* female  
+* hide  
+* right  
+* guide  
+* accordance  
+* beliefs  
+
+**SUMMARY:**  
+A group of 14 Wisconsin parents filed a lawsuit against the Madison Metropolitan School District (MMSD) for its policy allowing students to use their preferred gender identity and pronouns without parental notification. The parents argue the policy violates their constitutional right to direct their children's upbringing and infringes on their religious freedom, as they believe God intended humans to be male or female. The lawsuit claims the policy circumvents parental involvement in pivotal decisions about their children's health and future, including potential gender dysphoria. The district, however, defends its commitment to affirming students' gender identities and disrupting the gender binary. The parents assert that withholding information about their children's gender struggles interferes with their ability to guide their children and provide necessary professional help. The case highlights a clash between parental rights and the school's inclusive policy.  
+**END OF SUMMARY.**

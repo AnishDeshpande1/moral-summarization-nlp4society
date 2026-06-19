@@ -1,0 +1,31 @@
+Alright, I need to help the user by summarizing the news article while preserving the moral framing. The user has specified two main steps: identifying morally framed words and then writing a concise summary.
+
+First, I'll read through the article to understand the context. It's about Mattis rebuking Trump's handling of the protests. The key points are Mattis's criticism of Trump's actions, the use of military force, and the division of the country.
+
+For the first step, I need to identify all single words that carry moral connotations. I'll go through the article and pick out words like "abuse," "divisive," "disdain," etc. These words highlight the moral judgment in the text.
+
+Next, I'll write the summary. It should be under 200 words and include as many of the identified morally framed words as possible. I'll make sure to capture Mattis's main criticisms, Trump's response, and the broader implications regarding unity and constitutional values.
+
+I should also ensure that the summary flows naturally and accurately reflects the article's content without adding any personal opinions. Keeping it concise is important, so I'll focus on the most impactful points.
+
+Finally, I'll structure the response with STEP 1 listing each moral word and then the SUMMARY section, making sure to end with the specified tokens. I'll double-check the word count to stay within the limit.
+</think>
+
+**STEP 1:**  
+* Abuse  
+* Divide  
+* Militarizing  
+* Conscience  
+* Unite  
+* Disdain  
+* Mockery  
+* Overrated  
+* Chaos  
+* Mockery  
+* Disdain  
+* Overrated  
+* Chaos  
+
+**SUMMARY:**  
+Former Defense Secretary Jim Mattis issued a strong rebuke of President Trump's handling of nationwide unrest, accusing him of seeking to divide Americans and militarizing the response to protests. Mattis criticized Trump for ordering troops to violate constitutional rights and staging a "bizarre photo op" near a historic church. He called Trump's actions "an abuse of executive authority" and warned against treating cities as a "battlespace." Mattis also condemned the use of the military to "dominate" protesters, emphasizing that the military should only be deployed upon request by state governors. He accused Trump of pursuing a divisive strategy and failing to unite the American people, which he described as a consequence of three years of "deliberate effort" and a lack of mature leadership. Mattis emphasized that the protests, while sometimes marred by lawbreakers, were defined by tens of thousands of people demanding equal justice under the law. Trump responded by calling Mattis "the world's most overrated General." Mattis also highlighted the sacrifices of Americans during the pandemic and urged accountability for those who mock the Constitution, while appealing to the nation's "better angels" to unite.  
+**END OF SUMMARY.**

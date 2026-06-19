@@ -1,0 +1,24 @@
+Here is the response to the target news article:
+
+STEP 1:
+* devastation
+* widespread
+* enormous
+* conservative
+* estimated
+* resiliently
+* stronger
+* safer
+* smarter
+* rebuilding
+* resilience
+* protected
+* problems
+* hardships
+* waiting
+* decision
+* resources
+
+SUMMARY:
+The White House is seeking emergency funding to address the devastating damage caused by Hurricane Sandy, with a request for $50 billion to $60 billion expected this week. The damage was widespread and enormous, with over 300,000 homes seriously damaged and thousands of New Yorkers still homeless. Housing and Urban Development Secretary Shaun Donovan emphasized the need for a 21st century response, building back stronger, smarter, and safer. He stressed that a down payment on rebuilding would cause hardships, particularly for families and small businesses waiting to rebuild. Donovan also urged against offsetting disaster aid with cuts elsewhere in the budget. Most Democrats agree, but it's unclear whether Republicans will support the request. The administration wants at least some of the funding to go toward preventing similar devastation in the future by building up the region's defenses.
+END OF SUMMARY.

@@ -1,0 +1,17 @@
+Alright, so I need to help the user by summarizing this news article while preserving the moral framing. Let me read through the query again to make sure I understand all the requirements.
+
+The user provided a news article about Chicago's record-high homicides and shootings in 2016. They want a summary that's no longer than 200 words, starting with "SUMMARY:" and ending with "END OF SUMMARY." They emphasized that the moral framing from the author should be preserved.
+
+First, I need to identify the key points in the article. The main facts are the number of homicides, the spike compared to previous years, the areas affected, and the contributing factors like illegal guns, police reluctance, and the impact of the Laquan McDonald shooting.
+
+Next, I should consider the moral elements. The article discusses how the police's actions and public perception have affected their ability to combat crime. There's a moral judgment on the effectiveness of the criminal justice system and the impact of police actions on community trust.
+
+I need to make sure the summary includes these elements without adding my own opinions. It should reflect the author's perspective on the situation, highlighting the issues with gun laws, police reluctance, and the consequences of public distrust.
+
+I'll start by mentioning the record number of homicides and shootings. Then, I'll note the spike in illegal guns and the areas affected. I'll include Superintendent Johnson's points about the lack of deterrent and the effect of the McDonald shooting on police morale. Finally, I'll touch on the city's efforts to address the issue and the ongoing challenges.
+
+I should keep the language concise and ensure that the moral framing is clear. I'll avoid technical jargon and keep the summary within the word limit. Let me put this together step by step to make sure all important points are covered and the moral aspects are preserved.
+</think>
+
+SUMMARY:  
+Chicago experienced its most violent year in two decades in 2016, with 762 homicides and 3,550 shooting incidents, surpassing New York and Los Angeles combined. The surge in illegal guns, particularly in poor, predominantly black neighborhoods, fueled the bloodshed. Police Superintendent Eddie Johnson highlighted the lack of deterrence for gun crime, citing lenient Illinois gun laws and criminals' perception of the justice system as ineffective. The fatal shooting of Laquan McDonald by police and subsequent protests emboldened criminals, leading to a spike in violence. Johnson also noted that officers have become more cautious, fearing scrutiny and viral videos, resulting in fewer arrests. Despite efforts like adding 1,000 officers and installing cameras, the city grapples with restoring public trust and curbing violence. END OF SUMMARY.

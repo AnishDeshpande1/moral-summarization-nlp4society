@@ -1,0 +1,5 @@
+SUMMARY:
+
+The unprecedented cyberattacks during this campaign cycle have already had a profound impact on American democracy, with 38% of Americans concerned that the election could be hacked. The Obama administration has blamed senior Russian officials for orchestrating the breach, but even if foreign hackers can't compromise actual voting systems, the internet campaign to spread fear of vote hacking and manipulation may be enough to have a major impact on public trust. Experts warn that mere reports of possible Election Day hacking could fuel post-election challenges to the results, undermining the legitimacy of the vote. State officials are on high alert for any potential signs of tampering, but the real concern is not just a cyberattack, but also the spread of misinformation and disinformation that could disrupt the voting process. The moral framing of this article suggests that the erosion of trust in the electoral process is a grave concern, and that the spread of fear and misinformation is a significant threat to American democracy.
+
+END OF SUMMARY.

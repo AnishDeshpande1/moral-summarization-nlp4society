@@ -1,0 +1,15 @@
+Okay, I need to summarize this news article about Chicago's surge in violence. The user provided examples of summaries that preserved the moral framing, so I should focus on that. The article talks about record homicides, illegal guns, and the impact of police actions on crime rates.
+
+First, I'll note the key points: 762 homicides, highest in 20 years, more than NYC and LA combined. Shootings up by 1,100 from 2015. Recovered 8,300 illegal guns, a 20% increase. Superintendent Johnson mentions the flood of illegal guns and the lack of deterrent. He also points out that gang members feel emboldened because of the low risk of facing justice. The homicides are concentrated in poor, predominantly black areas. Mayor added 1,000 officers, but the surge started before that.
+
+Moral framing here is about systemic issues: gun availability, lack of deterrent, and the impact of police actions on public trust. The article suggests that the police's reluctance to act due to public scrutiny has emboldened criminals. So the summary should highlight the surge, the factors contributing to it, and the moral issues like lack of deterrent and the effect of police actions.
+
+I need to make sure the summary is concise, under 200 words, and captures the moral aspects. I'll structure it by first stating the surge in violence, then the factors like illegal guns and lack of deterrent, and the impact of police actions on crime rates. Finally, mention the concentrated areas and the city's response.
+
+Let me draft that. Make sure to include the key stats, the Superintendent's points, and the moral implications. Keep it clear and within the word limit.
+</think>
+
+SUMMARY:  
+Chicago experienced its most violent year in two decades, with 762 homicides and 3,550 shooting incidents, surpassing New York and Los Angeles combined. The surge in violence, driven by a flood of illegal guns, has left police struggling to deter crime. Superintendent Eddie Johnson noted that gang members feel emboldened due to the low risk of facing justice, citing a lack of deterrent and the perception that the criminal justice system is ineffective. The violence is concentrated in poor, predominantly black neighborhoods, where 80% of victims had gang ties or prior arrests. Mayor Rahm Emanuel added 1,000 officers, but the surge began before this initiative. Johnson emphasized that criminals exploit the police's reluctance to act, influenced by public scrutiny and state laws requiring extensive paperwork for stops. The moral imperative to address systemic issues, such as gun availability and police accountability, is urgent as Chicago grapples with a crisis of public safety and trust.  
+
+END OF SUMMARY.

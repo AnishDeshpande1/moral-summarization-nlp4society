@@ -1,0 +1,13 @@
+Alright, I need to summarize the given news article while preserving the moral framing. The article is about the Trump administration's new visa rules targeting "birth tourism." 
+
+First, I'll identify the key points: the new rules deny tourist visas to women primarily coming to the U.S. to give birth. They must prove a medical need and ability to pay. The administration claims it's to protect national security and taxpayers. Critics argue it's legal and the policy could risk women's health.
+
+I should maintain the moral tone from the article. The administration frames it as protecting citizenship integrity and national security, while critics see it as targeting a lawful practice and potentially harming women.
+
+I'll structure the summary to include the policy, its purpose, and the opposing viewpoints. Keeping it under 200 words, I'll ensure each point is concise and the moral aspects are highlighted.
+</think>
+
+SUMMARY:  
+The Trump administration has introduced new visa rules to curb "birth tourism," where foreign women travel to the U.S. to give birth and secure citizenship for their children. Under the rules, applicants will be denied tourist visas if consular officers determine their primary purpose is to give birth. Those with medical needs will be treated like other foreigners seeking medical treatment in the U.S. and must prove they can afford related expenses. The administration claims the policy protects national security, taxpayer funds, and the integrity of U.S. citizenship. Critics argue the practice is legal and the new rules could put pregnant women at risk, as consular officers cannot explicitly ask about pregnancy but must assess intent. The policy also reflects broader immigration restrictions under the Trump administration, though ending birthright citizenship remains legally complex.  
+
+END OF SUMMARY.

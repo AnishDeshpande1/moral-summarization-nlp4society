@@ -1,0 +1,27 @@
+Alright, I need to summarize this news article while preserving the moral framing. Let me read through the article carefully.
+
+The article is about a shooting incident in Springfield, Missouri. A gunman killed several people, including a police officer. The key points are: the gunman drove around shooting, crashed into a store, killed five people, and died by suicide. The police responded heroically, with one officer sacrificing himself to save others.
+
+Now, I need to extract the morally framed words. Words like "randomly," "killed," "hero," "courageous," "sorrow," "grateful," "bravery," "surreal," "normal," and "provoke" stand out. These words carry moral connotations, showing the tragedy and the heroic actions.
+
+Next, I'll craft a concise summary. I should include the gunman's actions, the casualties, the officers' bravery, and the community's reaction. I'll make sure to use the extracted moral words to maintain the author's framing.
+
+I'll start by stating the incident, mention the gunman's random shooting, the deaths, and the officers' heroic actions. I'll also include the community's shock and gratitude towards the first responders. Keeping it under 200 words, I'll ensure all key points are covered succinctly.
+
+Finally, I'll review the summary to make sure it flows well and accurately reflects the moral aspects highlighted in the article.
+</think>
+
+STEP 1:  
+* Randomly  
+* Killed  
+* Hero  
+* Courageous  
+* Sorrow  
+* Grateful  
+* Bravery  
+* Surreal  
+* Normal  
+* Provoke  
+
+SUMMARY:  
+A gunman fired randomly from his vehicle in Springfield, Mo., killing five people, including a police officer and himself, in a tragic incident on March 15, 2020. The gunman, identified as 31-year-old Joaquin S. Roman, drove through the city, crashing into a convenience store and opening fire inside. The victims included a store employee, two customers, and Officer Christopher Walsh, who died heroically while trying to rescue a victim. Another officer, Josiah Overton, was injured but his life was not threatened. The gunman’s motives remain unclear, and his actions left the community in shock and sorrow. Police described the officers’ bravery as exemplary, with Chief Paul Williams calling Walsh a hero whose actions serve as an example to all. The incident has deeply impacted the Springfield community, with first responders praised for their courage in the face of tragedy. END OF SUMMARY.

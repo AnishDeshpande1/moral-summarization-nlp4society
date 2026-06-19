@@ -1,0 +1,5 @@
+SUMMARY:
+
+A recent study by NASA's Goddard Institute for Space Studies suggests that declining greenhouse-gas emissions since the late 1980s have slowed the growth rate of the atmosphere's ability to retain heat. This slowdown is attributed in part to the implementation of the Montreal Protocol, which phased out production of chlorofluorocarbons (CFCs) that also trap heat thousands of times as effectively as carbon dioxide. Researchers James Hansen and Makiko Sato argue that policymakers can make significant headway by attacking other pollutants such as black carbon soot, ozone, and methane from landfills, mining, and oil and gas production. They calculate that reducing methane emissions by 30 percent would have a comparable effect on climate to the cuts in CO2 envisioned by the Kyoto Protocol during its first commitment period.
+
+END OF SUMMARY.

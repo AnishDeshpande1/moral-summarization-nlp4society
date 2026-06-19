@@ -1,0 +1,106 @@
+Here are the results:
+
+**Example 1:**
+
+STEP 1:
+* obstruction
+* justice
+* criminal
+* misconduct
+* disdain
+* law
+* truth
+* impede
+* above
+* cancer
+* contempt
+
+SUMMARY:
+The Namibian government has dismissed a US human rights report that lists several human rights violations committed by security forces and the government. The report alleges extra-judicial killings, deaths in custody, torture, and arbitrary arrests during security operations in 2001. Information Permanent Secretary Mocks Shivute responded by accusing the US of being the worst human rights violator in the world, citing the detention of 300 people at Guantanamo Bay without trial. He also claimed that the report carried factual inaccuracies and was a "mere reproduction" of unsubstantiated reports. The government's dismissal of the report has raised concerns about its commitment to protecting human rights.
+
+END OF SUMMARY.
+
+**Example 2:**
+
+STEP 1:
+* safety
+* security
+* tragedy
+* fear
+* prey
+* saturate
+* armed
+* fortress
+* solutions
+* safer
+* politics
+
+SUMMARY:
+The Namibian government has dismissed a US human rights report that lists several human rights violations committed by security forces and the government. The report alleges extra-judicial killings, deaths in custody, torture, and arbitrary arrests during security operations in 2001. Information Permanent Secretary Mocks Shivute responded by accusing the US of being the worst human rights violator in the world, citing the detention of 300 people at Guantanamo Bay without trial.
+
+END OF SUMMARY.
+
+**Example 3:**
+
+STEP 1:
+* felony
+* embarrass
+* control
+* intimidate
+* infuriate
+* duty
+* concealing
+* manipulating
+* interference
+* sinister
+* perilous
+* unelected
+* unaccountable
+* unnamed
+* pain
+* criminal
+* waiving
+* insulates
+* impunity
+* accountability
+* transparency
+* overriding
+* savaged
+
+SUMMARY:
+The Namibian government has dismissed a US human rights report that lists several human rights violations committed by security forces and the government. The report alleges extra-judicial killings, deaths in custody, torture, and arbitrary arrests during security operations in 2001.
+
+END OF SUMMARY.
+
+**Target News Article:**
+
+STEP 1:
+* dismiss
+* trashed
+* violation
+* Government
+* worst
+* Guantanamo Bay
+* detention
+* trial
+* extra-judicial
+* killings
+* deaths
+* custody
+* torture
+* arbitrary
+* arrest
+* disappear
+* cruel
+* inhuman
+* degrading
+* treatment
+* denial
+* fair
+* public
+* hearing
+
+SUMMARY:
+The Namibian government has dismissed a US human rights report that lists several human rights violations committed by security forces and the government. The report alleges extra-judicial killings, deaths in custody, torture, and arbitrary arrests during security operations in 2001. Information Permanent Secretary Mocks Shivute responded by accusing the US of being the worst human rights violator in the world, citing the detention of 300 people at Guantanamo Bay without trial.
+
+END OF SUMMARY.

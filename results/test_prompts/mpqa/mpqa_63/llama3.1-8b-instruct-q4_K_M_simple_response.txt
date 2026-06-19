@@ -1,0 +1,7 @@
+SUMMARY:
+
+NASA's new railcar for the international space station had its inaugural run interrupted by technical issues due to weightlessness in space. The one-ton car, which is designed to transport equipment and modules, floated slightly off the track, causing magnetic sensors to lose contact with iron strips. This led to automatic latching systems shutting down twice, requiring ground controllers to take over manual control. NASA engineers suspect that adjustments may be needed to the computer software to resolve this issue.
+
+Ben Sellari, a NASA manager, attributed the problem to the railcar's operation in zero-gravity conditions. Despite these setbacks, there is no danger of the railcar rolling off the track due to its secure attachment to the 44-foot girder. The $190 million railcar will be used to transport the space station's robot arm and other equipment as construction continues.
+
+END OF SUMMARY.

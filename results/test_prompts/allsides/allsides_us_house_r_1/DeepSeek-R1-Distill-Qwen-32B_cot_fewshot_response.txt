@@ -1,0 +1,33 @@
+Alright, I need to summarize the given news article while preserving the moral framing. First, I'll go through the article to identify all the morally charged words. 
+
+The article talks about the impeachment case against President Trump. Words like "impeachment," "abuse of power," "bribery," "obstruction," "favor," "pressure campaign," "shadow," "extortion," "quid pro quo," "favoritism," "corruption," "dishonesty," "unconstitutional," "accountability," "transparency," "fairness," "integrity," "betrayal," "disloyalty," and "abuse" stand out as they carry moral implications.
+
+Next, I'll structure the summary. It should start with the key points: the House Judiciary Committee proceeding with impeachment articles, the charges against Trump, and the reasons behind them. I'll mention the evidence from the phone call, the quid pro quo, and the witness testimonies. It's important to highlight the moral arguments from both sides—Democrats emphasizing the president putting himself before the country and Republicans defending the investigation as legitimate. I'll also touch on the delay in military aid and the underlying issues with corruption and transparency.
+
+I need to make sure the summary is concise, under 200 words, and includes as many of the identified moral words as possible without making it sound forced. The focus should be on the ethical dimensions of the case, ensuring the summary reflects the moral framing accurately.
+</think>
+
+STEP 1:  
+* impeachment  
+* abuse  
+* power  
+* bribery  
+* obstructing  
+* favor  
+* pressure  
+* shadow  
+* extortion  
+* quid pro quo  
+* favoritism  
+* corruption  
+* dishonesty  
+* unconstitutional  
+* accountability  
+* transparency  
+* fairness  
+* integrity  
+* betrayal  
+* disloyalty  
+
+SUMMARY:  
+House Judiciary Committee Chairman Jerrold L. Nadler emphasized that President Trump's actions in seeking a "favor" from Ukraine to investigate political rival Joe Biden and his son Hunter constitute a clear abuse of power, bribery, and obstruction of justice. Nadler argued that no president should put personal gain above the country’s interests, stating that Trump’s actions threaten free and fair elections and undermine constitutional accountability. The impeachment case centers on the July 25 phone call where Trump pressured Ukraine President Volodymyr Zelensky for investigations, allegedly in exchange for military aid—a quid pro quo scheme Democrats describe as extortion. Republicans counter that Trump’s actions, though unconventional, do not meet the threshold for criminality. Key testimony from Ambassador Gordon Sondland revealed a shadow foreign policy campaign orchestrated by Trump’s private lawyer, Rudolph Giuliani, to pressure Ukraine. The delay in military aid and the lack of direct evidence linking it to the investigations further complicate the case. Democrats argue that Trump’s actions reflect a pattern of corruption and dishonesty, while Republicans insist the investigation into Biden’s son was legitimate. The impeachment inquiry underscores broader debates over transparency, fairness, and presidential integrity. END OF SUMMARY.

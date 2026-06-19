@@ -1,0 +1,27 @@
+Okay, so I need to summarize this news article about the Obama administration expanding benefits to same-sex spouses of federal employees. The user wants the summary to preserve the moral framing, specifically focusing on Authority/Subversion, Care/Harm, Fairness/Cheating, and Loyalty/Betrayal. 
+
+First, I'll read through the article to understand the main points. The article talks about how, after the Supreme Court struck down part of DOMA, the Obama administration is allowing same-sex spouses to access benefits like health insurance and retirement accounts. They're doing this by issuing guidance to federal agencies, ensuring that legally married same-sex couples have the same access as heterosexual couples. The administration is also working on the legal aspects to ensure these benefits apply nationwide, even in states where same-sex marriage isn't recognized. President Obama and Attorney General Holder are praising this move, emphasizing equality and respect for all families.
+
+Now, I need to identify the moral foundations mentioned. 
+
+1. **Authority/Subversion**: The administration is acting against the previous law (DOMA) by expanding benefits, which is a subversion of the old authority. They're using their authority to change the policy.
+
+2. **Care/Harm**: By providing benefits, they're showing care for same-sex couples and their families, preventing the harm that comes from unequal treatment.
+
+3. **Fairness/Cheating**: The move ensures that same-sex couples are treated fairly and equally under the law, correcting the unfairness caused by DOMA.
+
+4. **Loyalty/Betrayal**: Federal employees who are in same-sex marriages can now have their loyalty recognized, and the administration is loyal to the principle of equality, betraying the old discriminatory laws.
+
+I'll structure the summary to highlight these points. I'll mention the expansion of benefits, the administration's action against DOMA, the fairness and care shown, and the loyalty to equality. I need to keep it under 200 words, so I'll be concise but cover all the necessary moral points.
+
+Let me draft the summary, ensuring each moral foundation is addressed. I'll start by stating the main action, then mention the authority aspect, followed by care and fairness, and conclude with loyalty and the administration's commitment.
+
+I should also make sure to include that the benefits apply regardless of state laws, which ties into both authority and fairness. The administration's swift action shows loyalty to the cause of equality.
+
+Finally, I'll review to ensure the summary flows well and covers all required moral dimensions without being too lengthy.
+</think>
+
+SUMMARY:  
+The Obama administration has expanded benefits for same-sex spouses of federal employees, ensuring access to health insurance, retirement accounts, and other benefits immediately following the Supreme Court’s repeal of a key provision of the Defense of Marriage Act (DOMA). This move reflects a commitment to fairness and equality, as legally married same-sex couples will now receive the same benefits as heterosexual couples. The administration’s action subverts the outdated authority of DOMA, emphasizing a shift toward treating all married couples equally under federal law. By providing these benefits regardless of state laws, the administration demonstrates loyalty to the principle of equality and care for families, ensuring that same-sex couples and their children are respected and protected. President Obama and Attorney General Eric Holder praised the decision, highlighting its importance in achieving fairness and justice for all Americans.  
+
+END OF SUMMARY.

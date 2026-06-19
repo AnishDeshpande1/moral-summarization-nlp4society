@@ -1,0 +1,32 @@
+Here are the morally framed words extracted from the news article:
+
+STEP 1:
+* betray
+* caved
+* fiscally
+* irresponsible
+* grossly
+* unfair
+* coerced
+* double-dip
+* stall
+* materialy
+* right
+* changes
+* lower
+* estate
+* heirs
+* boost
+* encourage
+* spending
+* aid
+* liberals
+* prevent
+* block
+* jammed
+* rubber-stamping
+
+SUMMARY:
+Outgoing White House economic adviser Larry Summers warned that failure to pass a new tax cut compromise would significantly raise the risk of a double-dip recession. President Obama disputed claims that he had betrayed Democrats by cutting a deal with Republicans, saying that "the more who look at it, the more will say this makes sense." However, many Democrats remain unhappy with the deal, calling it "fiscally irresponsible" and "grossly unfair." Some, like House Speaker Nancy Pelosi, are opposing the estate tax provision as "a bridge too far." Despite positive reviews from economists showing that the deal is the right thing to do, liberals are trying to prevent the bill from seeing the light of day. Vice President Biden has met with House Democrats who are resisting the deal, urging them to make changes and get it done.
+
+END OF SUMMARY.

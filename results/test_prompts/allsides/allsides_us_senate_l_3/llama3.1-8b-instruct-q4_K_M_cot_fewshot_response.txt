@@ -1,0 +1,66 @@
+Here are the results for each example:
+
+**Example 1 (Political Ideology: Left)**
+
+STEP 1:
+* lying
+* widespread
+* illegal
+* loopholes
+* forcing
+* indefinitely
+* catch
+* release
+* maximize
+* unauthorized
+* railed
+* separating
+* widespread
+
+SUMMARY:
+The House Republicans' new "compromise" immigration bill is a thinly veiled attempt to maximize the detention of asylum seekers, including parents. The bill allows children and families to be detained indefinitely in ICE centers, which would enable the Trump administration to keep them locked up until their cases are resolved or they're deported. This is a morally reprehensible move that prioritizes punishment over rehabilitation and human rights.
+
+**Example 2 (Political Ideology: Center)**
+
+STEP 1:
+* auspiciously
+* battled
+* magical
+* yelling
+* protester
+* important
+* contentious
+* lacks
+
+SUMMARY:
+The reading of the United States Constitution on the House floor was a significant event that aimed to promote accountability and adherence to the Constitution's authority. However, it was not without controversy, as Democrats and Republicans clashed over language and procedure. The decision to omit superseded portions highlighted ongoing debates about the document's relevance in modern society.
+
+**Example 3 (Political Ideology: Right)**
+
+STEP 1:
+* shame
+* hostage
+* chaos
+* ineffective
+* one-sided
+* untenable
+* bad
+* pointless
+* unacceptable
+* senseless
+* legitimate
+* reasonable
+
+SUMMARY:
+President Trump's immigration compromise package has sparked sharp reactions from lawmakers. While Democrats criticized the proposal as a "bad deal" and accused Trump of holding federal workers "hostage," Republicans praised the president for his willingness to negotiate, calling it a "reasonable" effort.
+
+**Target News Article**
+
+STEP 1:
+* catastrophic
+* harm
+* unwinding
+* healing
+
+SUMMARY:
+The First Step Act, a landmark bill aimed at reducing drug crime sentences and boosting prisoner rehabilitation efforts, has cleared the Senate in a bipartisan victory. This legislation represents a step toward "healing" for communities disproportionately affected by mass incarceration. However, critics argue that it is not perfect and will only affect a small portion of the country's prison population.

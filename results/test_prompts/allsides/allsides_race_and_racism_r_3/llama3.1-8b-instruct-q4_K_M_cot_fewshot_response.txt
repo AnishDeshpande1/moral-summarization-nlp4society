@@ -1,0 +1,37 @@
+Here is the target news article's moral word extraction and summary:
+
+STEP 1:
+* traitorous
+* destroy
+* honor
+* unworthy
+* pedestal
+* dishonest
+* prettied-up
+* flawed
+* viciously
+* flawed
+* tradition
+* lawfully
+* mob
+* action
+* shunned
+* symbol
+* direct
+* commemorations
+* human
+* cost
+* terrible
+* conflict
+* harder
+* case
+* names
+* entered
+* American
+* military
+* tradition
+* past
+* look
+
+SUMMARY:
+The controversy surrounding Confederate statues has sparked a debate about their place in American society. Critics argue that these monuments are an affront to black citizens, who shouldn't have to see defenders of chattel slavery on a pedestal. The statues were erected as part of the push to enshrine a dishonest version of the Confederacy, and they symbolize a flawed cause. While it's acceptable to learn about Confederate leaders like Robert E. Lee, big statues in prominent public spaces should be transferred elsewhere. Direct commemorations of the Confederate war dead can be preserved to mark the human cost of the conflict. The Richmond statue of Lee is set to come down, and it's time for America to reevaluate its tradition of honoring those who fought to destroy the Union.

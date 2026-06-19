@@ -1,0 +1,51 @@
+Alright, so I need to help this user who's asking for a news summary with a focus on moral framing. They provided a detailed query, so I should make sure I understand all parts of it.
+
+First, the user wants me to act as a news summarizer assistant and a moral expert. The task has two main steps. The first step is to identify all single words in the given article that are morally framed. These words should be listed with an asterisk. The second step is to write a summary preserving as many of these moral words as possible, keeping it under 200 words.
+
+I need to start by reading the provided news article carefully. The article is about President Obama addressing race relations after several incidents involving police and African Americans. He talks about optimism, the task force, gun violence, and other related issues.
+
+For the first step, I'll go through the article and pick out words that carry moral connotations. Words like "optimistic," "fatefully," "retaliating," "killing," "protests," "unarmed," "violent," "depressing," "foundation," "build," "violent crime," "decreased," "commitment," "stop," "hate crime," "motive," "sympathetically," "difficult," "margin of error," "armed," "safety," "anxiety," "down," "non-state actors," "grapple," "booster," "globalization," "danger," "inequality," "leverage," "stay."
+
+Now, for the summary, I need to condense the article while retaining the moral framing. I should mention Obama's call for optimism, the recent events, the task force, his stance on race relations not regressing, the decrease in violent crime, his commitment to gun control, the characterization of the shooters as demented, and his emphasis on addressing gun violence.
+
+I should ensure the summary is concise, captures the key points, and uses the moral words identified. I also need to keep it under 200 words. Let me structure it by starting with his call for optimism, then the events, the task force, his views on race relations, the decrease in crime, his commitment to gun control, the shooters' characterization, and the focus on gun violence.
+
+I think that covers all the necessary points while maintaining the moral framing. I'll make sure the summary flows logically and stays within the word limit.
+</think>
+
+**STEP 1:**  
+* optimistic  
+* fatally  
+* shot  
+* police officers  
+* gunman  
+* retaliating  
+* killing  
+* law-enforcement officials  
+* foundation  
+* build  
+* violent crime  
+* decreased  
+* commitment  
+* stop  
+* hate crime  
+* motives  
+* demented  
+* speak  
+* gun issue  
+* irrelevant  
+* armed  
+* safety  
+* anxiety  
+* down  
+* non-state actors  
+* grapple  
+* booster  
+* globalization  
+* danger  
+* inequality  
+* leverage  
+* stay  
+
+**SUMMARY:**  
+President Obama called for optimism amid racial tensions following the fatal shootings of two black men by police and a gunman killing five Dallas officers. He emphasized that race relations have not regressed to the 1960s and highlighted a task force to address police-community relations. Obama noted a decrease in violent crime over the past decades and renewed his commitment to reducing gun violence, calling the Dallas sniper and Orlando shooter "demented individuals" who do not represent the nation. He stressed the importance of addressing gun availability and safety, acknowledging the challenges faced by police in armed communities. Obama also discussed the complexities of military operations and Brexit, while cautioning against the dangers of globalization. END OF SUMMARY.

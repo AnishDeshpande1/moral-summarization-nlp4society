@@ -1,0 +1,41 @@
+Okay, so I need to summarize this news article about John Lewis and the events in Selma. The user wants me to focus on the moral framing, specifically the dimensions of Authority/Subversion, Care/Harm, Fairness/Cheating, and Sanctity/Degradation. 
+
+First, I'll read through the article to understand the key points. It's about the 1965 march led by John Lewis that was violently suppressed by Alabama state troopers, which became known as Bloody Sunday. This event was pivotal in the passage of the Voting Rights Act.
+
+I need to identify the morally framed words. Let me go through the text step by step.
+
+The article mentions "state-sanctioned violence," which relates to Authority/Subversion because it's about the state using force against citizens. "Brutality" and "beaten" are under Care/Harm as they describe the physical harm inflicted. "Illegal" and "Governor George C. Wallace" relate to Authority/Subversion, as the governor's orders were against the march. 
+
+"Heroic" and "freedom" tie into Care/Harm and Fairness/Cheating because they're about fighting for rights and justice. "Voting Rights Act" is a Fairness/Cheating issue as it's about equal access to voting. "Good trouble" and "redeem the soul" are under Sanctity/Degradation, emphasizing moral righteousness.
+
+Now, I'll structure the summary. It should include the main event, the moral dimensions, and the outcome. I need to use the identified moral words to frame the summary correctly.
+
+I'll start by mentioning the march and the confrontation, highlighting the state's violent response. Then, I'll connect this to the passage of the Voting Rights Act. I'll also include John Lewis's legacy and his call for action, using the moral terms to emphasize the struggle for justice.
+
+I need to ensure the summary is concise, around 200 words, and includes the key moral elements without getting bogged down in too many details. I'll focus on the authority figures, the harm caused, the fight for fairness, and the moral imperative to act.
+
+Let me put it all together, making sure to incorporate the identified moral words and maintain the moral framing throughout the summary.
+</think>
+
+STEP 1:  
+* state-sanctioned  
+* violence  
+* brutal  
+* illegal  
+* segregationist  
+* Gov.  
+* freedom  
+* hero  
+* Voting Rights Act  
+* justice  
+* beaten  
+* tear-gassed  
+* unconscious  
+* necessary  
+* good  
+* trouble  
+* redeem  
+* soul  
+
+SUMMARY:  
+John Lewis, a hero of the U.S. civil rights movement, led a peaceful voting rights march in Selma, Alabama, on March 7, 1965. The marchers were met with brutal state-sanctioned violence by Alabama state troopers, who attacked them under Gov. George C. Wallace’s orders. Lewis, who sustained a fractured skull, and other marchers were beaten, tear-gassed, and left unconscious. This confrontation, known as Bloody Sunday, shocked the nation and became a pivotal moment in the fight for justice. It led to the passage of the federal Voting Rights Act, ensuring equal access to the ballot box. Lewis, who later became a congressman, dedicated his life to the struggle for freedom and justice. His legacy remains a call to action, urging people to “get in good trouble, necessary trouble, and help redeem the soul of America.” END OF SUMMARY.

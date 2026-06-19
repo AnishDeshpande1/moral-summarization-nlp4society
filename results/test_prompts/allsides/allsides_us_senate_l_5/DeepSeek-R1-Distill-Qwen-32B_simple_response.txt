@@ -1,0 +1,14 @@
+Okay, so the user wants me to summarize a news article while preserving the moral framing. The article is about a bill regarding pay discrimination between men and women. I need to make sure the summary captures the moral perspectives of both Democrats and Republicans.
+
+First, I'll read through the article to understand the main points. Democrats are pushing the bill to ensure women aren't discriminated against in pay, while Republicans are against it, arguing it benefits trial lawyers and harms employers. There's a political angle with the election year, and both sides are using this issue for their advantage.
+
+I should highlight the moral arguments: Democrats framing it as a matter of fairness and women's rights, and Republicans countering that it's about excessive legal action and not truly addressing the issue. Also, the vote outcome and the sponsors' vows are important.
+
+I need to keep the summary concise, under 200 words. I'll structure it to mention the bill's goals, the opposing viewpoints, the vote result, and the future intentions of the sponsors. Making sure to include both sides' moral stances is crucial.
+
+I'll start by stating the bill's purpose, then move to the Democrats' stance, followed by Republicans' counterarguments. Include the vote outcome, the reaction from both parties, and the sponsor's determination to pass the bill. Keep it balanced and clear.
+
+Let me make sure I cover all key points without going over the word limit. Also, use the required tokens "SUMMARY:" and "END OF SUMMARY." at the start and end. I think that's a solid plan to create an accurate and concise summary that reflects the moral framing from both sides.
+</think>
+
+SUMMARY: A Democratic bill aimed at addressing gender-based pay discrimination was blocked by Republicans in the Senate. Democrats argued the bill would close loopholes in the 1963 Equal Pay Act, requiring employers to prove pay differences were job-performance related and allowing women to sue for discrimination. Republicans criticized the measure as politically motivated, claiming it would reward trial lawyers and harm employers. The bill failed to reach the needed 60 votes, with no Republican support. Democrats, led by President Obama and Senate Majority Leader Harry Reid, accused Republicans of ignoring the issue of women earning less than men. Republicans, including Sen. Mike Enzi, countered that the bill was overly broad and unlikely to benefit women. Moderate Republican Sen. Olympia Snowe also opposed the bill, calling it an "overreach." Senate sponsor Sen. Barbara Mikulski vowed to reintroduce the measure until it passes. The debate highlighted partisan divides over addressing pay equity. END OF SUMMARY.

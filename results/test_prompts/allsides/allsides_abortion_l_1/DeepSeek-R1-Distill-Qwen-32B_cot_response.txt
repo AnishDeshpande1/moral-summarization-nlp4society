@@ -1,0 +1,38 @@
+Alright, I need to help the user by summarizing a news article while preserving the moral framing. The user has given specific instructions, so I should follow them carefully.
+
+First, the user wants me to identify all the single words that are morally framed in the article. I'll go through the text and pick out words that carry a moral connotation. Words like "ban," "rights," "unconstitutional," "emboldened," "exploit," "oppress," "disproportionately," "harm," "racist," "discriminatory," "extreme," "outrageous," "push," "agenda," "lives," "choice," "opportunity," "access," "protest," "oppose," "restrict," "deprive," "deny," "oppress," "exploit," "harm," "racist," "discriminatory," "extreme," "outrageous," "push," "agenda," "lives," "choice," "opportunity," "access," "protest," "oppose," "restrict," "deprive," "deny," "oppress," "exploit," "harm," "racist," "discriminatory," "extreme," "outrageous," "push," "agenda," "lives," "choice," "opportunity," "access," "protest," "oppose," "restrict," "deprive," "deny." 
+
+Next, I need to write a concise summary that includes as many of these morally framed words as possible. The summary should be under 200 words and highlight the key points: the lawsuit, the law's restrictions, the intent to overturn Roe v. Wade, the impact on marginalized groups, and the ongoing legal battles.
+
+I'll start by stating that Planned Parenthood and ACLU sued Alabama over the abortion ban. Then, mention the law's severe restrictions, the intent behind it, and the ACLU's stance. Include the disproportionate impact on black and low-income individuals, the legal strategy, and the broader context of state restrictions across the US.
+
+I need to ensure the summary flows well and covers all essential points without exceeding the word limit. I'll make sure to use the morally framed words to maintain the article's tone and message.
+</think>
+
+**STEP 1:**  
+* Ban  
+* Rights  
+* Unconstitutional  
+* Emboldened  
+* Exploit  
+* Oppress  
+* Disproportionately  
+* Harm  
+* Racists  
+* Discriminatory  
+* Extreme  
+* Outrageous  
+* Push  
+* Agenda  
+* Lives  
+* Choice  
+* Opportunity  
+* Access  
+* Protest  
+* Oppose  
+* Restrict  
+* Deprive  
+* Deny  
+
+**SUMMARY:**  
+Planned Parenthood and the ACLU sued Alabama over its near-total abortion ban, which restricts abortions to cases of serious health risk, with no exceptions for rape or incest. The law, designed to challenge Roe v. Wade, criminalizes providers with up to 99 years in prison. The ACLU and Planned Parenthood argue the law is unconstitutional and disproportionately harms black and low-income communities, who make up the majority of abortion seekers in Alabama. The lawsuit aims to block the ban from taking effect, as similar restrictive laws have been introduced in other states. The fight over abortion rights continues to be a contentious issue nationwide, with advocates vowing to protect access and oppose oppressive measures. END OF SUMMARY.

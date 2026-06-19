@@ -1,0 +1,10 @@
+Here is the target news article:
+
+Cardoso says US decision on greenhouse gases is positive Brasilia, 13 (Agencia Brasil - ABr) - Today president Fernando Henrique Cardoso declared that the US decision to adopt measures to control greenhouse gases is positive, even though there was a formal decision not to ratify the Kyoto Protocol. "The United States is an important party to the convention. I hope the measures adopted domestically will have the same effect as adhering to the Kyoto Protocol," said Cardoso.
+
+STEP 1:
+* positive
+* important
+
+SUMMARY:
+President Fernando Henrique Cardoso welcomed the US decision on greenhouse gases, calling it a positive step despite the formal decision not to ratify the Kyoto Protocol. He noted that the United States is an important party to the convention and expressed hope that the measures adopted domestically will have a similar effect as adhering to the Kyoto Protocol. This move is seen as a positive development in efforts to control greenhouse gases, and Cardoso's remarks reflect his commitment to addressing climate change. The US decision has been met with hope for a more effective approach to reducing emissions, rather than a mere formal rejection of international agreements. END OF SUMMARY.

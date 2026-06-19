@@ -1,0 +1,36 @@
+STEP 1:
+* concerned
+* very concerned
+* not concerned
+* sabotage
+* hacked
+* blamed
+* orchestrating
+* undermine
+* trust
+* hyperbole
+* sway
+* deter
+* alert
+* abnormalities
+* compromise
+* discredit
+* undermine
+* legitimacy
+* cry
+* foul
+* rigged
+* disinformation
+* attacking
+* confidence
+* tampered
+* integrity
+* transparency
+* comfortable
+* heightened
+* concern
+* disrupt
+* power
+
+SUMMARY:
+The unprecedented amount of cyberattacks this campaign cycle has already had a profound impact on American democracy, with 38% of Americans concerned that the election could be hacked. The Obama administration has blamed senior Russian officials for orchestrating the breach, aiming to sway American public opinion and undermine trust in the election. Even if hackers don't compromise actual voting systems, the internet campaign to spread fear of vote hacking and manipulation may be enough to have a major impact on public trust. Experts warn that merely a credible claim of hacking could compel voters to cry foul and undermine the legitimacy of the vote. State officials are on high alert for any potential signs of tampering, and the idea of nameless, faceless hackers or foreign spies disrupting the election is a major concern. END OF SUMMARY.

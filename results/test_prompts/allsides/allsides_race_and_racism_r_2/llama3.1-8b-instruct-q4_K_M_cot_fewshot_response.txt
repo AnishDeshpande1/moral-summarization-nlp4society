@@ -1,0 +1,75 @@
+Here are the summaries for each of the three news articles:
+
+**Example 1 (Political Ideology: Left)**
+
+* false
+* untrue
+* desperate
+* attack
+* character
+* reputation
+* fake
+* hurtful
+* highest
+* guilty
+* misconduct
+
+SUMMARY:
+Alabama Republican Senate candidate Roy Moore has denied allegations of pursuing sexual relationships with teenagers, including a 14-year-old, when he was in his 30s. Moore accused The Washington Post of launching a "desperate" attack on his character and reputation to stop his political campaign. The Post's report alleged that Moore had sexual contact with the 14-year-old and pursued three other women between the ages of 16 and 18. Moore has threatened to sue The Washington Post over the report, which he claims is "hurtful" to him personally. Several Republicans have withdrawn their endorsements of Moore following the report.
+
+END OF SUMMARY.
+
+**Example 2 (Political Ideology: Center)**
+
+* unfortunate
+* destructive
+* partisanship
+* breach
+* displeasure
+* sniping
+* finger-pointing
+* weaken
+* disappointing
+* obligation
+
+SUMMARY:
+National Security Adviser Susan E. Rice sharply criticized Israeli Prime Minister Benjamin Netanyahu's plans to address Congress, saying his actions have "injected a degree of partisanship" that is "unfortunate" and "destructive of the fabric of the relationship" between the US and Israel. The controversy has damaged US-Israeli relations, with the White House calling the speech a "breach of protocol". Rice's comments marked the strongest public rebuke to date by the Obama administration.
+
+END OF SUMMARY.
+
+**Example 3 (Political Ideology: Right)**
+
+* nefarious
+* irrational
+* good
+* primary
+* law-abiding
+* moderate
+* deranged
+* soft
+* great
+* offensive
+* blessed
+* inherent
+
+SUMMARY:
+In Texas, a "good guy with a gun" stopped a potential mass murderer at the West Freeway Church of Christ. Jack Wilson, a 71-year-old congregant and security volunteer, took mere seconds to stop the shooter. This incident highlights the importance of allowing law-abiding citizens to carry guns in places of worship.
+
+END OF SUMMARY.
+
+**Target News Article**
+
+* nefarious
+* irrational
+* violent
+* anarchy
+* destruction
+* coercion
+* threat
+* public safety
+* rule of law
+
+SUMMARY:
+Attorney General William Barr has established a task force aiming to put a halt to "violent anti-government extremists" who seek to undermine the "rule of law" and threaten "public safety". The task force will provide training and resources to local law enforcement in an effort to arrest perpetrators of violence. It will also work closely with the FBI to develop detailed information about violent anti-government extremist individuals, networks, and movements.
+
+END OF SUMMARY.
